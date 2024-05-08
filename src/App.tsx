@@ -1,5 +1,7 @@
+import Layout from "./pages/Layout";
+
 function App() {
-  return <div className="text-4xl text-center my-4">Cricbuzz Clone</div>;
+  return <Layout />;
 }
 
 export default App;
