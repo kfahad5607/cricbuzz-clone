@@ -1,5 +1,3 @@
-import React from "react";
-
 const OverSummary = () => {
   return (
     <div className="bg-gray-200 pt-6 pb-3 my-5 text-xs">

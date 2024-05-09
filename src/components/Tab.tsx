@@ -19,7 +19,7 @@ const tabs = [
 ];
 
 const Tab = () => {
-  const [selectedTabIdx, setSelectedTabIdx] = useState(0);
+  const [selectedTabIdx, setSelectedTabIdx] = useState(1);
 
   const selectedTab = tabs[selectedTabIdx];
 
@@ -30,17 +30,17 @@ const Tab = () => {
           <div
             key={tabIdx}
             onClick={() => setSelectedTabIdx(tabIdx)}
-            className={`font-bold cursor-pointer mr-3 py-1 ${
+            className={`font-bold cursor-pointer mr-4 py-1 border-b-4 ${
               tabIdx === selectedTabIdx
-                ? "border-b-4 border-green-700 text-green-700"
-                : "text-gray-600"
+                ? "border-green-700 text-green-700"
+                : "border-transparent text-gray-600"
             }`}
           >
             {tab.title}
           </div>
         ))}
       </div>
-      <div className="py-3">{selectedTab.element}</div>
+      <div className="py-3 w-3/5">{selectedTab.element}</div>
     </div>
   );
 };
