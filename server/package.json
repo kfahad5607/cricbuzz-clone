@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npx tsc",
     "start": "tsc && node dist/index.js",
-    "dev": "concurrently \"tsc --watch\" \"nodemon dist/src/index.js\""
+    "dev": "concurrently \"tsc --watch\" \"nodemon dist/index.js\""
   },
   "author": "Fahad Khan",
   "license": "ISC",

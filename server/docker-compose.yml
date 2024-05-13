@@ -1,15 +1,28 @@
-version: '3.8'
-
 services:
-  db:
+  postgres:
     image: postgres:16.3-bullseye
     container_name: postgres-db
-    restart: unless-stopped
+    restart: always
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: postgres
       POSTGRES_DB: cricbuzz
     volumes:
-      - ./postgres-data:/var/lib/postgresql/data
+      - cricbuzz-postgres-data:/var/lib/postgresql/data
     ports:
       - "5432:5432"
+  mongo:
+    image: mongo:7.0.10-rc0-jammy
+    container_name: mongo-db
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: mongo
+      MONGO_INITDB_ROOT_PASSWORD: mongo
+    volumes:
+      - cricbuzz-mongo-data:/data/db
+    ports:
+      - "27017:27017"
+      
+volumes:
+  cricbuzz-postgres-data:
+  cricbuzz-mongo-data:
