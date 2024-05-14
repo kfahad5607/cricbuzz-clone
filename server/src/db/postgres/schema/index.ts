@@ -1,11 +1,9 @@
 import {
   bigint,
   bigserial,
-  date,
   jsonb,
   pgEnum,
   pgTable,
-  serial,
   smallint,
   smallserial,
   timestamp,
@@ -13,6 +11,11 @@ import {
 } from "drizzle-orm/pg-core";
 
 export const matchFormatEnum = pgEnum("match_format", ["test", "odi", "t20"]);
+export const matchTypeEnum = pgEnum("match_type", [
+  "international",
+  "league",
+  "domestic",
+]);
 
 export const series = pgTable("series", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
@@ -25,6 +28,7 @@ export const matches = pgTable("matches", {
   title: varchar("title", { length: 255 }).notNull(),
   slug: varchar("slug", { length: 255 }).notNull().unique(),
   matchFormat: matchFormatEnum("match_format"),
+  matchType: matchTypeEnum("match_type"),
   matchNumber: smallint("match_number"),
   homeTeam: bigint("home_team", { mode: "number" }).references(() => teams.id),
   awayTeam: bigint("away_team", { mode: "number" }).references(() => teams.id),
@@ -40,9 +44,10 @@ export const innings = pgTable("innings", {
 
 export const venues = pgTable("venues", {
   id: smallserial("id").primaryKey(),
-  title: varchar("title", { length: 100 }).notNull(),
+  name: varchar("name", { length: 100 }).notNull(),
   slug: varchar("slug", { length: 100 }).notNull().unique(),
-  location: varchar("title", { length: 100 }).notNull(),
+  city: varchar("city", { length: 100 }).notNull(),
+  country: varchar("country", { length: 100 }).notNull(),
 });
 
 export const squads = pgTable("squads", {
@@ -51,8 +56,9 @@ export const squads = pgTable("squads", {
 
 export const teams = pgTable("teams", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
-  title: varchar("title", { length: 100 }).notNull(),
   slug: varchar("slug", { length: 100 }).notNull().unique(),
+  name: varchar("name", { length: 100 }).notNull(),
+  shortName: varchar("short_name", { length: 5 }).notNull(),
 });
 
 export const players = pgTable("players", {
@@ -60,7 +66,7 @@ export const players = pgTable("players", {
   name: varchar("name", { length: 100 }),
   shortName: varchar("short_name", { length: 50 }),
   slug: varchar("slug", { length: 100 }),
+  team: bigint("team", { mode: "number" }).references(() => teams.id),
   roleInfo: jsonb("role_info"),
-  country: varchar("country", { length: 50 }),
-  birthDate: date("birth_date"),
+  personalInfo: jsonb("personal_info"),
 });

@@ -25,6 +25,4 @@ dist-ssr
 
 # common
 .env
-
-# server
-postgres-data
+playground/
