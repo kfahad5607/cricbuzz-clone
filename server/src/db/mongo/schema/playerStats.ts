@@ -1,9 +1,5 @@
 import { Schema, model } from "mongoose";
-
-const PositiveNumberType = {
-  type: Number,
-  min: 0,
-};
+import { PositiveNumberType } from "../schemaTypes";
 
 const battingStatsSchema = new Schema({
   innings: PositiveNumberType,
