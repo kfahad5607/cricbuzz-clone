@@ -43,11 +43,26 @@ const scorecardBowlerSchema = new Schema({
   bowlNoBalls: PositiveNumberType,
 });
 
+const extraBallsSchema = new Schema({
+  nos: PositiveNumberType,
+  wides: PositiveNumberType,
+  legByes: PositiveNumberType,
+  byes: PositiveNumberType,
+  penalties: PositiveNumberType,
+});
+
 const scorecardSchema = new Schema({
   innings: [
     new Schema({
+      overs: PositiveNumberType,
+      oversBowled: PositiveNumberType,
+      score: PositiveNumberType,
+      wickets: PositiveNumberType,
+      isDeclared: Boolean,
+      isFollowOn: Boolean,
       batters: [scorecardBatterSchema],
       bowlers: [scorecardBowlerSchema],
+      extras: extraBallsSchema,
     }),
   ],
 });
