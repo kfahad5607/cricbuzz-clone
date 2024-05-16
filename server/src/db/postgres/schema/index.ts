@@ -9,23 +9,34 @@ import {
   timestamp,
   varchar,
 } from "drizzle-orm/pg-core";
+import { MatchResultsType, TossResultsType } from "../types";
 
-export const matchFormatEnum = pgEnum("match_format", ["test", "odi", "t20"]);
-export const matchTypeEnum = pgEnum("match_type", [
+export const matchFormatEnum = pgEnum("matchFormat", ["test", "odi", "t20"]);
+
+export const matchTypeEnum = pgEnum("matchType", [
   "international",
   "league",
   "domestic",
 ]);
 
+export const matchStateEnum = pgEnum("matchState", [
+  "preview",
+  "delay",
+  "complete",
+  "abandon",
+]);
+
 export const series = pgTable("series", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
   title: varchar("title", { length: 255 }).notNull().unique(),
+  description: varchar("description", { length: 150 }).notNull(),
   slug: varchar("slug", { length: 255 }).notNull().unique(),
 });
 
 export const matches = pgTable("matches", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
   title: varchar("title", { length: 255 }).notNull(),
+  description: varchar("description", { length: 200 }).notNull(),
   slug: varchar("slug", { length: 255 }).notNull().unique(),
   matchFormat: matchFormatEnum("match_format"),
   matchType: matchTypeEnum("match_type"),
@@ -35,6 +46,14 @@ export const matches = pgTable("matches", {
   series: bigint("series", { mode: "number" }).references(() => series.id),
   venue: smallint("venue").references(() => venues.id),
   startTime: timestamp("start_time", { precision: 3, withTimezone: true }),
+  state: matchStateEnum("match_state"),
+  status: varchar("status", { length: 200 }),
+  tossResults: jsonb("toss_results")
+    .$type<TossResultsType>()
+    .default({ decision: "" }),
+  results: jsonb("results")
+    .$type<MatchResultsType>()
+    .default({ resultType: "", winByInnings: false, winByRuns: false }),
 });
 
 export const innings = pgTable("innings", {
