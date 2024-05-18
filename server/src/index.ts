@@ -1,11 +1,14 @@
 import express, { Express, Request, Response } from "express";
 import mongoose from "mongoose";
-import dotenv from "dotenv";
-dotenv.config();
+import config from "./config";
+import { notFound, errorHandler } from "./middlewares";
+import SeriesRouter from "./routes/series";
 import MatchesRouter from "./routes/matches";
 
 const app: Express = express();
-const port = process.env.PORT || 8000;
+const port = config.PORT;
+
+app.use(express.json());
 
 app.get("/", async (req: Request, res: Response) => {
   try {
@@ -19,12 +22,16 @@ app.get("/", async (req: Request, res: Response) => {
   }
 });
 
+app.use("/series", SeriesRouter);
 app.use("/matches", MatchesRouter);
+
+app.use(notFound);
+app.use(errorHandler);
 
 async function main() {
   try {
     console.log("Connecting to MongoDB");
-    await mongoose.connect(process.env.MONGO_DB_URL as string);
+    await mongoose.connect(config.MONGO_DB_URL);
     console.log("Connected to MongoDB successfully! ");
 
     app.listen(port, () => {
