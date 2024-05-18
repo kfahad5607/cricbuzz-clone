@@ -5,7 +5,7 @@ const router = express.Router();
 
 router.get("/", async (req, res) => {
   try {
-    const result = await db.query.matches.findMany();
+    // const result = await db.query.matches.findMany();
     return res.send("Matches");
   } catch (error) {
     return res.json({
