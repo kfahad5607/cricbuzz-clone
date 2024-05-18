@@ -14,7 +14,8 @@ const squadPlayerSchema = new Schema({
   isForeignPlayer: Boolean,
 });
 
-const squadsSchema = new Schema({
+const matchSquadsSchema = new Schema({
+  matchId: DBIdType,
   teams: [
     new Schema({
       teamId: DBIdType,
@@ -23,6 +24,6 @@ const squadsSchema = new Schema({
   ],
 });
 
-const Squads = model("Squad", squadsSchema);
+const MatchSquads = model("MatchSquad", matchSquadsSchema);
 
-export default Squads;
+export default MatchSquads;

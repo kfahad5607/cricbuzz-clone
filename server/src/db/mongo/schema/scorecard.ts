@@ -54,6 +54,7 @@ const extraBallsSchema = new Schema({
 const scorecardSchema = new Schema({
   innings: [
     new Schema({
+      teamId: DBIdType,
       overs: PositiveNumberType,
       oversBowled: PositiveNumberType,
       score: PositiveNumberType,
