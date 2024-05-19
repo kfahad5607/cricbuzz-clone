@@ -2,6 +2,7 @@ import express, { Express, Request, Response } from "express";
 import mongoose from "mongoose";
 import config from "./config";
 import { notFound, errorHandler } from "./middlewares";
+import VenuesRouter from "./routes/venues";
 import SeriesRouter from "./routes/series";
 import MatchesRouter from "./routes/matches";
 
@@ -22,6 +23,7 @@ app.get("/", async (req: Request, res: Response) => {
   }
 });
 
+app.use("/venues", VenuesRouter);
 app.use("/series", SeriesRouter);
 app.use("/matches", MatchesRouter);
 
