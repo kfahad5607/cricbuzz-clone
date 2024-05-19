@@ -3,6 +3,7 @@ import mongoose from "mongoose";
 import config from "./config";
 import { notFound, errorHandler } from "./middlewares";
 import VenuesRouter from "./routes/venues";
+import TeamsRouter from "./routes/teams";
 import SeriesRouter from "./routes/series";
 import MatchesRouter from "./routes/matches";
 
@@ -23,6 +24,7 @@ app.get("/", async (req: Request, res: Response) => {
   }
 });
 
+app.use("/teams", TeamsRouter);
 app.use("/venues", VenuesRouter);
 app.use("/series", SeriesRouter);
 app.use("/matches", MatchesRouter);

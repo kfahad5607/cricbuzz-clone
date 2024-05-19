@@ -85,7 +85,7 @@ export const squads = pgTable("squads", {
 export const teams = pgTable("teams", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
   slug: varchar("slug", { length: 100 }).notNull().unique(),
-  name: varchar("name", { length: 100 }).notNull(),
+  name: varchar("name", { length: 100 }).notNull().unique(),
   shortName: varchar("short_name", { length: 5 }).notNull(),
 });
 
