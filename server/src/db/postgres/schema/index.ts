@@ -9,22 +9,18 @@ import {
   timestamp,
   varchar,
 } from "drizzle-orm/pg-core";
-import { MatchResultsType, TossResultsType } from "../types";
+import {
+  MATCH_FORMATS,
+  MATCH_STATES,
+  MATCH_TYPES,
+} from "../../../helpers/constants";
+import { MatchResults, MatchTossResults } from "../../../types";
 
-export const matchFormatEnum = pgEnum("matchFormat", ["test", "odi", "t20"]);
+export const matchFormatEnum = pgEnum("matchFormat", MATCH_FORMATS);
 
-export const matchTypeEnum = pgEnum("matchType", [
-  "international",
-  "league",
-  "domestic",
-]);
+export const matchTypeEnum = pgEnum("matchType", MATCH_TYPES);
 
-export const matchStateEnum = pgEnum("matchState", [
-  "preview",
-  "delay",
-  "complete",
-  "abandon",
-]);
+export const matchStateEnum = pgEnum("matchState", MATCH_STATES);
 
 export const series = pgTable("series", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
@@ -38,22 +34,35 @@ export const matches = pgTable("matches", {
   title: varchar("title", { length: 255 }).notNull(),
   description: varchar("description", { length: 200 }).notNull(),
   slug: varchar("slug", { length: 255 }).notNull().unique(),
-  matchFormat: matchFormatEnum("match_format"),
-  matchType: matchTypeEnum("match_type"),
-  matchNumber: smallint("match_number"),
-  homeTeam: bigint("home_team", { mode: "number" }).references(() => teams.id),
-  awayTeam: bigint("away_team", { mode: "number" }).references(() => teams.id),
-  series: bigint("series", { mode: "number" }).references(() => series.id),
-  venue: smallint("venue").references(() => venues.id),
-  startTime: timestamp("start_time", { precision: 3, withTimezone: true }),
-  state: matchStateEnum("match_state"),
-  status: varchar("status", { length: 200 }),
+  matchFormat: matchFormatEnum("match_format").notNull(),
+  matchType: matchTypeEnum("match_type").notNull(),
+  matchNumber: smallint("match_number").default(1).notNull(),
+  homeTeam: bigint("home_team", { mode: "number" })
+    .references(() => teams.id)
+    .notNull(),
+  awayTeam: bigint("away_team", { mode: "number" })
+    .references(() => teams.id)
+    .notNull(),
+  series: bigint("series", { mode: "number" })
+    .references(() => series.id)
+    .notNull(),
+  venue: smallint("venue")
+    .references(() => venues.id)
+    .notNull(),
+  startTime: timestamp("start_time", {
+    precision: 3,
+    withTimezone: true,
+  }).notNull(),
+  state: matchStateEnum("match_state").notNull(),
+  status: varchar("status", { length: 200 }).default("").notNull(),
   tossResults: jsonb("toss_results")
-    .$type<TossResultsType>()
-    .default({ decision: "" }),
+    .$type<MatchTossResults>()
+    .default({})
+    .notNull(),
   results: jsonb("results")
-    .$type<MatchResultsType>()
-    .default({ resultType: "", winByInnings: false, winByRuns: false }),
+    .$type<MatchResults>()
+    .default({ winByInnings: false, winByRuns: false })
+    .notNull(),
 });
 
 export const innings = pgTable("innings", {

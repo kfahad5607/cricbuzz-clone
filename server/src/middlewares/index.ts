@@ -1,10 +1,10 @@
 import { NextFunction, Request, Response } from "express";
-import { AnyZodObject, ZodError } from "zod";
+import { ZodError, ZodSchema } from "zod";
 
 interface RequestValidators {
-  params?: AnyZodObject;
-  body?: AnyZodObject;
-  query?: AnyZodObject;
+  params?: ZodSchema;
+  body?: ZodSchema;
+  query?: ZodSchema;
 }
 
 interface MessageResponse {
@@ -16,23 +16,21 @@ interface ErrorResponse extends MessageResponse {
 }
 
 export function validateRequest(validators: RequestValidators) {
-  return (req: Request, res: Response, next: NextFunction) => {
+  return async (req: Request, res: Response, next: NextFunction) => {
     try {
       if (validators.params) {
-        req.params = validators.params.parse(req.params);
+        req.params = await validators.params.parseAsync(req.params);
       }
       if (validators.body) {
-        req.body = validators.body.parse(req.body);
+        req.body = await validators.body.parseAsync(req.body);
       }
       if (validators.query) {
-        req.query = validators.query.parse(req.query);
+        req.query = await validators.query.parseAsync(req.query);
       }
 
       next();
     } catch (err) {
       if (err instanceof Error) {
-        console.log("ZodError ", err.message);
-
         if (err instanceof ZodError) res.status(422);
         next(err);
       }
@@ -52,7 +50,7 @@ export function errorHandler(
   res: Response<ErrorResponse>,
   next: NextFunction
 ) {
-  console.log("errorHandler: ", err);
+  console.log("errorHandler: ", err.message);
 
   const statusCode = res.statusCode !== 200 ? res.statusCode : 500;
   res.status(statusCode);
