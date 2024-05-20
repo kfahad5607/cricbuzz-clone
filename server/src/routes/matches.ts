@@ -1,18 +1,49 @@
 import express from "express";
-import { db } from "../db/postgres";
+import {
+  createOne,
+  deleteOne,
+  getAll,
+  getOne,
+  updateOne,
+} from "../controllers/matches";
+import { validateRequest } from "../middlewares";
+import { MatchOptional, NewMatch, ParamsWithNumId } from "../types";
 
 const router = express.Router();
 
-router.get("/", async (req, res) => {
-  try {
-    // const result = await db.query.matches.findMany();
-    return res.send("Matches");
-  } catch (error) {
-    return res.json({
-      status: "fail",
-      error,
-    });
-  }
-});
+router.get("/", getAll);
+
+router.get(
+  "/:id",
+  validateRequest({
+    params: ParamsWithNumId,
+  }),
+  getOne
+);
+
+router.post(
+  "/",
+  validateRequest({
+    body: NewMatch,
+  }),
+  createOne
+);
+
+router.patch(
+  "/:id",
+  validateRequest({
+    params: ParamsWithNumId,
+    body: MatchOptional,
+  }),
+  updateOne
+);
+
+router.delete(
+  "/:id",
+  validateRequest({
+    params: ParamsWithNumId,
+  }),
+  deleteOne
+);
 
 export default router;

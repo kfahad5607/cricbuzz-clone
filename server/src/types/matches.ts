@@ -21,13 +21,6 @@ const MatchTossResults = z.object({
 });
 
 export const NewMatch = z.object({
-  title: z
-    .string({
-      required_error: "Title is required.",
-      invalid_type_error: "Expected string.",
-    })
-    .min(5)
-    .max(255),
   description: z
     .string({
       required_error: "Description is required.",
