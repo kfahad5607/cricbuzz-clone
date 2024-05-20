@@ -6,6 +6,7 @@ import VenuesRouter from "./routes/venues";
 import TeamsRouter from "./routes/teams";
 import SeriesRouter from "./routes/series";
 import MatchesRouter from "./routes/matches";
+import PlayersRouter from "./routes/players";
 
 const app: Express = express();
 const port = config.PORT;
@@ -28,6 +29,7 @@ app.use("/teams", TeamsRouter);
 app.use("/venues", VenuesRouter);
 app.use("/series", SeriesRouter);
 app.use("/matches", MatchesRouter);
+app.use("/players", PlayersRouter);
 
 app.use(notFound);
 app.use(errorHandler);

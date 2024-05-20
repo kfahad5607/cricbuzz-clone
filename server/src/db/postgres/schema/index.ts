@@ -14,7 +14,12 @@ import {
   MATCH_STATES,
   MATCH_TYPES,
 } from "../../../helpers/constants";
-import { MatchResults, MatchTossResults } from "../../../types";
+import {
+  MatchResults,
+  MatchTossResults,
+  PersonalInfo,
+  RoleInfo,
+} from "../../../types";
 
 export const matchFormatEnum = pgEnum("matchFormat", MATCH_FORMATS);
 
@@ -90,10 +95,12 @@ export const teams = pgTable("teams", {
 
 export const players = pgTable("players", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
-  name: varchar("name", { length: 100 }),
-  shortName: varchar("short_name", { length: 50 }),
-  slug: varchar("slug", { length: 100 }),
-  team: bigint("team", { mode: "number" }).references(() => teams.id),
-  roleInfo: jsonb("role_info"),
-  personalInfo: jsonb("personal_info"),
+  name: varchar("name", { length: 100 }).notNull(),
+  shortName: varchar("short_name", { length: 50 }).notNull(),
+  slug: varchar("slug", { length: 100 }).notNull(),
+  team: bigint("team", { mode: "number" })
+    .references(() => teams.id)
+    .notNull(),
+  roleInfo: jsonb("role_info").$type<RoleInfo>().notNull(),
+  personalInfo: jsonb("personal_info").$type<PersonalInfo>().notNull(),
 });
