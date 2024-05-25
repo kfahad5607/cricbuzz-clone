@@ -6,6 +6,8 @@ import {
   MATCH_TYPES,
   TOSS_DECISIONS_VALUES,
 } from "../helpers/constants";
+import { Series } from "./series";
+import { Team } from "./teams";
 
 const MatchResults = z.object({
   resultType: z.enum(MATCH_RESULT_TYPES_VALUES).optional(),
@@ -52,9 +54,20 @@ export const MatchWithId = Match.extend({
   id: z.number().positive(),
 });
 
+// infered types
 export type MatchResults = z.infer<typeof MatchResults>;
 export type MatchTossResults = z.infer<typeof MatchTossResults>;
 export type NewMatch = z.infer<typeof NewMatch>;
 export type Match = z.infer<typeof Match>;
 export type MatchOptional = z.infer<typeof MatchOptional>;
 export type MatchWithId = z.infer<typeof MatchWithId>;
+
+// manual types
+export type MatchCard = Pick<
+  MatchWithId,
+  "id" | "slug" | "description" | "matchFormat" | "status" | "startTime"
+> & {
+  series: Pick<Series, "title">;
+  homeTeam: Pick<Team, "name" | "shortName">;
+  awayTeam: Pick<Team, "name" | "shortName">;
+};

@@ -20,6 +20,7 @@ import {
   PersonalInfo,
   RoleInfo,
 } from "../../../types";
+import { relations } from "drizzle-orm";
 
 export const matchFormatEnum = pgEnum("matchFormat", MATCH_FORMATS);
 
@@ -56,6 +57,7 @@ export const matches = pgTable("matches", {
   startTime: timestamp("start_time", {
     precision: 3,
     withTimezone: true,
+    mode: "date",
   }).notNull(),
   state: matchStateEnum("match_state").notNull(),
   status: varchar("status", { length: 200 }).default("").notNull(),
@@ -104,3 +106,30 @@ export const players = pgTable("players", {
   roleInfo: jsonb("role_info").$type<RoleInfo>().notNull(),
   personalInfo: jsonb("personal_info").$type<PersonalInfo>().notNull(),
 });
+
+// relations
+export const matchesRelations = relations(matches, ({ one }) => ({
+  series: one(series, {
+    fields: [matches.series],
+    references: [series.id],
+  }),
+  homeTeam: one(teams, {
+    fields: [matches.homeTeam],
+    references: [teams.id],
+    relationName: "homeTeam",
+  }),
+  awayTeam: one(teams, {
+    fields: [matches.awayTeam],
+    references: [teams.id],
+    relationName: "awayTeam",
+  }),
+}));
+
+export const seriesRelations = relations(series, ({ many }) => ({
+  matches: many(matches),
+}));
+
+export const teamsRelations = relations(teams, ({ many }) => ({
+  homeTeam: many(matches, { relationName: "homeTeam" }),
+  awayTeam: many(matches, { relationName: "awayTeam" }),
+}));

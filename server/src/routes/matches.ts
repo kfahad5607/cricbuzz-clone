@@ -4,6 +4,7 @@ import {
   deleteOne,
   getAll,
   getOne,
+  getRecentMatches,
   updateOne,
 } from "../controllers/matches";
 import { validateRequest } from "../middlewares";
@@ -11,6 +12,10 @@ import { MatchOptional, NewMatch, ParamsWithNumId } from "../types";
 
 const router = express.Router();
 
+// public endpoints
+router.get("/recent", getRecentMatches);
+
+// private endpoints
 router.get("/", getAll);
 
 router.get(

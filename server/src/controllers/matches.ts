@@ -5,6 +5,7 @@ import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import {
   Match,
+  MatchCard,
   MatchOptional,
   MatchWithId,
   NewMatch,
@@ -174,6 +175,49 @@ export async function deleteOne(
     await db.delete(tables.matches).where(eq(tables.matches.id, id));
 
     res.status(204).end();
+  } catch (err) {
+    next(err);
+  }
+}
+
+// public
+export async function getRecentMatches(
+  req: Request,
+  res: Response<MatchCard[]>,
+  next: NextFunction
+) {
+  try {
+    const results = await db.query.matches.findMany({
+      columns: {
+        id: true,
+        slug: true,
+        description: true,
+        matchFormat: true,
+        startTime: true,
+        status: true,
+      },
+      with: {
+        series: {
+          columns: {
+            title: true,
+          },
+        },
+        homeTeam: {
+          columns: {
+            name: true,
+            shortName: true,
+          },
+        },
+        awayTeam: {
+          columns: {
+            name: true,
+            shortName: true,
+          },
+        },
+      },
+    });
+
+    res.status(200).json(results);
   } catch (err) {
     next(err);
   }
