@@ -1,4 +1,5 @@
 import express, { Express, Request, Response } from "express";
+import cors from "cors";
 import mongoose from "mongoose";
 import config from "./config";
 import { notFound, errorHandler } from "./middlewares";
@@ -11,6 +12,7 @@ import PlayersRouter from "./routes/players";
 const app: Express = express();
 const port = config.PORT;
 
+app.use(cors());
 app.use(express.json());
 
 app.get("/", async (req: Request, res: Response) => {
