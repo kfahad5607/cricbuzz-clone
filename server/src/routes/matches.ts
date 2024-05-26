@@ -4,7 +4,7 @@ import {
   deleteOne,
   getAll,
   getOne,
-  getRecentMatches,
+  getCurrentMatches,
   updateOne,
 } from "../controllers/matches";
 import { validateRequest } from "../middlewares";
@@ -13,7 +13,7 @@ import { MatchOptional, NewMatch, ParamsWithNumId } from "../types";
 const router = express.Router();
 
 // public endpoints
-router.get("/recent", getRecentMatches);
+router.get("/current", getCurrentMatches);
 
 // private endpoints
 router.get("/", getAll);

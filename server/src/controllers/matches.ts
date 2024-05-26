@@ -181,7 +181,7 @@ export async function deleteOne(
 }
 
 // public
-export async function getRecentMatches(
+export async function getCurrentMatches(
   req: Request,
   res: Response<MatchCard[]>,
   next: NextFunction
