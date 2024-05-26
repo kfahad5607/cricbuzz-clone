@@ -3,11 +3,11 @@ import slugify from "slugify";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import {
-  ParamsWithNumId,
   NewSeries,
   Series,
   SeriesOptional,
   SeriesWithId,
+  getValidationType,
 } from "../types";
 import { eq } from "drizzle-orm";
 
@@ -26,7 +26,7 @@ export async function getAll(
 }
 
 export async function getOne(
-  req: Request<ParamsWithNumId, SeriesWithId>,
+  req: Request<getValidationType<{ id: "DatabaseIntId" }>, SeriesWithId>,
   res: Response,
   next: NextFunction
 ) {
@@ -73,7 +73,11 @@ export async function createOne(
 }
 
 export async function updateOne(
-  req: Request<ParamsWithNumId, SeriesWithId, SeriesOptional>,
+  req: Request<
+    getValidationType<{ id: "DatabaseIntId" }>,
+    SeriesWithId,
+    SeriesOptional
+  >,
   res: Response,
   next: NextFunction
 ) {
@@ -107,7 +111,7 @@ export async function updateOne(
 }
 
 export async function deleteOne(
-  req: Request<ParamsWithNumId>,
+  req: Request<getValidationType<{ id: "DatabaseIntId" }>>,
   res: Response,
   next: NextFunction
 ) {

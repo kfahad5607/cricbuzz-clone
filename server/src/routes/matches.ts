@@ -8,7 +8,7 @@ import {
   updateOne,
 } from "../controllers/matches";
 import { validateRequest } from "../middlewares";
-import { MatchOptional, NewMatch, ParamsWithNumId } from "../types";
+import { MatchOptional, NewMatch, getValidationSchema } from "../types";
 
 const router = express.Router();
 
@@ -21,7 +21,9 @@ router.get("/", getAll);
 router.get(
   "/:id",
   validateRequest({
-    params: ParamsWithNumId,
+    params: getValidationSchema({
+      id: "DatabaseIntId",
+    }),
   }),
   getOne
 );
@@ -37,7 +39,9 @@ router.post(
 router.patch(
   "/:id",
   validateRequest({
-    params: ParamsWithNumId,
+    params: getValidationSchema({
+      id: "DatabaseIntId",
+    }),
     body: MatchOptional,
   }),
   updateOne
@@ -46,7 +50,9 @@ router.patch(
 router.delete(
   "/:id",
   validateRequest({
-    params: ParamsWithNumId,
+    params: getValidationSchema({
+      id: "DatabaseIntId",
+    }),
   }),
   deleteOne
 );

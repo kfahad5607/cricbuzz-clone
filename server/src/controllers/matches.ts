@@ -9,10 +9,11 @@ import {
   MatchOptional,
   MatchWithId,
   NewMatch,
-  ParamsWithNumId,
+  getValidationType,
 } from "../types";
 import { PgColumn } from "drizzle-orm/pg-core";
 import { isObjEmpty } from "../helpers";
+import MatchSquads from "../db/mongo/schema/matchSquad";
 
 const SLUG_INPUT_KEYS = [
   "awayTeam",
@@ -65,7 +66,7 @@ export async function getAll(
 }
 
 export async function getOne(
-  req: Request<ParamsWithNumId, MatchWithId>,
+  req: Request<getValidationType<{ id: "DatabaseIntId" }>, MatchWithId>,
   res: Response,
   next: NextFunction
 ) {
@@ -112,7 +113,11 @@ export async function createOne(
 }
 
 export async function updateOne(
-  req: Request<ParamsWithNumId, MatchWithId, MatchOptional>,
+  req: Request<
+    getValidationType<{ id: "DatabaseIntId" }>,
+    MatchWithId,
+    MatchOptional
+  >,
   res: Response,
   next: NextFunction
 ) {
@@ -165,7 +170,7 @@ export async function updateOne(
 }
 
 export async function deleteOne(
-  req: Request<ParamsWithNumId>,
+  req: Request<getValidationType<{ id: "DatabaseIntId" }>>,
   res: Response,
   next: NextFunction
 ) {

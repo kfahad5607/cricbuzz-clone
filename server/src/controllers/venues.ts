@@ -4,11 +4,11 @@ import slugify from "slugify";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import {
-  ParamsWithNumId,
   NewVenue,
   Venue,
   VenueOptional,
   VenueWithId,
+  getValidationType,
 } from "../types";
 
 export async function getAll(
@@ -26,7 +26,7 @@ export async function getAll(
 }
 
 export async function getOne(
-  req: Request<ParamsWithNumId, VenueWithId>,
+  req: Request<getValidationType<{ id: "DatabaseIntId" }>, VenueWithId>,
   res: Response,
   next: NextFunction
 ) {
@@ -73,7 +73,11 @@ export async function createOne(
 }
 
 export async function updateOne(
-  req: Request<ParamsWithNumId, VenueWithId, VenueOptional>,
+  req: Request<
+    getValidationType<{ id: "DatabaseIntId" }>,
+    VenueWithId,
+    VenueOptional
+  >,
   res: Response,
   next: NextFunction
 ) {
@@ -107,7 +111,7 @@ export async function updateOne(
 }
 
 export async function deleteOne(
-  req: Request<ParamsWithNumId>,
+  req: Request<getValidationType<{ id: "DatabaseIntId" }>>,
   res: Response,
   next: NextFunction
 ) {

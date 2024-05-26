@@ -7,7 +7,7 @@ import {
   updateOne,
 } from "../controllers/players";
 import { validateRequest } from "../middlewares";
-import { NewPlayer, ParamsWithNumId, PlayerOptional } from "../types";
+import { NewPlayer, PlayerOptional, getValidationSchema } from "../types";
 
 const router = express.Router();
 
@@ -16,7 +16,9 @@ router.get("/", getAll);
 router.get(
   "/:id",
   validateRequest({
-    params: ParamsWithNumId,
+    params: getValidationSchema({
+      id: "DatabaseIntId",
+    }),
   }),
   getOne
 );
@@ -32,7 +34,9 @@ router.post(
 router.patch(
   "/:id",
   validateRequest({
-    params: ParamsWithNumId,
+    params: getValidationSchema({
+      id: "DatabaseIntId",
+    }),
     body: PlayerOptional,
   }),
   updateOne
@@ -41,7 +45,9 @@ router.patch(
 router.delete(
   "/:id",
   validateRequest({
-    params: ParamsWithNumId,
+    params: getValidationSchema({
+      id: "DatabaseIntId",
+    }),
   }),
   deleteOne
 );

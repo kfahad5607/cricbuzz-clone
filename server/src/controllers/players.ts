@@ -5,10 +5,10 @@ import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import {
   NewPlayer,
-  ParamsWithNumId,
   Player,
   PlayerOptional,
   PlayerWithId,
+  getValidationType,
 } from "../types";
 
 export async function getAll(
@@ -26,7 +26,7 @@ export async function getAll(
 }
 
 export async function getOne(
-  req: Request<ParamsWithNumId, PlayerWithId>,
+  req: Request<getValidationType<{ id: "DatabaseIntId" }>, PlayerWithId>,
   res: Response,
   next: NextFunction
 ) {
@@ -75,7 +75,11 @@ export async function createOne(
 }
 
 export async function updateOne(
-  req: Request<ParamsWithNumId, PlayerWithId, PlayerOptional>,
+  req: Request<
+    getValidationType<{ id: "DatabaseIntId" }>,
+    PlayerWithId,
+    PlayerOptional
+  >,
   res: Response,
   next: NextFunction
 ) {
@@ -107,7 +111,7 @@ export async function updateOne(
 }
 
 export async function deleteOne(
-  req: Request<ParamsWithNumId>,
+  req: Request<getValidationType<{ id: "DatabaseIntId" }>>,
   res: Response,
   next: NextFunction
 ) {

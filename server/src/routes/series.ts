@@ -7,7 +7,7 @@ import {
   updateOne,
 } from "../controllers/series";
 import { validateRequest } from "../middlewares";
-import { NewSeries, ParamsWithNumId, Series, SeriesOptional } from "../types";
+import { NewSeries, SeriesOptional, getValidationSchema } from "../types";
 
 const router: Router = express.Router();
 
@@ -16,7 +16,9 @@ router.get("/", getAll);
 router.get(
   "/:id",
   validateRequest({
-    params: ParamsWithNumId,
+    params: getValidationSchema({
+      id: "DatabaseIntId",
+    }),
   }),
   getOne
 );
@@ -32,7 +34,9 @@ router.post(
 router.patch(
   "/:id",
   validateRequest({
-    params: ParamsWithNumId,
+    params: getValidationSchema({
+      id: "DatabaseIntId",
+    }),
     body: SeriesOptional,
   }),
   updateOne
@@ -41,7 +45,9 @@ router.patch(
 router.delete(
   "/:id",
   validateRequest({
-    params: ParamsWithNumId,
+    params: getValidationSchema({
+      id: "DatabaseIntId",
+    }),
   }),
   deleteOne
 );
