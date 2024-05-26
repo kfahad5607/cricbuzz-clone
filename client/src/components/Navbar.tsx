@@ -1,12 +1,15 @@
 import { FaRegUserCircle } from "react-icons/fa";
 import cricbuzzLogo from "../assets/images/cb_logo.svg";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
     <div className="flex justify-between items-center px-3 text-white bg-green-700">
-      <div className="w-28">
-        <img className="block w-full" src={cricbuzzLogo} alt="" />
-      </div>
+      <Link to="/">
+        <div className="w-28">
+          <img className="block w-full" src={cricbuzzLogo} alt="" />
+        </div>
+      </Link>
       <div className="flex items-center">
         <div className="flex text-base">
           {[1, 2, 3, 4].map((i) => (

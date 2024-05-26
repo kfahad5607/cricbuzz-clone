@@ -1,4 +1,19 @@
-import Tab from "../components/Tab";
+import TabWithLink, { TabLinkType } from "../components/tabs/TabWithLink";
+
+const tabs: TabLinkType[] = [
+  {
+    title: "Commentary",
+    link: "commentary",
+  },
+  {
+    title: "Scorecard",
+    link: "scorecard",
+  },
+  {
+    title: "Squads",
+    link: "squads",
+  },
+];
 
 const MatchPage = () => {
   return (
@@ -16,7 +31,7 @@ const MatchPage = () => {
           ))}
         </div>
         <div className="mt-3">
-          <Tab />
+          <TabWithLink tabs={tabs} />
         </div>
       </div>
     </div>

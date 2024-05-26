@@ -15,8 +15,6 @@ const HomePage = () => {
 
   if (!data) return null;
 
-  console.log("DATA ", data);
-
   return (
     <div className=" ">
       <div className="flex gap-3 overflow-auto">

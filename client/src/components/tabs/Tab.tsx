@@ -1,24 +1,15 @@
-import { useState } from "react";
-import CommentaryTab from "./CommentaryTab";
-import ScorecardTab from "./ScorecardTab";
-import SquadsTab from "./SquadsTab";
+import { ReactNode, useState } from "react";
 
-const tabs = [
-  {
-    title: "Commentary",
-    element: <CommentaryTab />,
-  },
-  {
-    title: "Scorecard",
-    element: <ScorecardTab />,
-  },
-  {
-    title: "Squads",
-    element: <SquadsTab />,
-  },
-];
+export type TabType = {
+  title: string;
+  element: ReactNode;
+};
 
-const Tab = () => {
+interface Props {
+  tabs: TabType[];
+}
+
+const Tab = ({ tabs }: Props) => {
   const [selectedTabIdx, setSelectedTabIdx] = useState(1);
 
   const selectedTab = tabs[selectedTabIdx];
