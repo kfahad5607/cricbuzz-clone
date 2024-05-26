@@ -1,29 +1,12 @@
 import dayjs from "dayjs";
 import teamOne from "../assets/images/team-1.webp";
 import teamTwo from "../assets/images/team-2.webp";
+import { MatchCard } from "../types/matches";
 import { DATE_TIME_FORMAT } from "../utils/constants";
 import MatchStatus from "./MatchStatus";
 
 interface Props {
-  match: {
-    id: number;
-    slug: string;
-    description: string;
-    matchFormat: string;
-    status: string;
-    startTime: string;
-    series: {
-      title: string;
-    };
-    homeTeam: {
-      name: string;
-      shortName: string;
-    };
-    awayTeam: {
-      name: string;
-      shortName: string;
-    };
-  };
+  match: MatchCard;
 }
 
 const MatchPreviewCard = ({ match }: Props) => {
