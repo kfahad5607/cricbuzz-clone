@@ -54,6 +54,31 @@ export const MatchWithId = Match.extend({
   id: z.number().positive(),
 });
 
+export const MatchSquadPlayer = z.object({
+  playerId: z.number().positive(),
+  isPlaying: z.boolean().optional(),
+  isInSubs: z.boolean().optional(),
+  isIncluded: z.boolean().optional(),
+  isExcluded: z.boolean().optional(),
+  isSubstitute: z.boolean().optional(),
+  isSubstituted: z.boolean().optional(),
+  isCaptain: z.boolean().optional(),
+  isKeeper: z.boolean().optional(),
+  isForeignPlayer: z.boolean().optional(),
+});
+
+export const MatchSquadPlayerOptional = MatchSquadPlayer.partial();
+
+export const MatchSquad = z.object({
+  matchId: z.number().positive(),
+  teams: z.array(
+    z.object({
+      teamId: z.number().positive(),
+      players: z.array(MatchSquadPlayer),
+    })
+  ),
+});
+
 // infered types
 export type MatchResults = z.infer<typeof MatchResults>;
 export type MatchTossResults = z.infer<typeof MatchTossResults>;
@@ -61,6 +86,9 @@ export type NewMatch = z.infer<typeof NewMatch>;
 export type Match = z.infer<typeof Match>;
 export type MatchOptional = z.infer<typeof MatchOptional>;
 export type MatchWithId = z.infer<typeof MatchWithId>;
+export type MatchSquadPlayer = z.infer<typeof MatchSquadPlayer>;
+export type MatchSquadPlayerOptional = z.infer<typeof MatchSquadPlayerOptional>;
+export type MatchSquad = z.infer<typeof MatchSquad>;
 
 // manual types
 export type MatchCard = Pick<

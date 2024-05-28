@@ -9,3 +9,8 @@ export const DBIdType = {
   min: 1,
   immutable: true,
 };
+
+export const DBIdUniqueType = {
+  ...DBIdType,
+  unique: true,
+};

@@ -1,19 +1,22 @@
 import { eq, inArray } from "drizzle-orm";
+import { PgColumn } from "drizzle-orm/pg-core";
 import { NextFunction, Request, Response } from "express";
 import slugify from "slugify";
+import MatchSquads from "../db/mongo/schema/matchSquad";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
+import { isObjEmpty } from "../helpers";
 import {
   Match,
   MatchCard,
   MatchOptional,
+  MatchSquad,
+  MatchSquadPlayer,
+  MatchSquadPlayerOptional,
   MatchWithId,
   NewMatch,
   getValidationType,
 } from "../types";
-import { PgColumn } from "drizzle-orm/pg-core";
-import { isObjEmpty } from "../helpers";
-import MatchSquads from "../db/mongo/schema/matchSquad";
 
 const SLUG_INPUT_KEYS = [
   "awayTeam",
@@ -25,6 +28,10 @@ const SLUG_INPUT_KEYS = [
 type SlugInputData = Pick<NewMatch, (typeof SLUG_INPUT_KEYS)[number]>;
 type SlugInputColumns = {
   [key in keyof SlugInputData]: PgColumn;
+};
+
+type UpdateDocType<T extends Record<string, any>, Prefix extends string> = {
+  [K in keyof T as `${Prefix}${K & string}`]: T[K];
 };
 
 async function generateSlug(data: SlugInputData): Promise<string> {
@@ -97,14 +104,34 @@ export async function createOne(
     const slug = await generateSlug(req.body);
     const newMatch: Match = { ...req.body, slug };
 
-    console.log("createOne match ", newMatch);
-
     const results = await db
       .insert(tables.matches)
       .values(newMatch)
       .returning({ id: tables.matches.id });
 
-    const savedMatch = { ...newMatch, id: results[0].id };
+    const matchId = results[0].id;
+    const squadTeam = {
+      players: [],
+    };
+
+    const matchSquad = new MatchSquads({
+      matchId,
+      teams: [
+        {
+          ...squadTeam,
+          teamId: newMatch.homeTeam,
+        },
+        {
+          ...squadTeam,
+          teamId: newMatch.awayTeam,
+        },
+      ],
+    });
+
+    const matchSquadResults = await matchSquad.save();
+    console.log("matchSquadResults ", matchSquadResults);
+
+    const savedMatch = { ...newMatch, id: matchId };
 
     res.status(201).json(savedMatch);
   } catch (err) {
@@ -145,11 +172,11 @@ export async function updateOne(
       if (!isObjEmpty(columnsToFetch)) {
         let results = await db.select(columnsToFetch).from(tables.matches);
         slugInput = { ...slugInput, ...results[0] };
-
-        console.log("slugInput ==> ", slugInput, results);
       }
 
       match.slug = await generateSlug(slugInput as SlugInputData);
+
+      // Needs to update match squad if team ID changes
     }
 
     const results = await db
@@ -175,9 +202,11 @@ export async function deleteOne(
   next: NextFunction
 ) {
   try {
-    const id = parseInt(req.params.id);
+    const matchId = parseInt(req.params.id);
 
-    await db.delete(tables.matches).where(eq(tables.matches.id, id));
+    await db.delete(tables.matches).where(eq(tables.matches.id, matchId));
+
+    const results = await MatchSquads.deleteOne({ matchId });
 
     res.status(204).end();
   } catch (err) {
@@ -221,6 +250,166 @@ export async function getCurrentMatches(
         },
       },
     });
+
+    res.status(200).json(results);
+  } catch (err) {
+    next(err);
+  }
+}
+
+export async function addMatchPlayer(
+  req: Request<
+    getValidationType<{ id: "DatabaseIntId"; teamId: "DatabaseIntId" }>,
+    MatchSquadPlayer
+  >,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+    const teamId = parseInt(req.params.teamId);
+    const player = req.body;
+    const { playerId } = player;
+
+    // verify if player exists
+    const playerExists = await db
+      .select({ id: tables.players.id })
+      .from(tables.players)
+      .where(eq(tables.players.id, playerId));
+
+    if (playerExists.length === 0)
+      throw new Error(`Player with id '${playerId}' does not exist.`);
+
+    const updatedResults = await MatchSquads.updateOne(
+      {
+        matchId,
+      },
+      {
+        $set: {
+          "teams.$[team].players.$[player]": player,
+        },
+      },
+      {
+        arrayFilters: [
+          { "team.teamId": teamId },
+          { "player.playerId": player.playerId },
+        ],
+      }
+    );
+
+    if (updatedResults.modifiedCount === 0) {
+      await MatchSquads.updateOne(
+        {
+          matchId,
+          "teams.teamId": teamId,
+        },
+        {
+          $push: {
+            "teams.$.players": player,
+          },
+        }
+      );
+    } else {
+    }
+
+    res.status(200).json({
+      status: "success",
+      message: "Player added to squad successfully.",
+    });
+  } catch (err) {
+    next(err);
+  }
+}
+
+export async function removeMatchPlayer(
+  req: Request<
+    getValidationType<{
+      id: "DatabaseIntId";
+      teamId: "DatabaseIntId";
+      playerId: "DatabaseIntId";
+    }>
+  >,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+    const teamId = parseInt(req.params.teamId);
+    const playerId = parseInt(req.params.playerId);
+
+    const results = await MatchSquads.updateOne(
+      { matchId, "teams.teamId": teamId },
+      {
+        $pull: {
+          "teams.$.players": {
+            playerId,
+          },
+        },
+      }
+    );
+
+    console.log("delete ", results);
+
+    res.status(204).end();
+  } catch (err) {
+    next(err);
+  }
+}
+
+export async function updateMatchPlayer(
+  req: Request<
+    getValidationType<{ id: "DatabaseIntId"; teamId: "DatabaseIntId" }>,
+    {},
+    MatchSquadPlayerOptional
+  >,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+    const teamId = parseInt(req.params.teamId);
+    const player = req.body;
+    const { playerId } = player;
+
+    type UpdateMatchSquadPlayerType = UpdateDocType<
+      MatchSquadPlayerOptional,
+      "teams.$[team].players.$[player]."
+    >;
+
+    let updateQuery: UpdateMatchSquadPlayerType = Object.fromEntries(
+      Object.entries(player).map(([key, value]) => {
+        return [`teams.$[team].players.$[player].${key}`, value];
+      })
+    );
+
+    const updatedResults = await MatchSquads.updateOne(
+      {
+        matchId,
+      },
+      {
+        $set: updateQuery,
+      },
+      {
+        arrayFilters: [
+          { "team.teamId": teamId },
+          { "player.playerId": playerId },
+        ],
+      }
+    );
+
+    res.status(200).json(updatedResults);
+  } catch (err) {
+    next(err);
+  }
+}
+
+export async function getMatchSquads(
+  req: Request,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const results = await MatchSquads.find();
 
     res.status(200).json(results);
   } catch (err) {

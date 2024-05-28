@@ -1,26 +1,32 @@
 import { Schema, model } from "mongoose";
-import { DBIdType } from "../schemaTypes";
+import { DBIdType, DBIdUniqueType } from "../schemaTypes";
 
-const squadPlayerSchema = new Schema({
-  playerId: DBIdType,
-  isPlaying: Boolean,
-  isInSubs: Boolean,
-  isIncluded: Boolean,
-  isExcluded: Boolean,
-  isSubstitute: Boolean,
-  isSubstituted: Boolean,
-  isCaptain: Boolean,
-  isKeeper: Boolean,
-  isForeignPlayer: Boolean,
-});
+const squadPlayerSchema = new Schema(
+  {
+    playerId: DBIdType,
+    isPlaying: Boolean,
+    isInSubs: Boolean,
+    isIncluded: Boolean,
+    isExcluded: Boolean,
+    isSubstitute: Boolean,
+    isSubstituted: Boolean,
+    isCaptain: Boolean,
+    isKeeper: Boolean,
+    isForeignPlayer: Boolean,
+  },
+  { _id: false }
+);
 
 const matchSquadsSchema = new Schema({
-  matchId: DBIdType,
+  matchId: DBIdUniqueType,
   teams: [
-    new Schema({
-      teamId: DBIdType,
-      players: [squadPlayerSchema],
-    }),
+    new Schema(
+      {
+        teamId: DBIdType,
+        players: [squadPlayerSchema],
+      },
+      { _id: false }
+    ),
   ],
 });
 
