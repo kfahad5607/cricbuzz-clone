@@ -3,6 +3,7 @@ import {
   MATCH_FORMATS,
   MATCH_RESULT_TYPES_VALUES,
   MATCH_STATES,
+  MATCH_STATES_VALUES,
   MATCH_TYPES,
   TOSS_DECISIONS_VALUES,
 } from "../helpers/constants";
@@ -38,7 +39,7 @@ export const NewMatch = z.object({
   series: z.number().positive(),
   venue: z.number().positive(),
   startTime: z.coerce.date(),
-  state: z.enum(MATCH_STATES),
+  state: z.enum(MATCH_STATES_VALUES).default(MATCH_STATES.PREVIEW),
   status: z.string().max(200).default("").optional(),
   tossResults: MatchTossResults.default({}),
   results: MatchResults.default({ winByInnings: false, winByRuns: false }),

@@ -12,6 +12,7 @@ import {
 import {
   MATCH_FORMATS,
   MATCH_STATES,
+  MATCH_STATES_VALUES,
   MATCH_TYPES,
 } from "../../../helpers/constants";
 import {
@@ -26,7 +27,7 @@ export const matchFormatEnum = pgEnum("matchFormat", MATCH_FORMATS);
 
 export const matchTypeEnum = pgEnum("matchType", MATCH_TYPES);
 
-export const matchStateEnum = pgEnum("matchState", MATCH_STATES);
+export const matchStateEnum = pgEnum("matchState", MATCH_STATES_VALUES);
 
 export const series = pgTable("series", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
@@ -59,7 +60,7 @@ export const matches = pgTable("matches", {
     withTimezone: true,
     mode: "date",
   }).notNull(),
-  state: matchStateEnum("match_state").notNull(),
+  state: matchStateEnum("match_state").notNull().default(MATCH_STATES.PREVIEW),
   status: varchar("status", { length: 200 }).default("").notNull(),
   tossResults: jsonb("toss_results")
     .$type<MatchTossResults>()

@@ -1,10 +1,15 @@
-import { number } from "zod";
-
 export const MATCH_FORMATS = ["test", "odi", "t20"] as const;
 
 export const MATCH_TYPES = ["international", "league", "domestic"] as const;
 
-export const MATCH_STATES = [
+export const MATCH_STATES = {
+  PREVIEW: "preview",
+  DELAY: "abandon",
+  COMPLETE: "draw",
+  ABANDON: "tie",
+} as const;
+
+export const MATCH_STATES_VALUES = [
   "preview",
   "delay",
   "complete",
@@ -37,6 +42,7 @@ export const MATCH_RESULT_TYPES_VALUES = [
 export const PLAYER_ROLES = {
   BATTER: "batter",
   BOWLER: "bowler",
+  WK_BATTER: "wk-batter",
   BAT_ALLROUNDER: "bat-allrounder",
   BOWL_ALLROUNDER: "bowl-allrounder",
 };
@@ -44,6 +50,7 @@ export const PLAYER_ROLES = {
 export const PLAYER_ROLES_VALUES = [
   "batter",
   "bowler",
+  "wk-batter",
   "bat-allrounder",
   "bowl-allrounder",
 ] as const;
