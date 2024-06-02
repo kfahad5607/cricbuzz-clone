@@ -17,7 +17,7 @@ router.get(
   "/:id",
   validateRequest({
     params: getValidationSchema({
-      id: "DatabaseIntId",
+      id: "DatabaseIntIdParam",
     }),
   }),
   getOne
@@ -35,7 +35,7 @@ router.patch(
   "/:id",
   validateRequest({
     params: getValidationSchema({
-      id: "DatabaseIntId",
+      id: "DatabaseIntIdParam",
     }),
     body: SeriesOptional,
   }),
@@ -46,7 +46,7 @@ router.delete(
   "/:id",
   validateRequest({
     params: getValidationSchema({
-      id: "DatabaseIntId",
+      id: "DatabaseIntIdParam",
     }),
   }),
   deleteOne

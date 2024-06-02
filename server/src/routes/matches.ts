@@ -29,7 +29,7 @@ router.get(
   "/:id/squads",
   validateRequest({
     params: getValidationSchema({
-      id: "DatabaseIntId",
+      id: "DatabaseIntIdParam",
     }),
   }),
   getMatchSquads
@@ -39,8 +39,8 @@ router.post(
   "/:id/squads/:teamId",
   validateRequest({
     params: getValidationSchema({
-      id: "DatabaseIntId",
-      teamId: "DatabaseIntId",
+      id: "DatabaseIntIdParam",
+      teamId: "DatabaseIntIdParam",
     }),
     body: MatchSquadPlayer,
   }),
@@ -51,9 +51,9 @@ router.delete(
   "/:id/squads/:teamId/players/:playerId",
   validateRequest({
     params: getValidationSchema({
-      id: "DatabaseIntId",
-      teamId: "DatabaseIntId",
-      playerId: "DatabaseIntId",
+      id: "DatabaseIntIdParam",
+      teamId: "DatabaseIntIdParam",
+      playerId: "DatabaseIntIdParam",
     }),
   }),
   removeMatchPlayer
@@ -63,8 +63,8 @@ router.patch(
   "/:id/squads/:teamId",
   validateRequest({
     params: getValidationSchema({
-      id: "DatabaseIntId",
-      teamId: "DatabaseIntId",
+      id: "DatabaseIntIdParam",
+      teamId: "DatabaseIntIdParam",
     }),
     body: MatchSquadPlayerOptional,
   }),
@@ -78,7 +78,7 @@ router.get(
   "/:id",
   validateRequest({
     params: getValidationSchema({
-      id: "DatabaseIntId",
+      id: "DatabaseIntIdParam",
     }),
   }),
   getOne
@@ -96,7 +96,7 @@ router.patch(
   "/:id",
   validateRequest({
     params: getValidationSchema({
-      id: "DatabaseIntId",
+      id: "DatabaseIntIdParam",
     }),
     body: MatchOptional,
   }),
@@ -107,7 +107,7 @@ router.delete(
   "/:id",
   validateRequest({
     params: getValidationSchema({
-      id: "DatabaseIntId",
+      id: "DatabaseIntIdParam",
     }),
   }),
   deleteOne

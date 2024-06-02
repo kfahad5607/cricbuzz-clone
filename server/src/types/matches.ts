@@ -9,6 +9,7 @@ import {
 } from "../helpers/constants";
 import { Series } from "./series";
 import { Team } from "./teams";
+import { MatchSquadPlayer } from "./players";
 
 const MatchResults = z.object({
   resultType: z.enum(MATCH_RESULT_TYPES_VALUES).optional(),
@@ -55,21 +56,6 @@ export const MatchWithId = Match.extend({
   id: z.number().positive(),
 });
 
-export const MatchSquadPlayer = z.object({
-  playerId: z.number().positive(),
-  isPlaying: z.boolean().optional(),
-  isInSubs: z.boolean().optional(),
-  isIncluded: z.boolean().optional(),
-  isExcluded: z.boolean().optional(),
-  isSubstitute: z.boolean().optional(),
-  isSubstituted: z.boolean().optional(),
-  isCaptain: z.boolean().optional(),
-  isKeeper: z.boolean().optional(),
-  isForeignPlayer: z.boolean().optional(),
-});
-
-export const MatchSquadPlayerOptional = MatchSquadPlayer.partial();
-
 export const MatchSquad = z.object({
   matchId: z.number().positive(),
   teams: z.array(
@@ -87,9 +73,13 @@ export type NewMatch = z.infer<typeof NewMatch>;
 export type Match = z.infer<typeof Match>;
 export type MatchOptional = z.infer<typeof MatchOptional>;
 export type MatchWithId = z.infer<typeof MatchWithId>;
-export type MatchSquadPlayer = z.infer<typeof MatchSquadPlayer>;
-export type MatchSquadPlayerOptional = z.infer<typeof MatchSquadPlayerOptional>;
-export type MatchSquad = z.infer<typeof MatchSquad>;
+export type MatchSquad<PlayerT extends MatchSquadPlayer> = {
+  matchId: number;
+  teams: {
+    teamId: number;
+    players: PlayerT[];
+  }[];
+};
 
 // manual types
 export type MatchCard = Pick<

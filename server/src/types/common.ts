@@ -1,6 +1,6 @@
 import * as z from "zod";
 
-const DatabaseIntId = z
+const DatabaseIntIdParam = z
   .string({
     required_error: "ID is required.",
   })
@@ -14,15 +14,16 @@ const DatabaseIntId = z
     }
   });
 
-export type DatabaseIntId = z.infer<typeof DatabaseIntId>;
+export type DatabaseIntIdParam = z.infer<typeof DatabaseIntIdParam>;
+export type DatabaseIntId = number;
 
 // utility functions
 const VALIDATION_SCHEMAS = {
-  DatabaseIntId,
+  DatabaseIntIdParam,
 } as const;
 
 type VALIDATION_SCHEMAS = {
-  DatabaseIntId: DatabaseIntId;
+  DatabaseIntIdParam: DatabaseIntIdParam;
 };
 
 type ValidationSchemas = typeof VALIDATION_SCHEMAS;

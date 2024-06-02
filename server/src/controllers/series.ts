@@ -26,7 +26,7 @@ export async function getAll(
 }
 
 export async function getOne(
-  req: Request<getValidationType<{ id: "DatabaseIntId" }>, SeriesWithId>,
+  req: Request<getValidationType<{ id: "DatabaseIntIdParam" }>, SeriesWithId>,
   res: Response,
   next: NextFunction
 ) {
@@ -74,7 +74,7 @@ export async function createOne(
 
 export async function updateOne(
   req: Request<
-    getValidationType<{ id: "DatabaseIntId" }>,
+    getValidationType<{ id: "DatabaseIntIdParam" }>,
     SeriesWithId,
     SeriesOptional
   >,
@@ -111,7 +111,7 @@ export async function updateOne(
 }
 
 export async function deleteOne(
-  req: Request<getValidationType<{ id: "DatabaseIntId" }>>,
+  req: Request<getValidationType<{ id: "DatabaseIntIdParam" }>>,
   res: Response,
   next: NextFunction
 ) {

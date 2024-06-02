@@ -7,14 +7,17 @@ import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import { isObjEmpty } from "../helpers";
 import {
+  DatabaseIntId,
   Match,
   MatchCard,
   MatchOptional,
   MatchSquad,
   MatchSquadPlayer,
   MatchSquadPlayerOptional,
+  MatchSquadPlayerWithInfo,
   MatchWithId,
   NewMatch,
+  PlayerOptional,
   getValidationType,
 } from "../types";
 
@@ -73,7 +76,7 @@ export async function getAll(
 }
 
 export async function getOne(
-  req: Request<getValidationType<{ id: "DatabaseIntId" }>, MatchWithId>,
+  req: Request<getValidationType<{ id: "DatabaseIntIdParam" }>, MatchWithId>,
   res: Response,
   next: NextFunction
 ) {
@@ -141,7 +144,7 @@ export async function createOne(
 
 export async function updateOne(
   req: Request<
-    getValidationType<{ id: "DatabaseIntId" }>,
+    getValidationType<{ id: "DatabaseIntIdParam" }>,
     MatchWithId,
     MatchOptional
   >,
@@ -197,7 +200,7 @@ export async function updateOne(
 }
 
 export async function deleteOne(
-  req: Request<getValidationType<{ id: "DatabaseIntId" }>>,
+  req: Request<getValidationType<{ id: "DatabaseIntIdParam" }>>,
   res: Response,
   next: NextFunction
 ) {
@@ -259,7 +262,10 @@ export async function getCurrentMatches(
 
 export async function addMatchPlayer(
   req: Request<
-    getValidationType<{ id: "DatabaseIntId"; teamId: "DatabaseIntId" }>,
+    getValidationType<{
+      id: "DatabaseIntIdParam";
+      teamId: "DatabaseIntIdParam";
+    }>,
     MatchSquadPlayer
   >,
   res: Response,
@@ -324,9 +330,9 @@ export async function addMatchPlayer(
 export async function removeMatchPlayer(
   req: Request<
     getValidationType<{
-      id: "DatabaseIntId";
-      teamId: "DatabaseIntId";
-      playerId: "DatabaseIntId";
+      id: "DatabaseIntIdParam";
+      teamId: "DatabaseIntIdParam";
+      playerId: "DatabaseIntIdParam";
     }>
   >,
   res: Response,
@@ -358,7 +364,10 @@ export async function removeMatchPlayer(
 
 export async function updateMatchPlayer(
   req: Request<
-    getValidationType<{ id: "DatabaseIntId"; teamId: "DatabaseIntId" }>,
+    getValidationType<{
+      id: "DatabaseIntIdParam";
+      teamId: "DatabaseIntIdParam";
+    }>,
     {},
     MatchSquadPlayerOptional
   >,
@@ -404,14 +413,66 @@ export async function updateMatchPlayer(
 }
 
 export async function getMatchSquads(
-  req: Request,
+  req: Request<
+    getValidationType<{ id: "DatabaseIntIdParam" }>,
+    {},
+    MatchSquad<MatchSquadPlayerWithInfo>
+  >,
   res: Response,
   next: NextFunction
 ) {
   try {
-    const results = await MatchSquads.find();
+    const playersTable = tables.players;
+    const matchId = parseInt(req.params.id);
+    let results: MatchSquad<MatchSquadPlayer> | null =
+      await MatchSquads.findOne({
+        matchId,
+      }).lean();
 
-    res.status(200).json(results);
+    if (!results) throw new Error(`Squad for this match does not exist.`);
+
+    const playerIds: DatabaseIntId[] = [];
+    results.teams.forEach((team) => {
+      team.players.map((player) => playerIds.push(player.playerId));
+    });
+
+    const playersData = await db
+      .select({
+        id: playersTable.id,
+        name: playersTable.name,
+        shortName: playersTable.shortName,
+        slug: playersTable.slug,
+        roleInfo: playersTable.roleInfo,
+      })
+      .from(playersTable)
+      .where(inArray(playersTable.id, playerIds));
+
+    let playersInfoMap: { [key: DatabaseIntId]: PlayerOptional } = {};
+    playersInfoMap = playersData.reduce((acc, val) => {
+      acc[val.id] = val;
+      return acc;
+    }, playersInfoMap);
+
+    let matchSquadWithPlayerInfo: MatchSquad<MatchSquadPlayerWithInfo> = {
+      matchId: results.matchId,
+      teams: [],
+    } as MatchSquad<MatchSquadPlayerWithInfo>;
+
+    matchSquadWithPlayerInfo.teams = results.teams.map(
+      (team): { teamId: number; players: MatchSquadPlayerWithInfo[] } => {
+        team.players = team.players.map((player): MatchSquadPlayerWithInfo => {
+          let playerWithInfo: MatchSquadPlayerWithInfo = {
+            ...player,
+            ...playersInfoMap[player.playerId],
+          };
+          return playerWithInfo;
+        });
+
+        return team;
+      }
+    );
+
+    res.status(200).json(matchSquadWithPlayerInfo);
   } catch (err) {
     next(err);
   }
