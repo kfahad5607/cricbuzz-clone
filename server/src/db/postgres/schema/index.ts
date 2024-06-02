@@ -1,3 +1,4 @@
+import { relations } from "drizzle-orm";
 import {
   bigint,
   bigserial,
@@ -10,10 +11,10 @@ import {
   varchar,
 } from "drizzle-orm/pg-core";
 import {
-  MATCH_FORMATS,
+  MATCH_FORMATS_VALUES,
   MATCH_STATES,
   MATCH_STATES_VALUES,
-  MATCH_TYPES,
+  MATCH_TYPES_VALUES,
 } from "../../../helpers/constants";
 import {
   MatchResults,
@@ -21,11 +22,10 @@ import {
   PersonalInfo,
   RoleInfo,
 } from "../../../types";
-import { relations } from "drizzle-orm";
 
-export const matchFormatEnum = pgEnum("matchFormat", MATCH_FORMATS);
+export const matchFormatEnum = pgEnum("matchFormat", MATCH_FORMATS_VALUES);
 
-export const matchTypeEnum = pgEnum("matchType", MATCH_TYPES);
+export const matchTypeEnum = pgEnum("matchType", MATCH_TYPES_VALUES);
 
 export const matchStateEnum = pgEnum("matchState", MATCH_STATES_VALUES);
 
@@ -114,6 +114,10 @@ export const matchesRelations = relations(matches, ({ one }) => ({
     fields: [matches.series],
     references: [series.id],
   }),
+  venue: one(venues, {
+    fields: [matches.venue],
+    references: [venues.id],
+  }),
   homeTeam: one(teams, {
     fields: [matches.homeTeam],
     references: [teams.id],
@@ -124,6 +128,10 @@ export const matchesRelations = relations(matches, ({ one }) => ({
     references: [teams.id],
     relationName: "awayTeam",
   }),
+}));
+
+export const venuesRelations = relations(venues, ({ many }) => ({
+  matches: many(matches),
 }));
 
 export const seriesRelations = relations(series, ({ many }) => ({

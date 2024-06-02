@@ -1,15 +1,15 @@
 import * as z from "zod";
 import {
-  MATCH_FORMATS,
+  MATCH_FORMATS_VALUES,
   MATCH_RESULT_TYPES_VALUES,
   MATCH_STATES,
   MATCH_STATES_VALUES,
-  MATCH_TYPES,
+  MATCH_TYPES_VALUES,
   TOSS_DECISIONS_VALUES,
 } from "../helpers/constants";
+import { MatchSquadPlayer } from "./players";
 import { Series } from "./series";
 import { Team } from "./teams";
-import { MatchSquadPlayer } from "./players";
 
 const MatchResults = z.object({
   resultType: z.enum(MATCH_RESULT_TYPES_VALUES).optional(),
@@ -32,8 +32,8 @@ export const NewMatch = z.object({
     })
     .min(5)
     .max(200),
-  matchFormat: z.enum(MATCH_FORMATS),
-  matchType: z.enum(MATCH_TYPES),
+  matchFormat: z.enum(MATCH_FORMATS_VALUES),
+  matchType: z.enum(MATCH_TYPES_VALUES),
   matchNumber: z.number().positive(),
   homeTeam: z.number().positive(),
   awayTeam: z.number().positive(),

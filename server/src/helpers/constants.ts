@@ -1,6 +1,22 @@
-export const MATCH_FORMATS = ["test", "odi", "t20"] as const;
+export const MATCH_FORMATS = {
+  TEST: "test",
+  ODI: "odi",
+  T20: "t20",
+} as const;
 
-export const MATCH_TYPES = ["international", "league", "domestic"] as const;
+export const MATCH_FORMATS_VALUES = ["test", "odi", "t20"] as const;
+
+export const MATCH_TYPES = {
+  INTERNATIONAL: "international",
+  LEAGUE: "league",
+  DOMESTIC: "domestic",
+} as const;
+
+export const MATCH_TYPES_VALUES = [
+  "international",
+  "league",
+  "domestic",
+] as const;
 
 export const MATCH_STATES = {
   PREVIEW: "preview",

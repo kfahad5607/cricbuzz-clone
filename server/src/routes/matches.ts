@@ -10,6 +10,7 @@ import {
   addMatchPlayer,
   removeMatchPlayer,
   updateMatchPlayer,
+  getMatchInfo,
 } from "../controllers/matches";
 import { validateRequest } from "../middlewares";
 import {
@@ -24,6 +25,16 @@ const router = express.Router();
 
 // public endpoints
 router.get("/current", getCurrentMatches);
+
+router.get(
+  "/:id/info",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+    }),
+  }),
+  getMatchInfo
+);
 
 router.get(
   "/:id/squads",

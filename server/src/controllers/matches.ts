@@ -21,6 +21,12 @@ import {
   getValidationType,
 } from "../types";
 
+// tables
+const seriesTable = tables.series;
+const matchesTable = tables.matches;
+const teamsTable = tables.teams;
+const playersTable = tables.players;
+
 const SLUG_INPUT_KEYS = [
   "awayTeam",
   "homeTeam",
@@ -39,17 +45,17 @@ type UpdateDocType<T extends Record<string, any>, Prefix extends string> = {
 
 async function generateSlug(data: SlugInputData): Promise<string> {
   const teamsInfo = await db
-    .select({ shortName: tables.teams.shortName })
-    .from(tables.teams)
-    .where(inArray(tables.teams.id, [data.homeTeam, data.awayTeam]));
+    .select({ shortName: teamsTable.shortName })
+    .from(teamsTable)
+    .where(inArray(teamsTable.id, [data.homeTeam, data.awayTeam]));
 
   if (teamsInfo.length < 2)
     throw Error(`'homeTeam' or 'awayTeam' does not exist`);
 
   const seriesInfo = await db
-    .select({ slug: tables.series.slug })
-    .from(tables.series)
-    .where(eq(tables.series.id, data.series));
+    .select({ slug: seriesTable.slug })
+    .from(seriesTable)
+    .where(eq(seriesTable.id, data.series));
 
   if (seriesInfo.length === 0) throw Error(`'series' does not exist`);
 
@@ -67,7 +73,7 @@ export async function getAll(
   next: NextFunction
 ) {
   try {
-    const results = await db.select().from(tables.matches);
+    const results = await db.select().from(matchesTable);
 
     res.status(200).json(results);
   } catch (err) {
@@ -84,8 +90,8 @@ export async function getOne(
     const id = parseInt(req.params.id);
     const results = await db
       .select()
-      .from(tables.matches)
-      .where(eq(tables.matches.id, id));
+      .from(matchesTable)
+      .where(eq(matchesTable.id, id));
 
     if (results.length === 0) {
       res.status(404);
@@ -108,9 +114,9 @@ export async function createOne(
     const newMatch: Match = { ...req.body, slug };
 
     const results = await db
-      .insert(tables.matches)
+      .insert(matchesTable)
       .values(newMatch)
-      .returning({ id: tables.matches.id });
+      .returning({ id: matchesTable.id });
 
     const matchId = results[0].id;
     const squadTeam = {
@@ -168,12 +174,12 @@ export async function updateOne(
       let columnsToFetch = SLUG_INPUT_KEYS.filter(
         (key) => !(key in slugInput)
       ).reduce((acc, key) => {
-        acc[key] = tables.matches[key];
+        acc[key] = matchesTable[key];
         return acc;
       }, {} as SlugInputColumns);
 
       if (!isObjEmpty(columnsToFetch)) {
-        let results = await db.select(columnsToFetch).from(tables.matches);
+        let results = await db.select(columnsToFetch).from(matchesTable);
         slugInput = { ...slugInput, ...results[0] };
       }
 
@@ -183,9 +189,9 @@ export async function updateOne(
     }
 
     const results = await db
-      .update(tables.matches)
+      .update(matchesTable)
       .set(match)
-      .where(eq(tables.matches.id, id))
+      .where(eq(matchesTable.id, id))
       .returning();
 
     if (results.length === 0) {
@@ -207,7 +213,7 @@ export async function deleteOne(
   try {
     const matchId = parseInt(req.params.id);
 
-    await db.delete(tables.matches).where(eq(tables.matches.id, matchId));
+    await db.delete(matchesTable).where(eq(matchesTable.id, matchId));
 
     const results = await MatchSquads.deleteOne({ matchId });
 
@@ -260,6 +266,64 @@ export async function getCurrentMatches(
   }
 }
 
+export async function getMatchInfo(
+  req: Request<getValidationType<{ id: "DatabaseIntIdParam" }>>,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+
+    const result = await db.query.matches.findFirst({
+      columns: {
+        id: true,
+        slug: true,
+        description: true,
+        matchFormat: true,
+        startTime: true,
+        status: true,
+      },
+      with: {
+        series: {
+          columns: {
+            description: false,
+          },
+        },
+        venue: {
+          columns: {
+            country: false,
+          },
+        },
+        homeTeam: {
+          columns: {
+            id: true,
+            name: true,
+            slug: true,
+            shortName: true,
+          },
+        },
+        awayTeam: {
+          columns: {
+            id: true,
+            name: true,
+            slug: true,
+            shortName: true,
+          },
+        },
+      },
+    });
+
+    if (!result) {
+      res.status(404);
+      throw new Error(`Match with ID '${matchId}' does not exist.`);
+    }
+
+    res.status(200).json(result);
+  } catch (err) {
+    next(err);
+  }
+}
+
 export async function addMatchPlayer(
   req: Request<
     getValidationType<{
@@ -279,12 +343,14 @@ export async function addMatchPlayer(
 
     // verify if player exists
     const playerExists = await db
-      .select({ id: tables.players.id })
-      .from(tables.players)
-      .where(eq(tables.players.id, playerId));
+      .select({ id: playersTable.id })
+      .from(playersTable)
+      .where(eq(playersTable.id, playerId));
 
-    if (playerExists.length === 0)
+    if (playerExists.length === 0) {
+      res.status(404);
       throw new Error(`Player with id '${playerId}' does not exist.`);
+    }
 
     const updatedResults = await MatchSquads.updateOne(
       {
@@ -422,14 +488,16 @@ export async function getMatchSquads(
   next: NextFunction
 ) {
   try {
-    const playersTable = tables.players;
     const matchId = parseInt(req.params.id);
     let results: MatchSquad<MatchSquadPlayer> | null =
       await MatchSquads.findOne({
         matchId,
       }).lean();
 
-    if (!results) throw new Error(`Squad for this match does not exist.`);
+    if (!results) {
+      res.status(404);
+      throw new Error(`Squad for this match does not exist.`);
+    }
 
     const playerIds: DatabaseIntId[] = [];
     results.teams.forEach((team) => {
