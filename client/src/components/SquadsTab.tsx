@@ -1,176 +1,86 @@
-import SquadPlayerListItem from "./SquadPlayerListItem";
-
-const squads = [
-  {
-    _id: "6658a3ec2464753df1d6c489",
-    matchId: 1,
-    teams: [
-      {
-        teamId: 1,
-        players: [
-          {
-            playerId: 1,
-            isPlaying: true,
-            isCaptain: true,
-          },
-          {
-            playerId: 2,
-            isPlaying: true,
-          },
-          {
-            playerId: 3,
-            isPlaying: true,
-          },
-          {
-            playerId: 4,
-            isPlaying: true,
-          },
-          {
-            playerId: 5,
-            isPlaying: true,
-          },
-          {
-            playerId: 6,
-            isPlaying: true,
-            isForeignPlayer: true,
-          },
-          {
-            playerId: 7,
-            isPlaying: true,
-            isKeeper: true,
-          },
-          {
-            playerId: 8,
-            isPlaying: true,
-            isForeignPlayer: true,
-          },
-          {
-            playerId: 9,
-            isPlaying: true,
-          },
-          {
-            playerId: 10,
-            isPlaying: true,
-          },
-          {
-            playerId: 11,
-            isPlaying: true,
-          },
-          {
-            playerId: 12,
-            isPlaying: false,
-          },
-          {
-            playerId: 13,
-            isPlaying: false,
-          },
-          {
-            playerId: 14,
-            isPlaying: false,
-          },
-          {
-            playerId: 15,
-            isPlaying: false,
-          },
-        ],
-      },
-      {
-        teamId: 2,
-        players: [
-          {
-            playerId: 16,
-            isPlaying: true,
-            isCaptain: true,
-          },
-          {
-            playerId: 17,
-            isPlaying: true,
-            isForeignPlayer: true,
-          },
-          {
-            playerId: 18,
-            isPlaying: true,
-          },
-          {
-            playerId: 19,
-            isPlaying: true,
-            isForeignPlayer: true,
-          },
-          {
-            playerId: 20,
-            isPlaying: true,
-          },
-          {
-            playerId: 21,
-            isPlaying: true,
-          },
-          {
-            playerId: 22,
-            isPlaying: true,
-            isKeeper: true,
-          },
-          {
-            playerId: 23,
-            isPlaying: true,
-          },
-          {
-            playerId: 24,
-            isPlaying: true,
-          },
-          {
-            playerId: 25,
-            isPlaying: true,
-          },
-          {
-            playerId: 26,
-            isPlaying: true,
-          },
-          {
-            playerId: 27,
-            isPlaying: true,
-          },
-          {
-            playerId: 28,
-            isPlaying: true,
-          },
-          {
-            playerId: 29,
-            isPlaying: true,
-          },
-          {
-            playerId: 30,
-            isPlaying: false,
-          },
-        ],
-      },
-    ],
-    __v: 0,
-  },
-];
+import { useQuery } from "@tanstack/react-query";
+import apiClient from "../services/api-client";
+import SquadPlayerList from "./SquadPlayerList";
+import { MatchSquad } from "../types/matches";
+import { MatchSquadPlayer } from "../types/players";
 
 const SquadsTab = () => {
+  const matchId = 1;
+  const { data, error, isLoading } = useQuery<MatchSquad>({
+    queryKey: ["matchSquadsPlayers", matchId],
+    queryFn: () =>
+      apiClient.get(`matches/${matchId}/squads`).then((res) => res.data),
+  });
+
+  if (isLoading)
+    return <div className="text-center mx-2 my-3 text-xl">Loading...</div>;
+
+  if (error) return <h3>{"Something went wrong " + error.message}</h3>;
+  if (!data) return <h3>{"Unable to get squad list"}</h3>;
+
+  const squadLists: {
+    title: string;
+    teams: {
+      players: MatchSquadPlayer[];
+    }[];
+  }[] = [
+    {
+      title: "Playing XI",
+      teams: [
+        {
+          players: [],
+        },
+        {
+          players: [],
+        },
+      ],
+    },
+    {
+      title: "Substitutes",
+      teams: [
+        {
+          players: [],
+        },
+        {
+          players: [],
+        },
+      ],
+    },
+    {
+      title: "Bench",
+      teams: [
+        {
+          players: [],
+        },
+        {
+          players: [],
+        },
+      ],
+    },
+  ];
+
+  data.teams.forEach((team, teamIdx) => {
+    team.players.forEach((player) => {
+      if (player.isPlaying) squadLists[0].teams[teamIdx].players.push(player);
+      else if (player.isInSubs)
+        squadLists[1].teams[teamIdx].players.push(player);
+      else if (!player.isPlaying)
+        squadLists[2].teams[teamIdx].players.push(player);
+    });
+  });
+
+  console.log("squadList ", squadLists);
+
   return (
-    <div>
-      <div className="text-center font-medium text-lg px-2 py-2">
-        Playing XI
-      </div>
-      <div className="flex">
-        <div className="w-1/2 border-r border-gray-300">
-          {squads[0].teams[0].players.map((player) => (
-            <SquadPlayerListItem key={player.playerId} player={player} />
-          ))}
-        </div>
-        <div className="w-1/2 border-l border-gray-300">
-          {squads[0].teams[1].players.map((player) => (
-            <SquadPlayerListItem
-              key={player.playerId}
-              player={player}
-              reversed
-            />
-          ))}
-        </div>
-      </div>
-    </div>
+    <>
+      {squadLists.map((squadList, squadListIdx) => (
+        <SquadPlayerList
+          key={squadListIdx}
+          title={squadList.title}
+          teams={squadList.teams}
+        />
+      ))}
+    </>
   );
 };
 

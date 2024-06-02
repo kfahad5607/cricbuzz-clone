@@ -94,7 +94,7 @@ const CommentaryTab = () => {
             </div>
           </div>
           <div className="mt-2">
-            <MatchStatus />
+            <MatchStatus>Lorem ipsum dolor sit amet consectetur.</MatchStatus>
           </div>
         </div>
         {/* scoreboard */}

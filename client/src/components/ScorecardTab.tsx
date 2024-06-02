@@ -229,7 +229,7 @@ const ScorecardTab = () => {
   return (
     <div>
       <div className="mb-2">
-        <MatchStatus />
+        <MatchStatus>Lorem ipsum dolor sit amet.</MatchStatus>
       </div>
       <div className="flex justify-between bg-gray-600 text-white text-sm px-2 py-2">
         <div>Lucknow Super Giants Innings</div>

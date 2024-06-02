@@ -1,4 +1,6 @@
-export interface MatchCard {
+import { MatchSquadPlayer } from "./players";
+
+export type MatchCard = {
   id: number;
   slug: number;
   description: string;
@@ -16,4 +18,12 @@ export interface MatchCard {
     name: string;
     shortName: string;
   };
-}
+};
+
+export type MatchSquad = {
+  matchId: number;
+  teams: {
+    teamId: number;
+    players: MatchSquadPlayer[];
+  }[];
+};
