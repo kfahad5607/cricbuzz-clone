@@ -20,6 +20,10 @@ const router = createBrowserRouter([
         element: <MatchPage />,
         children: [
           {
+            index: true,
+            element: <CommentaryTab />,
+          },
+          {
             path: "commentary",
             element: <CommentaryTab />,
           },

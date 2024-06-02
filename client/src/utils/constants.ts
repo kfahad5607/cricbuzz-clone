@@ -1,6 +1,40 @@
 export const BALLS_IN_OVER = 6;
 export const DATE_TIME_FORMAT = "dddd, DD MMM, hh:mm A";
 
+export const MATCH_FORMATS = {
+  TEST: "test",
+  ODI: "odi",
+  T20: "t20",
+} as const;
+
+export const MATCH_FORMATS_VALUES = ["test", "odi", "t20"] as const;
+
+export const MATCH_TYPES = {
+  INTERNATIONAL: "international",
+  LEAGUE: "league",
+  DOMESTIC: "domestic",
+} as const;
+
+export const MATCH_TYPES_VALUES = [
+  "international",
+  "league",
+  "domestic",
+] as const;
+
+export const MATCH_STATES = {
+  PREVIEW: "preview",
+  DELAY: "abandon",
+  COMPLETE: "draw",
+  ABANDON: "tie",
+} as const;
+
+export const MATCH_STATES_VALUES = [
+  "preview",
+  "delay",
+  "complete",
+  "abandon",
+] as const;
+
 export const PLAYER_ROLES = {
   BATTER: "batter",
   BOWLER: "bowler",
