@@ -14,16 +14,33 @@ const DatabaseIntIdParam = z
     }
   });
 
+const InningsIdParam = z
+  .string({
+    required_error: "Innings ID is required.",
+  })
+  .refine((val) => {
+    try {
+      const num = Number(val);
+      if (isNaN(num) || num < 1 || num > 4) throw Error("");
+      return num;
+    } catch (err) {
+      return false;
+    }
+  });
+
 export type DatabaseIntIdParam = z.infer<typeof DatabaseIntIdParam>;
+export type InningsIdParam = z.infer<typeof InningsIdParam>;
 export type DatabaseIntId = number;
 
 // utility functions
 const VALIDATION_SCHEMAS = {
   DatabaseIntIdParam,
+  InningsIdParam,
 } as const;
 
 type VALIDATION_SCHEMAS = {
   DatabaseIntIdParam: DatabaseIntIdParam;
+  InningsIdParam: InningsIdParam;
 };
 
 type ValidationSchemas = typeof VALIDATION_SCHEMAS;

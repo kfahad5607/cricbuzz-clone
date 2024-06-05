@@ -1,4 +1,5 @@
 import * as z from "zod";
+
 import {
   MATCH_FORMATS_VALUES,
   MATCH_RESULT_TYPES_VALUES,
@@ -34,7 +35,7 @@ export const NewMatch = z.object({
     .max(200),
   matchFormat: z.enum(MATCH_FORMATS_VALUES),
   matchType: z.enum(MATCH_TYPES_VALUES),
-  matchNumber: z.number().positive(),
+  matchNumber: z.number().nonnegative(),
   homeTeam: z.number().positive(),
   awayTeam: z.number().positive(),
   series: z.number().positive(),

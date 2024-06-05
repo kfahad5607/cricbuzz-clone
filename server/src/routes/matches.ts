@@ -11,6 +11,8 @@ import {
   removeMatchPlayer,
   updateMatchPlayer,
   getMatchInfo,
+  addInningsScore,
+  getInningsScore,
 } from "../controllers/matches";
 import { validateRequest } from "../middlewares";
 import {
@@ -20,6 +22,7 @@ import {
   NewMatch,
   getValidationSchema,
 } from "../types";
+import { ScorecardInningsEntry } from "../types/scorecard";
 
 const router = express.Router();
 
@@ -122,6 +125,29 @@ router.delete(
     }),
   }),
   deleteOne
+);
+
+router.get(
+  "/:id/innings/:inningsId/score",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+      inningsId: "InningsIdParam",
+    }),
+  }),
+  getInningsScore
+);
+
+router.post(
+  "/:id/innings/:inningsId/score",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+      inningsId: "InningsIdParam",
+    }),
+    body: ScorecardInningsEntry,
+  }),
+  addInningsScore
 );
 
 export default router;

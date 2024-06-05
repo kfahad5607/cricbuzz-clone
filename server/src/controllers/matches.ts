@@ -1,4 +1,4 @@
-import { eq, inArray } from "drizzle-orm";
+import { and, eq, inArray, or } from "drizzle-orm";
 import { PgColumn } from "drizzle-orm/pg-core";
 import { NextFunction, Request, Response } from "express";
 import slugify from "slugify";
@@ -20,6 +20,8 @@ import {
   PlayerOptional,
   getValidationType,
 } from "../types";
+import { ScorecardInningsEntry } from "../types/scorecard";
+import Scorecard from "../db/mongo/schema/scorecard";
 
 // tables
 const seriesTable = tables.series;
@@ -65,6 +67,27 @@ async function generateSlug(data: SlugInputData): Promise<string> {
   return slugify(slugInput, {
     lower: true,
   });
+}
+
+async function verifyMatchAndTeam(
+  matchId: DatabaseIntId,
+  teamId: DatabaseIntId
+) {
+  const match = await db.query.matches.findFirst({
+    where: eq(matchesTable.id, matchId),
+    columns: {
+      homeTeam: true,
+      awayTeam: true,
+    },
+  });
+
+  if (!match) throw new Error(`Match with Id '${matchId}' does not exist.`);
+  if (![match.homeTeam, match.awayTeam].includes(teamId))
+    throw new Error(
+      `Team with Id '${teamId}' is not playing the current match.`
+    );
+
+  return match;
 }
 
 export async function getAll(
@@ -218,6 +241,131 @@ export async function deleteOne(
     const results = await MatchSquads.deleteOne({ matchId });
 
     res.status(204).end();
+  } catch (err) {
+    next(err);
+  }
+}
+
+// scorecard and commentary
+export async function getInningsScore(
+  req: Request<
+    getValidationType<{
+      id: "DatabaseIntIdParam";
+      inningsId: "DatabaseIntIdParam";
+    }>
+  >,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+    const inningsId = parseInt(req.params.inningsId) - 1;
+
+    console.log("getInningsScore ", matchId, inningsId);
+
+    const scorecard = await Scorecard.findOne({
+      matchId,
+    });
+
+    console.log("results ", scorecard);
+
+    res.status(200).json({
+      status: "success",
+      scorecard,
+    });
+  } catch (err) {
+    next(err);
+  }
+}
+
+export async function addInningsScore(
+  req: Request<
+    getValidationType<{
+      id: "DatabaseIntIdParam";
+      inningsId: "DatabaseIntIdParam";
+    }>,
+    {},
+    ScorecardInningsEntry
+  >,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+    const inningsId = parseInt(req.params.inningsId);
+    const inningsIdx = inningsId - 1;
+    const scorecardInningsEntry = req.body;
+    const teamId = scorecardInningsEntry.teamId;
+
+    scorecardInningsEntry.inningsId = inningsId;
+
+    // const updatedResults = await MatchSquads.updateOne(
+    //   {
+    //     matchId,
+    //   },
+    //   {
+    //     $set: updateQuery,
+    //   },
+    //   {
+    //     arrayFilters: [
+    //       { "innings.inningsId": inningsId },
+    //     ],
+    //   }
+    // );
+
+    const results = await Scorecard.findOneAndUpdate(
+      {
+        matchId,
+      },
+      { $set: { "innings.$[innings]": scorecardInningsEntry } },
+      { arrayFilters: [{ "innings.inningsId": inningsId }], new: true }
+    );
+
+    console.log("results ", results, results && results.innings[inningsIdx]);
+
+    if (!results) {
+      // document does not exist
+      if (inningsId !== 1)
+        throw new Error(
+          `Cannot add score for innings '${inningsId}' before innings '${
+            inningsId - 1
+          }'`
+        );
+
+      // validate match
+      await verifyMatchAndTeam(matchId, teamId);
+
+      const insertedResults = await Scorecard.create({
+        matchId,
+        innings: [scorecardInningsEntry],
+      });
+    } else if (!results.innings[inningsIdx]) {
+      // innings does not exist
+      await verifyMatchAndTeam(matchId, teamId);
+
+      const filter: { [key: string]: number } = {
+        matchId,
+      };
+      if (inningsId > 1)
+        filter[`innings.${inningsIdx - 1}.inningsId`] = inningsId - 1;
+      const updatedResults = await Scorecard.updateOne(filter, {
+        $push: {
+          innings: scorecardInningsEntry,
+        },
+      });
+
+      if (updatedResults.matchedCount === 0)
+        throw new Error(
+          `Cannot add score for innings '${inningsId}' before innings '${
+            inningsId - 1
+          }'`
+        );
+    }
+
+    res.status(200).json({
+      status: "success",
+      message: "Added successfully",
+    });
   } catch (err) {
     next(err);
   }
@@ -419,8 +567,6 @@ export async function removeMatchPlayer(
         },
       }
     );
-
-    console.log("delete ", results);
 
     res.status(204).end();
   } catch (err) {

@@ -1,35 +1,23 @@
 import { Schema, model } from "mongoose";
 import { DBIdType, PositiveNumberType } from "../schemaTypes";
-
-const dismissalTypeEnum = [
-  "bowled",
-  "caught",
-  "lbw",
-  "run-out",
-  "stumped",
-  "retired",
-  "hit-the-ball-twice",
-  "hit-wicket",
-  "obstruct-field",
-  "handled-ball",
-  "timed-out",
-];
+import { DISMISSAL_TYPES_VALUES } from "../../../helpers/constants";
 
 const scorecardBatterSchema = new Schema({
   batterId: DBIdType,
   batRuns: PositiveNumberType,
   ballsPlayed: PositiveNumberType,
+  dotBalls: PositiveNumberType,
   batFours: PositiveNumberType,
   batSixes: PositiveNumberType,
   fallOfWicket: new Schema({
     dismissalType: {
       type: String,
-      enum: dismissalTypeEnum,
+      enum: DISMISSAL_TYPES_VALUES,
     },
     ballNum: PositiveNumberType,
     teamScoreLine: String,
-    bowler: String,
-    helpers: [PositiveNumberType],
+    bowlerId: DBIdType,
+    helpers: [DBIdType],
   }),
 });
 
@@ -43,7 +31,7 @@ const scorecardBowlerSchema = new Schema({
   bowlNoBalls: PositiveNumberType,
 });
 
-const extraBallsSchema = new Schema({
+const extraBallSchema = new Schema({
   nos: PositiveNumberType,
   wides: PositiveNumberType,
   legByes: PositiveNumberType,
@@ -52,19 +40,25 @@ const extraBallsSchema = new Schema({
 });
 
 const scorecardSchema = new Schema({
+  matchId: DBIdType,
   innings: [
-    new Schema({
-      teamId: DBIdType,
-      overs: PositiveNumberType,
-      oversBowled: PositiveNumberType,
-      score: PositiveNumberType,
-      wickets: PositiveNumberType,
-      isDeclared: Boolean,
-      isFollowOn: Boolean,
-      batters: [scorecardBatterSchema],
-      bowlers: [scorecardBowlerSchema],
-      extras: extraBallsSchema,
-    }),
+    new Schema(
+      {
+        teamId: DBIdType,
+        inningsId: DBIdType,
+        overs: PositiveNumberType,
+        oversBowled: PositiveNumberType,
+        score: PositiveNumberType,
+        wickets: PositiveNumberType,
+        isDeclared: Boolean,
+        isFollowOn: Boolean,
+        batters: [scorecardBatterSchema],
+        bowlers: [scorecardBowlerSchema],
+        extras: extraBallSchema,
+        // add target
+      },
+      { _id: false }
+    ),
   ],
 });
 
