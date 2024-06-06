@@ -1,7 +1,7 @@
 import * as z from "zod";
 import { DISMISSAL_TYPES_VALUES } from "../helpers/constants";
 
-const scorecardBatterSchema = z.object({
+const ScorecardBatterSchema = z.object({
   batterId: z.number().positive(),
   batRuns: z.number().nonnegative(),
   ballsPlayed: z.number().nonnegative(),
@@ -10,17 +10,20 @@ const scorecardBatterSchema = z.object({
   batSixes: z.number().nonnegative().default(0),
 });
 
-const scorecardBatter = scorecardBatterSchema.extend({
-  fallOfWicket: z.object({
-    dismissalType: z.enum(DISMISSAL_TYPES_VALUES),
-    ballNum: z.number().nonnegative(),
-    teamScoreLine: z.string(),
-    bowlerId: z.number().positive(),
-    helpers: z.array(z.number().positive()),
-  }),
+const fallOfWicketSchema = z.object({
+  dismissalType: z.enum(DISMISSAL_TYPES_VALUES),
+  overs: z.number().nonnegative(),
+  teamScore: z.number().nonnegative(),
+  teamWickets: z.number().nonnegative(),
+  bowlerId: z.number().positive().optional(),
+  helpers: z.array(z.number().positive()).max(2),
 });
 
-const scorecardBowlerSchema = z.object({
+const ScorecardBatter = ScorecardBatterSchema.extend({
+  fallOfWicket: fallOfWicketSchema.optional(),
+});
+
+const ScorecardBowlerSchema = z.object({
   bowlerId: z.number().positive(),
   bowlOvers: z.number().nonnegative(),
   bowlMaidens: z.number().nonnegative().default(0),
@@ -30,7 +33,7 @@ const scorecardBowlerSchema = z.object({
   bowlNoBalls: z.number().nonnegative().default(0),
 });
 
-const scorecardBowler = scorecardBowlerSchema;
+const ScorecardBowler = ScorecardBowlerSchema;
 
 const extraBall = z.object({
   nos: z.number().nonnegative().default(0),
@@ -52,8 +55,8 @@ const ScorecardInningsSchema = z.object({
 });
 
 export const ScorecardInnings = ScorecardInningsSchema.extend({
-  batters: z.array(scorecardBatter),
-  bowlers: z.array(scorecardBowler),
+  batters: z.array(ScorecardBatter),
+  bowlers: z.array(ScorecardBowler),
   extras: extraBall,
 });
 
@@ -62,12 +65,19 @@ export const Scorecard = z.object({
 });
 
 export const ScorecardInningsEntry = ScorecardInningsSchema.extend({
-  batsmanStriker: scorecardBatterSchema,
-  batsmanNonStriker: scorecardBatterSchema.optional(),
-  bowlerStriker: scorecardBowlerSchema,
-  bowlerNonStriker: scorecardBowlerSchema.optional(),
+  batsmanStriker: ScorecardBatterSchema,
+  batsmanNonStriker: ScorecardBatterSchema.optional(),
+  bowlerStriker: ScorecardBowlerSchema,
+  bowlerNonStriker: ScorecardBowlerSchema.optional(),
+  fallOfWicket: fallOfWicketSchema
+    .extend({
+      batterId: z.number().positive(),
+    })
+    .optional(),
 });
 
 // infered types
+export type ScorecardBatter = z.infer<typeof ScorecardBatter>;
+export type ScorecardBowler = z.infer<typeof ScorecardBowler>;
 export type ScorecardInningsEntry = z.infer<typeof ScorecardInningsEntry>;
 export type ScorecardInnings = z.infer<typeof ScorecardInnings>;
