@@ -1,5 +1,5 @@
 import { Schema, model } from "mongoose";
-import { DBIdType, PositiveNumberType } from "../schemaTypes";
+import { DBIdType, DBIdUniqueType, PositiveNumberType } from "../schemaTypes";
 import { DISMISSAL_TYPES_VALUES } from "../../../helpers/constants";
 
 const scorecardBatterSchema = new Schema({
@@ -14,8 +14,9 @@ const scorecardBatterSchema = new Schema({
       type: String,
       enum: DISMISSAL_TYPES_VALUES,
     },
-    ballNum: PositiveNumberType,
-    teamScoreLine: String,
+    overs: PositiveNumberType,
+    teamScore: PositiveNumberType,
+    teamWickets: PositiveNumberType,
     bowlerId: DBIdType,
     helpers: [DBIdType],
   }),
@@ -40,7 +41,7 @@ const extraBallSchema = new Schema({
 });
 
 const scorecardSchema = new Schema({
-  matchId: DBIdType,
+  matchId: DBIdUniqueType,
   innings: [
     new Schema(
       {
