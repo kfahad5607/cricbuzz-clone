@@ -2,7 +2,7 @@ import * as z from "zod";
 import { DISMISSAL_TYPES_VALUES } from "../helpers/constants";
 
 const ScorecardBatterSchema = z.object({
-  batterId: z.number().positive(),
+  id: z.number().positive(),
   batRuns: z.number().nonnegative(),
   ballsPlayed: z.number().nonnegative(),
   dotBalls: z.number().nonnegative().default(0),
@@ -24,7 +24,7 @@ const ScorecardBatter = ScorecardBatterSchema.extend({
 });
 
 const ScorecardBowlerSchema = z.object({
-  bowlerId: z.number().positive(),
+  id: z.number().positive(),
   bowlOvers: z.number().nonnegative(),
   bowlMaidens: z.number().nonnegative().default(0),
   bowlRuns: z.number().nonnegative(),
@@ -43,7 +43,7 @@ const extraBall = z.object({
   penalties: z.number().nonnegative().default(0),
 });
 
-const ScorecardInningsSchema = z.object({
+const BaseScorecardInnings = z.object({
   teamId: z.number().positive(),
   inningsId: z.number().min(1).max(4),
   overs: z.number().nonnegative().default(0),
@@ -54,7 +54,7 @@ const ScorecardInningsSchema = z.object({
   isFollowOn: z.boolean().optional(),
 });
 
-export const ScorecardInnings = ScorecardInningsSchema.extend({
+export const ScorecardInnings = BaseScorecardInnings.extend({
   batters: z.array(ScorecardBatter),
   bowlers: z.array(ScorecardBowler),
   extras: extraBall,
@@ -64,20 +64,17 @@ export const Scorecard = z.object({
   innings: z.array(ScorecardInnings),
 });
 
-export const ScorecardInningsEntry = ScorecardInningsSchema.extend({
-  batsmanStriker: ScorecardBatterSchema,
-  batsmanNonStriker: ScorecardBatterSchema.optional(),
+export const ScorecardInningsEntry = BaseScorecardInnings.extend({
+  batsmanStriker: ScorecardBatter,
+  batsmanNonStriker: ScorecardBatter.optional(),
   bowlerStriker: ScorecardBowlerSchema,
   bowlerNonStriker: ScorecardBowlerSchema.optional(),
-  fallOfWicket: fallOfWicketSchema
-    .extend({
-      batterId: z.number().positive(),
-    })
-    .optional(),
+  extras: extraBall,
 });
 
 // infered types
 export type ScorecardBatter = z.infer<typeof ScorecardBatter>;
 export type ScorecardBowler = z.infer<typeof ScorecardBowler>;
 export type ScorecardInningsEntry = z.infer<typeof ScorecardInningsEntry>;
+export type BaseScorecardInnings = z.infer<typeof BaseScorecardInnings>;
 export type ScorecardInnings = z.infer<typeof ScorecardInnings>;

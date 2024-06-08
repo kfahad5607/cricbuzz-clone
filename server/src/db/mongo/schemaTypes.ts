@@ -7,7 +7,7 @@ export const DBIdType = {
   type: Number,
   required: true,
   min: 1,
-  immutable: true,
+  // immutable: true,
 };
 
 export const DBIdUniqueType = {

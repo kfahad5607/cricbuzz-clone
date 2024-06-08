@@ -1,8 +1,9 @@
-import { and, eq, inArray, or } from "drizzle-orm";
+import { eq, inArray } from "drizzle-orm";
 import { PgColumn } from "drizzle-orm/pg-core";
 import { NextFunction, Request, Response } from "express";
 import slugify from "slugify";
 import MatchSquads from "../db/mongo/schema/matchSquad";
+import Scorecard from "../db/mongo/schema/scorecard";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import { isObjEmpty } from "../helpers";
@@ -20,8 +21,13 @@ import {
   PlayerOptional,
   getValidationType,
 } from "../types";
-import { ScorecardInningsEntry } from "../types/scorecard";
-import Scorecard from "../db/mongo/schema/scorecard";
+import {
+  BaseScorecardInnings,
+  ScorecardBatter,
+  ScorecardBowler,
+  ScorecardInnings,
+  ScorecardInningsEntry,
+} from "../types/scorecard";
 
 // tables
 const seriesTable = tables.series;
@@ -42,7 +48,7 @@ type SlugInputColumns = {
 };
 
 type UpdateDocType<T extends Record<string, any>, Prefix extends string> = {
-  [K in keyof T as `${Prefix}${K & string}`]: T[K];
+  [K in keyof T as `${Prefix}${string & K}`]: T[K];
 };
 
 async function generateSlug(data: SlugInputData): Promise<string> {
@@ -88,6 +94,27 @@ async function verifyMatchAndTeam(
     );
 
   return match;
+}
+
+function addScorecardPlayers<PlayerT extends { id: number }>(
+  players: PlayerT[],
+  currentPlayer: PlayerT,
+  keys: (keyof PlayerT)[]
+) {
+  for (let i = 0; i < players.length; i++) {
+    const player = players[i];
+    if (player.id === currentPlayer.id) {
+      keys.forEach((key) => {
+        let val = currentPlayer[key];
+        if (val !== undefined) player[key] = val;
+      });
+      return players;
+    }
+  }
+
+  players.push(currentPlayer);
+
+  return players;
 }
 
 export async function getAll(
@@ -291,39 +318,93 @@ export async function addInningsScore(
   next: NextFunction
 ) {
   try {
+    const inningsIdOrdinals: {
+      [k: number]: string;
+    } = {
+      1: "first",
+      2: "second",
+      3: "third",
+      4: "fourth",
+    };
+
     const matchId = parseInt(req.params.id);
     const inningsId = parseInt(req.params.inningsId);
-    const inningsIdx = inningsId - 1;
+    const inningsIdKey = inningsIdOrdinals[inningsId];
+    const prevInningsIdKey = inningsIdOrdinals[inningsId - 1];
     const scorecardInningsEntry = req.body;
     const teamId = scorecardInningsEntry.teamId;
 
     scorecardInningsEntry.inningsId = inningsId;
 
-    // const updatedResults = await MatchSquads.updateOne(
-    //   {
-    //     matchId,
-    //   },
-    //   {
-    //     $set: updateQuery,
-    //   },
-    //   {
-    //     arrayFilters: [
-    //       { "innings.inningsId": inningsId },
-    //     ],
-    //   }
-    // );
+    type BatterHolderKeys = (keyof Pick<
+      ScorecardInningsEntry,
+      "batsmanStriker" | "batsmanNonStriker"
+    >)[];
 
-    const results = await Scorecard.findOneAndUpdate(
+    type BowlerHolderKeys = (keyof Pick<
+      ScorecardInningsEntry,
+      "bowlerStriker" | "bowlerNonStriker"
+    >)[];
+
+    type BatterKeys = (keyof ScorecardBatter)[];
+    type BowlerKeys = (keyof ScorecardBowler)[];
+
+    type BaseKeys = keyof BaseScorecardInnings;
+
+    const batterHolderKeys: BatterHolderKeys = [
+      "batsmanStriker",
+      "batsmanNonStriker",
+    ];
+    const bowlerHolderKeys: BowlerHolderKeys = [
+      "bowlerStriker",
+      "bowlerNonStriker",
+    ];
+
+    const batterKeys: BatterKeys = [
+      "id",
+      "batRuns",
+      "ballsPlayed",
+      "dotBalls",
+      "batFours",
+      "batSixes",
+      "fallOfWicket",
+    ];
+    const bowlerKeys: BowlerKeys = [
+      "id",
+      "bowlOvers",
+      "bowlMaidens",
+      "bowlRuns",
+      "bowlWickets",
+      "bowlWides",
+      "bowlNoBalls",
+    ];
+
+    const baseKeys: BaseKeys[] = [
+      "teamId",
+      "inningsId",
+      "overs",
+      "oversBowled",
+      "score",
+      "wickets",
+      "isDeclared",
+      "isFollowOn",
+    ];
+
+    const columnsToFetch = { [`innings.${inningsIdKey}`]: 1 };
+    if (prevInningsIdKey) {
+      columnsToFetch[`innings.${prevInningsIdKey}.inningsId`] = 1;
+    }
+
+    let scorecard = await Scorecard.findOne(
       {
         matchId,
       },
-      { $set: { "innings.$[innings]": scorecardInningsEntry } },
-      { arrayFilters: [{ "innings.inningsId": inningsId }], new: true }
+      {
+        ...columnsToFetch,
+      }
     );
 
-    console.log("results ", results, results && results.innings[inningsIdx]);
-
-    if (!results) {
+    if (!scorecard) {
       // document does not exist
       if (inningsId !== 1)
         throw new Error(
@@ -335,32 +416,81 @@ export async function addInningsScore(
       // validate match
       await verifyMatchAndTeam(matchId, teamId);
 
-      const insertedResults = await Scorecard.create({
+      scorecard = new Scorecard({
         matchId,
-        innings: [scorecardInningsEntry],
-      });
-    } else if (!results.innings[inningsIdx]) {
-      // innings does not exist
-      await verifyMatchAndTeam(matchId, teamId);
-
-      const filter: { [key: string]: number } = {
-        matchId,
-      };
-      if (inningsId > 1)
-        filter[`innings.${inningsIdx - 1}.inningsId`] = inningsId - 1;
-      const updatedResults = await Scorecard.updateOne(filter, {
-        $push: {
-          innings: scorecardInningsEntry,
+        innings: {
+          [inningsIdOrdinals[1]]: {
+            inningsId,
+            teamId,
+            overs: 0,
+            oversBowled: 0,
+            score: 0,
+            wickets: 0,
+            extras: {
+              nos: 0,
+              wides: 0,
+              legByes: 0,
+              byes: 0,
+              penalties: 0,
+            },
+            batters: [],
+            bowlers: [],
+          },
         },
       });
-
-      if (updatedResults.matchedCount === 0)
-        throw new Error(
-          `Cannot add score for innings '${inningsId}' before innings '${
-            inningsId - 1
-          }'`
-        );
     }
+
+    if (prevInningsIdKey && !scorecard.innings[prevInningsIdKey]) {
+      throw new Error(
+        `Cannot add score for innings '${inningsId}' before innings '${
+          inningsId - 1
+        }'`
+      );
+    }
+
+    let innings: ScorecardInnings = scorecard.innings[inningsIdKey];
+    if (!innings) {
+      scorecard.innings[inningsIdKey] = {
+        teamId: scorecardInningsEntry.teamId,
+        inningsId,
+        overs: 0,
+        oversBowled: 0,
+        score: 0,
+        wickets: 0,
+        extras: {
+          nos: 0,
+          wides: 0,
+          legByes: 0,
+          byes: 0,
+          penalties: 0,
+        },
+        batters: [],
+        bowlers: [],
+      };
+
+      innings = scorecard.innings[inningsIdKey];
+    }
+
+    baseKeys.forEach((key) => {
+      let val = scorecardInningsEntry[key];
+      console.log("val ", val);
+
+      if (val !== undefined) innings[key] = val;
+    });
+
+    batterHolderKeys.forEach((key) => {
+      let batter = scorecardInningsEntry[key];
+      if (!batter) return;
+      addScorecardPlayers(innings.batters, batter, batterKeys);
+    });
+
+    bowlerHolderKeys.forEach((key) => {
+      let bowler = scorecardInningsEntry[key];
+      if (!bowler) return;
+      addScorecardPlayers(innings.bowlers, bowler, bowlerKeys);
+    });
+
+    let results = await scorecard.save();
 
     res.status(200).json({
       status: "success",
