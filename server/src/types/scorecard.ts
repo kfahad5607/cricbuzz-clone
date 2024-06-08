@@ -19,7 +19,7 @@ const fallOfWicketSchema = z.object({
   helpers: z.array(z.number().positive()).max(2),
 });
 
-const ScorecardBatter = ScorecardBatterSchema.extend({
+export const ScorecardBatter = ScorecardBatterSchema.extend({
   fallOfWicket: fallOfWicketSchema.optional(),
 });
 
@@ -33,7 +33,7 @@ const ScorecardBowlerSchema = z.object({
   bowlNoBalls: z.number().nonnegative().default(0),
 });
 
-const ScorecardBowler = ScorecardBowlerSchema;
+export const ScorecardBowler = ScorecardBowlerSchema;
 
 const extraBall = z.object({
   nos: z.number().nonnegative().default(0),
@@ -43,7 +43,7 @@ const extraBall = z.object({
   penalties: z.number().nonnegative().default(0),
 });
 
-const BaseScorecardInnings = z.object({
+export const BaseScorecardInnings = z.object({
   teamId: z.number().positive(),
   inningsId: z.number().min(1).max(4),
   overs: z.number().nonnegative().default(0),
@@ -78,3 +78,18 @@ export type ScorecardBowler = z.infer<typeof ScorecardBowler>;
 export type ScorecardInningsEntry = z.infer<typeof ScorecardInningsEntry>;
 export type BaseScorecardInnings = z.infer<typeof BaseScorecardInnings>;
 export type ScorecardInnings = z.infer<typeof ScorecardInnings>;
+
+// manual types
+export type BaseScorecardKeys = keyof BaseScorecardInnings;
+export type BatterHolderKeys = keyof Pick<
+  ScorecardInningsEntry,
+  "batsmanStriker" | "batsmanNonStriker"
+>;
+
+export type BowlerHolderKeys = keyof Pick<
+  ScorecardInningsEntry,
+  "bowlerStriker" | "bowlerNonStriker"
+>;
+
+export type BatterKeys = keyof ScorecardBatter;
+export type BowlerKeys = keyof ScorecardBowler;

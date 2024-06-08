@@ -1,3 +1,10 @@
+export const SLUG_INPUT_KEYS = [
+  "awayTeam",
+  "homeTeam",
+  "series",
+  "description",
+] as const;
+
 export const MATCH_FORMATS = {
   TEST: "test",
   ODI: "odi",

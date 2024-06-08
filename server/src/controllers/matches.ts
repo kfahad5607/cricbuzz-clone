@@ -1,12 +1,21 @@
 import { eq, inArray } from "drizzle-orm";
-import { PgColumn } from "drizzle-orm/pg-core";
 import { NextFunction, Request, Response } from "express";
-import slugify from "slugify";
 import MatchSquads from "../db/mongo/schema/matchSquad";
 import Scorecard from "../db/mongo/schema/scorecard";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import { isObjEmpty } from "../helpers";
+import { SLUG_INPUT_KEYS } from "../helpers/constants";
+import { generateSlug, verifyMatchAndTeam } from "../helpers/matches";
+import {
+  addScorecardPlayers,
+  baseScorecardKeys,
+  batterHolderKeys,
+  batterKeys,
+  bowlerHolderKeys,
+  bowlerKeys,
+  inningsIdOrdinals,
+} from "../helpers/scorecard";
 import {
   DatabaseIntId,
   Match,
@@ -19,103 +28,16 @@ import {
   MatchWithId,
   NewMatch,
   PlayerOptional,
+  SlugInputColumns,
+  SlugInputData,
+  UpdateDocType,
   getValidationType,
 } from "../types";
-import {
-  BaseScorecardInnings,
-  ScorecardBatter,
-  ScorecardBowler,
-  ScorecardInnings,
-  ScorecardInningsEntry,
-} from "../types/scorecard";
+import { ScorecardInnings, ScorecardInningsEntry } from "../types/scorecard";
 
 // tables
-const seriesTable = tables.series;
 const matchesTable = tables.matches;
-const teamsTable = tables.teams;
 const playersTable = tables.players;
-
-const SLUG_INPUT_KEYS = [
-  "awayTeam",
-  "homeTeam",
-  "series",
-  "description",
-] as const;
-
-type SlugInputData = Pick<NewMatch, (typeof SLUG_INPUT_KEYS)[number]>;
-type SlugInputColumns = {
-  [key in keyof SlugInputData]: PgColumn;
-};
-
-type UpdateDocType<T extends Record<string, any>, Prefix extends string> = {
-  [K in keyof T as `${Prefix}${string & K}`]: T[K];
-};
-
-async function generateSlug(data: SlugInputData): Promise<string> {
-  const teamsInfo = await db
-    .select({ shortName: teamsTable.shortName })
-    .from(teamsTable)
-    .where(inArray(teamsTable.id, [data.homeTeam, data.awayTeam]));
-
-  if (teamsInfo.length < 2)
-    throw Error(`'homeTeam' or 'awayTeam' does not exist`);
-
-  const seriesInfo = await db
-    .select({ slug: seriesTable.slug })
-    .from(seriesTable)
-    .where(eq(seriesTable.id, data.series));
-
-  if (seriesInfo.length === 0) throw Error(`'series' does not exist`);
-
-  let slugInput = `${teamsInfo[0].shortName}-vs-${teamsInfo[1].shortName}`;
-  slugInput = `${slugInput}-${data.description}-${seriesInfo[0].slug}`;
-
-  return slugify(slugInput, {
-    lower: true,
-  });
-}
-
-async function verifyMatchAndTeam(
-  matchId: DatabaseIntId,
-  teamId: DatabaseIntId
-) {
-  const match = await db.query.matches.findFirst({
-    where: eq(matchesTable.id, matchId),
-    columns: {
-      homeTeam: true,
-      awayTeam: true,
-    },
-  });
-
-  if (!match) throw new Error(`Match with Id '${matchId}' does not exist.`);
-  if (![match.homeTeam, match.awayTeam].includes(teamId))
-    throw new Error(
-      `Team with Id '${teamId}' is not playing the current match.`
-    );
-
-  return match;
-}
-
-function addScorecardPlayers<PlayerT extends { id: number }>(
-  players: PlayerT[],
-  currentPlayer: PlayerT,
-  keys: (keyof PlayerT)[]
-) {
-  for (let i = 0; i < players.length; i++) {
-    const player = players[i];
-    if (player.id === currentPlayer.id) {
-      keys.forEach((key) => {
-        let val = currentPlayer[key];
-        if (val !== undefined) player[key] = val;
-      });
-      return players;
-    }
-  }
-
-  players.push(currentPlayer);
-
-  return players;
-}
 
 export async function getAll(
   req: Request,
@@ -318,15 +240,6 @@ export async function addInningsScore(
   next: NextFunction
 ) {
   try {
-    const inningsIdOrdinals: {
-      [k: number]: string;
-    } = {
-      1: "first",
-      2: "second",
-      3: "third",
-      4: "fourth",
-    };
-
     const matchId = parseInt(req.params.id);
     const inningsId = parseInt(req.params.inningsId);
     const inningsIdKey = inningsIdOrdinals[inningsId];
@@ -335,60 +248,6 @@ export async function addInningsScore(
     const teamId = scorecardInningsEntry.teamId;
 
     scorecardInningsEntry.inningsId = inningsId;
-
-    type BatterHolderKeys = (keyof Pick<
-      ScorecardInningsEntry,
-      "batsmanStriker" | "batsmanNonStriker"
-    >)[];
-
-    type BowlerHolderKeys = (keyof Pick<
-      ScorecardInningsEntry,
-      "bowlerStriker" | "bowlerNonStriker"
-    >)[];
-
-    type BatterKeys = (keyof ScorecardBatter)[];
-    type BowlerKeys = (keyof ScorecardBowler)[];
-
-    type BaseKeys = keyof BaseScorecardInnings;
-
-    const batterHolderKeys: BatterHolderKeys = [
-      "batsmanStriker",
-      "batsmanNonStriker",
-    ];
-    const bowlerHolderKeys: BowlerHolderKeys = [
-      "bowlerStriker",
-      "bowlerNonStriker",
-    ];
-
-    const batterKeys: BatterKeys = [
-      "id",
-      "batRuns",
-      "ballsPlayed",
-      "dotBalls",
-      "batFours",
-      "batSixes",
-      "fallOfWicket",
-    ];
-    const bowlerKeys: BowlerKeys = [
-      "id",
-      "bowlOvers",
-      "bowlMaidens",
-      "bowlRuns",
-      "bowlWickets",
-      "bowlWides",
-      "bowlNoBalls",
-    ];
-
-    const baseKeys: BaseKeys[] = [
-      "teamId",
-      "inningsId",
-      "overs",
-      "oversBowled",
-      "score",
-      "wickets",
-      "isDeclared",
-      "isFollowOn",
-    ];
 
     const columnsToFetch = { [`innings.${inningsIdKey}`]: 1 };
     if (prevInningsIdKey) {
@@ -471,10 +330,8 @@ export async function addInningsScore(
       innings = scorecard.innings[inningsIdKey];
     }
 
-    baseKeys.forEach((key) => {
+    baseScorecardKeys.forEach((key) => {
       let val = scorecardInningsEntry[key];
-      console.log("val ", val);
-
       if (val !== undefined) innings[key] = val;
     });
 

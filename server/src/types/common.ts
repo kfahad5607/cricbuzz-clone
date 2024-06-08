@@ -65,3 +65,11 @@ export const getValidationSchema = <T extends ValidationResultInput>(
 export type getValidationType<T extends ValidationResultInput> = {
   [K in keyof T]: VALIDATION_SCHEMAS[T[K]];
 };
+
+// manual types
+export type UpdateDocType<
+  T extends Record<string, any>,
+  Prefix extends string
+> = {
+  [K in keyof T as `${Prefix}${string & K}`]: T[K];
+};

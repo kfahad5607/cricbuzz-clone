@@ -1,11 +1,12 @@
+import { PgColumn } from "drizzle-orm/pg-core";
 import * as z from "zod";
-
 import {
   MATCH_FORMATS_VALUES,
   MATCH_RESULT_TYPES_VALUES,
   MATCH_STATES,
   MATCH_STATES_VALUES,
   MATCH_TYPES_VALUES,
+  SLUG_INPUT_KEYS,
   TOSS_DECISIONS_VALUES,
 } from "../helpers/constants";
 import { MatchSquadPlayer } from "./players";
@@ -90,4 +91,9 @@ export type MatchCard = Pick<
   series: Pick<Series, "title">;
   homeTeam: Pick<Team, "name" | "shortName">;
   awayTeam: Pick<Team, "name" | "shortName">;
+};
+
+export type SlugInputData = Pick<NewMatch, (typeof SLUG_INPUT_KEYS)[number]>;
+export type SlugInputColumns = {
+  [key in keyof SlugInputData]: PgColumn;
 };
