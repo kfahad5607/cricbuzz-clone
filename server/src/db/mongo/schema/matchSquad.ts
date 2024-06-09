@@ -1,5 +1,6 @@
 import { Schema, model } from "mongoose";
 import { DBIdType, DBIdUniqueType } from "../schemaTypes";
+import { MatchSquad, MatchSquadPlayer } from "../../../types";
 
 const squadPlayerSchema = new Schema(
   {
@@ -17,7 +18,7 @@ const squadPlayerSchema = new Schema(
   { _id: false }
 );
 
-const matchSquadsSchema = new Schema({
+const matchSquadsSchema = new Schema<MatchSquad<MatchSquadPlayer>>({
   matchId: DBIdUniqueType,
   teams: [
     new Schema(
@@ -30,6 +31,9 @@ const matchSquadsSchema = new Schema({
   ],
 });
 
-const MatchSquads = model("MatchSquad", matchSquadsSchema);
+const MatchSquads = model<MatchSquad<MatchSquadPlayer>>(
+  "MatchSquad",
+  matchSquadsSchema
+);
 
 export default MatchSquads;
