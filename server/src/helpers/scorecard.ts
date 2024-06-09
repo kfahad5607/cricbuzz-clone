@@ -10,15 +10,6 @@ import {
 } from "../types/scorecard";
 
 // const
-export const inningsIdOrdinals: {
-  [k: number]: string;
-} = {
-  1: "first",
-  2: "second",
-  3: "third",
-  4: "fourth",
-};
-
 export const baseScorecardKeys: BaseScorecardKeys[] =
   BaseScorecardInnings.keyof().options;
 

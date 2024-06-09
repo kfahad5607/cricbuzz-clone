@@ -14,7 +14,6 @@ import {
   batterKeys,
   bowlerHolderKeys,
   bowlerKeys,
-  inningsIdOrdinals,
 } from "../helpers/scorecard";
 import {
   DatabaseIntId,
@@ -33,7 +32,12 @@ import {
   UpdateDocType,
   getValidationType,
 } from "../types";
-import { ScorecardInnings, ScorecardInningsEntry } from "../types/scorecard";
+import {
+  INNINGS_TYPES,
+  InningsType,
+  ScorecardInnings,
+  ScorecardInningsEntry,
+} from "../types/scorecard";
 
 // tables
 const matchesTable = tables.matches;
@@ -200,7 +204,7 @@ export async function getInningsScore(
   req: Request<
     getValidationType<{
       id: "DatabaseIntIdParam";
-      inningsId: "DatabaseIntIdParam";
+      inningsType: "InningsType";
     }>
   >,
   res: Response,
@@ -208,9 +212,9 @@ export async function getInningsScore(
 ) {
   try {
     const matchId = parseInt(req.params.id);
-    const inningsId = parseInt(req.params.inningsId) - 1;
+    const inningsType = req.params.inningsType;
 
-    console.log("getInningsScore ", matchId, inningsId);
+    console.log("getInningsScore ", matchId, inningsType);
 
     const scorecard = await Scorecard.findOne({
       matchId,
@@ -231,7 +235,7 @@ export async function addInningsScore(
   req: Request<
     getValidationType<{
       id: "DatabaseIntIdParam";
-      inningsId: "DatabaseIntIdParam";
+      inningsType: "InningsType";
     }>,
     {},
     ScorecardInningsEntry
@@ -241,17 +245,15 @@ export async function addInningsScore(
 ) {
   try {
     const matchId = parseInt(req.params.id);
-    const inningsId = parseInt(req.params.inningsId);
-    const inningsIdKey = inningsIdOrdinals[inningsId];
-    const prevInningsIdKey = inningsIdOrdinals[inningsId - 1];
+    const inningsType: InningsType = req.params.inningsType;
+    const prevInningsType: InningsType | undefined =
+      INNINGS_TYPES[INNINGS_TYPES.indexOf(inningsType) - 1];
     const scorecardInningsEntry = req.body;
     const teamId = scorecardInningsEntry.teamId;
 
-    scorecardInningsEntry.inningsId = inningsId;
-
-    const columnsToFetch = { [`innings.${inningsIdKey}`]: 1 };
-    if (prevInningsIdKey) {
-      columnsToFetch[`innings.${prevInningsIdKey}.inningsId`] = 1;
+    const columnsToFetch = { [`innings.${inningsType}`]: 1 };
+    if (prevInningsType) {
+      columnsToFetch[`innings.${prevInningsType}.teamId`] = 1;
     }
 
     let scorecard = await Scorecard.findOne(
@@ -265,11 +267,9 @@ export async function addInningsScore(
 
     if (!scorecard) {
       // document does not exist
-      if (inningsId !== 1)
+      if (inningsType !== "first")
         throw new Error(
-          `Cannot add score for innings '${inningsId}' before innings '${
-            inningsId - 1
-          }'`
+          `Cannot add score for '${inningsType}' innings before '${prevInningsType}' innings`
         );
 
       // validate match
@@ -278,8 +278,7 @@ export async function addInningsScore(
       scorecard = new Scorecard({
         matchId,
         innings: {
-          [inningsIdOrdinals[1]]: {
-            inningsId,
+          first: {
             teamId,
             overs: 0,
             oversBowled: 0,
@@ -299,19 +298,16 @@ export async function addInningsScore(
       });
     }
 
-    if (prevInningsIdKey && !scorecard.innings[prevInningsIdKey]) {
+    if (prevInningsType && !scorecard.innings[prevInningsType]) {
       throw new Error(
-        `Cannot add score for innings '${inningsId}' before innings '${
-          inningsId - 1
-        }'`
+        `Cannot add score for '${inningsType}' innings before '${prevInningsType}' innings`
       );
     }
 
-    let innings: ScorecardInnings = scorecard.innings[inningsIdKey];
+    let innings: ScorecardInnings = scorecard.innings[inningsType];
     if (!innings) {
-      scorecard.innings[inningsIdKey] = {
+      scorecard.innings[inningsType] = {
         teamId: scorecardInningsEntry.teamId,
-        inningsId,
         overs: 0,
         oversBowled: 0,
         score: 0,
@@ -327,12 +323,12 @@ export async function addInningsScore(
         bowlers: [],
       };
 
-      innings = scorecard.innings[inningsIdKey];
+      innings = scorecard.innings[inningsType];
     }
 
     baseScorecardKeys.forEach((key) => {
       let val = scorecardInningsEntry[key];
-      if (val !== undefined) innings[key] = val;
+      if (val !== undefined) (innings[key] as typeof val) = val;
     });
 
     batterHolderKeys.forEach((key) => {

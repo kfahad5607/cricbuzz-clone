@@ -1,6 +1,7 @@
 import { Schema, model } from "mongoose";
 import { DBIdType, DBIdUniqueType, PositiveNumberType } from "../schemaTypes";
 import { DISMISSAL_TYPES_VALUES } from "../../../helpers/constants";
+import { Scorecard as ScorecardType } from "../../../types/scorecard";
 
 const scorecardBatterSchema = new Schema(
   {
@@ -52,7 +53,6 @@ const extraBallSchema = new Schema(
 const scorecardInningsSchema = new Schema(
   {
     teamId: DBIdType,
-    inningsId: DBIdType,
     overs: PositiveNumberType,
     oversBowled: PositiveNumberType,
     score: PositiveNumberType,
@@ -77,7 +77,7 @@ const scorecardInningsObjSchema = new Schema(
   { _id: false }
 );
 
-const scorecardSchema = new Schema({
+const scorecardSchema = new Schema<ScorecardType>({
   matchId: DBIdUniqueType,
   // innings: [scorecardInningsSchema],
   innings: {
@@ -87,6 +87,6 @@ const scorecardSchema = new Schema({
   },
 });
 
-const Scorecard = model("Scorecard", scorecardSchema);
+const Scorecard = model<ScorecardType>("Scorecard", scorecardSchema);
 
 export default Scorecard;

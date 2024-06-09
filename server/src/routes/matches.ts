@@ -128,22 +128,22 @@ router.delete(
 );
 
 router.get(
-  "/:id/innings/:inningsId/score",
+  "/:id/innings/:inningsType/score",
   validateRequest({
     params: getValidationSchema({
       id: "DatabaseIntIdParam",
-      inningsId: "InningsIdParam",
+      inningsType: "InningsType",
     }),
   }),
   getInningsScore
 );
 
 router.post(
-  "/:id/innings/:inningsId/score",
+  "/:id/innings/:inningsType/score",
   validateRequest({
     params: getValidationSchema({
       id: "DatabaseIntIdParam",
-      inningsId: "InningsIdParam",
+      inningsType: "InningsType",
     }),
     body: ScorecardInningsEntry,
   }),
