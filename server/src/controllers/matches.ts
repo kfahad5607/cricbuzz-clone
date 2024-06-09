@@ -8,12 +8,11 @@ import { isObjEmpty } from "../helpers";
 import { SLUG_INPUT_KEYS } from "../helpers/constants";
 import { generateSlug, verifyMatchAndTeam } from "../helpers/matches";
 import {
-  addScorecardPlayers,
+  addScorecardBatter,
+  addScorecardBowler,
   baseScorecardKeys,
   batterHolderKeys,
-  batterKeys,
   bowlerHolderKeys,
-  bowlerKeys,
 } from "../helpers/scorecard";
 import {
   DatabaseIntId,
@@ -200,6 +199,40 @@ export async function deleteOne(
 }
 
 // scorecard and commentary
+export async function getAllInningsScore(
+  req: Request<
+    getValidationType<{
+      id: "DatabaseIntIdParam";
+    }>
+  >,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+
+    console.log("getAllInningsScore ", matchId);
+
+    const scorecard = await Scorecard.findOne({
+      matchId,
+    });
+
+    if (!scorecard) {
+      res.status(404);
+      throw new Error(`No scorecard found.`);
+    }
+
+    console.log("results ", scorecard);
+
+    res.status(200).json({
+      status: "success",
+      data: scorecard,
+    });
+  } catch (err) {
+    next(err);
+  }
+}
+
 export async function getInningsScore(
   req: Request<
     getValidationType<{
@@ -216,15 +249,27 @@ export async function getInningsScore(
 
     console.log("getInningsScore ", matchId, inningsType);
 
-    const scorecard = await Scorecard.findOne({
-      matchId,
-    });
+    const scorecard = await Scorecard.findOne(
+      {
+        matchId,
+      },
+      {
+        [`innings.${inningsType}`]: 1,
+      }
+    );
+
+    if (!scorecard || !scorecard.innings[inningsType]) {
+      res.status(404);
+      throw new Error(`Scorecard innings does not exist`);
+    }
+
+    const innings = scorecard.innings[inningsType];
 
     console.log("results ", scorecard);
 
     res.status(200).json({
       status: "success",
-      scorecard,
+      data: innings,
     });
   } catch (err) {
     next(err);
@@ -304,7 +349,7 @@ export async function addInningsScore(
       );
     }
 
-    let innings: ScorecardInnings = scorecard.innings[inningsType];
+    let innings: ScorecardInnings | undefined = scorecard.innings[inningsType];
     if (!innings) {
       scorecard.innings[inningsType] = {
         teamId: scorecardInningsEntry.teamId,
@@ -328,19 +373,22 @@ export async function addInningsScore(
 
     baseScorecardKeys.forEach((key) => {
       let val = scorecardInningsEntry[key];
-      if (val !== undefined) (innings[key] as typeof val) = val;
+      if (val !== undefined) (innings![key] as typeof val) = val;
     });
 
     batterHolderKeys.forEach((key) => {
       let batter = scorecardInningsEntry[key];
       if (!batter) return;
-      addScorecardPlayers(innings.batters, batter, batterKeys);
+
+      batter.isStriker = key === "batsmanStriker";
+      addScorecardBatter(innings!.batters, batter);
     });
 
     bowlerHolderKeys.forEach((key) => {
       let bowler = scorecardInningsEntry[key];
       if (!bowler) return;
-      addScorecardPlayers(innings.bowlers, bowler, bowlerKeys);
+
+      addScorecardBowler(innings!.bowlers, bowler);
     });
 
     let results = await scorecard.save();
@@ -348,6 +396,68 @@ export async function addInningsScore(
     res.status(200).json({
       status: "success",
       message: "Added successfully",
+    });
+  } catch (err) {
+    next(err);
+  }
+}
+
+export async function deleteInningsScore(
+  req: Request<
+    getValidationType<{
+      id: "DatabaseIntIdParam";
+      inningsType: "InningsType";
+    }>,
+    {},
+    ScorecardInningsEntry
+  >,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+    const inningsType: InningsType = req.params.inningsType;
+
+    const nextInningsType: InningsType | undefined =
+      INNINGS_TYPES[INNINGS_TYPES.indexOf(inningsType) + 1];
+
+    const columnsToFetch = { [`innings.${inningsType}.teamId`]: 1 };
+    if (nextInningsType) {
+      columnsToFetch[`innings.${nextInningsType}.teamId`] = 1;
+    }
+
+    let scorecard = await Scorecard.findOne(
+      {
+        matchId,
+      },
+      {
+        ...columnsToFetch,
+      }
+    );
+
+    if (!scorecard) {
+      res.status(404);
+      throw new Error("Scorecard does not exist.");
+    }
+
+    if (scorecard.innings[nextInningsType]) {
+      res.status(400);
+      throw new Error(
+        `Cannot delete '${inningsType}' innings before '${nextInningsType}' innings.`
+      );
+    }
+
+    scorecard.innings[inningsType] = undefined;
+
+    if (inningsType === "first") {
+      await scorecard.deleteOne();
+    } else {
+      await scorecard.save();
+    }
+
+    res.status(200).json({
+      status: "success",
+      message: "Innings deleted successfully",
     });
   } catch (err) {
     next(err);

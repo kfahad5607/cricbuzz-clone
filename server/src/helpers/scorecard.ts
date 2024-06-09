@@ -23,19 +23,46 @@ export const bowlerHolderKeys: BowlerHolderKeys[] = [
   "bowlerNonStriker",
 ];
 
-export const batterKeys: BatterKeys[] = ScorecardBatter.keyof().options;
-export const bowlerKeys: BowlerKeys[] = ScorecardBowler.keyof().options;
+export const batterKeys: BatterKeys[] = ScorecardBatter.omit({
+  id: true,
+}).keyof().options;
+export const bowlerKeys: BowlerKeys[] = ScorecardBowler.omit({
+  id: true,
+}).keyof().options;
 
 // Operations based
-export function addScorecardPlayers<PlayerT extends { id: number }>(
-  players: PlayerT[],
-  currentPlayer: PlayerT,
-  keys: (keyof PlayerT)[]
+export function addScorecardBatter(
+  players: ScorecardBatter[],
+  currentPlayer: ScorecardBatter
 ) {
   for (let i = 0; i < players.length; i++) {
     const player = players[i];
     if (player.id === currentPlayer.id) {
-      keys.forEach((key) => {
+      batterKeys.forEach((key) => {
+        let val = currentPlayer[key];
+        if (val !== undefined) (player[key] as typeof val) = val;
+      });
+
+      if (currentPlayer.fallOfWicket) player.isStriker = undefined;
+      else player.fallOfWicket = undefined;
+
+      return players;
+    }
+  }
+
+  players.push(currentPlayer);
+
+  return players;
+}
+
+export function addScorecardBowler(
+  players: ScorecardBowler[],
+  currentPlayer: ScorecardBowler
+) {
+  for (let i = 0; i < players.length; i++) {
+    const player = players[i];
+    if (player.id === currentPlayer.id) {
+      bowlerKeys.forEach((key) => {
         let val = currentPlayer[key];
         if (val !== undefined) player[key] = val;
       });

@@ -12,6 +12,7 @@ const ScorecardBatterSchema = z.object({
   dotBalls: z.number().nonnegative().default(0),
   batFours: z.number().nonnegative().default(0),
   batSixes: z.number().nonnegative().default(0),
+  isStriker: z.boolean().optional(),
 });
 
 const fallOfWicketSchema = z.object({
@@ -20,7 +21,7 @@ const fallOfWicketSchema = z.object({
   teamScore: z.number().nonnegative(),
   teamWickets: z.number().nonnegative(),
   bowlerId: z.number().positive().optional(),
-  helpers: z.array(z.number().positive()).max(2),
+  helpers: z.array(z.number().positive()).max(2).default([]),
 });
 
 export const ScorecardBatter = ScorecardBatterSchema.extend({
@@ -55,21 +56,21 @@ export const BaseScorecardInnings = z.object({
   wickets: z.number().nonnegative().default(0),
   isDeclared: z.boolean().optional(),
   isFollowOn: z.boolean().optional(),
+  extras: extraBall,
 });
 
 export const ScorecardInnings = BaseScorecardInnings.extend({
   batters: z.array(ScorecardBatter),
   bowlers: z.array(ScorecardBowler),
-  extras: extraBall,
 });
 
 export const Scorecard = z.object({
   matchId: z.number().positive(),
   innings: z.object({
-    first: ScorecardInnings,
-    second: ScorecardInnings,
-    third: ScorecardInnings,
-    fourth: ScorecardInnings,
+    first: ScorecardInnings.optional(),
+    second: ScorecardInnings.optional(),
+    third: ScorecardInnings.optional(),
+    fourth: ScorecardInnings.optional(),
   }),
 });
 

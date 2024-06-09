@@ -11,17 +11,21 @@ const scorecardBatterSchema = new Schema(
     dotBalls: PositiveNumberType,
     batFours: PositiveNumberType,
     batSixes: PositiveNumberType,
-    fallOfWicket: new Schema({
-      dismissalType: {
-        type: String,
-        enum: DISMISSAL_TYPES_VALUES,
+    isStriker: Boolean,
+    fallOfWicket: new Schema(
+      {
+        dismissalType: {
+          type: String,
+          enum: DISMISSAL_TYPES_VALUES,
+        },
+        overs: PositiveNumberType,
+        teamScore: PositiveNumberType,
+        teamWickets: PositiveNumberType,
+        bowlerId: DBIdType,
+        helpers: [DBIdType],
       },
-      overs: PositiveNumberType,
-      teamScore: PositiveNumberType,
-      teamWickets: PositiveNumberType,
-      bowlerId: DBIdType,
-      helpers: [DBIdType],
-    }),
+      { _id: false }
+    ),
   },
   { _id: false }
 );

@@ -13,6 +13,8 @@ import {
   getMatchInfo,
   addInningsScore,
   getInningsScore,
+  getAllInningsScore,
+  deleteInningsScore,
 } from "../controllers/matches";
 import { validateRequest } from "../middlewares";
 import {
@@ -128,6 +130,16 @@ router.delete(
 );
 
 router.get(
+  "/:id/innings/score",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+    }),
+  }),
+  getAllInningsScore
+);
+
+router.get(
   "/:id/innings/:inningsType/score",
   validateRequest({
     params: getValidationSchema({
@@ -148,6 +160,17 @@ router.post(
     body: ScorecardInningsEntry,
   }),
   addInningsScore
+);
+
+router.delete(
+  "/:id/innings/:inningsType/score",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+      inningsType: "InningsType",
+    }),
+  }),
+  deleteInningsScore
 );
 
 export default router;
