@@ -6,7 +6,6 @@ import {
   getOne,
   getCurrentMatches,
   updateOne,
-  getMatchSquads,
   addMatchPlayer,
   removeMatchPlayer,
   updateMatchPlayer,
@@ -15,6 +14,7 @@ import {
   getInningsScore,
   getAllInningsScore,
   deleteInningsScore,
+  getMatchPlayers,
 } from "../controllers/matches";
 import { validateRequest } from "../middlewares";
 import {
@@ -42,13 +42,13 @@ router.get(
 );
 
 router.get(
-  "/:id/squads",
+  "/:id/players",
   validateRequest({
     params: getValidationSchema({
       id: "DatabaseIntIdParam",
     }),
   }),
-  getMatchSquads
+  getMatchPlayers
 );
 
 router.post(

@@ -75,15 +75,18 @@ export type NewMatch = z.infer<typeof NewMatch>;
 export type Match = z.infer<typeof Match>;
 export type MatchOptional = z.infer<typeof MatchOptional>;
 export type MatchWithId = z.infer<typeof MatchWithId>;
-export type MatchSquad<PlayerT extends MatchSquadPlayer> = {
-  matchId: number;
-  teams: {
-    teamId: number;
-    players: PlayerT[];
-  }[];
-};
 
 // manual types
+export type TeamSquad<PlayerT extends MatchSquadPlayer> = {
+  teamId: number;
+  players: PlayerT[];
+};
+
+export type MatchSquad<PlayerT extends MatchSquadPlayer> = {
+  matchId: number;
+  teams: TeamSquad<PlayerT>[];
+};
+
 export type MatchCard = Pick<
   MatchWithId,
   "id" | "slug" | "description" | "matchFormat" | "status" | "startTime"

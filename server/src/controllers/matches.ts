@@ -28,6 +28,7 @@ import {
   PlayerOptional,
   SlugInputColumns,
   SlugInputData,
+  TeamSquad,
   UpdateDocType,
   getValidationType,
 } from "../types";
@@ -515,7 +516,7 @@ export async function getMatchInfo(
   try {
     const matchId = parseInt(req.params.id);
 
-    const result = await db.query.matches.findFirst({
+    const matchData = await db.query.matches.findFirst({
       columns: {
         id: true,
         slug: true,
@@ -554,12 +555,93 @@ export async function getMatchInfo(
       },
     });
 
-    if (!result) {
+    if (!matchData) {
       res.status(404);
       throw new Error(`Match with ID '${matchId}' does not exist.`);
     }
 
-    res.status(200).json(result);
+    const matchSquads: MatchSquad<MatchSquadPlayer>[] =
+      await MatchSquads.aggregate([
+        { $match: { matchId } },
+        {
+          $project: {
+            teams: {
+              $map: {
+                input: "$teams",
+                as: "team",
+                in: {
+                  teamId: "$$team.teamId",
+                  players: {
+                    $filter: {
+                      input: "$$team.players",
+                      as: "player",
+                      cond: {
+                        $or: [
+                          { $eq: ["$$player.isPlaying", true] },
+                          { $eq: ["$$player.isInSubs", true] },
+                        ],
+                      },
+                    },
+                  },
+                },
+              },
+            },
+          },
+        },
+      ]);
+
+    if (matchSquads.length === 0) {
+      res.status(400);
+      throw new Error("Match squad does not exist.");
+    }
+
+    const playerIds: DatabaseIntId[] = [];
+    matchSquads[0].teams.forEach((team) => {
+      team.players.map((player) => playerIds.push(player.playerId));
+    });
+
+    const playersData = await db
+      .select({
+        id: playersTable.id,
+        name: playersTable.name,
+        shortName: playersTable.shortName,
+        slug: playersTable.slug,
+        roleInfo: playersTable.roleInfo,
+      })
+      .from(playersTable)
+      .where(inArray(playersTable.id, playerIds));
+
+    let playersInfoMap: { [key: DatabaseIntId]: PlayerOptional } = {};
+    playersInfoMap = playersData.reduce((acc, val) => {
+      acc[val.id] = val;
+      return acc;
+    }, playersInfoMap);
+
+    const squads: TeamSquad<MatchSquadPlayerWithInfo>[] =
+      matchSquads[0].teams.map(
+        (team): { teamId: number; players: MatchSquadPlayerWithInfo[] } => {
+          team.players = team.players.map(
+            (player): MatchSquadPlayerWithInfo => {
+              let playerWithInfo: MatchSquadPlayerWithInfo = {
+                ...player,
+                ...playersInfoMap[player.playerId],
+              };
+              return playerWithInfo;
+            }
+          );
+
+          return team;
+        }
+      );
+
+    const matchDataWithSquads: typeof matchData & {
+      squads: TeamSquad<MatchSquadPlayerWithInfo>[];
+    } = {
+      ...matchData,
+      squads,
+    };
+
+    res.status(200).json(matchDataWithSquads);
   } catch (err) {
     next(err);
   }
@@ -717,7 +799,7 @@ export async function updateMatchPlayer(
   }
 }
 
-export async function getMatchSquads(
+export async function getMatchPlayers(
   req: Request<
     getValidationType<{ id: "DatabaseIntIdParam" }>,
     {},
@@ -760,13 +842,8 @@ export async function getMatchSquads(
       return acc;
     }, playersInfoMap);
 
-    let matchSquadWithPlayerInfo: MatchSquad<MatchSquadPlayerWithInfo> = {
-      matchId: results.matchId,
-      teams: [],
-    } as MatchSquad<MatchSquadPlayerWithInfo>;
-
-    matchSquadWithPlayerInfo.teams = results.teams.map(
-      (team): { teamId: number; players: MatchSquadPlayerWithInfo[] } => {
+    const teamSquads = results.teams.map(
+      (team): TeamSquad<MatchSquadPlayerWithInfo> => {
         team.players = team.players.map((player): MatchSquadPlayerWithInfo => {
           let playerWithInfo: MatchSquadPlayerWithInfo = {
             ...player,
@@ -779,7 +856,7 @@ export async function getMatchSquads(
       }
     );
 
-    res.status(200).json(matchSquadWithPlayerInfo);
+    res.status(200).json(teamSquads);
   } catch (err) {
     next(err);
   }
