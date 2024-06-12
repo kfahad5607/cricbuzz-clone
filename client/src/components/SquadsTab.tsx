@@ -1,8 +1,8 @@
 import { useQuery } from "@tanstack/react-query";
-import { ReactNode, useEffect, useRef } from "react";
+import { ReactNode, useRef } from "react";
 import { useParams } from "react-router-dom";
 import apiClient from "../services/api-client";
-import { MatchSquad } from "../types/matches";
+import { TeamSquad } from "../types/matches";
 import { MatchSquadPlayer } from "../types/players";
 import SquadPlayerList from "./SquadPlayerList";
 import OverseasPlayerIcon from "./icons/OverseasPlayerIcon";
@@ -30,16 +30,12 @@ const SquadsTab = () => {
   const { matchId } = useParams();
   const showLegendsRef = useRef(false);
 
-  const { data, error, isLoading } = useQuery<MatchSquad>({
+  const { data, error, isLoading } = useQuery<TeamSquad[]>({
     queryKey: ["matchSquadsPlayers", matchId],
     queryFn: () =>
-      apiClient.get(`matches/${matchId}/squads`).then((res) => res.data),
+      apiClient.get(`matches/${matchId}/players`).then((res) => res.data),
     retry: 1,
   });
-
-  useEffect(() => {
-    if (!data) return;
-  }, [data]);
 
   if (isLoading)
     return <div className="text-center mx-2 my-3 text-xl">Loading...</div>;
@@ -88,7 +84,7 @@ const SquadsTab = () => {
     },
   ];
 
-  data.teams.forEach((team, teamIdx) => {
+  data.forEach((team, teamIdx) => {
     let _showLegends = false;
     team.players.forEach((player) => {
       if (player.isPlaying) squadLists[0].teams[teamIdx].players.push(player);
@@ -142,8 +138,8 @@ const SquadsTab = () => {
       </div>
       {showLegendsRef.current && (
         <div className="pl-5">
-          {legendsList.map((legend) => (
-            <div className="flex items-center gap-x-3 mb-3">
+          {legendsList.map((legend, legendIdx) => (
+            <div key={legendIdx} className="flex items-center gap-x-3 mb-3">
               {legend.icon}
               <div className="font-normal text-sm">{legend.title}</div>
             </div>

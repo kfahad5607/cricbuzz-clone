@@ -52,12 +52,15 @@ export type MatchInfo = {
   venue: VenueMatchInfo;
   homeTeam: TeamMatchInfo;
   awayTeam: TeamMatchInfo;
+  squads: TeamSquad[];
+};
+
+export type TeamSquad = {
+  teamId: number;
+  players: MatchSquadPlayer[];
 };
 
 export type MatchSquad = {
   matchId: number;
-  teams: {
-    teamId: number;
-    players: MatchSquadPlayer[];
-  }[];
+  teams: TeamSquad[];
 };

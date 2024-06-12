@@ -29,8 +29,6 @@ const MatchPage = () => {
   if (error) return <h3>{"Something went wrong " + error.message}</h3>;
   if (!data) return <h3>{"Unable to get match page"}</h3>;
 
-  console.log("data ", data);
-
   return (
     <div className="px-3 py-2 border-2 border-red-400 bg-white">
       <div>

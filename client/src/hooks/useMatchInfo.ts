@@ -9,4 +9,5 @@ const useMatchInfo = (matchId: number) =>
       apiClient.get(`matches/${matchId}/info`).then((res) => res.data),
     retry: 1,
   });
+
 export default useMatchInfo;
