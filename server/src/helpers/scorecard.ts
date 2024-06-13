@@ -7,16 +7,20 @@ import {
   BowlerKeys,
   ScorecardBatter,
   ScorecardBowler,
+  ScorecardInningsEntry,
 } from "../types/scorecard";
 
 // const
 export const baseScorecardKeys: BaseScorecardKeys[] =
   BaseScorecardInnings.keyof().options;
 
-export const batterHolderKeys: BatterHolderKeys[] = [
-  "batsmanStriker",
-  "batsmanNonStriker",
-];
+export const batterHolderKeysEnum = ScorecardInningsEntry.pick({
+  batsmanStriker: true,
+  batsmanNonStriker: true,
+}).keyof();
+
+export const batterHolderKeys: BatterHolderKeys[] =
+  batterHolderKeysEnum.options;
 
 export const bowlerHolderKeys: BowlerHolderKeys[] = [
   "bowlerStriker",

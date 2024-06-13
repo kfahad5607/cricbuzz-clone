@@ -3,14 +3,28 @@ import { DBIdType, DBIdUniqueType, PositiveNumberType } from "../schemaTypes";
 import { DISMISSAL_TYPES_VALUES } from "../../../helpers/constants";
 import { Scorecard as ScorecardType } from "../../../types/scorecard";
 
+export const batterSchemaObj = {
+  id: DBIdType,
+  batRuns: PositiveNumberType,
+  ballsPlayed: PositiveNumberType,
+  dotBalls: PositiveNumberType,
+  batFours: PositiveNumberType,
+  batSixes: PositiveNumberType,
+};
+
+export const bowlerSchemaObj = {
+  id: DBIdType,
+  bowlOvers: PositiveNumberType,
+  bowlMaidens: PositiveNumberType,
+  bowlRuns: PositiveNumberType,
+  bowlWickets: PositiveNumberType,
+  bowlWides: PositiveNumberType,
+  bowlNoBalls: PositiveNumberType,
+};
+
 const scorecardBatterSchema = new Schema(
   {
-    id: DBIdType,
-    batRuns: PositiveNumberType,
-    ballsPlayed: PositiveNumberType,
-    dotBalls: PositiveNumberType,
-    batFours: PositiveNumberType,
-    batSixes: PositiveNumberType,
+    ...batterSchemaObj,
     isStriker: Boolean,
     fallOfWicket: new Schema(
       {
@@ -31,15 +45,7 @@ const scorecardBatterSchema = new Schema(
 );
 
 const scorecardBowlerSchema = new Schema(
-  {
-    id: DBIdType,
-    bowlOvers: PositiveNumberType,
-    bowlMaidens: PositiveNumberType,
-    bowlRuns: PositiveNumberType,
-    bowlWickets: PositiveNumberType,
-    bowlWides: PositiveNumberType,
-    bowlNoBalls: PositiveNumberType,
-  },
+  { ...bowlerSchemaObj },
   { _id: false }
 );
 

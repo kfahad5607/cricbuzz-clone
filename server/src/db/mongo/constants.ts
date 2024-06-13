@@ -10,4 +10,4 @@ export const BALL_EVENTS = [
   "INJURY",
   "TEAM_HUNDRED",
   "RUNOUT_MISS",
-];
+] as const;
