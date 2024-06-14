@@ -15,6 +15,10 @@ import {
   getAllInningsScore,
   deleteInningsScore,
   getMatchPlayers,
+  getMatchScore,
+  addInningsCommentary,
+  getFullCommentary,
+  getCommentary,
 } from "../controllers/matches";
 import { validateRequest } from "../middlewares";
 import {
@@ -25,6 +29,7 @@ import {
   getValidationSchema,
 } from "../types";
 import { ScorecardInningsEntry } from "../types/scorecard";
+import { CommentaryInningsEntry } from "../types/commentary";
 
 const router = express.Router();
 
@@ -73,6 +78,16 @@ router.delete(
     }),
   }),
   removeMatchPlayer
+);
+
+router.get(
+  "/:id/score",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+    }),
+  }),
+  getMatchScore
 );
 
 router.patch(
@@ -171,6 +186,39 @@ router.delete(
     }),
   }),
   deleteInningsScore
+);
+
+router.get(
+  "/:id/innings/:inningsType/commentary",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+      inningsType: "InningsType",
+    }),
+  }),
+  getFullCommentary
+);
+
+router.get(
+  "/:id/commentary",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+    }),
+  }),
+  getCommentary
+);
+
+router.post(
+  "/:id/innings/:inningsType/commentary",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+      inningsType: "InningsType",
+    }),
+    body: CommentaryInningsEntry,
+  }),
+  addInningsCommentary
 );
 
 export default router;

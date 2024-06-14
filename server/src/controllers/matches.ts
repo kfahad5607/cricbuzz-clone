@@ -38,6 +38,8 @@ import {
   ScorecardInnings,
   ScorecardInningsEntry,
 } from "../types/scorecard";
+import Commentary from "../db/mongo/schema/commentary";
+import { CommentaryInningsEntry } from "../types/commentary";
 
 // tables
 const matchesTable = tables.matches;
@@ -465,6 +467,270 @@ export async function deleteInningsScore(
   }
 }
 
+export async function getFullCommentary(
+  req: Request<
+    getValidationType<{
+      id: "DatabaseIntIdParam";
+      inningsType: "InningsType";
+    }>
+  >,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+    const inningsType = req.params.inningsType;
+    const inningsIndex = INNINGS_TYPES.indexOf(inningsType);
+
+    const result = await Commentary.aggregate([
+      {
+        $match: {
+          matchId,
+        },
+      },
+      {
+        $project: {
+          innings: { $arrayElemAt: ["$innings", inningsIndex] },
+        },
+      },
+    ]);
+
+    if (!result[0] || !result[0].innings) {
+      res.status(404);
+      throw new Error(`No commentary found.`);
+    }
+
+    console.log("results ", result);
+
+    res.status(200).json({
+      status: "success",
+      data: result[0].innings,
+    });
+  } catch (err) {
+    next(err);
+  }
+}
+
+export async function getCommentary(
+  req: Request<
+    getValidationType<{
+      id: "DatabaseIntIdParam";
+    }>
+  >,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+    console.log("getMatchFullCommentary ", matchId);
+
+    const result = await Commentary.aggregate([
+      { $match: { matchId } },
+      {
+        $project: {
+          lastInning: { $arrayElemAt: ["$innings", -1] },
+        },
+      },
+      {
+        $project: {
+          commentaryList: {
+            $slice: ["$lastInning.commentaryList", -20],
+          },
+        },
+      },
+    ]);
+
+    if (!result) {
+      res.status(404);
+      throw new Error(`No commentary found.`);
+    }
+
+    console.log("results ", result);
+
+    res.status(200).json({
+      status: "success",
+      data: result,
+    });
+  } catch (err) {
+    next(err);
+  }
+}
+
+export async function addInningsCommentary(
+  req: Request<
+    getValidationType<{
+      id: "DatabaseIntIdParam";
+      inningsType: "InningsType";
+    }>,
+    {},
+    CommentaryInningsEntry
+  >,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+    const inningsType: InningsType = req.params.inningsType;
+    const inningsIndex = INNINGS_TYPES.indexOf(inningsType);
+    const prevInningsType: InningsType | undefined =
+      INNINGS_TYPES[inningsIndex - 1];
+    const commentaryEntry = req.body;
+    const scorecardInningsEntry = commentaryEntry.scorecard;
+    const commentaryStriker =
+      scorecardInningsEntry[commentaryEntry.ballStrikerKey];
+    const teamId = scorecardInningsEntry.teamId;
+
+    const commentaryItem = {
+      commText: commentaryEntry.commText,
+      timestamp: new Date().getTime(),
+      overs: scorecardInningsEntry.oversBowled,
+      events: commentaryEntry.events,
+      batsmanStriker: commentaryStriker,
+      bowlerStriker: scorecardInningsEntry.bowlerStriker,
+    };
+
+    const scoreColumnsToFetch = { [`innings.${inningsType}`]: 1 };
+    const commentaryFilter: Record<string, unknown> = {
+      matchId,
+    };
+
+    if (prevInningsType) {
+      scoreColumnsToFetch[`innings.${prevInningsType}.teamId`] = 1;
+      commentaryFilter[`innings.${inningsIndex - 1}`] = { $exists: true };
+    }
+
+    let scorecard = await Scorecard.findOne(
+      {
+        matchId,
+      },
+      {
+        ...scoreColumnsToFetch,
+      }
+    );
+
+    if (!scorecard) {
+      // document does not exist
+      if (prevInningsType)
+        throw new Error(
+          `Cannot add score for '${inningsType}' innings before '${prevInningsType}' innings`
+        );
+
+      // validate match
+      await verifyMatchAndTeam(matchId, teamId);
+
+      scorecard = new Scorecard({
+        matchId,
+        innings: {
+          first: {
+            teamId,
+            overs: 0,
+            oversBowled: 0,
+            score: 0,
+            wickets: 0,
+            extras: {
+              nos: 0,
+              wides: 0,
+              legByes: 0,
+              byes: 0,
+              penalties: 0,
+            },
+            batters: [],
+            bowlers: [],
+          },
+        },
+      });
+    }
+
+    if (prevInningsType && !scorecard.innings[prevInningsType]) {
+      throw new Error(
+        `Cannot add score for '${inningsType}' innings before '${prevInningsType}' innings`
+      );
+    }
+
+    let innings: ScorecardInnings | undefined = scorecard.innings[inningsType];
+    if (!innings) {
+      scorecard.innings[inningsType] = {
+        teamId: scorecardInningsEntry.teamId,
+        overs: 0,
+        oversBowled: 0,
+        score: 0,
+        wickets: 0,
+        extras: {
+          nos: 0,
+          wides: 0,
+          legByes: 0,
+          byes: 0,
+          penalties: 0,
+        },
+        batters: [],
+        bowlers: [],
+      };
+
+      innings = scorecard.innings[inningsType];
+    }
+
+    baseScorecardKeys.forEach((key) => {
+      let val = scorecardInningsEntry[key];
+      if (val !== undefined) (innings![key] as typeof val) = val;
+    });
+
+    batterHolderKeys.forEach((key) => {
+      let batter = scorecardInningsEntry[key];
+      if (!batter) return;
+
+      batter.isStriker = key === "batsmanStriker";
+      addScorecardBatter(innings!.batters, batter);
+    });
+
+    bowlerHolderKeys.forEach((key) => {
+      let bowler = scorecardInningsEntry[key];
+      if (!bowler) return;
+
+      addScorecardBowler(innings!.bowlers, bowler);
+    });
+
+    await scorecard.save();
+
+    const results = await Commentary.updateOne(commentaryFilter, {
+      $set: {
+        [`innings.${inningsIndex}.teamId`]: teamId,
+      },
+      $push: {
+        [`innings.${inningsIndex}.commentaryList`]: commentaryItem,
+      },
+    });
+
+    if (results.matchedCount === 0) {
+      // commentary does not exist
+
+      // validate match
+      await verifyMatchAndTeam(matchId, teamId);
+
+      if (prevInningsType)
+        throw new Error(
+          `Cannot add commentary for '${inningsType}' innings before '${prevInningsType}' innings.`
+        );
+
+      const commentary = await Commentary.create({
+        matchId,
+        innings: [
+          {
+            teamId,
+            commentaryList: [commentaryItem],
+          },
+        ],
+      });
+    }
+
+    res.status(200).json({
+      status: "success",
+      message: "Added successfully",
+    });
+  } catch (err) {
+    next(err);
+  }
+}
+
 // public
 export async function getCurrentMatches(
   req: Request,
@@ -509,6 +775,145 @@ export async function getCurrentMatches(
 }
 
 export async function getMatchInfo(
+  req: Request<getValidationType<{ id: "DatabaseIntIdParam" }>>,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+
+    const matchData = await db.query.matches.findFirst({
+      columns: {
+        id: true,
+        slug: true,
+        description: true,
+        matchFormat: true,
+        startTime: true,
+        status: true,
+      },
+      with: {
+        series: {
+          columns: {
+            description: false,
+          },
+        },
+        venue: {
+          columns: {
+            country: false,
+          },
+        },
+        homeTeam: {
+          columns: {
+            id: true,
+            name: true,
+            slug: true,
+            shortName: true,
+          },
+        },
+        awayTeam: {
+          columns: {
+            id: true,
+            name: true,
+            slug: true,
+            shortName: true,
+          },
+        },
+      },
+    });
+
+    if (!matchData) {
+      res.status(404);
+      throw new Error(`Match with ID '${matchId}' does not exist.`);
+    }
+
+    const matchSquads: MatchSquad<MatchSquadPlayer>[] =
+      await MatchSquads.aggregate([
+        { $match: { matchId } },
+        {
+          $project: {
+            teams: {
+              $map: {
+                input: "$teams",
+                as: "team",
+                in: {
+                  teamId: "$$team.teamId",
+                  players: {
+                    $filter: {
+                      input: "$$team.players",
+                      as: "player",
+                      cond: {
+                        $or: [
+                          { $eq: ["$$player.isPlaying", true] },
+                          { $eq: ["$$player.isInSubs", true] },
+                        ],
+                      },
+                    },
+                  },
+                },
+              },
+            },
+          },
+        },
+      ]);
+
+    if (matchSquads.length === 0) {
+      res.status(400);
+      throw new Error("Match squad does not exist.");
+    }
+
+    const playerIds: DatabaseIntId[] = [];
+    matchSquads[0].teams.forEach((team) => {
+      team.players.map((player) => playerIds.push(player.playerId));
+    });
+
+    const playersData = await db
+      .select({
+        id: playersTable.id,
+        name: playersTable.name,
+        shortName: playersTable.shortName,
+        slug: playersTable.slug,
+        roleInfo: playersTable.roleInfo,
+      })
+      .from(playersTable)
+      .where(inArray(playersTable.id, playerIds));
+
+    let playersInfoMap: { [key: DatabaseIntId]: PlayerOptional } = {};
+    playersInfoMap = playersData.reduce((acc, val) => {
+      acc[val.id] = val;
+      return acc;
+    }, playersInfoMap);
+
+    const squads: TeamSquad<MatchSquadPlayerWithInfo>[] =
+      matchSquads[0].teams.map(
+        (team): { teamId: number; players: MatchSquadPlayerWithInfo[] } => {
+          team.players = team.players.map(
+            (player): MatchSquadPlayerWithInfo => {
+              let playerWithInfo: MatchSquadPlayerWithInfo = {
+                ...player,
+                ...playersInfoMap[player.playerId],
+              };
+              return playerWithInfo;
+            }
+          );
+
+          return team;
+        }
+      );
+
+    const matchDataWithSquads: typeof matchData & {
+      squads: TeamSquad<MatchSquadPlayerWithInfo>[];
+    } = {
+      ...matchData,
+      squads,
+    };
+
+    res.status(200).json(matchDataWithSquads);
+  } catch (err) {
+    next(err);
+  }
+}
+
+export async function getMatchScore(
   req: Request<getValidationType<{ id: "DatabaseIntIdParam" }>>,
   res: Response,
   next: NextFunction
