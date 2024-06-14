@@ -1,19 +1,28 @@
 import { Schema, model } from "mongoose";
-import { DBIdType, PositiveNumberType } from "../schemaTypes";
+import { DBIdType, DBIdUniqueType, PositiveNumberType } from "../schemaTypes";
 import { BALL_EVENTS } from "../constants";
 import { batterSchemaObj, bowlerSchemaObj } from "./scorecard";
 
 const commentaryItemSchema = new Schema({
-  timestamp: Number,
-  overs: PositiveNumberType,
-  commText: String,
+  timestamp: {
+    type: Number,
+    required: true,
+  },
+  overs: { ...PositiveNumberType, required: true },
+  commText: { type: String, required: true },
   events: [{ type: String, enum: BALL_EVENTS }],
-  batsmanStriker: batterSchemaObj,
-  bowlerStriker: bowlerSchemaObj,
+  batsmanStriker: {
+    type: batterSchemaObj,
+    required: true,
+  },
+  bowlerStriker: {
+    type: bowlerSchemaObj,
+    required: true,
+  },
 });
 
 const commentarySchema = new Schema({
-  matchId: DBIdType,
+  matchId: DBIdUniqueType,
   innings: [
     new Schema(
       {
