@@ -1,63 +1,9 @@
-from datetime import datetime
-import json
-import time
-import requests
-from urllib.parse import urlparse
 from bs4 import BeautifulSoup
+from utils import (format_date, sleep, get_param_from_url, get_html_content)
+from utils.file import (get_file_data, set_file_data)
 
 BASE_URL = 'https://www.cricbuzz.com'
-BASE_DATA_PATH = 'data/'
 
-
-def format_date(str_date):
-    input_format = "%b %d, %Y"
-    output_format = "%d-%m-%Y"
-
-    date_str = str_date.strip().split(" (")[0]
-    date_obj = datetime.strptime(date_str, input_format)
-
-    return date_obj.strftime(output_format)
-
-def sleep(duration):
-    print(f"Sleeping for {duration} seconds...")
-    time.sleep(duration)
-
-def get_param_from_url(url, pos):
-    parsed_url = urlparse(url) 
-    path_segments = parsed_url.path.split('/') 
-
-    return path_segments[pos]
-
-def get_html_content(url):
-    try:
-        response = requests.get(url=url)
-
-        if response.status_code == 200:
-            return response.content
-        
-    except Exception as e:
-        print("ERROR in get_html_content ==> ", e.args)
-
-    return None
-
-def set_file_data(file_path, data):
-    try:
-        with open(BASE_DATA_PATH + file_path, 'w') as fd:
-            json.dump(data, fd, indent=2)
-
-    except Exception as e:
-        print("ERROR in set_file_data ==> ", e.args)
-
-def get_file_data(file_path, default_data = {}):
-    try:
-        data = default_data
-        with open(BASE_DATA_PATH + file_path, 'r') as fd:
-            data = json.load(fd)
-
-    except Exception as e:
-        print("ERROR in get_file_data ==> ", e.args)
-
-    return data
 
 def get_series_venues(series_id):
     try:
