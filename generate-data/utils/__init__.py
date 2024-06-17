@@ -1,3 +1,4 @@
+import re
 import time
 from urllib.parse import urlparse
 import requests
@@ -26,6 +27,11 @@ def sleep(duration):
     print(f"Sleeping for {duration} seconds...")
     time.sleep(duration)
 
+def extract_number(s):
+    match = re.search(r'\d+', s)
+    if match:
+        return int(match.group())
+    return None
 
 def get_html_content(url):
     try:
@@ -33,6 +39,18 @@ def get_html_content(url):
 
         if response.status_code == 200:
             return response.content
+        
+    except Exception as e:
+        print("ERROR in get_html_content ==> ", e.args)
+
+    return None
+
+def get_json_content(url):
+    try:
+        response = requests.get(url=url)
+
+        if response.status_code == 200:
+            return response.json()
         
     except Exception as e:
         print("ERROR in get_html_content ==> ", e.args)

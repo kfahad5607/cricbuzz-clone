@@ -1,9 +1,8 @@
 from bs4 import BeautifulSoup
-from utils import (format_date, sleep, get_param_from_url, get_html_content)
+from utils import (extract_number, format_date, get_json_content, sleep, get_param_from_url, get_html_content)
 from utils.file import (get_file_data, set_file_data)
 
 BASE_URL = 'https://www.cricbuzz.com'
-
 
 def get_series_venues(series_id):
     try:
@@ -20,13 +19,12 @@ def get_series_venues(series_id):
             a_tag = venue.find('a')
             venue_url = BASE_URL + a_tag.attrs['href']
             id = get_param_from_url(venue_url, 5)
-            print("id ", id, venue_url)
             venue_data = get_venue(id=id)
 
             if venue_data:
                 existing_venues[venue_data['id']] = venue_data
                 
-            sleep(1)
+            sleep(1.5)
         set_file_data(file_path=venues_file_path, data=existing_venues)
     except Exception as e:
         print("ERROR in get_series_venues ==> ", e.args)
@@ -34,6 +32,7 @@ def get_series_venues(series_id):
 def get_venue(id):
     try:
         url = BASE_URL + f'/cricket-venues/{id}/venue-slug'
+        print(f'Fetching venue data for {id=} and {url=}')
         data = {
             'id': id,
             'name': '',
@@ -59,6 +58,7 @@ def get_venue(id):
 def get_player(id):
     try: 
         url = BASE_URL + f'/profiles/{id}/player-slug'
+        print(f'Fetching player data for {id=} and {url=}')
         data = {
             'id': id,
             'name': '',
@@ -134,6 +134,44 @@ def get_team_players(team_ids):
     except Exception as e:
         print("ERROR in main ==> ", e.args)
 
+def get_match_info(match_id):
+    try:
+        url = f"https://www.cricbuzz.com/api/cricket-match/{match_id}/full-commentary/0"
+        json_content = get_json_content(url=url)
+
+        if json_content:
+            match_details = json_content['matchDetails']['matchHeader']
+
+            match_info = {
+                'id': match_id,
+            }
+        
+            match_info['description'] = match_details['matchDescription']
+            match_info['matchFormat'] = match_details['matchFormat']
+            match_info['matchType'] = match_details['matchType']
+            match_info['matchNumber'] = extract_number(match_details['matchDescription'])
+            match_info['homeTeam'] = match_details['team1']['id']
+            match_info['awayTeam'] = match_details['team2']['id']
+            match_info['series'] = match_details['seriesId']
+            match_info['venue'] = match_details['venue']['id']
+            match_info['startTime'] = match_details['matchStartTimestamp']
+            match_info['completeTime'] = match_details['matchCompleteTimestamp']
+            match_info['tossResults'] = {
+                'tossWinnerId': match_details['tossResults']['tossWinnerId'],
+                'decision': match_details['tossResults']['decision'],
+            }
+            match_info['results'] = {
+                'winByInnings':  match_details['result']['winByInnings'],
+                'winByRuns':  match_details['result']['winByRuns'],
+                'resultType':  match_details['result']['resultType'],
+                'winningMargin':  match_details['result']['winningMargin'],
+                'winningTeamId': match_details['result']['winningteamId']
+            }
+            match_info['state'] = match_details['state']
+
+        return match_info
+    except Exception as e:
+        print("ERROR in get_match_info ==> ", e.args)
 
 def main():
     try:
