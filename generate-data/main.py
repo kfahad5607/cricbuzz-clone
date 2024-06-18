@@ -1,3 +1,4 @@
+import re
 from bs4 import BeautifulSoup
 from utils import (extract_number, format_date, get_json_content, sleep, get_param_from_url, get_html_content)
 from utils.file import (get_file_data, set_file_data)
@@ -271,6 +272,103 @@ def get_match_info(match_id):
         return match_info
     except Exception as e:
         print("ERROR in get_match_info ==> ", e.args)
+
+def get_dismissal_data(dismissal_string):
+    # Patterns for different types of dismissals
+    patterns = {
+        'caught_and_bowled': r'c & b (?P<bowler>.+)',
+        'caught': r'c (?P<catcher>.+) b (?P<bowler>.+)',
+        'bowled': r'b (?P<bowler>.+)',
+        'run_out_dual': r'run out \((?P<player1>.+)/(?P<player2>.+)\)',
+        'run_out_single': r'run out \((?P<player>.+?)\)',
+        'stumped': r'st (?P<keeper>.+) b (?P<bowler>.+)',
+        'lbw': r'lbw b (?P<bowler>.+)',
+        'hit_wicket': r'hit wicket b (?P<bowler>.+)',
+        'timed_out': r'timed out',
+        'obstructed': r'obs',
+        'retired_out': r'retired out',
+        'retired_hurt': r'retired hurt',
+        'handled': r'handled'
+    }
+    
+    for key, pattern in patterns.items():
+        match = re.match(pattern, dismissal_string)
+        if match:
+            if key == 'caught_and_bowled':
+                bowler = match.group('bowler')
+                return {
+                    'dismissalType': 'caught',
+                    'bowler': bowler
+                } 
+            elif key == 'caught':
+                catcher = match.group('catcher')
+                bowler = match.group('bowler')
+                return {
+                    'dismissalType': 'caught',
+                    'bowler': bowler,
+                    'helpers': [catcher],
+                } 
+            elif key == 'bowled':
+                bowler = match.group('bowler')
+                return {
+                    'dismissalType': 'bowled',
+                    'bowler': bowler,
+                } 
+            elif key == 'run_out_single':
+                player = match.group('player').replace("(sub)", "").strip()
+                return {
+                    'dismissalType': 'run-out',
+                    'helpers': [player],
+                } 
+            elif key == 'run_out_dual':
+                player1 = match.group('player1').replace("(sub)", "").strip()
+                player2 = match.group('player2').replace("(sub)", "").strip()
+                return {
+                    'dismissalType': 'run-out',
+                    'helpers': [player1, player2],
+                } 
+            elif key == 'stumped':
+                keeper = match.group('keeper')
+                bowler = match.group('bowler')
+                return {
+                    'dismissalType': 'stumped',
+                    'bowler':bowler,
+                    'helpers': [keeper],
+                }         
+            elif key == 'lbw':
+                bowler = match.group('bowler')
+                return {
+                    'dismissalType': 'lbw',
+                    'bowler':bowler,
+                } 
+            elif key == 'hit_wicket':
+                bowler = match.group('bowler')
+                return {
+                    'dismissalType': 'hit-wicket',
+                    'bowler':bowler,
+                } 
+            elif key == 'timed_out':
+                return {
+                    'dismissalType': 'timed-out',
+                } 
+            elif key == 'obstructed':
+                return { 
+                    'dismissalType': 'obstruct-field',
+                } 
+            elif key == 'retired_out':
+                return { 
+                    'dismissalType': 'retired',
+                } 
+            elif key == 'retired_hurt':
+                return { 
+                    'dismissalType': 'retired',
+                } 
+            elif key == 'handled':
+                return { 
+                    'dismissalType': 'handled-ball',
+                } 
+    
+    return None
 
 def main():
     try:
