@@ -1,9 +1,12 @@
 import json
+import os
 
 BASE_DATA_PATH = 'data/'
 
 def set_file_data(file_path, data):
     try:
+        file_dir = os.path.dirname(BASE_DATA_PATH + file_path)
+        os.makedirs(file_dir, exist_ok=True)
         with open(BASE_DATA_PATH + file_path, 'w') as fd:
             json.dump(data, fd, indent=2)
 

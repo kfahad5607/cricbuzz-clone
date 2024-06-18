@@ -284,6 +284,8 @@ def get_match_info(match_id):
             match_info['inningsScoreList'] = sorted(match_score_details['inningsScoreList'], key=lambda a: a['inningsId'])
             match_info['state'] = match_details['state']
 
+            set_file_data(file_path=f"series/{match_info['series']}/matches/{match_id}/info.json", data=match_info)
+
         return match_info
     except Exception as e:
         print("ERROR in get_match_info ==> ", e.args)
@@ -458,6 +460,8 @@ def get_match_scorecard(match_id):
             'innings': innings_data
         }
 
+        set_file_data(file_path=f"series/{match_info['series']}/matches/{match_id}/scorecard.json", data=scorecard_data)
+
     except Exception as e:
         print("ERROR in get_match_scorecard ==> ", e.args)
 
@@ -471,7 +475,6 @@ def get_player_id_by_name(name, lookup_data):
         print("ERROR in get_player_id_by_name", e.args)
 
     return None
-
 
 def get_dismissal_data(dismissal_string):
     # Patterns for different types of dismissals
