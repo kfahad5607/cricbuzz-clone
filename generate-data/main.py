@@ -5,6 +5,21 @@ from utils.file import (get_file_data, set_file_data)
 
 BASE_URL = 'https://www.cricbuzz.com'
 
+EXTRAS_KEYS_MAP = {
+    'b': 'byes',
+    'lb': 'legByes',
+    'nb': 'nos',
+    'w': 'wides',
+    'p': 'penalties',
+}
+
+INNINGS_ID_MAP = {
+    1: 'first', 
+    2: 'second', 
+    3: 'third', 
+    4: 'fourth', 
+}
+
 def get_series_venues(series_id):
     try:
         venues_file_path = 'venues/index.json'
@@ -272,6 +287,191 @@ def get_match_info(match_id):
         return match_info
     except Exception as e:
         print("ERROR in get_match_info ==> ", e.args)
+
+def get_match_scorecard(match_id):
+    try:
+        url = f"https://www.cricbuzz.com/live-cricket-scorecard/{match_id}/match-slug"
+        html_content = get_html_content(url=url)
+        soup = BeautifulSoup(html_content, 'html.parser')
+
+        match_info = get_match_info(match_id)
+        innings_score_list = match_info['inningsScoreList']
+        innings_data = {}
+
+        for current_innings in innings_score_list:
+            inningsId = current_innings['inningsId']
+            batTeamId = current_innings['batTeamId']
+            bowlTeamId = match_info['awayTeam'] if batTeamId == match_info['homeTeam'] else match_info['homeTeam']
+            
+            innings_el = soup.find('div', id=f"innings_{inningsId}")
+            innings_items = innings_el.find_all('div', class_='cb-col', recursive=False)
+
+            batters_el = innings_items[0]
+            batters_el = batters_el.select('.cb-col.cb-col-100.cb-scrd-itms')
+
+            fall_of_wickets_el = innings_items[2]
+            fall_of_wickets_map = {}
+            for item in fall_of_wickets_el.find_all('span'): 
+                id = get_param_from_url(item.a.attrs['href'], 2)
+                text = item.text.strip().strip(',')
+                text_data = text.split(' ', 1)
+                score, wickets = text_data[0].split('-')
+                overs = text_data[1].split(',')[-1].strip().strip(')')
+
+                fall_of_wickets_map[id] = {
+                    'overs': float(overs),
+                    'teamScore': int(score),
+                    'teamWickets': int(wickets),
+                }
+ 
+            batters_el.pop() # did not bat
+            batters_el.pop() # total
+            extras_el = batters_el.pop()
+
+            extras_data =   { 
+                'nos': 0,
+                'wides': 0,
+                'legByes': 0,
+                'byes': 0,
+                'penalties': 0,
+            }
+
+            extras_text = extras_el.find_all('div', class_='cb-col')[-1].string.strip().strip('(').strip(')')
+
+            for extra in extras_text.split(','):
+                extra_data = extra.strip().split(' ')
+                ball = extra_data[0]
+                runs = extra_data[1] 
+
+                extras_data[EXTRAS_KEYS_MAP[ball]] = int(runs)
+            
+            squads = get_file_data(file_path=f'squads/{match_id}.json')
+
+            lookup_data = squads['homeTeam']['players']
+            if bowlTeamId == squads['awayTeam']['teamId']:
+                lookup_data = squads['awayTeam']['players'] 
+            
+            batters_data = []
+            
+            for batter_el in batters_el:
+                player_el_items = batter_el.select('.cb-col')
+                batter_name_el = player_el_items[0]
+                batter_name_el = batter_name_el.find('a')
+                batter_id = get_param_from_url(url=batter_name_el.attrs['href'], pos=2)
+                
+                runs_el = player_el_items[2]
+                runs = runs_el.string.strip()
+
+                balls_el = player_el_items[3]
+                balls = balls_el.string.strip()
+
+                fours_el = player_el_items[4]
+                fours = fours_el.string.strip()
+
+                sixes_el = player_el_items[5] 
+                sixes = sixes_el.string.strip()
+
+
+                data = {
+                    'id': int(batter_id),
+                    'runs': int(runs),
+                    'balls': int(balls),
+                    'fours': int(fours),
+                    'sixes': int(sixes)
+                }
+
+
+                fall_of_wickets_data = fall_of_wickets_map.get(batter_id)
+                if fall_of_wickets_data:
+                    fall_of_wicket_el = player_el_items[1]
+                    fall_of_wicket = next(fall_of_wicket_el.stripped_strings) 
+                    dismissal_data = get_dismissal_data(fall_of_wicket)
+
+                    fall_of_wickets_data['dismissalType'] = dismissal_data['dismissalType']
+                    
+                    bowler_name = dismissal_data.get('bowler')
+                    if bowler_name:
+                        fall_of_wickets_data['bowlerId'] = get_player_id_by_name(bowler_name, lookup_data)
+
+                    helpers = dismissal_data.get('helpers', []) 
+                    fall_of_wickets_data['helpers'] = list(map(lambda helper: get_player_id_by_name(helper, lookup_data), helpers))
+    
+                    data['fallOfWicket'] = fall_of_wickets_data
+
+                batters_data.append(data)
+
+            bowlers_el = innings_items[3]
+            bowlers_el = bowlers_el.select('.cb-col.cb-col-100.cb-scrd-itms')
+
+            bowlers_data = []
+            for bowler_el in bowlers_el:
+                player_el_items = bowler_el.select('.cb-col')
+                player_name_el = player_el_items[0]
+                player_name_el = player_name_el.find('a')
+                bowler_id = get_param_from_url(url=player_name_el.attrs['href'], pos=2)
+
+                overs_el = player_el_items[1]
+                overs = overs_el.string.strip()
+
+                maidens_el = player_el_items[2]
+                maidens = maidens_el.string.strip()
+
+                runs_el = player_el_items[3]
+                runs = runs_el.string.strip()
+
+                wickets_el = player_el_items[4]
+                wickets = wickets_el.string.strip()
+
+                no_balls_el = player_el_items[5]
+                no_balls = no_balls_el.string.strip()
+
+                wides_el = player_el_items[6]
+                wides = wides_el.string.strip()
+
+                data = {
+                    'id': int(bowler_id),
+                    'bowlOvers': float(overs),
+                    'bowlMaidens': int(maidens),
+                    'bowlRuns': int(runs),
+                    'bowlWickets': int(wickets),
+                    'bowlNoBalls': int(no_balls),
+                    'bowlWides': int(wides),
+                }
+
+                bowlers_data.append(data)
+
+            innings_data[INNINGS_ID_MAP[inningsId]] = {
+                'teamId': batTeamId,
+                'oversBowled': current_innings['overs'],
+                'overs': 0,
+                'score': current_innings['score'],
+                'wickets': current_innings['wickets'],
+                'isDeclared': current_innings['isDeclared'],
+                'isFollowOn': current_innings['isFollowOn'],
+                'batters': batters_data,
+                'bowlers': bowlers_data,
+                'extras': extras_data
+            }
+        
+        scorecard_data = {
+            'matchId': match_info['id'],
+            'innings': innings_data
+        }
+
+    except Exception as e:
+        print("ERROR in get_match_scorecard ==> ", e.args)
+
+def get_player_id_by_name(name, lookup_data):
+    try:
+        _name = name.lower()
+        for item in lookup_data:
+            if _name in item['name']:
+                return int(item['playerId'])
+    except Exception as e:
+        print("ERROR in get_player_id_by_name", e.args)
+
+    return None
+
 
 def get_dismissal_data(dismissal_string):
     # Patterns for different types of dismissals
