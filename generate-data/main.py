@@ -134,6 +134,95 @@ def get_team_players(team_ids):
     except Exception as e:
         print("ERROR in main ==> ", e.args)
 
+def get_team_squad_players(team_player_els, attrs, team_type='homeTeam'):
+    try: 
+        players = []
+        for player in team_player_els.find_all('a'):
+            if not player.name:
+                continue
+            
+            player_url = player.attrs['href']
+            player_data = {
+                'playerId': get_param_from_url(url=player_url, pos=2),
+            } 
+
+            class_ = 'cb-player-name-left' if team_type == 'homeTeam' else 'cb-player-name-right'
+            player_name = next(player.select_one(f'.{class_} div').stripped_strings).strip().lower()
+            match_in_el = player.select_one('.cb-plus-match-change-icon.cb-bg-min')
+            match_out_el = player.select_one('.cb-plus-match-change-icon.cb-bg-mout')
+            overseas_player_el = player.select_one('.cb-plus-flight-icon.cb-overseas-player')
+
+            if '(c' in player_name:
+                player_data['isCaptain'] = True
+            if player_name.endswith('wk)'):
+                player_data['isKeeper'] = True
+
+            for attrKey in attrs:
+                player_data[attrKey] = attrs[attrKey]
+            
+            if match_in_el:
+                player_data['isSubstitute'] = True
+            elif match_out_el:
+                player_data['isSubstituted'] = True
+
+            if overseas_player_el:
+                player_data['isForeignPlayer'] = True
+
+            players.append(player_data)
+            
+        return players
+        
+    except Exception as e:
+        print("ERROR in get_team_squad_players ==> ", e.args)
+
+def get_match_squads(match_id):
+    try:
+        match_info = get_match_info(match_id)
+
+        url = f"https://www.cricbuzz.com/cricket-match-squads/{match_id}/match-slug"
+        html_content = get_html_content(url=url)
+        soup = BeautifulSoup(html_content, 'html.parser')
+        header_els = soup.css.select('.cb-col.cb-col-100.cb-pl11-hdr.text-bold.text-center.cb-font-16')
+        
+        home_team_players = []
+        away_team_players = []
+        for header_el in header_els:
+            if not header_el.name:
+                continue
+
+            section_title = header_el.string.strip().lower()
+
+            attrs = {}
+            if section_title == 'playing xi':
+                attrs['isPlaying'] = True
+            elif section_title == 'substitutes':
+                attrs['isInSubs'] = True
+
+            home_team_player_els = header_el.find_next_sibling('div', class_=['cb-play11-lft-col'])
+            away_team_player_els = header_el.find_next_sibling('div', class_=['cb-play11-rt-col'])
+
+            _home_team_players = get_team_squad_players(home_team_player_els, attrs=attrs, team_type='homeTeam')
+            _away_team_players = get_team_squad_players(away_team_player_els, attrs=attrs, team_type='awayTeam')
+
+            home_team_players.extend(_home_team_players)
+            away_team_players.extend(_away_team_players)
+
+        squads = {
+            'homeTeam': {
+                'teamId': match_info['homeTeam'],
+                'players': home_team_players
+            },
+            'awayTeam': {
+                'teamId': match_info['awayTeam'],
+                'players': away_team_players
+            }
+        }
+
+        set_file_data(file_path=f'squads/{match_id}.json', data=squads)
+        
+    except Exception as e:
+        print("ERROR in get_match_squads ==> ", e.args)
+
 def get_match_info(match_id):
     try:
         url = f"https://www.cricbuzz.com/api/cricket-match/{match_id}/full-commentary/0"
@@ -175,7 +264,9 @@ def get_match_info(match_id):
 
 def main():
     try:
-        pass
+        match_id = 89654
+        get_match_squads(match_id=match_id)
+
     except Exception as e:
         print("ERROR in main ==> ", e.args)
 
