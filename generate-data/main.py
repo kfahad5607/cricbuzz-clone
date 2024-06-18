@@ -140,7 +140,7 @@ def get_team_squad_players(team_player_els, attrs, team_type='homeTeam'):
         for player in team_player_els.find_all('a'):
             if not player.name:
                 continue
-            
+             
             player_url = player.attrs['href']
             player_data = {
                 'playerId': get_param_from_url(url=player_url, pos=2),
@@ -151,11 +151,16 @@ def get_team_squad_players(team_player_els, attrs, team_type='homeTeam'):
             match_in_el = player.select_one('.cb-plus-match-change-icon.cb-bg-min')
             match_out_el = player.select_one('.cb-plus-match-change-icon.cb-bg-mout')
             overseas_player_el = player.select_one('.cb-plus-flight-icon.cb-overseas-player')
-
+ 
+            _player_name = player_name
             if '(c' in player_name:
                 player_data['isCaptain'] = True
+                _player_name = _player_name.replace(' (c)', '').replace(' (c & wk)', '')
             if player_name.endswith('wk)'):
                 player_data['isKeeper'] = True
+                _player_name = _player_name.replace(' (wk)', '').replace(' (c & wk)', '')
+            
+            player_data['name'] = _player_name 
 
             for attrKey in attrs:
                 player_data[attrKey] = attrs[attrKey]
@@ -219,6 +224,8 @@ def get_match_squads(match_id):
         }
 
         set_file_data(file_path=f'squads/{match_id}.json', data=squads)
+
+        return squads
         
     except Exception as e:
         print("ERROR in get_match_squads ==> ", e.args)
@@ -230,6 +237,7 @@ def get_match_info(match_id):
 
         if json_content:
             match_details = json_content['matchDetails']['matchHeader']
+            match_score_details = json_content['matchDetails']['miniscore']['matchScoreDetails']
 
             match_info = {
                 'id': match_id,
@@ -256,6 +264,8 @@ def get_match_info(match_id):
                 'winningMargin':  match_details['result']['winningMargin'],
                 'winningTeamId': match_details['result']['winningteamId']
             }
+ 
+            match_info['inningsScoreList'] = sorted(match_score_details['inningsScoreList'], key=lambda a: a['inningsId'])
             match_info['state'] = match_details['state']
 
         return match_info
@@ -265,8 +275,7 @@ def get_match_info(match_id):
 def main():
     try:
         match_id = 89654
-        get_match_squads(match_id=match_id)
-
+        pass
     except Exception as e:
         print("ERROR in main ==> ", e.args)
 
