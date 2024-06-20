@@ -26,3 +26,10 @@ dist-ssr
 # common
 .env
 playground/
+
+# server
+server/src/db/**/migrations/
+
+# generate-data
+venv/
+__pycache__/

@@ -9,7 +9,8 @@
     "dev": "concurrently \"tsc --watch\" \"nodemon dist/index.js\"",
     "generate": "drizzle-kit generate",
     "migrate": "drizzle-kit migrate",
-    "studio": "drizzle-kit studio"
+    "studio": "drizzle-kit studio",
+    "seed": "ts-node ./src/db/postgres/seeds/index.ts"
   },
   "author": "Fahad Khan",
   "license": "ISC",
@@ -30,6 +31,7 @@
     "concurrently": "^8.2.2",
     "drizzle-kit": "^0.21.1",
     "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
   }
 }
