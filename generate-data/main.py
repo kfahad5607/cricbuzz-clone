@@ -1,6 +1,6 @@
 import re
 from bs4 import BeautifulSoup
-from utils import (extract_number, format_date, get_json_content, sleep, get_param_from_url, get_html_content)
+from utils import (ball_num_to_overs, extract_number, format_comm_text, format_date, get_json_content, sleep, get_param_from_url, get_html_content)
 from utils.file import (get_file_data, set_file_data)
 
 BASE_URL = 'https://www.cricbuzz.com'
@@ -573,10 +573,69 @@ def get_dismissal_data(dismissal_string):
     
     return None
 
+def get_commentary(match_id, innings_id):
+    try:
+        json_content = get_json_content(url=f"https://www.cricbuzz.com/api/cricket-match/{match_id}/full-commentary/{innings_id}")
+
+        if not json_content:
+            raise Exception("Commentary not found!")
+
+        series_id = json_content['matchDetails']['matchHeader']['seriesId']
+        commentary_list = json_content['commentary']
+        
+        if len(commentary_list) == 0:
+            raise Exception("Commentary not found!")
+
+        commentary_list = commentary_list[0]['commentaryList']
+
+        commentary_data = []
+        for commentary in commentary_list:
+            batsman_striker = {
+                'id': commentary['batsmanStriker']['batId'],
+                'batRuns': commentary['batsmanStriker']['batRuns'],
+                'ballsPlayed': commentary['batsmanStriker']['batBalls'],
+                'dotBalls': commentary['batsmanStriker'].get('batDots', 0),
+                'batFours': commentary['batsmanStriker']['batFours'],
+                'batSixes': commentary['batsmanStriker']['batSixes'],
+            } 
+            bowler_striker = {
+                'id': commentary['bowlerStriker']['bowlId'],
+                'bowlOvers': commentary['bowlerStriker']['bowlOvs'],
+                'bowlMaidens': commentary['bowlerStriker']['bowlMaidens'],
+                'bowlRuns': commentary['bowlerStriker']['bowlRuns'],
+                'bowlWickets': commentary['bowlerStriker']['bowlWkts'],
+                'bowlWides': commentary['bowlerStriker']['bowlWides'],
+                'bowlNoBalls': commentary['bowlerStriker']['bowlNoballs'],
+            }
+            events = commentary['event'].replace('NONE', '').strip()
+            if events:
+                events = events.split(",")
+            else:
+                events = []
+
+            commentary_item = {}
+            commentary_item['timestamp'] = commentary['timestamp']
+            commentary_item['commText'] = format_comm_text(commentary['commText'], formats=commentary['commentaryFormats'])
+            commentary_item['overs'] = ball_num_to_overs(commentary['ballNbr'])
+            commentary_item['events'] = events
+            commentary_item['batsmanStriker'] = batsman_striker
+            commentary_item['bowlerStriker'] = bowler_striker
+
+            commentary_data.append(commentary_item)
+
+        set_file_data(file_path=f"series/{series_id}/matches/{match_id}/commentary/{innings_id}.json", data=commentary_data)
+        
+        return commentary_data
+    except Exception as e:
+        print("ERROR in get_commentary ==> ", e.args)
+
+
 def main():
     try:
         match_id = 89654
-        pass
+        get_commentary(match_id=match_id, innings_id=0)
+        get_commentary(match_id=match_id, innings_id=1)
+        get_commentary(match_id=match_id, innings_id=2)
     except Exception as e:
         print("ERROR in main ==> ", e.args)
 

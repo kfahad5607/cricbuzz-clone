@@ -6,6 +6,7 @@ from datetime import datetime
 
 BASE_URL = 'https://www.cricbuzz.com'
 BASE_DATA_PATH = 'data/'
+BALLS_IN_OVER = 6
 
 def format_date(str_date):
     input_format = "%b %d, %Y"
@@ -56,3 +57,25 @@ def get_json_content(url):
         print("ERROR in get_html_content ==> ", e.args)
 
     return None
+
+def ball_num_to_overs(ball_num):
+    rem = ball_num % BALLS_IN_OVER
+    
+    if rem == 0:
+        return int(ball_num / BALLS_IN_OVER)
+    
+    overs = (ball_num - rem) / BALLS_IN_OVER 
+    balls = (rem / 10)
+    
+    return overs + balls
+
+def format_comm_text(comm_text, formats):
+    for format_type in formats:
+        _format = formats[format_type]
+        if format_type == 'bold':
+            format_ids = _format['formatId']
+            format_values = _format['formatValue']
+            for i in range(len(format_ids)):
+                comm_text = comm_text.replace(format_ids[i], f"<b>{format_values[i]}</b>")
+
+    return f"<p>{comm_text}</p>"
