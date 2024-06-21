@@ -1,4 +1,69 @@
 {
+  "2": {
+    "id": 2,
+    "name": "India",
+    "shortName": "ind"
+  },
+  "3": {
+    "id": 3,
+    "name": "Pakistan",
+    "shortName": "pak"
+  },
+  "4": {
+    "id": 4,
+    "name": "Australia",
+    "shortName": "aus"
+  },
+  "5": {
+    "id": 5,
+    "name": "Sri Lanka",
+    "shortName": "sl"
+  },
+  "6": {
+    "id": 6,
+    "name": "Bangladesh",
+    "shortName": "ban"
+  },
+  "8": {
+    "id": 8,
+    "name": "Hong Kong",
+    "shortName": "hk"
+  },
+  "9": {
+    "id": 9,
+    "name": "England",
+    "shortName": "eng"
+  },
+  "10": {
+    "id": 10,
+    "name": "West Indies",
+    "shortName": "wi"
+  },
+  "11": {
+    "id": 11,
+    "name": "South Africa",
+    "shortName": "sa"
+  },
+  "12": {
+    "id": 12,
+    "name": "Zimbabwe",
+    "shortName": "zim"
+  },
+  "13": {
+    "id": 13,
+    "name": "New Zealand",
+    "shortName": "nz"
+  },
+  "27": {
+    "id": 27,
+    "name": "Ireland",
+    "shortName": "ire"
+  },
+  "96": {
+    "id": 96,
+    "name": "Afghanistan",
+    "shortName": "afg"
+  },
   "58": {
     "id": 58,
     "name": "Chennai Super Kings",
