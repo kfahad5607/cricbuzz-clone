@@ -1,5 +1,5 @@
 import * as fs from "node:fs/promises";
-import { db, client } from "../../postgres";
+import { db } from "../../postgres";
 import * as tables from "../../postgres/schema";
 import slugify from "slugify";
 
@@ -25,8 +25,6 @@ const seedVenues = async () => {
     }
 
     await db.insert(tables.venues).values(venues);
-
-    client.end();
 
     console.log("Seeding venues finished...");
   } catch (err) {
