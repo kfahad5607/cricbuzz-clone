@@ -1,6 +1,6 @@
 import re
 from bs4 import BeautifulSoup
-from utils import (ball_num_to_overs, extract_number, format_comm_text, format_date, get_json_content, sleep, get_param_from_url, get_html_content)
+from utils import (ball_num_to_overs, extract_number, format_comm_text, format_date, get_json_content, sleep, get_param_from_url, get_html_content, slugify)
 from utils.file import (get_file_data, set_file_data)
 
 BASE_URL = 'https://www.cricbuzz.com'
@@ -73,6 +73,14 @@ def get_venue(id):
 
 def get_player(id):
     try: 
+        ROLES_MAP = {
+            'batsman': 'batter',
+            'bowler': 'bowler',
+            'wk-batsman': 'wk-batter',
+            'batting allrounder': 'bat-allrounder',
+            'bowling allrounder': 'bowl-allrounder'
+        }
+
         url = BASE_URL + f'/profiles/{id}/player-slug'
         print(f'Fetching player data for {id=} and {url=}')
         data = {
@@ -114,11 +122,11 @@ def get_player(id):
             elif key == 'birth place':
                 data['personalInfo']['birthPlace'] = val
             elif key == 'role':
-                data['roleInfo']['role'] = val.lower()
+                data['roleInfo']['role'] = ROLES_MAP[val.lower()]
             elif key == 'batting style':
-                data['roleInfo']['batStyle'] = val.lower()
+                data['roleInfo']['batStyle'] = slugify(val)
             elif key == 'bowling style':
-                data['roleInfo']['bowlStyle'] = val.lower()
+                data['roleInfo']['bowlStyle'] = slugify(val)
 
         return data
     except Exception as e:
@@ -144,7 +152,8 @@ def get_team_players(team_ids):
                 if data:
                     existing_data[data['id']] = data
 
-                sleep(1)
+                sleep(2)
+            sleep(5)
         
         set_file_data(file_path=data_file_path, data=existing_data)
     except Exception as e:
@@ -633,9 +642,6 @@ def get_commentary(match_id, innings_id):
 def main():
     try:
         match_id = 89654
-        get_commentary(match_id=match_id, innings_id=0)
-        get_commentary(match_id=match_id, innings_id=1)
-        get_commentary(match_id=match_id, innings_id=2)
     except Exception as e:
         print("ERROR in main ==> ", e.args)
 

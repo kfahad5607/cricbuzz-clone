@@ -1,4 +1,5 @@
 import re
+import unicodedata
 import time
 from urllib.parse import urlparse
 import requests
@@ -10,7 +11,7 @@ BALLS_IN_OVER = 6
 
 def format_date(str_date):
     input_format = "%b %d, %Y"
-    output_format = "%d-%m-%Y"
+    output_format = "%Y-%m-%d"
 
     date_str = str_date.strip().split(" (")[0]
     date_obj = datetime.strptime(date_str, input_format)
@@ -79,3 +80,21 @@ def format_comm_text(comm_text, formats):
                 comm_text = comm_text.replace(format_ids[i], f"<b>{format_values[i]}</b>")
 
     return f"<p>{comm_text}</p>"
+
+def slugify(text):
+    # Normalize unicode characters
+    text = unicodedata.normalize('NFKD', text)
+    text = text.encode('ascii', 'ignore').decode('ascii')
+    
+    text = text.lower()
+    
+    # Replace spaces and underscores with hyphens
+    text = re.sub(r'[\s_]+', '-', text)
+    
+    # Remove all characters that are not alphanumeric or hyphens
+    text = re.sub(r'[^a-z0-9-]', '', text)
+    
+    # Remove leading and trailing hyphens
+    text = text.strip('-')
+    
+    return text
