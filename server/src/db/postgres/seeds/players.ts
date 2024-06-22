@@ -1,25 +1,32 @@
-import * as fs from "node:fs/promises";
 import { db } from "../../postgres";
 import * as tables from "../../postgres/schema";
 import slugify from "slugify";
 import { sql } from "drizzle-orm";
+import { readFileData, writeFileData } from "./helpers/file";
+
+const BASE_PATH = "src/db/postgres/seeds/data/players/";
 
 const seedPlayers = async () => {
   try {
     console.log("Seeding players started...");
-    const contents = await fs.readFile(
-      "src/db/postgres/seeds/data/players/index.json",
-      { encoding: "utf8" }
-    );
+    const contents = await readFileData(BASE_PATH + "index.json");
+
+    if (!contents) {
+      console.log("No players data found to seed...");
+      return;
+    }
 
     const data = JSON.parse(contents);
 
     const teamsSet: Set<string> = new Set();
     const players: any[] = [];
+    const playerIds: number[] = [];
+
     for (const key in data) {
       const item = data[key];
-      delete item.id;
+      playerIds.push(item.id);
 
+      delete item.id;
       item.slug = slugify(item.name, {
         lower: true,
       });
@@ -37,18 +44,31 @@ const seedPlayers = async () => {
       .from(tables.teams)
       .where(sql`lower(${tables.teams.name}) in ${teamNames}`);
 
-    const teamIdMap = teamData.reduce((acc, curr) => {
+    const teamNameIdMap = teamData.reduce((acc, curr) => {
       acc[curr.name] = curr.id;
 
       return acc;
     }, {} as Record<string, number>);
 
     players.forEach((player) => {
-      player.team = teamIdMap[player.team];
+      player.team = teamNameIdMap[player.team];
       return player;
     });
 
-    await db.insert(tables.players).values(players);
+    const insertedPlayers = await db
+      .insert(tables.players)
+      .values(players)
+      .returning({ insertedId: tables.players.id });
+
+    const playerIdsMap: Record<number, number> = {};
+    playerIds.forEach((id, index) => {
+      playerIdsMap[id] = insertedPlayers[index].insertedId;
+    });
+
+    await writeFileData(
+      BASE_PATH + "idsMap.json",
+      JSON.stringify(playerIdsMap, null, 2)
+    );
 
     console.log("Seeding players finished... ");
   } catch (err) {
