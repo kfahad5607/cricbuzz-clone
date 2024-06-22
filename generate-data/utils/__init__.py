@@ -3,11 +3,17 @@ import unicodedata
 import time
 from urllib.parse import urlparse
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 
 BASE_URL = 'https://www.cricbuzz.com'
 BASE_DATA_PATH = 'data/'
 BALLS_IN_OVER = 6
+
+def convert_ms_to_iso_format(ms): 
+    seconds = ms / 1000.0
+    dt = datetime.fromtimestamp(seconds, timezone.utc) 
+    
+    return dt.strftime('%Y-%m-%dT%H:%M:%S.%f')[:-3] + 'Z'
 
 def format_date(str_date):
     input_format = "%b %d, %Y"
@@ -81,7 +87,7 @@ def format_comm_text(comm_text, formats):
 
     return f"<p>{comm_text}</p>"
 
-def slugify(text):
+def slugify(text, delimiter = '-'):
     # Normalize unicode characters
     text = unicodedata.normalize('NFKD', text)
     text = text.encode('ascii', 'ignore').decode('ascii')
@@ -89,12 +95,12 @@ def slugify(text):
     text = text.lower()
     
     # Replace spaces and underscores with hyphens
-    text = re.sub(r'[\s_]+', '-', text)
+    text = re.sub(r'[\s_-]+', delimiter, text)
     
     # Remove all characters that are not alphanumeric or hyphens
-    text = re.sub(r'[^a-z0-9-]', '', text)
+    text = re.sub(r'[^a-z0-9-_]', '', text)
     
     # Remove leading and trailing hyphens
-    text = text.strip('-')
+    text = text.strip(delimiter)
     
     return text

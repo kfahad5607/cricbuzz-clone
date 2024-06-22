@@ -1,6 +1,6 @@
 import re
 from bs4 import BeautifulSoup
-from utils import (ball_num_to_overs, extract_number, format_comm_text, format_date, get_json_content, sleep, get_param_from_url, get_html_content, slugify)
+from utils import (ball_num_to_overs, convert_ms_to_iso_format, extract_number, format_comm_text, format_date, get_json_content, sleep, get_param_from_url, get_html_content, slugify)
 from utils.file import (get_file_data, set_file_data)
 
 BASE_URL = 'https://www.cricbuzz.com'
@@ -298,7 +298,7 @@ def get_match_info(match_id):
             }
  
             match_info['inningsScoreList'] = sorted(match_score_details['inningsScoreList'], key=lambda a: a['inningsId'])
-            match_info['state'] = match_details['state']
+            match_info['state'] = slugify(match_details['state'])
 
             set_file_data(file_path=f"series/{match_info['series']}/matches/{match_id}/info.json", data=match_info)
 
@@ -632,7 +632,7 @@ def get_commentary(match_id, innings_id):
             }
             events = commentary['event'].replace('NONE', '').strip()
             if events:
-                events = events.split(",")
+                events = [slugify(event, delimiter='_').upper() for event in events.split(",")]
             else:
                 events = []
 
@@ -656,7 +656,9 @@ def get_commentary(match_id, innings_id):
 def main():
     try:
         match_id = 89654
-        get_match_scorecard(match_id)
+        get_commentary(match_id, innings_id=0)
+        get_commentary(match_id, innings_id=1)
+        get_commentary(match_id, innings_id=2)
     except Exception as e:
         print("ERROR in main ==> ", e.args)
 
