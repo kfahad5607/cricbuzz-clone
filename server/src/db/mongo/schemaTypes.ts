@@ -6,7 +6,7 @@ export const PositiveNumberType = {
 export const DBIdType = {
   type: Number,
   required: true,
-  min: 1,
+  min: 0,
   // immutable: true,
 };
 

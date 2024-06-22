@@ -5,7 +5,7 @@ import { DISMISSAL_TYPES_VALUES } from "../helpers/constants";
 export const INNINGS_TYPES = ["first", "second", "third", "fourth"] as const;
 
 // schemas
-const ScorecardBatterSchema = z.object({
+export const ScorecardBatterSchema = z.object({
   id: z.number().positive(),
   batRuns: z.number().nonnegative(),
   ballsPlayed: z.number().nonnegative(),
