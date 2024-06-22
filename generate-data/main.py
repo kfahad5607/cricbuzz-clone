@@ -317,11 +317,13 @@ def get_match_scorecard(match_id):
         innings_data = {}
 
         for current_innings in innings_score_list:
-            inningsId = current_innings['inningsId']
-            batTeamId = current_innings['batTeamId']
-            bowlTeamId = match_info['awayTeam'] if batTeamId == match_info['homeTeam'] else match_info['homeTeam']
+            innings_id = current_innings['inningsId']
+            bat_team_id = current_innings['batTeamId']
+            bowl_team_id = match_info['awayTeam'] if bat_team_id == match_info['homeTeam'] else match_info['homeTeam']
+
+            commentary_list = get_commentary(match_id=match_id, innings_id=innings_id)
             
-            innings_el = soup.find('div', id=f"innings_{inningsId}")
+            innings_el = soup.find('div', id=f"innings_{innings_id}")
             innings_items = innings_el.find_all('div', class_='cb-col', recursive=False)
 
             batters_el = innings_items[0]
@@ -363,10 +365,10 @@ def get_match_scorecard(match_id):
 
                 extras_data[EXTRAS_KEYS_MAP[ball]] = int(runs)
             
-            squads = get_file_data(file_path=f'squads/{match_id}.json')
+            squads = get_file_data(file_path=f"series/{match_info['series']}/matches/{match_id}/squads.json")
 
             lookup_data = squads['homeTeam']['players']
-            if bowlTeamId == squads['awayTeam']['teamId']:
+            if bowl_team_id == squads['awayTeam']['teamId']:
                 lookup_data = squads['awayTeam']['players'] 
             
             batters_data = []
@@ -375,7 +377,7 @@ def get_match_scorecard(match_id):
                 player_el_items = batter_el.select('.cb-col')
                 batter_name_el = player_el_items[0]
                 batter_name_el = batter_name_el.find('a')
-                batter_id = get_param_from_url(url=batter_name_el.attrs['href'], pos=2)
+                batter_id = int(get_param_from_url(url=batter_name_el.attrs['href'], pos=2))
                 
                 runs_el = player_el_items[2]
                 runs = runs_el.string.strip()
@@ -389,15 +391,20 @@ def get_match_scorecard(match_id):
                 sixes_el = player_el_items[5] 
                 sixes = sixes_el.string.strip()
 
+                dotBalls = 0
+                for commentary in commentary_list:
+                    if batter_id == commentary['batsmanStriker']['id']:
+                        dotBalls = commentary['batsmanStriker']['dotBalls']
+                        break
 
                 data = {
-                    'id': int(batter_id),
+                    'id': batter_id,
                     'batRuns': int(runs),
                     'ballsPlayed': int(balls),
+                    'dotBalls': dotBalls,
                     'batFours': int(fours),
                     'batSixes': int(sixes)
                 }
-
 
                 fall_of_wickets_data = fall_of_wickets_map.get(batter_id)
                 if fall_of_wickets_data:
@@ -458,8 +465,8 @@ def get_match_scorecard(match_id):
 
                 bowlers_data.append(data)
 
-            innings_data[INNINGS_ID_MAP[inningsId]] = {
-                'teamId': batTeamId,
+            innings_data[INNINGS_ID_MAP[innings_id]] = {
+                'teamId': bat_team_id,
                 'oversBowled': current_innings['overs'],
                 'overs': 0,
                 'score': current_innings['score'],
@@ -649,7 +656,7 @@ def get_commentary(match_id, innings_id):
 def main():
     try:
         match_id = 89654
-        get_match_squads(match_id)
+        get_match_scorecard(match_id)
     except Exception as e:
         print("ERROR in main ==> ", e.args)
 
