@@ -1,5 +1,17 @@
 import * as fs from "node:fs/promises";
 
+export const readDirectory = async (path: string): Promise<string[] | null> => {
+  try {
+    const contents = await fs.readdir(path);
+
+    return contents;
+  } catch (err) {
+    console.error("ERROR in readFileData ", err);
+
+    return null;
+  }
+};
+
 export const readFileData = async (
   filePath: string
 ): Promise<string | null> => {

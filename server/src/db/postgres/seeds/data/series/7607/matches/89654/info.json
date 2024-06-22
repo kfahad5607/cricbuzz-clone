@@ -1,0 +1,49 @@
+{
+  "id": 89654,
+  "description": "1st Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 1,
+  "homeTeam": 58,
+  "awayTeam": 59,
+  "series": 7607,
+  "venue": 11,
+  "startTime": 1711117800000,
+  "completeTime": 1711131906450,
+  "tossResults": {
+    "tossWinnerId": 59,
+    "decision": "bat"
+  },
+  "results": {
+    "winByInnings": false,
+    "winByRuns": false,
+    "resultType": "win",
+    "winningMargin": 6,
+    "winningTeamId": 58
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 59,
+      "batTeamName": "RCB",
+      "score": 173,
+      "wickets": 6,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 58,
+      "batTeamName": "CSK",
+      "score": 176,
+      "wickets": 4,
+      "overs": 18.4,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 112
+    }
+  ],
+  "state": "complete"
+}
