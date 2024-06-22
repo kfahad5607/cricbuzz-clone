@@ -159,7 +159,7 @@ router.get(
   validateRequest({
     params: getValidationSchema({
       id: "DatabaseIntIdParam",
-      inningsType: "InningsType",
+      inningsType: "ScorecardInningsType",
     }),
   }),
   getInningsScore
@@ -170,7 +170,7 @@ router.post(
   validateRequest({
     params: getValidationSchema({
       id: "DatabaseIntIdParam",
-      inningsType: "InningsType",
+      inningsType: "ScorecardInningsType",
     }),
     body: ScorecardInningsEntry,
   }),
@@ -182,7 +182,7 @@ router.delete(
   validateRequest({
     params: getValidationSchema({
       id: "DatabaseIntIdParam",
-      inningsType: "InningsType",
+      inningsType: "ScorecardInningsType",
     }),
   }),
   deleteInningsScore
@@ -193,7 +193,7 @@ router.get(
   validateRequest({
     params: getValidationSchema({
       id: "DatabaseIntIdParam",
-      inningsType: "InningsType",
+      inningsType: "CommentaryInningsType",
     }),
   }),
   getFullCommentary
@@ -214,7 +214,7 @@ router.post(
   validateRequest({
     params: getValidationSchema({
       id: "DatabaseIntIdParam",
-      inningsType: "InningsType",
+      inningsType: "CommentaryInningsType",
     }),
     body: CommentaryInningsEntry,
   }),

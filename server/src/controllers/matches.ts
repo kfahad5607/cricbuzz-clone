@@ -29,11 +29,13 @@ import {
   getValidationType,
 } from "../types";
 import {
-  INNINGS_TYPES,
-  InningsType,
+  SCORECARD_INNINGS_TYPES,
+  COMMENTARY_INNINGS_TYPES,
+  ScorecardInningsType,
+  CommentaryInningsType,
   ScorecardInnings,
   ScorecardInningsEntry,
-} from "../types/scorecard";
+} from "../types";
 import Commentary from "../db/mongo/schema/commentary";
 import { CommentaryInningsEntry } from "../types/commentary";
 
@@ -208,7 +210,7 @@ export async function getInningsScore(
   req: Request<
     getValidationType<{
       id: "DatabaseIntIdParam";
-      inningsType: "InningsType";
+      inningsType: "ScorecardInningsType";
     }>
   >,
   res: Response,
@@ -251,7 +253,7 @@ export async function addInningsScore(
   req: Request<
     getValidationType<{
       id: "DatabaseIntIdParam";
-      inningsType: "InningsType";
+      inningsType: "ScorecardInningsType";
     }>,
     {},
     ScorecardInningsEntry
@@ -261,9 +263,9 @@ export async function addInningsScore(
 ) {
   try {
     const matchId = parseInt(req.params.id);
-    const inningsType: InningsType = req.params.inningsType;
-    const prevInningsType: InningsType | undefined =
-      INNINGS_TYPES[INNINGS_TYPES.indexOf(inningsType) - 1];
+    const inningsType: ScorecardInningsType = req.params.inningsType;
+    const prevInningsType: ScorecardInningsType | undefined =
+      SCORECARD_INNINGS_TYPES[SCORECARD_INNINGS_TYPES.indexOf(inningsType) - 1];
     const scorecardInningsEntry = req.body;
     const teamId = scorecardInningsEntry.teamId;
 
@@ -377,7 +379,7 @@ export async function deleteInningsScore(
   req: Request<
     getValidationType<{
       id: "DatabaseIntIdParam";
-      inningsType: "InningsType";
+      inningsType: "ScorecardInningsType";
     }>,
     {},
     ScorecardInningsEntry
@@ -387,10 +389,10 @@ export async function deleteInningsScore(
 ) {
   try {
     const matchId = parseInt(req.params.id);
-    const inningsType: InningsType = req.params.inningsType;
+    const inningsType: ScorecardInningsType = req.params.inningsType;
 
-    const nextInningsType: InningsType | undefined =
-      INNINGS_TYPES[INNINGS_TYPES.indexOf(inningsType) + 1];
+    const nextInningsType: ScorecardInningsType | undefined =
+      SCORECARD_INNINGS_TYPES[SCORECARD_INNINGS_TYPES.indexOf(inningsType) + 1];
 
     const columnsToFetch = { [`innings.${inningsType}.teamId`]: 1 };
     if (nextInningsType) {
@@ -439,7 +441,7 @@ export async function getFullCommentary(
   req: Request<
     getValidationType<{
       id: "DatabaseIntIdParam";
-      inningsType: "InningsType";
+      inningsType: "CommentaryInningsType";
     }>
   >,
   res: Response,
@@ -448,7 +450,7 @@ export async function getFullCommentary(
   try {
     const matchId = parseInt(req.params.id);
     const inningsType = req.params.inningsType;
-    const inningsIndex = INNINGS_TYPES.indexOf(inningsType);
+    const inningsIndex = COMMENTARY_INNINGS_TYPES.indexOf(inningsType);
 
     const result = await Commentary.aggregate([
       {
@@ -528,7 +530,7 @@ export async function addInningsCommentary(
   req: Request<
     getValidationType<{
       id: "DatabaseIntIdParam";
-      inningsType: "InningsType";
+      inningsType: "CommentaryInningsType";
     }>,
     {},
     CommentaryInningsEntry
@@ -538,10 +540,10 @@ export async function addInningsCommentary(
 ) {
   try {
     const matchId = parseInt(req.params.id);
-    const inningsType: InningsType = req.params.inningsType;
-    const inningsIndex = INNINGS_TYPES.indexOf(inningsType);
-    const prevInningsType: InningsType | undefined =
-      INNINGS_TYPES[inningsIndex - 1];
+    const inningsType: CommentaryInningsType = req.params.inningsType;
+    const inningsIndex = COMMENTARY_INNINGS_TYPES.indexOf(inningsType);
+    const prevInningsType: CommentaryInningsType | undefined =
+      COMMENTARY_INNINGS_TYPES[inningsIndex - 1];
     const commentaryEntry = req.body;
     const scorecardInningsEntry = commentaryEntry.scorecard;
     const commentaryStriker =
@@ -563,101 +565,109 @@ export async function addInningsCommentary(
     };
 
     if (prevInningsType) {
-      scoreColumnsToFetch[`innings.${prevInningsType}.teamId`] = 1;
+      if (prevInningsType !== "preview")
+        scoreColumnsToFetch[`innings.${prevInningsType}.teamId`] = 1;
       commentaryFilter[`innings.${inningsIndex - 1}`] = { $exists: true };
     }
 
-    let scorecard = await Scorecard.findOne(
-      {
-        matchId,
-      },
-      {
-        ...scoreColumnsToFetch,
-      }
-    );
+    if (inningsType !== "preview") {
+      let scorecard = await Scorecard.findOne(
+        {
+          matchId,
+        },
+        {
+          ...scoreColumnsToFetch,
+        }
+      );
 
-    if (!scorecard) {
-      // document does not exist
-      if (prevInningsType)
+      if (!scorecard) {
+        // document does not exist
+        if (prevInningsType)
+          throw new Error(
+            `Cannot add score for '${inningsType}' innings before '${prevInningsType}' innings`
+          );
+
+        // validate match
+        await verifyMatchAndTeam(matchId, teamId);
+
+        scorecard = new Scorecard({
+          matchId,
+          innings: {
+            first: {
+              teamId,
+              overs: 0,
+              oversBowled: 0,
+              score: 0,
+              wickets: 0,
+              extras: {
+                nos: 0,
+                wides: 0,
+                legByes: 0,
+                byes: 0,
+                penalties: 0,
+              },
+              batters: [],
+              bowlers: [],
+            },
+          },
+        });
+      }
+
+      if (
+        prevInningsType &&
+        prevInningsType !== "preview" &&
+        !scorecard.innings[prevInningsType]
+      ) {
         throw new Error(
           `Cannot add score for '${inningsType}' innings before '${prevInningsType}' innings`
         );
+      }
 
-      // validate match
-      await verifyMatchAndTeam(matchId, teamId);
-
-      scorecard = new Scorecard({
-        matchId,
-        innings: {
-          first: {
-            teamId,
-            overs: 0,
-            oversBowled: 0,
-            score: 0,
-            wickets: 0,
-            extras: {
-              nos: 0,
-              wides: 0,
-              legByes: 0,
-              byes: 0,
-              penalties: 0,
-            },
-            batters: [],
-            bowlers: [],
+      let innings: ScorecardInnings | undefined =
+        scorecard.innings[inningsType];
+      if (!innings) {
+        scorecard.innings[inningsType] = {
+          teamId: scorecardInningsEntry.teamId,
+          overs: 0,
+          oversBowled: 0,
+          score: 0,
+          wickets: 0,
+          extras: {
+            nos: 0,
+            wides: 0,
+            legByes: 0,
+            byes: 0,
+            penalties: 0,
           },
-        },
+          batters: [],
+          bowlers: [],
+        };
+
+        innings = scorecard.innings[inningsType];
+      }
+
+      baseScorecardKeys.forEach((key) => {
+        let val = scorecardInningsEntry[key];
+        if (val !== undefined) (innings![key] as typeof val) = val;
       });
+
+      batterHolderKeys.forEach((key) => {
+        let batter = scorecardInningsEntry[key];
+        if (!batter) return;
+
+        batter.isStriker = key === "batsmanStriker";
+        addScorecardBatter(innings!.batters, batter);
+      });
+
+      bowlerHolderKeys.forEach((key) => {
+        let bowler = scorecardInningsEntry[key];
+        if (!bowler) return;
+
+        addScorecardBowler(innings!.bowlers, bowler);
+      });
+
+      await scorecard.save();
     }
-
-    if (prevInningsType && !scorecard.innings[prevInningsType]) {
-      throw new Error(
-        `Cannot add score for '${inningsType}' innings before '${prevInningsType}' innings`
-      );
-    }
-
-    let innings: ScorecardInnings | undefined = scorecard.innings[inningsType];
-    if (!innings) {
-      scorecard.innings[inningsType] = {
-        teamId: scorecardInningsEntry.teamId,
-        overs: 0,
-        oversBowled: 0,
-        score: 0,
-        wickets: 0,
-        extras: {
-          nos: 0,
-          wides: 0,
-          legByes: 0,
-          byes: 0,
-          penalties: 0,
-        },
-        batters: [],
-        bowlers: [],
-      };
-
-      innings = scorecard.innings[inningsType];
-    }
-
-    baseScorecardKeys.forEach((key) => {
-      let val = scorecardInningsEntry[key];
-      if (val !== undefined) (innings![key] as typeof val) = val;
-    });
-
-    batterHolderKeys.forEach((key) => {
-      let batter = scorecardInningsEntry[key];
-      if (!batter) return;
-
-      batter.isStriker = key === "batsmanStriker";
-      addScorecardBatter(innings!.batters, batter);
-    });
-
-    bowlerHolderKeys.forEach((key) => {
-      let bowler = scorecardInningsEntry[key];
-      if (!bowler) return;
-
-      addScorecardBowler(innings!.bowlers, bowler);
-    });
-
-    await scorecard.save();
 
     const results = await Commentary.updateOne(commentaryFilter, {
       $set: {

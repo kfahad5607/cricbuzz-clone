@@ -1,5 +1,6 @@
 import * as z from "zod";
-import { InningsType } from "./scorecard";
+import { ScorecardInningsType } from "./scorecard";
+import { CommentaryInningsType } from "./commentary";
 
 const DatabaseIntIdParam = z
   .string({
@@ -37,13 +38,15 @@ export type DatabaseIntId = number;
 const VALIDATION_SCHEMAS = {
   DatabaseIntIdParam,
   InningsIdParam,
-  InningsType,
+  ScorecardInningsType,
+  CommentaryInningsType,
 } as const;
 
 type VALIDATION_SCHEMAS = {
   DatabaseIntIdParam: DatabaseIntIdParam;
   InningsIdParam: InningsIdParam;
-  InningsType: InningsType;
+  ScorecardInningsType: ScorecardInningsType;
+  CommentaryInningsType: CommentaryInningsType;
 };
 
 type ValidationSchemas = typeof VALIDATION_SCHEMAS;

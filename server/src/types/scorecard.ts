@@ -2,7 +2,12 @@ import * as z from "zod";
 import { DISMISSAL_TYPES_VALUES } from "../helpers/constants";
 
 // const
-export const INNINGS_TYPES = ["first", "second", "third", "fourth"] as const;
+export const SCORECARD_INNINGS_TYPES = [
+  "first",
+  "second",
+  "third",
+  "fourth",
+] as const;
 
 // schemas
 export const ScorecardBatterSchema = z.object({
@@ -82,7 +87,7 @@ export const ScorecardInningsEntry = BaseScorecardInnings.extend({
   extras: extraBall,
 });
 
-export const InningsType = z.enum(INNINGS_TYPES);
+export const ScorecardInningsType = z.enum(SCORECARD_INNINGS_TYPES);
 
 // infered types
 export type Scorecard = z.infer<typeof Scorecard>;
@@ -91,7 +96,8 @@ export type ScorecardBowler = z.infer<typeof ScorecardBowler>;
 export type ScorecardInningsEntry = z.infer<typeof ScorecardInningsEntry>;
 export type BaseScorecardInnings = z.infer<typeof BaseScorecardInnings>;
 export type ScorecardInnings = z.infer<typeof ScorecardInnings>;
-export type InningsType = z.infer<typeof InningsType>;
+// export type InningsType = z.infer<typeof InningsType>;
+export type ScorecardInningsType = z.infer<typeof ScorecardInningsType>;
 
 // manual types
 export type BaseScorecardKeys = keyof BaseScorecardInnings;
