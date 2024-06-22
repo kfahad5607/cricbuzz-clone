@@ -24,7 +24,7 @@ const MatchTossResults = z.object({
   decision: z.enum(TOSS_DECISIONS_VALUES).optional(),
 });
 
-export const NewMatch = z.object({
+export const Match = z.object({
   description: z
     .string({
       required_error: "Description is required.",
@@ -46,8 +46,6 @@ export const NewMatch = z.object({
   results: MatchResults.default({ winByInnings: false, winByRuns: false }),
 });
 
-export const Match = NewMatch;
-
 export const MatchOptional = Match.partial();
 
 export const MatchWithId = Match.extend({
@@ -67,7 +65,6 @@ export const MatchSquad = z.object({
 // infered types
 export type MatchResults = z.infer<typeof MatchResults>;
 export type MatchTossResults = z.infer<typeof MatchTossResults>;
-export type NewMatch = z.infer<typeof NewMatch>;
 export type Match = z.infer<typeof Match>;
 export type MatchOptional = z.infer<typeof MatchOptional>;
 export type MatchWithId = z.infer<typeof MatchWithId>;

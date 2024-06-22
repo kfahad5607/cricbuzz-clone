@@ -22,7 +22,6 @@ import {
   MatchSquadPlayerOptional,
   MatchSquadPlayerWithInfo,
   MatchWithId,
-  NewMatch,
   PlayerOptional,
   TeamSquad,
   UpdateDocType,
@@ -81,12 +80,14 @@ export async function getOne(
 }
 
 export async function createOne(
-  req: Request<{}, MatchWithId, NewMatch>,
+  req: Request<{}, MatchWithId, Match>,
   res: Response,
   next: NextFunction
 ) {
   try {
     const newMatch: Match = req.body;
+
+    console.log("createOne ", newMatch);
 
     const results = await db
       .insert(matchesTable)

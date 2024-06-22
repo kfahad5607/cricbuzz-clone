@@ -25,7 +25,7 @@ import {
   MatchOptional,
   MatchSquadPlayer,
   MatchSquadPlayerOptional,
-  NewMatch,
+  Match,
   getValidationSchema,
 } from "../types";
 import { ScorecardInningsEntry } from "../types/scorecard";
@@ -118,7 +118,7 @@ router.get(
 router.post(
   "/",
   validateRequest({
-    body: NewMatch,
+    body: Match,
   }),
   createOne
 );
