@@ -257,6 +257,11 @@ def get_match_squads(match_id):
 
 def get_match_info(match_id):
     try:
+        TOSS_DECISION_MAP = {
+            'batting': 'bat',
+            'bowling': 'bowl',
+        }
+
         url = f"https://www.cricbuzz.com/api/cricket-match/{match_id}/full-commentary/0"
         json_content = get_json_content(url=url)
 
@@ -269,7 +274,7 @@ def get_match_info(match_id):
             }
         
             match_info['description'] = match_details['matchDescription']
-            match_info['matchFormat'] = match_details['matchFormat']
+            match_info['matchFormat'] = match_details['matchFormat'].lower()
             match_info['matchType'] = match_details['matchType']
             match_info['matchNumber'] = extract_number(match_details['matchDescription'])
             match_info['homeTeam'] = match_details['team1']['id']
@@ -280,12 +285,12 @@ def get_match_info(match_id):
             match_info['completeTime'] = match_details['matchCompleteTimestamp']
             match_info['tossResults'] = {
                 'tossWinnerId': match_details['tossResults']['tossWinnerId'],
-                'decision': match_details['tossResults']['decision'],
+                'decision': TOSS_DECISION_MAP[match_details['tossResults']['decision'].lower()],
             }
             match_info['results'] = {
                 'winByInnings':  match_details['result']['winByInnings'],
                 'winByRuns':  match_details['result']['winByRuns'],
-                'resultType':  match_details['result']['resultType'],
+                'resultType':  slugify(match_details['result']['resultType']),
                 'winningMargin':  match_details['result']['winningMargin'],
                 'winningTeamId': match_details['result']['winningteamId']
             }
@@ -642,6 +647,7 @@ def get_commentary(match_id, innings_id):
 def main():
     try:
         match_id = 89654
+        get_match_info(match_id)
     except Exception as e:
         print("ERROR in main ==> ", e.args)
 
