@@ -227,6 +227,8 @@ def get_match_squads(match_id):
                 attrs['isPlaying'] = True
             elif section_title == 'substitutes':
                 attrs['isInSubs'] = True
+            elif section_title == 'support staff':
+                continue
 
             home_team_player_els = header_el.find_next_sibling('div', class_=['cb-play11-lft-col'])
             away_team_player_els = header_el.find_next_sibling('div', class_=['cb-play11-rt-col'])
@@ -248,7 +250,7 @@ def get_match_squads(match_id):
             }
         }
 
-        set_file_data(file_path=f'squads/{match_id}.json', data=squads)
+        set_file_data(file_path=f"series/{match_info['series']}/matches/{match_id}/squads.json", data=squads)
 
         return squads
         
@@ -390,10 +392,10 @@ def get_match_scorecard(match_id):
 
                 data = {
                     'id': int(batter_id),
-                    'runs': int(runs),
-                    'balls': int(balls),
-                    'fours': int(fours),
-                    'sixes': int(sixes)
+                    'batRuns': int(runs),
+                    'ballsPlayed': int(balls),
+                    'batFours': int(fours),
+                    'batSixes': int(sixes)
                 }
 
 
@@ -647,7 +649,7 @@ def get_commentary(match_id, innings_id):
 def main():
     try:
         match_id = 89654
-        get_match_info(match_id)
+        get_match_squads(match_id)
     except Exception as e:
         print("ERROR in main ==> ", e.args)
 
