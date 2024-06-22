@@ -1,4 +1,3 @@
-import { PgColumn } from "drizzle-orm/pg-core";
 import * as z from "zod";
 import {
   MATCH_FORMATS_VALUES,
@@ -6,7 +5,6 @@ import {
   MATCH_STATES,
   MATCH_STATES_VALUES,
   MATCH_TYPES_VALUES,
-  SLUG_INPUT_KEYS,
   TOSS_DECISIONS_VALUES,
 } from "../helpers/constants";
 import { MatchSquadPlayer } from "./players";
@@ -48,9 +46,7 @@ export const NewMatch = z.object({
   results: MatchResults.default({ winByInnings: false, winByRuns: false }),
 });
 
-export const Match = NewMatch.extend({
-  slug: z.string().min(5).max(255),
-});
+export const Match = NewMatch;
 
 export const MatchOptional = Match.partial();
 
@@ -89,14 +85,9 @@ export type MatchSquad<PlayerT extends MatchSquadPlayer> = {
 
 export type MatchCard = Pick<
   MatchWithId,
-  "id" | "slug" | "description" | "matchFormat" | "status" | "startTime"
+  "id" | "description" | "matchFormat" | "status" | "startTime"
 > & {
   series: Pick<Series, "title">;
   homeTeam: Pick<Team, "name" | "shortName">;
   awayTeam: Pick<Team, "name" | "shortName">;
-};
-
-export type SlugInputData = Pick<NewMatch, (typeof SLUG_INPUT_KEYS)[number]>;
-export type SlugInputColumns = {
-  [key in keyof SlugInputData]: PgColumn;
 };

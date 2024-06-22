@@ -4,9 +4,7 @@ import MatchSquads from "../db/mongo/schema/matchSquad";
 import Scorecard from "../db/mongo/schema/scorecard";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
-import { isObjEmpty } from "../helpers";
-import { SLUG_INPUT_KEYS } from "../helpers/constants";
-import { generateSlug, verifyMatchAndTeam } from "../helpers/matches";
+import { verifyMatchAndTeam } from "../helpers/matches";
 import {
   addScorecardBatter,
   addScorecardBowler,
@@ -26,8 +24,6 @@ import {
   MatchWithId,
   NewMatch,
   PlayerOptional,
-  SlugInputColumns,
-  SlugInputData,
   TeamSquad,
   UpdateDocType,
   getValidationType,
@@ -88,8 +84,7 @@ export async function createOne(
   next: NextFunction
 ) {
   try {
-    const slug = await generateSlug(req.body);
-    const newMatch: Match = { ...req.body, slug };
+    const newMatch: Match = req.body;
 
     const results = await db
       .insert(matchesTable)
@@ -138,33 +133,6 @@ export async function updateOne(
   try {
     const id = parseInt(req.params.id);
     const match = req.body!;
-
-    // extract slug-member properties
-    let slugInput: Partial<SlugInputData> = Object.fromEntries(
-      Object.entries(match).filter(([key]) => {
-        return SLUG_INPUT_KEYS.includes(key as keyof SlugInputData);
-      })
-    );
-
-    // if slug-member property is being updated
-    if (!isObjEmpty(slugInput)) {
-      // get remaining slug-member properties
-      let columnsToFetch = SLUG_INPUT_KEYS.filter(
-        (key) => !(key in slugInput)
-      ).reduce((acc, key) => {
-        acc[key] = matchesTable[key];
-        return acc;
-      }, {} as SlugInputColumns);
-
-      if (!isObjEmpty(columnsToFetch)) {
-        let results = await db.select(columnsToFetch).from(matchesTable);
-        slugInput = { ...slugInput, ...results[0] };
-      }
-
-      match.slug = await generateSlug(slugInput as SlugInputData);
-
-      // Needs to update match squad if team ID changes
-    }
 
     const results = await db
       .update(matchesTable)
@@ -741,7 +709,6 @@ export async function getCurrentMatches(
     const results = await db.query.matches.findMany({
       columns: {
         id: true,
-        slug: true,
         description: true,
         matchFormat: true,
         startTime: true,
@@ -785,7 +752,6 @@ export async function getMatchInfo(
     const matchData = await db.query.matches.findFirst({
       columns: {
         id: true,
-        slug: true,
         description: true,
         matchFormat: true,
         startTime: true,
@@ -806,7 +772,6 @@ export async function getMatchInfo(
           columns: {
             id: true,
             name: true,
-            slug: true,
             shortName: true,
           },
         },
@@ -814,7 +779,6 @@ export async function getMatchInfo(
           columns: {
             id: true,
             name: true,
-            slug: true,
             shortName: true,
           },
         },
@@ -871,7 +835,6 @@ export async function getMatchInfo(
         id: playersTable.id,
         name: playersTable.name,
         shortName: playersTable.shortName,
-        slug: playersTable.slug,
         roleInfo: playersTable.roleInfo,
       })
       .from(playersTable)
@@ -924,7 +887,6 @@ export async function getMatchScore(
     const matchData = await db.query.matches.findFirst({
       columns: {
         id: true,
-        slug: true,
         description: true,
         matchFormat: true,
         startTime: true,
@@ -945,7 +907,6 @@ export async function getMatchScore(
           columns: {
             id: true,
             name: true,
-            slug: true,
             shortName: true,
           },
         },
@@ -953,7 +914,6 @@ export async function getMatchScore(
           columns: {
             id: true,
             name: true,
-            slug: true,
             shortName: true,
           },
         },
@@ -1010,7 +970,6 @@ export async function getMatchScore(
         id: playersTable.id,
         name: playersTable.name,
         shortName: playersTable.shortName,
-        slug: playersTable.slug,
         roleInfo: playersTable.roleInfo,
       })
       .from(playersTable)
@@ -1235,7 +1194,6 @@ export async function getMatchPlayers(
         id: playersTable.id,
         name: playersTable.name,
         shortName: playersTable.shortName,
-        slug: playersTable.slug,
         roleInfo: playersTable.roleInfo,
       })
       .from(playersTable)

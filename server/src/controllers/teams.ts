@@ -1,15 +1,8 @@
 import { eq } from "drizzle-orm";
 import { NextFunction, Request, Response } from "express";
-import slugify from "slugify";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
-import {
-  NewTeam,
-  Team,
-  TeamOptional,
-  TeamWithId,
-  getValidationType,
-} from "../types";
+import { Team, TeamOptional, TeamWithId, getValidationType } from "../types";
 
 export async function getAll(
   req: Request,
@@ -49,15 +42,12 @@ export async function getOne(
 }
 
 export async function createOne(
-  req: Request<{}, TeamWithId, NewTeam>,
+  req: Request<{}, TeamWithId, Team>,
   res: Response,
   next: NextFunction
 ) {
   try {
-    const slug = slugify(req.body.name, {
-      lower: true,
-    });
-    const newTeam: Team = { ...req.body, slug };
+    const newTeam: Team = req.body;
 
     const results = await db
       .insert(tables.teams)
@@ -84,12 +74,6 @@ export async function updateOne(
   try {
     const id = parseInt(req.params.id);
     const team = req.body;
-
-    if (team.name && !team.slug) {
-      team.slug = slugify(team.name, {
-        lower: true,
-      });
-    }
 
     const results = await db
       .update(tables.teams)

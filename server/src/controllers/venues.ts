@@ -1,15 +1,8 @@
 import { eq } from "drizzle-orm";
 import { NextFunction, Request, Response } from "express";
-import slugify from "slugify";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
-import {
-  NewVenue,
-  Venue,
-  VenueOptional,
-  VenueWithId,
-  getValidationType,
-} from "../types";
+import { Venue, VenueOptional, VenueWithId, getValidationType } from "../types";
 
 export async function getAll(
   req: Request,
@@ -49,15 +42,12 @@ export async function getOne(
 }
 
 export async function createOne(
-  req: Request<{}, VenueWithId, NewVenue>,
+  req: Request<{}, VenueWithId, Venue>,
   res: Response,
   next: NextFunction
 ) {
   try {
-    const slug = slugify(req.body.name, {
-      lower: true,
-    });
-    const newVenue: Venue = { ...req.body, slug };
+    const newVenue: Venue = req.body;
 
     const results = await db
       .insert(tables.venues)
@@ -84,12 +74,6 @@ export async function updateOne(
   try {
     const id = parseInt(req.params.id);
     const venue = req.body;
-
-    if (venue.name && !venue.slug) {
-      venue.slug = slugify(venue.name, {
-        lower: true,
-      });
-    }
 
     const results = await db
       .update(tables.venues)

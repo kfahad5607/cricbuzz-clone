@@ -1,9 +1,7 @@
 import { NextFunction, Request, Response } from "express";
-import slugify from "slugify";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import {
-  NewSeries,
   Series,
   SeriesOptional,
   SeriesWithId,
@@ -49,15 +47,12 @@ export async function getOne(
 }
 
 export async function createOne(
-  req: Request<{}, SeriesWithId, NewSeries>,
+  req: Request<{}, SeriesWithId, Series>,
   res: Response,
   next: NextFunction
 ) {
   try {
-    const slug = slugify(req.body.title, {
-      lower: true,
-    });
-    const newSeries: Series = { ...req.body, slug };
+    const newSeries: Series = req.body;
 
     const results = await db
       .insert(tables.series)
@@ -84,12 +79,6 @@ export async function updateOne(
   try {
     const id = parseInt(req.params.id);
     const series = req.body;
-
-    if (series.title && !series.slug) {
-      series.slug = slugify(series.title, {
-        lower: true,
-      });
-    }
 
     const results = await db
       .update(tables.series)

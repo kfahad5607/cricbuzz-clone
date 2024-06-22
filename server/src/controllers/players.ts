@@ -1,10 +1,8 @@
 import { eq } from "drizzle-orm";
 import { NextFunction, Request, Response } from "express";
-import slugify from "slugify";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import {
-  NewPlayer,
   Player,
   PlayerOptional,
   PlayerWithId,
@@ -49,17 +47,12 @@ export async function getOne(
 }
 
 export async function createOne(
-  req: Request<{}, PlayerWithId, NewPlayer>,
+  req: Request<{}, PlayerWithId, Player>,
   res: Response,
   next: NextFunction
 ) {
   try {
-    const slug = slugify(req.body.name, {
-      lower: true,
-    });
-    const newPlayer: Player = { ...req.body, slug };
-
-    console.log("createOne player ", newPlayer);
+    const newPlayer: Player = req.body;
 
     const results = await db
       .insert(tables.players)
@@ -86,12 +79,6 @@ export async function updateOne(
   try {
     const id = parseInt(req.params.id);
     const player = req.body;
-
-    if (player.name && !player.slug) {
-      player.slug = slugify(player.name, {
-        lower: true,
-      });
-    }
 
     const results = await db
       .update(tables.players)

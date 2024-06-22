@@ -7,7 +7,7 @@ import {
   updateOne,
 } from "../controllers/venues";
 import { validateRequest } from "../middlewares";
-import { NewVenue, VenueOptional, getValidationSchema } from "../types";
+import { Venue, VenueOptional, getValidationSchema } from "../types";
 
 const router = express.Router();
 
@@ -26,7 +26,7 @@ router.get(
 router.post(
   "/",
   validateRequest({
-    body: NewVenue,
+    body: Venue,
   }),
   createOne
 );

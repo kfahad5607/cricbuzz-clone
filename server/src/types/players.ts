@@ -17,7 +17,7 @@ const PersonalInfo = z.object({
   height: z.number().optional(),
 });
 
-export const NewPlayer = z.object({
+export const Player = z.object({
   name: z
     .string({
       required_error: "Name is required.",
@@ -35,10 +35,6 @@ export const NewPlayer = z.object({
   team: z.number().positive(),
   roleInfo: RoleInfo,
   personalInfo: PersonalInfo,
-});
-
-export const Player = NewPlayer.extend({
-  slug: z.string().min(3).max(100),
 });
 
 export const PlayerOptional = Player.partial();
@@ -71,7 +67,6 @@ export const MatchSquadPlayerWithInfo = MatchSquadPlayerOptional.merge(
 
 export type RoleInfo = z.infer<typeof RoleInfo>;
 export type PersonalInfo = z.infer<typeof PersonalInfo>;
-export type NewPlayer = z.infer<typeof NewPlayer>;
 export type Player = z.infer<typeof Player>;
 export type PlayerOptional = z.infer<typeof PlayerOptional>;
 export type PlayerWithId = z.infer<typeof PlayerWithId>;

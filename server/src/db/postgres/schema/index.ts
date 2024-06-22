@@ -33,13 +33,11 @@ export const series = pgTable("series", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
   title: varchar("title", { length: 255 }).notNull().unique(),
   description: varchar("description", { length: 150 }).notNull(),
-  slug: varchar("slug", { length: 255 }).notNull().unique(),
 });
 
 export const matches = pgTable("matches", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
   description: varchar("description", { length: 200 }).notNull(),
-  slug: varchar("slug", { length: 255 }).notNull().unique(),
   matchFormat: matchFormatEnum("match_format").notNull(),
   matchType: matchTypeEnum("match_type").notNull(),
   matchNumber: smallint("match_number").default(1).notNull(),
@@ -80,7 +78,6 @@ export const innings = pgTable("innings", {
 export const venues = pgTable("venues", {
   id: smallserial("id").primaryKey(),
   name: varchar("name", { length: 100 }).notNull(),
-  slug: varchar("slug", { length: 100 }).notNull().unique(),
   city: varchar("city", { length: 100 }).notNull(),
   country: varchar("country", { length: 100 }).notNull(),
 });
@@ -91,7 +88,6 @@ export const squads = pgTable("squads", {
 
 export const teams = pgTable("teams", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
-  slug: varchar("slug", { length: 100 }).notNull().unique(),
   name: varchar("name", { length: 100 }).notNull().unique(),
   shortName: varchar("short_name", { length: 5 }).notNull(),
 });
@@ -100,7 +96,6 @@ export const players = pgTable("players", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
   name: varchar("name", { length: 100 }).notNull(),
   shortName: varchar("short_name", { length: 50 }).notNull(),
-  slug: varchar("slug", { length: 100 }).notNull(),
   team: bigint("team", { mode: "number" })
     .references(() => teams.id)
     .notNull(),

@@ -7,7 +7,7 @@ import {
   updateOne,
 } from "../controllers/teams";
 import { validateRequest } from "../middlewares";
-import { NewTeam, TeamOptional, getValidationSchema } from "../types";
+import { Team, TeamOptional, getValidationSchema } from "../types";
 
 const router = express.Router();
 
@@ -26,7 +26,7 @@ router.get(
 router.post(
   "/",
   validateRequest({
-    body: NewTeam,
+    body: Team,
   }),
   createOne
 );

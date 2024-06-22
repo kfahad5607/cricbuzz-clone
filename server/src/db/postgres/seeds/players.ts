@@ -1,10 +1,10 @@
 import { db } from "../../postgres";
 import * as tables from "../../postgres/schema";
-import slugify from "slugify";
 import { sql } from "drizzle-orm";
 import { readFileData, writeFileData } from "./helpers/file";
+import { BASE_DATA_PATH } from "./helpers/constants";
 
-const BASE_PATH = "src/db/postgres/seeds/data/players/";
+const BASE_PATH = BASE_DATA_PATH + "players/";
 
 const seedPlayers = async () => {
   try {
@@ -27,9 +27,6 @@ const seedPlayers = async () => {
       playerIds.push(item.id);
 
       delete item.id;
-      item.slug = slugify(item.name, {
-        lower: true,
-      });
       players.push(item);
 
       teamsSet.add(item.team);

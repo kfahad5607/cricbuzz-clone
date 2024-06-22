@@ -7,7 +7,7 @@ import {
   updateOne,
 } from "../controllers/series";
 import { validateRequest } from "../middlewares";
-import { NewSeries, SeriesOptional, getValidationSchema } from "../types";
+import { Series, SeriesOptional, getValidationSchema } from "../types";
 
 const router: Router = express.Router();
 
@@ -26,7 +26,7 @@ router.get(
 router.post(
   "/",
   validateRequest({
-    body: NewSeries,
+    body: Series,
   }),
   createOne
 );

@@ -1,9 +1,9 @@
 import { db } from "../../postgres";
 import * as tables from "../../postgres/schema";
-import slugify from "slugify";
 import { readFileData, writeFileData } from "./helpers/file";
+import { BASE_DATA_PATH } from "./helpers/constants";
 
-const BASE_PATH = "src/db/postgres/seeds/data/venues/";
+const BASE_PATH = BASE_DATA_PATH + "venues/";
 
 const seedVenues = async () => {
   try {
@@ -24,9 +24,6 @@ const seedVenues = async () => {
       venueIds.push(item.id);
 
       delete item.id;
-      item.slug = slugify(item.name, {
-        lower: true,
-      });
       venues.push(item);
     }
 

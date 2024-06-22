@@ -1,6 +1,6 @@
 import * as z from "zod";
 
-export const NewTeam = z.object({
+export const Team = z.object({
   name: z
     .string({
       required_error: "Name is required.",
@@ -17,17 +17,12 @@ export const NewTeam = z.object({
     .max(5),
 });
 
-export const Team = NewTeam.extend({
-  slug: z.string().min(3).max(100),
-});
-
 export const TeamOptional = Team.partial();
 
 export const TeamWithId = Team.extend({
   id: z.number().positive(),
 });
 
-export type NewTeam = z.infer<typeof NewTeam>;
 export type Team = z.infer<typeof Team>;
 export type TeamOptional = z.infer<typeof TeamOptional>;
 export type TeamWithId = z.infer<typeof TeamWithId>;

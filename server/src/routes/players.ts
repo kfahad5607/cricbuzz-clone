@@ -7,7 +7,7 @@ import {
   updateOne,
 } from "../controllers/players";
 import { validateRequest } from "../middlewares";
-import { NewPlayer, PlayerOptional, getValidationSchema } from "../types";
+import { Player, PlayerOptional, getValidationSchema } from "../types";
 
 const router = express.Router();
 
@@ -26,7 +26,7 @@ router.get(
 router.post(
   "/",
   validateRequest({
-    body: NewPlayer,
+    body: Player,
   }),
   createOne
 );
