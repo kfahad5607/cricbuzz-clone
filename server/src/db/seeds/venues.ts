@@ -1,14 +1,20 @@
-import { db } from "../../postgres";
-import * as tables from "../../postgres/schema";
-import { readFileData, writeFileData } from "./helpers/file";
+import * as z from "zod";
+import { VenueWithId } from "../../types";
+import { db } from "../postgres";
+import * as tables from "../postgres/schema";
 import { BASE_DATA_PATH } from "./helpers/constants";
-import { Optional, VenueWithId } from "../../../types";
+import { readFileData, writeFileData } from "./helpers/file";
+
+// validation schema
+const VenueWithOptionalId = VenueWithId.partial({ id: true });
+const VenuesData = z.record(z.coerce.number().positive(), VenueWithOptionalId);
 
 // types
-type VenueWithOptionalId = Optional<VenueWithId, "id">;
-type VenuesData = Record<number, VenueWithOptionalId>;
+type VenueWithOptionalId = z.infer<typeof VenueWithOptionalId>;
+type VenuesData = z.infer<typeof VenuesData>;
 type IdsMap = Record<number, number>;
 
+// consts
 const BASE_PATH = BASE_DATA_PATH + "venues/";
 
 const seedVenues = async () => {
@@ -22,6 +28,8 @@ const seedVenues = async () => {
     }
 
     const data: VenuesData = JSON.parse(contents);
+    // validate
+    VenuesData.parse(data);
 
     const venues: VenueWithOptionalId[] = [];
     const venueIds: number[] = [];
@@ -52,6 +60,7 @@ const seedVenues = async () => {
     console.log("Seeding venues finished...");
   } catch (err) {
     console.error("ERROR in seeding venues ==> ", err);
+    if (err instanceof Error) throw new Error(err.message);
   }
 };
 

@@ -3,6 +3,7 @@ import { BALL_EVENTS } from "../db/mongo/constants";
 import {
   SCORECARD_INNINGS_TYPES,
   ScorecardBatterSchema,
+  ScorecardBowlerSchema,
   ScorecardInningsEntry,
 } from "./scorecard";
 import { batterHolderKeysEnum } from "../helpers/scorecard";
@@ -18,24 +19,24 @@ const CommentaryBatterSchema = ScorecardBatterSchema.omit({
   isStriker: true,
 });
 
-const CommentaryBowlerSchema = ScorecardBatterSchema;
+const CommentaryBowlerSchema = ScorecardBowlerSchema;
 
 export const CommentaryItem = z.object({
-  timestamp: z.number(),
-  overs: z.number().nonnegative(),
+  timestamp: z.coerce.number(),
+  overs: z.coerce.number().nonnegative(),
   commText: z.string(),
-  events: z.enum(BALL_EVENTS),
+  events: z.array(z.enum(BALL_EVENTS)),
   batsmanStriker: CommentaryBatterSchema,
   bowlerStriker: CommentaryBowlerSchema,
 });
 
 export const CommentaryInnings = z.object({
-  teamId: z.number().positive(),
+  teamId: z.coerce.number().positive(),
   commentaryList: z.array(CommentaryItem),
 });
 
 export const Commentary = z.object({
-  matchId: z.number().positive(),
+  matchId: z.coerce.number().positive(),
   innings: z.array(CommentaryInnings),
 });
 

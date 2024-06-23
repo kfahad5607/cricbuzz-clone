@@ -27,7 +27,7 @@ export const Venue = z.object({
 export const VenueOptional = Venue.partial();
 
 export const VenueWithId = Venue.extend({
-  id: z.number().positive(),
+  id: z.coerce.number().positive(),
 });
 
 export type Venue = z.infer<typeof Venue>;

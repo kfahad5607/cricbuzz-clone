@@ -20,7 +20,7 @@ export const Series = z.object({
 export const SeriesOptional = Series.partial();
 
 export const SeriesWithId = Series.extend({
-  id: z.number().positive(),
+  id: z.coerce.number().positive(),
 });
 
 export type Series = z.infer<typeof Series>;

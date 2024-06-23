@@ -1,14 +1,20 @@
-import { db } from "../../postgres";
-import * as tables from "../../postgres/schema";
-import { readFileData, writeFileData } from "./helpers/file";
+import * as z from "zod";
+import { TeamWithId } from "../../types";
+import { db } from "../postgres";
+import * as tables from "../postgres/schema";
 import { BASE_DATA_PATH } from "./helpers/constants";
-import { Optional, TeamWithId } from "../../../types";
+import { readFileData, writeFileData } from "./helpers/file";
+
+// validation schema
+const TeamWithOptionalId = TeamWithId.partial({ id: true });
+const TeamsData = z.record(z.coerce.number().positive(), TeamWithOptionalId);
 
 // types
-type TeamWithOptionalId = Optional<TeamWithId, "id">;
-type TeamsData = Record<number, TeamWithOptionalId>;
+type TeamWithOptionalId = z.infer<typeof TeamWithOptionalId>;
+type TeamsData = z.infer<typeof TeamsData>;
 type IdsMap = Record<number, number>;
 
+// consts
 const BASE_PATH = BASE_DATA_PATH + "teams/";
 
 const seedTeams = async () => {
@@ -22,6 +28,8 @@ const seedTeams = async () => {
     }
 
     const data: TeamsData = JSON.parse(contents);
+    // validate
+    TeamsData.parse(data);
 
     const teams: TeamWithOptionalId[] = [];
     const teamIds: number[] = [];
@@ -51,6 +59,7 @@ const seedTeams = async () => {
     console.log("Seeding teams finished...");
   } catch (err) {
     console.error("ERROR in seeding teams ==> ", err);
+    if (err instanceof Error) throw new Error(err.message);
   }
 };
 

@@ -11,54 +11,54 @@ export const SCORECARD_INNINGS_TYPES = [
 
 // schemas
 export const ScorecardBatterSchema = z.object({
-  id: z.number().positive(),
-  batRuns: z.number().nonnegative(),
-  ballsPlayed: z.number().nonnegative(),
-  dotBalls: z.number().nonnegative().default(0),
-  batFours: z.number().nonnegative().default(0),
-  batSixes: z.number().nonnegative().default(0),
+  id: z.coerce.number().nonnegative(),
+  batRuns: z.coerce.number().nonnegative(),
+  ballsPlayed: z.coerce.number().nonnegative(),
+  dotBalls: z.coerce.number().nonnegative().default(0),
+  batFours: z.coerce.number().nonnegative().default(0),
+  batSixes: z.coerce.number().nonnegative().default(0),
   isStriker: z.boolean().optional(),
 });
 
 const fallOfWicketSchema = z.object({
   dismissalType: z.enum(DISMISSAL_TYPES_VALUES),
-  overs: z.number().nonnegative(),
-  teamScore: z.number().nonnegative(),
-  teamWickets: z.number().nonnegative(),
-  bowlerId: z.number().positive().optional(),
-  helpers: z.array(z.number().positive()).max(2).default([]),
+  overs: z.coerce.number().nonnegative(),
+  teamScore: z.coerce.number().nonnegative(),
+  teamWickets: z.coerce.number().nonnegative(),
+  bowlerId: z.coerce.number().positive().optional(),
+  helpers: z.array(z.coerce.number().positive()).max(2).default([]),
 });
 
 export const ScorecardBatter = ScorecardBatterSchema.extend({
   fallOfWicket: fallOfWicketSchema.optional(),
 });
 
-const ScorecardBowlerSchema = z.object({
-  id: z.number().positive(),
-  bowlOvers: z.number().nonnegative(),
-  bowlMaidens: z.number().nonnegative().default(0),
-  bowlRuns: z.number().nonnegative(),
-  bowlWickets: z.number().nonnegative().default(0),
-  bowlWides: z.number().nonnegative().default(0),
-  bowlNoBalls: z.number().nonnegative().default(0),
+export const ScorecardBowlerSchema = z.object({
+  id: z.coerce.number().nonnegative(),
+  bowlOvers: z.coerce.number().nonnegative(),
+  bowlMaidens: z.coerce.number().nonnegative().default(0),
+  bowlRuns: z.coerce.number().nonnegative(),
+  bowlWickets: z.coerce.number().nonnegative().default(0),
+  bowlWides: z.coerce.number().nonnegative().default(0),
+  bowlNoBalls: z.coerce.number().nonnegative().default(0),
 });
 
 export const ScorecardBowler = ScorecardBowlerSchema;
 
 const extraBall = z.object({
-  nos: z.number().nonnegative().default(0),
-  wides: z.number().nonnegative().default(0),
-  legByes: z.number().nonnegative().default(0),
-  byes: z.number().nonnegative().default(0),
-  penalties: z.number().nonnegative().default(0),
+  nos: z.coerce.number().nonnegative().default(0),
+  wides: z.coerce.number().nonnegative().default(0),
+  legByes: z.coerce.number().nonnegative().default(0),
+  byes: z.coerce.number().nonnegative().default(0),
+  penalties: z.coerce.number().nonnegative().default(0),
 });
 
 export const BaseScorecardInnings = z.object({
-  teamId: z.number().positive(),
-  overs: z.number().nonnegative().default(0),
-  oversBowled: z.number().nonnegative().default(0),
-  score: z.number().nonnegative().default(0),
-  wickets: z.number().nonnegative().default(0),
+  teamId: z.coerce.number().positive(),
+  overs: z.coerce.number().nonnegative().default(0),
+  oversBowled: z.coerce.number().nonnegative().default(0),
+  score: z.coerce.number().nonnegative().default(0),
+  wickets: z.coerce.number().nonnegative().default(0),
   isDeclared: z.boolean().optional(),
   isFollowOn: z.boolean().optional(),
   extras: extraBall,
@@ -70,7 +70,7 @@ export const ScorecardInnings = BaseScorecardInnings.extend({
 });
 
 export const Scorecard = z.object({
-  matchId: z.number().positive(),
+  matchId: z.coerce.number().positive(),
   innings: z.object({
     first: ScorecardInnings.optional(),
     second: ScorecardInnings.optional(),

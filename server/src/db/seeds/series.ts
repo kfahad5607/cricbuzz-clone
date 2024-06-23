@@ -1,41 +1,50 @@
+import * as z from "zod";
 import {
   CommentaryItem,
   Match,
   MatchSquad,
   MatchSquadPlayer,
-  Optional,
   SeriesWithId,
   TeamSquad,
-} from "../../../types";
-import { Scorecard as ScorecardType } from "../../../types/scorecard";
-import Commentary from "../../mongo/schema/commentary";
-import MatchSquads from "../../mongo/schema/matchSquad";
-import Scorecard from "../../mongo/schema/scorecard";
-import { db } from "../../postgres";
-import * as tables from "../../postgres/schema";
+} from "../../types";
+import { Scorecard } from "../../types/scorecard";
+import Commentary from "../mongo/schema/commentary";
+import MatchSquads from "../mongo/schema/matchSquad";
+import ScorecardModel from "../mongo/schema/scorecard";
+import { db } from "../postgres";
+import * as tables from "../postgres/schema";
 import { BASE_DATA_PATH } from "./helpers/constants";
 import { readDirectory, readFileData, writeFileData } from "./helpers/file";
+import { IdsMap } from "./helpers/types";
+
+// validation schema
+const InningsScoreItem = z.object({
+  inningsId: z.coerce.number().positive(),
+  batTeamId: z.coerce.number().positive(),
+});
+const InfoData = Match.extend({
+  inningsScoreList: z.array(InningsScoreItem),
+});
+
+const SquadsData = z.object({
+  homeTeam: TeamSquad,
+  awayTeam: TeamSquad,
+});
+
+const SeriesWithOptionalId = SeriesWithId.partial({ id: true });
+const SeriesData = z.record(z.coerce.number().positive(), SeriesWithOptionalId);
+const CommentaryData = z.array(CommentaryItem);
 
 // types
 type Entities = "venues" | "series" | "teams" | "players";
-type IdsMap = Record<number, number>;
 
-type inningsScoreItem = {
-  inningsId: number;
-  batTeamId: number;
-};
-type InfoData = Match & {
-  inningsScoreList: inningsScoreItem[];
-};
+type InfoData = z.infer<typeof InfoData>;
+type SquadsData = z.infer<typeof SquadsData>;
 
-type SquadsData = {
-  homeTeam: TeamSquad<MatchSquadPlayer>;
-  awayTeam: TeamSquad<MatchSquadPlayer>;
-};
+type SeriesWithOptionalId = z.infer<typeof SeriesWithOptionalId>;
+type SeriesData = z.infer<typeof SeriesData>;
 
-type SeriesWithOptionalId = Optional<SeriesWithId, "id">;
-type SeriesData = Record<number, SeriesWithOptionalId>;
-
+// consts
 const BASE_PATH = BASE_DATA_PATH + "series/";
 
 const getIdsMap = async (entity: Entities): Promise<IdsMap> => {
@@ -44,11 +53,17 @@ const getIdsMap = async (entity: Entities): Promise<IdsMap> => {
       `${BASE_DATA_PATH}${entity}/idsMap.json`
     );
 
-    if (!idsMapContents) throw new Error("");
+    if (!idsMapContents)
+      throw new Error(`No ${entity} ids map data found to seed...`);
 
-    return JSON.parse(idsMapContents);
+    const idsMapData = JSON.parse(idsMapContents);
+    // validate
+    IdsMap.parse(idsMapData);
+
+    return idsMapData;
   } catch (err) {
-    throw new Error(`No ${entity} ids map data found to seed...`);
+    if (err instanceof Error) throw new Error(err.message);
+    throw new Error(String(err));
   }
 };
 
@@ -62,13 +77,19 @@ const getMatchCommentary = async (
 
     const contents = await readFileData(path);
 
-    if (!contents) throw new Error("");
+    if (!contents)
+      throw new Error(
+        `No commentary found for match ${matchId} and innings ${inningsId}...`
+      );
 
-    return JSON.parse(contents);
+    const commentary = JSON.parse(contents);
+    // validate
+    CommentaryData.parse(commentary);
+
+    return commentary;
   } catch (err) {
-    throw new Error(
-      `No commentary found for match ${matchId} and innings ${inningsId}...`
-    );
+    if (err instanceof Error) throw new Error(err.message);
+    throw new Error(String(err));
   }
 };
 
@@ -90,6 +111,8 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     }
 
     const infoData: InfoData = JSON.parse(infoContents);
+    // validate
+    InfoData.parse(infoData);
 
     const squadsContents = await readFileData(BASE_MATCH_PATH + "squads.json");
 
@@ -99,6 +122,8 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     }
 
     const squadsData: SquadsData = JSON.parse(squadsContents);
+    // validate
+    SquadsData.parse(squadsData);
 
     const scorecardContents = await readFileData(
       BASE_MATCH_PATH + "scorecard.json"
@@ -109,7 +134,9 @@ const seedMatch = async (seriesId: number, matchId: number) => {
       return;
     }
 
-    const scorecardData: ScorecardType = JSON.parse(scorecardContents);
+    const scorecardData: Scorecard = JSON.parse(scorecardContents);
+    // validate
+    Scorecard.parse(scorecardData);
 
     const tossResults = infoData.tossResults;
     if (tossResults.tossWinnerId)
@@ -162,7 +189,7 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     scorecardData.matchId = insertedMatchId;
     for (const inningsKey in scorecardData.innings) {
       const currentInnings =
-        scorecardData.innings[inningsKey as keyof ScorecardType["innings"]];
+        scorecardData.innings[inningsKey as keyof Scorecard["innings"]];
 
       if (!currentInnings) continue;
 
@@ -212,7 +239,7 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     };
 
     await MatchSquads.create(matchSquad);
-    await Scorecard.create(scorecardData);
+    await ScorecardModel.create(scorecardData);
     await Commentary.create(commentaryData);
 
     console.log("Seeding match finished... ");
@@ -251,6 +278,8 @@ const seedSeries = async () => {
     }
 
     const data: SeriesData = JSON.parse(contents);
+    // validate
+    SeriesData.parse(data);
 
     const series: SeriesWithOptionalId[] = [];
     const seriesIds: number[] = [];
@@ -278,14 +307,13 @@ const seedSeries = async () => {
     );
 
     for (let i = 0; i < seriesIds.length; i++) {
-      const seriesId = seriesIds[i];
-
-      await seedSeriesMatches(seriesId);
+      await seedSeriesMatches(seriesIds[i]);
     }
 
     console.log("Seeding series finished...");
   } catch (err) {
     console.error("ERROR in seeding series ==> ", err);
+    if (err instanceof Error) throw new Error(err.message);
   }
 };
 

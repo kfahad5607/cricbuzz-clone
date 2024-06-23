@@ -15,12 +15,12 @@ const MatchResults = z.object({
   resultType: z.enum(MATCH_RESULT_TYPES_VALUES).optional(),
   winByInnings: z.boolean(),
   winByRuns: z.boolean(),
-  winningMargin: z.number().positive().optional(),
-  winningTeamId: z.number().positive().optional(),
+  winningMargin: z.coerce.number().positive().optional(),
+  winningTeamId: z.coerce.number().positive().optional(),
 });
 
 const MatchTossResults = z.object({
-  tossWinnerId: z.number().positive().optional(),
+  tossWinnerId: z.coerce.number().positive().optional(),
   decision: z.enum(TOSS_DECISIONS_VALUES).optional(),
 });
 
@@ -34,11 +34,11 @@ export const Match = z.object({
     .max(200),
   matchFormat: z.enum(MATCH_FORMATS_VALUES),
   matchType: z.enum(MATCH_TYPES_VALUES),
-  matchNumber: z.number().nonnegative(),
-  homeTeam: z.number().positive(),
-  awayTeam: z.number().positive(),
-  series: z.number().positive(),
-  venue: z.number().positive(),
+  matchNumber: z.coerce.number().nonnegative(),
+  homeTeam: z.coerce.number().positive(),
+  awayTeam: z.coerce.number().positive(),
+  series: z.coerce.number().positive(),
+  venue: z.coerce.number().positive(),
   startTime: z.coerce.date(),
   state: z.enum(MATCH_STATES_VALUES).default(MATCH_STATES.PREVIEW),
   status: z.string().max(200).default("").optional(),
@@ -49,17 +49,17 @@ export const Match = z.object({
 export const MatchOptional = Match.partial();
 
 export const MatchWithId = Match.extend({
-  id: z.number().positive(),
+  id: z.coerce.number().positive(),
+});
+
+export const TeamSquad = z.object({
+  teamId: z.coerce.number().positive(),
+  players: z.array(MatchSquadPlayer),
 });
 
 export const MatchSquad = z.object({
-  matchId: z.number().positive(),
-  teams: z.array(
-    z.object({
-      teamId: z.number().positive(),
-      players: z.array(MatchSquadPlayer),
-    })
-  ),
+  matchId: z.coerce.number().positive(),
+  teams: z.array(TeamSquad),
 });
 
 // infered types

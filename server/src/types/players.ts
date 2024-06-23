@@ -14,7 +14,7 @@ const RoleInfo = z.object({
 const PersonalInfo = z.object({
   birthDate: z.coerce.date(),
   birthPlace: z.string().optional(),
-  height: z.number().optional(),
+  height: z.coerce.number().optional(),
 });
 
 export const Player = z.object({
@@ -32,7 +32,7 @@ export const Player = z.object({
     })
     .min(2)
     .max(50),
-  team: z.number().positive(),
+  team: z.coerce.number().positive(),
   roleInfo: RoleInfo,
   personalInfo: PersonalInfo,
 });
@@ -40,11 +40,11 @@ export const Player = z.object({
 export const PlayerOptional = Player.partial();
 
 export const PlayerWithId = Player.extend({
-  id: z.number().positive(),
+  id: z.coerce.number().positive(),
 });
 
 export const MatchSquadPlayer = z.object({
-  playerId: z.number().positive(),
+  playerId: z.coerce.number().positive(),
   isPlaying: z.boolean().optional(),
   isInSubs: z.boolean().optional(),
   isIncluded: z.boolean().optional(),

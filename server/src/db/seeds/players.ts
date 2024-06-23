@@ -1,25 +1,37 @@
 import { sql } from "drizzle-orm";
-import { Optional, Overwrite, PlayerWithId } from "../../../types";
-import { db } from "../../postgres";
-import * as tables from "../../postgres/schema";
+import * as z from "zod";
+import { PlayerWithId } from "../../types";
+import { db } from "../postgres";
+import * as tables from "../postgres/schema";
 import { BASE_DATA_PATH } from "./helpers/constants";
 import { readFileData, writeFileData } from "./helpers/file";
 
+// validation schema
+const PlayerWithOptionalId = PlayerWithId.partial({ id: true });
+const PlayerWithTeamNameOptionalId = PlayerWithOptionalId.extend({
+  team: z.string(),
+});
+const PlayersData = z.record(
+  z.coerce.number().positive(),
+  PlayerWithTeamNameOptionalId
+);
+
 // types
-type PlayerWithTeamName = Overwrite<PlayerWithId, { team: string }>;
-type PlayerWithTeamNameOptionalId = Optional<PlayerWithTeamName, "id">;
-type PlayerWithptionalId = Optional<PlayerWithId, "id">;
-type PlayersData = Record<number, PlayerWithTeamNameOptionalId>;
+type PlayersData = z.infer<typeof PlayersData>;
+type PlayerWithTeamNameOptionalId = z.infer<
+  typeof PlayerWithTeamNameOptionalId
+>;
+type PlayerWithOptionalId = z.infer<typeof PlayerWithOptionalId>;
 type TeamNameIdMap = Record<string, number>;
 type IdsMap = Record<number, number>;
 
-// const
+// consts
 const BASE_PATH = BASE_DATA_PATH + "players/";
 
 const mapTeamIds = (
   players: PlayerWithTeamNameOptionalId[],
   teamNameIdMap: TeamNameIdMap
-): PlayerWithptionalId[] => {
+): PlayerWithOptionalId[] => {
   const playersWithTeamId = players.map((player) => {
     const teamId = teamNameIdMap[player.team];
 
@@ -43,6 +55,8 @@ const seedPlayers = async () => {
     }
 
     const data: PlayersData = JSON.parse(contents);
+    // validate
+    PlayersData.parse(data);
 
     const teamsNameSet: Set<string> = new Set();
     const players: PlayerWithTeamNameOptionalId[] = [];
@@ -93,6 +107,7 @@ const seedPlayers = async () => {
     console.log("Seeding players finished... ");
   } catch (err) {
     console.error("ERROR in seeding players ==> ", err);
+    if (err instanceof Error) throw new Error(err.message);
   }
 };
 

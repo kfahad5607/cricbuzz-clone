@@ -20,7 +20,7 @@ export const Team = z.object({
 export const TeamOptional = Team.partial();
 
 export const TeamWithId = Team.extend({
-  id: z.number().positive(),
+  id: z.coerce.number().positive(),
 });
 
 export type Team = z.infer<typeof Team>;

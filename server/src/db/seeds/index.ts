@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
-import config from "../../../config";
-import { client } from "../../postgres";
+import config from "../../config";
+import { client } from "../postgres";
 import seedPlayers from "./players";
 import seedSeries from "./series";
 import seedTeams from "./teams";
@@ -16,17 +16,13 @@ const disconnectDatabases = async () => {
 };
 
 const main = async () => {
-  try {
-    await connectToDatabases();
-    await seedVenues();
-    await seedTeams();
-    await seedPlayers();
-    await seedSeries();
+  await connectToDatabases();
+  await seedVenues();
+  await seedTeams();
+  await seedPlayers();
+  await seedSeries();
 
-    await disconnectDatabases();
-  } catch (err) {
-    console.error("ERROR in main ==> ", err);
-  }
+  await disconnectDatabases();
 };
 
 main();
