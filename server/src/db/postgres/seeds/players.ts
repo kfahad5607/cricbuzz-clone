@@ -1,10 +1,36 @@
+import { sql } from "drizzle-orm";
+import { Optional, Overwrite, PlayerWithId } from "../../../types";
 import { db } from "../../postgres";
 import * as tables from "../../postgres/schema";
-import { sql } from "drizzle-orm";
-import { readFileData, writeFileData } from "./helpers/file";
 import { BASE_DATA_PATH } from "./helpers/constants";
+import { readFileData, writeFileData } from "./helpers/file";
 
+// types
+type PlayerWithTeamName = Overwrite<PlayerWithId, { team: string }>;
+type PlayerWithTeamNameOptionalId = Optional<PlayerWithTeamName, "id">;
+type PlayerWithptionalId = Optional<PlayerWithId, "id">;
+type PlayersData = Record<number, PlayerWithTeamNameOptionalId>;
+type TeamNameIdMap = Record<string, number>;
+type IdsMap = Record<number, number>;
+
+// const
 const BASE_PATH = BASE_DATA_PATH + "players/";
+
+const mapTeamIds = (
+  players: PlayerWithTeamNameOptionalId[],
+  teamNameIdMap: TeamNameIdMap
+): PlayerWithptionalId[] => {
+  const playersWithTeamId = players.map((player) => {
+    const teamId = teamNameIdMap[player.team];
+
+    return {
+      ...player,
+      team: teamId,
+    };
+  });
+
+  return playersWithTeamId;
+};
 
 const seedPlayers = async () => {
   try {
@@ -16,23 +42,23 @@ const seedPlayers = async () => {
       return;
     }
 
-    const data = JSON.parse(contents);
+    const data: PlayersData = JSON.parse(contents);
 
-    const teamsSet: Set<string> = new Set();
-    const players: any[] = [];
+    const teamsNameSet: Set<string> = new Set();
+    const players: PlayerWithTeamNameOptionalId[] = [];
     const playerIds: number[] = [];
 
     for (const key in data) {
       const item = data[key];
-      playerIds.push(item.id);
+      if (item.id) playerIds.push(item.id);
 
       delete item.id;
       players.push(item);
 
-      teamsSet.add(item.team);
+      teamsNameSet.add(item.team);
     }
 
-    const teamNames: string[] = Array.from(teamsSet);
+    const teamNames: string[] = Array.from(teamsNameSet);
     const teamData = await db
       .select({
         id: tables.teams.id,
@@ -45,19 +71,16 @@ const seedPlayers = async () => {
       acc[curr.name] = curr.id;
 
       return acc;
-    }, {} as Record<string, number>);
+    }, {} as TeamNameIdMap);
 
-    players.forEach((player) => {
-      player.team = teamNameIdMap[player.team];
-      return player;
-    });
+    const playersWithTeamId = mapTeamIds(players, teamNameIdMap);
 
     const insertedPlayers = await db
       .insert(tables.players)
-      .values(players)
+      .values(playersWithTeamId)
       .returning({ insertedId: tables.players.id });
 
-    const playerIdsMap: Record<number, number> = {};
+    const playerIdsMap: IdsMap = {};
     playerIds.forEach((id, index) => {
       playerIdsMap[id] = insertedPlayers[index].insertedId;
     });

@@ -3,7 +3,8 @@ import {
   Match,
   MatchSquad,
   MatchSquadPlayer,
-  MatchTossResults,
+  Optional,
+  SeriesWithId,
   TeamSquad,
 } from "../../../types";
 import { Scorecard as ScorecardType } from "../../../types/scorecard";
@@ -15,9 +16,29 @@ import * as tables from "../../postgres/schema";
 import { BASE_DATA_PATH } from "./helpers/constants";
 import { readDirectory, readFileData, writeFileData } from "./helpers/file";
 
+// types
+type Entities = "venues" | "series" | "teams" | "players";
+type IdsMap = Record<number, number>;
+
+type inningsScoreItem = {
+  inningsId: number;
+  batTeamId: number;
+};
+type InfoData = Match & {
+  inningsScoreList: inningsScoreItem[];
+};
+
+type SquadsData = {
+  homeTeam: TeamSquad<MatchSquadPlayer>;
+  awayTeam: TeamSquad<MatchSquadPlayer>;
+};
+
+type SeriesWithOptionalId = Optional<SeriesWithId, "id">;
+type SeriesData = Record<number, SeriesWithOptionalId>;
+
 const BASE_PATH = BASE_DATA_PATH + "series/";
 
-const getIdsMap = async (entity: string): Promise<Record<number, number>> => {
+const getIdsMap = async (entity: Entities): Promise<IdsMap> => {
   try {
     const idsMapContents = await readFileData(
       `${BASE_DATA_PATH}${entity}/idsMap.json`
@@ -56,15 +77,6 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     console.log("Seeding match started...");
     const BASE_MATCH_PATH = `${BASE_PATH}${seriesId}/matches/${matchId}/`;
 
-    const venueIdsMapContents = await readFileData(
-      `${BASE_DATA_PATH}venues/idsMap.json`
-    );
-
-    if (!venueIdsMapContents) {
-      console.log("No venue ids map data found to seed...");
-      return;
-    }
-
     const venueIdsMap = await getIdsMap("venues");
     const seriesIdsMap = await getIdsMap("series");
     const teamIdsMap = await getIdsMap("teams");
@@ -77,7 +89,7 @@ const seedMatch = async (seriesId: number, matchId: number) => {
       return;
     }
 
-    const infoData = JSON.parse(infoContents);
+    const infoData: InfoData = JSON.parse(infoContents);
 
     const squadsContents = await readFileData(BASE_MATCH_PATH + "squads.json");
 
@@ -86,7 +98,7 @@ const seedMatch = async (seriesId: number, matchId: number) => {
       return;
     }
 
-    const squadsData = JSON.parse(squadsContents);
+    const squadsData: SquadsData = JSON.parse(squadsContents);
 
     const scorecardContents = await readFileData(
       BASE_MATCH_PATH + "scorecard.json"
@@ -99,11 +111,13 @@ const seedMatch = async (seriesId: number, matchId: number) => {
 
     const scorecardData: ScorecardType = JSON.parse(scorecardContents);
 
-    const tossResults: MatchTossResults = infoData.tossResults;
-    tossResults.tossWinnerId = teamIdsMap[tossResults.tossWinnerId!];
+    const tossResults = infoData.tossResults;
+    if (tossResults.tossWinnerId)
+      tossResults.tossWinnerId = teamIdsMap[tossResults.tossWinnerId];
 
     const matchResults = infoData.results;
-    matchResults.winningTeamId = teamIdsMap[matchResults.winningTeamId];
+    if (matchResults.winningTeamId)
+      matchResults.winningTeamId = teamIdsMap[matchResults.winningTeamId];
 
     const newMatch: Match = {
       description: infoData.description,
@@ -150,13 +164,15 @@ const seedMatch = async (seriesId: number, matchId: number) => {
       const currentInnings =
         scorecardData.innings[inningsKey as keyof ScorecardType["innings"]];
 
-      currentInnings!.teamId = teamIdsMap[currentInnings!.teamId];
+      if (!currentInnings) continue;
 
-      currentInnings?.batters.forEach((batter) => {
+      currentInnings.teamId = teamIdsMap[currentInnings.teamId];
+
+      currentInnings.batters.forEach((batter) => {
         batter.id = playerIdsMap[batter.id];
       });
 
-      currentInnings?.bowlers.forEach((bowler) => {
+      currentInnings.bowlers.forEach((bowler) => {
         bowler.id = playerIdsMap[bowler.id];
       });
     }
@@ -234,13 +250,14 @@ const seedSeries = async () => {
       return;
     }
 
-    const data = JSON.parse(contents);
+    const data: SeriesData = JSON.parse(contents);
 
-    const series: any[] = [];
+    const series: SeriesWithOptionalId[] = [];
     const seriesIds: number[] = [];
     for (const key in data) {
       const item = data[key];
-      seriesIds.push(item.id);
+      if (item.id) seriesIds.push(item.id);
+
       delete item.id;
       series.push(item);
     }
@@ -250,7 +267,7 @@ const seedSeries = async () => {
       .values(series)
       .returning({ insertedId: tables.series.id });
 
-    const seriesIdsMap: Record<number, number> = {};
+    const seriesIdsMap: IdsMap = {};
     seriesIds.forEach((id, index) => {
       seriesIdsMap[id] = insertedSeries[index].insertedId;
     });

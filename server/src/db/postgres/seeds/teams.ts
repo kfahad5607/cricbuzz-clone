@@ -2,6 +2,12 @@ import { db } from "../../postgres";
 import * as tables from "../../postgres/schema";
 import { readFileData, writeFileData } from "./helpers/file";
 import { BASE_DATA_PATH } from "./helpers/constants";
+import { Optional, TeamWithId } from "../../../types";
+
+// types
+type TeamWithOptionalId = Optional<TeamWithId, "id">;
+type TeamsData = Record<number, TeamWithOptionalId>;
+type IdsMap = Record<number, number>;
 
 const BASE_PATH = BASE_DATA_PATH + "teams/";
 
@@ -15,13 +21,13 @@ const seedTeams = async () => {
       return;
     }
 
-    const data = JSON.parse(contents);
+    const data: TeamsData = JSON.parse(contents);
 
-    const teams: any[] = [];
+    const teams: TeamWithOptionalId[] = [];
     const teamIds: number[] = [];
     for (const key in data) {
       const item = data[key];
-      teamIds.push(item.id);
+      if (item.id) teamIds.push(item.id);
 
       delete item.id;
       teams.push(item);
@@ -32,7 +38,7 @@ const seedTeams = async () => {
       .values(teams)
       .returning({ insertedId: tables.teams.id });
 
-    const teamIdsMap: Record<number, number> = {};
+    const teamIdsMap: IdsMap = {};
     teamIds.forEach((id, index) => {
       teamIdsMap[id] = insertedTeams[index].insertedId;
     });
