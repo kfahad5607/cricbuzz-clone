@@ -1,6 +1,6 @@
 import re
 from bs4 import BeautifulSoup
-from utils import (ball_num_to_overs, convert_ms_to_iso_format, extract_number, format_comm_text, format_date, get_json_content, sleep, get_param_from_url, get_html_content, slugify)
+from utils import (ball_num_to_overs, extract_number, format_comm_text, format_date, get_json_content, sleep, get_param_from_url, get_html_content, slugify)
 from utils.file import (get_file_data, set_file_data)
 
 BASE_URL = 'https://www.cricbuzz.com'
@@ -90,8 +90,7 @@ def get_player(id):
             'team': '',
             'roleInfo': {
                 'role': '',
-                'batStyle': "",
-                'bowlStyle': ""
+                'batStyle': ""
             },
             'personalInfo': {
                 'birthDate': '',
@@ -126,7 +125,9 @@ def get_player(id):
             elif key == 'batting style':
                 data['roleInfo']['batStyle'] = slugify(val)
             elif key == 'bowling style':
-                data['roleInfo']['bowlStyle'] = slugify(val)
+                bowl_style = slugify(val)
+                if bowl_style:
+                    data['roleInfo']['bowlStyle'] = bowl_style
 
         return data
     except Exception as e:
@@ -656,9 +657,6 @@ def get_commentary(match_id, innings_id):
 def main():
     try:
         match_id = 89654
-        get_commentary(match_id, innings_id=0)
-        get_commentary(match_id, innings_id=1)
-        get_commentary(match_id, innings_id=2)
     except Exception as e:
         print("ERROR in main ==> ", e.args)
 

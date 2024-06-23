@@ -3,17 +3,11 @@ import unicodedata
 import time
 from urllib.parse import urlparse
 import requests
-from datetime import datetime, timezone
+from datetime import datetime
 
 BASE_URL = 'https://www.cricbuzz.com'
 BASE_DATA_PATH = 'data/'
 BALLS_IN_OVER = 6
-
-def convert_ms_to_iso_format(ms): 
-    seconds = ms / 1000.0
-    dt = datetime.fromtimestamp(seconds, timezone.utc) 
-    
-    return dt.strftime('%Y-%m-%dT%H:%M:%S.%f')[:-3] + 'Z'
 
 def format_date(str_date):
     input_format = "%b %d, %Y"
