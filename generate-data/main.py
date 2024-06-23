@@ -82,7 +82,7 @@ def get_player(id):
         }
 
         url = BASE_URL + f'/profiles/{id}/player-slug'
-        print(f'Fetching player data for {id=} and {url=}')
+        print(f'Fetching player {id}...')
         data = {
             'id': id,
             'name': '',
@@ -158,7 +158,7 @@ def get_team_players(team_ids):
         
         set_file_data(file_path=data_file_path, data=existing_data)
     except Exception as e:
-        print("ERROR in main ==> ", e.args)
+        print("ERROR in get_team_players ==> ", e.args)
 
 def get_team_squad_players(team_player_els, attrs, team_type='homeTeam'):
     try: 
@@ -210,7 +210,7 @@ def get_match_squads(match_id):
     try:
         match_info = get_match_info(match_id)
 
-        url = f"https://www.cricbuzz.com/cricket-match-squads/{match_id}/match-slug"
+        url = f"{BASE_URL}/cricket-match-squads/{match_id}/match-slug"
         html_content = get_html_content(url=url)
         soup = BeautifulSoup(html_content, 'html.parser')
         header_els = soup.css.select('.cb-col.cb-col-100.cb-pl11-hdr.text-bold.text-center.cb-font-16')
@@ -258,14 +258,14 @@ def get_match_squads(match_id):
     except Exception as e:
         print("ERROR in get_match_squads ==> ", e.args)
 
-def get_match_info(match_id):
+def get_match_info(match_id, match_number=None):
     try:
         TOSS_DECISION_MAP = {
             'batting': 'bat',
             'bowling': 'bowl',
         }
 
-        url = f"https://www.cricbuzz.com/api/cricket-match/{match_id}/full-commentary/0"
+        url = f"{BASE_URL}/api/cricket-match/{match_id}/full-commentary/0"
         json_content = get_json_content(url=url)
 
         if json_content:
@@ -279,24 +279,37 @@ def get_match_info(match_id):
             match_info['description'] = match_details['matchDescription']
             match_info['matchFormat'] = match_details['matchFormat'].lower()
             match_info['matchType'] = match_details['matchType']
-            match_info['matchNumber'] = extract_number(match_details['matchDescription'])
+            match_info['matchNumber'] = extract_number(match_details['matchDescription']) if match_number == None else match_number
             match_info['homeTeam'] = match_details['team1']['id']
             match_info['awayTeam'] = match_details['team2']['id']
             match_info['series'] = match_details['seriesId']
             match_info['venue'] = match_details['venue']['id']
             match_info['startTime'] = match_details['matchStartTimestamp']
             match_info['completeTime'] = match_details['matchCompleteTimestamp']
-            match_info['tossResults'] = {
-                'tossWinnerId': match_details['tossResults']['tossWinnerId'],
-                'decision': TOSS_DECISION_MAP[match_details['tossResults']['decision'].lower()],
-            }
+
+            toss_winner_id =  match_details['tossResults'].get('tossWinnerId')
+            toss_decision =  match_details['tossResults'].get('decision')
+            
+            match_info['tossResults'] = {}
+
+            if toss_decision:
+                match_info['tossResults']['decision'] = TOSS_DECISION_MAP[toss_decision.lower()]
+
+            if toss_winner_id:
+                match_info['tossResults']['tossWinnerId'] = toss_winner_id
+
             match_info['results'] = {
-                'winByInnings':  match_details['result']['winByInnings'],
-                'winByRuns':  match_details['result']['winByRuns'],
                 'resultType':  slugify(match_details['result']['resultType']),
-                'winningMargin':  match_details['result']['winningMargin'],
-                'winningTeamId': match_details['result']['winningteamId']
+                'winByRuns':  match_details['result']['winByRuns'],
+                'winByInnings':  match_details['result']['winByInnings']
             }
+            winning_margin =  match_details['result'].get('winningMargin')
+            winning_team_id =  match_details['result'].get('winningTeamId')
+
+            if winning_margin:
+                match_info['results']['winningMargin'] = winning_margin
+            if winning_team_id:
+                match_info['results']['winningTeamId'] = winning_team_id
  
             match_info['inningsScoreList'] = sorted(match_score_details['inningsScoreList'], key=lambda a: a['inningsId'])
             match_info['state'] = slugify(match_details['state'])
@@ -309,7 +322,7 @@ def get_match_info(match_id):
 
 def get_match_scorecard(match_id):
     try:
-        url = f"https://www.cricbuzz.com/live-cricket-scorecard/{match_id}/match-slug"
+        url = f"{BASE_URL}/live-cricket-scorecard/{match_id}/match-slug"
         html_content = get_html_content(url=url)
         soup = BeautifulSoup(html_content, 'html.parser')
 
@@ -330,20 +343,22 @@ def get_match_scorecard(match_id):
             batters_el = innings_items[0]
             batters_el = batters_el.select('.cb-col.cb-col-100.cb-scrd-itms')
 
-            fall_of_wickets_el = innings_items[2]
             fall_of_wickets_map = {}
-            for item in fall_of_wickets_el.find_all('span'): 
-                id = get_param_from_url(item.a.attrs['href'], 2)
-                text = item.text.strip().strip(',')
-                text_data = text.split(' ', 1)
-                score, wickets = text_data[0].split('-')
-                overs = text_data[1].split(',')[-1].strip().strip(')')
+            if len(innings_items) == 5:
+                fall_of_wickets_el = innings_items[2]
+                
+                for item in fall_of_wickets_el.find_all('span'): 
+                    id = int(get_param_from_url(item.a.attrs['href'], 2))
+                    text = item.text.strip().strip(',')
+                    text_data = text.split(' ', 1)
+                    score, wickets = text_data[0].split('-')
+                    overs = text_data[1].split(',')[-1].strip().strip(')')
 
-                fall_of_wickets_map[id] = {
-                    'overs': float(overs),
-                    'teamScore': int(score),
-                    'teamWickets': int(wickets),
-                }
+                    fall_of_wickets_map[id] = {
+                        'overs': float(overs),
+                        'teamScore': int(score),
+                        'teamWickets': int(wickets),
+                    }
  
             batters_el.pop() # did not bat
             batters_el.pop() # total
@@ -426,7 +441,7 @@ def get_match_scorecard(match_id):
 
                 batters_data.append(data)
 
-            bowlers_el = innings_items[3]
+            bowlers_el = innings_items[-2]
             bowlers_el = bowlers_el.select('.cb-col.cb-col-100.cb-scrd-itms')
 
             bowlers_data = []
@@ -599,7 +614,7 @@ def get_dismissal_data(dismissal_string):
 
 def get_commentary(match_id, innings_id):
     try:
-        json_content = get_json_content(url=f"https://www.cricbuzz.com/api/cricket-match/{match_id}/full-commentary/{innings_id}")
+        json_content = get_json_content(url=f"{BASE_URL}/api/cricket-match/{match_id}/full-commentary/{innings_id}")
 
         if not json_content:
             raise Exception("Commentary not found!")
@@ -653,10 +668,51 @@ def get_commentary(match_id, innings_id):
     except Exception as e:
         print("ERROR in get_commentary ==> ", e.args)
 
+def get_match_data(match_id, match_number):
+    try:
+        print(f"Fetching match {match_id}...")
+        match_info = get_match_info(match_id=match_id, match_number=match_number)
+        get_match_squads(match_id=match_id)
+        get_match_scorecard(match_id=match_id)
+
+        innings_scorelist = match_info['inningsScoreList']
+        innings_ids = [0]
+        for innings in innings_scorelist:
+            innings_ids.append(innings['inningsId'])
+
+        for innings_id in innings_ids:
+            get_commentary(match_id=match_id, innings_id=innings_id)
+
+    except Exception as e:
+        print("ERROR in get_match_data ==> ", e.args)
+
+
+def get_series_matches(series_id):
+    try:
+        print(f"Fetching series {series_id}...")
+        html_content = get_html_content(url=f"{BASE_URL}/cricket-series/{series_id}/series-slug/matches")
+        soup = BeautifulSoup(html_content, 'html.parser')
+
+        match_links = soup.select('.cb-bg-white.cb-col-100.cb-col.cb-hm-rght.cb-series-filters .text-hvr-underline')
+
+        for i, match_link in enumerate(match_links, 1):
+            match_id = get_param_from_url(match_link.attrs['href'], pos=2)
+            get_match_data(match_id=match_id, match_number=i)
+            sleep(2)
+
+    except Exception as e:
+        print("ERROR in get_series_matches ==> ", e.args)
+
 
 def main():
     try:
-        match_id = 89654
+        series_data = get_file_data(f"series/index.json")
+        series_ids = list(series_data.keys())
+        for series_id in series_ids:
+            get_series_matches(series_id=series_id)
+            sleep(5)
+        # get_match_data(match_id=91420)
+
     except Exception as e:
         print("ERROR in main ==> ", e.args)
 
