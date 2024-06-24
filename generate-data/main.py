@@ -73,6 +73,7 @@ def get_venue(id):
 
 def get_player(id):
     try: 
+        print(f'Fetching player {id}...')
         ROLES_MAP = {
             'batsman': 'batter',
             'bowler': 'bowler',
@@ -82,7 +83,6 @@ def get_player(id):
         }
 
         url = BASE_URL + f'/profiles/{id}/player-slug'
-        print(f'Fetching player {id}...')
         data = {
             'id': id,
             'name': '',
@@ -162,15 +162,24 @@ def get_team_players(team_ids):
 
 def get_team_squad_players(team_player_els, attrs, team_type='homeTeam'):
     try: 
+        data_file_path = 'players/index.json'
+        existing_data = get_file_data(file_path=data_file_path)
+
         players = []
         for player in team_player_els.find_all('a'):
             if not player.name:
                 continue
              
             player_url = player.attrs['href']
+            player_id = get_param_from_url(url=player_url, pos=2)
             player_data = {
-                'playerId': get_param_from_url(url=player_url, pos=2),
+                'playerId': player_id,
             } 
+
+            if player_id not in existing_data:
+                _player_data = get_player(id=player_id)
+                existing_data[_player_data['id']] = _player_data
+                sleep(1.5)
 
             class_ = 'cb-player-name-left' if team_type == 'homeTeam' else 'cb-player-name-right'
             player_name = next(player.select_one(f'.{class_} div').stripped_strings).strip().lower()
@@ -201,6 +210,8 @@ def get_team_squad_players(team_player_els, attrs, team_type='homeTeam'):
 
             players.append(player_data)
             
+        
+        set_file_data(file_path=data_file_path, data=existing_data)
         return players
         
     except Exception as e:
@@ -668,7 +679,7 @@ def get_commentary(match_id, innings_id):
     except Exception as e:
         print("ERROR in get_commentary ==> ", e.args)
 
-def get_match_data(match_id, match_number):
+def get_match_data(match_id, match_number=None):
     try:
         print(f"Fetching match {match_id}...")
         match_info = get_match_info(match_id=match_id, match_number=match_number)
@@ -711,7 +722,7 @@ def main():
         for series_id in series_ids:
             get_series_matches(series_id=series_id)
             sleep(5)
-        # get_match_data(match_id=91420)
+        # get_match_data(match_id=91515)
 
     except Exception as e:
         print("ERROR in main ==> ", e.args)
