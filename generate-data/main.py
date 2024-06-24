@@ -217,9 +217,9 @@ def get_team_squad_players(team_player_els, attrs, team_type='homeTeam'):
     except Exception as e:
         print("ERROR in get_team_squad_players ==> ", e.args)
 
-def get_match_squads(match_id):
+def get_match_squads(match_id, match_number=None):
     try:
-        match_info = get_match_info(match_id)
+        match_info = get_match_info(match_id, match_number)
 
         url = f"{BASE_URL}/cricket-match-squads/{match_id}/match-slug"
         html_content = get_html_content(url=url)
@@ -271,6 +271,7 @@ def get_match_squads(match_id):
 
 def get_match_info(match_id, match_number=None):
     try:
+        print("get_match_info ", match_number)
         TOSS_DECISION_MAP = {
             'batting': 'bat',
             'bowling': 'bowl',
@@ -327,17 +328,17 @@ def get_match_info(match_id, match_number=None):
 
             set_file_data(file_path=f"series/{match_info['series']}/matches/{match_id}/info.json", data=match_info)
 
-        return match_info
+            return match_info
     except Exception as e:
         print("ERROR in get_match_info ==> ", e.args)
 
-def get_match_scorecard(match_id):
+def get_match_scorecard(match_id, match_number=None):
     try:
         url = f"{BASE_URL}/live-cricket-scorecard/{match_id}/match-slug"
         html_content = get_html_content(url=url)
         soup = BeautifulSoup(html_content, 'html.parser')
 
-        match_info = get_match_info(match_id)
+        match_info = get_match_info(match_id, match_number)
         innings_score_list = match_info['inningsScoreList']
         innings_data = {}
 
@@ -521,15 +522,18 @@ def get_player_id_by_name(name, lookup_data):
         for item in lookup_data:
             if _name in item['name']:
                 return int(item['playerId'])
+            elif _name.split(' ')[-1] in item['name']: # prone to incorrect data
+                return int(item['playerId'])
+        
     except Exception as e:
         print("ERROR in get_player_id_by_name", e.args)
 
-    return None
+    raise Exception(f'No match found for {name}')
 
 def get_dismissal_data(dismissal_string):
     # Patterns for different types of dismissals
     patterns = {
-        'caught_and_bowled': r'c & b (?P<bowler>.+)',
+        'caught_and_bowled': r'c (?:and|&) b (?P<bowler>.+)',
         'caught': r'c (?P<catcher>.+) b (?P<bowler>.+)',
         'bowled': r'b (?P<bowler>.+)',
         'run_out_dual': r'run out \((?P<player1>.+)/(?P<player2>.+)\)',
@@ -554,7 +558,7 @@ def get_dismissal_data(dismissal_string):
                     'bowler': bowler
                 } 
             elif key == 'caught':
-                catcher = match.group('catcher')
+                catcher = match.group('catcher').replace("(sub)", "")
                 bowler = match.group('bowler')
                 return {
                     'dismissalType': 'caught',
@@ -683,8 +687,8 @@ def get_match_data(match_id, match_number=None):
     try:
         print(f"Fetching match {match_id}...")
         match_info = get_match_info(match_id=match_id, match_number=match_number)
-        get_match_squads(match_id=match_id)
-        get_match_scorecard(match_id=match_id)
+        get_match_squads(match_id=match_id, match_number=match_number)
+        get_match_scorecard(match_id=match_id, match_number=match_number)
 
         innings_scorelist = match_info['inningsScoreList']
         innings_ids = [0]
@@ -719,10 +723,11 @@ def main():
     try:
         series_data = get_file_data(f"series/index.json")
         series_ids = list(series_data.keys())
-        for series_id in series_ids:
-            get_series_matches(series_id=series_id)
-            sleep(5)
-        # get_match_data(match_id=91515)
+        # for series_id in series_ids:
+        #     get_series_matches(series_id=series_id)
+        #     sleep(5)
+        
+        get_match_data(match_id=91618)
 
     except Exception as e:
         print("ERROR in main ==> ", e.args)
