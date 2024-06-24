@@ -1,0 +1,48 @@
+{
+  "id": 89675,
+  "description": "5th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 5,
+  "homeTeam": 971,
+  "awayTeam": 62,
+  "series": 7607,
+  "venue": 50,
+  "startTime": 1711288800000,
+  "completeTime": 1711302619411,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 62
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 6
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 971,
+      "batTeamName": "GT",
+      "score": 168,
+      "wickets": 6,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 62,
+      "batTeamName": "MI",
+      "score": 162,
+      "wickets": 9,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

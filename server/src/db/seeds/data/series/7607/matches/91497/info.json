@@ -1,0 +1,48 @@
+{
+  "id": "91497",
+  "description": "38th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 38,
+  "homeTeam": 64,
+  "awayTeam": 62,
+  "series": 7607,
+  "venue": 76,
+  "startTime": 1713794400000,
+  "completeTime": 1713809749748,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 62
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 9
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 62,
+      "batTeamName": "MI",
+      "score": 179,
+      "wickets": 9,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 64,
+      "batTeamName": "RR",
+      "score": 183,
+      "wickets": 1,
+      "overs": 18.4,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 112
+    }
+  ],
+  "state": "complete"
+}

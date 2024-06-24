@@ -1,0 +1,48 @@
+{
+  "id": 91551,
+  "description": "45th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 45,
+  "homeTeam": 971,
+  "awayTeam": 59,
+  "series": 7607,
+  "venue": 50,
+  "startTime": 1714298400000,
+  "completeTime": 1714310342123,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 59
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 9
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 971,
+      "batTeamName": "GT",
+      "score": 200,
+      "wickets": 3,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 59,
+      "batTeamName": "RCB",
+      "score": 206,
+      "wickets": 1,
+      "overs": 15.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 96
+    }
+  ],
+  "state": "complete"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "89693",
+  "description": "8th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 8,
+  "homeTeam": 255,
+  "awayTeam": 62,
+  "series": 7607,
+  "venue": 80,
+  "startTime": 1711548000000,
+  "completeTime": 1711561779506,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 62
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 31
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 277,
+      "wickets": 3,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 62,
+      "batTeamName": "MI",
+      "score": 246,
+      "wickets": 5,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

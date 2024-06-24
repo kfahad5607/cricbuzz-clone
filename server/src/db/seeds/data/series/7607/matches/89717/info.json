@@ -1,0 +1,48 @@
+{
+  "id": 89717,
+  "description": "12th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 12,
+  "homeTeam": 971,
+  "awayTeam": 255,
+  "series": 7607,
+  "venue": 50,
+  "startTime": 1711879200000,
+  "completeTime": 1711891488923,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 255
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 7
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 162,
+      "wickets": 8,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 971,
+      "batTeamName": "GT",
+      "score": 168,
+      "wickets": 3,
+      "overs": 19.1,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 115
+    }
+  ],
+  "state": "complete"
+}

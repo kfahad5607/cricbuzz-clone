@@ -1,0 +1,21 @@
+{
+  "id": "91677",
+  "description": "63rd Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 63,
+  "homeTeam": 971,
+  "awayTeam": 63,
+  "series": 7607,
+  "venue": 50,
+  "startTime": 1715608800000,
+  "completeTime": 1715620047865,
+  "tossResults": {},
+  "results": {
+    "resultType": "abandon",
+    "winByRuns": false,
+    "winByInnings": false
+  },
+  "inningsScoreList": [],
+  "state": "abandon"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "91393",
+  "description": "24th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 24,
+  "homeTeam": 64,
+  "awayTeam": 971,
+  "series": 7607,
+  "venue": 76,
+  "startTime": 1712757600000,
+  "completeTime": 1712773123113,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 971
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 3
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 64,
+      "batTeamName": "RR",
+      "score": 196,
+      "wickets": 3,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 971,
+      "batTeamName": "GT",
+      "score": 199,
+      "wickets": 7,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

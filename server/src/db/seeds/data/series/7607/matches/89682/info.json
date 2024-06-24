@@ -1,0 +1,48 @@
+{
+  "id": "89682",
+  "description": "6th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 6,
+  "homeTeam": 59,
+  "awayTeam": 65,
+  "series": 7607,
+  "venue": 27,
+  "startTime": 1711375200000,
+  "completeTime": 1711388643757,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 59
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 4
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 65,
+      "batTeamName": "PBKS",
+      "score": 176,
+      "wickets": 6,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 59,
+      "batTeamName": "RCB",
+      "score": 178,
+      "wickets": 6,
+      "overs": 19.2,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 116
+    }
+  ],
+  "state": "complete"
+}

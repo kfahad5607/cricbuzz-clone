@@ -1,0 +1,462 @@
+[
+  {
+    "timestamp": 1712930428845,
+    "commText": "<p>A slip, gully in place and here we go!</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712930263659,
+    "commText": "<p>Out walk the umpires as the Delhi Capitals players gather in a huddle near the sidelines. The two LSG openers - de Kock and Rahul look calm and composed as they enter the field. Time for live action..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712929304103,
+    "commText": "<p><b>Here are the impact subs for both teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712929217319,
+    "commText": "<p><b>Delhi Capitals Impact Subs:</b> Jhye Richardson, Abishek Porel, Kumar Kushagra, Sumit Kumar, Praveen Dubey</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712929118223,
+    "commText": "<p><b>Lucknow Super Giants Impact Subs: </b>Krishnappa Gowtham, Deepak Hooda, Manimaran Siddharth, Amit Mishra, Matt Henry</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712929061399,
+    "commText": "<p><b>Teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712929002537,
+    "commText": "<p><b>Delhi Capitals</b> (Playing XI): Prithvi Shaw, David Warner, Shai Hope, Rishabh Pant(w/c), Tristan Stubbs, Jake Fraser-McGurk, Axar Patel, Kuldeep Yadav, Mukesh Kumar, Ishant Sharma, Khaleel Ahmed</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712928919281,
+    "commText": "<p><b>Lucknow Super Giants</b> (Playing XI): Quinton de Kock, KL Rahul(w/c), Devdutt Padikkal, Marcus Stoinis, Nicholas Pooran, Ayush Badoni, Krunal Pandya, Arshad Khan, Ravi Bishnoi, Naveen-ul-Haq, Yash Thakur</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712928759730,
+    "commText": "<p><b>Rishabh Pant:</b> We would have batted first as well. Few of our players got injured, so need to find the right playing XI. We have two changes. Mukesh and Kuldeep are back. They were injured, looking forward to seeing them back on the field.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712928688209,
+    "commText": "<p><b>KL Rahul:</b> We will bat first. I don't have an answer to that (good record batting first.) We want to start fresh, looks like a good wicket. I don't think dew is going to play a part. It (new pitch) has made a huge difference. You can bowl well, bat well, express yourselves, the boundaries are big and the bowlers enjoy playing here. The batters are enjoying batting as well. The three games we have played here have been packed. <b>Arshad Khan</b> comes in for <b>Mayank Yadav.</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712928647232,
+    "commText": "<p><b>Lucknow Super Giants have won the toss and have opted to bat</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712928523279,
+    "commText": "<p>Right then, the two skippers are out in the middle and it's toss time..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712928018609,
+    "commText": "<p><b>Pitch and Conditions:</b> \"We are in the land of the Super Giants, one thing we have got here is a giant boundary - 73 meters on one side and that's lot bigger than normal, 80 meters in the corner/pockets, other side is 66 meters. As a bowler you will be so happy to see such an expansive field,\" says an ecstatic Graeme Swann. \"This ground has some of the longest boundaries and that's what you want to see with the kind of power that the batters exhume nowadays. As a spinner I don't think you would like this pitch as there's lot more grass on this surface. Grass being left on the pitches now to ensure they don't crumble and also because India have discovered so many new fast bowlers. All of them are making the ball fly. Every team are encouraging the groundsman to put a little more grass. The ball will come on to the bat nicely and if you are a good player, you can make use of the pace and bang the ball around. We can see lot more runs despite the big boundaries,\" reckons Sunil Gavaskar.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712927466219,
+    "commText": "<p><b>Nicholas Pooran:</b> It's going nicely so far, most important is my contribution for the team, trying our best to win games. My job is to continue playing according to situations. The key to power hitting I believe is all about hardwork. It's taken me a few years, since the age of 20 I started to focus on my power hitting. Just trying to figure out what is the right position, what I am comfortable with. The key is also the head position, head going towards the ball, transfering the weight as well is important. The key to T20 batting is a bit different, it's a short game and you got to score quickly. It's more about trying to understand the game situation, trusting your skills, trusting your game and decision making. Understanding what you have to do, when you have to do. There will be days when a bowler is bowling well and you won't be able to take him down, but the same bowler on some other day, you might be able to take him. You need to execute in different situations. Lucknow is a big venue, setting a total is challenging when one side is big, one side is small. You can shut down one side completely. There are different venues in India, there are a few small grounds as well. For us it has been brilliant in Lucknow, this is our home and we need to be the best team here at home.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712926164423,
+    "commText": "<p>Lucknow Super Giants are placed third in the table and tonight they have a chance to move up the ladder and clinch that pole position, given they win convincingly. The way Delhi Capitals have been playing this season, it won\u2019t be that a challenging task either. The Capitals have shuffled their middle-order way too much and are yet to find the winning combination. Shaw and Stubbs have been impressive in the last few games but Delhi are yet to fire as a unit. Warner and Pant need to take more responsibility before it gets too late. For LSG, Pooran and QdK have done most of the damage, and the Super Giants would want them to keep firing going forward. Mayank Yadav missed out the last game due to an injury, and he's likely to miss today's match as well. Mohsin Khan might return to the playing XI. We shall find out the other team changes soon, stay around for the the toss..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712926124144,
+    "commText": "<p><b>18:20 Local Time, 12:50 GMT, 18:20 IST:</b> 25 matches done and dusted. 49 more to go.. We are slowly getting to that stage where IPL peaks usually. The points table might appear to be in RR, LSG and KKR\u2019s favour for now but let it not deceive you. It won\u2019t take long before the tables turn around. Such is the nature of this league. After losing three games on the trot, Mumbai Indians are slowly heading northwards. Having chased down a target of almost 200 within 16 overs, the five-time IPL champions proved their mettle last night. On that note, hello and welcome to our live coverage of match 26 as Lucknow Super Giants take on Delhi Capitals at the Ekana Cricket Stadium tonight.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712844826386,
+    "commText": "<p><b>Preview</b> \\n \\nApart from Rishabh Pant's heroic return from a life-threatening injury, nothing much has gone right for Delhi Capitals this season so far. Even the left-hander's form hasn't been over the roof, which is understandable given the obstacles he had to overcome to return to competitive sport. But time is running out for DC who have just a solitary win to show from five games. From here on, every defeat will push them closer to the elimination zone. \\n \\nQuite a lot of things have gone wrong for Delhi, scattered across all departments. For starters, the absence of Prithvi Shaw for the initial games defied logic and the young opener has made a statement with a couple of strong knocks, including a fifty against Mumbai Indians last game. The bowling has lacked consistency and the injury to Mukesh Kumar has weakened the attack to some extent. Mitchell Marsh's injury is the latest blow for DC whose only complete performance was the game against Chennai Super Kings. \\n \\nOn the other hand, Lucknow Super Giants have quietly gotten on a roll. The tournament started on a sour note for them with a loss to Rajasthan Royals but have thereafter won three games on the bounce. Two of those wins came in their den at Lucknow. The batting is yet to click in full swing but the bowling attack has made up for that. Mayank Yadav has grabbed headlines with his raw pace but the other bowlers have also been on the mark, notably Krunal Pandya. Skipper KL Rahul is yet to fire and the fact that they have still won three in four games will boost LSG's morale. \\n \\nLike every ambitious team, Lucknow's focus will be to make the Ekana Cricket Stadium a fortress. The two wins have come with a fair measure of comfort for LSG with their bowlers calling the shots. It helps that the pitches have also assisted the bowlers, particularly the pacers. It is something that will give relief to the DC camp as well, given the kind of bowling attack that they possess. There are some free-stroking players on both sides who aren't quite in form yet, so this game could give them an opportunity to make a statement. If DC can get their strategies and team selection on point, this could be a cracking fixture. \\n \\n<b>When:</b> Friday, April 12 at 19:30 IST \\n \\n<b>Where:</b> Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow \\n \\n<b>What to expect:</b> The opening home game for LSG saw a refreshing surface that aided strokeplay. There was a good level of pace and bounce in that deck, allowing batters to express themselves. However, the pitch used for the GT game was more like the Ekana surface of last season when the average score batting first was just 148. Depending on whether it's a black soil or red soil deck, the nature of the pitch will change, although it's likely to be another sporting surface where the bowlers will be in the game throughout. \\n \\n<b>Head to head:</b> Lucknow Super Giants have a thumping 3-0 lead over Delhi Capitals. \\n \\n<b>Team watch:</b> \\n \\n<b>Lucknow Super Giants</b> \\n \\n<b>Injury/Availability:</b> Mohsin Khan is in line to return to the playing XI after having been sidelined with a sore back. Mayank Yadav is ruled out for the week as the think tank continues to monitor his workload. \\n \\n<b>Tactics and matchups:</b> Krunal Pandya has been sensational during the middle overs (7-15) this season, going at a very frugal economy rate of 4.98. Against DC, Krunal leads the charts amongst wickets taken in LSG's bowling attack. The left-arm spinner is also the second highest wicket-taker at Ekana and has the best economy among all bowlers. However, he does have unfavourable matchups against David Warner, Prithvi Shaw and Rishabh Pant. How Krunal fares in this fixture could be decisive to LSG's bowling plans. In terms of team changes, Mohsin should slot in for Mayank. \\n \\n<b>Probable XI:</b> KL Rahul (c), Quinton de Kock, Marcus Stoinis, Devdutt Padikkal, Nicholas Pooran, Ayush Badoni, Krunal Pandya, Yash Thakur, Ravi Bishnoi, Naveen-ul-Haq, M Siddharth. [Impact sub: Mohsin Khan] \\n \\n<b>Delhi Capitals</b> \\n \\n<b>Injury/Availability:</b> There remains no clarity on Kuldeep Yadav's return after the wrist spinner picked up a groin injury last week. Mukesh Kumar and Mitchell Marsh are also on the sidelines for the moment although the latter is said to be making rapid strides towards a comeback. \\n \\n<b>Tactics and matchups:</b> David Warner hasn't had many big scores yet but has been a strong influence in the powerplay this season, striking at 157.53 in the first six overs. The Australian notched up a fifty in the only game he has played at Ekana Cricket Stadium. Warner's form will be crucial against LSG's potent bowling attack. DC might be tempted to give Anrich Nortje a break, given the South African's struggles this season. They have the option of strengthening the batting with Jake Fraser-McGurk but that would mean punting with an extra Indian seamer. Sumit Kumar or Rasikh Dar could get back into the XI. \\n \\n<b>Probable XI:</b> David Warner, Prithvi Shaw, Rishabh Pant, Tristan Stubbs, Abishek Porel, Lalit Yadav, Axar Patel, Jhye Richardson, Ishant Sharma, Khaleel Ahmed, Rasikh Dar/Sumit Kumar. [Impact Sub: Jake Fraser McGurk] \\n \\n<b>Did you know?</b> \\n \\n- Tristan Stubbs has a strike rate of 264.52 in the death overs (16-20) this season from a sample size of 31 deliveries \\n \\n- Khaleel Ahmed has been extremely tidy in the powerplay with an economy of just 6.64 \\n \\n<b>What they said</b> \\n \\n\"I think we need to improve on a few areas - death-over bowling and our batting as well.\" - <b>Rishabh Pant</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712844826376,
+    "commText": "<p><b>Squads:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712844825145,
+    "commText": "<p><b>Delhi Capitals</b> Squad: Prithvi Shaw, David Warner, Abishek Porel, Rishabh Pant(w/c), Tristan Stubbs, Axar Patel, Lalit Yadav, Jhye Richardson, Anrich Nortje, Ishant Sharma, Khaleel Ahmed, Kumar Kushagra, Yash Dhull, Jake Fraser-McGurk, Sumit Kumar, Praveen Dubey, Mitchell Marsh, Kuldeep Yadav, Lizaad Williams, Ricky Bhui, Shai Hope, Mukesh Kumar, Rasikh Dar Salam, Vicky Ostwal, Swastik Chikara</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712844661983,
+    "commText": "<p><b>Lucknow Super Giants</b> Squad: Quinton de Kock, KL Rahul(w/c), Devdutt Padikkal, Marcus Stoinis, Nicholas Pooran, Ayush Badoni, Krunal Pandya, Ravi Bishnoi, Yash Thakur, Naveen-ul-Haq, Mayank Yadav, Manimaran Siddharth, Deepak Hooda, Amit Mishra, Yudhvir Singh Charak, Arshad Khan, Kyle Mayers, Ashton Turner, Krishnappa Gowtham, Matt Henry, Prerak Mankad, Mohsin Khan, Shamar Joseph, Arshin Kulkarni</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

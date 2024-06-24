@@ -1,0 +1,439 @@
+[
+  {
+    "timestamp": 1714053477511,
+    "commText": "<p>Big roar from the Hyderabad crowd as the players stride out to the middle. SRH will start with spin against the two experienced Bengaluru openers. All in readiness. No slips in place. Off we go...</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714052328399,
+    "commText": "<p>No changes to our FH XI. Do check it out before locking in your fantasy teams..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714052315223,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714052274045,
+    "commText": "<p><b>Sunrisers Hyderabad Impact Subs:</b> Travis Head, Umran Malik, Anmolpreet Singh, Glenn Phillips, Washington Sundar</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714052256634,
+    "commText": "<p><b>Royal Challengers Bengaluru Impact Subs:</b> Suyash Prabhudessai, Anuj Rawat, Himanshu Sharma, Vijaykumar Vyshak, Swapnil Singh</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714052203648,
+    "commText": "<p><b>Teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714052202146,
+    "commText": "<p><b>Sunrisers Hyderabad</b> (Playing XI): Abhishek Sharma, Aiden Markram, Heinrich Klaasen(w), Nitish Reddy, Abdul Samad, Shahbaz Ahmed, Pat Cummins(c), Bhuvneshwar Kumar, Jaydev Unadkat, Mayank Markande, T Natarajan</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714052078491,
+    "commText": "<p><b>Royal Challengers Bengaluru</b> (Playing XI): Virat Kohli, Faf du Plessis(c), Will Jacks, Rajat Patidar, Cameron Green, Dinesh Karthik(w), Mahipal Lomror, Karn Sharma, Lockie Ferguson, Mohammed Siraj, Yash Dayal</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714051933951,
+    "commText": "<p><b>Pat Cummins:</b> It's been awesome, good to be back here after a few away games. Plenty of orange flags. It's my first year here. The amount of people wearing orange, the flags, social media has gone crazy, feels like a really good place. Little bit of adjustment after the last few games, but we keep the same intent whether we bat first or second, want to bat the same way. With the bowling group, it feels like we have adjusted pretty well. Tonight, we got to adjust quicker. Unadkat comes in for Washington Sundar.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714051860477,
+    "commText": "<p><b>Faf du Plessis:</b> We are gonna bat first. We feel like our fans go with us everywhere. These boys (SRH) have been playing some amazing cricket, especially batting. Hopefully we can put some scoreboard pressure on them. They've been batting really well when they've been setting scores. I was really proud with the way we played the previous game. We fought really hard with ball in hand. Two games in a row now, we've put some really good scores. Same team as the previous game.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714051846413,
+    "commText": "<p><b>Royal Challengers Bengaluru have won the toss and have opted to bat</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714051306906,
+    "commText": "<p><b>Dinesh Karthik:</b> (Key to getting prepared for this tournament) Understanding how you deal with setbacks, last year wasn't the best for me. So, trying to understand what the bowlers were doing and then trying to predict what they'd be doing this year and prepare accordingly. (Positives from the 1-run loss against KKR) In the powerplay, we really\u00a0bowled well, we put their batters under pressure which's a huge plus. At the end of the day, it's about making sure that once you get momentum as a batting unit to keep going through, we lost wickets through the middle phase. That's something we'd look back and say we need to change that. Other\u00a0than that, I think we batted really well for about 15 overs in the game. So there's a lot of positives\u00a0to take from the last game. If it's an absolute flat deck, anywhere between 220-230 is what you need to get your mind prepared for. Most teams seem to just keep going in terms of looking to hit boundaries throughout\u00a0their 20 overs. Before, there used to be a bit of a lull between 7-12 where they used to take their time and then launch later. But I don't think that period exists anymore. I don't think I need to expect anything different from Sunrisers. What we need to do is make sure that we bowl like how we bowled against KKR, to a plan, bowl at areas where they'd find hard to hit shots. If after that, they do play their shots, fair enough, they've had a good day. Not much off the field in terms of strategy or picking a squad/XI, but on the field, if I do have something to say, I'll definitely say it to Faf.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714050921213,
+    "commText": "<p><b>Pitch Report | Samuel Badree and Simon Katich:</b> \"We are on pitch number 2, this is the same surface that was used against Mumbai Indians where that initial score of 277 was made. Dimensions - 63m and 66m square, down the ground - a 76m hit. Certainly think that we can see 300 here tonight because the way SRH have been playing, they are going out all guns blazing. When you look at this pitch, it's absolutely rock hard and it's got a little bit of roughness to it, but it looks like a dry\u00a0creek bed, so it should come onto the bat beautifully. In the match against Mumbai, there were 38 sixes hit, so expect that tonight. These two teams are power-packed.\"\u00a0</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714049962095,
+    "commText": "<p>Royal Challengers Bengaluru are on a six-match losing streak and their hopes of making it to the playoffs are all but over. While they were beaten comprehensively in their first five losses, their batters showed a lot of fight in the last outings (while chasing SRH's 287 & KKR's 222). Bowling has traditionally been their weak link and this season is no different. They'll have to conjure something special to stop this SRH line-up. This season, <b>SRH are scoring at 11.17 RPO</b> (highest) and <b>RCB are conceding at 10.56 RPO</b> (highest). Going by these numbers, what happened when these two teams locked horns against each other and the current form, the odds are heavily stacked against RCB. However, this format finds different ways to surprise us. Let's hope we are treated to another close encounter.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714049733969,
+    "commText": "<p><b>18:25 Local Time, 12:55 GMT, 18:25 IST:</b> I0$ Captain America, while giving orders to every member of the Avengers, finally goes, <b>\u201cHulk .\u2026 Smash!\u201d</b> It seems like all the SRH batters have received the same order. <b>277, 287, 266.</b> These are some of the totals posted by Sunrisers Hyderabad this season. All the top seven batters have made crucial contributions at some point or the other. It's not just the amount of runs, but also the manner in which they have scored. As a fielding team, you just can't afford to relax against them. Yes, their bowlers have been expensive, but they are currently sitting pretty at the third spot and are on a four-match winning streak. From being the wooden spoon winners last year, this has been a stunning turnaround for the Men in Orange. A win tonight will take them to the second spot. It's a home game for Cummins and Co. where they have won both their encounters and they are up against a team that's languishing at the bottom of the points table.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713967702499,
+    "commText": "<p><b>Preview</b> \\n \\nRCB have suffered six defeats on the trot now in IPL 2024. All six would have hurt without a doubt. But the most recent one, against Kolkata Knight Riders, would have stung a bit more. A stunning run chase saw them almost gun down 223, only to fall one run short. For a team that badly needed a win, this was a dagger straight to the heart, almost like a final blow. \\n \\nIn such a scenario, the last team one would want to run into in this year's edition of the IPL is Sunrisers Hyderabad. But here we are, less than ten days after that never-seen-before carnage at the Chinnaswamy. Records were broken left, right and center and the RCB bowlers know that a repeat cannot be ruled out given what has transpired so far. If they do manage to stop Travis Head and Abhishek Sharma, they will still have to contend with Aiden Markram, Heinrich Klaasen and Nitish Reddy. Even Shahbaz Ahmed slammed a quickfire fifty in the last game. \\n \\nOne thing RCB can take solace from is the fact that the SRH bowling attack has also leaked plenty. They haven't been able to breathe easy after posting 277, 287 and most recently 266. But first thing's first, the focus will once again be on that SRH opening pair. If RCB can find a way to get rid of them both in the powerplay, it will be a big step towards ending their miserable streak of results. \\n \\n<b>When:</b> Sunrisers Hyderabad vs Royal Challengers Bangalore,April 25, 2024 at 19:30 IST \\n \\n<b>Where:</b> Rajiv Gandhi International Stadium, Hyderabad \\n \\n<b>What to expect:</b> We have had two games in Hyderabad so far this season. One witnessed over 500 runs and the other was a moderate one with CSK making just 165, which was chased down with ease. \\n \\n<b>Team Watch</b> \\n \\n<b>Sunrisers Hyderabad</b> \\n \\n<b>Injuries/Availability:</b> SRH do not have any injury concerns at the moment. \\n \\n<b>Tactics & Matchups:</b> Jaydev Unadkat, Pat Cummins and Mayank Markande have a pretty good record against Virat Kohli in the IPL. SRH will be better served using this trio against the current orange cap holder. On the other hand, Heinrich Klaasen has a terrific record against the majority of the RCB bowlers. \\n \\n<b>Probable XI:</b> Travis Head, Abhishek Sharma, Aiden Markram, Heinrich Klaasen (WK), Nitish Reddy, Shahbaz Ahmed, Abdul Samad, Pat Cummins, Bhuvneshwar Kumar, Mayank Markande, T Natarajan [Impact sub: Washington Sundar/Jaydev Unadkat] \\n \\n<b>Royal Challengers Bengaluru</b> \\n \\n<b>Injuries/Availability:</b> If Glenn Maxwell continues to sit out, Cameron Green will get another opportunity in the middle order considering how well Will Jacks played the other night against KKR. \\n \\nOn the other hand, if RCB opt to strengthen the bowling attack against this rampaging batting lineup, Alzarri Joseph might be in line for a recall. \\n \\n<b>Tactics & Matchups:</b> Faf du Plessis may have had an underwhelming IPL so far but his record against the likes of Bhuvneshwar, Cummins, Unadkat and Shahbaz works in his favour. Most of the bowlers from that SRH camp have a poor record against DK. \\n \\n<b>Probable XI:</b> Faf du Plessis (C), Virat Kohli, Will Jacks, Rajat Patidar, Cameron Green, Mahipal Lomror, Dinesh Karthik (WK), Karn Sharma, Lockie Ferguson, Yash Dayal, Mohammed Siraj \\n \\n<b>Did you know?</b> \\n \\nThe last time these two teams met in Hyderabad, Virat Kohli scored a century in a successful run chase. \\n \\nThe batting strikes in the powerplay of Travis Head and Abhishek Sharma in IPL 2024 is 234.54 and 232.87 respectively.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713967702489,
+    "commText": "<p><b>Squads:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713967695796,
+    "commText": "<p><b>Royal Challengers Bangalore</b> Squad: Virat Kohli, Faf du Plessis(c), Will Jacks, Rajat Patidar, Cameron Green, Dinesh Karthik(w), Mahipal Lomror, Karn Sharma, Lockie Ferguson, Yash Dayal, Mohammed Siraj, Suyash Prabhudessai, Anuj Rawat, Himanshu Sharma, Swapnil Singh, Glenn Maxwell, Reece Topley, Tom Curran, Vijaykumar Vyshak, Mayank Dagar, Alzarri Joseph, Manoj Bhandage, Akash Deep, Saurav Chauhan, Rajan Kumar</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713967553314,
+    "commText": "<p><b>Sunrisers Hyderabad</b> Squad: Travis Head, Abhishek Sharma, Aiden Markram, Heinrich Klaasen(w), Nitish Reddy, Shahbaz Ahmed, Abdul Samad, Pat Cummins(c), Bhuvneshwar Kumar, Mayank Markande, T Natarajan, Washington Sundar, Umran Malik, Anmolpreet Singh, Akash Maharaj Singh, Glenn Phillips, Mayank Agarwal, Jaydev Unadkat, Rahul Tripathi, Upendra Yadav, Jhatavedh Subramanyan, Sanvir Singh, Vijayakanth Viyaskanth, Fazalhaq Farooqi, Marco Jansen</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

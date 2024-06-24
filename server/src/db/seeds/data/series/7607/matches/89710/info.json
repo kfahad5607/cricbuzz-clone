@@ -1,0 +1,48 @@
+{
+  "id": 89710,
+  "description": "11th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 11,
+  "homeTeam": 966,
+  "awayTeam": 65,
+  "series": 7607,
+  "venue": 485,
+  "startTime": 1711807200000,
+  "completeTime": 1711821162628,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 966
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 21
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 966,
+      "batTeamName": "LSG",
+      "score": 199,
+      "wickets": 8,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 65,
+      "batTeamName": "PBKS",
+      "score": 178,
+      "wickets": 5,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

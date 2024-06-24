@@ -1,0 +1,416 @@
+[
+  {
+    "timestamp": 1714903104039,
+    "commText": "<p>Nearly set to get underway here. Rahane needs some runs today, he's not nearly been at his best. CSK would've talked about doing better in the powerplay, lets find out how they go about</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714902292923,
+    "commText": "<p>We've made three changes to our expert XI on <b>#FantasyHandbook</b>. Make sure you check them out before locking in your fantasy XI</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714901991285,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714901963194,
+    "commText": "<p><b>Punjab Kings Impact Subs:</b> Prabhsimran Singh, Harpreet Singh Bhatia, Tanay Thyagarajan, Vidhwath Kaverappa, Rishi Dhawan</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714901899755,
+    "commText": "<p><b>Chennai Super Kings Impact Subs:</b> Sameer Rizvi , Simarjeet Singh, Shaik Rasheed, Mukesh Choudhary, Prashant Solanki</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714901823523,
+    "commText": "<p><b>Teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714901821747,
+    "commText": "<p><b>Punjab Kings</b> (Playing XI): Jonny Bairstow, Rilee Rossouw, Shashank Singh, Sam Curran(c), Jitesh Sharma(w), Ashutosh Sharma, Harpreet Brar, Harshal Patel, Rahul Chahar, Kagiso Rabada, Arshdeep Singh</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714901786742,
+    "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Ajinkya Rahane, Ruturaj Gaikwad(c), Daryl Mitchell, Shivam Dube, Moeen Ali, Ravindra Jadeja, MS Dhoni(w), Mitchell Santner, Shardul Thakur, Richard Gleeson, Tushar Deshpande</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714901517346,
+    "commText": "<p><b>Ruturaj Gaikwad: </b>We've just stuck to our process and doing little things right. We don't look at the track record of the opposition, we focus on ourselves and see what we can do right. This season there have been a lot of injuries, flus and forced changes so we've had to tinker with our team. I'd say losing 10 tosses but winning 5 games is a positive. <b>Santner comes in place of Fizz. </b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714901468419,
+    "commText": "<p><b>Sam Curran: </b>We're going to bowl. Day game, try and see how it plays and chase it down. We've got the same team. We've had two really good wins with the same team. Conditions should be fairly even throughout, it's about batting, bowling and fielding well.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714901221407,
+    "commText": "<p><b>Punjab Kings have won the toss and have opted to field</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714900974286,
+    "commText": "<p><b>Harshal Patel: </b>(The IPL) Has been very fruitful. Cricket is an instrument through which I experience life. Everyone is getting hit in this IPL. I look at if I've been able to execute what I've wanted to and if I've been able to have an impact on the game, if I've been able to do those two things then it doesn't matter what the scoreboard says. There's no set rule, everyone gives their input but it's up to you to decide when you're running up. According to me it's a flaw in your mindset if you try to do something new when you're already doing well and that's what I try to avoid. Expect there to be some pace and bounce but it usually plays true. The game will probably finish before dew sets in. I think we'll need to hit a hard length.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714900094070,
+    "commText": "<p><b>Pitch report: </b>\"64m and 62m boundaries. The air is thin here. It's got a layer of grass. Pretty even but it's dry grass. The fast bowlers can get some help with the new ball. Spinners are going to struggle here, ball won't turn much. Wonderful ground for the batters, expect a lot of runs\" say Graeme Swann and Brian Lara.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714899326708,
+    "commText": "<p><b>14:30 Local Time, 09:00 GMT, 14:30 IST:</b> The battle for qualification is heating up with all 10 teams still in contention mathematically. The picturesque Dharamsala plays backdrop today as PBKS, placed 8th on the table, host CSK who're sitting at 5th place. The memories will be fresh because these teams went up against each other in just their last game. Fortress Chepauk was breached that night as PBKS managed to claim a 7 wicket victory. CSK haven't quite been the juggernaut they've been in the years passed and a win today will go a long way in setting them back on track to make the playoffs. In fact, the situation is quite simple for them - win their 4 remaining games and they are through. As for Punjab, things are slightly more complicated. It's been another topsy-turvy season where they've blown hot and blown cold. They need to win their remaining games as well and hope that some other results go their way if they are to qualify. Big game coming up.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714818058065,
+    "commText": "<p><b>Preview</b> \\n \\nDharamsala has an iconic importance in the annals of Chennai Super Kings' long and distinguished IPL history. Facing a must-win game at this venue back in 2010, MS Dhoni famously bailed the side out in a dramatic last-over finish to send Chennai into knockouts. Ultimately, they'd go on to win the first of their five IPL titles. Fast forward 14 years later and CSK once again find themselves in a spot of bother heading to Dharamsala. \\n \\nIt's not yet panic stations as it was in 2010 but with the playoffs race heating up considerably, the defending champions know that more slip-ups will put their qualification hopes in jeopardy. After a promising start to the season with four wins in six games, CSK slipped to three losses in their next four games, including two at home in Chepauk. After the high-flying success in 2023, the batting approach this year has come under scrutiny with the over-dependence on Shivam Dube clearly visible during the middle overs phase. The powerplay hasn't been explosive either as Ajinkya Rahane's form remains a concern. \\n \\nSkipper Ruturaj Gaikwad's excellent form is a relief but CSK need to sort out the tempo of their batting in a season where teams have pushed the envelope when it comes to boundary-hitting. CSK have, of course, not been helped by the dew factor of which they have been on the wrong side of. It has handicapped an already rusty batting unit but with this being an afternoon game, that shouldn't be an excuse. The bowling has also been inconsistent though with injuries being a crucial contributing factor. \\n \\nIn contrast, Punjab Kings are riding a wave of confidence. After registering the highest-ever T20 run chase at the Eden Gardens against KKR, beating CSK at Chepauk was just the tonic they needed to gather steam towards the business end of the tournament. They might be a volatile unit, more so in the batting department, but when they come off, PBKS are a very hard team to stop. A lot of their initial worries in the tournament boiled down to the top-order failure and inefficiency in death bowling. It meant that the uncapped players in Shashank Singh and Ashutosh Sharma had to do the heavy-lifting, which they did with aplomb. \\n \\nThe return to form of Jonny Bairstow has given a massive boost to the batting line-up with Rilee Rossouw also doing his bit reasonably. This has allowed the middle order to function with relative ease. The bowling has also stepped up, adjusting to conditions whenever needed. Punjab still does leak runs at the odd phases but the wicket-taking potency has seen an upswing, thereby allowing them to keep the opposition run-scoring under check, particularly on flatter batting surfaces. \\n \\nPBKS have momentum and confidence in their favour, along with home advantage as they face a CSK side that's struggling to put their campaign back on track. The battle between Chennai's bowling and Punjab's batting could be the decisive sub-plot in this fixture. \\n \\n<b>When:</b> Punjab Kings vs Chennai Super Kings, May 5, 15:30 IST \\n \\n<b>Where:</b> Himachal Pradesh Cricket Association Stadium, Dharamsala \\n \\n<b>What to expect:</b> Surfaces at Dharamsala have historically been sporting decks with good help to the fast bowlers, especially through the new-ball phase. Spin generally doesn't play much part and as the innings progresses, stroke-making has been easier with the altitude making it a quick-scoring ground. \\n \\n<b>Head to Head:</b> Not a lot to choose between the two sides in the overall stats. CSK hold a slender 15-14 lead over PBKS from their 29 encounters. However, the last five games have all been won by Punjab, giving them a potential psychological edge. \\n \\n<b>Team watch</b> \\n \\n<b>Punjab Kings</b> \\n \\n<b>Injuries/Unavailability:</b> Punjab Kings are closely monitoring Shikhar Dhawan's rehab from shoulder injury, and the have said the regular skipper \"hopefully should be back for last two games\". \\n \\n<b>Tactics and matchups:</b> CSK's top order has relied heavily on Ruturaj Gaikwad but the CSK skipper has a documented fragility against left-arm pace. While he tends to score at a brisk strike rate of 147, Gaikwad has fallen five times in 89 deliveries. PBKS have Arshdeep Singh and Sam Curran who can exploit the CSK's captain's weakness with the new ball. PBKS are unlikely to make any changes to their playing squad for this game. \\n \\n<b>Probable XI:</b> Jonny Bairstow, Prabhsimran Singh, Rilee Rossouw, Sam Curran (c), Jitesh Sharma (wk), Shashank Singh, Ashutosh Sharma, Harpreet Brar, Kagiso Rabada, Harshal Patel, Rahul Chahar. [Impact player: Arshdeep Singh]. \\n \\n<b>Chennai Super Kings</b> \\n \\n<b>Injuries/Availability:</b> Deepak Chahar has been ruled out of the remainder of this IPL season. Matheesha Pathirana is expected to be back after missing the last game due to a niggle. Mustafizur Rahman has left for national commitments and will play no further part this season. There is also a cloud hanging over Tushar Deshpande who missed the previous game due to a flu. \\n \\n<b>Tactics and matchups:</b> Matheesha Pathirana has been exceptional in the middle overs (7-15) this season. The Sri Lankan goes at a frugal economy of 5.46 and has picked up eight wickets from just 78 deliveries bowled, at a staggering strike rate of 9.75. The young pacer will be pivotal to controlling PBKS' pace-hitting duo of Shashank Singh and Ashutosh Sharma. With Mustafizur's exit, Pathirana's return will make for a direct swap in the XI. Mukesh Choudhary is expected to replace the injured Deepak Chahar if Deshpande fails to recover for this game. \\n \\n<b>Probable XI:</b> Ajinkya Rahane, Ruturaj Gaikwad (c), Daryl Mitchell, Moeen Ali, Shivam Dube, Ravindra Jadeja, MS Dhoni, Sameer Rizvi, Shardul Thakur, Richard Gleeson, Tushar Deshpande/Mukesh Choudhary. [Impact Sub: Matheesha Pathirana] \\n \\n<b>Did you know?</b> \\n \\n- Ruturaj Gaikwad has gone past fifty in four of his last five innings with a century and a 98 to his name \\n \\n- Known for his spin-hitting prowess, Shivam Dube's strike rate this season against pace (172.1) is actually higher than his strike rate against spin (169.2) \\n \\n- In a high-scoring IPL season, Tushar Deshpande has been outstandingly economical both in the powerplay (8.37 rpo) and at the death (8.54 rpo). \\n \\n<b>What they said:</b> \\n \\n\"I think our bowlers were superb, the spinners and Jonny striking them well, even the way we paced that chase, it was brilliant. Need to build on that confidence.\" - <b>Sam Curran</b> wants his side to keep riding on the wave of confidence \\n \\n\"He (Rahane) looked good. It's the next phase, (to ensure that) his hitting that was so good last year, is more crisp. It's not for lack of intent. In fact, he has doubled up on intent. We're fine with Jinks and the role he plays.\" - <b>Stephen Fleming</b> is backing his under-fire opener to come good sooner than later.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714818058055,
+    "commText": "<p><b>Squads:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714818055990,
+    "commText": "<p><b>Chennai Super Kings</b> Squad: Ajinkya Rahane, Ruturaj Gaikwad(c), Daryl Mitchell, Moeen Ali, Shivam Dube, Ravindra Jadeja, MS Dhoni(w), Shardul Thakur, Tushar Deshpande, Richard Gleeson, Matheesha Pathirana, Sameer Rizvi, Mukesh Choudhary, Simarjeet Singh, Shaik Rasheed, Prashant Solanki, Mitchell Santner, Rachin Ravindra, Ajay Jadav Mandal, RS Hangargekar, , Maheesh Theekshana, Nishant Sindhu, Aravelly Avanish</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714817859563,
+    "commText": "<p><b>Punjab Kings</b> Squad: Jonny Bairstow, Sam Curran(c), Rilee Rossouw, Shashank Singh, Jitesh Sharma(w), Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada, Rahul Chahar, Arshdeep Singh, Prabhsimran Singh, Liam Livingstone, Harpreet Singh Bhatia, Rishi Dhawan, Vidhwath Kaverappa, Shikhar Dhawan, Chris Woakes, Tanay Thyagarajan, Atharva Taide, Nathan Ellis, Shivam Singh, Prince Choudhary, Vishwanath Singh</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

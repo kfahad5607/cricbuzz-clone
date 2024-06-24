@@ -1,0 +1,485 @@
+[
+  {
+    "timestamp": 1715090342479,
+    "commText": "<p>Out come the teams. Boult to take the new ball. He's adjusting his field, wants a man back behind square and looks like he wants both fielders back on the leg-side. Third man is up. So expecting everything to be straight at JFM. Round the wicket and no slip by the way</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715089520484,
+    "commText": "<p>We have made a change to our expert XI based on conditions and toss. Do checkout Fantasy Handbook before locking your teams.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715089344121,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715089248624,
+    "commText": "<p><b>Delhi Capitals Impact Subs:</b> Rasikh Dar Salam, Praveen Dubey, Lalit Yadav, Sumit Kumar, Kumar Kushagra</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715089165862,
+    "commText": "<p><b>Rajasthan Royals Impact Subs:</b> Jos Buttler, Kuldeep Sen, Tom Kohler-Cadmore, Tanush Kotian, Kunal Singh Rathore</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715089078984,
+    "commText": "<p><b>Teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715089077499,
+    "commText": "<p><b>Delhi Capitals</b> (Playing XI): Jake Fraser-McGurk, Abishek Porel, Shai Hope, Rishabh Pant(w/c), Tristan Stubbs, Gulbadin Naib, Axar Patel, Kuldeep Yadav, Mukesh Kumar, Ishant Sharma, Khaleel Ahmed</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715089014127,
+    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Sanju Samson(w/c), Riyan Parag, Donovan Ferreira, Rovman Powell, Shubham Dubey, Ravichandran Ashwin, Trent Boult, Avesh Khan, Sandeep Sharma, Yuzvendra Chahal</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715088892516,
+    "commText": "<p>So we have <b>two overseas IPL debutants</b> in Gulbadin Naib and Donovan Ferreira. Interesting to see Sanju opt to bowl despite the fact that all three games here have been won by the side batting first. Probably dew could be the reason and he wants to give his spinners the best time to bowl.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715088770904,
+    "commText": "<p><b>Rishabh Pant</b>: Pitches this season are more batting friendly. Some injuries, health issues are there in our team but we don't want focus on those things and we got to focus on the matches and do our best. <b>Ishant and Gulbadin come in</b>. If needed we can use the batting impact sub.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715088671076,
+    "commText": "<p><b>Sanju Samson</b>: We would like to bowl first, looks a good a wicket to chase on. We are comfortable doing both. The environment in the team is what pleases me, we have great characters, of course winning helps. Dhruv and Hetmyer are unavailable. <b>Shubham Dubey and Donovan Ferreira are in</b>.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715088417304,
+    "commText": "<p><b>Rajasthan Royals have won the toss and have opted to field</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715088163541,
+    "commText": "<p><b>Rovman Powell:</b> I think it\u2019s the communication between the captain, coaches and players. Communication goes a far way, communication brings clarity throughout the group and I think that has been a driving force in our success so far. As a batter, you get excited but the important thing is when you get to bat, you do the basic things right. I think it was a simple one to reflect, fortunately I was there at the last, I just missed a full toss, in close games like that, you can\u2019t overthink, Bhuvi bowled a great over. Hopefully, the next time I\u2019m out there, I can take my team over the line. There is a bit to prove but it is nothing personal, I\u2019m here to do a job for Rajasthan and I will do that. One thing I like in this team is the way they plan, we as West Indian if we can plan like that, can go into the specific details, that is something that I am looking to take from a personal standpoint and see how can I rub it onto my fellow West Indians.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715088163531,
+    "commText": "<p><b>Pitch report by Deep Dasgupta and Brian Lara</b>: Fourth game here in Delhi and the average score is 249 so far, five out of the six innings have seen scores over 200. One of the reasons is the dimensions of this ground. Today the side boundaries are 59m and 67m, 74m straight hit. Pitches early on here had more grass, now we have more bare patches and a few cracks. There is still some grass cover in the middle of the pitch. I believe it is going to be another high-scoring game</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715004533734,
+    "commText": "<p>With games and great NRR at hand, both KKR and RR are almost certain for the playoffs. Realistically the other two spots are up for grabs between CSK, SRH, LSG and DC unless the table takes a dramatic turn where 14 points could be enough for qualification.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715004533724,
+    "commText": "<p>Full credit to them for winning 4 out of 6 games and bouncing back in grand style when everyone had written them off in the early stages. But they are up against the most consistent side this season. RR's both loses were separated by 4 wins and in fact they should have won their last game against the Sunrisers as well only to get well ahead of the game and pick up a last-ball shock defeat</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715004533714,
+    "commText": "<p>Welcome to another vital league stage game as the playoffs\u00a0inch closer. This is a must-win game for the Delhi Capitals to stay in contention because the maximum they can get to is 16 points from the remaining three games and their inferior NRR only makes life tougher.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715004533694,
+    "commText": "<p><b>Preview</b> by <b>Purnima Malhotra:</b> \\n \\nTheir IPL 2024 campaign hanging by a bare thread, inconsistent Delhi Capitals will host rampaging Rajasthan Royals who have one foot in the playoffs already and would be eager to reclaim their top spot in the standings. \\n \\nThe Capitals have blown hot and cold all throughout, alternating between unbelievably good and poor. Starting their season away from home, DC went down in four of their first-five games before winning four in the next five. Royals, on the other hand, had a long run at no. 1 spot, winning eight of their 10 games which includes two streaks of four victories on the trot. Both teams though are coming off defeats. \\n \\nDelhi's woes were partly due to injuries that hit their camp, robbing them of the chance to field their strongest XI, and part due to the indifferent form of some of their sure starters. Prithvi Shaw has had a year of two halves, his numbers seeing a constant decline in the second half of his eight games thus far. However, Jake Fraser-McGurk has grabbed his opportunity with both hands and emerged as a silver lining for DC. His scarcely believable strike-rate of 233.33 after six innings is the all-time best in a season (minimum 50 balls faced), and he currently averages over 43 with the bat. Together with captain Rishabh Pant and Tristan Stubbs, the trio has been doing the heavy-lifting with the bat for the side. \\n \\nThe Capitals have also won last two of their three games in Delhi, scoring 220+ on both occasions, which should lift their spirits as they enter the must-win territory to remain in playoffs contention. Two of their remaining three are in the comforts of their home ground. However, the venue's propensity for producing run-fests this year could play right into Royals' hands. RR's top-four are currently aggregating the highest (1453 runs at 48.43) among all 10 teams despite Jos Buttler's lean patches on either side of his two spectacular centuries in run-chases. DC, in comparison, fare eighth. \\n \\nThe two teams are on opposite ends in terms of fast-bowling returns as well. Rajasthan's quicks have been the most economical in the competition at 8.66 while Delhi's are second from bottom, leaking at 11 RPO and averaging 33.78. Even the most economical of DC pacers, Khaleel Ahmed, has averaged 9.47. That said, Delhi do have the upper hand over their Tuesday opponents in one department. \\n \\nThe Kuldeep Yadav and Axar Patel combo have been pivotal for DC in the bowling department whereas the lacks of returns from the experienced duo of R Ashwin and Yuzvendra Chahal is one chink in RR's otherwise all-round game. Delhi's spinners have claimed 23 wickets at joint-best strike rate of 18.7 and average 25.95 in IPL 2024 whereas RR's have only 17 in 10 games, and a worrisome average of over 43. \\n \\n<b>When:</b> Tuesday, May 7 at 19:30 IST \\n \\n<b>Where:</b> Arun Jaitley Stadium, Delhi \\n \\n<b>What to expect:</b> The average first innings score in Delhi has been a staggering 249 and the overall average at this venue has been 236 in IPL 2024. Expect another high-scoring contest with even square boundaries from the center pitch. \\n \\n<b>Head to Head:</b> It's 15-13 to RR overall but the tourists only have a 3-5 record at the Feroz Shah Kotla. Royals did win the reverse fixture by 12 runs in Jaipur. \\n \\n<b>Teams Watch</b> \\n \\n<b>Delhi Capitals</b> \\n \\n<b>Injuries & Availability:</b> Head Coach Ricky Ponting confirmed that Ishant Sharma is fit and available for selection tomorrow, and also sounded confident of having David Warner back for the game although a final call on his fitness was to be taken after the team's pre-match training session on Monday evening. \\n \\n<b>Tactics & Matchups:</b> Sanju Samson's consistency has been a big factor in RR's success this year, but the RR skipper strikes at under 122 against both Kuldeep Yadav and Axar Patel. The DC spn twins have also dismissed the RR captain three times between them, which makes for an interesting match-up. \\n \\n<b>Probable XI:</b> David Warner, Jake Fraser-McGurk, Abhishek Porel, Rishabh Pant (C, wk), Tristan Stubbs, Shai Hope, Axar Patel, Kuldeep Yadav, Khaleel Ahmed, Ishant Sharma, Mukesh Yadav [Impact sub: Rasikh Salam] \\n \\n<b>Rajasthan Royals</b> \\n \\n<b>Injuries & Availability:</b> No injury concerns to report from the RR camp. \\n \\n<b>Tactics & Matchups:</b> All three of Delhi's top run-getters - Pant, Stubbs and Fraser-McGurk - are averaging under 20 against legspin in IPL 2024. Having produced flashes of brilliance previously, if Chahal can rediscover his rhythm he can break the back of Delhi's big-hitting middle-order. \\n \\n<b>Probable XI:</b> Yashasvi Jaiswal, Jos Buttler, Sanju Samson (c, wk), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Rovman Powell, R Ashwin, Trent Boult, Avesh Khan, Sandeep Sharma [Impact sub: Yuzvendra Chahal] \\n \\n<b>Did you know?</b> \\n \\n- A six has been hit in every eight legal balls in Delhi in IPL 2024 \\n \\n- A staggering 88.8% of Jake Fraser-McGurk's runs in IPL 2024 have come in boundaries \\n \\n- All three games in Delhi this season have been won by teams batting first \\n \\n<b>What they said:</b> \\n \\n\"We know that we are coming up against a very good Rajasthan side, but we know if we play our best cricket, as we have seen in the tournament so far, if we can play our best cricket for 40 overs, then I'll guarantee we'll be hard to beat. It doesn't matter who we play or where we play them, we know we can beat anybody.\" - DC head coach <b>Ricky Ponting</b> \\n \\n\"When you take over the captain's role, there's a lot that comes with it... what Sanju [Samson] has learned from the last couple of years is managing all that, managing his time managing his energy, leaning on the senior players in the group. And by balancing all that it's got the best out of him... It's been exciting for us as a team to see him get World Cup selection. We're all delighted for him. He's playing beautifully and then hopefully he can just keep leading us through the back end of this tournament.: - RR fast-bowling coach <b>Shane Bond</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715004533684,
+    "commText": "<p><b>Squads:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715004532220,
+    "commText": "<p><b>Rajasthan Royals</b> Squad: Yashasvi Jaiswal, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Rovman Powell, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Yuzvendra Chahal, Sandeep Sharma, Jos Buttler, Tom Kohler-Cadmore, Shubham Dubey, Navdeep Saini, Tanush Kotian, Keshav Maharaj, Nandre Burger, Kuldeep Sen, Donovan Ferreira, Abid Mushtaq, Kunal Singh Rathore</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715004325727,
+    "commText": "<p><b>Delhi Capitals</b> Squad: Prithvi Shaw, Jake Fraser-McGurk, Abishek Porel, Shai Hope, Rishabh Pant(w/c), Tristan Stubbs, Axar Patel, Kuldeep Yadav, Rasikh Dar Salam, Lizaad Williams, Khaleel Ahmed, Mukesh Kumar, Sumit Kumar, Praveen Dubey, Kumar Kushagra, Ricky Bhui, Ishant Sharma, David Warner, Gulbadin Naib, Jhye Richardson, Anrich Nortje, Lalit Yadav, Yash Dhull, Vicky Ostwal, Swastik Chikara</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

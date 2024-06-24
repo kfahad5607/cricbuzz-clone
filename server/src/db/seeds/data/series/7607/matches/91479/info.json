@@ -1,0 +1,48 @@
+{
+  "id": "91479",
+  "description": "36th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 36,
+  "homeTeam": 63,
+  "awayTeam": 59,
+  "series": 7607,
+  "venue": 31,
+  "startTime": 1713693600000,
+  "completeTime": 1713708578980,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 59
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 1
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 63,
+      "batTeamName": "KKR",
+      "score": 222,
+      "wickets": 6,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 59,
+      "batTeamName": "RCB",
+      "score": 221,
+      "wickets": 10,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

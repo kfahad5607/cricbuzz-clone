@@ -1,0 +1,439 @@
+[
+  {
+    "timestamp": 1714485451961,
+    "commText": "<p>The players are out in the middle and we are ready for live action. The two MI openers have been very inconsistent this season. Will they be able to give a good start today at least? Let's find out..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714485057866,
+    "commText": "<p><b>A couple of changes in our final XI, do check out the updated Fantasy Handbook..</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714484363297,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714484327705,
+    "commText": "<p><b>Mumbai Indians Impact Subs: </b>Nuwan Thushara, Kumar Kartikeya, Dewald Brevis, Naman Dhir, Shams Mulani</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714484152330,
+    "commText": "<p><b>Lucknow Super Giants Subs:</b> Arshin Kulkarni, Manimaran Siddharth, Krishnappa Gowtham, Yudhvir Singh, Prerak Mankad</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714484138786,
+    "commText": "<p><b>Teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714484137643,
+    "commText": "<p><b>Mumbai Indians</b> (Playing XI): Ishan Kishan(w), Rohit Sharma, Suryakumar Yadav, Tilak Varma, Hardik Pandya(c), Nehal Wadhera, Tim David, Mohammad Nabi, Gerald Coetzee, Piyush Chawla, Jasprit Bumrah</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714484113266,
+    "commText": "<p><b>Lucknow Super Giants</b> (Playing XI): KL Rahul(w/c), Marcus Stoinis, Deepak Hooda, Nicholas Pooran, Ashton Turner, Ayush Badoni, Krunal Pandya, Ravi Bishnoi, Naveen-ul-Haq, Mohsin Khan, Mayank Yadav</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714483976529,
+    "commText": "<p><b>Hardik Pandya:</b> Looks alright. Looks like a slower surface, let's see how it plays. We know that all games are do or die. Need to focus on one game at a time. I think everytime we have backed our playing XI. The injuries have cost us. Crucial players are all secured. It's a long tournament, we have believed in all our players everytime we have played. Coetzee comes back in for Wood.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714483911271,
+    "commText": "<p><b>KL Rahul:</b> We will bowl first. Wicket looks good, want to put their batters under pressure and look to chase it. We'll try to stay as balanced as possible. Need to come out and put up show. We have had a few good victories. Few changes, Quinton misses out. Kulkarni is in the team. Mayank is back as well. He has bowled really well, he has a huge impact. I have been pushing the physios and medical team. Mayank is eager to go. Important that he gets it out of his head that he had an injury.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714483851263,
+    "commText": "<p><b>Lucknow Super Giants have won the toss and have opted to field</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714482691241,
+    "commText": "<p>\"Mayank Yadav is out bowling on the side today, like he did before the RR game. Chances for his return today though are higher because Morne Morkel said yesterday that he passed all his fitness tests and it's 'exciting to probably have him back in the playing potential XII,\" informs our correspondent <b>Prakash Govindasreenivasan.</b>\"Naveen-Ul-Haq has just marked his run up at the main pitch,\" he adds</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714482584609,
+    "commText": "<p><b>Krunal Pandya:</b> My job from a bowling point of view is to restrict the batters and make sure that I bowl with a good economy rate. In that process if we get a wicket from the other end it builds pressure. From a team point of view that is good and that is what IPL is. It's important to learn and move forward. I haven't got much of an opportunity (with the bat), I have played only 40-50 balls in the tournament. Played 20-odd balls in the first game but in the last 7-8 games I haven't played much. I am someone who is quite flexible, for me winning matters more than individual performances. The wickets have got better compared to last year, there's no doubt about it. It's better for the batters but that's where T20 cricket is heading towards. As a bowler there is a challenge, you got to learn. Bowling has been tough, but you have an opportunity to prove yourself. As a bowler you need to win those small battles. No point of making excuses.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714482502937,
+    "commText": "<p><b>Pitch Report | Graeme Swann and Aaron Finch:</b> \"The bowlers for once in this IPL might be quite looking forward to this. First of all, it's a used pitch, you can tell by the footmarks. 66 metres to either side (square), so there is no shorter side today. The pockets are about 71m, straight down the ground - 76m. The strip looks interesting. 163 was the score here last time, they were able to defend it. That should give the bowlers a lot of confidence. There is a little bit of grass on the surface but I don't think that that will play too much of a part. I expect it to be on the slower side and as we come down the strip a little bit more, you see some bare patches and that's quite consistent right throughout, you can see some red coming through. Expect the ball to spin and hold in the wicket a little bit more and that'll suit the Lucknow side more. There's a bit of breeze tonight. It could be a night for the bowlers.\"</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714480870905,
+    "commText": "<p><b>18:15 Local Time, 12:45 GMT, 18:15 IST:</b> Hello and welcome to our coverage of match 48 of IPL 2024 folks! Mumbai Indians will lock horns with the Lucknow Super Giants at the Ekana Stadium in Lucknow today. With 10 points in 9 games, LSG are placed fifth in the points table, while MI are placed 9th with only three wins this season. Their team combination hasn\u2019t clicked, Hardik Pandya\u2019s captaincy and form have been below average, hence Mumbai Indians haven\u2019t really been able to impress. Lucknow have looked solid but they\u2019ve had a few ordinary games too. Quinton de Kock played a few decent knocks earlier this season but even he hasn\u2019t been as consistent over the last few games. Mayank Yadav is fit and he might feature in today\u2019s fixture. What does this clash have in store for us? We shall find out soon, stay around for the toss and teams..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714399808268,
+    "commText": "<p><b>Preview</b> by <b>Prakash Govindasreenivasan</b> \\n \\nAfter chiding his bowlers for lacking clinicality against Rajasthan Royals, LSG's assistant coach Lance Klusener took solace in an old cliche. \"We're the masters of our own destiny... for now,\" he said with a chuckle. \"If someone had said to us at the beginning that three-quarters into the competition you could still decide your own destiny, a lot of teams would take it.\" \\n \\nLSG have had a fairly good season thus far, but we're at that stage of the tournament where destiny can slip away very quickly even from the tightest of grasps. Ask Rajasthan Royals of 2023. It's a tightrope that LSG are currently walking steadily on, alongside several other top-four suitors. They will run into many plucky sides looking to shake them off their feet, starting with the pluckiest of all in Hardik Pandya's team. \\n \\nMumbai Indians are dealing with a different cliche, as they head into every game in a must-win situation to lift them off the bottom pile. After 10 games last season, they had only 5 wins and yet reached the playoffs. The slight similarity in position (3 wins in 9 games) this year and the knowledge that they're capable of beating the odds from here has kept the spirits high in their dressing room. \\n \\nEven as the two teams are separated by 4 points and three spots on the table, a bad result on Tuesday has the capability to put both their campaigns in a tailspin to varying degrees. \\n \\n<b>When:</b> Lucknow Super Giants vs Mumbai Indians, April 30, 2024, 07:30 PM IST \\n \\n<b>Where:</b> Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow \\n \\n<b>What to expect:</b> More runs than two days ago? This game will be played on a red soil surface and the visitors are packed to the rafters with big-hitters. \\n \\n<b>Head to head:</b> LSG 3 - 1 MI. MI's win over LSG was in last season's Eliminator. \\n \\n<b>Team Watch</b> \\n \\n<b>Lucknow Super Giants</b> \\n \\n<b>Injuries/Availability:</b> \"Mayank is fit. He's passed all his fitness tests. Very excited to probably have him back and in the playing potential XII for tomorrow,\" LSG assistant coach Morne Morkel said .The 21-year-old, who bowled on the eve of the game, could be LSG's impact substitute against MI. \\n \\n<b>Tactics & Matchups:</b> LSG should make better use of Ravi Bishnoi against MI than they did against RR - a game in which he bowled just one over. Bishnoi matches up well against Rohit Sharma [34 Runs | 32 Balls | 2 Dismissals] and Suryakumar Yadav [39 Runs | 32 Balls | 3 Dismissals], and could be set for an over or two in the PowerPlay. \\n \\n<b>Probable XI:</b> Quinton de Kock, KL Rahul(w/c), Marcus Stoinis, Deepak Hooda, Nicholas Pooran, Ayush Badoni, Krunal Pandya, Matt Henry, Ravi Bishnoi, Mohsin Khan, Yash Thakur [Impact sub: Amit Mishra/Mayank Yadav] \\n \\n<b>Mumbai Indians</b> \\n \\n<b>Injuries/Availability:</b> Gerald Coetzee missed MI's game in Delhi two days ago with a stomach bug. Remains to be seen if he's fit for Tuesday's match. \\n \\n<b>Tactics & Matchups:</b> Left-arm pacer Luke Wood was taken to the cleaners by DC batters but could yet have value against LSG. Quinton de Kock has fallen to left-arm pacers six times this season. MI would want to take into account the difference between bowling in one of the smallest venues in the country - Delhi - and the one of the biggest - Lucknow, and hold onto Wood for this fixture. \\n \\nAn early arrival to the middle for LSG's new No.3 Marcus Stoinis will be of interest to MI too. Bumrah has been unplayable for the Aussie, who has 16 runs in 26 balls with 3 dismissals. \\n \\n<b>Probable XI:</b> Rohit Sharma, Ishan Kishan, Tilak Varma, Hardik Pandya, Nehal Wadhera, Tim David, Mohammad Nabi, Piyush Chawla, Luke Wood/Gerald Coetzee, Jasprit Bumrah, Nuwan Thushara [Impact sub: Suryakumar Yadav] \\n \\n<b>Did you know?</b> \\n \\n-Tim David has struck at 205.87 at the death in T20s since 2022, with 1437 runs and 124 sixes. No one else has more than 1000 runs in this period. \\n \\n-KL Rahul has hit three of his four IPL centuries against MI \\n \\n<b>What they said:</b> \\n \\n\"If you look at Quinny's season, he's scored 3 50s, which is not a bad thing. But also, in saying that he's got out in the first or second overs too. Quinny is the kind of guy, who on the day, can take the game away from you. I think with the experience that he brings at the top, you don't want to change that.\" - LSG assistant coach <b>Morne Morkel</b> reiterates Quinton de Kock's value to LSG even in a topsy-turvy season with the bat.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714399808258,
+    "commText": "<p><b>Squads:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714399806263,
+    "commText": "<p><b>Lucknow Super Giants</b> Squad: Quinton de Kock, KL Rahul(w/c), Marcus Stoinis, Deepak Hooda, Nicholas Pooran, Ayush Badoni, Krunal Pandya, Matt Henry, Ravi Bishnoi, Mohsin Khan, Yash Thakur, Amit Mishra, Arshin Kulkarni, Krishnappa Gowtham, Manimaran Siddharth, Yudhvir Singh Charak, Mayank Yadav, Kyle Mayers, Ashton Turner, Prerak Mankad, Naveen-ul-Haq, Devdutt Padikkal, Arshad Khan, Shamar Joseph</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714399686750,
+    "commText": "<p><b>Mumbai Indians</b> Squad: Ishan Kishan(w), Rohit Sharma, Suryakumar Yadav, Tilak Varma, Hardik Pandya(c), Nehal Wadhera, Tim David, Mohammad Nabi, Piyush Chawla, Luke Wood, Jasprit Bumrah, Nuwan Thushara, Naman Dhir, Shams Mulani, Dewald Brevis, Kumar Kartikeya, Shreyas Gopal, Harvik Desai, Gerald Coetzee, Romario Shepherd, Arjun Tendulkar, Shivalik Sharma, Anshul Kamboj, Akash Madhwal, Kwena Maphaka</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

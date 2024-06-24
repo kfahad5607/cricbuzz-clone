@@ -1,0 +1,24 @@
+{
+  "id": "91717",
+  "description": "70th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 70,
+  "homeTeam": 64,
+  "awayTeam": 63,
+  "series": 7607,
+  "venue": 380,
+  "startTime": 1716127200000,
+  "completeTime": 1716139553028,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 63
+  },
+  "results": {
+    "resultType": "abandon",
+    "winByRuns": false,
+    "winByInnings": false
+  },
+  "inningsScoreList": [],
+  "state": "abandon"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "91470",
+  "description": "34th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 34,
+  "homeTeam": 966,
+  "awayTeam": 58,
+  "series": 7607,
+  "venue": 485,
+  "startTime": 1713535200000,
+  "completeTime": 1713548881076,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 966
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 8
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 58,
+      "batTeamName": "CSK",
+      "score": 176,
+      "wickets": 6,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 966,
+      "batTeamName": "LSG",
+      "score": 180,
+      "wickets": 2,
+      "overs": 18.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 114
+    }
+  ],
+  "state": "complete"
+}

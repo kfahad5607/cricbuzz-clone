@@ -1,0 +1,48 @@
+{
+  "id": "91704",
+  "description": "68th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 68,
+  "homeTeam": 59,
+  "awayTeam": 58,
+  "series": 7607,
+  "venue": 27,
+  "startTime": 1716040800000,
+  "completeTime": 1716057250827,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 58
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 27
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 59,
+      "batTeamName": "RCB",
+      "score": 218,
+      "wickets": 5,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 58,
+      "batTeamName": "CSK",
+      "score": 191,
+      "wickets": 7,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

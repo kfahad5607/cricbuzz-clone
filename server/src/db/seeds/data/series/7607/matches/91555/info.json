@@ -1,0 +1,48 @@
+{
+  "id": 91555,
+  "description": "46th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 46,
+  "homeTeam": 58,
+  "awayTeam": 255,
+  "series": 7607,
+  "venue": 11,
+  "startTime": 1714312800000,
+  "completeTime": 1714327199258,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 255
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 78
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 58,
+      "batTeamName": "CSK",
+      "score": 212,
+      "wickets": 3,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 134,
+      "wickets": 10,
+      "overs": 18.5,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 113
+    }
+  ],
+  "state": "complete"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "91542",
+  "description": "44th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 44,
+  "homeTeam": 966,
+  "awayTeam": 64,
+  "series": 7607,
+  "venue": 485,
+  "startTime": 1714226400000,
+  "completeTime": 1714239528852,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 64
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 7
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 966,
+      "batTeamName": "LSG",
+      "score": 196,
+      "wickets": 5,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 64,
+      "batTeamName": "RR",
+      "score": 199,
+      "wickets": 3,
+      "overs": 18.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 114
+    }
+  ],
+  "state": "complete"
+}

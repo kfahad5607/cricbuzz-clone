@@ -1,0 +1,48 @@
+{
+  "id": 91632,
+  "description": "56th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 1,
+  "homeTeam": 61,
+  "awayTeam": 64,
+  "series": 7607,
+  "venue": 51,
+  "startTime": 1715090400000,
+  "completeTime": 1715104570282,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 64
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 20
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 61,
+      "batTeamName": "DC",
+      "score": 221,
+      "wickets": 8,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 64,
+      "batTeamName": "RR",
+      "score": 201,
+      "wickets": 8,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

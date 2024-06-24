@@ -1,0 +1,4178 @@
+[
+  {
+    "timestamp": 1714233389317,
+    "commText": "<p>Welcome back. Krunal Pandya hobbled off the field after the innings ended. So keep an eye out on that for the second innings and whether he'll be able to bowl. YBJ and Buttler to open for RR. Matt Henry to start us off...</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714233025323,
+    "commText": "<p><b>Highest first innings scores for LSG:</b> \\n257/5 vs PBKS, Mohali, 2023 \\n210/0 vs KKR, Mumbai DYP, 2022 \\n199/4 vs MI, Brabourne, 2022 \\n199/8 vs PBKS, Lucknow, 2024 \\n196/5 vs RR, Lucknow, 2024</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714233025313,
+    "commText": "<p><b>Deepak Hooda - </b>I just bettered what I was doing the last year, took my domestic form into the IPL. The wicket demanded it (on his off-side shots), one side was longer, one side was short. I never thought that it would be my day. I think this is a par score, the wicket is good, we'll have to use the longer side and use our variations., You can't slog blindly, have to be smart and it's a challenge for the bowlers as well. The confidence is high and we're hoping for the best.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232762209,
+    "commText": "<p><b>21:16 Local Time, 15:46 GMT, 21:16 IST:</b> First time it what feels like ages that a team has been restricted for less than 200. Batting first, the hosts were pegged back by early swing as de Kock and Stoinis were castled in the first couple of overs. With those early wickets, KL Rahul was a bit tepid in the powerplay but broke free after the powerplay, plundering 21 runs off an Avesh Khan over. Hooda from the other end also played some eye catching strokes, carrying on from where he left off against CSK. Both batters scored fifties but Hooda holed out against Ashwin. Rahul however kept scoring some classical strokes, and made use of the longer boundaries to score plenty of doubles. He was looking good for a hundred, but striked out against Avesh Khan at the death. LSG got cameos from Pooran and Badoni at the end, but RR fought back well, conceding just 24 off the last three overs thanks to some solid bowling from Sandeep Sharma. Back shortly for what should be an interesting, dew indifferent chase...</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232759209,
+    "commText": "<p> Sandeep Sharma to Krunal Pandya, 2 runs, low full toss, dips onto Pandya who tries to scoop it down the ground. Not the best of timing and goes tamely towards long-on. </p>",
+    "overs": 20,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 11311,
+      "batRuns": 15,
+      "ballsPlayed": 11,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 2,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232711132,
+    "commText": "<p> Sandeep Sharma to Ayush Badoni, 1 run, short and wide, made Badoni chase at it and slap it towards long-off. Just a single </p>",
+    "overs": 19.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 18,
+      "ballsPlayed": 13,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 29,
+      "bowlWickets": 2,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232672189,
+    "commText": "<p> Sandeep Sharma to Krunal Pandya, 1 run, length ball on the pads, Pandya misses the flick. Deflects towards short fine </p>",
+    "overs": 19.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11311,
+      "batRuns": 13,
+      "ballsPlayed": 10,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 2,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232618322,
+    "commText": "<p> Sandeep Sharma to Krunal Pandya, 2 runs, pace off and full, stabbed towards long-on. Badoni sent back Pandya initially but there was a misfield by Powell. Enables the second run </p>",
+    "overs": 19.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11311,
+      "batRuns": 12,
+      "ballsPlayed": 9,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 2,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232578751,
+    "commText": "<p> Sandeep Sharma to Krunal Pandya, 2 runs, spot on with the yorker, stabbed down towards long-on for a couple of runs </p>",
+    "overs": 19.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11311,
+      "batRuns": 10,
+      "ballsPlayed": 8,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 2,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232533071,
+    "commText": "<p> Sandeep Sharma to Krunal Pandya, <b>FOUR</b>, banged short at the body, Pandya gets a top-edge on the pull that flies over short fine for a boundary </p>",
+    "overs": 19.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 11311,
+      "batRuns": 8,
+      "ballsPlayed": 7,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 2,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232474645,
+    "commText": "<p><b>Sandeep Sharma [3.0-0-19-2] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11311,
+      "batRuns": 4,
+      "ballsPlayed": 6,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232431185,
+    "commText": "<p>Over rate penalty imposed onto RR. Just four fielders outside the circle.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232428185,
+    "commText": "<p> Boult to Ayush Badoni, 2 runs, yorker from length tbe wicket, angling back into the stumps. Clipped towards deep mid-wicket for a couple. <b>Boult concedes just 6 off the penultimate over of the game. </b> </p>",
+    "overs": 19,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 17,
+      "ballsPlayed": 12,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 41,
+      "bowlWickets": 1,
+      "bowlWides": 6,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232392466,
+    "commText": "<p> Boult to Krunal Pandya, 1 run, yorker length again, driven back to Boult who deflects it towards long-off </p>",
+    "overs": 18.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11311,
+      "batRuns": 4,
+      "ballsPlayed": 6,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 39,
+      "bowlWickets": 1,
+      "bowlWides": 6,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232362022,
+    "commText": "<p> Boult to Ayush Badoni, 1 run, short pitched angling across from Boult. Badoni shuffles in and pulls towards deep backward square leg </p>",
+    "overs": 18.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 15,
+      "ballsPlayed": 11,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 38,
+      "bowlWickets": 1,
+      "bowlWides": 6,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232278052,
+    "commText": "<p> Boult to Ayush Badoni, <b>wide</b>, length ball outside off from the wicket. Angled in and Badoni shuffled a bit closer and then left it. Called wide but RR review. The ball is still outside the revised guide lines. Will stay a wide </p>",
+    "overs": 18.4,
+    "events": [
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 14,
+      "ballsPlayed": 10,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 37,
+      "bowlWickets": 1,
+      "bowlWides": 6,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232233647,
+    "commText": "<p> Boult to Krunal Pandya, 1 run, to short mid-wicket </p>",
+    "overs": 18.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11311,
+      "batRuns": 3,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 36,
+      "bowlWickets": 1,
+      "bowlWides": 5,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232221107,
+    "commText": "<p> Boult to Krunal Pandya, no run, pace off length ball outside off, Pandya can't connect on the cut </p>",
+    "overs": 18.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11311,
+      "batRuns": 2,
+      "ballsPlayed": 4,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 35,
+      "bowlWickets": 1,
+      "bowlWides": 5,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232181839,
+    "commText": "<p><b>Rahul's innings today</b> \\nvs Avesh and Chahal: 49 off 24 (SR: 204.167) \\nvs Boult, Sandeep and Ashwin: 27 off 24 (SR: 112.5)</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232181829,
+    "commText": "<p> Boult to Krunal Pandya, no run, yorker length delivery on off, jammed back towards Boult </p>",
+    "overs": 18.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11311,
+      "batRuns": 2,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 35,
+      "bowlWickets": 1,
+      "bowlWides": 5,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232180804,
+    "commText": "<p><b>Trent Boult [3.0-0-35-1] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11311,
+      "batRuns": 2,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714232126050,
+    "commText": "<p>Avesh Khan to Krunal Pandya, 1 run, yorker length delivery, drilled down to long-on</p>",
+    "overs": 18,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 11311,
+      "batRuns": 2,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 42,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714232094734,
+    "commText": "<p>Avesh Khan to Ayush Badoni, leg byes, 1 run, low, wide full toss. Badoni shuffles in for a sweep. Off the boot towards short third</p>",
+    "overs": 17.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 15,
+      "ballsPlayed": 10,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 42,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714232067310,
+    "commText": "<p> Avesh Khan to Ayush Badoni, 2 runs, hard length delivery outside off, cut away behind square for a couple of runs </p>",
+    "overs": 17.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 14,
+      "ballsPlayed": 9,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 41,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714232034154,
+    "commText": "<p> Avesh Khan to Krunal Pandya, 1 run, yorker length, drilled down to long-off </p>",
+    "overs": 17.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11311,
+      "batRuns": 1,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 39,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714232020868,
+    "commText": "<p><b>Krunal Pandya, left handed bat, comes to the crease</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11311,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231954043,
+    "commText": "<p> Avesh Khan to Rahul, <b>out</b> Caught by Boult!! Total silence at Ekana! A short ball from Avesh outside off and Rahul goes reaching for a slash. Hits it uppishly and holes out to deep backward point where Boult takes a low catch. Rahul yelps in frustration, he was looking good for a hundred here. <b>Rahul c Boult b Avesh Khan 76(48) [4s-8 6s-2]</b> </p>",
+    "overs": 17.2,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 76,
+      "ballsPlayed": 48,
+      "dotBalls": 12,
+      "batFours": 8,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 38,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714231952827,
+    "commText": "<p> Avesh Khan to Rahul, <b>THATS OUT!!</b> Caught!! </p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 76,
+      "ballsPlayed": 47,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231920087,
+    "commText": "<p> Avesh Khan to Rahul, 2 runs, wide yorker, well executed. Stabbed towards deep extra cover for a couple </p>",
+    "overs": 17.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 76,
+      "ballsPlayed": 47,
+      "dotBalls": 11,
+      "batFours": 8,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 38,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714231886817,
+    "commText": "<p><b>Avesh Khan [3.0-0-36-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 74,
+      "ballsPlayed": 46,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231837953,
+    "commText": "<p> Ashwin to Ayush Badoni, no run, goes flatter and shorter as Badoni danced out. The batter forced to defend </p>",
+    "overs": 17,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 12,
+      "ballsPlayed": 8,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 39,
+      "bowlWickets": 1,
+      "bowlWides": 6,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231810066,
+    "commText": "<p> Ashwin to Rahul, 1 run, dances out and flicks this fuller length delivery towards deep mid-wicket </p>",
+    "overs": 16.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 74,
+      "ballsPlayed": 46,
+      "dotBalls": 11,
+      "batFours": 8,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 39,
+      "bowlWickets": 1,
+      "bowlWides": 6,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231778482,
+    "commText": "<p> Ashwin to Ayush Badoni, 1 run, sliding onto the pads, swept a bit uppishly behind square. On the bounce to the fielder </p>",
+    "overs": 16.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 12,
+      "ballsPlayed": 7,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 38,
+      "bowlWickets": 1,
+      "bowlWides": 6,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231737390,
+    "commText": "<p> Ashwin to Ayush Badoni, <b>FOUR</b>, plays the switch hit as Ashwin goes fuller and pushes it a bit quicker. Connects and gets it over the point fielder for a boundary </p>",
+    "overs": 16.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 11,
+      "ballsPlayed": 6,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 37,
+      "bowlWickets": 1,
+      "bowlWides": 6,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231705070,
+    "commText": "<p> Ashwin to Ayush Badoni, 2 runs, spinning onto the pads from a length, tucked behind square softly for another couple </p>",
+    "overs": 16.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 7,
+      "ballsPlayed": 5,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 33,
+      "bowlWickets": 1,
+      "bowlWides": 6,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231677209,
+    "commText": "<p> Ashwin to Ayush Badoni, 2 runs, pushed through on a length, swept towards deep mid-wicket. The longer boundaries enable the second </p>",
+    "overs": 16.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 5,
+      "ballsPlayed": 4,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 1,
+      "bowlWides": 6,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231646319,
+    "commText": "<p> Ashwin to Ayush Badoni, <b>5 wides</b>, sprays it down the leg side and Samson can't gather that as well. Five wides to start the over </p>",
+    "overs": 16.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 3,
+      "ballsPlayed": 3,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 29,
+      "bowlWickets": 1,
+      "bowlWides": 6,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231643189,
+    "commText": "<p><b>Ravichandran Ashwin [3.0-0-24-1] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 3,
+      "ballsPlayed": 3,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231583639,
+    "commText": "<p> Sandeep Sharma to Ayush Badoni, 1 run, Badoni shuffles inwards and Sandeep pushes his delivery even wider outside off. Swept from way outside off towards square leg </p>",
+    "overs": 16,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 3,
+      "ballsPlayed": 3,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 2,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231545441,
+    "commText": "<p> Sandeep Sharma to Rahul, 1 run, good length outside off, Rahul gets an underedge on the cut. Into the pitch and towards backward point </p>",
+    "overs": 15.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 73,
+      "ballsPlayed": 45,
+      "dotBalls": 11,
+      "batFours": 8,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 2,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231509074,
+    "commText": "<p> Sandeep Sharma to Rahul, <b>wide</b>, good length outside off, a bit too wide </p>",
+    "overs": 15.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 72,
+      "ballsPlayed": 44,
+      "dotBalls": 11,
+      "batFours": 8,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 2,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231478054,
+    "commText": "<p> Sandeep Sharma to Ayush Badoni, 1 run, a tad fuller and angling onto the pads, clipped behind square for a single </p>",
+    "overs": 15.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 2,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231440325,
+    "commText": "<p> Sandeep Sharma to Rahul, 1 run, length ball outside off, was the cutter. Slashed square of the wicket for a single </p>",
+    "overs": 15.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 72,
+      "ballsPlayed": 44,
+      "dotBalls": 11,
+      "batFours": 8,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231395018,
+    "commText": "<p> Sandeep Sharma to Ayush Badoni, 1 run, full on the pads, clipped towards deep mid-wicket </p>",
+    "overs": 15.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 1,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231386488,
+    "commText": "<p><b>Ayush Badoni, right handed bat, comes to the crease</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13907,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231326463,
+    "commText": "<p> Sandeep Sharma to Pooran, <b>out</b> Caught by Boult!! short ball onto the body, Pooran takes it on with the pull shot but top-edges it slightly. Falls right into the welcoming hands of Trent Boult at deep backward square leg. That might have been a six at Eden or Chinnaswamy, but on the longer boundaries of Ekana it gets RR a wicket. <b>Pooran c Boult b Sandeep Sharma 11(11) [4s-1]</b> </p>",
+    "overs": 15.1,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 9406,
+      "batRuns": 11,
+      "ballsPlayed": 11,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231323358,
+    "commText": "<p> Sandeep Sharma to Pooran, <b>THATS OUT!!</b> Caught!! </p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9406,
+      "batRuns": 11,
+      "ballsPlayed": 10,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231303861,
+    "commText": "<p><b>Sandeep Sharma [2.0-0-13-1] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9406,
+      "batRuns": 11,
+      "ballsPlayed": 10,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231116536,
+    "commText": "<p><b>Time-Out.</b> LSG have done really well after losing two in two overs. And once again it was the skipper Rahul doing a rebuild job. He's looking well set for a really big score, and Pooran too packs a punch in the death overs. Another 200+ score loading?</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231113547,
+    "commText": "<p><b>Over Summary (11-15):</b> \\n-- Boult goes for 18 in his third over \\n-- Chahal continues to be expensive and concedes 14 in his third over \\n-- Hooda scores a 30-ball fifty \\n-- Ashwin removes the dangerous Hooda \\n-- Pooran has started off on a sedate note</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714231113536,
+    "commText": "<p> Avesh Khan to Rahul, <b>FOUR</b>, short pitched on off, Rahul into the ground in front of square. Goes in the geometric centre between deep mid-wicket and long-on for four!! </p>",
+    "overs": 15,
+    "events": [
+      "OVER_BREAK",
+      "TEAM_HUNDRED",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 71,
+      "ballsPlayed": 43,
+      "dotBalls": 11,
+      "batFours": 8,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 36,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714231078155,
+    "commText": "<p> Avesh Khan to Pooran, 1 run, another low, wide full toss. Slammed out to long-off </p>",
+    "overs": 14.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9406,
+      "batRuns": 11,
+      "ballsPlayed": 10,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714231038851,
+    "commText": "<p> Avesh Khan to Rahul, 1 run, low full toss on off, Rahul drills his drive towards deep point </p>",
+    "overs": 14.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 67,
+      "ballsPlayed": 42,
+      "dotBalls": 11,
+      "batFours": 7,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714230992794,
+    "commText": "<p> Avesh Khan to Rahul, <b>wide</b>, slower bouncer, goes over the head and umpire calls it wide </p>",
+    "overs": 14.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 66,
+      "ballsPlayed": 41,
+      "dotBalls": 11,
+      "batFours": 7,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 30,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714230957545,
+    "commText": "<p> Avesh Khan to Pooran, 1 run, wide yorker from Avesh, Pooran opens the bat face to stab it down to deep backward point </p>",
+    "overs": 14.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9406,
+      "batRuns": 10,
+      "ballsPlayed": 9,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 29,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714230885725,
+    "commText": "<p> Avesh Khan to Pooran, no run, hard length delivery onto the stumps, was pace off. Pooran early on the pull and can't connect </p>",
+    "overs": 14.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9406,
+      "batRuns": 9,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714230843124,
+    "commText": "<p> Avesh Khan to Rahul, 1 run, length ball that angles in sharply and gets a bit of extra bounce. Rahul gets leg side to squeeze it towards the point region </p>",
+    "overs": 14.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 66,
+      "ballsPlayed": 41,
+      "dotBalls": 11,
+      "batFours": 7,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714230823503,
+    "commText": "<p><b>Avesh Khan [2.0-0-27-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 65,
+      "ballsPlayed": 40,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230756205,
+    "commText": "<p>Chahal to Rahul, 1 run, slow length ball outside off. Tempts Rahul to play a big shot but the LSG skipper cuts it along the ground towards deep extra. <b>First time Yuzvendra Chahal has gone wicketless this IPL</b></p>",
+    "overs": 14,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 65,
+      "ballsPlayed": 40,
+      "dotBalls": 11,
+      "batFours": 7,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 41,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230713574,
+    "commText": "<p> Chahal to Pooran, 1 run, on a length on off stump, punched down to long-off </p>",
+    "overs": 13.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9406,
+      "batRuns": 9,
+      "ballsPlayed": 7,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 40,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230679582,
+    "commText": "<p> Chahal to Pooran, 2 runs, quicker and on the pads, Pooran connects late on the sweep to get it to the right of short fine for a couple of runs </p>",
+    "overs": 13.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9406,
+      "batRuns": 8,
+      "ballsPlayed": 6,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 39,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230651646,
+    "commText": "<p> Chahal to Pooran, no run, another googly, ends a bit outside off. Pushed to extra cover </p>",
+    "overs": 13.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9406,
+      "batRuns": 6,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 37,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230617938,
+    "commText": "<p> Chahal to Rahul, 1 run, tossed up nicely at the stumps, Rahul strides forward on the drive to long-off </p>",
+    "overs": 13.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 64,
+      "ballsPlayed": 39,
+      "dotBalls": 11,
+      "batFours": 7,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 37,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230573623,
+    "commText": "<p> Chahal to Pooran, 1 run, starts with a quicker googly, pushed down to long-off </p>",
+    "overs": 13.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9406,
+      "batRuns": 6,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 36,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230497349,
+    "commText": "<p><b>Highest partnerships for LSG (any wicket)</b> \\n210* - Quinton de Kock & KL Rahul vs KKR, Mumbai DYP, 2022 \\n134 - Quinton de Kock & KL Rahul vs CSK, Lucknow, 2024 \\n115 - KL Rahul & Deepak Hooda vs RR, Lucknow, 2024 \\n99 - Quinton de Kock & KL Rahul vs CSK, Brabourne, 2022 \\n96 - KL Rahul & Deepak Hooda vs RCB, Kolkata, 2022 \\n95 - KL Rahul & Deepak Hooda vs DC, Mumbai WS, 2022</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230497339,
+    "commText": "<p> Ashwin to Rahul, 2 runs, tossed up on middle and leg, Rahul plays late and nudges it with soft hands towards mid-wicket, comes back for the second </p>",
+    "overs": 13,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 63,
+      "ballsPlayed": 38,
+      "dotBalls": 11,
+      "batFours": 7,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230455912,
+    "commText": "<p> Ashwin to Pooran, 1 run, slower and wider of off, driven in front of square on the off-side for a single </p>",
+    "overs": 12.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9406,
+      "batRuns": 5,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230424370,
+    "commText": "<p> Ashwin to Pooran, <b>FOUR</b>, flatter and wider of off, Pooran backed away on the cut, gets a big top-edge and the ball runs away backward of square on the off-side for a boundary </p>",
+    "overs": 12.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9406,
+      "batRuns": 4,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230394217,
+    "commText": "<p> Ashwin to Rahul, 1 run, Ashwin tosses one just outside off, driven to deep cover for a single </p>",
+    "overs": 12.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 61,
+      "ballsPlayed": 37,
+      "dotBalls": 11,
+      "batFours": 7,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230360452,
+    "commText": "<p> Ashwin to Pooran, leg byes, 1 run, tossed up and drifting onto the pads, past Pooran's nudge and rolled behind square, off the pad </p>",
+    "overs": 12.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9406,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230286528,
+    "commText": "<p><b>Nicholas Pooran, left handed bat, comes to the crease</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9406,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230232518,
+    "commText": "<p>A slip in place, Ashwin, from round the wicket</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230229518,
+    "commText": "<p> Ashwin to Hooda, <b>out</b> Caught by Powell!! Hooda has holed out to long-on - a fine running catch and this is a well deserved wicket for Ashwin. - was the carrom ball, he saw Hooda coming down the pitch and dragged the length back, Hooda was beaten in the flight, but he still went through with the lofted shovel got too far underneath the delivery - plenty of height and no real elevation, Powell ran to his right from long-on and clung to the chance, ending the century stand for the 3rd wicket. <b>Hooda c Powell b Ashwin 50(31) [4s-7]</b> </p>",
+    "overs": 12.1,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 50,
+      "ballsPlayed": 31,
+      "dotBalls": 7,
+      "batFours": 7,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230228484,
+    "commText": "<p> Ashwin to Hooda, <b>THATS OUT!!</b> Caught!! </p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 50,
+      "ballsPlayed": 30,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230220236,
+    "commText": "<p><b>Ravichandran Ashwin [2.0-0-16-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 50,
+      "ballsPlayed": 30,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230156013,
+    "commText": "<p> Chahal to Rahul, <b>FOUR</b>, <b>drilled</b>, loopy delivery from Chahal, but it's too full and it's into Rahul's slot - he clears his left leg and then drills it back past the bowler, beats long-off to his right </p>",
+    "overs": 12,
+    "events": [
+      "OVER_BREAK",
+      "FOUR",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 60,
+      "ballsPlayed": 36,
+      "dotBalls": 11,
+      "batFours": 7,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 35,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230140424,
+    "commText": "<p> Chahal to Rahul, <b>wide</b>, pushed through flatter and wider, but this is past the tramline and is called as a wide </p>",
+    "overs": 12,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 56,
+      "ballsPlayed": 35,
+      "dotBalls": 11,
+      "batFours": 6,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230087531,
+    "commText": "<p><b>STAT:</b> Hooda's last IPL fifty also came against RR - 59 off 39 at the Brabourne stadium in 2022 - 17 innings ago.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230087521,
+    "commText": "<p> Chahal to Hooda, 1 run, a 30-ball half-century from Hooda, nicely flighted wide of off and he reached out on the drive past point, gets a good hand from the dug-out </p>",
+    "overs": 11.5,
+    "events": [
+      "FIFTY"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 50,
+      "ballsPlayed": 30,
+      "dotBalls": 6,
+      "batFours": 7,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 30,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230054219,
+    "commText": "<p> Chahal to Rahul, 1 run, tossed up from Chahal, driven down to long-on for a single </p>",
+    "overs": 11.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 56,
+      "ballsPlayed": 35,
+      "dotBalls": 11,
+      "batFours": 6,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 29,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714230019551,
+    "commText": "<p> Chahal to Rahul, 2 runs, slower and wider of off, Rahul lets the ball come and then swats it square on the off-side, comes back for the second run </p>",
+    "overs": 11.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 55,
+      "ballsPlayed": 34,
+      "dotBalls": 11,
+      "batFours": 6,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229980114,
+    "commText": "<p> Chahal to Hooda, 1 run, low full-toss from Chahal, driven down to long-on for a single </p>",
+    "overs": 11.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 49,
+      "ballsPlayed": 29,
+      "dotBalls": 6,
+      "batFours": 7,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 26,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229945514,
+    "commText": "<p> Chahal to Hooda, <b>FOUR</b>, <b>beautifully played</b>, he's batting on a different pitch tonight, Chahal tosses one slower and wider of off - Hooda reaches out and then scythes the cut past point, beating the diving effort from the fielder in the deep </p>",
+    "overs": 11.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 48,
+      "ballsPlayed": 28,
+      "dotBalls": 6,
+      "batFours": 7,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229850611,
+    "commText": "<p> Boult to Hooda, 1 run, <b>18 off the over</b>, on a good length and just outside off, driven down to long-off for a single </p>",
+    "overs": 11,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 44,
+      "ballsPlayed": 27,
+      "dotBalls": 6,
+      "batFours": 6,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 35,
+      "bowlWickets": 1,
+      "bowlWides": 5,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229808954,
+    "commText": "<p> Boult to Hooda, <b>FOUR</b>, this is exceptional batting from Hooda - back of a length and just outside off , he stays besides the line, uses Boult's pace and then runs it behind square on the off-side, beats the fielder in the deep </p>",
+    "overs": 10.5,
+    "events": [
+      "FOUR",
+      "PARTNERSHIP"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 43,
+      "ballsPlayed": 26,
+      "dotBalls": 6,
+      "batFours": 6,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 34,
+      "bowlWickets": 1,
+      "bowlWides": 5,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229763651,
+    "commText": "<p> Boult to Hooda, <b>FOUR</b>, <b>lovely</b>, on a good length and just outside off - Hooda leans forward, presents the full face of the bat and then beats cover with a sublime drive </p>",
+    "overs": 10.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 39,
+      "ballsPlayed": 25,
+      "dotBalls": 6,
+      "batFours": 5,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 30,
+      "bowlWickets": 1,
+      "bowlWides": 5,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229726390,
+    "commText": "<p> Boult to Hooda, 2 runs, back of a length and just outside off, punched into the gap wide of cover and Hooda comes back for the second run </p>",
+    "overs": 10.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 35,
+      "ballsPlayed": 24,
+      "dotBalls": 6,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 26,
+      "bowlWickets": 1,
+      "bowlWides": 5,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229704663,
+    "commText": "<p> Boult to Hooda, <b>5 wides</b>, the bouncer from Boult, but it's too short and sails over Hooda's head, bounces high and beats Samson as well, running away for 5 wides </p>",
+    "overs": 10.3,
+    "events": [
+      "TEAM_HUNDRED"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 33,
+      "ballsPlayed": 23,
+      "dotBalls": 6,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 5,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229662479,
+    "commText": "<p> Boult to Rahul, 1 run, on a good length and just outside off, steered square on the off-side for a single </p>",
+    "overs": 10.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 53,
+      "ballsPlayed": 33,
+      "dotBalls": 11,
+      "batFours": 6,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229534917,
+    "commText": "<p>Boult to Hooda, 1 run, back of a length and well wide of off, steered behind square on the off-side for a single</p>",
+    "overs": 10.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 32,
+      "ballsPlayed": 23,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229514519,
+    "commText": "<p>First ball will be a dead ball. On a good length and just outside off, Hooda comes down the track and chips it uppishly, the ball falling short of mid-off - but one bail had fallen off and it's called as a dead ball, so nothing counts</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229494121,
+    "commText": "<p><b>Trent Boult [2.0-0-17-1] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 32,
+      "ballsPlayed": 22,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229431461,
+    "commText": "<p><b>Over Summary (6-10):</b> \\n-- Sandeep goes for 10 in his second over \\n-- Chahal starts on a decent note \\n-- Rahul takes on Avesh and hits him for a couple of sixes and a four \\n-- Ashwin bowls a tight second over \\n-- Rahul gets to another fifty in the IPL</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229431451,
+    "commText": "<p> Chahal to Hooda, 1 run, Hooda comes down the wicket and then drills the drive to long-on for a single </p>",
+    "overs": 10,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 32,
+      "ballsPlayed": 22,
+      "dotBalls": 6,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229395860,
+    "commText": "<p> Chahal to Rahul, 1 run, flighted delivery on off, pushed in front of cover for a single </p>",
+    "overs": 9.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 52,
+      "ballsPlayed": 32,
+      "dotBalls": 11,
+      "batFours": 6,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229352135,
+    "commText": "<p>Chahal to Rahul, <b>FOUR</b>, <b>beautifully played</b>, a sublime half-century from Rahul - fraction short and he's all over it like a rash, swivels across and then thumps the pull wide of long-on, beats the fielder in the deep</p>",
+    "overs": 9.4,
+    "events": [
+      "FIFTY",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 51,
+      "ballsPlayed": 31,
+      "dotBalls": 11,
+      "batFours": 6,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229308205,
+    "commText": "<p> Chahal to Hooda, 1 run, Chahal tosses one just outside off, punched past cover for a single </p>",
+    "overs": 9.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 31,
+      "ballsPlayed": 21,
+      "dotBalls": 6,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229268449,
+    "commText": "<p> Chahal to Hooda, 2 runs, tossed up on middle and leg, Hooda reads the length early and gets down into the sweep, places it behind square on the on-side and it needed a good effort from the fielder to prevent a boundary </p>",
+    "overs": 9.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 30,
+      "ballsPlayed": 20,
+      "dotBalls": 6,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229235815,
+    "commText": "<p> Chahal to Hooda, <b>FOUR</b>, <b>cracking shot</b>, tossed up on off, Hooda stays leg-sided, brings his wrists into play and then plays a powerful inside out drive, over cover for a boundary </p>",
+    "overs": 9.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 28,
+      "ballsPlayed": 19,
+      "dotBalls": 6,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229223707,
+    "commText": "<p><b>Yuzvendra Chahal [1.0-0-8-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 24,
+      "ballsPlayed": 18,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229156097,
+    "commText": "<p> Ashwin to Hooda, 1 run, flighted delivery on off, Hooda comes down the wicket and works it down to long-on </p>",
+    "overs": 9,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 24,
+      "ballsPlayed": 18,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229137021,
+    "commText": "<p> Ashwin to Rahul, 1 run, tossed up on off, pushed off the back-foot towards cover for a single </p>",
+    "overs": 8.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 47,
+      "ballsPlayed": 30,
+      "dotBalls": 11,
+      "batFours": 5,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229118929,
+    "commText": "<p> Ashwin to Rahul, <b>wide</b>, Ashwin bowls one from well behind the umpire, but he slides it down leg and is called as a wide </p>",
+    "overs": 8.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 46,
+      "ballsPlayed": 29,
+      "dotBalls": 11,
+      "batFours": 5,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229086159,
+    "commText": "<p> Ashwin to Hooda, 1 run, tossed up on middle and leg, worked down to long-on for a single </p>",
+    "overs": 8.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 23,
+      "ballsPlayed": 17,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229067095,
+    "commText": "<p> Ashwin to Hooda, no run, nicely tossed up by Ashwin, Hooda drives it uppishly, but the ball drops well in front of the bowler </p>",
+    "overs": 8.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 22,
+      "ballsPlayed": 16,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229046813,
+    "commText": "<p> Ashwin to Rahul, 1 run, dropped short and wide of off, chopped behind square on the off-side for a single </p>",
+    "overs": 8.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 46,
+      "ballsPlayed": 29,
+      "dotBalls": 11,
+      "batFours": 5,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714229001577,
+    "commText": "<p> Ashwin to Hooda, 1 run, flatter from Ashwin, punched down to long-on for a single </p>",
+    "overs": 8.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 22,
+      "ballsPlayed": 15,
+      "dotBalls": 5,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 11,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228978409,
+    "commText": "<p><b>Ravichandran Ashwin [1.0-0-10-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 21,
+      "ballsPlayed": 14,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228790305,
+    "commText": "<p><b>STAT:</b> Of the 169 batters who have opened at least twice in the IPL, Rahul\u2019s average (50.125 currently) is the highest.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228790295,
+    "commText": "<p><b>4,000-plus IPL runs as an opener </b> \\n6362 - Shikhar Dhawan \\n5909 - David Warner \\n4480 - Chris Gayle \\n4041 - Virat Kohli \\n4010 - KL Rahul</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228790285,
+    "commText": "<p>They've taken the <b>strategic break</b> after that expensive 8th over from Avesh. RR started well, but Rahul was composaed, took his time and he's opening up now. Can he get his team to a good score?</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228787285,
+    "commText": "<p>Avesh Khan to Rahul, 2 runs, on a good length and at the stumps, nudged in front of square on the on-side and Rahul is back for another brace. <b>21 off the over</b>, very very expensive from Avesh</p>",
+    "overs": 8,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 45,
+      "ballsPlayed": 28,
+      "dotBalls": 11,
+      "batFours": 5,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714228741801,
+    "commText": "<p> Avesh Khan to Rahul, <b>FOUR</b>, this is an expensive over from Avesh - was searching for the yorker, but Rahul manages to get his bat down and then drags the heave over mid-wicket, two men in the deep, but the ball splits them with ease </p>",
+    "overs": 7.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 43,
+      "ballsPlayed": 27,
+      "dotBalls": 11,
+      "batFours": 5,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714228690015,
+    "commText": "<p> Avesh Khan to Rahul, <b>no ball</b>, <b>SIX</b>, Rahul thinks it's a no-ball and it's indeed called by the square leg umpire - high full-toss down leg, all that Rahul had to do was to get some bat on the flick, he does so and sends the ball soaring over long leg, he'll get to face the free-hit as well </p>",
+    "overs": 7.5,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 39,
+      "ballsPlayed": 26,
+      "dotBalls": 11,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714228637367,
+    "commText": "<p> Avesh Khan to Rahul, 2 runs, on a length and angling back into the right-hander, tucked in front of square on the on-side for a couple </p>",
+    "overs": 7.4,
+    "events": [
+      "PARTNERSHIP"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 33,
+      "ballsPlayed": 25,
+      "dotBalls": 11,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228596345,
+    "commText": "<p> Avesh Khan to Rahul, no run, good comeback from Avesh - pounds the ball on a length outside off, gets some extra bounce and beats Rahul on the dab </p>",
+    "overs": 7.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 31,
+      "ballsPlayed": 24,
+      "dotBalls": 11,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228552301,
+    "commText": "<p> Avesh Khan to Rahul, <b>SIX</b>, <b>cracking shot</b>, that's a majestic hit from Rahul - on a good length and angling back into the right-hander, Rahul picks the length early, brings the bottom-hand into play and wrists the flick, high and into the stands at mid-wicket </p>",
+    "overs": 7.2,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 31,
+      "ballsPlayed": 23,
+      "dotBalls": 10,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228515638,
+    "commText": "<p> Avesh Khan to Rahul, no run, on a good length and just outside off, Rahul looks to drive and the ball rolls to the off-side, off the inner half of the bat </p>",
+    "overs": 7.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 25,
+      "ballsPlayed": 22,
+      "dotBalls": 10,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228498644,
+    "commText": "<p><b>Avesh Khan [1.0-0-6-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 25,
+      "ballsPlayed": 21,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228438292,
+    "commText": "<p> Chahal to Hooda, no run, loopy delivery on off, driven straight to the fielder at cover </p>",
+    "overs": 7,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 21,
+      "ballsPlayed": 14,
+      "dotBalls": 5,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228412318,
+    "commText": "<p> Chahal to Hooda, 2 runs, tossed up and drifting into the right-hander, Hooda leans across, plays with soft hands and burdles it towards mid-wicket, comes back for the second run </p>",
+    "overs": 6.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 21,
+      "ballsPlayed": 13,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228383072,
+    "commText": "<p> Chahal to Rahul, 1 run, Chahal drags the length back on off, punched in front of square on the off-side for a single </p>",
+    "overs": 6.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 25,
+      "ballsPlayed": 21,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228331659,
+    "commText": "<p> Chahal to Rahul, <b>FOUR</b>, <b>exquisite from Rahul</b>, bent down low, rolled his wrists and then swept it off the stumps - places it backward of square on the on-side and it beats the valiant dive from Boult </p>",
+    "overs": 6.3,
+    "events": [
+      "TEAM_FIFTY",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 24,
+      "ballsPlayed": 20,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228296017,
+    "commText": "<p> Chahal to Hooda, 1 run, nicely tossed up on off, punched down to long-off for a single </p>",
+    "overs": 6.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 19,
+      "ballsPlayed": 12,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228277821,
+    "commText": "<p> Chahal to Hooda, no run, flighted delivery on off, pushed back at the bowler </p>",
+    "overs": 6.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 18,
+      "ballsPlayed": 11,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228265982,
+    "commText": "<p><b>Yuzvendra Chahal, right-arm leg break, comes into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 18,
+      "ballsPlayed": 10,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228185679,
+    "commText": "<p>Time for Chahal</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228182679,
+    "commText": "<p> Sandeep Sharma to Rahul, <b>FOUR</b>, <b>gorgeous</b>, he looks so good when he plays normal cricketing shots - a half-volley from Sandeep, Rahul leans forward, head on top of the ball and then crunches the drive through extra-cover, not one fielder moved </p>",
+    "overs": 6,
+    "events": [
+      "OVER_BREAK",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 20,
+      "ballsPlayed": 19,
+      "dotBalls": 9,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228142313,
+    "commText": "<p> Sandeep Sharma to Hooda, 1 run, another full-toss from Sandeep, driven down to long-on for a single </p>",
+    "overs": 5.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 18,
+      "ballsPlayed": 10,
+      "dotBalls": 3,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228101598,
+    "commText": "<p> Sandeep Sharma to Hooda, <b>FOUR</b>, <b>beautifully played,</b> gentle full-toss from Sandeep, Hooda brings his wrists into play on the on-drive and clears mid-wicket, bounces away to the ropes </p>",
+    "overs": 5.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 17,
+      "ballsPlayed": 9,
+      "dotBalls": 3,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228055126,
+    "commText": "<p> Sandeep Sharma to Rahul, 1 run, change of pace from Sandeep, slower ball at the stumps, pushed in front of mid-on for a single </p>",
+    "overs": 5.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 16,
+      "ballsPlayed": 18,
+      "dotBalls": 9,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228016171,
+    "commText": "<p> Sandeep Sharma to Rahul, no run, on a good length and at the stumps, driven straight to the fielder at mid-on </p>",
+    "overs": 5.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 15,
+      "ballsPlayed": 17,
+      "dotBalls": 9,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227983030,
+    "commText": "<p> Sandeep Sharma to Rahul, no run, that was so close, <b>Rahul would've loooked silly had he been bowled here</b> -shuffled right across on the slog-sweep, Sandeep kept it full and just outside off, past Rahul's left leg and missed the off-stump by a whisker </p>",
+    "overs": 5.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 15,
+      "ballsPlayed": 16,
+      "dotBalls": 8,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227980980,
+    "commText": "<p><b>Sandeep Sharma [1.0-0-3-1] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 15,
+      "ballsPlayed": 15,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227896396,
+    "commText": "<p><b>Over Summary (1-5):</b> \\n-- Boult preys upon QDK who falls for 8 \\n-- Sandeep strikes big, removes Stoinis for a duck \\n-- Rahul and Hooda start on a sedate note \\n-- Avesh bowls a tight first over \\n-- Ashwin goes for 10 in his first over</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227896385,
+    "commText": "<p> Ashwin to Hooda, <b>FOUR</b>, <b>edged and four</b>, dropped short once again, Hooda backed away and went hard on the cut, gets a thick top-edge that flies through the vacant slip region </p>",
+    "overs": 5,
+    "events": [
+      "OVER_BREAK",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 13,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227876103,
+    "commText": "<p> Ashwin to Rahul, 1 run, Ashwin drags the length back on off, punched to the left of mid-off for a single </p>",
+    "overs": 4.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 15,
+      "ballsPlayed": 15,
+      "dotBalls": 7,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227839879,
+    "commText": "<p>Ashwin to Rahul, <b>FOUR</b>, Rahul loses his balance, <b>he's on the floor</b> as he swept, but he gets enough bat to clear backward square leg, one bounce and over the ropes - Ashwin tried to fire it in as he saw Rahul shuffle across, offered a full-toss and a slipping Rahul was still good to put it away</p>",
+    "overs": 4.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 14,
+      "ballsPlayed": 14,
+      "dotBalls": 7,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227813702,
+    "commText": "<p> Ashwin to Rahul, no run, Ashwin drags the length back as Rahul pre-empted the charge, slapped straight to the fielder at cover </p>",
+    "overs": 4.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 10,
+      "ballsPlayed": 13,
+      "dotBalls": 7,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227789151,
+    "commText": "<p> Ashwin to Rahul, no run, a leading edge, and the ball bounces short of backward point - Rahul was looking to work it onto the on-side and closed the bat-face early </p>",
+    "overs": 4.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 10,
+      "ballsPlayed": 12,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227742214,
+    "commText": "<p> Ashwin to Hooda, 1 run, tossed up on middle, worked down to long-on for a single </p>",
+    "overs": 4.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 9,
+      "ballsPlayed": 7,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227736181,
+    "commText": "<p><b>Ravichandran Ashwin, right-arm off break, comes into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 8,
+      "ballsPlayed": 6,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227670617,
+    "commText": "<p> Avesh Khan to Rahul, no run, loose from Rahul, short of a good length and holding its line outside off - too close to cut, Rahul wafts and is beaten on the inside edge </p>",
+    "overs": 4,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 10,
+      "ballsPlayed": 11,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227629507,
+    "commText": "<p> Avesh Khan to Hooda, 3 runs, nicely played, short of a good length and just outside off - Hooda rides the bounce and then punches it into the gap wide of cover, long chase for the fielder and he's back for the third </p>",
+    "overs": 3.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 8,
+      "ballsPlayed": 6,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227585535,
+    "commText": "<p> Avesh Khan to Rahul, 1 run, on a good length and just outside off, Rahul leans into the drive, plays witha n open face and can't beat cover-point to his right </p>",
+    "overs": 3.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 10,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227539362,
+    "commText": "<p> Avesh Khan to Hooda, 1 run, Avesh shortens the length on off, Hooda pushes forward and skews a thick inside edge, to the left of mid-on for a single </p>",
+    "overs": 3.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 5,
+      "ballsPlayed": 5,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227501849,
+    "commText": "<p> Avesh Khan to Hooda, no run, back of a length and well wide of off, Hooda went hard on the cut and mistimed it to backward point </p>",
+    "overs": 3.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 4,
+      "ballsPlayed": 4,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227458767,
+    "commText": "<p> Avesh Khan to Rahul, 1 run, short of a good length and just outside off, Rahul plays late and runs it backward of square on the off-side for a single </p>",
+    "overs": 3.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 9,
+      "ballsPlayed": 9,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227445173,
+    "commText": "<p><b>Avesh Khan, right-arm fast medium, comes into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 8,
+      "ballsPlayed": 8,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227384787,
+    "commText": "<p><b>Trent Boult in the first over in IPL 2024</b> \\nOvers: 9 \\nRuns conceded: 40 \\nWickets: 5 \\nER: 4.44 \\nDots: 36</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227384777,
+    "commText": "<p> Boult to Hooda, no run, <b>nicely bowled</b>, the awayswinger now, nips in and then shapes away - Hooda was playing for the inswinger, gets opened up by the angle and is beaten on the outside edge. Samson doesn't collect it properly, but the ball rolls to slip </p>",
+    "overs": 3,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 4,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227352764,
+    "commText": "<p> Boult to Hooda, no run, fuller length delivery on off, Hooda prods forward and pushes it to mid-off </p>",
+    "overs": 2.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 4,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227315315,
+    "commText": "<p> Boult to Hooda, <b>FOUR</b>, <b>crisp</b>, length ball angling across the right-hander, Hooda leans across, plays late and plays it on the rise, finds the gap wide of cover with a free-flowing drive and beats Avesh's chase </p>",
+    "overs": 2.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9427,
+      "batRuns": 4,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227266611,
+    "commText": "<p>One slip in place</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227263611,
+    "commText": "<p> Boult to Rahul, 1 run, tad fuller and on off, dropped in front of mid-off for a quick single </p>",
+    "overs": 2.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 8,
+      "ballsPlayed": 8,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227232090,
+    "commText": "<p> Boult to Rahul, no run, on a good length and just outside off, pushed to the off-side </p>",
+    "overs": 2.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 7,
+      "ballsPlayed": 7,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227196075,
+    "commText": "<p> Boult to Rahul, <b>FOUR</b>, <b>lovely</b>, the big inswinger from Boult, hoops back into the right-hander - Rahul has the swing covered, closes the face of the bat and then plays the on-drive, beating Chahal's dive at mid-on </p>",
+    "overs": 2.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 7,
+      "ballsPlayed": 6,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227175937,
+    "commText": "<p><b>Deepak Hooda, right handed bat, comes to the crease</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 3,
+      "ballsPlayed": 5,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227083774,
+    "commText": "<p>Sandeep Sharma to Stoinis, <b>out</b> Bowled!! Cleaned up! The centurion of the last game has been dismissed for a duck - this is a lovely nut from Sandeep, the wobble seam delivery, pitched up and swung back into the right-hander, Stoinis was lured into the expansive drive, massive gap between bat and ball, the ball crashes through the gate and sends the middle-stump on the floor. LSG in early trouble at the Ekana. <b> Stoinis b Sandeep Sharma 0(4)</b></p>",
+    "overs": 2,
+    "events": [
+      "OVER_BREAK",
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 8989,
+      "batRuns": 0,
+      "ballsPlayed": 4,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227080694,
+    "commText": "<p> Sandeep Sharma to Stoinis, <b>THATS OUT!!</b> Bowled!! </p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714227036013,
+    "commText": "<p> Sandeep Sharma to Rahul, 1 run, nicely played, fuller length delivery at the stumps, Rahul presents the full-face of the bat as he drove back past the non-strierl but Sandeep has a fielder at long-on and it's only a single </p>",
+    "overs": 1.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 3,
+      "ballsPlayed": 5,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226993897,
+    "commText": "<p> Sandeep Sharma to Rahul, no run, tad fuller and wider of off, Rahul drives crisply and finds the fielder at cover-point </p>",
+    "overs": 1.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 2,
+      "ballsPlayed": 4,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226946062,
+    "commText": "<p><b>Quinton de Kock vs Trent Boult in T20s</b> \\nRuns: 41 \\nBalls: 30 \\nDismissals: 4 \\nAvg: 10.25 \\nSR: 136.66 \\n \\n<b>Quinton de Kock vs LA Fast in IPL 2024</b> \\nRuns: 84 \\nBalls: 67 \\nDismissals: 6 \\nAvg: 14 \\nSR: 125.37</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226946052,
+    "commText": "<p> Sandeep Sharma to Rahul, no run, on a good length and at the stumps, a half-stride forward as Rahul defended </p>",
+    "overs": 1.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 2,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226910545,
+    "commText": "<p> Sandeep Sharma to Rahul, 2 runs, fuller length delivery on the pads, Rahul leans across and then tucks it backward of square on the on-side, comes back for the second run </p>",
+    "overs": 1.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 2,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226867080,
+    "commText": "<p> Sandeep Sharma to Rahul, no run, the inswinger to start, Rahul leans well forward and pushes it to mid-off </p>",
+    "overs": 1.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226810126,
+    "commText": "<p><b>Sandeep Sharma, right-arm fast medium, comes into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8733,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226774512,
+    "commText": "<p>Sandeep Sharma to share the new ball</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226771512,
+    "commText": "<p> Boult to Stoinis, no run, on a good length and on the pads, turned to the on-side </p>",
+    "overs": 1,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 8989,
+      "batRuns": 0,
+      "ballsPlayed": 3,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226744953,
+    "commText": "<p> Boult to Stoinis, no run, short of a good length and around the middle-stump line, defended to the on-side </p>",
+    "overs": 0.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8989,
+      "batRuns": 0,
+      "ballsPlayed": 2,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226723865,
+    "commText": "<p>Boult to Stoinis, no run, loud shout for LBW, but umpire Michael Gough says NO and the <b>Royals don't review</b>, was it sliidng down leg? Nipped back and burst past Stoinis's inside edge on the tuck, struck in front of leg as he fell over and the ball would've swung down leg</p>",
+    "overs": 0.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8989,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226641453,
+    "commText": "<p><b>Marcus Stoinis, right handed bat, comes to the crease</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8989,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226587068,
+    "commText": "<p>Boult to de Kock, <b>out</b> Bowled!! Boult has this happy knack of getting wickets in the 1st over and he strikes once again - short of a good length and a hint of seam around off, de Kock was looking to work it with the angle through the on-side, but the ball straightens, beats him on the angle and then crashes into the off-stump. The zing bails light up and the Super Giants have lost de Kock early. <b>de Kock b Boult 8(3) [4s-2]</b></p>",
+    "overs": 0.3,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 8520,
+      "batRuns": 8,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226583514,
+    "commText": "<p> Boult to de Kock, <b>THATS OUT!!</b> Bowled!! </p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8520,
+      "batRuns": 8,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226544136,
+    "commText": "<p> Boult to de Kock, <b>FOUR</b>, back-to-back boundaries for de Kock - a genuine half-volley on the pads as Boult went for the inswinger, onto the pads and it's expertly flicked through mid-wicket for a boundary </p>",
+    "overs": 0.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8520,
+      "batRuns": 8,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226514816,
+    "commText": "<p> Boult to de Kock, <b>FOUR</b>, edged and four, hint of awayswing from Boult - drags de Kock into the drive and finds the edge, two slips in place, but this flies ov er the vacant third slip region, runs away to the ropes </p>",
+    "overs": 0.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8520,
+      "batRuns": 4,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714226508900,
+    "commText": "<p><b>de Kock and Rahul are at the crease. de Kock is on strike. Boult will open the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

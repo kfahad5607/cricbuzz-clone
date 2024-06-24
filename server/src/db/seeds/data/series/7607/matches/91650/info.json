@@ -1,0 +1,48 @@
+{
+  "id": "91650",
+  "description": "59th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 59,
+  "homeTeam": 971,
+  "awayTeam": 58,
+  "series": 7607,
+  "venue": 50,
+  "startTime": 1715349600000,
+  "completeTime": 1715364054015,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 58
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 35
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 971,
+      "batTeamName": "GT",
+      "score": 231,
+      "wickets": 3,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 58,
+      "batTeamName": "CSK",
+      "score": 196,
+      "wickets": 8,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

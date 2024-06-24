@@ -1,0 +1,48 @@
+{
+  "id": "89703",
+  "description": "10th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 10,
+  "homeTeam": 59,
+  "awayTeam": 63,
+  "series": 7607,
+  "venue": 27,
+  "startTime": 1711720800000,
+  "completeTime": 1711732631219,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 63
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 7
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 59,
+      "batTeamName": "RCB",
+      "score": 182,
+      "wickets": 6,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 63,
+      "batTeamName": "KKR",
+      "score": 186,
+      "wickets": 3,
+      "overs": 16.5,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 101
+    }
+  ],
+  "state": "complete"
+}

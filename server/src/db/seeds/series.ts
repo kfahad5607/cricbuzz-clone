@@ -245,6 +245,7 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     console.log("Seeding match finished... ");
   } catch (err) {
     console.error("ERROR in seeding match ==> ", err);
+    if (err instanceof Error) throw new Error(err.message);
   }
 };
 
@@ -264,6 +265,7 @@ export const seedSeriesMatches = async (seriesId: number) => {
     }
   } catch (err) {
     console.error("ERROR in seedSeriesMatches ", err);
+    if (err instanceof Error) throw new Error(err.message);
   }
 };
 

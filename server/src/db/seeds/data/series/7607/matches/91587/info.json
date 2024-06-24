@@ -1,0 +1,48 @@
+{
+  "id": "91587",
+  "description": "50th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 50,
+  "homeTeam": 255,
+  "awayTeam": 64,
+  "series": 7607,
+  "venue": 80,
+  "startTime": 1714658400000,
+  "completeTime": 1714672472860,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 255
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 1
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 201,
+      "wickets": 3,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 64,
+      "batTeamName": "RR",
+      "score": 200,
+      "wickets": 7,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

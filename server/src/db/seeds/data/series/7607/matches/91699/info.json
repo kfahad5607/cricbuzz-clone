@@ -1,0 +1,48 @@
+{
+  "id": "91699",
+  "description": "67th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 67,
+  "homeTeam": 62,
+  "awayTeam": 966,
+  "series": 7607,
+  "venue": 81,
+  "startTime": 1715954400000,
+  "completeTime": 1715971634565,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 62
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 18
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 966,
+      "batTeamName": "LSG",
+      "score": 214,
+      "wickets": 6,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 62,
+      "batTeamName": "MI",
+      "score": 196,
+      "wickets": 6,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

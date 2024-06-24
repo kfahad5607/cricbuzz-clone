@@ -1,0 +1,48 @@
+{
+  "id": "91641",
+  "description": "57th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 57,
+  "homeTeam": 255,
+  "awayTeam": 966,
+  "series": 7607,
+  "venue": 80,
+  "startTime": 1715176800000,
+  "completeTime": 1715186712397,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 966
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 10
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 966,
+      "batTeamName": "LSG",
+      "score": 165,
+      "wickets": 4,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 167,
+      "wickets": 0,
+      "overs": 9.4,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 58
+    }
+  ],
+  "state": "complete"
+}

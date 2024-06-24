@@ -1,0 +1,4306 @@
+[
+  {
+    "timestamp": 1711642093326,
+    "commText": "<p>Welcome back. The players are back. Boult to start. Can he get a wicket again in his first over? <b>RR Impact player - Hetmyer out and Burger in.</b> A wide slip in.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711641588114,
+    "commText": "<p><b>Riyan Parag -</b> I have put in a lot of practice, I've practised against those kind of (bowling of Nortje). I had my options ready for both sides of the wicket - I was backing mys strengths, I know I had the power, it's good when it comes off. Sanju bhai told me to take it deep, I was confident that I could get a lot of runs. It wasn't easy for a new batter to come and score, you needed someone to stay until the end. It's been tough, I'm a bit emotional now, I have worked hard and seeing the fruits of it now.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711641241082,
+    "commText": "<p><b>Pace vs spin in RR innings</b> \\nSpin: 2/62 in 8 overs (ER 7.75) \\nPace: 3/123 in 12 overs (ER 10.25) \\n \\n<b>RR innings progression</b> \\nOvers 1-6: 31/2 (RR: 5.16) \\nOvers 7-10: 27/1 (RR: 6.75) \\nOvers 11-15: 50/1 (RR: 10.00) \\nOvers 16-20: 77/1 (RR: 15.40) \\n \\n<b>Riyan Parag vs DC in IPL</b> \\nBefore today: 75 runs in 7 inns \\nToday: 84* runs in 45 balls \\n \\n<b>Riyan Parag's innings progression</b> \\nFirst 26 balls - 26 runs (100 SR) \\nNext 19 balls - 58 runs (305 SR) \\n \\n<b>Riyan Parag's highest scores in IPL</b> \\n84*(45) vs DC, Jaipur, today \\n56*(31) vs RCB, Pune, 2022 \\n50(49) vs DC, Delhi, 2019</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711641241072,
+    "commText": "<p><b>21:24 Local Time, 15:54 GMT, 21:24 IST:</b> This is an excellent recovery from Rajasthan Royals. First 10 overs - 57/3. Next 10 overs - 128/2. Jaiswal, Buttler and Samson all struggled against the new ball and fell cheaply.\u00a0Ashwin was promoted to number 5 and he did a fine job. He steadied the innings and struck a few sixes to provide the impetus, also took pressure off Parag. Jurel also did the same. But this essay was all about Parag repaying the years of investment Rajasthan have made in him. He walked in with his team in a spot of bother, took his time and allowed his partners to play the aggressor but once set, he unleashed and Nortje had to face the wrath of the man. This is a competitive total which seemed improbable at one stage. All the momentum is with the home side. How will Delhi Capitals respond? Back soon to find out..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711641238072,
+    "commText": "<p> Nortje to Riyan Parag, 1 run, <b>25 off the final over.</b> This was also there and Parag will feel missed out. Half volley on the pads, Parag flicks it fine and picks out the fielder on the rope </p>",
+    "overs": 20,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 84,
+      "ballsPlayed": 45,
+      "dotBalls": 13,
+      "batFours": 7,
+      "batSixes": 6
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 48,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711641188852,
+    "commText": "<p> Nortje to Riyan Parag, <b>SIX</b>, 180 breached with a massive six. Nortje being taken to the cleaners. Even Hetmyer cannot believe it and has his bat on his head. Short and pounded into the wicket, Parag takes it on and nails the pull well beyond deep mid-wicket </p>",
+    "overs": 19.5,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 83,
+      "ballsPlayed": 44,
+      "dotBalls": 13,
+      "batFours": 7,
+      "batSixes": 6
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 47,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711641146123,
+    "commText": "<p> Nortje to Riyan Parag, <b>FOUR</b>, make that 4, 4, 6, 4. What an innings this is turning out to be. This was intentional. Full and close to yorker length, Parag opens the bat face and slices it between Pant and short </p>",
+    "overs": 19.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 77,
+      "ballsPlayed": 43,
+      "dotBalls": 13,
+      "batFours": 7,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 41,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711641090140,
+    "commText": "<p> Nortje to Riyan Parag, <b>SIX</b>, 4, 4, 6 - Parag enjoyed that. He points to Hetmyer as though suggesting he knew what was coming. Full pitcher outside off, Parag lofts through the line and sends it sailing over wide long-off </p>",
+    "overs": 19.3,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 73,
+      "ballsPlayed": 42,
+      "dotBalls": 13,
+      "batFours": 6,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 37,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711641054840,
+    "commText": "<p> Nortje to Riyan Parag, <b>FOUR</b>, back to back fours to start the final over. Slower short of length delivery, Parag gets on top of the bounce and nails the pull in front of square, bisecting deep mid-wicket and long-on </p>",
+    "overs": 19.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 67,
+      "ballsPlayed": 41,
+      "dotBalls": 13,
+      "batFours": 6,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711641018646,
+    "commText": "<p> Nortje to Riyan Parag, <b>FOUR</b>, unlucky for Nortje. He nails it into the blockhole, Parag toe-ends the squeeze and the ball runs away fine to third man </p>",
+    "overs": 19.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 63,
+      "ballsPlayed": 40,
+      "dotBalls": 13,
+      "batFours": 5,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640939468,
+    "commText": "<p> Mukesh Kumar to Hetmyer, 2 runs, full and outside off, Hetmyer reaches and slices it over backward point, races back for the second </p>",
+    "overs": 19,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 14,
+      "ballsPlayed": 7,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 49,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640888648,
+    "commText": "<p> Mukesh Kumar to Hetmyer, no run, <b>Delhi have lost both their reviews.</b> Full and outside off, Hetmyer throws his bat on the drive and does not connect, he brushes the ground in the process and that was the noise. Pant took a chance and lost a review </p>",
+    "overs": 18.5,
+    "events": [
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 12,
+      "ballsPlayed": 6,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 47,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640742834,
+    "commText": "<p><b>Delhi review!</b> Pant appeals for a caught behind. Mukesh does not go up. Pant checks with someone standing at short fine and decides to challenge the decision. Looks like bat brushed the ground. We are waiting for UltraEdge. Flat line as ball passes bat. Not Out..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640739834,
+    "commText": "<p>Goes round the wicket</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640736834,
+    "commText": "<p> Mukesh Kumar to Hetmyer, <b>FOUR</b>, this is good batting. Hetmyer walks down the wicket, converts the yorker into a low full toss and drills the drive in front of square through extra cover </p>",
+    "overs": 18.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 12,
+      "ballsPlayed": 5,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 47,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640672450,
+    "commText": "<p> Mukesh Kumar to Hetmyer, <b>SIX</b>, that's the problem with persisting only with yorkers. This turns into a juicy full toss and Hetmyer does not miss out, he crouches low and swings it over the deep square leg fence. The fans are not willing to return the ball easily.. </p>",
+    "overs": 18.3,
+    "events": [
+      "TEAM_HUNDRED",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 8,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 43,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640626875,
+    "commText": "<p> Mukesh Kumar to Riyan Parag, 1 run, another delivery right in the blockhole, Parag can only dig it out to mid-wicket </p>",
+    "overs": 18.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 59,
+      "ballsPlayed": 39,
+      "dotBalls": 13,
+      "batFours": 4,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 37,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640576669,
+    "commText": "<p> Mukesh Kumar to Hetmyer, 1 run, low full toss around off, Hetmyer toe-ends the flick to deep mid-wicket </p>",
+    "overs": 18.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 2,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 36,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640538249,
+    "commText": "<p> Mukesh Kumar to Hetmyer, <b>wide</b>, angled outside off, but cannot keep it inside the marker, Hetmyer lets it pass and collects the wide </p>",
+    "overs": 18.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 35,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640512990,
+    "commText": "<p><b>Mukesh Kumar [3.0-0-34-1] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640464142,
+    "commText": "<p> Nortje to Hetmyer, byes, 1 run, bouncer down leg, Hetmyer swings and misses. The ball flies over his right shoulder and RR reviewed for the line, but it was fine and they have <b>lost a review</b> </p>",
+    "overs": 18,
+    "events": [
+      "OVER_BREAK",
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640369763,
+    "commText": "<p><b>Rajasthan review!</b> It is for a wide. Short ball angled in from round the wicket. It was around Hetmyer's right shoulder. Not a wide..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640366763,
+    "commText": "<p> Nortje to Riyan Parag, 1 run, short and outside off, Parag toe-ends the slap and the ball lands in front of an incoming Warner at sweeper cover </p>",
+    "overs": 17.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 58,
+      "ballsPlayed": 38,
+      "dotBalls": 13,
+      "batFours": 4,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640330772,
+    "commText": "<p> Nortje to Riyan Parag, no run, I0$ yorker outside off, Parag fails to lay bat on that. Excellent delivery.. </p>",
+    "overs": 17.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 57,
+      "ballsPlayed": 37,
+      "dotBalls": 13,
+      "batFours": 4,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640295971,
+    "commText": "<p> Nortje to Hetmyer, 1 run, nails the yorker from round the wicket, Hetmyer digs it to deep square leg </p>",
+    "overs": 17.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 1,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640239682,
+    "commText": "<p><b>Shimron Hetmyer, left handed bat, comes to the crease</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640175307,
+    "commText": "<p> Nortje to Dhruv Jurel, <b>out</b> Bowled!! Played on! Nortje breaks the partnership and is delighted. Once again Jurel shuffles across to play the lap but Nortje does not offer him the room, cramps him up and Jurel can only play it onto off-stump. RR won't mind that as it will bring Hetmyer to the crease with 16 balls left. <b>Dhruv Jurel b Nortje 20(12) [4s-3]</b> </p>",
+    "overs": 17.2,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 20,
+      "ballsPlayed": 12,
+      "dotBalls": 2,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640171557,
+    "commText": "<p> Nortje to Dhruv Jurel, <b>THATS OUT!!</b> Bowled!! </p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 20,
+      "ballsPlayed": 11,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640136530,
+    "commText": "<p> Nortje to Dhruv Jurel, <b>FOUR</b>, not quite off the middle but the end result it what matters. Jurel shuffles across and gets into a tangle against the short of length delivery, gets it off the outer shoulder of the bat and the ball races to the left of Pant </p>",
+    "overs": 17.1,
+    "events": [
+      "FOUR",
+      "PARTNERSHIP"
+    ],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 20,
+      "ballsPlayed": 11,
+      "dotBalls": 1,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640128024,
+    "commText": "<p><b>Anrich Nortje [2.0-0-17-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 16,
+      "ballsPlayed": 10,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711640036061,
+    "commText": "<p> Kuldeep Yadav to Riyan Parag, <b>SIX</b>, dragged short and Parag deposits it into the crowd. He picked the length early once again and that enabled him to connect with the pull, he hits them long and far as the ball sails over cow corner </p>",
+    "overs": 17,
+    "events": [
+      "OVER_BREAK",
+      "SIX",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 57,
+      "ballsPlayed": 36,
+      "dotBalls": 12,
+      "batFours": 4,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 41,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639998526,
+    "commText": "<p> Kuldeep Yadav to Dhruv Jurel, 1 run, I0$ seam-up short of length delivery, Jurel pulls to deep backward square </p>",
+    "overs": 16.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 16,
+      "ballsPlayed": 10,
+      "dotBalls": 1,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 35,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639958347,
+    "commText": "<p> Kuldeep Yadav to Dhruv Jurel, 2 runs, short of length around off, Jurel pulls it wide of long-on and Warner makes a good stop, just a brace </p>",
+    "overs": 16.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 15,
+      "ballsPlayed": 9,
+      "dotBalls": 1,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 34,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639929040,
+    "commText": "<p> Kuldeep Yadav to Dhruv Jurel, <b>FOUR</b>, this would have been a wide but Jurel goes reaching for it, gets a bottom edge and the ball runs away fine </p>",
+    "overs": 16.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 13,
+      "ballsPlayed": 8,
+      "dotBalls": 1,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639896388,
+    "commText": "<p> Kuldeep Yadav to Riyan Parag, 1 run, floated up outside off, Parag toe-ends the loft to sweeper cover </p>",
+    "overs": 16.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 51,
+      "ballsPlayed": 35,
+      "dotBalls": 12,
+      "batFours": 4,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639869551,
+    "commText": "<p><b>STAT</b>: This is the first 50+ score for Ryan Parag in 17 IPL innings.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639869541,
+    "commText": "<p> Kuldeep Yadav to Dhruv Jurel, 1 run, googly on middle and leg, Jurel sweeps it to deep backward square </p>",
+    "overs": 16.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 9,
+      "ballsPlayed": 7,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639865875,
+    "commText": "<p><b>Kuldeep Yadav [3.0-0-26-1] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 8,
+      "ballsPlayed": 6,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639784552,
+    "commText": "<p> Mukesh Kumar to Riyan Parag, <b>SIX</b>, <b>fifty for Parag.</b> This has been such a mature innings. He came in at a tough time for the Royals and is now giving them the much needed push. Full pitcher as Mukesh misses the yorker, Parag gets under it and pumps it flat over long-off, just clears the rope </p>",
+    "overs": 16,
+    "events": [
+      "OVER_BREAK",
+      "FIFTY",
+      "SIX",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 50,
+      "ballsPlayed": 34,
+      "dotBalls": 12,
+      "batFours": 4,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 34,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639737981,
+    "commText": "<p> Mukesh Kumar to Riyan Parag, no run, that's much better. Excellent yorker outside off and Parag cannot do much about it, fails to dig it out </p>",
+    "overs": 15.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 44,
+      "ballsPlayed": 33,
+      "dotBalls": 12,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639694996,
+    "commText": "<p> Mukesh Kumar to Riyan Parag, <b>FOUR</b>, poor planning and execution. Square leg is inside the ring and Mukesh bowls a half volley on the pads, Parag flicks it over the fielder and keeps the boundaries flowing </p>",
+    "overs": 15.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 44,
+      "ballsPlayed": 32,
+      "dotBalls": 11,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639659576,
+    "commText": "<p> Mukesh Kumar to Riyan Parag, no run, I0$ speared into the blockhole, Parag toe-ends it to cover </p>",
+    "overs": 15.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 40,
+      "ballsPlayed": 31,
+      "dotBalls": 11,
+      "batFours": 3,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639596161,
+    "commText": "<p> Mukesh Kumar to Dhruv Jurel, 1 run, I0$ yorker outside off, Jurel squeezes it towards backward point and Porel makes a fine stop </p>",
+    "overs": 15.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 8,
+      "ballsPlayed": 6,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639550402,
+    "commText": "<p> Mukesh Kumar to Dhruv Jurel, <b>FOUR</b>, short of length delivery, Jurel pulls it in front of square towards deep mid-wicket. Stubbs gets around and puts in the dive but cannot make the stop </p>",
+    "overs": 15.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 7,
+      "ballsPlayed": 5,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639505870,
+    "commText": "<p><b>Over summary 11-15</b> \\nAshwin slams 3 sixes in quick time \\nKuldeep goes for 11 in his 3rd over \\nAxar ends Ashwin's cameo \\nParag smashes Khaleel for 6, 4 and 4 \\nAfter 15 overs, RR are 108/4</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639505860,
+    "commText": "<p><b>Mukesh Kumar [2.0-0-19-1] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 3,
+      "ballsPlayed": 4,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639431486,
+    "commText": "<p>Delhi Capitals have activated their impact sub - Khaleel Ahmed goes out, Abhishek Porel comes in</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639425486,
+    "commText": "<p> Khaleel Ahmed to Riyan Parag, no run, slower short of length delivery, Parag chops the cross-batted shot to extra cover. 15 off the over and Khaleel's figures have been spoilt, <b>4-0-24-1</b> </p>",
+    "overs": 15,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 40,
+      "ballsPlayed": 30,
+      "dotBalls": 10,
+      "batFours": 3,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639369617,
+    "commText": "<p>Khaleel Ahmed to Riyan Parag, <b>FOUR</b>, 6, 4, 4 - Parag on the charge. Khaleel goes for the slower ball and feeds it in the slot, Parag had the space to free his arms and he tonks it over extra cover, one bounce and over the ropes. It was an easy shot as mid-off was inside the ring</p>",
+    "overs": 14.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 40,
+      "ballsPlayed": 29,
+      "dotBalls": 9,
+      "batFours": 3,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639326522,
+    "commText": "<p> Khaleel Ahmed to Riyan Parag, <b>FOUR</b>, fabulous shot! This was not a bad delivery - low full toss outside off, Parag crouches low, opens the bat face and slices the drive behind square on the off-side </p>",
+    "overs": 14.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 36,
+      "ballsPlayed": 28,
+      "dotBalls": 9,
+      "batFours": 2,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639282193,
+    "commText": "<p> Khaleel Ahmed to Riyan Parag, <b>SIX</b>, poor delivery and Parag helps it along the way. The ball slants nicely onto the hips and Parag just uses the pace on the ball, picks it up and deposits it into the backward square stand </p>",
+    "overs": 14.3,
+    "events": [
+      "TEAM_HUNDRED",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 32,
+      "ballsPlayed": 27,
+      "dotBalls": 9,
+      "batFours": 1,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639238469,
+    "commText": "<p>FYI, Khaleel is bowling from round the wicket</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639235469,
+    "commText": "<p> Khaleel Ahmed to Dhruv Jurel, 1 run, short of length and cramped for room, Jurel shuffles and gets into a tangle. the ball hits the bat handle and rolls backward of square </p>",
+    "overs": 14.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 3,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639187904,
+    "commText": "<p> Khaleel Ahmed to Dhruv Jurel, no run, appeal for LBW. Khaleel was confident. Pant has a word with him and decides against it. Replays show a big inside edge. Angled in from round the wicket, Jurel pushes hard and the inside edge thuds into the back pad </p>",
+    "overs": 14.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 2,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711639152686,
+    "commText": "<p><b>Khaleel Ahmed [3.0-0-9-1] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 2,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638944372,
+    "commText": "<p><b>Timeout!</b> That 50+ partnership between Ashwin and Parag has helped RR recover. The run-rate is over 6 now and the platform is there for the likes of Jurel and Hetmyer to express themselves. The surface too seems to have gotten better and RR will need as many as possible from these last 6 overs.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638941382,
+    "commText": "<p><b>Today is the third time Ravi Ashwin has hit 3 sixes in an IPL innings</b> \\nvs KKR at Indore, 2018 \\nvs CSK at Brabourne, 2022 \\nvs DC at Jaipur, 2024*</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638941372,
+    "commText": "<p> Axar to Dhruv Jurel, 1 run, leg-lined delivery, Jurel tucks it through the vacant mid-wicket region. Axar is done with an economical spell, <b>4-0-21-1</b> </p>",
+    "overs": 14,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 2,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638917925,
+    "commText": "<p> Axar to Riyan Parag, 1 run, quicker and around off, Parag eases it to long-off </p>",
+    "overs": 13.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 26,
+      "ballsPlayed": 26,
+      "dotBalls": 9,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638893720,
+    "commText": "<p> Axar to Dhruv Jurel, 1 run, flatter and sliding into the pads, Jurel flicks to deep backward square </p>",
+    "overs": 13.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 1,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638885111,
+    "commText": "<p><b>Dhruv Jurel, right handed bat, comes to the crease</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14691,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638800678,
+    "commText": "<p> Axar to Ashwin, <b>out</b> Caught by Tristan Stubbs!! Struck well but straight to the fielder. But Ashwin has done the job for RR. He steadied the innings along with Parag, provided a bit of impetus and departs while trying to play the big shot - just what RR would have asked of him. Drifting in with the angle and it was in the slot, Ashwin heaves it across the line and seems to have middled it, but it was to the longer part of the ground, Stubbs settles near deep mid-wicket and takes it just inside the rope. <b>Ashwin c Tristan Stubbs b Axar 29(19) [6s-3]</b> </p>",
+    "overs": 13.3,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 29,
+      "ballsPlayed": 19,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638797636,
+    "commText": "<p> Axar to Ashwin, <b>THATS OUT!!</b> Caught!! </p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638772622,
+    "commText": "<p> Axar to Riyan Parag, 1 run, drifts in and straightens, Parag closes the bat face and the leading edge rolls to sweeper cover </p>",
+    "overs": 13.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 25,
+      "ballsPlayed": 25,
+      "dotBalls": 9,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638752467,
+    "commText": "<p> Axar to Ashwin, 1 run, slider from short of length, Ashwin mistimes the pull to deep mid-wicket </p>",
+    "overs": 13.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 29,
+      "ballsPlayed": 18,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638632203,
+    "commText": "<p>Kuldeep Yadav to Riyan Parag, no run, lovely delivery. This was the googly and Parag did not pick it, his feet were stuck in the crease and he just followed the ball's trajectory, beaten on the outside edge. What has happened? The third umpire is checking for a caught behind. <b>Looks like Delhi have reviewed.</b> Nothing on UltraEdge and the review is lost. Bizarre as Pant didn't even appeal but still decided to challenge the onfield decision</p>",
+    "overs": 13,
+    "events": [
+      "OVER_BREAK",
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 24,
+      "ballsPlayed": 24,
+      "dotBalls": 9,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 26,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638603017,
+    "commText": "<p> Kuldeep Yadav to Riyan Parag, 2 runs, throws it wide outside off, Parag shuffles and slaps it in front of square, Axar gets around from long-off and keeps it to a brace </p>",
+    "overs": 12.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 24,
+      "ballsPlayed": 23,
+      "dotBalls": 8,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 26,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638577836,
+    "commText": "<p> Kuldeep Yadav to Riyan Parag, no run, slows up the googly around off, Parag shuffles and knocks it to cover </p>",
+    "overs": 12.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 22,
+      "ballsPlayed": 22,
+      "dotBalls": 8,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638557570,
+    "commText": "<p> Kuldeep Yadav to Riyan Parag, <b>wide</b>, darted down leg, Parag tries to swat it along the way but misses, wide called </p>",
+    "overs": 12.4,
+    "events": [
+      "PARTNERSHIP"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 22,
+      "ballsPlayed": 21,
+      "dotBalls": 7,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638486797,
+    "commText": "<p>Pant goes across and has a word with Kuldeep</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638483797,
+    "commText": "<p> Kuldeep Yadav to Riyan Parag, <b>SIX</b>, fraction short and Parag is quick to pounce, he rocks back and launches the pull into the crowd at deep mid-wicket. The key there was how quickly Parag picked the length </p>",
+    "overs": 12.3,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 22,
+      "ballsPlayed": 21,
+      "dotBalls": 7,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638456292,
+    "commText": "<p> Kuldeep Yadav to Ashwin, 1 run, throws the googly outside off, Ashwin toe-ends the loft and the ball lands just in front of long-off </p>",
+    "overs": 12.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 28,
+      "ballsPlayed": 17,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638423544,
+    "commText": "<p> Kuldeep Yadav to Riyan Parag, 1 run, wrong 'un on middle, Parag nudges it to mid-wicket and wants a second, but Ashwin says no </p>",
+    "overs": 12.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 16,
+      "ballsPlayed": 20,
+      "dotBalls": 7,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638399695,
+    "commText": "<p><b>Kuldeep Yadav [2.0-0-15-1] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 15,
+      "ballsPlayed": 19,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638335478,
+    "commText": "<p> Axar to Riyan Parag, 1 run, drifts in with the angle, Parag nudges it in front of long-on </p>",
+    "overs": 12,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 15,
+      "ballsPlayed": 19,
+      "dotBalls": 7,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638314788,
+    "commText": "<p> Axar to Ashwin, 1 run, short of length outside off, Ashwin opens the bat face and directs it square of the wicket </p>",
+    "overs": 11.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 27,
+      "ballsPlayed": 16,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638292439,
+    "commText": "<p> Axar to Riyan Parag, 1 run, flatter and length is shortened, Parag chips it to long-off </p>",
+    "overs": 11.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 14,
+      "ballsPlayed": 18,
+      "dotBalls": 7,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638276360,
+    "commText": "<p> Axar to Ashwin, 1 run, to cover point, slows it up outside off, Ashwin goes hard on the cut and chops it wide of point </p>",
+    "overs": 11.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 26,
+      "ballsPlayed": 15,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638253779,
+    "commText": "<p> Axar to Ashwin, no run, quicker and shorter, drifts in and beats Ashwin on the pull, struck high on the pad </p>",
+    "overs": 11.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 25,
+      "ballsPlayed": 14,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638231507,
+    "commText": "<p> Axar to Ashwin, no run, slower and slides in, Ashwin chops it behind the wicket and the ball rolls towards backward point </p>",
+    "overs": 11.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 25,
+      "ballsPlayed": 13,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638225718,
+    "commText": "<p><b>Axar Patel [2.0-0-12-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 25,
+      "ballsPlayed": 12,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638166212,
+    "commText": "<p>Ravichandran Ashwin's only IPL fifty came against Delhi Capitals in the 2022 IPL season when he came to bat at No.3</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638166202,
+    "commText": "<p> Nortje to Riyan Parag, no run, more effort from Nortje on this short of length delivery and Parag is late on the pull, beaten on the top-edge </p>",
+    "overs": 11,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 13,
+      "ballsPlayed": 17,
+      "dotBalls": 7,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638135830,
+    "commText": "<p> Nortje to Ashwin, 1 run, stays leg-side to this fullish delivery and lofts it back over Parag, just a single </p>",
+    "overs": 10.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 25,
+      "ballsPlayed": 12,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638093239,
+    "commText": "<p> Nortje to Ashwin, <b>SIX</b>, third six in five balls. He's got the crowd going. Plenty of pink flags waving around the ground now. Once again it is the short of length which he's comfortable with, gets into a nice position and hammers the pull over deep mid-wicket </p>",
+    "overs": 10.4,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 25,
+      "ballsPlayed": 11,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638060177,
+    "commText": "<p> Nortje to Riyan Parag, 1 run, fuller and at the stumps, Parag flicks to deep mid-wicket </p>",
+    "overs": 10.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 13,
+      "ballsPlayed": 16,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 11,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711638014377,
+    "commText": "<p>Nortje to Ashwin, leg byes, 1 run, now tries the funky lap and shuffles a long way across, the ball hits him on the thigh pad and rolls to third man</p>",
+    "overs": 10.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 19,
+      "ballsPlayed": 10,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637968977,
+    "commText": "<p> Nortje to Ashwin, <b>SIX</b>, second six for Ashwin. He's giving the innings some much needed impetus. Short of length delivery and he's picked the bones out of that, transfers his weight back and nails the pull into the deep mid-wicket stand </p>",
+    "overs": 10.1,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 18,
+      "ballsPlayed": 9,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637960930,
+    "commText": "<p><b>Over summary 6-10</b> \\nThe excellent Khaleel gets Samson \\nKuldeep reviews and gets Buttler LBW \\nAshwin comes in at 5 \\nAshwin slams Kuldeep for a biggie \\nAfter 10 overs, RR are 58/3</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637960920,
+    "commText": "<p><b>Anrich Nortje [1.0-0-3-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 12,
+      "ballsPlayed": 8,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637887348,
+    "commText": "<p> Kuldeep Yadav to Ashwin, 1 run, pushed through flatter by Kuldeep, worked down to long-on for a single </p>",
+    "overs": 10,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 12,
+      "ballsPlayed": 8,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637851016,
+    "commText": "<p>Kuldeep Yadav to Ashwin, <b>SIX</b>, <b>clubbed</b>, lovely shot from Ashwin, comes down the pitch, gets close to the ball and then hoists it high and wide of long-on, went a long way over</p>",
+    "overs": 9.5,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 11,
+      "ballsPlayed": 7,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637826964,
+    "commText": "<p>Rovman Powell has his pads ready - he could be used as an impact sub tonight</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637823964,
+    "commText": "<p> Kuldeep Yadav to Riyan Parag, 1 run, tossed up on middle and leg, nudged past square leg for a single </p>",
+    "overs": 9.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 12,
+      "ballsPlayed": 15,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637798874,
+    "commText": "<p> Kuldeep Yadav to Ashwin, 1 run, flighted delivery on off, driven down to long-off for a single </p>",
+    "overs": 9.3,
+    "events": [
+      "TEAM_FIFTY"
+    ],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 5,
+      "ballsPlayed": 6,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637777165,
+    "commText": "<p> Kuldeep Yadav to Ashwin, <b>wide</b>, Kuldeep slides one quicker and down leg, past Ashwin's flick and is given as a wide. But DC think it might've flicked the pad on its way to the keeper - No bat or pad, they're now checking for the stumping as Pant broke the stumps - Ashwin did overbalance a tad, but his left leg was firmly planted in the crease. Wasn't a DC review, it was an <b>umpire's review for stumping</b> </p>",
+    "overs": 9.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 4,
+      "ballsPlayed": 5,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637679146,
+    "commText": "<p> Kuldeep Yadav to Riyan Parag, 1 run, tad too short from Kuldeep, lets Parag punch it down to long-off for a single </p>",
+    "overs": 9.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 11,
+      "ballsPlayed": 14,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637652647,
+    "commText": "<p> Kuldeep Yadav to Ashwin, 1 run, tossed up on middle, worked down to long-on for a single </p>",
+    "overs": 9.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 4,
+      "ballsPlayed": 5,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637436660,
+    "commText": "<p>Time for the <b>strategic break</b>. This has been a proper stranglehold and RR have gone nowhere so far. They have lost wickets and haven't kept the scoreboard ticking either - Pant has been excellent with his changes and has put DC right on top</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637433660,
+    "commText": "<p>Axar to Riyan Parag, no run, flighted delivery on middle and leg, Parag was shaping for the tuck and missed, dropped off the pad and dropped dead in front of the stumps</p>",
+    "overs": 9,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 10,
+      "ballsPlayed": 13,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637404586,
+    "commText": "<p> Axar to Riyan Parag, <b>FOUR</b>, that'll relieve some pressure off RR - dragged short and down leg as Axar fired a quicker delivery, pulled backward of square on the on-side and Parag finds the gap </p>",
+    "overs": 8.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 10,
+      "ballsPlayed": 12,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637379872,
+    "commText": "<p> Axar to Ashwin, 1 run, flatter and on the pads, nudged past square leg for a single </p>",
+    "overs": 8.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 3,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637358564,
+    "commText": "<p> Axar to Riyan Parag, 1 run, slower and just outside off, eased into the gap wide of cover for a single </p>",
+    "overs": 8.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 6,
+      "ballsPlayed": 11,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637334862,
+    "commText": "<p> Axar to Ashwin, 1 run, flighted delivery on middle and leg, tucked behind square on the on-side for a single </p>",
+    "overs": 8.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 2,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637305699,
+    "commText": "<p> Axar to Riyan Parag, 1 run, flatter and at the stumps, eased down to long-on for a single </p>",
+    "overs": 8.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 5,
+      "ballsPlayed": 10,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637237309,
+    "commText": "<p><b>Buttler's last five IPL innings:</b> \\n0(3) vs KKR \\n0(2) vs RCB \\n0(4) vs PBKS \\n11(9) vs LSG \\n11(16) vs DC - today</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637237299,
+    "commText": "<p> Kuldeep Yadav to Riyan Parag, 1 run, tossed up on middle and leg, worked in front of square on the on-side for a single </p>",
+    "overs": 8,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 4,
+      "ballsPlayed": 9,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637213669,
+    "commText": "<p> Kuldeep Yadav to Riyan Parag, no run, flighted delivery on middle and leg, Parag leans well forward and defends it to the off-side </p>",
+    "overs": 7.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 3,
+      "ballsPlayed": 8,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637191188,
+    "commText": "<p> Kuldeep Yadav to Ashwin, 1 run, the wrong 'un from Kuldeep, the length is short and it's cut square past point for a boundary </p>",
+    "overs": 7.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637169482,
+    "commText": "<p> Kuldeep Yadav to Ashwin, no run, tossed up on off, Ashwin pushes forward defensively </p>",
+    "overs": 7.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637157992,
+    "commText": "<p><b>Ravichandran Ashwin, right handed bat, comes to the crease</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1593,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637087105,
+    "commText": "<p>Kuldeep Yadav to Buttler, <b>out</b> Lbw!! That's a magnificent review and Kuldeep is chuffed to bits - he's mobbed by his mates, who too can't believe what they've just seen on the big screen. Looked like it had pitched outside leg and umpire Nand Kishore negated the LBW review, but Kuldeep was very convinced and coaxes Pant into a review. No bat, it's pitched on leg and has straightened enough to crash into the leg-stump, as Buttler missed the reverse sweep. <b>Three reds</b> and off goes the dangerous Buttler. <b>Buttler lbw b Kuldeep Yadav 11(16)</b></p>",
+    "overs": 7.2,
+    "events": [
+      "WICKET",
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 11,
+      "ballsPlayed": 16,
+      "dotBalls": 6,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711637083006,
+    "commText": "<p> Kuldeep Yadav to Buttler, <b>THATS OUT!!</b> Lbw!! </p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636971095,
+    "commText": "<p> Kuldeep Yadav to Riyan Parag, 1 run, tossed up on off, driven down towards long-off for a single </p>",
+    "overs": 7.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 3,
+      "ballsPlayed": 7,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636957697,
+    "commText": "<p><b>Kuldeep Yadav, comes into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 2,
+      "ballsPlayed": 6,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636897040,
+    "commText": "<p>Spin from both ends now and it's Kuldeep</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636894040,
+    "commText": "<p> Axar to Buttler, no run, the arm-ball now, kept coming back at the right-hander, Buttler looks to drive and inside edges it back at the bowler </p>",
+    "overs": 7,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 11,
+      "ballsPlayed": 15,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636876597,
+    "commText": "<p> Axar to Buttler, no run, flighted delivery and sliding into the pads, Buttler was looking to flick and missed </p>",
+    "overs": 6.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 11,
+      "ballsPlayed": 14,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636833600,
+    "commText": "<p><b>Buttler vs Axar in IPL (before today)</b> \\n61 runs \\n47 balls \\nno dismissal \\n129.8 SR \\n4s/6s: 4/3</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636833590,
+    "commText": "<p> Axar to Riyan Parag, 1 run, the slider from Axar - Parag prods forward and gets a thick inside edge, behind square on the on-side for a single </p>",
+    "overs": 6.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 2,
+      "ballsPlayed": 6,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636798116,
+    "commText": "<p> Axar to Buttler, 1 run, flighted delivery on midlde and leg, tucked in front of square on the on-side - Buttler wanted a second and is sent back, has to put in the dive to save himself </p>",
+    "overs": 6.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 11,
+      "ballsPlayed": 13,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636774961,
+    "commText": "<p> Axar to Riyan Parag, 1 run, tossed up on off, Parag pushes with hard hands and gets it wide of the bowler for a single </p>",
+    "overs": 6.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 1,
+      "ballsPlayed": 5,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636744235,
+    "commText": "<p> Axar to Buttler, 1 run, flatter and at the stumps, nudged towards mid-wicket for a single </p>",
+    "overs": 6.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 10,
+      "ballsPlayed": 12,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636732769,
+    "commText": "<p><b>Axar Patel, Left arm orthodox, comes into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 9,
+      "ballsPlayed": 11,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636675783,
+    "commText": "<p>Time for spin and it's Axar Patel</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636672793,
+    "commText": "<p><b>Samson vs Khaleel Ahmed in IPL (before today)</b> \\n28 balls \\n56 runs \\nno dismissal \\n200.0 SR \\n4s/6s: 5/3</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636672783,
+    "commText": "<p> Khaleel Ahmed to Riyan Parag, no run, Parag attempts a cheeky paddle and nearly loses his stumps, shuffled across to a pacy delivery and missed, the ball not missing the stumps by a lot </p>",
+    "overs": 6,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 0,
+      "ballsPlayed": 4,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636633958,
+    "commText": "<p> Khaleel Ahmed to Riyan Parag, <b>wide</b>, banged in short by Khaleel, but it sails high and is called as a wide </p>",
+    "overs": 6,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 0,
+      "ballsPlayed": 3,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636591671,
+    "commText": "<p> Khaleel Ahmed to Riyan Parag, no run, fuller length delivery, from round the wicket - driven straight to the fielder at cover </p>",
+    "overs": 5.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 0,
+      "ballsPlayed": 3,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636535508,
+    "commText": "<p> Khaleel Ahmed to Riyan Parag, no run, good pace from Khaleel - banged in short and just outside off, Parag swings hard on the pull and missed </p>",
+    "overs": 5.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 0,
+      "ballsPlayed": 2,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636500484,
+    "commText": "<p> Khaleel Ahmed to Riyan Parag, no run, fuller length delivery at the stumps, Parag plays the helicopter whip and finds mid-on </p>",
+    "overs": 5.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636468578,
+    "commText": "<p><b>Riyan Parag, right handed bat, comes to the crease</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636398470,
+    "commText": "<p> Khaleel Ahmed to Samson, <b>out</b> Caught by Pant!! Edged and caught! This was coming, the boundaries had dried up and Samson falls whiloe trying to manufacture one - backs away, but Khaleel spotted it and followed him with a sharp short ball, cramped for space on the cut, Samson slashes and gets a thick edge, straight through to Pant, who doesn't drop those. <b>Samson c Pant b Khaleel Ahmed 15(14) [4s-3]</b> </p>",
+    "overs": 5.2,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 15,
+      "ballsPlayed": 14,
+      "dotBalls": 8,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636394809,
+    "commText": "<p> Khaleel Ahmed to Samson, <b>THATS OUT!!</b> Caught!! </p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636335154,
+    "commText": "<p>Khaleel, from round the wicket</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636332154,
+    "commText": "<p> Khaleel Ahmed to Buttler, 1 run, yorker length delivery on off, Buttler manages to jam his bat down in time and squirts a thick edge, behind square on the off-side for a single </p>",
+    "overs": 5.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 9,
+      "ballsPlayed": 11,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636321916,
+    "commText": "<p><b>Khaleel Ahmed [2.0-0-7-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 8,
+      "ballsPlayed": 10,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636239041,
+    "commText": "<p><b>Over summary 1-5</b> \\nKhaleel starts with a tight over \\nMukesh bowls Jaiswal out \\nSamson counter-attacks with a hat-trick of fours \\nNortje starts well \\nAfter 5 overs, RR are 29/1</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636239030,
+    "commText": "<p> Nortje to Samson, no run, <b>beaten</b>, on a good length and in that channel just outside off - Samson tries running it down towards third man and missed </p>",
+    "overs": 5,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 15,
+      "ballsPlayed": 13,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636205021,
+    "commText": "<p> Nortje to Samson, no run, banged in short and just outside off - Samson drops his wrists and sways away from the line </p>",
+    "overs": 4.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 15,
+      "ballsPlayed": 12,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636167424,
+    "commText": "<p> Nortje to Buttler, 1 run, fuller length delivery outside off - Buttler was pressing forward and inside halves the push towards mid-on </p>",
+    "overs": 4.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 8,
+      "ballsPlayed": 10,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636134310,
+    "commText": "<p> Nortje to Samson, 1 run, a gentle chip over the bowler's head, placed it straight of mid-on for a single - was a good length delivery at the stumps as Samson backed away </p>",
+    "overs": 4.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 15,
+      "ballsPlayed": 11,
+      "dotBalls": 5,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636089504,
+    "commText": "<p> Nortje to Samson, no run, Nortje shortens the length and gets some extra bounce from outside off - has Samson playing away from his body and beats him on the outside edge </p>",
+    "overs": 4.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 14,
+      "ballsPlayed": 10,
+      "dotBalls": 5,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636055909,
+    "commText": "<p> Nortje to Buttler, 1 run, back of a length and just outside off - Buttler pushes with an open face and drops it into the gap left of cover-point </p>",
+    "overs": 4.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 7,
+      "ballsPlayed": 9,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11427,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711636030758,
+    "commText": "<p><b>Anrich Nortje, right-arm fast, comes into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 6,
+      "ballsPlayed": 8,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635969636,
+    "commText": "<p>First change with Nortje replacing Mukesh Kumar</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635966636,
+    "commText": "<p> Mukesh Kumar to Buttler, 1 run, length ball at the stumps, Buttler shuffles across and tucks it to long leg for a single, <b>14 off the over</b> </p>",
+    "overs": 4,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 6,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635924075,
+    "commText": "<p> Mukesh Kumar to Buttler, no run, fuller length delivery and well wide of off, Buttler throws his hands on the drive and misses </p>",
+    "overs": 3.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 5,
+      "ballsPlayed": 7,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635873406,
+    "commText": "<p>Mukesh Kumar to Samson, 1 run, back of a length and at the stumps, punched off the back-foot, straight of mid-on and it needed a diving stop from Nortje to prevent the boundary</p>",
+    "overs": 3.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 14,
+      "ballsPlayed": 9,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635811276,
+    "commText": "<p>Short fine moves across to extra-cover</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635808276,
+    "commText": "<p> Mukesh Kumar to Samson, <b>FOUR</b>, <b>make that three in a row</b>, this is the best of the lot - on a good length and just outside off, Samson lets the ball come, plays close to his body and then punches it on the rise, into the gap wide of cover-point and the ball runs away </p>",
+    "overs": 3.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 13,
+      "ballsPlayed": 8,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635741052,
+    "commText": "<p> Mukesh Kumar to Samson, <b>FOUR</b>, back-to-back boundaries for Samson - banged in short by Mukesh, Samson's quick to swivel across and then pulls it over mid-wicket for a boundary </p>",
+    "overs": 3.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 9,
+      "ballsPlayed": 7,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635689207,
+    "commText": "<p> Mukesh Kumar to Samson, <b>FOUR</b>, <b>nicely played</b>, back of a length and in that channel wide of off - Samson waits on it, plays with an open face and the beats short third man with the steeer </p>",
+    "overs": 3.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 5,
+      "ballsPlayed": 6,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635635760,
+    "commText": "<p> Khaleel Ahmed to Samson, 1 run, on a good length and at the stumps, nudged to the right of mid-on for a single </p>",
+    "overs": 3,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 1,
+      "ballsPlayed": 5,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635581869,
+    "commText": "<p>Back to over the wicket</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635578869,
+    "commText": "<p> Khaleel Ahmed to Samson, no run, on a good length and in that tight channel around off, defended to the off-side </p>",
+    "overs": 2.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 0,
+      "ballsPlayed": 4,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635535310,
+    "commText": "<p>Khaleel, from round the wicket</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635532310,
+    "commText": "<p> Khaleel Ahmed to Samson, no run, on a good length and shaping away from wide of off, left alone </p>",
+    "overs": 2.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 0,
+      "ballsPlayed": 3,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635487022,
+    "commText": "<p> Khaleel Ahmed to Samson, <b>wide</b>, fuller length delivery and well wide of off, swings past the tramlines and is called as a wide </p>",
+    "overs": 2.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 0,
+      "ballsPlayed": 2,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635438063,
+    "commText": "<p> Khaleel Ahmed to Samson, no run, on a good length and around the off-stump channel, defended to the on-side </p>",
+    "overs": 2.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 0,
+      "ballsPlayed": 2,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635393441,
+    "commText": "<p> Khaleel Ahmed to Buttler, 1 run, just short of gully - on a good length and seaming away from the right-hander, Buttler plays away from his body and gets a thick edge, the ball bouncing short of the catching fielder </p>",
+    "overs": 2.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 5,
+      "ballsPlayed": 6,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635345222,
+    "commText": "<p><b>Yashasvi Jaiswal vs Mukesh Kumar in IPL</b> \\n9 balls \\n7 runs \\n2 dismissals \\n77.77 SR</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635345212,
+    "commText": "<p> Khaleel Ahmed to Buttler, no run, fuller length delivery and seaming away from outside off - Buttler looks for an expansive drive and misses - the ball kept seaming around and Pant has to throw himself to his right to pouch it </p>",
+    "overs": 2.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 4,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635282805,
+    "commText": "<p> Mukesh Kumar to Samson, no run, on a good length and in that channel around off - Samson plays close to his body and defends it to the off-side </p>",
+    "overs": 2,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635251530,
+    "commText": "<p><b>Sanju Samson, right handed bat, comes to the crease</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635166405,
+    "commText": "<p> Mukesh Kumar to Jaiswal, <b>out</b> Bowled!! Cleaned up! This is a big strike by Mukesh - pitched up and then kept coming back with thie angle, Jaiswal shuffled across on the clip, missed it once again - the ball flicking the pad and then ricocheting onto the off-stump, which is on the floor - Mukesh is exulted and so are his DC mates. <b>Jaiswal b Mukesh Kumar 5(7) [4s-1]</b> </p>",
+    "overs": 1.5,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 5,
+      "ballsPlayed": 7,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635163088,
+    "commText": "<p> Mukesh Kumar to Jaiswal, <b>THATS OUT!!</b> Bowled!! </p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 5,
+      "ballsPlayed": 6,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635120283,
+    "commText": "<p> Mukesh Kumar to Jaiswal, no run, <b>nicely bowled</b>, pitched up and a hint of shape away from the left-hander, draws Jaiswal into an ambitious drive and beats him on the outside edge </p>",
+    "overs": 1.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 5,
+      "ballsPlayed": 6,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635079513,
+    "commText": "<p> Mukesh Kumar to Jaiswal, no run, on a good length and shaping back into the left-hander - Jaiswal was prodding across on the clip and missed, off the pad and drops down to the on-side </p>",
+    "overs": 1.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 5,
+      "ballsPlayed": 5,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635039797,
+    "commText": "<p> Mukesh Kumar to Jaiswal, <b>FOUR</b>, <b>lovely</b>, overpitched and just outside off - Jaiswal walks into the drive, plays it on the rise and then finds the gap wide of mid-off with a cracking drive </p>",
+    "overs": 1.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 5,
+      "ballsPlayed": 4,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711634987049,
+    "commText": "<p> Mukesh Kumar to Buttler, 1 run, fuller length delivery and well wide of off - Buttler throws his hands on the drive and squirts a thick inside edge, behind square on the on-side for a single </p>",
+    "overs": 1.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 4,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10754,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711634957250,
+    "commText": "<p><b>Mukesh Kumar, right-arm medium, comes into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 3,
+      "ballsPlayed": 3,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711634892536,
+    "commText": "<p> Khaleel Ahmed to Jaiswal, no run, fuller length delivery and swinging back into the left-hander, beats Jaiswal on the flick and rolls back off the pad to the bowler </p>",
+    "overs": 1,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 1,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711634852566,
+    "commText": "<p> Khaleel Ahmed to Buttler, 1 run, on a good length and just outside off, pushed to the right of mid-off for a single </p>",
+    "overs": 0.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 3,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711634819985,
+    "commText": "<p> Khaleel Ahmed to Buttler, 2 runs, fuller length delivery on the pads, flicks the pad and rolls down to long leg, must've been an inside edge, given as runs </p>",
+    "overs": 0.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 2,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711634777237,
+    "commText": "<p> Khaleel Ahmed to Buttler, no run, short of a good length and angling into the body, Buttler hops across and turns it to the on-side </p>",
+    "overs": 0.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711634715989,
+    "commText": "<p>A slip for Buttler, a wide slip as well</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711634712999,
+    "commText": "<p><b>Jos Buttler vs DC in IPL:</b> \\nInns: 11 \\nRuns: 383 \\nAvg: 38.30 \\nSR: 167.98 \\n100s/50s: 1/2 \\nHS: 116</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711634712989,
+    "commText": "<p> Khaleel Ahmed to Jaiswal, 1 run, Jaiswal gets lucky - back of a length and just outside off, he doesn't have the space to free his arms on the flat-batted drive, gets it high on the bat and has enough to clear mid-off, who was running back. Stubbs was the fielder </p>",
+    "overs": 0.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711634518103,
+    "commText": "<p>Some disturbance and we've a delay. Not sure what happened though</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711634515103,
+    "commText": "<p> Khaleel Ahmed to Jaiswal, no run, on a good length and just outside off, driven crisply and on the rise, but straight to the fielder at cover-point </p>",
+    "overs": 0.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711634499841,
+    "commText": "<p><b>Jaiswal and Buttler are at the crease. Jaiswal is on strike. Khaleel Ahmed will open the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

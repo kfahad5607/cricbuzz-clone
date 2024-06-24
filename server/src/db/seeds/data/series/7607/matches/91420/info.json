@@ -1,0 +1,48 @@
+{
+  "id": "91420",
+  "description": "28th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 28,
+  "homeTeam": 63,
+  "awayTeam": 966,
+  "series": 7607,
+  "venue": 31,
+  "startTime": 1713088800000,
+  "completeTime": 1713101385030,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 63
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 8
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 966,
+      "batTeamName": "LSG",
+      "score": 161,
+      "wickets": 7,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 63,
+      "batTeamName": "KKR",
+      "score": 162,
+      "wickets": 2,
+      "overs": 15.4,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 94
+    }
+  ],
+  "state": "complete"
+}

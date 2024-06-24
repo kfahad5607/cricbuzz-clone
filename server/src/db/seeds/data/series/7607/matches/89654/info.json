@@ -11,15 +11,14 @@
   "startTime": 1711117800000,
   "completeTime": 1711131906450,
   "tossResults": {
-    "tossWinnerId": 59,
-    "decision": "bat"
+    "decision": "bat",
+    "tossWinnerId": 59
   },
   "results": {
-    "winByInnings": false,
-    "winByRuns": false,
     "resultType": "win",
-    "winningMargin": 6,
-    "winningTeamId": 58
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 6
   },
   "inningsScoreList": [
     {

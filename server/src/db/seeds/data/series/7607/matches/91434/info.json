@@ -1,0 +1,48 @@
+{
+  "id": 91434,
+  "description": "30th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 1,
+  "homeTeam": 59,
+  "awayTeam": 255,
+  "series": 7607,
+  "venue": 27,
+  "startTime": 1713189600000,
+  "completeTime": 1713202975541,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 59
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 25
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 287,
+      "wickets": 3,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 59,
+      "batTeamName": "RCB",
+      "score": 262,
+      "wickets": 7,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 91533,
+  "description": "43rd Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 1,
+  "homeTeam": 61,
+  "awayTeam": 62,
+  "series": 7607,
+  "venue": 51,
+  "startTime": 1714212000000,
+  "completeTime": 1714227047896,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 62
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 10
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 61,
+      "batTeamName": "DC",
+      "score": 257,
+      "wickets": 4,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 62,
+      "batTeamName": "MI",
+      "score": 247,
+      "wickets": 9,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

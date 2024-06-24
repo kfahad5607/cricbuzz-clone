@@ -1,0 +1,48 @@
+{
+  "id": 91488,
+  "description": "37th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 37,
+  "homeTeam": 65,
+  "awayTeam": 971,
+  "series": 7607,
+  "venue": 851,
+  "startTime": 1713708000000,
+  "completeTime": 1713721019982,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 65
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 3
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 65,
+      "batTeamName": "PBKS",
+      "score": 142,
+      "wickets": 10,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 971,
+      "batTeamName": "GT",
+      "score": 146,
+      "wickets": 7,
+      "overs": 19.1,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 115
+    }
+  ],
+  "state": "complete"
+}

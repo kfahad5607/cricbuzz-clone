@@ -1,0 +1,416 @@
+[
+  {
+    "timestamp": 1713275846230,
+    "commText": "<p>Justin Langer in the last game and Michael Clarke today with the bell-ringing duties. All in readiness as the KKR openers stride out to the centre. Trent Boult, as ever, takes the new ball. One slip in place, let's play...</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713275111264,
+    "commText": "<p>We have made one change to our expert XI taking the conditions into consideration. Have a look at our new and improved team</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713275111254,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713274939212,
+    "commText": "<p><b>Kolkata Knight Riders Impact Subs:</b> Suyash Sharma, Anukul Roy, Manish Pandey, Rahmanullah Gurbaz, Vaibhav Arora</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713274797641,
+    "commText": "<p><b>Rajasthan Royals Impact Subs:</b> Jos Buttler, Kohler-Cadmore, Shubham Dubey, Navdeep Saini, Nandre Burger</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713274617176,
+    "commText": "<p><b>Teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713274616001,
+    "commText": "<p><b>Kolkata Knight Riders</b> (Playing XI): Philip Salt(w), Sunil Narine, Angkrish Raghuvanshi, Shreyas Iyer(c), Venkatesh Iyer, Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Varun Chakaravarthy, Harshit Rana</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713274537889,
+    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Rovman Powell, Ravichandran Ashwin, Trent Boult, Avesh Khan, Kuldeep Sen, Yuzvendra Chahal</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713274322214,
+    "commText": "<p><b>Shreyas Iyer:</b> Would have loved to bowl as well based on the last game, on how the ball moved around. Whenever he (Narine) comes in, he is hard to read and he's got that poker face all throughout, we want him to perform him the way he has. We are <b>playing the same team.</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713274258806,
+    "commText": "<p><b>Sanju Samson:</b> We would like to bowl first. Might be better to chase on this. Very much excited to be back in Eden Gardens, there's a great vibe in the stadium. <b>Jos and Ash are available for this game, so they are coming back.</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713274237474,
+    "commText": "<p><b>Rajasthan Royals have won the toss and have opted to field</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713274216142,
+    "commText": "<p><b>Toss time:</b> Samson calls \"heads\" and it comes down as heads....</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713273429302,
+    "commText": "<p><b>Pitch Report | Samuel Badree and Michael Clarke:</b> \"There's a disparity of 12 metres square of the wicket - 59m and 71m; down the ground - 75m. Expect the bowlers to be defending on the bigger side. We've seen some contrasting matches here so far - 208 narrowly defended, 161 quite easily chased. I think it (pitch) is pretty similar to what we saw the other day. We thought 190 was par, that was a day game, this is a night game. There's going to be some dew, it's extremely humid out here as well. Both teams will be looking to chase. It's a really good surface. You've got a lightning fast outfield, the boundaries are pretty consistent, nice even pitch, you want to bat at any stage. Maximise the new ball on a surface like this while it's rock hard.\"</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713272463656,
+    "commText": "<p><b>18:30 local, 13:00 GMT:</b> <b>6 6 4 4 2 4</b> - Wondering what these numbers are? Remember, what happened the last time these two sides met at the Eden Gardens, last year? Chasing a below par total of 150, Yashasvi Jaiswal carted skipper Nitish Rana to all corners in the opening over and the carnage never stopped as RR finished the task with almost 7 overs to spare. A lot of things changed between then and now. KKR now have the services of their regular skipper and Jaiswal hasn't really hit the ground running, like he did last year. Hello and a warm welcome to the top-of-the-table clash. A win for KKR will help them displace RR at the top of the table and a win for the Royals will ensure they remain unmoved at the top. Both teams got a few incrdible power-hitters from the Caribbean. Are we in for another run-fest in the I0$ Stick around for toss and team updates...</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713191515184,
+    "commText": "<p><b>Preview</b> by <b>Aayush Puthran:</b> \\n \\nBy the time Tuesday\u2019s clash between Rajasthan Royals and Kolkata Knight Riders would be over at the Eden Gardens, irrespective of the result, the two teams are expected to be holding the top two positions on the points table mid-way through their respective league-stage campaign of IPL 2024. \\n \\nFor as much as it\u2019s a testament to their dominance in the tournament so far, they would be well aware that it counts for little. Royals witnessed that slump from the high position last season, much like KKR had done in 2019. The latter have even seen the reversal in 2021, when they stormed from the bottom of the table to reach the final. The events of the recent past would well be a lesson for both teams that at best it\u2019s still just a job half done. \\n \\nBut as the season is progressing, Knight Riders are slowly coming into their own, with their dominance in all three departments growing. Even a few niggles and injuries to their players - Nitish Rana and Harshit Rana, saw Angkrish Raghuvanshi and Vaibhav Arora seemingly filling in for them. Phil Salt and Mitchell Starc took some time to find their groove, and are yet to fire at their best, but managed to give a reasonable account of the threat they possess. \\n \\nRoyals, on the other hand, will be coming into the clash at the back of two nervy games: one won off the penultimate ball and the other lost of the last. Sanju Samson, the Royals skipper, was at a loss of words as to how the team found themselves in a position that they could have avoided. To make matters worse, as the hot sun is beating down and the number of trips to the airports has lost count, their players are picking niggles and dropping off. \\n \\nMuch unlike KKR, Royals don\u2019t have a similar depth in their batting and bowling, with the likes of R Ashwin being their best bowling all-rounder and Riyan Parag being their best batting all-rounder - far from the quality and quantity KKR possess in their line-up. \\n \\nBut with two in-form teams set to battle, with the top spot up for grabs at the mid-point competition, it promises to deliver quality viewing. \\n \\n<b>Head to head:</b> It\u2019s been a tough battle between the two teams over the years with KKR winning 14 matches and RR winning 13 of the 27 games, with both teams winning two games each in their last four encounters. At Eden Gardens, however, KKR have a 6-3 advantage over RR \\n \\n<b>When:</b> Tuesday, April 16, 2024, 7:30 PM IST \\n \\n<b>Where:</b> Kolkata Knight Riders vs Rajasthan Royals, IPL 2024, Eden Gardens, Kolkata \\n \\n<b>What to expect:</b> While the weather is expected to quite hot and humid during the day, don\u2019t be surprised if it\u2019s uncharacteristically breezy in the evening with some cloud cover. Dew should play a part, offering some assistance to the chasing team. \\n \\n<b>Team Watch</b> \\n \\n<b>Kolkata Knight Riders</b> \\n \\n<b>Injuries/Unavailability:</b> Even as Nitish Rana was declared fit a few days ago, he hasn\u2019t played in the last two games. \\n \\n<b>Tactics & Matchups:</b> Even as the pitch is unlikely to assist spinners, Sunil Narine has shown time and again, including as recently as the previous game, that he wouldn\u2019t need much assistance from the pitch. He has managed to keep Sanju Samson - who has otherwise scored briskly at Eden Gardens - quiet. In the 82-ball face-off between the two in IPL, Samson has scored only 66 runs and been dismissed thrice by the spinner \\n \\n<b>Probable XI:</b> Phil Salt, Sunil Narine, Angkrish Raghvanshi, Shreyas Iyer, Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Harshit Rana, Vaibhav Arora, Varun Chakravarthy [Impact Substitute: Venkatesh Iyer] \\n \\n<b>Rajasthan Royals: </b> \\n \\n<b>Injuries/Unavailability:</b> Even as there was no information offered regarding the availability of the four players - R Ashwin, Jos Buttler, Sandeep Sharma and Nandre Burger - who missed the previous game, Ashwin was seen having a long net session with the bat. \\n \\n<b>Tactics & Matchups:</b> If Buttler isn\u2019t fit and available, there is a possibility for Royals to go in with Tom Kohler-Cadmore. However, don\u2019t be surprised if they go with a left-field option again to partner Jaiswal, with either R Ashwin or Dhruv Jurel being the option. Additionally, there could be a temptation to use R Ashwin and Trent Boult against Russell, who has been dismissed thrice by the duo in a combined face-off of 15 balls, in which he has scored only 22 runs. \\n \\n<b>Probable XI: </b>Yashasvi Jaiswal, Dhruv Jurel, Sanju Samson, Riyan Parag, Shimron Hetmyer, Rovman Powell, R Ashwin, Avesh Khan, Trent Boult, Navdeep Saini/Kuldeep Sen, Yuzvendra Chahal [Impact Substitute: Donovan Ferreira/Keshav Maharaj] \\n \\n<b>Did you know?</b> \\n \\nKKR have the best powerplay batting performance (Avg 47.14/SR 11) while RR have the worst (Avg 30.11/RR 7.53) among all teams in IPL 2024 \\n \\nShimron Hetmyer has the most runs in death overs since IPL 2022, striking at 201.8. Among all the batters Who have faced 100-plus balls in this phase, his strike rate is bettered only by Tim David (213.14) and Dinesh Karthik (209.9). \\n \\nTrent Boult, who had five wickets in the powerplay in the first three games of the season, has gone wicketless during this phase in the last three matches. \\n \\n<b>What they said</b> \\n \\nLife on the outside of cricket really affects you. And that\u2019s one big major part which has played in my career is how I deal with it. \u201cIt didn\u2019t really start out well, I took a lot of things to heart, that were being said about me, etc, whatever it was. I just had to figure out what mattered to me, whose opinions mattered to me, and I figured that out eventually And that has helped. Cricketing-wise, I think playing at No. 4 is, again, something which I\u2019m used to doing in domestic cricket in different situations, more common situations, actually. But yeah, it\u2019s been a mix of both, emotionally and skill-wise - <b>Riyan Parag</b> on what has changed for him this season \\n \\nWill keep reiterating that it's a funny tournament and have to stay in the present as much as possible. Have to seize the moment and not leave it on someone else - <b>Shreyas Iyer</b> following KKR\u2019s comprehensive win over LSG</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713191515174,
+    "commText": "<p><b>Squads:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713191513553,
+    "commText": "<p><b>Rajasthan Royals</b> Squad: Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Rovman Powell, Tanush Kotian, Keshav Maharaj, Trent Boult, Avesh Khan, Kuldeep Sen, Yuzvendra Chahal, Yashasvi Jaiswal, Tom Kohler-Cadmore, Shubham Dubey, Navdeep Saini, Abid Mushtaq, Ravichandran Ashwin, Jos Buttler, Sandeep Sharma, Nandre Burger, Donovan Ferreira, Kunal Singh Rathore</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713191273835,
+    "commText": "<p><b>Kolkata Knight Riders</b> Squad: Philip Salt(w), Sunil Narine, Venkatesh Iyer, Shreyas Iyer(c), Angkrish Raghuvanshi, Andre Russell, Ramandeep Singh, Mitchell Starc, Harshit Rana, Vaibhav Arora, Varun Chakaravarthy, Suyash Sharma, Anukul Roy, Manish Pandey, Rahmanullah Gurbaz, Rinku Singh, Allah Ghazanfar, Sakib Hussain, Sherfane Rutherford, Chetan Sakariya, Nitish Rana, Srikar Bharat, Dushmantha Chameera</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

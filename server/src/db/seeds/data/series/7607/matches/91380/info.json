@@ -1,0 +1,48 @@
+{
+  "id": 91380,
+  "description": "22nd Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 1,
+  "homeTeam": 58,
+  "awayTeam": 63,
+  "series": 7607,
+  "venue": 11,
+  "startTime": 1712584800000,
+  "completeTime": 1712597466605,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 58
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 7
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 63,
+      "batTeamName": "KKR",
+      "score": 137,
+      "wickets": 9,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 58,
+      "batTeamName": "CSK",
+      "score": 141,
+      "wickets": 3,
+      "overs": 17.4,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 106
+    }
+  ],
+  "state": "complete"
+}

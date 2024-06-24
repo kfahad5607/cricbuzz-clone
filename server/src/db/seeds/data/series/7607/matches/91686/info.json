@@ -1,0 +1,48 @@
+{
+  "id": 91686,
+  "description": "65th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 65,
+  "homeTeam": 64,
+  "awayTeam": 65,
+  "series": 7607,
+  "venue": 380,
+  "startTime": 1715781600000,
+  "completeTime": 1715795056704,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 64
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 5
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 64,
+      "batTeamName": "RR",
+      "score": 144,
+      "wickets": 9,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 65,
+      "batTeamName": "PBKS",
+      "score": 145,
+      "wickets": 5,
+      "overs": 18.5,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 113
+    }
+  ],
+  "state": "complete"
+}

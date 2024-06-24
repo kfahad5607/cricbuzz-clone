@@ -1,0 +1,48 @@
+{
+  "id": "91564",
+  "description": "47th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 47,
+  "homeTeam": 63,
+  "awayTeam": 61,
+  "series": 7607,
+  "venue": 31,
+  "startTime": 1714399200000,
+  "completeTime": 1714411764283,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 61
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 7
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 61,
+      "batTeamName": "DC",
+      "score": 153,
+      "wickets": 9,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 63,
+      "batTeamName": "KKR",
+      "score": 157,
+      "wickets": 3,
+      "overs": 16.3,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 99
+    }
+  ],
+  "state": "complete"
+}

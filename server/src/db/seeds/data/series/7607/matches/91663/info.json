@@ -1,0 +1,48 @@
+{
+  "id": "91663",
+  "description": "61st Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 61,
+  "homeTeam": 58,
+  "awayTeam": 64,
+  "series": 7607,
+  "venue": 11,
+  "startTime": 1715508000000,
+  "completeTime": 1715520892120,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 64
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 5
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 64,
+      "batTeamName": "RR",
+      "score": 141,
+      "wickets": 5,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 58,
+      "batTeamName": "CSK",
+      "score": 145,
+      "wickets": 5,
+      "overs": 18.2,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 110
+    }
+  ],
+  "state": "complete"
+}

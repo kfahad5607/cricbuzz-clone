@@ -35,7 +35,7 @@ const scorecardBatterSchema = new Schema(
         overs: PositiveNumberType,
         teamScore: PositiveNumberType,
         teamWickets: PositiveNumberType,
-        bowlerId: DBIdType,
+        bowlerId: { ...DBIdType, required: false },
         helpers: [DBIdType],
       },
       { _id: false }

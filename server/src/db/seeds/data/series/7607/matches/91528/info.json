@@ -1,0 +1,48 @@
+{
+  "id": "91528",
+  "description": "42nd Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 42,
+  "homeTeam": 63,
+  "awayTeam": 65,
+  "series": 7607,
+  "venue": 31,
+  "startTime": 1714140000000,
+  "completeTime": 1714153636570,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 65
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 8
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 63,
+      "batTeamName": "KKR",
+      "score": 261,
+      "wickets": 6,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 65,
+      "batTeamName": "PBKS",
+      "score": 262,
+      "wickets": 2,
+      "overs": 18.4,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 112
+    }
+  ],
+  "state": "complete"
+}

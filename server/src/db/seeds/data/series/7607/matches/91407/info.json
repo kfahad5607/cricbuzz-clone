@@ -1,0 +1,48 @@
+{
+  "id": "91407",
+  "description": "26th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 26,
+  "homeTeam": 966,
+  "awayTeam": 61,
+  "series": 7607,
+  "venue": 485,
+  "startTime": 1712930400000,
+  "completeTime": 1712943683703,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 966
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 6
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 966,
+      "batTeamName": "LSG",
+      "score": 167,
+      "wickets": 7,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 61,
+      "batTeamName": "DC",
+      "score": 170,
+      "wickets": 4,
+      "overs": 18.1,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 109
+    }
+  ],
+  "state": "complete"
+}

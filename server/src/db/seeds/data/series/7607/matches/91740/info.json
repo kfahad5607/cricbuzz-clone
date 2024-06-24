@@ -1,0 +1,48 @@
+{
+  "id": 91740,
+  "description": "Final",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 74,
+  "homeTeam": 63,
+  "awayTeam": 255,
+  "series": 7607,
+  "venue": 11,
+  "startTime": 1716732000000,
+  "completeTime": 1716742528492,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 255
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 8
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 113,
+      "wickets": 10,
+      "overs": 18.3,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 111
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 63,
+      "batTeamName": "KKR",
+      "score": 114,
+      "wickets": 2,
+      "overs": 10.3,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 63
+    }
+  ],
+  "state": "complete"
+}

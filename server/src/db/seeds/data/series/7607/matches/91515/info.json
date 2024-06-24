@@ -1,0 +1,48 @@
+{
+  "id": 91515,
+  "description": "40th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 1,
+  "homeTeam": 61,
+  "awayTeam": 971,
+  "series": 7607,
+  "venue": 51,
+  "startTime": 1713967200000,
+  "completeTime": 1713980690733,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 971
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 4
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 61,
+      "batTeamName": "DC",
+      "score": 224,
+      "wickets": 4,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 971,
+      "batTeamName": "GT",
+      "score": 220,
+      "wickets": 8,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

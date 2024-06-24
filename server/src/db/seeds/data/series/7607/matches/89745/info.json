@@ -1,0 +1,48 @@
+{
+  "id": 89745,
+  "description": "16th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 16,
+  "homeTeam": 61,
+  "awayTeam": 63,
+  "series": 7607,
+  "venue": 154,
+  "startTime": 1712152800000,
+  "completeTime": 1712166555184,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 63
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 106
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 63,
+      "batTeamName": "KKR",
+      "score": 272,
+      "wickets": 7,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 61,
+      "batTeamName": "DC",
+      "score": 166,
+      "wickets": 10,
+      "overs": 17.2,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 104
+    }
+  ],
+  "state": "complete"
+}

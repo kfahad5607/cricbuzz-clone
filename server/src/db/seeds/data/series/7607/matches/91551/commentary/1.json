@@ -1,0 +1,3952 @@
+[
+  {
+    "timestamp": 1714304784882,
+    "commText": "<p>We're back for the chase.. GT have made their impact sub, <b>Sandeep Warrier replaces Sai Sudharasan</b>. It'll be Omarzai who'll start, a slip in place</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304781903,
+    "commText": "<p><b>Stats:</b> 28th time RCB have conceded 200+ in IPL - the joint most with Punjab Kings. \\n- Highest total for Titans batting first this IPL</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304781893,
+    "commText": "<p><b>Shahrukh Khan:</b> First time I have come out to bat 4 (in IPL.) Before the game Ashish Nehra told me I might bat at 4, so was prepared in the bus itself. The first over spun a bit, the pitch dried up. The wicket is spinning but 200 is a good score. I just had to step out and hit straight. Have been working in the nets with our coaches. Good to play along with him (Sai Sudharsan), we have a good relationship. I think so, 200 is enough. It's important to bowl well and restrict them.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304781882,
+    "commText": "<p><b>17:17 Local Time, 11:47 GMT, 17:17 IST:</b> Gujarat Titans have runs on the board and they've plenty of them. They were off to a slow start, lost Saha in the first over and then Gill struggled to get going, he was dismissed for 19, but Shahrukh Khan was then promoted to number 4, he was sent to take on the spinners and he did so with aplomb. Together with Sai Sudharsan, the Tamil Nadu pair added 45-ball 86-run 3rd wicket stand. He was dismissed but Miller joined Sai and the pair added 69 off 35 balls as GT ended up with a big score. RCB bowled to a plan, they fielded well, but they also conceded a heap of boundaries. They've packed their batting today with Karn Sharma probably batting at 10, but they need to keep winning and the pressure will be on them. Back shortly for the chase..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304778882,
+    "commText": "<p> Yash Dayal to Miller, <b>SIX</b>, a high full-toss and Miller has deposited it over deep mid-wicket, it's a maximum and <b>GT finish with exactly 200</b> - Dayal missed his yorker and that ruined what was a very good last over until then </p>",
+    "overs": 20,
+    "events": [
+      "OVER_BREAK",
+      "TEAM_HUNDRED",
+      "SIX",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 26,
+      "ballsPlayed": 19,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 34,
+      "bowlWickets": 0,
+      "bowlWides": 3,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714304745085,
+    "commText": "<p> Yash Dayal to Miller, 2 runs, another half-chance? No, it got to Jacks on the half-volley, back of a length and angling into the left-hander, Miller clonked the pull towards long-on - Jacks ran in, but the ball was always dropping in front of him </p>",
+    "overs": 19.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 20,
+      "ballsPlayed": 18,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 3,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714304705493,
+    "commText": "<p> Yash Dayal to Sai Sudharsan, 1 run, yorker length delivery on the pads, Sai Sudharsan bends down low and squeezes an inside edge onto the on-side </p>",
+    "overs": 19.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 84,
+      "ballsPlayed": 49,
+      "dotBalls": 10,
+      "batFours": 8,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 26,
+      "bowlWickets": 0,
+      "bowlWides": 3,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714304666107,
+    "commText": "<p> Yash Dayal to Sai Sudharsan, 2 runs, excellent effort in the deep, it's Rajat Patidar in the deep, ran a long way to his left from deep point, took the catch and then realised that the momentum was taking him over the roeps, drags the ball back in and saves runs, was the slower short ball and Sai Sudharsan had flayed the cut over cover </p>",
+    "overs": 19.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 83,
+      "ballsPlayed": 48,
+      "dotBalls": 10,
+      "batFours": 8,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 0,
+      "bowlWides": 3,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714304628358,
+    "commText": "<p> Yash Dayal to Miller, 1 run, the perfect yorker now, angled into the left-hander and it's squeezed behind square on the on-side for a single </p>",
+    "overs": 19.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 18,
+      "ballsPlayed": 17,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 0,
+      "bowlWides": 3,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714304591000,
+    "commText": "<p> Yash Dayal to Miller, <b>wide</b>, the wide yorker, but it's past the tramlines once again, called as a wide </p>",
+    "overs": 19.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 17,
+      "ballsPlayed": 16,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 3,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714304560476,
+    "commText": "<p> Yash Dayal to Miller, 2 runs, another slower short ball from Dayal, pulled to the left of long-on and Miller scampers back for the second </p>",
+    "overs": 19.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 17,
+      "ballsPlayed": 16,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 0,
+      "bowlWides": 2,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714304517588,
+    "commText": "<p> Yash Dayal to Miller, <b>wide</b>, the slower ball from Dayal, but he's just pushed it past the tramline and is called as a wide </p>",
+    "overs": 19.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 15,
+      "ballsPlayed": 15,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 2,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714304489052,
+    "commText": "<p><b>Yash Dayal [3.0-0-18-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 15,
+      "ballsPlayed": 15,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304455672,
+    "commText": "<p> Siraj to Miller, 1 run, slower short ball, angled across the left-hander and it's hacked without any timing, a single to deep mid-wicket, <b>13 off the over</b> </p>",
+    "overs": 19,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 15,
+      "ballsPlayed": 15,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 34,
+      "bowlWickets": 1,
+      "bowlWides": 4,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304423266,
+    "commText": "<p> Siraj to Miller, <b>wide</b>, Siraj attempts the wide yorker and spills it miles wide of off, called by the umpire </p>",
+    "overs": 19,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 14,
+      "ballsPlayed": 14,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 33,
+      "bowlWickets": 1,
+      "bowlWides": 4,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304386717,
+    "commText": "<p> Siraj to Miller, no run, excellent delivery from Siraj - the wide yorker and Miller can't jam it out </p>",
+    "overs": 18.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 14,
+      "ballsPlayed": 14,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 1,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304356564,
+    "commText": "<p> Siraj to Miller, no run, the slower bouncer, angled across the left-hander, Miller is early into the pull and missed </p>",
+    "overs": 18.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 14,
+      "ballsPlayed": 13,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 1,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304311403,
+    "commText": "<p> Siraj to Miller, <b>FOUR</b>, <b>drilled</b>, overpitched and at the stumps - Miller gets under it and thumps it back over the bowler' shead, bounces away to the ropes </p>",
+    "overs": 18.3,
+    "events": [
+      "FOUR",
+      "PARTNERSHIP"
+    ],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 14,
+      "ballsPlayed": 12,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 1,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304264936,
+    "commText": "<p>Siraj to Sai Sudharsan, 1 run, a massive top-edge, Will Jacks cam running around from backward point, throws himself at the ball and <b>spills it</b>, a half-chance at best - Siraj kept it very full and pushed across the left-hander, Sai Sudharsan was looking to swing it over the on-side</p>",
+    "overs": 18.2,
+    "events": [
+      "DROPPED"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 81,
+      "ballsPlayed": 47,
+      "dotBalls": 10,
+      "batFours": 8,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 1,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304213671,
+    "commText": "<p> Siraj to Sai Sudharsan, <b>SIX</b>, <b>cheeky and six</b>, on a good length and at the stumps, Sai Sudharsan shuffles across, makes most of Siraj's pace and then laps it over the keeper's head, sails over the ropes </p>",
+    "overs": 18.1,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 80,
+      "ballsPlayed": 46,
+      "dotBalls": 10,
+      "batFours": 8,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 1,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304175604,
+    "commText": "<p><b>Mohammed Siraj [3.0-0-21-1] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 74,
+      "ballsPlayed": 45,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304129759,
+    "commText": "<p> Green to Sai Sudharsan, 1 run, very full and just outside off, drilled down to long-on for a single </p>",
+    "overs": 18,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 74,
+      "ballsPlayed": 45,
+      "dotBalls": 10,
+      "batFours": 8,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 42,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304096407,
+    "commText": "<p> Green to Miller, 1 run, fuller length delivery outside off, Miller stays deep and drives it past cover for a single </p>",
+    "overs": 17.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 10,
+      "ballsPlayed": 11,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 41,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304062371,
+    "commText": "<p> Green to Sai Sudharsan, 1 run, much better from Green, the wide yorker and Sai Sudharsan can only squeeze it to mid-off </p>",
+    "overs": 17.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 73,
+      "ballsPlayed": 44,
+      "dotBalls": 10,
+      "batFours": 8,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 40,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714304024020,
+    "commText": "<p> Green to Sai Sudharsan, <b>FOUR</b>, make that three in a row - short of a good length and just outside off, was the slower ball, but Sudharsan is early into the swivel and clubs it through mid-wicket </p>",
+    "overs": 17.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 72,
+      "ballsPlayed": 43,
+      "dotBalls": 10,
+      "batFours": 8,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 39,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303980723,
+    "commText": "<p> Green to Sai Sudharsan, <b>FOUR</b>, back-to-back boundaries for Sai Sudharsan - short and just outside off, he swivels across and then muscles the pull through mid-wicket, picked the gap between the two fielders in the deep </p>",
+    "overs": 17.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 68,
+      "ballsPlayed": 42,
+      "dotBalls": 10,
+      "batFours": 7,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 35,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303943134,
+    "commText": "<p> Green to Sai Sudharsan, <b>FOUR</b>, <b>lovely</b>, on a good length and well wide of off, Sai Sudharsan presses forward and then flays the drive over cover, bounces away to the ropes </p>",
+    "overs": 17.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 64,
+      "ballsPlayed": 41,
+      "dotBalls": 10,
+      "batFours": 6,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303918249,
+    "commText": "<p><b>Cameron Green [2.0-0-27-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 60,
+      "ballsPlayed": 40,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303863698,
+    "commText": "<p>Green, from round the wicket</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303860698,
+    "commText": "<p> Yash Dayal to Miller, <b>FOUR</b>, <b>clubbed</b>, back of a length and angling into the left-hander, Miller stands tall and then swats it through mid-wicket, bisects the gap between the two men in the deep and he finishes the over with a boundary </p>",
+    "overs": 17,
+    "events": [
+      "OVER_BREAK",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 9,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714303827093,
+    "commText": "<p> Yash Dayal to Miller, no run, tad fuller and just outside off, punched right back at the bowler </p>",
+    "overs": 16.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 5,
+      "ballsPlayed": 9,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714303795314,
+    "commText": "<p> Yash Dayal to Sai Sudharsan, 1 run, fraction fuller and just outside off - Sai Sudharsan cleared his left leg and went hard on the slog, mistiming it to long-on </p>",
+    "overs": 16.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 60,
+      "ballsPlayed": 40,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714303751100,
+    "commText": "<p> Yash Dayal to Miller, 1 run, on a good length and just outside off, pushed into the gap square past point for a single </p>",
+    "overs": 16.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 5,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714303713904,
+    "commText": "<p> Yash Dayal to Miller, no run, back of a length and in that channel just outside off, Miller was looking to steer it towards third man and missed </p>",
+    "overs": 16.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 4,
+      "ballsPlayed": 7,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714303658551,
+    "commText": "<p> Yash Dayal to Miller, no run, excellent bowling from Dayal - the wide yorker and Miller lost his shape on the drive, gets a thin edge through to Karthik </p>",
+    "overs": 16.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 4,
+      "ballsPlayed": 6,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714303631283,
+    "commText": "<p> Yash Dayal to Sai Sudharsan, <b>no ball</b>, 1 run, back of a length and just outside off, bowled into the pitch and Sai Sudharsan miscues the pull to long-on, but Dayal has overstepped and Miller will get to face the free-hit </p>",
+    "overs": 16.1,
+    "events": [
+      "TEAM_HUNDRED"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 59,
+      "ballsPlayed": 39,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714303623308,
+    "commText": "<p><b>Yash Dayal [2.0-0-10-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303505472,
+    "commText": "<p> Maxwell to Sai Sudharsan, 1 run, flatter and wider of off, chopped away square on the off-side for a single </p>",
+    "overs": 16,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 58,
+      "ballsPlayed": 38,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303474642,
+    "commText": "<p> Maxwell to Sai Sudharsan, <b>SIX</b>, that has been <b>slogged</b>, tad too full and too straight from Maxwell - Sai Sudharsan backs away and then drags it high and over long-on, went sailing into the stands </p>",
+    "overs": 15.5,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 57,
+      "ballsPlayed": 37,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303450599,
+    "commText": "<p> Maxwell to Miller, 1 run, Maxwell tosses one just outside off, driven down to long-off for a single </p>",
+    "overs": 15.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 4,
+      "ballsPlayed": 5,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303405366,
+    "commText": "<p> Maxwell to Sai Sudharsan, 1 run, dropped short and wide of off, cut to the left of backward point, they're off for a quick single and Miller has to dive to make his ground </p>",
+    "overs": 15.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 51,
+      "ballsPlayed": 36,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303387203,
+    "commText": "<p> Maxwell to Sai Sudharsan, no run, flighted delivery outside off, Sai Sudharsan comes down the pitch and finds cover with the drive </p>",
+    "overs": 15.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 50,
+      "ballsPlayed": 35,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303361535,
+    "commText": "<p> Maxwell to Miller, 1 run, tossed up on the leg-stump line, nudged behind square on the on-side for a single </p>",
+    "overs": 15.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 3,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303331198,
+    "commText": "<p><b>Glenn Maxwell [2.0-0-18-1] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 2,
+      "ballsPlayed": 3,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303130986,
+    "commText": "<p>Maxwell back for a third over</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303127986,
+    "commText": "<p>Time for the <b>strategic break</b>. Shahrukh and Sai Sudharsan have ensured that the platform has been set for a big total. Can GT go past 200? With their bowling attack, that'll be a good total to defend</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303124986,
+    "commText": "<p> Siraj to Miller, 1 run, banged in short from Siraj - pulled behind square on the on-side for a single </p>",
+    "overs": 15,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 2,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 1,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303079629,
+    "commText": "<p> Siraj to Sai Sudharsan, 1 run, excellent from Maxwell, saved three runs for his team - banged in short and at the body, Sudharsan swivelled across and then pulled it backward of square on the on-side, was racing away until that sliding effort, the single brings up <b>Sai Sudharsan's fifty</b> </p>",
+    "overs": 14.5,
+    "events": [
+      "FIFTY"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 50,
+      "ballsPlayed": 34,
+      "dotBalls": 9,
+      "batFours": 5,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 1,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714303033659,
+    "commText": "<p> Siraj to Sai Sudharsan, <b>FOUR</b>, that's easy pickings for Sai Sudharsan - Siraj was looking for the leg-stump yorker, but pushes it full and down leg, the left-hander gets a neat little inside edge on the flick and it races away past DK </p>",
+    "overs": 14.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 49,
+      "ballsPlayed": 33,
+      "dotBalls": 9,
+      "batFours": 5,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302981305,
+    "commText": "<p> Siraj to Miller, 1 run, yorker length delivery wide of off, Miller toe-ends the drive past cover for a single </p>",
+    "overs": 14.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 1,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302947082,
+    "commText": "<p>A slip in place for the left-hander</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302944082,
+    "commText": "<p> Siraj to Miller, no run, fuller length delivery outside off, driven straight to the fielder at mid-off </p>",
+    "overs": 14.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 1,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302879658,
+    "commText": "<p><b>David Miller, left handed bat, comes to the crease</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6349,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302812382,
+    "commText": "<p> Siraj to Shahrukh Khan, <b>out</b> Bowled!! That's an absolute corker and Siraj has got rid of the dangerous Shahrukh - full and tailing back into the right-hander, Shahrukh cleared his left leg on the hoick, but he's undone by sheer pace and movement, the ball crashes into the leg-stump and Siraj is off in celebrations. End of a fine knock though and the GT dug-out acknowledge his knock. <b>Shahrukh Khan b Siraj 58(30) [4s-3 6s-5]</b> </p>",
+    "overs": 14.1,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 58,
+      "ballsPlayed": 30,
+      "dotBalls": 8,
+      "batFours": 3,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 1,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302810435,
+    "commText": "<p> Siraj to Shahrukh Khan, <b>THATS OUT!!</b> Bowled!! </p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 58,
+      "ballsPlayed": 29,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302773079,
+    "commText": "<p><b>Mohammed Siraj [2.0-0-14-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 58,
+      "ballsPlayed": 29,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302706917,
+    "commText": "<p> Swapnil Singh to Shahrukh Khan, 1 run, dragged short and wide of off, Shahrukh comes down the pitch and hacks it down to long-off for a single, just 6 singles off the over </p>",
+    "overs": 14,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 58,
+      "ballsPlayed": 29,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302666540,
+    "commText": "<p>Singh aborts his action as he saw Shahrukh Khan move right across</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302663540,
+    "commText": "<p> Swapnil Singh to Sai Sudharsan, 1 run, a juicy full-toss, Sai Sudharsan went hard and mistimed the slog past square leg for a single </p>",
+    "overs": 13.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 45,
+      "ballsPlayed": 32,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302645653,
+    "commText": "<p> Swapnil Singh to Sai Sudharsan, no run, tossed up and drifting across the left-hander, Sudharsan swings across the line and misses </p>",
+    "overs": 13.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 44,
+      "ballsPlayed": 31,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302592076,
+    "commText": "<p>Swapnil Singh to Shahrukh Khan, 1 run, Swapnil keeps it slower and wider of off, makes Shahrukh reach out on the drive, carved over cover, there's a fielder in the deep and it's only a single</p>",
+    "overs": 13.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 57,
+      "ballsPlayed": 28,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302552049,
+    "commText": "<p> Swapnil Singh to Shahrukh Khan, 2 runs, slower and wider of off, Shahrukh reaches out and cuts it in front of square on the off-side, comes back for the second </p>",
+    "overs": 13.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 56,
+      "ballsPlayed": 27,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302465870,
+    "commText": "<p><b>Stat:</b> 36 innings to maiden 50+ score by Shahrukh Khan is the longest for a specialist batter/batting all rounder in IPL (Previous most: 31 by Steven Smith) \\nOnly five batters have taken longer to register their maiden IPL fifty - Jadeja, Axar, Ashwin, Harbhajan & Rashid Khan.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302465860,
+    "commText": "<p> Swapnil Singh to Sai Sudharsan, 1 run, dropped short and wide of off, slapped away square on the off-side for a single </p>",
+    "overs": 13.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 44,
+      "ballsPlayed": 30,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302438419,
+    "commText": "<p><b>Swapnil Singh [2.0-0-17-1] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 43,
+      "ballsPlayed": 29,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302434821,
+    "commText": "<p>Swapnil is back for his 3rd over, a false start as he stumbles</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302371562,
+    "commText": "<p><b>Over Summary (7-13) - 83 runs | 1 wicket:</b> \\n-- Green takes a superb catch and Gill falls to Maxwell \\n--\u00a0Sudharsan breaks the shackles - 6 & 4 vs Karn \\n--\u00a0Shahrukh goes after\u00a0Maxwell; 13 runs off the over \\n-- Another good over for GT as Karn concedes 10 runs \\n-- Fifty partnership in 27 balls between Sai & Shahrukh \\n-- 24-ball fifty for Shahrukh Khan \\n-- Green leaks 17 runs off his 2nd over</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302371552,
+    "commText": "<p> Green to Shahrukh Khan, no run, back of a length around off, Shahrukh Khan defends it towards cover </p>",
+    "overs": 13,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 54,
+      "ballsPlayed": 26,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302340416,
+    "commText": "<p> Green to Sai Sudharsan, 1 run, on a length around off, Sai Sudharsan looks to work across the line, gets an inside edge on to the pads. Takes a single </p>",
+    "overs": 12.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 43,
+      "ballsPlayed": 29,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302300004,
+    "commText": "<p> Green to Shahrukh Khan, 1 run, on a length around middle and leg, nudged towards long-on for a single </p>",
+    "overs": 12.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 54,
+      "ballsPlayed": 25,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 26,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302259331,
+    "commText": "<p> Green to Shahrukh Khan, <b>SIX</b>, Shahrukh Khan on a roll! This was on the fuller side and Shahrukh Khan launches it over long-on for a maximum. <b>Brings up his maiden fifty in IPL</b> </p>",
+    "overs": 12.3,
+    "events": [
+      "FIFTY",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 53,
+      "ballsPlayed": 24,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302220384,
+    "commText": "<p> Green to Shahrukh Khan, <b>FOUR</b>, short and wide outside off, Shahrukh Khan slashes it over backward point for four more </p>",
+    "overs": 12.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 47,
+      "ballsPlayed": 23,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302184973,
+    "commText": "<p> Green to Shahrukh Khan, <b>wide</b>, banged in short by Green, sails over the batter's head </p>",
+    "overs": 12.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 43,
+      "ballsPlayed": 22,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302147045,
+    "commText": "<p> Green to Shahrukh Khan, <b>FOUR</b>, a full toss on off, Shahrukh Khan drills it past Green for a glorious boundary. Couldn't get down in time to stop that </p>",
+    "overs": 12.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 43,
+      "ballsPlayed": 22,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302034816,
+    "commText": "<p> Karn Sharma to Shahrukh Khan, 1 run, nudged past the non-striker for a single </p>",
+    "overs": 12,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 39,
+      "ballsPlayed": 21,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 38,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714302005893,
+    "commText": "<p> Karn Sharma to Sai Sudharsan, 1 run, tad short on off, punched along the carpet to long-off for a single </p>",
+    "overs": 11.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 42,
+      "ballsPlayed": 28,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 37,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301981275,
+    "commText": "<p> Karn Sharma to Shahrukh Khan, 1 run, darted on the pads, worked through the leg-side for a single </p>",
+    "overs": 11.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 38,
+      "ballsPlayed": 20,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 36,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301941971,
+    "commText": "<p> Karn Sharma to Shahrukh Khan, <b>SIX</b>, <b>100 up with this maximum!</b> A tossed up delivery on off, Shahrukh Khan advances down the track and thumps it over wide long-off for six more. RCB players can do nothing more than watching the ball sail into the stands </p>",
+    "overs": 11.3,
+    "events": [
+      "TEAM_HUNDRED",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 37,
+      "ballsPlayed": 19,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 35,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301897213,
+    "commText": "<p> Karn Sharma to Sai Sudharsan, 1 run, short and wide outside off, punched through cover for a single </p>",
+    "overs": 11.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 41,
+      "ballsPlayed": 27,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 29,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301856344,
+    "commText": "<p> Karn Sharma to Sai Sudharsan, <b>SIX</b>, <b>50-run stand up!</b> Tossed up delivery on middle and leg, Sai Sudharsan goes down on his knee and slogsweeps it over deep square leg for a flat six </p>",
+    "overs": 11.1,
+    "events": [
+      "SIX",
+      "PARTNERSHIP"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 40,
+      "ballsPlayed": 26,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301783996,
+    "commText": "<p> Green to Sai Sudharsan, 1 run, drifting on the pads, worked through the leg-side by Sai Sudharsan for a single </p>",
+    "overs": 11,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 34,
+      "ballsPlayed": 25,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301751553,
+    "commText": "<p> Green to Shahrukh Khan, 1 run, width on offer as Shahrukh Khan slashes it over point for a single </p>",
+    "overs": 10.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 31,
+      "ballsPlayed": 18,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301711230,
+    "commText": "<p> Green to Shahrukh Khan, <b>SIX</b>, <b>short and punished!</b> Gets into position quickly and pulls this over deep square leg for half-a-dozen </p>",
+    "overs": 10.4,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 30,
+      "ballsPlayed": 17,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301671529,
+    "commText": "<p> Green to Sai Sudharsan, 1 run, on a length around leg, Sai Sudharsan works it through backward square leg for a single </p>",
+    "overs": 10.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 33,
+      "ballsPlayed": 24,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301625637,
+    "commText": "<p> Green to Shahrukh Khan, 1 run, width on offer outside off, Shahrukh Khan slices it over backward point for a single </p>",
+    "overs": 10.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 24,
+      "ballsPlayed": 16,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301589602,
+    "commText": "<p> Green to Shahrukh Khan, no run, banged in short by Green, sharp carry as Shahrukh Khan goes for a pull and gets beaten due to the bounce </p>",
+    "overs": 10.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 23,
+      "ballsPlayed": 15,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 12225,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301580770,
+    "commText": "<p><b>Cameron Green, right-arm medium, comes into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 23,
+      "ballsPlayed": 14,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301498538,
+    "commText": "<p> Karn Sharma to Sai Sudharsan, no run, on a length around leg, Sai Sudharsan clips it to short fine leg </p>",
+    "overs": 10,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 32,
+      "ballsPlayed": 23,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301481229,
+    "commText": "<p> Karn Sharma to Sai Sudharsan, <b>wide</b>, drifting down the leg-side and that's a wide ball </p>",
+    "overs": 10,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 32,
+      "ballsPlayed": 22,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301450623,
+    "commText": "<p> Karn Sharma to Shahrukh Khan, 1 run, width on offer as Shahrukh Khan slaps this through the off-side for a single </p>",
+    "overs": 9.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 23,
+      "ballsPlayed": 14,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301420573,
+    "commText": "<p> Karn Sharma to Sai Sudharsan, 1 run, loopy delivery on leg, Sai Sudharsan whips it through backward square leg for a single </p>",
+    "overs": 9.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 32,
+      "ballsPlayed": 22,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301387571,
+    "commText": "<p> Karn Sharma to Shahrukh Khan, 1 run, full and wide outside off, Shahrukh Khan square drives this through backward point for one </p>",
+    "overs": 9.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 22,
+      "ballsPlayed": 13,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301366442,
+    "commText": "<p> Karn Sharma to Shahrukh Khan, no run, floated on off, Shahrukh Khan knocks it into the off-side with soft hands </p>",
+    "overs": 9.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 21,
+      "ballsPlayed": 12,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301329762,
+    "commText": "<p> Karn Sharma to Shahrukh Khan, <b>SIX</b>, Shahrukh Khan continues to up the ante. Shimmies down the track and thumps the floated delivery over long-off for a flat six </p>",
+    "overs": 9.1,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 21,
+      "ballsPlayed": 11,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301083825,
+    "commText": "<p>Sudharsan vs LA orthodox/leg spin: 20 off 6 (SR 333) \\nShahrukh vs off spin: 14 off 7 (SR 200)</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301083815,
+    "commText": "<p><b>Strategic timeout!</b> A steady partnership building between the two boys from Tamil Nadu. Gill and Saha couldn't contribute much but the Titans are still in a decent position. Would be interesting to see how many more runs these two add in the upcoming phase..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301080815,
+    "commText": "<p> Maxwell to Shahrukh Khan, 1 run, loopy delivery on middle and leg, driven along the carpet to long-on for a single </p>",
+    "overs": 9,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 15,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301048898,
+    "commText": "<p> Maxwell to Shahrukh Khan, <b>FOUR</b>, short and punished. Rocks back in the crease and pummels the pull through mid-wicket. Sai and Shah dealing in boundaries against the spinners </p>",
+    "overs": 8.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 14,
+      "ballsPlayed": 9,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714301027635,
+    "commText": "<p> Maxwell to Shahrukh Khan, no run, punched into the off-side by Shahrukh Khan </p>",
+    "overs": 8.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 10,
+      "ballsPlayed": 8,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300988070,
+    "commText": "<p> Maxwell to Shahrukh Khan, <b>SIX</b>, <b>first biggie for SRK!</b> Gives this some good flight and Shahrukh Khan has smoked it over long-on for an <b>81m six</b> </p>",
+    "overs": 8.3,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 10,
+      "ballsPlayed": 7,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300965783,
+    "commText": "<p> Maxwell to Sai Sudharsan, 1 run, on the pads, worked through the leg-side for a single </p>",
+    "overs": 8.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 31,
+      "ballsPlayed": 21,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300933738,
+    "commText": "<p> Maxwell to Shahrukh Khan, 1 run, dances down the wicket, nudging it towards mid-on for a single </p>",
+    "overs": 8.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 4,
+      "ballsPlayed": 6,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300871654,
+    "commText": "<p> Karn Sharma to Sai Sudharsan, <b>FOUR</b>, <b>a productive over for GT!</b> This was on the shorter side and Sai Sudharsan rocks back in the crease to pull it towards deep mid-wicket, beats the fielder's dive and adds four more to the tally </p>",
+    "overs": 8,
+    "events": [
+      "OVER_BREAK",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 30,
+      "ballsPlayed": 20,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300833074,
+    "commText": "<p> Karn Sharma to Sai Sudharsan, <b>SIX</b>, loopy delivery on middle and leg, Sai Sudharsan takes him on and swings it over deep mid-wicket for half-a-dozen </p>",
+    "overs": 7.5,
+    "events": [
+      "TEAM_FIFTY",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 26,
+      "ballsPlayed": 19,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300802224,
+    "commText": "<p> Karn Sharma to Shahrukh Khan, 1 run, on the fuller side, Shahrukh Khan drives it along the carpet to long-off for a single </p>",
+    "overs": 7.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 3,
+      "ballsPlayed": 5,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300785227,
+    "commText": "<p> Karn Sharma to Shahrukh Khan, no run, tossed up delivery on off, pushed to cover by Shahrukh Khan </p>",
+    "overs": 7.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 2,
+      "ballsPlayed": 4,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300753401,
+    "commText": "<p>Titans openers have scored at 134.62 strike rate this season - the only side whose openers are striking at under 140 (next lowest: LSG at 141.14)</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300753391,
+    "commText": "<p> Karn Sharma to Shahrukh Khan, no run, loopy delivery on off, Shahrukh Khan defends it towards cover. Wanted a single but has to turn back as Faf was quick to gather the ball and get rid of it </p>",
+    "overs": 7.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 2,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300708239,
+    "commText": "<p> Karn Sharma to Sai Sudharsan, 1 run, driven straight down the pitch as the ball hits Shahrukh Khan at the non-striker's end. They end up taking a single but that was hit hard </p>",
+    "overs": 7.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 20,
+      "ballsPlayed": 18,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1844,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300691759,
+    "commText": "<p><b>Karn Sharma, right-arm leg break, comes into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 19,
+      "ballsPlayed": 17,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300625778,
+    "commText": "<p> Maxwell to Shahrukh Khan, 2 runs, tad short outside off, Shahrukh Khan cuts it through backward point and gets off the mark with a brace. Good work by Lomror in the deep, gets rid of the ball quickly after stopping it </p>",
+    "overs": 7,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 2,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300599997,
+    "commText": "<p> Maxwell to Shahrukh Khan, no run, tad short outside off, Shahrukh Khan cuts it towards short third man on the bounce </p>",
+    "overs": 6.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300575974,
+    "commText": "<p><b>Shahrukh Khan, right handed bat, comes to the crease</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10226,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300491967,
+    "commText": "<p> Maxwell to Shubman Gill, <b>out</b> Caught by Green!! Maxwell strikes in his first over, gets the big fish. Was a tossed up delivery and Shubman Gill looks to take him on. Lofts it towards long-on and Green in the deep takes a fine catch running to his left. Well judged catch as the Titans have now lost both their openers. A rusty knock that was by the GT skipper. <b>Shubman Gill c Green b Maxwell 16(19) [4s-1]</b> </p>",
+    "overs": 6.4,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 16,
+      "ballsPlayed": 19,
+      "dotBalls": 8,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300488373,
+    "commText": "<p> Maxwell to Shubman Gill, <b>THATS OUT!!</b> Caught!! </p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 16,
+      "ballsPlayed": 18,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300451126,
+    "commText": "<p> Maxwell to Shubman Gill, 2 runs, on the shorter side, Shubman Gill cuts it through point for a couple of runs </p>",
+    "overs": 6.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 16,
+      "ballsPlayed": 18,
+      "dotBalls": 7,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300424141,
+    "commText": "<p> Maxwell to Shubman Gill, no run, straighter delivery outside off, Shubman Gill has a poke at it, gets beaten though </p>",
+    "overs": 6.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 14,
+      "ballsPlayed": 17,
+      "dotBalls": 7,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300387600,
+    "commText": "<p> Maxwell to Sai Sudharsan, 1 run, tossed up delivery on middle and leg, driven along the carpet to long-on </p>",
+    "overs": 6.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 19,
+      "ballsPlayed": 17,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300348148,
+    "commText": "<p><b>Glenn Maxwell, right-arm off break, comes into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 18,
+      "ballsPlayed": 16,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300298216,
+    "commText": "<p>Only the second time this season RCB have conceded less than 50 runs in the Powerplay - 40/1 vs PK in Bengaluru being the other (One of the two times RCB won)</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300298206,
+    "commText": "<p><b>Over Summary (1-6):</b> \\n-- Swapnil removes Saha in the 1st over \\n-- Gill survives a run-out chance \\n-- Sai Sudharsan scores back-to-back fours off Swapnil \\n-- Yash Dayal bowls a tidy over \\n-- Not many freebies on offer from RCB</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300298196,
+    "commText": "<p> Yash Dayal to Sai Sudharsan, 1 run, back of a length around middle and leg, nudged through mid-wicket by Sai Sudharsan for a single </p>",
+    "overs": 6,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 18,
+      "ballsPlayed": 16,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300260566,
+    "commText": "<p> Yash Dayal to Sai Sudharsan, no run, low dipping yorker, Sai Sudharsan digs it towards the on-side </p>",
+    "overs": 5.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 17,
+      "ballsPlayed": 15,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300217795,
+    "commText": "<p> Yash Dayal to Sai Sudharsan, no run, on a length around middle and leg, nudged towards the leg-side by Sai Sudharsan </p>",
+    "overs": 5.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 17,
+      "ballsPlayed": 14,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300178766,
+    "commText": "<p> Yash Dayal to Sai Sudharsan, <b>FOUR</b>, width on offer, Sai Sudharsan slashes it towards backward point where he manages to beat the fielder who was diving across to his left, there was a fielder in the deep too but even he couldn't stop it </p>",
+    "overs": 5.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 17,
+      "ballsPlayed": 13,
+      "dotBalls": 5,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300136306,
+    "commText": "<p> Yash Dayal to Sai Sudharsan, no run, short of a length around off, Sai Sudharsan attempts a back foot punch, doesn't middle it though </p>",
+    "overs": 5.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 13,
+      "ballsPlayed": 12,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300102549,
+    "commText": "<p> Yash Dayal to Sai Sudharsan, <b>wide</b>, attempts a slower one outside off, way outside the tramline though </p>",
+    "overs": 5.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 13,
+      "ballsPlayed": 11,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714300069931,
+    "commText": "<p> Yash Dayal to Shubman Gill, 1 run, loose delivery down the leg-side, Shubman Gill flicks it away neatly but the fielder at short fine leg does well to stop it </p>",
+    "overs": 5.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 14,
+      "ballsPlayed": 16,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299991773,
+    "commText": "<p> Siraj to Shubman Gill, 1 run, a low full toss to end the over as Shubman Gill flicks it through the leg-side for one </p>",
+    "overs": 5,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 13,
+      "ballsPlayed": 15,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299918923,
+    "commText": "<p> Siraj to Sai Sudharsan, 1 run, well executed yorker at the stumps, Sai Sudharsan digs it towards mid-on for one </p>",
+    "overs": 4.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 13,
+      "ballsPlayed": 11,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299880644,
+    "commText": "<p> Siraj to Sai Sudharsan, no run, pitched up by the bowler on middle and leg, Sai Sudharsan drives it to mid-on </p>",
+    "overs": 4.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 12,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299840642,
+    "commText": "<p> Siraj to Sai Sudharsan, <b>wide</b>, banged in short by Siraj, sails over the batter again, wide called </p>",
+    "overs": 4.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 12,
+      "ballsPlayed": 9,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 3,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299794966,
+    "commText": "<p> Siraj to Sai Sudharsan, <b>wide</b>, short and quick down the leg-side, Sai Sudharsan goes for a pull, misses </p>",
+    "overs": 4.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 12,
+      "ballsPlayed": 9,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 11,
+      "bowlWickets": 0,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299747358,
+    "commText": "<p> Siraj to Shubman Gill, 1 run, low full toss on the pads, Shubman Gill clips it past Dayal at square leg, just a single </p>",
+    "overs": 4.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 12,
+      "ballsPlayed": 14,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299713261,
+    "commText": "<p> Siraj to Shubman Gill, no run, back of a length on off, Shubman Gill flat-bats it to mid-off </p>",
+    "overs": 4.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 11,
+      "ballsPlayed": 13,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299670242,
+    "commText": "<p> Siraj to Sai Sudharsan, 1 run, on a length around middle and leg, Sai Sudharsan works it through backward square leg for a single </p>",
+    "overs": 4.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 12,
+      "ballsPlayed": 9,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299634850,
+    "commText": "<p> Siraj to Sai Sudharsan, <b>wide</b>, fired down the leg-side, Sai Sudharsan looks to whip it away, fails to make contact </p>",
+    "overs": 4.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 11,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299627554,
+    "commText": "<p><b>Mohammed Siraj [1.0-0-7-0] is back into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 11,
+      "ballsPlayed": 8,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299565985,
+    "commText": "<p> Yash Dayal to Sai Sudharsan, 1 run, 133kph, Yash Dayal goes full on off as Sai Sudharsan drives it through cover for a single to end the over </p>",
+    "overs": 4,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 11,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299527433,
+    "commText": "<p> Yash Dayal to Sai Sudharsan, no run, 135kph, on a length around middle and leg, nudged to mid-wicket by Sai Sudharsan </p>",
+    "overs": 3.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 10,
+      "ballsPlayed": 7,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299488153,
+    "commText": "<p> Yash Dayal to Shubman Gill, 1 run, 106kph, slower delivery on leg, Shubman Gill clips it through square leg for a single </p>",
+    "overs": 3.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 11,
+      "ballsPlayed": 12,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299448817,
+    "commText": "<p> Yash Dayal to Sai Sudharsan, 1 run, on a length around off, Sai Sudharsan punches it to cover where the fielder gets his hand to it with a dive. Was Kohli who stopped a boundary with a dive to his right, can't deny the single though </p>",
+    "overs": 3.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 10,
+      "ballsPlayed": 6,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299404778,
+    "commText": "<p> Yash Dayal to Sai Sudharsan, no run, short of a length around off, Sai Sudharsan defends it from within the crease </p>",
+    "overs": 3.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 9,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299361316,
+    "commText": "<p> Yash Dayal to Shubman Gill, leg byes, 1 run, back of a length on leg, clips the batter's pads and rolls towards the on-side </p>",
+    "overs": 3.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 10,
+      "ballsPlayed": 11,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14172,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299340829,
+    "commText": "<p><b>Yash Dayal, left-arm fast medium, comes into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 10,
+      "ballsPlayed": 10,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299277305,
+    "commText": "<p> Swapnil Singh to Sai Sudharsan, <b>FOUR</b>, back-to-back boundaries. Tossed up delivery on middle and leg, Sai Sudharsan sweeps it through short fine leg for four more. A productive over for the Titans </p>",
+    "overs": 3,
+    "events": [
+      "OVER_BREAK",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 9,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299233133,
+    "commText": "<p> Swapnil Singh to Sai Sudharsan, <b>FOUR</b>, first boundary for Sai Sudharsan. Shimmies down the wicket and creams this through cover for a rollicking boundary </p>",
+    "overs": 2.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 5,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299203104,
+    "commText": "<p> Swapnil Singh to Shubman Gill, 1 run, tad short on off, Shubman Gill punches it to wide long-off for a single </p>",
+    "overs": 2.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 10,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299175333,
+    "commText": "<p> Swapnil Singh to Shubman Gill, no run, full and straight on off, Shubman Gill guides it back to the bowler </p>",
+    "overs": 2.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 9,
+      "ballsPlayed": 9,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299147831,
+    "commText": "<p> Swapnil Singh to Sai Sudharsan, 1 run, tad short on middle and leg, nudged to long-on by Sai Sudharsan for a single </p>",
+    "overs": 2.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299095218,
+    "commText": "<p> Swapnil Singh to Shubman Gill, 1 run, flatter delivery on off, Shubman Gill pushes it through wide mid-off for a single </p>",
+    "overs": 2.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 9,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714299033679,
+    "commText": "<p> Siraj to Sai Sudharsan, no run, short and quick on off, Sai Sudharsan sways away </p>",
+    "overs": 2,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 13866,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298920668,
+    "commText": "<p> Siraj to Shubman Gill, 1 run, <b>run-out chance missed!</b> Shubman Gill drives this towards mid-off and calls for a quick single. Kohli is quick to charge towards the ball and collect it, but he fails to nail a direct-hit at the bowler's end. Shubman Gill put in a dive but had there been a direct-hit, Gill was a goner! Lucky escape for the GT captain </p>",
+    "overs": 1.5,
+    "events": [
+      "RUNOUT_MISS"
+    ],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 8,
+      "ballsPlayed": 7,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298876903,
+    "commText": "<p> Siraj to Shubman Gill, no run, 139 clicks, on the fuller side outside off, Shubman Gill drives it to cover </p>",
+    "overs": 1.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 7,
+      "ballsPlayed": 6,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298841617,
+    "commText": "<p> Siraj to Shubman Gill, 2 runs, on a length around middle and leg, Shubman Gill clips it to wide mid-on for a single </p>",
+    "overs": 1.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 7,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298783695,
+    "commText": "<p> Siraj to Shubman Gill, <b>FOUR</b>, lovely shot. This was pitched up by Siraj and Shubman Gill nails his straight drive, no need to run for those. The timing was supreme </p>",
+    "overs": 1.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 5,
+      "ballsPlayed": 4,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298749014,
+    "commText": "<p> Siraj to Shubman Gill, no run, pitched up by the bowler on off, Shubman Gill drives it crisply to cover </p>",
+    "overs": 1.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 1,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298734168,
+    "commText": "<p><b>Mohammed Siraj, right-arm fast medium, comes into the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298719997,
+    "commText": "<p><b>Sai Sudharsan, left handed bat, comes to the crease</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298631579,
+    "commText": "<p> Swapnil Singh to Saha, <b>out</b> Caught by Karn Sharma!! Swapnil Singh strikes in the first over of the match. A tossed up delivery outside off, sticks into the pitch to an extent and Saha tries to play away from his body, ends up slicing it towards short third man where Karn Sharma completes an easy catch. <b>Saha c Karn Sharma b Swapnil Singh 5(4) [4s-1]</b> </p>",
+    "overs": 1,
+    "events": [
+      "OVER_BREAK",
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 1465,
+      "batRuns": 5,
+      "ballsPlayed": 4,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298628188,
+    "commText": "<p> Swapnil Singh to Saha, <b>THATS OUT!!</b> Caught!! </p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1465,
+      "batRuns": 5,
+      "ballsPlayed": 3,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298583205,
+    "commText": "<p> Swapnil Singh to Shubman Gill, 1 run, 100kph, fired on middle and leg, Shubman Gill nudges it to wide mid-on for a single </p>",
+    "overs": 0.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298556142,
+    "commText": "<p> Swapnil Singh to Shubman Gill, no run, floated on off, Shubman Gill defends it back to Swapnil Singh </p>",
+    "overs": 0.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 11808,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298515071,
+    "commText": "<p> Swapnil Singh to Saha, 1 run, tossed up delivery on middle and leg, Saha sweeps it through square leg for a single </p>",
+    "overs": 0.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1465,
+      "batRuns": 5,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298473368,
+    "commText": "<p> Swapnil Singh to Saha, <b>FOUR</b>, tossed up delivery on middle and leg, Saha flicks it through mid-wicket and manages to beat the fielder who was chasing it. Green put in a slide in the deep but couldn't stop the ball </p>",
+    "overs": 0.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 1465,
+      "batRuns": 4,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298443159,
+    "commText": "<p> Swapnil Singh to Saha, no run, tad short on off, Saha defends it into the off-side with soft hands </p>",
+    "overs": 0.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 1465,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10238,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714298427997,
+    "commText": "<p><b>Saha and Shubman Gill are at the crease. Saha is on strike. Swapnil Singh will open the attack</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

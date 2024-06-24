@@ -1,0 +1,262 @@
+{
+  "homeTeam": {
+    "teamId": 61,
+    "players": [
+      {
+        "playerId": "1739",
+        "name": "david warner",
+        "isPlaying": true,
+        "isForeignPlayer": true
+      },
+      {
+        "playerId": "14501",
+        "name": "jake fraser-mcgurk",
+        "isPlaying": true,
+        "isForeignPlayer": true
+      },
+      {
+        "playerId": "24326",
+        "name": "abishek porel",
+        "isPlaying": true
+      },
+      {
+        "playerId": "10744",
+        "isCaptain": true,
+        "isKeeper": true,
+        "name": "rishabh pant",
+        "isPlaying": true
+      },
+      {
+        "playerId": "19243",
+        "name": "tristan stubbs",
+        "isPlaying": true,
+        "isForeignPlayer": true
+      },
+      {
+        "playerId": "8808",
+        "name": "axar patel",
+        "isPlaying": true
+      },
+      {
+        "playerId": "13252",
+        "name": "lalit yadav",
+        "isPlaying": true
+      },
+      {
+        "playerId": "8292",
+        "name": "kuldeep yadav",
+        "isPlaying": true
+      },
+      {
+        "playerId": "11427",
+        "name": "anrich nortje",
+        "isPlaying": true,
+        "isForeignPlayer": true
+      },
+      {
+        "playerId": "10952",
+        "name": "khaleel ahmed",
+        "isPlaying": true,
+        "isSubstituted": true
+      },
+      {
+        "playerId": "10754",
+        "name": "mukesh kumar",
+        "isPlaying": true
+      },
+      {
+        "playerId": "12094",
+        "name": "prithvi shaw",
+        "isInSubs": true,
+        "isSubstitute": true
+      },
+      {
+        "playerId": "10384",
+        "name": "shai hope",
+        "isInSubs": true,
+        "isForeignPlayer": true
+      },
+      {
+        "playerId": "10484",
+        "name": "praveen dubey",
+        "isInSubs": true
+      },
+      {
+        "playerId": "14274",
+        "name": "rasikh dar salam",
+        "isInSubs": true
+      },
+      {
+        "playerId": "14650",
+        "name": "sumit kumar",
+        "isInSubs": true
+      },
+      {
+        "playerId": "702",
+        "name": "ishant sharma"
+      },
+      {
+        "playerId": "15779",
+        "name": "kumar kushagra"
+      },
+      {
+        "playerId": "8531",
+        "name": "lizaad williams"
+      },
+      {
+        "playerId": "10280",
+        "name": "jhye richardson"
+      },
+      {
+        "playerId": "22556",
+        "name": "yash dhull"
+      },
+      {
+        "playerId": "6250",
+        "name": "mitchell marsh"
+      },
+      {
+        "playerId": "9425",
+        "name": "ricky bhui"
+      },
+      {
+        "playerId": "22616",
+        "name": "vicky ostwal"
+      },
+      {
+        "playerId": "52418",
+        "name": "swastik chikara"
+      }
+    ]
+  },
+  "awayTeam": {
+    "teamId": 255,
+    "players": [
+      {
+        "playerId": "12086",
+        "name": "abhishek sharma",
+        "isPlaying": true
+      },
+      {
+        "playerId": "8497",
+        "name": "travis head",
+        "isPlaying": true,
+        "isSubstituted": true,
+        "isForeignPlayer": true
+      },
+      {
+        "playerId": "9582",
+        "name": "aiden markram",
+        "isPlaying": true,
+        "isForeignPlayer": true
+      },
+      {
+        "playerId": "10209",
+        "isKeeper": true,
+        "name": "heinrich klaasen",
+        "isPlaying": true,
+        "isForeignPlayer": true
+      },
+      {
+        "playerId": "14628",
+        "name": "abdul samad",
+        "isPlaying": true
+      },
+      {
+        "playerId": "14701",
+        "name": "nitish reddy",
+        "isPlaying": true
+      },
+      {
+        "playerId": "14606",
+        "name": "shahbaz ahmed",
+        "isPlaying": true
+      },
+      {
+        "playerId": "8095",
+        "isCaptain": true,
+        "name": "pat cummins",
+        "isPlaying": true,
+        "isForeignPlayer": true
+      },
+      {
+        "playerId": "1726",
+        "name": "bhuvneshwar kumar",
+        "isPlaying": true
+      },
+      {
+        "playerId": "12627",
+        "name": "mayank markande",
+        "isPlaying": true
+      },
+      {
+        "playerId": "10225",
+        "name": "t natarajan",
+        "isPlaying": true
+      },
+      {
+        "playerId": "19027",
+        "name": "umran malik",
+        "isInSubs": true
+      },
+      {
+        "playerId": "10947",
+        "name": "anmolpreet singh",
+        "isInSubs": true
+      },
+      {
+        "playerId": "14696",
+        "name": "akash maharaj singh",
+        "isInSubs": true
+      },
+      {
+        "playerId": "10693",
+        "name": "glenn phillips",
+        "isInSubs": true,
+        "isForeignPlayer": true
+      },
+      {
+        "playerId": "10945",
+        "name": "washington sundar",
+        "isInSubs": true,
+        "isSubstitute": true
+      },
+      {
+        "playerId": "6327",
+        "name": "jaydev unadkat"
+      },
+      {
+        "playerId": "9012",
+        "name": "rahul tripathi"
+      },
+      {
+        "playerId": "11965",
+        "name": "upendra yadav"
+      },
+      {
+        "playerId": "12636",
+        "name": "jhatavedh subramanyan"
+      },
+      {
+        "playerId": "13509",
+        "name": "sanvir singh"
+      },
+      {
+        "playerId": "13931",
+        "name": "vijayakanth viyaskanth"
+      },
+      {
+        "playerId": "14282",
+        "name": "fazalhaq farooqi"
+      },
+      {
+        "playerId": "14565",
+        "name": "marco jansen"
+      },
+      {
+        "playerId": "2195",
+        "name": "mayank agarwal"
+      }
+    ]
+  }
+}

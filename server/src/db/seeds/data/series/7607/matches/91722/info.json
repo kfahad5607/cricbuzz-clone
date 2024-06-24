@@ -1,0 +1,48 @@
+{
+  "id": 91722,
+  "description": "Qualifier 1",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 71,
+  "homeTeam": 63,
+  "awayTeam": 255,
+  "series": 7607,
+  "venue": 50,
+  "startTime": 1716300000000,
+  "completeTime": 1716311680481,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 255
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 8
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 159,
+      "wickets": 10,
+      "overs": 19.3,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 117
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 63,
+      "batTeamName": "KKR",
+      "score": 164,
+      "wickets": 2,
+      "overs": 13.4,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 82
+    }
+  ],
+  "state": "complete"
+}

@@ -1,0 +1,485 @@
+[
+  {
+    "timestamp": 1711461571748,
+    "commText": "<p>Right then, the players are out in the middle and we are ready for live action. Two good teams, plenty of good players in action tonight. Let's see what's in store for us. A slip in place and here we go!</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711461156844,
+    "commText": "<p>We have made a few changes in our Fantasy Handbook, do check them out before you lock your teams..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711460398639,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711460366654,
+    "commText": "<p><b>Chennai Super Kings Subs:</b> Matheesha Pathirana, Shardul Thakur, Shaik Rasheed, Nishant Sindhu, Mitchell Santner</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711460295282,
+    "commText": "<p><b>Gujarat Titans Subs:</b> Sai Sudharsan, Sharath BR, Abhinav Manohar, Noor Ahmad, Manav Suthar</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711460215236,
+    "commText": "<p><b>Teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711460210712,
+    "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Ruturaj Gaikwad(c), Rachin Ravindra, Ajinkya Rahane, Daryl Mitchell, Shivam Dube, Ravindra Jadeja, Sameer Rizvi, MS Dhoni(w), Deepak Chahar, Tushar Deshpande, Mustafizur Rahman</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711460137988,
+    "commText": "<p><b>Gujarat Titans</b> (Playing XI): Wriddhiman Saha(w), Shubman Gill(c), Azmatullah Omarzai, David Miller, Vijay Shankar, Rahul Tewatia, Rashid Khan, Ravisrinivasan Sai Kishore, Umesh Yadav, Mohit Sharma, Spencer Johnson</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711459978604,
+    "commText": "<p><b>Ruturaj Gaikwad:</b> We were looking to bowl first, wicket is hard and looks similar to the first game. It was a rusty start (against RCB) but we came back well. Everyone showed good intent throughout the innings. Our Malinga, Pathirana comes in for Theekshana.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711459871546,
+    "commText": "<p><b>Shubman Gill:</b> We will bowl first. That (against MI) match was physical and mentally exhausting. Everyone is well rested and well settled with 10 teams playing. We get enough rest time between matches. It shows the character of the team, the way our bowlers bounced back against Mumbai. Playing with the same team.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711459867254,
+    "commText": "<p><b>Gujarat Titans have won the toss and have opted to field</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711459773482,
+    "commText": "<p><b>Right then, it's toss time..</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711459435392,
+    "commText": "<p><b>Wriddhiman Saha:</b> Playing any format for 17 years continuously is definitely tough, but I have always tried to stay fit. That has been my simple logic. I work on my fitness during the off-time. Also recovery is important. With age catching up, just trying to follow a similar routine. Playing IPL to IPL is not that easy, it's high intensity. So I try to play every format in domestic cricket, also try to play club games. I like the atmosphere here, it's outstanding.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711459125871,
+    "commText": "<p><b>Pitch report:</b> It's a different pitch tonight. Looks a really good wicket, there was bounce and carry in the first game. There's a lot of grass on the surface, unsual for a Chepauk pitch. There are a few patches where there's an uneven covering of grass. The spinners will come into play in the middle overs. It's a bat-first wicket, reckons <b>Matthew Hayden.</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711458801233,
+    "commText": "<p><b>Daryl Mitchell:</b> Was nice to play the first game in front of a full crowd, always an amazing experience. Coming from NZ and experiencing something like this (crowd support) is really special. They (Gujarat) know how to win, so we need to make sure what we can control, need to do our job as a team and walk away with a win. He (Ruturaj) is a good man, a world-class batter, he is pretty cool, calm and collective like MS. I played the last game here and a couple of games during the (2023) World Cup a few months ago. The characteristics of the pitch are very similar to what we are used to with CSK and I am sure it will continue.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711456568914,
+    "commText": "<p>Most of the spinners proved to be ineffective in the CSK-RCB game, but the Chepauk has been a happy hunting ground for the slower bowlers traditionally. Both the teams have bowlers with some wily variations who use cutters/ slower ones to great advantage. Will we get to see the same pitch that was used in game 1 or will we get to see a different surface tonight? Also, Gill and Ruturaj - both have won Orange Caps previously and given this is their maiden IPL season as captains of their respective franchises, both the youngsters would be looking forward to making an impact and stamping their authority. These are two quality sides with most of their bases covered, so let's hope we have a cracking encounter tonight. Stay around for the toss and teams..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711456568903,
+    "commText": "<p><b>18:10 Local Time, 12:40 GMT, 18:10 IST:</b> Two young openers. Two young captains. On one corner we have the Gujarat Titans who will be led by Shubman Gill. In the other corner we have the Chennai Super Kings - under the leadership of their new captain - Ruturaj Gaikwad. Two talented Indian lads up against each other, hello and welcome to our live coverage of the 7th clash of IPL 2024. All the matches this season have been won by the home teams. Will the trend continue? Will it not? Only time has all the answers.. The Chennai Super Kings beat Royal Challengers Bangalore in the opening clash of the tourney, while the Gujarat Titans beat five-time IPL champions - Mumbai Indians, at the biggest stadium in India on Sunday. There is something about players and them joining the Chennai Super Kings. We saw Ajinkya Rahane's resurgence last season, and we saw Mustafizur Rahman getting back to his best last week. That yellow jersey brings out the best in players, isn't it?</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711376042147,
+    "commText": "<p><b>Preview</b> by <b>Prakash Govindasreenivasan </b> \\n \\nMS Dhoni's words after CSK made it to their 10th final last season through the first qualifier against Gujarat Titans summed up the team's ability to weaponize their home conditions. CSK are only one of the few teams capable of doing that, and yet that has been a bit of a lottery. CSK lost three home games in 2023, including one on a true surface on which they scored 200 batting first. The slowness in the surface that has often helped Dhoni box the opposition in with spin has appeared and vanished on a whim. \\n \\nThe nature of the surface this early in the season might not concern Gujarat Titans though. They come with a heady dose of adrenaline coursing through them from downing Mumbai Indians in an extremely close home fixture just one night ago after what transpired between the two in the off-season. The heist - with some tight middle-overs and death bowling, reestablished the fact that Titans continue to be the sum of their parts. \\n \\nShould Chepauk revert to type on Tuesday, Mohit Sharma's variations will be handy. Mohit has featured in 14 previous IPL fixtures at the venue, picking 18 wickets, with an economy rate of 7.25. Left-arm spinner R Sai Kishore, who got a wet ball to grip and dip in dewy conditions in Ahmedabad - will also be relied upon by GT as they take him back to his domestic home turf. Against MI, GT demonstrated their ability to not get thrown off course by the pressures of a six or two in a tight defence of their total. CSK with their ability to field at least 10 players capable of successfully swinging for the fences will be a sterner test of their resolve. \\n \\n<b>When:</b> Chennai Super Kings vs Gujarat Titans, IPL 2024, March 26, 19:30 IST \\n \\n<b>Where:</b> M.A. Chidambaram Stadium, Chennai \\n \\n<b>What to expect:</b> The unexpected. The conditions for the season opener weren't typical. It's the sort of unpredictability that the home team had to grapple with last season too. Fleming reckoned the pitches at this time of the season will be 'well-prepared' and get slow only with wear and tear as the campaign goes on. \\n \\n<b>Head to head:</b> Chennai Super Kings 2 - 3 Gujarat Titans \\n \\n<b>Team Watch:</b> \\n \\n<b>Chennai Super Kings</b> \\n \\n<b>Injury/Availability:</b> Matheesha Pathirana has joined the CSK squad and Fleming confirmed that he is available for selection. It'll be very un-CSK like however, to relegate Mustafizur Rahman to the bench after the kind of outing he had against RCB in the season opener. \\n \\n<b>Tactics & Matchups:</b> Shivam Dube has only 71 runs in 5 innings against GT at a strike rate of 116.39 but could still hold the aces through the middle. GT operate with two spinners whose stock delivery will turn into the left-hander (Rashid Khan and R Sai Kishore) - the kind of bowler (left-arm spinner Mayank Dagar) that RCB kept away from Dube last Friday. Expect a lot of googlies from Rashid, who is yet to dismiss Dube in 15 deliveries in the IPL. \\n \\nDealing with Rashid and Sai Kishore will also be a good test for CSK's right-handed tyro Sameer Rizvi who comes with the reputation of being a spin hitter. \\n \\n<b>Probable XI:</b> Rachin Ravindra, Ruturaj Gaikwad (c), Ajinkya Rahane, Daryl Mitchell, Sameer Rizvi, Ravindra Jadeja, MS Dhoni, Deepak Chahar, Tushar Deshpande, Maheesh Theekshana, Mustafizur Rahman [Impact Sub: Shivam Dube for Mustafizur Rahman] \\n \\n<b>Gujarat Titans</b> \\n \\n<b>Injury/Availability:</b> Matthew Wade should remain out of contention having featured in the Sheffield Shield final that concluded on March 24. \\n \\n<b>Tactics & Matchups:</b> Ruturaj Gaikwad has four 50-plus scores in five innings against GT at a strike rate of 146.85 but has struggled against left-arm pacers in the PowerPlay in the IPL [strike rate of 112.3 and 10 dismissals]. Enter, Spencer Johnson. \\n \\nLetting Ruturaj get to the middle-overs unscathed will not be ideal for GT as the CSK captain has the knack of taking down Rashid Khan - 95 runs scored in 60 balls at a strike rate of 158.33. \\n \\n<b>Probable XI:</b> Shubman Gill (c), Wriddhiman Saha, Sai Sudharsan, Azmatullah Omarzai, Vijay Shankar, David Miller, Rahul Tewatia, Rashid Khan, R Sai Kishore, Umesh Yadav, Spencer Johnson [Impact Sub: Mohit Sharma for Sai Sudharsan] \\n \\n<b>Did You Know?</b> \\n \\n- Ravindra Jadeja has picked 30 wickets in 43 IPL games at Chepauk, operating with an economy rate of 6.85 \\n \\n- David Miller has enjoyed playing against CSK - he has 368 runs in 14 innings at a strike rate of 140.45 \\n \\n- Since 2023, Daryl Mitchell has scored 1124 runs in T20s at a strike rate of 142.82 \\n \\n- Since 2023, Azmatullah Omarzai has been gun PowerPlay bowler in T20s - 18 wickets at an average of 16.83, strike rate of 14.67 and an economy rate of 6.88 \\n \\n<b>What They Said:</b> \\n \\n\"It's still very early in the competition, there's still combinations being worked out, still cohesion within the team that you're working on, so it is nice to win the early game. But there's a lot going on in regards to settling in and getting into the competition.\" -<b> Stephen Fleming</b> \\n \\n \\n\"The way the boys held their nerves with dew coming in, it was outstanding. The way our spinners bowled made sure we are always in the game. It's all about holding your nerves.\" - <b>Shubman Gill</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711376042137,
+    "commText": "<p><b>Squads:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711376038814,
+    "commText": "<p><b>Chennai Super Kings</b> Squad: Ruturaj Gaikwad(c), Rachin Ravindra, Ajinkya Rahane, Daryl Mitchell, Shivam Dube, Ravindra Jadeja, Sameer Rizvi, MS Dhoni(w), Deepak Chahar, Maheesh Theekshana, Mustafizur Rahman, Tushar Deshpande, Shardul Thakur, Shaik Rasheed, Moeen Ali, Nishant Sindhu, Mitchell Santner, Ajay Jadav Mandal, Prashant Solanki, Mukesh Choudhary, Simarjeet Singh, RS Hangargekar, Aravelly Avanish</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711375916616,
+    "commText": "<p><b>Gujarat Titans</b> Squad: Wriddhiman Saha(w), Shubman Gill(c), Sai Sudharsan, Azmatullah Omarzai, David Miller, Vijay Shankar, Rahul Tewatia, Rashid Khan, Umesh Yadav, Ravisrinivasan Sai Kishore, Spencer Johnson, Mohit Sharma, Sharath BR, Abhinav Manohar, Noor Ahmad, Manav Suthar, Matthew Wade, Kane Williamson, Shahrukh Khan, Joshua Little, Darshan Nalkande, Kartik Tyagi, Sushant Mishra, Sandeep Warrier, Jayant Yadav</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

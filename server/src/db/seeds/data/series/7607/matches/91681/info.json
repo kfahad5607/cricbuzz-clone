@@ -1,0 +1,48 @@
+{
+  "id": "91681",
+  "description": "64th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 64,
+  "homeTeam": 61,
+  "awayTeam": 966,
+  "series": 7607,
+  "venue": 51,
+  "startTime": 1715695200000,
+  "completeTime": 1715709333187,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 966
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 19
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 61,
+      "batTeamName": "DC",
+      "score": 208,
+      "wickets": 4,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 966,
+      "batTeamName": "LSG",
+      "score": 189,
+      "wickets": 9,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

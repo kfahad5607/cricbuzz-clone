@@ -1,0 +1,462 @@
+[
+  {
+    "timestamp": 1714298326491,
+    "commText": "<p>Right then, the players are out in the middle and it's time for live action. RCB will start with Swapnil Singh against Saha. Here we go!</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714297162319,
+    "commText": "<p><b>STAT</b>: All the three previous games between the two teams were won by the chasing side (one of which was a day game).</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714297162309,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714297113362,
+    "commText": "<p><b>Royal Challengers Bengaluru Impact Subs:</b> Anuj Rawat, Mahipal Lomror, Himanshu Sharma, Akash Deep, Vijaykumar Vyshak</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714297072799,
+    "commText": "<p><b>Gujarat Titans Impact Subs:</b> Sandeep Warrier, Sharath BR, Manav Suthar, Darshan Nalkande, Vijay Shankar</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714296975331,
+    "commText": "<p><b>Teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714296973671,
+    "commText": "<p><b>Gujarat Titans</b> (Playing XI): Wriddhiman Saha(w), Shubman Gill(c), Sai Sudharsan, David Miller, Azmatullah Omarzai, Rahul Tewatia, Shahrukh Khan, Rashid Khan, Ravisrinivasan Sai Kishore, Noor Ahmad, Mohit Sharma</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714296939922,
+    "commText": "<p><b>Royal Challengers Bengaluru</b> (Playing XI): Virat Kohli, Faf du Plessis(c), Will Jacks, Rajat Patidar, Glenn Maxwell, Cameron Green, Dinesh Karthik(w), Swapnil Singh, Karn Sharma, Mohammed Siraj, Yash Dayal</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714296730864,
+    "commText": "<p><b>Shubman Gill:</b> Would have chased as well, looks a really good wicket. Need to put a good total on the board. We have batted decently, we lost by a difference of just one ball in the last game. This is the right time to peak for us.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714296647071,
+    "commText": "<p><b>Faf du Plessis:</b> The wicket will be better later, so we will like to chase. With so many high scores the nature of this game has changed, our bowlers have been exceptional in the last two games. We have scored big with the bat, those are the changes. Maxwell comes back in, we have some firepower in the middle-order.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714296615624,
+    "commText": "<p><b>Royal Challengers Bengaluru have won the toss and have opted to field</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714296584177,
+    "commText": "<p><b>Right then, it's toss time..</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714296043821,
+    "commText": "<p><b>Wriddhiman Saha:</b> Last two years, as a team and as an individual, we've contributed consistently. This season has seen a bit of ups and downs, but we'll look to get back to some consistent performances. My role is the same at the top of the order, we got good starts in a few games, not so in a few other matches. This time, we've seen scores of 250-260 being made, 100+ in the batting PP, my contribution during the batting PP will be vital for the team. This time we also have impact players, with batters coming at 8, it will offer some cushion to the batters who can play their shots. Previously, there were times when we needed to be slightly cautious in the first few overs.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714295641286,
+    "commText": "<p><b>Karn Sharma:</b> Not disappointed (to miss a few matches), all depends on the team combination, the team management makes the decisions. Have to give my best whenever an opportunity is presented. Our team winning is more important than anything else, happy that we could clinch a win in the last game (against Sunrisers), they have played some really good cricket this season. I try to take wickets so that the run rate of the opposition team dips. A lot of runs are getting scored in the powerplay and towards the end overs, my focus is to take wickets in the middle overs. All about taking one game at a time from here on, we'll try to win all matches.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714295330963,
+    "commText": "<p>It's very hot today, 62m and 64m square boundaries while the straight boundary is at 72m. The wicket looks pretty good, but it's quite dry. It should spin a bit and will be consistent even if you're batting first or second. 180 could be a good score batting first, but both teams will rely heavily on spin and changes in variations, reckon <b>Michael Clarke</b> and <b>Graeme Swann,</b> in their <b>pitch report.</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714293053739,
+    "commText": "<p><b>14:00 Local Time, 08:30 GMT, 14:00 IST:</b> Hello and welcome to our coverage of match 45 folks! Two teams that are placed in the bottom half of the points table will lock horns at the Narendra Modi Stadium today. The Titans have had a topsy-turvy season having lost five games and won four, while things have been even worse for the Royal Challengers Bangalore. They are placed last in the points table with only two wins in 9 matches. They clinched a rare win against Sunrisers Hyderabad on Thursday but it won\u2019t be a surprise if they continue to struggle for the rest of the season. Such has been the quality of cricket played by the Challengers. Not inspiring at all. Virat Kohli has scored runs but lack of contribution from other batters has resulted in their struggle. Rajat Patidar has played a few impressive knocks in the last few innings, so it will be interesting to see if he continues to make the most of his form. Stay around for the toss and teams.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714214086335,
+    "commText": "<p><b>Preview</b> \\n \\nDespite being masters of the run chase, it's no secret that the Gujarat Titans top order is heavily reliant on Shubman Gill. Especially at a time when they struggle to fit in Kane Williamson because of their overseas conundrum, the onus is on Gill to deliver almost every single game. From that standpoint, it isn't a coincidence that they have had an erratic campaign up until now. \\n \\nFor a player who looked like he would threaten Virat Kohli's 973-run tally last year, Gill has hit only two fifties in nine matches so far in IPL 2024. He has also been dismissed for a single-digit score thrice already and this has happened in a season where the batters have made merry like never before in the history of this competition. Gill has already appeared to have fallen below the pecking order for a spot in the Indian squad ahead of the T20 World Cup. With only five matches remaining in the league stages, his fortunes have to change for his own sake and also from a Titans' perspective. \\n \\nFor the Royal Challengers Bengaluru, it is all about remaining determined to topple another side after that first class performance against Sunrisers Hyderabad. They had the challenge of getting rid of those marauding openers early in the powerplay and completed that task to perfection. If they can pull it off again, Titans will feel the heat. This will be a huge test for Virat Kohli as well who came under the scanner once again for slowing down post the powerplay against the spinners. He will have to contend with the likes of Rashid Khan, Noor Ahmed and Sai Kishore this time. \\n \\n<b>When:</b> April 28 at 15:30 IST \\n \\n<b>Where:</b> Gujarat Titans vs Royal Challengers Bengaluru, Narendra Modi Stadium, Ahmedabad \\n \\n<b>What to expect:</b> In a tournament where the scores are skyrocketing, we saw Titans get shot out for just 89 in front of their home crowd in the last game here. They would certainly not want a similar surface this time. \\n \\n<b>Head to Head:</b> Gujarat Titans 2 - Royal Challengers Bengaluru 1 \\n \\n<b>Team Watch</b> \\n \\n<b>Gujarat Titans</b> \\n \\n<b>Injuries/Availability:</b> Titans do not have any new injury concerns. \\n \\n<b>Tactics & Matchups:</b> Introducing Rashid Khan quite early inside the powerplay might not be a bad ploy for the Titans. Rashid has dismissed Faf du Plessis thrice and Virat Kohli twice in the IPL so far. Gill might not be in form at the moment but he has an excellent record against Siraj that can potentially help him regain his touch. \\n \\n<b>Probable XI:</b> Wriddhiman Saha (wk), Shubman Gill (c), David Miller, Azmatullah Omarzai, Rahul Tewatia, Shahrukh Khan, Rashid Khan, R Sai Kishore, Noor Ahmad, Mohit Sharma, Sandeep Warrier [Impact Sub: Sai Sudharsan] \\n \\n<b>Royal Challengers Bengaluru</b> \\n \\n<b>Injuries/Availability:</b> With Will Jacks and Cameron Green getting amongst the runs recently, Glenn Maxwell's self-imposed exile is likely to continue. \\n \\n<b>Tactics & Matchups:</b> While the focus will be on Kohli against the spin trio, RCB would want Rajat Patidar to be on strike for the major part against spin. This season against the spinners, his strike rate is a stunning 225 at an average of 67. \\n \\n<b>Probable XI:</b> Virat Kohli, Faf du Plessis (c), Will Jacks, Rajat Patidar, Cameron Green, Dinesh Karthik (wk), Mahipal Lomror, Karn Sharma, Lockie Ferguson, Mohammed Siraj, Yash Dayal \\n \\n<b>Did you know?</b> \\n \\n- Virat Kohli's strike rate against pace in IPL 2024 is 162.57. However, against spin it drops down to 123.58. \\n \\n- Mohit Sharma, who had a stellar IPL 2023, is conceding runs at an economy of 11.65 in the death overs in IPL 2024. \\n \\nWhat they said:</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714214086325,
+    "commText": "<p><b>Squads:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714214083654,
+    "commText": "<p><b>Royal Challengers Bengaluru</b> Squad: Virat Kohli, Faf du Plessis(c), Will Jacks, Rajat Patidar, Cameron Green, Dinesh Karthik(w), Mahipal Lomror, Karn Sharma, Lockie Ferguson, Mohammed Siraj, Yash Dayal, Suyash Prabhudessai, Anuj Rawat, Himanshu Sharma, Vijaykumar Vyshak, Swapnil Singh, Glenn Maxwell, Reece Topley, Tom Curran, Mayank Dagar, Alzarri Joseph, Manoj Bhandage, Akash Deep, Saurav Chauhan, Rajan Kumar</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714213716802,
+    "commText": "<p><b>Gujarat Titans</b> Squad: Wriddhiman Saha(w), Shubman Gill(c), David Miller, Azmatullah Omarzai, Rahul Tewatia, Shahrukh Khan, Rashid Khan, Ravisrinivasan Sai Kishore, Noor Ahmad, Mohit Sharma, Sandeep Warrier, Sai Sudharsan, Sharath BR, Manav Suthar, Vijay Shankar, Darshan Nalkande, Matthew Wade, Umesh Yadav, Kane Williamson, Jayant Yadav, Abhinav Manohar, Joshua Little, Kartik Tyagi, Spencer Johnson, Sushant Mishra</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

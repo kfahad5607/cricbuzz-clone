@@ -1,0 +1,48 @@
+{
+  "id": 89752,
+  "description": "18th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 1,
+  "homeTeam": 255,
+  "awayTeam": 58,
+  "series": 7607,
+  "venue": 80,
+  "startTime": 1712325600000,
+  "completeTime": 1712337606601,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 255
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 6
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 58,
+      "batTeamName": "CSK",
+      "score": 165,
+      "wickets": 5,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 166,
+      "wickets": 4,
+      "overs": 18.1,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 109
+    }
+  ],
+  "state": "complete"
+}

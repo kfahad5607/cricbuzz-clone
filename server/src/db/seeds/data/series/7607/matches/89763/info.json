@@ -1,0 +1,48 @@
+{
+  "id": 89763,
+  "description": "20th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 20,
+  "homeTeam": 62,
+  "awayTeam": 61,
+  "series": 7607,
+  "venue": 81,
+  "startTime": 1712484000000,
+  "completeTime": 1712497480376,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 61
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 29
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 62,
+      "batTeamName": "MI",
+      "score": 234,
+      "wickets": 5,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 61,
+      "batTeamName": "DC",
+      "score": 205,
+      "wickets": 8,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

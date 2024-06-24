@@ -1,0 +1,439 @@
+[
+  {
+    "timestamp": 1714312707850,
+    "commText": "<p>Out come the players and the umpires. CSK will be batting first once more, something that Gaikwad didn't seem overly pleased with at the toss. They struggled with the wet ball while bowling in the second innings and defending has been difficult so far at Chepauk this season.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714311732743,
+    "commText": "<p>We've made one change to our expert XI on <b>#FantasyHandbook.</b> Make sure you check it out before locking your fantasy team in</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714311602431,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714311543147,
+    "commText": "<p><b>Sunrisers Hyderabad Subs:</b> Umran Malik, Mayank Markande, Anmolpreet Singh, Glenn Phillips, Washington Sundar</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714311505188,
+    "commText": "<p><b>Chennai Super Kings Subs:</b> Sameer Rizvi, Shardul Thakur, Shaik Rasheed, Rachin Ravindra, Mitchell Santner</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714311418590,
+    "commText": "<p><b>Teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714311416775,
+    "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Ajinkya Rahane, Ruturaj Gaikwad(c), Daryl Mitchell, Moeen Ali, Shivam Dube, Ravindra Jadeja, MS Dhoni(w), Deepak Chahar, Tushar Deshpande, Mustafizur Rahman, Matheesha Pathirana</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714311378834,
+    "commText": "<p><b>Sunrisers Hyderabad</b> (Playing XI): Abhishek Sharma, Travis Head, Aiden Markram, Heinrich Klaasen(w), Nitish Reddy, Abdul Samad, Shahbaz Ahmed, Pat Cummins(c), Bhuvneshwar Kumar, Jaydev Unadkat, T Natarajan</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714311137975,
+    "commText": "<p><b>Ruturaj Gaikwad:</b> (On being happy with batting first) Not really. Was hoping to win the toss, nothing we can control much. If we put up runs against them they'll definitely be under pressure. We have just lost those clutch moments in the game, just 2-3 overs while batting when we couldn't capitalise. Even with bowling, we haven't gotten those starts in the powerplay and sometimes when we've got that we haven't been able to finish off well. Overall, we're happy with where we are but we're just looking to win those clutch moments.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714311026050,
+    "commText": "<p><b>Pat Cummins: </b>We're going to bowl. Absolutely, you can see why it's pretty loud here. Boys are pretty pumped up. We've got Bhuvi who's a very nice new ball bowler, I just fill in wherever required. We're going with one extra batter, Markande misses out. We've always looked to bowl first, maybe dew comes into it later in the evening.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714310969006,
+    "commText": "<p><b>Sunrisers Hyderabad have won the toss and have opted to field</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714310911972,
+    "commText": "<p><b>Travis Head:</b> No pressure from us. Dan and Pat have allowed us to attack the powerplay. We have got really good starts and then we have got some really good power through the middle - all dependent on the start we get though. Each game is going to be different, we know that so going in relaxed and what the result will be will be. Had a look at the pitch in training yesterday, got to go out and do what we do. Try not to change too much, had a really good day in training yesterday, it is a tough place to play and looking forward to it. [on potentially opening with Fraser-McGurk at the World Cup] At some stage in some format I definitely will be, we will wait and see what happens with the squad. Lots of tough decisions to make and it's good to see everyone playing well.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714310911962,
+    "commText": "<p><b>Daryl Mitchell: </b>The pitch usually is on the slower side. Can't just force the ball. Have to find ways to keep manipulating the bowlers. Firstly, it's coming in and being present as you can. Not coming in with a plan of how the pitch is going to play and what score is needed. It's about adapting on the go. My role is to keep trying to build partnerships, keep trying to put them under pressure in the middle phase. And hopefully allow us to set a platform towards the end. Love being a part of CSK and loving playing in front of this amazing crowd.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714309602849,
+    "commText": "<p><b>Pitch report: </b>\"Slightly shorter on one side but it shouldn't make much of a difference. Down the ground, the shots need to be well timed. It looks a bit dry. Some aberations here, traditionally teams that have batted first have succeeded but not this season. Spinners haven't had a significant part in this season either as has been the case previously. It looks very dry, there's a mosaic underlay and there isn't really a sheen that you have come to expect in this year's IPL. Same surface that was used in that game against GT where CSK scored over 200 runs. This pitch produces the greatest degree of turn, 2.4 degrees as compared 1,8 degrees compared to the other pitches. Still think there will be some assistance for the spinners and for those who can bowl slower delivers but there's still runs on the board. Might just want to have couple of extra overs of spin up your sleeve. There might be significant dew later in the evening\" say Anjum Chopra and Samuel Badree.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714309008344,
+    "commText": "<p><b>18:30 Local Time, 13:00 GMT, 18:30 IST:</b> Good evening and welcome to our coverage of Match 46 of the IPL between CSK and SRH. This promises to be a high octane contest for a multitude of reasons. SRH have been one of the high-flying teams this season and they've plundered opposition bowling attacks for fun. When SRH bat, it feels like they'll get 220 at minimum. The last time these two teams met, it was at Hyderabad and SRH overcame CSK with ease. That game began what was a 4-match winning streak for SRH and it was only broken by their loss to RCB in their previous game. Despite that, SRH are sitting pretty at 3rd place on the points table. As for CSK, they suffered a rare loss at home in their previous encounter. LSG ended up bettering them twice in as many games and getting back to winning ways, that too on home soil, will be at the top of CSK's priorities. With 4 wins and 4 losses, they're 6th on the table but a win today will give them a nice leg-up as we head into the business end of the tournament. Toss and playing XI updates coming shortly.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228630819,
+    "commText": "<p><b>Preview</b> by <b>Ganesh Chandrasekaran</b> \\n \\nHow to stop SRH's power-hitting is amongst the primary questions for bowling think-tanks this season given their tendency to set and outdo their own hitting record. That spin could be a way has been theorised particularly after their previous outing against Royal Challengers Bangalore. Additionally, the record of Travis Head who has been dismissed four times in six innings against spin adds some credence to that theory whilst they still pack some excellent spin-hitting options otherwise. \\n \\nA key factor has been their successful opening combination with Abhishek Sharma being fluent against both types of bowling, alongside an explosive Head setting up games like no other opening combination in the season. Not only have they added the most runs by an opening pair (454 runs), they also score at the best rate of 12.78. \\n \\nIt is more than halfway in the season and about the time when traditionally the tiring pitches bring the spinners into the game more and more in an IPL. It's an expectation that Chennai Super Kings too would have from themselves having traditionally built up a formidable home record on the back of their spin strengths. \\n \\nAt this stage however, they've run into a hurdle for those plans in the form of dew coming in. It played a big factor in their loss against Lucknow Super Giants on their home turf. In Chennai this season so far, pace has had a much bigger impact compared to spin and has continued an overall trend in Chennai in this season so far. \\n \\nIt is with these numbers stacked up against them that CSK take on an imposing SRH, who have suffered a blip in their previous outing. SRH would also find the opportunity ripe to correct their poor away record (3 losses in 5 games) with CSK themselves faltering for the first time at home recently. Should they be able to add another game to CSK's losses column, it could throw up the table wide open as the tournament nears the business end. \\n \\n<b>When:</b> Sunday, April 28 at 19:30 IST \\n \\n<b>Where:</b> MA Chidambaram Stadium, Chennai \\n \\n<b>What to expect:</b> The pitch could be drier as CSK's head coach advocated to play to their own strengths. However, the previous game at the venue saw a lot of dew setting which rendered spinners ineffective. \\n \\n<b>Head to head:</b> CSK 14 - 6 SRH \\n \\n<b>Teams</b> \\n \\n<b>Chennai Super Kings</b> \\n \\n<b>Injuries/unavailability:</b> While Ajinkya Rahane's niggle had hampered his batting a couple of games ago, he's expected to be fit and continue his new role as an opener. \\n \\n<b>Tactics/match-ups:</b> Moeen Ali upfront in the powerplay is likely to be an option for CSK considering their otherwise ineffectiveness with pace so far while also acting as a favourable match-up option against SRH's left-handed opening pair. \\n \\n<b>Probable XI:</b> Ruturaj Gaikwad, Ajinkya Rahane, Daryl Mitchell, Shivam Dube, Ravindra Jadeja, Moeen Ali, MS Dhoni, Deepak Chahar, Tushar Deshpande, Mustafizur Rahman, Matheesha Pathirana [Impact sub: Shardul Thakur] \\n \\n<b>Sunrisers Hyderabad</b> \\n \\n<b>Injuries/availability:</b> There is no reported concern for SRH \\n \\n<b>Tactics/match-ups:</b> Shivam Dube's proficiency against spin and SRH's ineffieciency on that front so far [highest economy rate for spinners at 11.79] could force Pat Cummins to think about the right points to use spin, and particularly counter Dube through himself or T Natarajan depending on his entry point in the game. \\n \\n<b>Probable XI:</b> Abhishek Sharma, Travis Head, Aiden Markram, Nitish Reddy, Heinrich Klaasen, Abdul Samad, Shahbaz Ahmed, Pat Cummins, Bhuvneshwar Kumar, Mayank Markande, Jaydev Unadkat [Impact Sub: T Natarajan] \\n \\n<b>Did you know?</b> \\n \\n- SRH has never beaten CSK at the MA Chidambaram Stadium having had the chance on four previous occasions \\n \\n- T Natarajan boasts of an E/R of 9.30 between overs 16 and 20 this season and has also picked up 7 wickets in this period \\n \\n<b>What they said</b> \\n \\nThe problem with spinners in India who are playing at the moment is most of the spinners are not spinning the ball. That is the main criteria because they are bowling a little quicker, so no deviation. If you see in practice, batsmen are use to throw-downs and power-hitting, So they are now used to it if the ball is coming straight at 85-90 mph, and it comes straight their muscle memory is already praciced to it. If it deviates, brain does not know how to react, so that's why spinners must learn how to spin the ball then they have a better chance - <b>Muttiah Muralitharan</b>, SRH's spin bowling coach assesses the lack of success for spinners in IPL 2024</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228630809,
+    "commText": "<p><b>Squads:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228624810,
+    "commText": "<p><b>Sunrisers Hyderabad</b> Squad: Abhishek Sharma, Aiden Markram, Heinrich Klaasen(w), Nitish Reddy, Abdul Samad, Shahbaz Ahmed, Pat Cummins(c), Bhuvneshwar Kumar, Jaydev Unadkat, Mayank Markande, T Natarajan, Travis Head, Umran Malik, Anmolpreet Singh, Glenn Phillips, Washington Sundar, Mayank Agarwal, Rahul Tripathi, Upendra Yadav, Jhatavedh Subramanyan, Sanvir Singh, Vijayakanth Viyaskanth, Fazalhaq Farooqi, Marco Jansen, Akash Maharaj Singh</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714228498526,
+    "commText": "<p><b>Chennai Super Kings</b> Squad: Ajinkya Rahane, Ruturaj Gaikwad(c), Daryl Mitchell, Moeen Ali, Shivam Dube, Ravindra Jadeja, MS Dhoni(w), Deepak Chahar, Tushar Deshpande, Mustafizur Rahman, Matheesha Pathirana, Shardul Thakur, Sameer Rizvi, Shaik Rasheed, Rachin Ravindra, Mitchell Santner, Richard Gleeson, Ajay Jadav Mandal, Prashant Solanki, Mukesh Choudhary, Simarjeet Singh, RS Hangargekar, Maheesh Theekshana, Nishant Sindhu, Aravelly Avanish</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

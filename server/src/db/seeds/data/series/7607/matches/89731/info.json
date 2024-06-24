@@ -1,0 +1,48 @@
+{
+  "id": 89731,
+  "description": "14th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 14,
+  "homeTeam": 62,
+  "awayTeam": 64,
+  "series": 7607,
+  "venue": 81,
+  "startTime": 1711980000000,
+  "completeTime": 1711992473703,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 64
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 6
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 62,
+      "batTeamName": "MI",
+      "score": 125,
+      "wickets": 9,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 64,
+      "batTeamName": "RR",
+      "score": 127,
+      "wickets": 4,
+      "overs": 15.3,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 93
+    }
+  ],
+  "state": "complete"
+}

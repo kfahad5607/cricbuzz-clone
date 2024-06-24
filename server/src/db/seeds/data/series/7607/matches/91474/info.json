@@ -1,0 +1,48 @@
+{
+  "id": "91474",
+  "description": "35th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 35,
+  "homeTeam": 61,
+  "awayTeam": 255,
+  "series": 7607,
+  "venue": 51,
+  "startTime": 1713621600000,
+  "completeTime": 1713634931546,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 61
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 67
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 266,
+      "wickets": 7,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 61,
+      "batTeamName": "DC",
+      "score": 199,
+      "wickets": 10,
+      "overs": 19.1,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 115
+    }
+  ],
+  "state": "complete"
+}

@@ -1,0 +1,439 @@
+[
+  {
+    "timestamp": 1711893737186,
+    "commText": "<p>Slight delay in start. Wonder if it's about an issue with the sightscreen and we are finally ready</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711893486987,
+    "commText": "<p>Out come the players. Lots of yellove in the stands as expected. Can the Capitals silence them tonight? First glance at Prithvi this season and he will be up against Deepak Chahar who moves it both ways and got him 6 times in the IPL before. Deepak is starting with two catching men in the cordon to see if there is swing.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711892535960,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711892449353,
+    "commText": "<p><b>Chennai Super Kings Subs:</b> Shivam Dube, Shardul Thakur, Shaik Rasheed, Moeen Ali, Mitchell Santner</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711892334619,
+    "commText": "<p><b>Delhi Capitals Subs:</b> Sumit Kumar, Kumar Kushagra, Rasikh Dar Salam, Praveen Dubey, Jake Fraser-McGurk</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711892238241,
+    "commText": "<p><b>Teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711892236371,
+    "commText": "<p><b>Delhi Capitals</b> (Playing XI): Prithvi Shaw, David Warner, Mitchell Marsh, Rishabh Pant(w/c), Tristan Stubbs, Abishek Porel, Axar Patel, Anrich Nortje, Mukesh Kumar, Ishant Sharma, Khaleel Ahmed</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711892156592,
+    "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Ruturaj Gaikwad(c), Rachin Ravindra, Ajinkya Rahane, Daryl Mitchell, Ravindra Jadeja, Sameer Rizvi, MS Dhoni(w), Deepak Chahar, Tushar Deshpande, Matheesha Pathirana, Mustafizur Rahman</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711891947241,
+    "commText": "<p><b>Ruturaj Gaikwad:</b> First game here, not too much information on this pitch. Let's see how it goes. The plan remains the same, keep things simple and try to win those individual moments, individual battles. No changes for us, going with the same squad. (On captaincy) I've done it for my state side, and for India as well at age group level, plus I have a few experienced guys to help me out.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711891827456,
+    "commText": "<p><b>Rishabh Pant:</b> We'll bat first. Wicket looks good, we want to use it as a batting track, put runs on the board. (On playing home games in Vizag) I think it makes a lot of difference, but we practiced here. We came here and got 10 days at this wicket. Two changes - Kuldeep had a niggle, Prithvi Shaw comes in. Ricky Bhui is out, Ishant Sharma comes in.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711891581245,
+    "commText": "<p><b>Delhi Capitals have won the toss and have opted to bat</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711891334924,
+    "commText": "<p><b>Pitch Report:</b> The climatic conditions look really good for a game of cricket. Nice gentle breeze blowing across the ground and we are playing on pitch number 4, which is bang in the middle. 62m either side of the wicket, and 71m down the ground. There is an even covering of grass on the pitch, the root structure looks good which keeps the soil together, so don\u2019t expect a lot of turn. This pitch seems to be very good for batting. Average first innings score in previous games has been 157, but that was 2019 and before so that is a bit outdated. I think the average first innings score now should be around 175-180. Bowlers need to choose the right options - the early trend has been to be back of a length with pace on and pace off, and don\u2019t forget your cutters. It seems like a bat first wicket, reckons <b>Darren Ganga </b>,with thoughts from <b>Rohan Gavaskar. </b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711890755240,
+    "commText": "<p>Vizag has traditional been a slow pitch that aids the spinners, and that would be playing right into CSK's hands. However, let's see what the curators have served up today for this IPL clash. We're not too far away from the toss, so stick around...</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711890393416,
+    "commText": "<p>Chennai's tried and tested method of trusting experience, and having the whole squad buy into the philosophy continues to pay them dividends. Each member has a well defined role and there seems to be a clear focus of plays aggressive cricket from the get-go. Their bowling also looks stronger with the return of Pathirana, who missed the opener due to an injury. Delhi on the other hand seem to be over reliant on their opening pair of Warner and Marsh, with Rishabh Pant understandably taking some time to settle back into the rigours of top level cricket. They invested in a lot of promising but largely unproven local talent at the auctions, and those players are yet to really show their potential in the IPL.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711890218552,
+    "commText": "<p><b>18:33 Local Time, 13:03 GMT, 18:33 IST:</b> The IPL action shifts to coastal Visakhapatnam today, which will serve as a makeshift home venue for Delhi Capitals for part of this season. It is 1st versus 9th on the points table, but it would be foolish to read too much into the points table at this stage of the tournament. However, some clear patterns of play have begun to emerge for both these franchises, which perhaps justify their league positions.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711808370539,
+    "commText": "<p><b>Preview by Pratyush Sinha</b> \\n \\nDelhi Capitals have had an interesting relationship with their \"home\" venue. \\n \\nBack in 2019, when they did get a full season at the Arun Jaitley Stadium, Ricky Ponting wasn't shy of making his displeasure known about the slow and sluggish pitches that worked against a side full of stroke-makers. And as if on cue, the pandemic and the covid protocols ensured that they didn't play a single game at the venue for the next three years. \\n \\nWhen DC returned to their usual home base last year, they did so without Rishabh Pant and looked lost as a side. Perhaps losing five of the seven matches was defensible. This year, then, made for the perfect opportunity for reconciliation, especially with the return of Pant and the work that went into quickening up Delhi's pitches before the World Cup. \\n \\nThat fence-mending between a side and its troubled history with its home venue is going to happen but only later. Because the Women's Premier League just got over there and the pitches in Delhi need to recuperate. So for now, DC start this home stretch at Visakhapatnam, a place Ponting has embraced already. \\n \\n\"This is our second home for this tournament, we know that. This is a home ground tomorrow, not a neutral ground by any chance,\" the head coach said. \"We have got our first two games here and we are going to make sure that this is the place we can win. Tournaments have been won mainly by teams at home and we are at home tomorrow and we expect to win the game.\" \\n \\nStanding in Ponting and DC's way will be Chennai Super Kings, who know a thing or two about winning at home. Incidentally, this will be the first game they play away from home this season and Eric Simons, their bowling consultant, has already stressed the importance of \"adapting quickly\" on the road. \\n \\nThe fixture is an interesting meeting point for the two teams. DC, with two losses from two away games, are set to play a \"home\" game against a side on four points and that's playing its first away game. Ponting has already promised \"more intent\" and a \"lot more aggression\" than the first two games, and how that augurs against a side as nonchalant as CSK will be something to watch out for. \\n \\n<b>When:</b> 31 March 2024, 07:30 PM LOCAL \\n \\n<b>Where:</b> Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam \\n \\n<b>What to expect:</b> Simons said that the pitch had a lot of grass rolled in and felt it would be a \"good cricket wicket\" which could have some bounce going by what he saw on the side pitches on the square. That said, there's always some swing available in the humid Vizag air and new-ball bowlers should be able to get some help. Across 8 IPL games at this venue, 61 wickets have fallen to pace and 36 to spin. \\n \\n<b>Head to Head:</b> CSK 19 - 10 DC. Since IPL 2020, both teams have a 4-4 record but CSK have won the last four games between the sides \\n \\n<b>Team Watch:</b> \\n \\n<b>Delhi Capitals</b> \\n \\n<b>Injuries/Availability:</b> Ponting confirmed that Jhye Richardson is fit and available for selection. Ishant Sharma is likely to continue on the sidelines where Shai Hope will take things \"nice and easy\" on the eve of the game, Ponting said. \\n \\n<b>Tactics & Matchups:</b> Ponting felt that bringing Lalit Yadav's offspin was an option to counter the left-handers in CSK. Also, watch out for DC spinners bowling to CSK's designated spin-hitter Shivam Dube. \\n \\n<b>Probable XI: </b>David Warner, Mitchell Marsh, Ricky Bhui/Prithvi Shaw, Rishabh Pant (w/c), Tristan Stubbs, Axar Patel, Sumit Kumar, Kuldeep Yadav, Anrich Nortje, Khaleel Ahmed, Mukesh Kumar [Impact Sub: Lalit Yadav] \\n \\n<b>Chennai Super Kings</b> \\n \\n<b>Injuries/Availability:</b> There are no injury concerns here. \\n \\n<b>Tactics & Matchups:</b> Ruturaj Gaikwad against left-arm pace is developing as an interesting match-up, with the CSK captain out to the bowling type twice in two innings. Khaleel Ahmed will be itching to bowl with the new ball to him. \\n \\n<b>Probable XI:</b> Ruturaj Gaikwad(c), Rachin Ravindra, Ajinkya Rahane, Daryl Mitchell, Shivam Dube, Ravindra Jadeja, Sameer Rizvi, MS Dhoni(w), Deepak Chahar, Tushar Deshpande, Mustafizur Rahman [Impact Sub: Matheesha Pathirana] \\n \\n<b>Did you know?</b> \\n \\n- CSK and DC have faced only once at Vizag before. It was in Qualifier 2 of the 2019 IPL, which CSK won \\n \\n- The average score batting first in Vizag is 157 \\n \\n- DC have never finished in the top six once they have lost the opening two games of the season \\n \\n<b>What they said:</b> \\n \\n\"We had a couple of chats about our cricket and the consensus out of those meetings is that we have played some really good and bad cricket. So, we need to find somewhere in the middle where we can play consistently good cricket over 40 overs\" - <b>Ricky Ponting</b> on DC's season \\n \\n\"He has made a bit of technical change which has made a big difference. One of the things we have seen is his bouncer becoming more effective... that just adds another weapon to your arsenal. I don't think he's swung it as much as he can; he's working on a few things to get the seam in a better position so his best is yet to com\" - <b>Eric Simons</b> on Deepak Chahar</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711808370529,
+    "commText": "<p><b>Squads:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711808367872,
+    "commText": "<p><b>Delhi Capitals</b> Squad: David Warner, Mitchell Marsh, Ricky Bhui, Rishabh Pant(w/c), Tristan Stubbs, Axar Patel, Sumit Kumar, Kuldeep Yadav, Anrich Nortje, Khaleel Ahmed, Mukesh Kumar, Abishek Porel, Jake Fraser-McGurk, Praveen Dubey, Kumar Kushagra, Rasikh Dar Salam, Ishant Sharma, Jhye Richardson, Shai Hope, Prithvi Shaw, Lalit Yadav, Yash Dhull, Vicky Ostwal, Swastik Chikara</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711808246412,
+    "commText": "<p><b>Chennai Super Kings</b> Squad: Ruturaj Gaikwad(c), Rachin Ravindra, Ajinkya Rahane, Daryl Mitchell, Shivam Dube, Ravindra Jadeja, Sameer Rizvi, MS Dhoni(w), Deepak Chahar, Tushar Deshpande, Mustafizur Rahman, Matheesha Pathirana, Shardul Thakur, Shaik Rasheed, Nishant Sindhu, Mitchell Santner, Maheesh Theekshana, Moeen Ali, Devon Conway, Ajay Jadav Mandal, Prashant Solanki, Mukesh Choudhary, Simarjeet Singh, RS Hangargekar, Aravelly Avanish</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

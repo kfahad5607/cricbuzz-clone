@@ -1,0 +1,531 @@
+[
+  {
+    "timestamp": 1711720646476,
+    "commText": "<p>All set. Should be an electrifying game. Kohli to take strike. A wide slip in. The countdown begins to tick down. Starc has the ball. Here we go...</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711719629021,
+    "commText": "<p>Sunil Narine becomes the <b>fourth cricketer to play 500 T20 matches</b> after Kieron Pollard (660), Dwayne Bravo (573) and Shoaib Malik (542).</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711719629011,
+    "commText": "<p>No Nitish Rana for KKR! Anukul Roy comes in for Suyash Sharma. And since Angkrish Raghuvanshi has been given his cap, expect him to come as the impact sub in the second innings. RCB, meanwhile, have named the same first XI that bowled first against Punjab. If their batting clicks, they will look to bring in an additional bowler for the second half.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711719557044,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711719530051,
+    "commText": "<p><b>Kolkata Knight Riders Subs:</b> Suyash Sharma, Vaibhav Arora, Manish Pandey, Angkrish Raghuvanshi, Rahmanullah Gurbaz</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711719486810,
+    "commText": "<p><b>Royal Challengers Bengaluru Subs:</b> Mahipal Lomror, Suyash Prabhudessai, Karn Sharma, Vijaykumar Vyshak, Swapnil Singh</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711719476392,
+    "commText": "<p><b>Teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711719436801,
+    "commText": "<p><b>Kolkata Knight Riders</b> (Playing XI): Philip Salt(w), Venkatesh Iyer, Shreyas Iyer(c), Ramandeep Singh, Rinku Singh, Andre Russell, Sunil Narine, Mitchell Starc, Anukul Roy, Harshit Rana, Varun Chakaravarthy</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711719307597,
+    "commText": "<p><b>Royal Challengers Bengaluru</b> (Playing XI): Virat Kohli, Faf du Plessis(c), Cameron Green, Rajat Patidar, Glenn Maxwell, Anuj Rawat(w), Dinesh Karthik, Alzarri Joseph, Mayank Dagar, Mohammed Siraj, Yash Dayal</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711719210972,
+    "commText": "<p><b>Faf du Plessis:</b> The same (would have bowled first), just because the previous game we chased. It's a fresh wicket, looks a good wicket, we'll have to see how it plays in the first innings. It's really important early in the season that when you get the opportunity with those close games, that you get the confidence to get over the line.\u00a0That can deal with the confidence. Also important to start with a win at home. All the great cricketers have got the ability to adapt to the surface, it's important to assess the conditions and generate the game plan from there. We love the support, super loud, we love the atmosphere. It's something you can really use it to your advantage. Same team.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711719110331,
+    "commText": "<p><b>Shreyas Iyer:</b> We are going to bowl first. Had a brief chat with the curator, she was intellectual in terms of how the wicket was going to play. Had a brief interaction with her and she was like the ball will also spin. (Morale) It is fantastic, we won the first game out of nowhere and everyone\u00a0is in high spirits. We have to carry forward the same momentum. It is important to be in the present. My role is to play an anchor role and see to it that I get my team through to a commendable total. It's always good to have a lethal bowling line-up as a captain. The way they delivered in the last game, it was phenomenal. It is important to stay in the present. We have to see to it that we capitalize on the start we get and then maximise. The bowling - we've got one change. Anukul comes in. I am seriously confused over here. There are two teams given to me right now.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711719049065,
+    "commText": "<p><b>Kolkata Knight Riders have won the toss and have opted to field</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711718860053,
+    "commText": "<p><b>JUST IN:</b> KKR's Angkrish Raghuvanshi will be making his IPL debut.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711718707182,
+    "commText": "<p>There are plenty of mini-battles to look forward to in this mouth-watering contest. Starc vs Kohli & Faf, KKR spinners vs RCB's middle-order, Siraj vs Shreyas Iyer, Yash Dayal vs Rinku Singh, Alzarri Joseph vs Russell to name a few....</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711718568980,
+    "commText": "<p><b>Alzarri Joseph:</b> It's a pretty good wicket. Always good to get off the mark. Important to stay consistent. (Have to) keep using that hard length with the new ball. I've been enjoying the pre-season games. Was something in it the first game. Hopefully the same today. We know what we have to do (against Rinku and Dre Russ).</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711718062298,
+    "commText": "<p><b>Pitch Report | Ian Bishop and Sunil Gavaskar:</b> \"It looks a glorious evening. The square is a little bit used, but the outfield looks superb. Dimensions of the ground aren't huge. We are the centre of the square - 61 metres (square) either side and 75 metres down the ground. A high six-hitting ground. The first game played here, we saw a number of seam bowlers taking pace off the ball. Maybe that's something faster bowlers may go to today. It looks interesting. It's still a good pitch, it's hard but there are areas over here - when you look at the good length spots, some of these cracks over here, when you touch, they are a little bit loose. If the spinners keep landing the ball over here, it's going to come apart a little bit and get you a little more turn. We hope there'll be no dew interrupting.\"</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711717421627,
+    "commText": "<p>Kolkata kick-started their campaign with a nervy 4-win against SRH in a high-scoring cliffhanger. Four of their top five batters perished for single-digits and the two-time champions still managed to post a total in excess of 200, thanks to a sensible fifty from Salt and Dre Russ's explosive half-ton. With the ball, Sunil Narine - the veteran - was at his miserly best but the other bowlers were taken to the cleaners. A 22-year-old, named Harshit Rana, stepped up and bowled a brilliant final over under tremendous pressure much to the delight of the Eden Gardens.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711717075333,
+    "commText": "<p>Bengaluru's campaignstartedwith a loss against thereigning champions but they got off the mark with a 4-wicket victory against Punjab Kings. A lot of eyebrows were raised when they fielded just four frontline bowlers and relied on Green and Maxwell for the fifth bowler's quota. However, that eventually became a superb move with the Impact Sub (extra batter) making a notable contribution. On a not-a-typical Chinnaswamy track, their bowlers did a good job to restrict their opponents to 176 with Joseph, Green and Siraj using the hard lengths.Yash Dayal has bowled beautifully with the new ball in both the matches. Maxwell and Green have flopped with the bat in both the matches. Kohli put on anexhibitionagainst Punjab but RCB still needed cameos from DK andLomror to take them home. They possess an enviable batting line-up with most of them capableofsingle-handedly winningmatches for their team. Can Faf and Co. win two on the bounce?</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711716652824,
+    "commText": "<p><b>18:20 Local Time, 12:50 GMT, 18:20 IST:</b> I0$ - a new era began with RCB taking on KKR at the Chinnaswamy Stadium. The Knight Riders have been crowned champions twice while the Royal Challengers have been runners-up thrice. Over the years, these two teams have been part of some memorable encounters - nail-biting thrillers, few one-sided encounters and of course a rivalry that's part of the IPL folklore. Expect another crackerjack of a contest once again here at the Garden City. The 16th edition of the Indian Premier League is one week old and all nine matches have been won by the home team. Will that trend continue? RCB will hope it does as they've lost their last five home matches against today's opponents. Hello everyone...</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635252429,
+    "commText": "<p><b>Preview</b> by <b>Kaushik Rangarajan</b> \\n \\nWhat better fixture to closely follow a game that has redefined the limits of what's possible than the one that opened that particular window of imagination 16 years ago. Pore through RCB-KKR history or simply glance over the two squads and there is promise of big runs, even though the freshly-prepared surfaces at the M. Chinnaswamy Stadium may not be at their conducive best just yet to help reclaim the IPL record lost to Hyderabad two nights ago. \\n \\nKlaasen & Co. are the talk of the tournament in the first week of IPL 2024 but the Knight Riders did outhit them in Kolkata. They'll have reason to believe, with a little assistance from the top order, there's plenty more where that came from. That said, RCB were particularly canny with the ball in their win over Punjab Kings and made good use of a slightly tacky surface with their tall, hit-the-deck bowlers. And if there is a chink in KKR's band of heavy hitters, it is that a few of them could be susceptible to the short ball. \\n \\nWatch out also for a battle of dexterity within the larger framework of this context. KKR have as many as four left-handers in their top six while RCB have a right-heavy top-order. And therefore Glenn Maxwell, whose big batting show is awaited in the competition, may just end up having an equally important role to play in the other innings as one of two all-rounder's in a six-man attack. \\n \\n<b>When:</b> Royal Challengers Bengaluru vs Kolkata Knight Riders, IPL 2024, March 29, 19:30 IST \\n \\n<b>Where:</b> M. Chinnaswamy Stadium, Bengaluru \\n \\n<b>What to expect:</b> The toss-winning captain opting to chase. The pitch for this particular game is to the left [from the pavilion end] of the one used for the Punjab game. Visually too, the pitch looked different on the eve of the match with the patchy grass cover that marked the pitch for the opener not seen. The expectation is that it should play truer than the one used four nights ago, which saw a substantial 20-run dip from last year's average venue score of 196. \\n \\n<b>Head to Head:</b> RCB 14 - 18 KKR. The Knight Riders did the double over RCB last season, scoring 200 on each occasion. In fact, RCB have not beaten KKR on their home turf since 2015. \\n \\n<b>Team Watch:</b> \\n \\n<b>Royal Challengers Bengaluru</b> \\n \\n<b>Injury/Availability:</b> RCB have a clean bill of health to report. \\n \\n<b>Tactics & Matchups:</b> Faf du Plessis and Andy Flower took a bold call in the first game to field just the four frontline bowlers and got five overs out of their two overseas allrounders. This meant they could field both Anuj Rawat and Dinesh Karthik in the XI and throw in another batter, Mahipal Lomror, as an 'Impact Sub' to bolster batting depth. Batting coach Neil Mckenzie confirmed that it is a line of thinking that will continue as RCB look to reassure their power players to take positive options knowing there's enough batting to come. \\n \\n<b>Probable XI:</b> Virat Kohli, Faf du Plessis (c), Cameron Green, Rajat Patidar, Glenn Maxwell, Anuj Rawat (wk), Dinesh Karthik, Alzarri Joseph, Mayank Dagar, Mohammed Siraj, Yash Dayal [Impact Substitute: Mahipal Lomror] \\n \\n<b>Kolkata Knight Riders</b> \\n \\n<b>Injury/Availability:</b> No injury concerns for KKR either. \\n \\n<b>Tactics & Matchups:</b> There was some turn on offer in Bengaluru's opening game but KKR will have to consider if their three-card trick of Narine+Varun+Suyash is worth the risk at Chinnaswamy. Varun Chakravarthy was Player of the Match last time at this venue while Sunil Narine holds a fantastic head-to-head record against both Virat Kohli [106 off 106, 4 dismissals] and Faf du Plessis [37 off 47, 1 dismissal]. \\n \\n<b>Probable XI:</b> Phil Salt (wk), Sunil Narine, Venkatesh Iyer, Shreyas Iyer (c), Nitish Rana, Rinku Singh, Andre Russell, Mitchell Starc, Harshit Rana, Varun Chakravarthy, Suyash Sharma/Chetan Sakariya [Impact Substitute: Ramandeep Singh] \\n \\n<b>Did you know?</b> \\n \\n- Rinku Singh strikes at 273.1 in overs 19 and 20 in all T20s since 2023. The last time he faced Yash Dayal, he hit five sixes to chase down 28 from the final 5 balls of the match. \\n \\n- Mohammed Siraj has dismissed Andre Russell twice and conceded a run-a-ball 22 to the big-hitting all-rounder in their match-up \\n \\n- Mitchell Starc returns to the place where he started his IPL career. In the ten matches Starc played here, he had an ER of 7.66 while the other pacers in those ten games conceded at 9.47 \\n \\n<b>What they said:</b> \\n \\n\"At the moment I have four packs [abs] so working on the next two. Definitely being leaner and lighter, I just think it's working for my body and shows in my performance as well. I set myself a goal because I like to watch the UFC fighters. To see those guys looking strong and lean is a motivation for me as well. I know it's gonna help in my cricket... bowling, fielding and also in my batting. I use it as a platform to say that I want to look like that. If I don't, it's still fine. I'll be getting stronger and I'll be making sure that I'm on the cricket field as long as possible and keep doing all these amazing things that I've been doing.\"<b> - Andre Russell</b> on the progress he's made after vowing to look like a UFC fighter for the T20 World Cup</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635252419,
+    "commText": "<p><b>Squads:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635251083,
+    "commText": "<p><b>Kolkata Knight Riders</b> Squad: Philip Salt(w), Venkatesh Iyer, Shreyas Iyer(c), Nitish Rana, Rinku Singh, Ramandeep Singh, Andre Russell, Sunil Narine, Mitchell Starc, Harshit Rana, Varun Chakaravarthy, Suyash Sharma, Manish Pandey, Vaibhav Arora, Angkrish Raghuvanshi, Rahmanullah Gurbaz, Chetan Sakariya, Sherfane Rutherford, Sakib Hussain, Anukul Roy, Srikar Bharat, Dushmantha Chameera, Allah Ghazanfar</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711635087731,
+    "commText": "<p><b>Royal Challengers Bengaluru</b> Squad: Faf du Plessis(c), Virat Kohli, Rajat Patidar, Glenn Maxwell, Cameron Green, Dinesh Karthik, Anuj Rawat(w), Alzarri Joseph, Mayank Dagar, Mohammed Siraj, Yash Dayal, Mahipal Lomror, Suyash Prabhudessai, Karn Sharma, Vijaykumar Vyshak, Swapnil Singh, Lockie Ferguson, Will Jacks, Manoj Bhandage, Akash Deep, Saurav Chauhan, Rajan Kumar, Himanshu Sharma, Tom Curran, Reece Topley</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

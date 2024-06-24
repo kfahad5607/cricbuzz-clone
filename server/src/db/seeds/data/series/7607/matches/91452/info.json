@@ -1,0 +1,48 @@
+{
+  "id": "91452",
+  "description": "32nd Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 32,
+  "homeTeam": 971,
+  "awayTeam": 61,
+  "series": 7607,
+  "venue": 50,
+  "startTime": 1713362400000,
+  "completeTime": 1713372243884,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 61
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 6
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 971,
+      "batTeamName": "GT",
+      "score": 89,
+      "wickets": 10,
+      "overs": 17.3,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 105
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 61,
+      "batTeamName": "DC",
+      "score": 92,
+      "wickets": 4,
+      "overs": 8.5,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 53
+    }
+  ],
+  "state": "complete"
+}

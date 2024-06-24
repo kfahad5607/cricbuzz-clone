@@ -1,0 +1,48 @@
+{
+  "id": 91596,
+  "description": "51st Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 51,
+  "homeTeam": 62,
+  "awayTeam": 63,
+  "series": 7607,
+  "venue": 81,
+  "startTime": 1714744800000,
+  "completeTime": 1714758342415,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 62
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 24
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 63,
+      "batTeamName": "KKR",
+      "score": 169,
+      "wickets": 10,
+      "overs": 19.5,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 119
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 62,
+      "batTeamName": "MI",
+      "score": 145,
+      "wickets": 10,
+      "overs": 18.5,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 113
+    }
+  ],
+  "state": "complete"
+}

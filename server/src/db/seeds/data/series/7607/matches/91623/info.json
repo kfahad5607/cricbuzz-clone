@@ -1,0 +1,48 @@
+{
+  "id": "91623",
+  "description": "55th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 55,
+  "homeTeam": 62,
+  "awayTeam": 255,
+  "series": 7607,
+  "venue": 81,
+  "startTime": 1715004000000,
+  "completeTime": 1715017345711,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 62
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 7
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 173,
+      "wickets": 8,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 62,
+      "batTeamName": "MI",
+      "score": 174,
+      "wickets": 3,
+      "overs": 17.2,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 104
+    }
+  ],
+  "state": "complete"
+}

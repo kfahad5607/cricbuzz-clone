@@ -1,0 +1,48 @@
+{
+  "id": 91668,
+  "description": "62nd Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 1,
+  "homeTeam": 59,
+  "awayTeam": 61,
+  "series": 7607,
+  "venue": 27,
+  "startTime": 1715522400000,
+  "completeTime": 1715535299367,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 61
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 47
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 59,
+      "batTeamName": "RCB",
+      "score": 187,
+      "wickets": 9,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 61,
+      "batTeamName": "DC",
+      "score": 140,
+      "wickets": 10,
+      "overs": 19.1,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 115
+    }
+  ],
+  "state": "complete"
+}

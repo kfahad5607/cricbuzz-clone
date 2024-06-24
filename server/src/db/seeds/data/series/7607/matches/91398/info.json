@@ -1,0 +1,48 @@
+{
+  "id": 91398,
+  "description": "25th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 25,
+  "homeTeam": 62,
+  "awayTeam": 59,
+  "series": 7607,
+  "venue": 81,
+  "startTime": 1712844000000,
+  "completeTime": 1712857397451,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 62
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 7
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 59,
+      "batTeamName": "RCB",
+      "score": 196,
+      "wickets": 8,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 62,
+      "batTeamName": "MI",
+      "score": 199,
+      "wickets": 3,
+      "overs": 15.3,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 93
+    }
+  ],
+  "state": "complete"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 89770,
+  "description": "21st Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 21,
+  "homeTeam": 966,
+  "awayTeam": 971,
+  "series": 7607,
+  "venue": 485,
+  "startTime": 1712498400000,
+  "completeTime": 1712511677127,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 966
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 33
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 966,
+      "batTeamName": "LSG",
+      "score": 163,
+      "wickets": 5,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 971,
+      "batTeamName": "GT",
+      "score": 130,
+      "wickets": 10,
+      "overs": 18.5,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 113
+    }
+  ],
+  "state": "complete"
+}

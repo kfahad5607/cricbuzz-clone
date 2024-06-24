@@ -1,0 +1,48 @@
+{
+  "id": 89724,
+  "description": "13th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 13,
+  "homeTeam": 61,
+  "awayTeam": 58,
+  "series": 7607,
+  "venue": 154,
+  "startTime": 1711893600000,
+  "completeTime": 1711907625217,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 61
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 20
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 61,
+      "batTeamName": "DC",
+      "score": 191,
+      "wickets": 5,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 58,
+      "batTeamName": "CSK",
+      "score": 171,
+      "wickets": 6,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 91713,
+  "description": "69th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 1,
+  "homeTeam": 255,
+  "awayTeam": 65,
+  "series": 7607,
+  "venue": 80,
+  "startTime": 1716112800000,
+  "completeTime": 1716126323488,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 65
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 4
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 65,
+      "batTeamName": "PBKS",
+      "score": 214,
+      "wickets": 5,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 215,
+      "wickets": 6,
+      "overs": 19.1,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 115
+    }
+  ],
+  "state": "complete"
+}

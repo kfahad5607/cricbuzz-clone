@@ -1,0 +1,485 @@
+[
+  {
+    "timestamp": 1713880704162,
+    "commText": "<p>Good evening from a raucous Chepauk. Rahane and Rutu to open the batting. Their openers haven't been the strongest this season, but can this new pair fare any different? Matt Henry with the new ball, he will be searching for swing. One slip in place...</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713879818026,
+    "commText": "<p>Our team-mate Ramakrishnan MS is at the stadium, and he texts saying \"Marcus Stoinis is practising on the side wickets, pakka bowling today.\"</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713879586167,
+    "commText": "<p>Our Fantasy Handbook team has one change following the toss and team news. Please do check the updated team!</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713879579242,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713879572316,
+    "commText": "<p><b>Lucknow Super Giants Subs:</b> Devdutt Padikkal, Arshin Kulkarni, Krishnappa Gowtham, Yudhvir Singh Charak, Manimaran Siddharth</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713879508882,
+    "commText": "<p><b>Chennai Super Kings Subs:</b> Sameer Rizvi, Shardul Thakur, Shaik Rasheed, Rachin Ravindra, Mitchell Santner</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713879358950,
+    "commText": "<p><b>Teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713879357185,
+    "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Ajinkya Rahane, Ruturaj Gaikwad(c), Daryl Mitchell, Moeen Ali, Shivam Dube, Ravindra Jadeja, MS Dhoni(w), Deepak Chahar, Tushar Deshpande, Mustafizur Rahman, Matheesha Pathirana</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713879263887,
+    "commText": "<p><b>Lucknow Super Giants</b> (Playing XI): Quinton de Kock, KL Rahul(w/c), Marcus Stoinis, Deepak Hooda, Nicholas Pooran, Ayush Badoni, Krunal Pandya, Matt Henry, Ravi Bishnoi, Mohsin Khan, Yash Thakur</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713879153359,
+    "commText": "<p><b>Ruturaj Gaikwad:</b> Nothing different, but the coin toss is something I need to work on. I've lost seven in a row I think. There will be some dew later on, but you never know how the wicket will surprise you. You just need to go out there and express yourself, if the ball is in your area then just attack it. Hoping to set the foundation upfront. <b>One change for us - Daryl comes in for Rachin</b>. Pretty good to have three home games, but for that we will need to win some tosses. However, it doesn't matter if you are batting first or bowling first, you need to play good cricket here to win.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713879052531,
+    "commText": "<p><b>KL Rahul:</b> We'll bowl first. There is a bit of dew, we have trained here and there is a bit of dew that will play an impact. Wicket is a bit slow and hopefully we can put their batters under pressure. (On previous win) We played well in all three facets, but we have left the result back in Lucknow. We know how challenging Chennai is, everyone will be cheering for them. <b>Same team for us.</b> No need to quieten the crowd, they always encourage good cricket.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713878664285,
+    "commText": "<p><b>Lucknow Super Giants have won the toss and have opted to field</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713878276039,
+    "commText": "<p><b>Matt Henry:</b> (On making his debut) Found out the day before, Morne Morkel presented my cap, was pretty special. He\u2019s (Langer) been fantastic, Chennai is a very well supported team. It\u2019s about coming out here and enjoying and embracing it. We saw last week, if we stick to what we do, hopefully we can come away with the points. It was awesome to be able to go to Taunton and play for the Somerset team. It was great to get some T20 cricket behind me before a World Cup. Taunton is a small ground so it was great to test some skills and to come away with the title was the icing on the cake. It\u2019s always tough when you come up against your mates. They\u2019re world-class players who\u2019ve done the job for a while.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713878218524,
+    "commText": "<p><b>Moeen Ali:</b> (On his role as a batter) All depends on the situation of the game. The other night we\u2019d lost some wickets and needed to rebuild a little bit. When it was my time to go, I decided on a bowler I wanted to go after. After the last game, I\u2019m hoping to bowl a few more overs. Also depends on the dew. I\u2019ve bowled well against these guys in the last couple of games so definitely looking forward to bowling. (On the message from the coach) Just to stay calm. They\u2019ll be quite confident after their last game but this is our home patch and we know what we\u2019re doing so we just want to stay calm. (On the crowd wanting Dhoni to bat) It happened last game as well where they were shouting his name. It\u2019s something you just have to block out, obviously we all want to see him bat but there\u2019s a time he prefers to come in so it's noise that you need to block out. It doesn\u2019t get to me too much.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713878185440,
+    "commText": "<p><b>Pitch Report | Ian Bishop and Matthew Hayden:</b> Two teams within whispering distance of each other, so that makes this game so very important. It was very hot in the afternoon, but it is cooling down a bit now. We are very central on this lovely playing surface. To the right, it is about 66m and only one meter bigger on the left side. Down the ground it is 78m. This feels like a wicket of two halves. The half where we are standing have some speckling of grass, but the far end has a nice even covering of grass. It is not going to be a 200 sort of wicket, it is going to be a real dogfight. There is going to be some dew today, and it will come early. By 8pm, you can see a considerable amount of moisture on the outfield. But the wicket itself, you got to be in the hunt, you got to be in the fight throughout the game. The KKR game, they got about 137 which was chased down easily. This is going to be a surface like that. It is not going to be easy in the middle phase where you will see a lot of spin here, and that\u2019s where you need to be comfortable batting on this surface. The trick for pacers will be to take pace off, bowl a lot of off cutters and big looping slower ones. This is a critical game, can\u2019t wait for it to get started.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713877101601,
+    "commText": "<p>Lucknow have had a similar storyline to CSK - lions at home and lambs away. They have won three out of their four home games but have been poor on the road, suffering a drubbing at the Eden Gardens against KKR last time around. KL Rahul and co. are fresh off a solid win against CSK, where the skipper and QDK both found some form again, but playing Chennai at Chennai could be a different ballgame altogether. RCB, Gujarat and KKR have all tried to upset the reigning champions at their own turf, but to no avail. Will today offer a different outcome or will Chennai serve another unpalatable meal to their visitors? Stick around for the toss and team updates.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713877047232,
+    "commText": "<p><b>18:27 Local Time, 12:57 GMT, 18:27 IST:</b> Home is where the Wifi connects automatically, and for CSK home is generally where two points connect automatically. With the yellow army backing them to the tilt and the sluggish wickets being their best friends, Chennai Super Kings exemplify what \u2018home advantage\u2019 is for this tournament. They are unbeaten at home this season, but have been shaky on the road with three losses, the latest of which was against LSG in Lucknow.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713794816554,
+    "commText": "<p><b>Preview by Ganesh Chandrasekaran</b> \\n \\n<b>Chennai Super Kings</b> have had a scratchy time on the road - losing three out of the four games, but have been impeccable in <b>Chepauk</b>. They're unbeaten at home in three games, and gear up to kick-start a stretch of three games at the venue where they'll want to shrug off some of the scratchiness that's been associated with them so far. <b>Lucknow Super Giants</b> are sailing in a similar boat. They have lost two of their three away games but get into a stretch of three home games after they take on CSK in Chennai. \\n \\nAs the teams head into a crucial phase of the season where each loss is going to bring in additional pressure, the weight of expectations and the importance is not lost on the teams, especially CSK. \\n \\n<b>\"Of course it's going to be very important, the closer you get to the back-end of the tournament, the wins become more important,\" conceded Michael Hussey, the batting coach and added,</b> \"I mean anytime in the tournament wins are important. We've got a pretty good start but we've got a good record at home and that's what we want to keep intact. If we can play well in the next three matches, it gives us a great chance.\" \\n \\nIt came with a word of caution that could fit both teams. \"But it's also dangerous for us to think it's just going to happen. And it's dangerous for us to think too far ahead,<b>\" Hussey </b>said. \\n \\n\"All our focus and attention needs to be on tomorrow night against LSG. That's all we can focus on at the moment, try and take care of business in that game. And then we'll look forward to the next one. If you start thinking that we're going to win the next three matches then you're taking your mind on what's not important. I guess the short answer is we're not looking too far ahead but important stage in the tournament, yeah,\" he added. \\n \\nThe two teams faced off just three days ago, adding an edge to Tuesday's contest courtesy the familiarity the two sets of players will have. The team combinations are unlikely to change too drastically given the short turnaround time between the games. In Lucknow, skipper <b>KL Rahul</b> had said that he had asked his team to be prepared to play against a vociferous support for the opposition. If they manage to silence those faithfuls on their home turf, it'll give the team a big fillip in a see-sawing campaign. \\n \\n<b>When:</b> Chennai Super Kings vs Lucknow Super Giants, <b>April 23, 2024 at 19:30 IST</b> \\n \\n<b>Where:</b> MA Chidambaram Stadium, Chepauk \\n \\n<b>What to expect:</b> The conditions in <b>Chepauk</b> have been on expected lines with both spinners and the pacers with variations making impact in the three games played here so far in the season. Under hot and humid conditions that prevail in the city, the pitch is unlikely to change in character. \\n \\n<b>Head to head:</b> CSK 1 - 2 LSG \\n \\n<b>Teams</b> \\n \\n<b>Chennai Super Kings</b> \\n \\n<b>Injuries/Availability:</b> There is no reported injury concern. \\n \\n<b>Tactics & Match-ups:</b> <b>Moeen Ali</b>, who was brought in for <b>Daryl Mitchell</b>, offers CSK a chance to throw a challenge to LSG's left-handers - particularly <b>Quinton de Kock</b> and <b>Nicholas Pooran</b>. He has dismissed the former 6 times in T20 cricket and could be an option in the powerplay to target de Kock early. Additonally, LSG have been losing more wickets than any other team against left-arm pace since the previous IPL. It brings <b>Mustafizur Rahman</b> squarely back into the equation even though he was CSK's most expensive bowler in their previous outing against LSG. \\n \\n<b>Probable XI:</b>Ruturaj Gaikwad, Rachin Ravindra, Ajinkya Rahane, Shivam Dube, Moeen Ali, Sameer Rizvi, Ravindra Jadeja, MS Dhoni, Deepak Chahar, Mustafizur Rahman, Matheesha Pathirana <b>[Impact Sub: Tushar Deshpande]</b> \\n \\n<b>Lucknow Super Giants</b> \\n \\n<b>Injuries/Availability:</b> <b>Mayank Yadav</b> has stayed back in Lucknow with him likely to be considered from LSG's next outing. \\n \\n<b>Tactics and match-ups:</b> <b>Marcus Stoinis</b> has been dismissed five times against spin this season, the most for any batter. \\n \\n<b>Probable XI:</b> KL Rahul, Quinton de Kock, Deepak Hooda, Marcus Stoinis, Nicholas Pooran, Ayush Badoni, Krunal Pandya, Matt Henry, Ravi Bishnoi, Yash Thakur, Mohsin Khan <b>[Impact sub: Devdutt Padikkal]</b> \\n \\n<b>Did you know?</b> \\n \\n- <b>KL Rahul</b> has had his best phase in the Powerplay since <b>2018</b> with his S/R touching <b>150</b>. Additionally, he has a good record against CSK scoring four fifties in eight innings. \\n \\n- <b>Shardul Thakur</b> has dismissed <b>Nicholas Pooran</b> five times in 18 balls in all T20s \\n \\n<b>What they said</b> \\n \\n\"He's a great player, he's been a fantastic player for a long period of time. He's very difficult to bowl to because he plays great shots all around the ground. He seems to be in a very good mindset at the moment, he looks confident and he's playing some good cricket. That makes him very dangerous. And I think he's also got the ability to go on and play that big innings, he can score 80-plus. If you've got a batter in your line-up who can score 80-plus then you're going to win a lot of games. So I guess if we can get the ball moving early that'll be a big bonus for us. To both him and <b>Quinton de Kock.</b> That was one of our problems in the last game, we couldn't break that partnership until very late.<b>\" - Micheal Hussey</b> on how LSG plan to stop <b>KL Rahul.</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713794816544,
+    "commText": "<p><b>Squads:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713794813415,
+    "commText": "<p><b>Lucknow Super Giants</b> Squad: Quinton de Kock, KL Rahul(w/c), Nicholas Pooran, Marcus Stoinis, Deepak Hooda, Ayush Badoni, Krunal Pandya, Matt Henry, Ravi Bishnoi, Mohsin Khan, Yash Thakur, Arshin Kulkarni, Krishnappa Gowtham, Yudhvir Singh Charak, Manimaran Siddharth, Arshad Khan, Prerak Mankad, Amit Mishra, Kyle Mayers, Shamar Joseph, Ashton Turner, Naveen-ul-Haq, Devdutt Padikkal, Mayank Yadav</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713794678003,
+    "commText": "<p><b>Chennai Super Kings</b> Squad: Ajinkya Rahane, Rachin Ravindra, Ruturaj Gaikwad(c), Ravindra Jadeja, Shivam Dube, Sameer Rizvi, Moeen Ali, MS Dhoni(w), Deepak Chahar, Tushar Deshpande, Mustafizur Rahman, Matheesha Pathirana, Shardul Thakur, Shaik Rasheed, Nishant Sindhu, Mitchell Santner, Daryl Mitchell, Aravelly Avanish, Maheesh Theekshana, RS Hangargekar, Simarjeet Singh, Mukesh Choudhary, Prashant Solanki, Ajay Jadav Mandal, Richard Gleeson</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "89668",
+  "description": "4th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 4,
+  "homeTeam": 64,
+  "awayTeam": 966,
+  "series": 7607,
+  "venue": 76,
+  "startTime": 1711274400000,
+  "completeTime": 1711288497383,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 64
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 20
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 64,
+      "batTeamName": "RR",
+      "score": 193,
+      "wickets": 4,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 966,
+      "batTeamName": "LSG",
+      "score": 173,
+      "wickets": 6,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

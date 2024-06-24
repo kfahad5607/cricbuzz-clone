@@ -1,0 +1,48 @@
+{
+  "id": 91735,
+  "description": "Qualifier 2",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 73,
+  "homeTeam": 255,
+  "awayTeam": 64,
+  "series": 7607,
+  "venue": 11,
+  "startTime": 1716559200000,
+  "completeTime": 1716572909925,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 64
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 36
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 175,
+      "wickets": 9,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 64,
+      "batTeamName": "RR",
+      "score": 139,
+      "wickets": 7,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

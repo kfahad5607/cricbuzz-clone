@@ -1,0 +1,48 @@
+{
+  "id": "91654",
+  "description": "60th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 60,
+  "homeTeam": 63,
+  "awayTeam": 62,
+  "series": 7607,
+  "venue": 31,
+  "startTime": 1715436000000,
+  "completeTime": 1715454123953,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 62
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 18
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 63,
+      "batTeamName": "KKR",
+      "score": 157,
+      "wickets": 7,
+      "overs": 15.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 96
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 62,
+      "batTeamName": "MI",
+      "score": 139,
+      "wickets": 8,
+      "overs": 15.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 96
+    }
+  ],
+  "state": "complete"
+}

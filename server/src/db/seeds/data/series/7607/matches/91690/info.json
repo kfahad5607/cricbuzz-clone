@@ -1,0 +1,21 @@
+{
+  "id": "91690",
+  "description": "66th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 66,
+  "homeTeam": 255,
+  "awayTeam": 971,
+  "series": 7607,
+  "venue": 80,
+  "startTime": 1715868000000,
+  "completeTime": 1715877819237,
+  "tossResults": {},
+  "results": {
+    "resultType": "abandon",
+    "winByRuns": false,
+    "winByInnings": false
+  },
+  "inningsScoreList": [],
+  "state": "abandon"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 91618,
+  "description": "54th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 54,
+  "homeTeam": 966,
+  "awayTeam": 63,
+  "series": 7607,
+  "venue": 485,
+  "startTime": 1714917600000,
+  "completeTime": 1714931227213,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 966
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 98
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 63,
+      "batTeamName": "KKR",
+      "score": 235,
+      "wickets": 6,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 966,
+      "batTeamName": "LSG",
+      "score": 137,
+      "wickets": 10,
+      "overs": 16.1,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 97
+    }
+  ],
+  "state": "complete"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "91569",
+  "description": "48th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 48,
+  "homeTeam": 966,
+  "awayTeam": 62,
+  "series": 7607,
+  "venue": 485,
+  "startTime": 1714485600000,
+  "completeTime": 1714499554351,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 966
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 4
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 62,
+      "batTeamName": "MI",
+      "score": 144,
+      "wickets": 7,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 966,
+      "batTeamName": "LSG",
+      "score": 145,
+      "wickets": 6,
+      "overs": 19.2,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 116
+    }
+  ],
+  "state": "complete"
+}

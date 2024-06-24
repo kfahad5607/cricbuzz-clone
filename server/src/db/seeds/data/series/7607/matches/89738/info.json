@@ -1,0 +1,48 @@
+{
+  "id": 89738,
+  "description": "15th Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 1,
+  "homeTeam": 59,
+  "awayTeam": 966,
+  "series": 7607,
+  "venue": 27,
+  "startTime": 1712066400000,
+  "completeTime": 1712079567570,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 59
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 28
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 966,
+      "batTeamName": "LSG",
+      "score": 181,
+      "wickets": 5,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 59,
+      "batTeamName": "RCB",
+      "score": 153,
+      "wickets": 10,
+      "overs": 19.4,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 118
+    }
+  ],
+  "state": "complete"
+}

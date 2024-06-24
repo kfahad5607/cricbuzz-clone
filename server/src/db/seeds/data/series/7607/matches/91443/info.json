@@ -1,0 +1,48 @@
+{
+  "id": "91443",
+  "description": "31st Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 31,
+  "homeTeam": 63,
+  "awayTeam": 64,
+  "series": 7607,
+  "venue": 31,
+  "startTime": 1713276000000,
+  "completeTime": 1713290927739,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 64
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 2
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 63,
+      "batTeamName": "KKR",
+      "score": 223,
+      "wickets": 6,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 64,
+      "batTeamName": "RR",
+      "score": 224,
+      "wickets": 8,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

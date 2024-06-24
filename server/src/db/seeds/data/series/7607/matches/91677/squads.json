@@ -1,0 +1,208 @@
+{
+  "homeTeam": {
+    "teamId": 971,
+    "players": [
+      {
+        "playerId": "11808",
+        "isCaptain": true,
+        "name": "shubman gill"
+      },
+      {
+        "playerId": "1649",
+        "isKeeper": true,
+        "name": "matthew wade"
+      },
+      {
+        "playerId": "13866",
+        "name": "sai sudharsan"
+      },
+      {
+        "playerId": "10226",
+        "name": "shahrukh khan"
+      },
+      {
+        "playerId": "6349",
+        "name": "david miller"
+      },
+      {
+        "playerId": "9693",
+        "name": "rahul tewatia"
+      },
+      {
+        "playerId": "10738",
+        "name": "rashid khan"
+      },
+      {
+        "playerId": "15452",
+        "name": "noor ahmad"
+      },
+      {
+        "playerId": "1858",
+        "name": "umesh yadav"
+      },
+      {
+        "playerId": "8181",
+        "name": "mohit sharma"
+      },
+      {
+        "playerId": "13136",
+        "name": "kartik tyagi"
+      },
+      {
+        "playerId": "8944",
+        "name": "sandeep warrier"
+      },
+      {
+        "playerId": "10499",
+        "name": "abhinav manohar"
+      },
+      {
+        "playerId": "10520",
+        "name": "sharath br"
+      },
+      {
+        "playerId": "12779",
+        "name": "darshan nalkande"
+      },
+      {
+        "playerId": "8182",
+        "name": "jayant yadav"
+      },
+      {
+        "playerId": "11128",
+        "name": "joshua little"
+      },
+      {
+        "playerId": "11595",
+        "name": "ravisrinivasan sai kishore"
+      },
+      {
+        "playerId": "13143",
+        "name": "spencer johnson"
+      },
+      {
+        "playerId": "13214",
+        "name": "azmatullah omarzai"
+      },
+      {
+        "playerId": "14596",
+        "name": "manav suthar"
+      },
+      {
+        "playerId": "14706",
+        "name": "sushant mishra"
+      },
+      {
+        "playerId": "8204",
+        "name": "vijay shankar"
+      },
+      {
+        "playerId": "6326",
+        "name": "kane williamson"
+      },
+      {
+        "playerId": "1465",
+        "name": "wriddhiman saha"
+      }
+    ]
+  },
+  "awayTeam": {
+    "teamId": 63,
+    "players": [
+      {
+        "playerId": "10479",
+        "isKeeper": true,
+        "name": "philip salt"
+      },
+      {
+        "playerId": "9428",
+        "isCaptain": true,
+        "name": "shreyas iyer"
+      },
+      {
+        "playerId": "2276",
+        "name": "sunil narine"
+      },
+      {
+        "playerId": "10917",
+        "name": "venkatesh iyer"
+      },
+      {
+        "playerId": "10896",
+        "name": "rinku singh"
+      },
+      {
+        "playerId": "9204",
+        "name": "nitish rana"
+      },
+      {
+        "playerId": "7736",
+        "name": "andre russell"
+      },
+      {
+        "playerId": "12337",
+        "name": "ramandeep singh"
+      },
+      {
+        "playerId": "7710",
+        "name": "mitchell starc"
+      },
+      {
+        "playerId": "24729",
+        "name": "harshit rana"
+      },
+      {
+        "playerId": "12926",
+        "name": "varun chakaravarthy"
+      },
+      {
+        "playerId": "15861",
+        "name": "vaibhav arora"
+      },
+      {
+        "playerId": "12344",
+        "name": "anukul roy"
+      },
+      {
+        "playerId": "36487",
+        "name": "suyash sharma"
+      },
+      {
+        "playerId": "13213",
+        "name": "rahmanullah gurbaz"
+      },
+      {
+        "playerId": "22566",
+        "name": "angkrish raghuvanshi"
+      },
+      {
+        "playerId": "1836",
+        "name": "manish pandey"
+      },
+      {
+        "playerId": "8393",
+        "name": "dushmantha chameera"
+      },
+      {
+        "playerId": "9025",
+        "name": "srikar bharat"
+      },
+      {
+        "playerId": "13494",
+        "name": "chetan sakariya"
+      },
+      {
+        "playerId": "13748",
+        "name": "sherfane rutherford"
+      },
+      {
+        "playerId": "33129",
+        "name": "sakib hussain"
+      },
+      {
+        "playerId": "36501",
+        "name": "allah ghazanfar"
+      }
+    ]
+  }
+}

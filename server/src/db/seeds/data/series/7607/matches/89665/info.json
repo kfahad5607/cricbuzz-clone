@@ -1,0 +1,48 @@
+{
+  "id": "89665",
+  "description": "3rd Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 3,
+  "homeTeam": 63,
+  "awayTeam": 255,
+  "series": 7607,
+  "venue": 31,
+  "startTime": 1711202400000,
+  "completeTime": 1711216417335,
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 255
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 4
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 63,
+      "batTeamName": "KKR",
+      "score": 208,
+      "wickets": 7,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 204,
+      "wickets": 7,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

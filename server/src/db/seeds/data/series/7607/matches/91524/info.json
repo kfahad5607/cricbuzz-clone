@@ -1,0 +1,48 @@
+{
+  "id": "91524",
+  "description": "41st Match",
+  "matchFormat": "t20",
+  "matchType": "league",
+  "matchNumber": 41,
+  "homeTeam": 255,
+  "awayTeam": 59,
+  "series": 7607,
+  "venue": 80,
+  "startTime": 1714053600000,
+  "completeTime": 1714067050631,
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 59
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": true,
+    "winByInnings": false,
+    "winningMargin": 35
+  },
+  "inningsScoreList": [
+    {
+      "inningsId": 1,
+      "batTeamId": 59,
+      "batTeamName": "RCB",
+      "score": 206,
+      "wickets": 7,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    },
+    {
+      "inningsId": 2,
+      "batTeamId": 255,
+      "batTeamName": "SRH",
+      "score": 171,
+      "wickets": 8,
+      "overs": 19.6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "ballNbr": 120
+    }
+  ],
+  "state": "complete"
+}

@@ -1,0 +1,485 @@
+[
+  {
+    "timestamp": 1712412012518,
+    "commText": "<p>The players are out in the middle and we are ready for live action. A slip in place and here we go!</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712411273127,
+    "commText": "<p>We have made a few changes based on the conditions and team changes. Do check out our updated Fantasy Handbook before you lock your final XI..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712410840292,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712410802477,
+    "commText": "<p><b>Royal Challengers Bengaluru Subs:</b> Suyash Prabhudessai, Mahipal Lomror, Himanshu Sharma, Vijaykumar Vyshak, Swapnil Singh</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712410773212,
+    "commText": "<p><b>Rajasthan Royals Subs:</b> Rovman Powell, Tanush Kotian, Kuldeep Sen, Shubham Dube, Abid Mushtaq</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712410605012,
+    "commText": "<p><b>Teams:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712410602769,
+    "commText": "<p><b>Royal Challengers Bengaluru</b> (Playing XI): Virat Kohli, Faf du Plessis(c), Rajat Patidar, Glenn Maxwell, Cameron Green, Dinesh Karthik(w), Saurav Chauhan, Reece Topley, Mayank Dagar, Mohammed Siraj, Yash Dayal</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712410573886,
+    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Nandre Burger, Yuzvendra Chahal</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712410359850,
+    "commText": "<p><b>Faf du Plessis:</b> We were thinking of the same, it looks a good wicket, think it will remain the same in both the innings. We have one change in our batting line-up. For me it's just a case of trusting our guys. We have been inconsistent, we get an opportunity to do things better. We are trying to find the roles for the players, we are looking for that. That hasn't worked as yet. We haven't delivered. Not many people know him (Saurav Chauhan), he has some serious amount of skill and batting power, looks like a nice and calm guy.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712410330043,
+    "commText": "<p><b>Sanju Samson:</b> We would like to bowl first on this wicket. Something to do with the opposition, it's a fresh wicket, expecting some help for the seamers and expecting some dew as well. It's a long season, people are taking responsibility and finishing games. We are going in with the same team.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712410303167,
+    "commText": "<p><b>Rajasthan Royals have won the toss and have opted to field</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712410190654,
+    "commText": "<p>Samson walks out for the toss donning a pink jersey and joins Faf du Plessis..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712409559619,
+    "commText": "<p><b>Reece Topley:</b> I am feeling really good at the moment. Last game I lasted a bit longer than my previous game in the IPL. Dislocating the shoulder there is a lot of rehab to follow. I have been in a pretty good space and managed to contribute towards the back end of last summer then I have been busy with franchise competitions ever since. It (LSG loss) was a bit of game for us to strike through, not let it effect us and today is a fresh game, fresh opportunity to get some points on the board. LSG looked organised and gave us a tough night in Bengaluru. I can put my finger on what the challenges are, we have come up against some good teams and most teams in this competition are going to have a slight hiccup here and there, hopefully we have got ours out of the way nice and early. It is more a matter of time when we are going to click, once we do we are not going to look back. We need to build some momentum and in such competitions we see that you get one win and suddenly you're on a bit of a roll.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712409221960,
+    "commText": "<p><b>Riyan Parag:</b> It's a combination of few things, keeping it simple while batting at number 4, that's helping me this season. I got injured in one of the Ranji games and I got to know that I'll be batting at number 4 for Rajasthan during my recovery process. I got enough time to prepare accordingly. My shoulder is recovering gradually but I am ready to bowl when need arises, Sanju (Samson) has had a word with me about the same. We are trying to bond off the field, the atmosphere in the camp is really good and that's helping us on the field as well.</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712408786690,
+    "commText": "<p><b>Pitch and ground dimensions:</b> This has been a 180-kind of a surface. A big venue though. 69m and 63m square boundaries and 76m down the ground. It's a hard surface with a bit of grass cover on it, looks well prepared. You'll get high scoring games at this venue and the batters will relish batting here. Something in it for the fast bowlers as they'll get some extra bounce with the new ball. The spinners will get some turn as well. It looks a bit patchy with a few dry areas. The big boundaries are an encouraging sign for the spinners. Win the toss, bat first, reckons <b>Deep Dasgupta.</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712408285892,
+    "commText": "<p>It\u2019s not an unknown territory RCB find themselves in. They have gotten off to slow starts even in the past but somehow have managed to bounce back and turn the tables around. Captain Faf has struggled to get going, while the Australian duo of Glenn Maxwell and Cameron Green have failed to impress as well. Their bowlers have been belted all across the park, especially in home conditions, hence playing an away fixture will provide some relief for a change. Virat Kohli doesn\u2019t boast a great record against Rajasthan or at this particular venue either, hence it\u2019ll be interesting to see which other RCB batters shine, if at all their former skipper fails yet again. Trent Boult and Sandeep Sharma have troubled Virat in the past, will he be able to overcome that hurdle tonight? Only time has all the answers. Stay around for the toss and teams..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712408141162,
+    "commText": "<p><b>18:25 Local Time, 12:55 GMT, 18:25 IST:</b> It has been a fantastic start to Rajasthan Royals IPL 2024 campaign as the champions of the inaugural season have won three games on the bounce. Samson and Parag knocked-out the Lucknow Super Giants, Parag took down the Delhi Capitals single-handedly, while the RR bowlers owned the MI batters in the previous game at the Wankhede. Three games. Three clinical wins. Hello and welcome to our coverage of the 19th clash of the tournament as the Royals from Rajasthan take on the Royals from down south tonight. The Pink City is set to witness yet another exhilarating contest with RCB looking forward to bouncing back after successive losses against KKR and LSG respectively..</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712325941144,
+    "commText": "<p><b>Preview</b> by <b>Hariprasad Sadanandan :</b> \\n \\nNew season, same old worries - in a nutshell that's how Royal Challengers Bengaluru have fared in their four games so far. With just one win, Faf du Plessis' men are staring down the barrel as far as their playoff dreams are concerned. The batting has lacked consistency while the bowling has been woefully short of clarity in execution. With a familiar scenario of crisis, RCB get set for a tough assignment against Rajasthan Royals who are one of the two unbeaten sides this season at the moment. That the encounter is at Jaipur makes things further complicated for the visitors, given RR's potent home record. \\n \\nRajasthan Royals have started the season with a bang. Three wins out of three and the manner of the victories will please the management no end. The bowling continues to be their stronger suit while the resurgence of Riyan Parag gives an extra dimension to the batting unit. The Assam batter's form augurs well for the team with Jos Buttler and Yashasvi Jaiswal yet to fire. The duo are bound to strike form sooner than later and that will make the hosts' batting ominous. The 2023 season saw RR stumbling at home but have gone back to their usual winning ways at Jaipur this season. \\n \\nGiven the big dimensions of the venue and its history of having two-paced pitches more often than not, RCB's batting will have their task cut out. Most of their batters prefer to have pace on the ball for strokeplay and RR's bowlers will be aware of the loopholes to exploit. Bangalore's bowlers might have some respite due to the conditions but they would also have to contend with Rajasthan's formidable batting unit. It is this sub-plot that could potentially decide the outcome of the game. \\n \\n<b>When:</b> Saturday, April 6, 19:30 IST \\n \\n<b>Where:</b> Rajasthan Royals vs Royal Challengers Bengaluru, Sawai Mansingh Stadium, Jaipur \\n \\n<b>What to expect:</b> Contrary to the historical data, the two games in Jaipur this season have both seen 180-plus scores by the team batting first. One came in an afternoon game while the other was an evening contest. Batting became easier in the evening game and it could be a trend again. It should be another batting-friendly surface but could still have something in it to keep the bowlers interested. \\n \\n<b>Head to Head:</b> RR hold a slender 15-12 lead over RCB from 30 games with three no-results also in the mix. \\n \\n<b>Team watch:</b> \\n \\n<b>Rajasthan Royals</b> \\n \\n<b>Injury/Availability:</b> All is well in the RR camp when it comes to the fitness of their squad with no casualties reported. \\n \\n<b>Tactics and Matchups:</b> Sandeep Sharma loves playing RCB, tallying 26 wickets from 18 games at a frugal economy rate of 7.94 and a strike rate of 15.6. While he has historically operated with the new ball and at the death in equal proportion, RR seem to have given him a full-fledged death-over specialist role this season. However, Sandeep has an impeccable record against Virat Kohli, having dismissed RCB's premier batter seven times in 67 deliveries! Sandeep has also dislodged Glenn Maxwell twice in 15 deliveries. Whether his role will be flexible due to this data in this contest is anybody's guess. Given the convincing nature of their win against Mumbai Indians, the Royals should field an unchanged side. \\n \\n<b>Probable XI:</b> Jos Buttler, Yashasvi Jaiswal, Sanju Samson (c/wk), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Yuzvendra Chahal, Nandre Burger, Avesh Khan, Trent Boult. [Impact substitute - Shubham Dubey] \\n \\n<b>Royal Challengers Bangalore</b> \\n \\n<b>Injury/Availability:</b> All players are expected to be available for the game in Jaipur \\n \\n<b>Tactics and Matchups:</b> Jos Buttler might not be in form so far but the threat he carries is known to all. Particularly at the Sawai Mansingh Stadium where he has racked up runs for fun. Fortunately for RCB, they have two bowlers who have the wood over the English white-ball captain. Fellow Englishman Reece Topley has removed Buttler four times in 42 deliveries while Mohammed Siraj has also accounted for the opener twice in 29 deliveries. This new-ball battle could go a long way in deciding RCB's bowling fortunes in the game. \\n \\n<b>Probable XI:</b> Virat Kohli, Faf du Plessis (c), Rajat Patidar, Glenn Maxwell, Cameron Green, Anuj Rawat (wk), Dinesh Karthik, Mayank Dagar, Reece Topley, Mohammed Siraj, Yash Dayal. [Impact substitute - Mahipal Lomror] \\n \\n<b>Did you know ?</b> \\n \\n- Jos Buttler's highest score in his last six IPL innings is 13 which he registered in the last game against Mumbai Indians. The Englishman ended IPL 2023 with three successive ducks and the new season hasn't been too different so far. \\n \\n<b>What they said:</b> \\n \\n\"You need two guys to bat through and get a partnership which we were not able to do. We need the strong characters in the dressing room to put their hand up.\" - <b>Faf du Plessis</b> wants his side's experienced men to step up in the batting department \\n \\n\"Nothing has changed, just that I have simplified things. Before I would think about things too much, this year the goal is simple, watch the ball, hit the ball\" - <b>Riyan Parag</b> reveals a simple secret to his redemption</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712325941134,
+    "commText": "<p><b>Squads:</b></p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712325939477,
+    "commText": "<p><b>Royal Challengers Bengaluru</b> Squad: Virat Kohli, Faf du Plessis(c), Cameron Green, Glenn Maxwell, Rajat Patidar, Dinesh Karthik, Anuj Rawat(w), Mayank Dagar, Reece Topley, Mohammed Siraj, Yash Dayal, Mahipal Lomror, Suyash Prabhudessai, Karn Sharma, Vijaykumar Vyshak, Swapnil Singh, Tom Curran, Lockie Ferguson, Alzarri Joseph, Will Jacks, Manoj Bhandage, Akash Deep, Saurav Chauhan, Rajan Kumar, Himanshu Sharma</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712325832726,
+    "commText": "<p><b>Rajasthan Royals</b> Squad: Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Nandre Burger, Yuzvendra Chahal, Rovman Powell, Tanush Kotian, Kuldeep Sen, Shubham Dubey, Abid Mushtaq, Kunal Singh Rathore, Donovan Ferreira, Tom Kohler-Cadmore, Keshav Maharaj, Navdeep Saini, Sandeep Sharma</p>",
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  }
+]
