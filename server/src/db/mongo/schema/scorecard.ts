@@ -45,7 +45,7 @@ const scorecardBatterSchema = new Schema(
 );
 
 const scorecardBowlerSchema = new Schema(
-  { ...bowlerSchemaObj },
+  { ...bowlerSchemaObj, isStriker: Boolean, isNonStriker: Boolean },
   { _id: false }
 );
 
@@ -89,7 +89,6 @@ const scorecardInningsObjSchema = new Schema(
 
 const scorecardSchema = new Schema<ScorecardType>({
   matchId: DBIdUniqueType,
-  // innings: [scorecardInningsSchema],
   innings: {
     type: scorecardInningsObjSchema,
     default: {},

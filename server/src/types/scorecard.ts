@@ -41,6 +41,8 @@ export const ScorecardBowlerSchema = z.object({
   bowlWickets: z.coerce.number().nonnegative().default(0),
   bowlWides: z.coerce.number().nonnegative().default(0),
   bowlNoBalls: z.coerce.number().nonnegative().default(0),
+  isStriker: z.boolean().optional(),
+  isNonStriker: z.boolean().optional(),
 });
 
 export const ScorecardBowler = ScorecardBowlerSchema;

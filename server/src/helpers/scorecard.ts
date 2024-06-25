@@ -68,7 +68,7 @@ export function addScorecardBowler(
     if (player.id === currentPlayer.id) {
       bowlerKeys.forEach((key) => {
         let val = currentPlayer[key];
-        if (val !== undefined) player[key] = val;
+        if (val !== undefined) (player[key] as typeof val) = val;
       });
       return players;
     }

@@ -362,6 +362,13 @@ export async function addInningsScore(
       let bowler = scorecardInningsEntry[key];
       if (!bowler) return;
 
+      if (key === "bowlerStriker") {
+        bowler.isStriker = true;
+        bowler.isNonStriker = false;
+      } else if (key === "bowlerNonStriker") {
+        bowler.isStriker = false;
+        bowler.isNonStriker = true;
+      }
       addScorecardBowler(innings!.bowlers, bowler);
     });
 
@@ -493,7 +500,6 @@ export async function getCommentary(
 ) {
   try {
     const matchId = parseInt(req.params.id);
-    console.log("getMatchFullCommentary ", matchId);
 
     const result = await Commentary.aggregate([
       { $match: { matchId } },
@@ -511,16 +517,39 @@ export async function getCommentary(
       },
     ]);
 
+    const scorecardResult = await Scorecard.aggregate([
+      { $match: { matchId } },
+      {
+        $addFields: {
+          inningsArray: {
+            $map: {
+              input: { $objectToArray: "$innings" },
+              as: "inning",
+              in: "$$inning.v",
+            },
+          },
+        },
+      },
+    ]);
+
+    // things to get
+    // batsmanStriker, batsmanNonStriker
+    // bowlerStriker, bowlerNonStriker
+    // inningsScoreList
+
+    // match state, tossResults, results
+
     if (!result) {
       res.status(404);
       throw new Error(`No commentary found.`);
     }
 
-    console.log("results ", result);
+    // console.log("results ", result);
 
     res.status(200).json({
       status: "success",
       data: result,
+      scorecardResult,
     });
   } catch (err) {
     next(err);
