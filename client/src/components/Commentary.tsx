@@ -1,4 +1,4 @@
-import { formatBallNum } from "../utils/helpers";
+import { ballNumToOvers } from "../utils/helpers";
 import OverSummary from "./OverSummary";
 
 const commentarData = [
@@ -38,7 +38,7 @@ const Commentary = () => {
       <OverSummary />
       {commentarData.map((item, itemIdx) => (
         <div key={itemIdx} className="flex text-sm mb-3 leading-6">
-          <div className="font-bold mr-4">{formatBallNum(item.ballNum)}</div>
+          <div className="font-bold mr-4">{ballNumToOvers(item.ballNum)}</div>
           <div
             className=""
             dangerouslySetInnerHTML={{ __html: item.text }}

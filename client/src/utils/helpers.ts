@@ -1,15 +1,24 @@
 import { BALLS_IN_OVER } from "./constants";
 
-export const formatBallNum = (ballNum: number): number => {
-  let over = Math.trunc(ballNum / BALLS_IN_OVER);
-  let ball = ballNum % BALLS_IN_OVER;
+export const ballNumToOvers = (ballNum: number): number => {
+  const rem = ballNum % BALLS_IN_OVER;
 
-  if (ball === 0) {
-    ball = 6;
-    over--;
-  }
+  if (rem === 0) return ballNum / BALLS_IN_OVER;
 
-  ball = ball / 10;
+  const overs = (ballNum - rem) / BALLS_IN_OVER;
+  const balls = rem / 10;
 
-  return over + ball;
+  return overs + balls;
+};
+
+export const oversToballNum = (overs: number): number => {
+  const oversArr = overs.toString().split(".");
+  const wholeOvers = parseInt(oversArr[0]);
+  const balls = oversArr[1] ? Number(oversArr[1]) : 0;
+
+  return wholeOvers * BALLS_IN_OVER + balls;
+};
+
+export const formatOvers = (overs: number): number => {
+  return ballNumToOvers(oversToballNum(overs));
 };

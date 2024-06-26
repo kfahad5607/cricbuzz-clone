@@ -1,6 +1,6 @@
 import { Fragment } from "react/jsx-runtime";
 import { Column, RowData } from "../entities/table";
-import { formatBallNum } from "../utils/helpers";
+import { ballNumToOvers } from "../utils/helpers";
 import MatchStatus from "./MatchStatus";
 import PlayerLink from "./PlayerLink";
 import Table from "./Table";
@@ -145,7 +145,7 @@ const bowlersColumns: Column[] = [
     classNames: "w-12",
     dataKey: "ballsBowled",
     render: (val) => {
-      return <>{formatBallNum(val as number)}</>;
+      return <>{ballNumToOvers(val as number)}</>;
     },
   },
   {

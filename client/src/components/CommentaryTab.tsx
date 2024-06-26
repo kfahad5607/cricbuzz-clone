@@ -1,8 +1,11 @@
+import { useParams } from "react-router-dom";
 import { Column, RowData } from "../entities/table";
+import useMatchCommentary from "../hooks/useMatchCommentary";
 import Commentary from "./Commentary";
 import MatchStatus from "./MatchStatus";
 import PlayerLink from "./PlayerLink";
 import Table from "./Table";
+import { formatOvers } from "../utils/helpers";
 
 const battersColumns: Column[] = [
   {
@@ -75,13 +78,26 @@ const battersData: RowData[] = [
 ];
 
 const CommentaryTab = () => {
+  const { matchId } = useParams();
+  const { data, error, isLoading } = useMatchCommentary(parseInt(matchId!));
+
+  if (isLoading)
+    return <div className="text-center mx-2 my-3 text-xl">Loading...</div>;
+
+  if (error) return <h3>{"Something went wrong " + error.message}</h3>;
+  if (!data) return <h3>{"Unable to get match commentary"}</h3>;
+
   return (
     <div>
       {/* Header */}
       <div>
         {/* Summary */}
         <div>
-          <div className="text-gray-500 mb-2">ZIM 138/7 (20)</div>
+          <div className="text-gray-500 mb-2">
+            {data.innings[0].teamId} {data.innings[0].score}/
+            {data.innings[0].wickets} (
+            {formatOvers(data.innings[0].oversBowled)})
+          </div>
           <div className="flex items-end">
             <div className="font-bold text-xl leading-5">BAN 41/1 (5.5)</div>
             <div className="flex text-xs text-gray-700 leading-3 ml-2">

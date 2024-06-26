@@ -35,6 +35,39 @@ export const MATCH_STATES_VALUES = [
   "abandon",
 ] as const;
 
+export const DISMISSAL_TYPES_VALUES = [
+  "bowled",
+  "caught",
+  "lbw",
+  "run-out",
+  "stumped",
+  "retired",
+  "hit-the-ball-twice",
+  "hit-wicket",
+  "obstruct-field",
+  "handled-ball",
+  "timed-out",
+] as const;
+
+export const BALL_EVENTS = [
+  "WICKET",
+  "MAIDEN_OVER",
+  "FOUR",
+  "SIX",
+  "FIFTY",
+  "HUNDRED",
+  "UDRS",
+  "PARTNERSHIP",
+  "INJURY",
+  "TEAM_FIFTY",
+  "TEAM_HUNDRED",
+  "DROPPED",
+  "RUNOUT_MISS",
+  "HIGHSCORING_OVER",
+  "OVER_BREAK",
+  "OTHER",
+] as const;
+
 export const PLAYER_ROLES = {
   BATTER: "batter",
   BOWLER: "bowler",
