@@ -501,7 +501,7 @@ export async function getCommentary(
   try {
     const matchId = parseInt(req.params.id);
 
-    const result = await Commentary.aggregate([
+    const commentaryResult = await Commentary.aggregate([
       { $match: { matchId } },
       {
         $project: {
@@ -520,7 +520,7 @@ export async function getCommentary(
     const scorecardResult = await Scorecard.aggregate([
       { $match: { matchId } },
       {
-        $addFields: {
+        $project: {
           inningsArray: {
             $map: {
               input: { $objectToArray: "$innings" },
@@ -530,27 +530,104 @@ export async function getCommentary(
           },
         },
       },
+      {
+        $addFields: {
+          lastInnings: {
+            $let: {
+              vars: {
+                lastInnings: {
+                  $arrayElemAt: ["$inningsArray", -1],
+                },
+              },
+              in: {
+                currentBatters: {
+                  $sortArray: {
+                    input: {
+                      $filter: {
+                        input: "$$lastInnings.batters",
+                        as: "batter",
+                        cond: {
+                          $not: { $ifNull: ["$$batter.fallOfWicket", false] },
+                        },
+                      },
+                    },
+                    sortBy: { isStriker: -1 },
+                  },
+                },
+                currentBowlers: {
+                  $sortArray: {
+                    input: {
+                      $filter: {
+                        input: "$$lastInnings.bowlers",
+                        as: "bowler",
+                        cond: {
+                          $or: [
+                            { $eq: ["$$bowler.isStriker", true] },
+                            { $eq: ["$$bowler.isNonStriker", true] },
+                          ],
+                        },
+                      },
+                    },
+                    sortBy: { isStriker: -1 },
+                  },
+                },
+                currentBatters_: {
+                  $filter: {
+                    input: "$$lastInnings.batters",
+                    as: "batter",
+                    cond: {
+                      $not: { $ifNull: ["$$batter.fallOfWicket", false] },
+                    },
+                  },
+                },
+              },
+            },
+          },
+          inningsArray: {
+            $map: {
+              input: "$inningsArray",
+              as: "inning",
+              in: {
+                teamId: "$$inning.teamId",
+                overs: "$$inning.overs",
+                oversBowled: "$$inning.oversBowled",
+                score: "$$inning.score",
+                wickets: "$$inning.wickets",
+                isDeclared: "$$inning.isDeclared",
+                isFollowOn: "$$inning.isFollowOn",
+                extras: "$$inning.extras",
+              },
+            },
+          },
+        },
+      },
+      {
+        $project: {
+          innings: "$inningsArray",
+          batsmanStriker: { $arrayElemAt: ["$lastInnings.currentBatters", 0] },
+          batsmanNonStriker: {
+            $arrayElemAt: ["$lastInnings.currentBatters", 1],
+          },
+          bowlerStriker: { $arrayElemAt: ["$lastInnings.currentBowlers", 0] },
+          bowlerNonStriker: {
+            $arrayElemAt: ["$lastInnings.currentBowlers", 1],
+          },
+        },
+      },
     ]);
 
     // things to get
-    // batsmanStriker, batsmanNonStriker
-    // bowlerStriker, bowlerNonStriker
-    // inningsScoreList
-
+    // batsmanStriker, batsmanNonStriker # last innings
+    // bowlerStriker, bowlerNonStriker # last innings
+    // inningsScoreList # all innings
     // match state, tossResults, results
 
-    if (!result) {
+    if (commentaryResult.length === 0 || scorecardResult.length === 0) {
       res.status(404);
       throw new Error(`No commentary found.`);
     }
 
-    // console.log("results ", result);
-
-    res.status(200).json({
-      status: "success",
-      data: result,
-      scorecardResult,
-    });
+    res.status(200).json({ ...commentaryResult[0], ...scorecardResult[0] });
   } catch (err) {
     next(err);
   }

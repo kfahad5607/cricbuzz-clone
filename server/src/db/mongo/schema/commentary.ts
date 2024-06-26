@@ -3,23 +3,28 @@ import { DBIdType, DBIdUniqueType, PositiveNumberType } from "../schemaTypes";
 import { BALL_EVENTS } from "../constants";
 import { batterSchemaObj, bowlerSchemaObj } from "./scorecard";
 
-const commentaryItemSchema = new Schema({
-  timestamp: {
-    type: Number,
-    required: true,
+const commentaryItemSchema = new Schema(
+  {
+    timestamp: {
+      type: Number,
+      required: true,
+    },
+    overs: { ...PositiveNumberType, required: true },
+    commText: { type: String, required: true },
+    events: [{ type: String, enum: BALL_EVENTS }],
+    batsmanStriker: {
+      type: batterSchemaObj,
+      required: true,
+    },
+    bowlerStriker: {
+      type: bowlerSchemaObj,
+      required: true,
+    },
   },
-  overs: { ...PositiveNumberType, required: true },
-  commText: { type: String, required: true },
-  events: [{ type: String, enum: BALL_EVENTS }],
-  batsmanStriker: {
-    type: batterSchemaObj,
-    required: true,
-  },
-  bowlerStriker: {
-    type: bowlerSchemaObj,
-    required: true,
-  },
-});
+  {
+    _id: false,
+  }
+);
 
 const commentarySchema = new Schema({
   matchId: DBIdUniqueType,
