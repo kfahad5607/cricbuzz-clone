@@ -1,4 +1,5 @@
 import dayjs from "dayjs";
+import slugify from "slugify";
 import teamOne from "../assets/images/team-1.webp";
 import teamTwo from "../assets/images/team-2.webp";
 import { MatchCard } from "../types/matches";
@@ -10,13 +11,25 @@ interface Props {
   match: MatchCard;
 }
 
+type MatchSlugInput = Pick<
+  MatchCard,
+  "homeTeam" | "awayTeam" | "description" | "series"
+>;
+
+const getMatchSlug = (data: MatchSlugInput): string => {
+  const { homeTeam, awayTeam, description, series } = data;
+  const slugInput = `${homeTeam.shortName}-vs-${awayTeam.shortName}-${description}-${series.title}`;
+
+  return slugify(slugInput, { lower: true });
+};
+
 const MatchPreviewCard = ({ match }: Props) => {
   const { series, homeTeam, awayTeam } = match;
 
   return (
     <div className="w-72 flex-shrink-0 rounded overflow-hidden bg-white shadow">
       <div className="bg-white p-2">
-        <Link to={`/matches/${match.id}/${match.slug}`}>
+        <Link to={`/matches/${match.id}/${getMatchSlug(match)}`}>
           <div className="flex justify-between items-center text-[0.67rem] mb-2">
             <div className="text-gray-700 font-medium">
               <span>{match.description}</span>

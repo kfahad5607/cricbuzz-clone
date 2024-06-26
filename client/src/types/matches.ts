@@ -3,7 +3,6 @@ import { MatchSquadPlayer } from "./players";
 
 export type MatchCard = {
   id: number;
-  slug: number;
   description: string;
   matchFormat: string;
   startTime: string;
