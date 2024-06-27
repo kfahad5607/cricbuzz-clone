@@ -1,17 +1,17 @@
 import { eq, inArray } from "drizzle-orm";
 import { NextFunction, Request, Response } from "express";
 import MatchSquads from "../db/mongo/schema/matchSquad";
-import Scorecard from "../db/mongo/schema/scorecard";
+import MatchData from "../db/mongo/schema/matchData";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import { verifyMatchAndTeam } from "../helpers/matches";
 import {
   addScorecardBatter,
   addScorecardBowler,
-  baseScorecardKeys,
+  baseScorecardInningsKeys,
   batterHolderKeys,
   bowlerHolderKeys,
-} from "../helpers/scorecard";
+} from "../helpers/matchData";
 import {
   DatabaseIntId,
   Match,
@@ -187,20 +187,23 @@ export async function getAllInningsScore(
 
     console.log("getAllInningsScore ", matchId);
 
-    const scorecard = await Scorecard.findOne({
-      matchId,
-    });
+    const matchData = await MatchData.findOne(
+      {
+        matchId,
+      },
+      {
+        innings: 1,
+      }
+    );
 
-    if (!scorecard) {
+    if (!matchData) {
       res.status(404);
-      throw new Error(`No scorecard found.`);
+      throw new Error(`No match found.`);
     }
-
-    console.log("results ", scorecard);
 
     res.status(200).json({
       status: "success",
-      data: scorecard,
+      data: matchData.innings,
     });
   } catch (err) {
     next(err);
@@ -221,9 +224,7 @@ export async function getInningsScore(
     const matchId = parseInt(req.params.id);
     const inningsType = req.params.inningsType;
 
-    console.log("getInningsScore ", matchId, inningsType);
-
-    const scorecard = await Scorecard.findOne(
+    const matchData = await MatchData.findOne(
       {
         matchId,
       },
@@ -232,14 +233,12 @@ export async function getInningsScore(
       }
     );
 
-    if (!scorecard || !scorecard.innings[inningsType]) {
+    if (!matchData || !matchData.innings[inningsType]) {
       res.status(404);
-      throw new Error(`Scorecard innings does not exist`);
+      throw new Error(`Innings does not exist`);
     }
 
-    const innings = scorecard.innings[inningsType];
-
-    console.log("results ", scorecard);
+    const innings = matchData.innings[inningsType];
 
     res.status(200).json({
       status: "success",
@@ -275,7 +274,7 @@ export async function addInningsScore(
       columnsToFetch[`innings.${prevInningsType}.teamId`] = 1;
     }
 
-    let scorecard = await Scorecard.findOne(
+    let matchData = await MatchData.findOne(
       {
         matchId,
       },
@@ -284,7 +283,7 @@ export async function addInningsScore(
       }
     );
 
-    if (!scorecard) {
+    if (!matchData) {
       // document does not exist
       if (inningsType !== "first")
         throw new Error(
@@ -294,7 +293,7 @@ export async function addInningsScore(
       // validate match
       await verifyMatchAndTeam(matchId, teamId);
 
-      scorecard = new Scorecard({
+      matchData = new MatchData({
         matchId,
         innings: {
           first: {
@@ -317,15 +316,15 @@ export async function addInningsScore(
       });
     }
 
-    if (prevInningsType && !scorecard.innings[prevInningsType]) {
+    if (prevInningsType && !matchData.innings[prevInningsType]) {
       throw new Error(
         `Cannot add score for '${inningsType}' innings before '${prevInningsType}' innings`
       );
     }
 
-    let innings: ScorecardInnings | undefined = scorecard.innings[inningsType];
+    let innings: ScorecardInnings | undefined = matchData.innings[inningsType];
     if (!innings) {
-      scorecard.innings[inningsType] = {
+      matchData.innings[inningsType] = {
         teamId: scorecardInningsEntry.teamId,
         overs: 0,
         oversBowled: 0,
@@ -342,10 +341,10 @@ export async function addInningsScore(
         bowlers: [],
       };
 
-      innings = scorecard.innings[inningsType];
+      innings = matchData.innings[inningsType];
     }
 
-    baseScorecardKeys.forEach((key) => {
+    baseScorecardInningsKeys.forEach((key) => {
       let val = scorecardInningsEntry[key];
       if (val !== undefined) (innings![key] as typeof val) = val;
     });
@@ -372,7 +371,7 @@ export async function addInningsScore(
       addScorecardBowler(innings!.bowlers, bowler);
     });
 
-    let results = await scorecard.save();
+    await matchData.save();
 
     res.status(200).json({
       status: "success",
@@ -407,7 +406,7 @@ export async function deleteInningsScore(
       columnsToFetch[`innings.${nextInningsType}.teamId`] = 1;
     }
 
-    let scorecard = await Scorecard.findOne(
+    let matchData = await MatchData.findOne(
       {
         matchId,
       },
@@ -416,24 +415,24 @@ export async function deleteInningsScore(
       }
     );
 
-    if (!scorecard) {
+    if (!matchData) {
       res.status(404);
-      throw new Error("Scorecard does not exist.");
+      throw new Error("Match does not exist.");
     }
 
-    if (scorecard.innings[nextInningsType]) {
+    if (matchData.innings[nextInningsType]) {
       res.status(400);
       throw new Error(
         `Cannot delete '${inningsType}' innings before '${nextInningsType}' innings.`
       );
     }
 
-    scorecard.innings[inningsType] = undefined;
+    matchData.innings[inningsType] = undefined;
 
     if (inningsType === "first") {
-      await scorecard.deleteOne();
+      await matchData.deleteOne();
     } else {
-      await scorecard.save();
+      await matchData.save();
     }
 
     res.status(200).json({
@@ -517,7 +516,7 @@ export async function getCommentary(
       },
     ]);
 
-    const scorecardResult = await Scorecard.aggregate([
+    const matchDataResult = await MatchData.aggregate([
       { $match: { matchId } },
       {
         $project: {
@@ -622,12 +621,12 @@ export async function getCommentary(
     // inningsScoreList # all innings
     // match state, tossResults, results
 
-    if (commentaryResult.length === 0 || scorecardResult.length === 0) {
+    if (commentaryResult.length === 0 || matchDataResult.length === 0) {
       res.status(404);
       throw new Error(`No commentary found.`);
     }
 
-    res.status(200).json({ ...commentaryResult[0], ...scorecardResult[0] });
+    res.status(200).json({ ...commentaryResult[0], ...matchDataResult[0] });
   } catch (err) {
     next(err);
   }
@@ -666,28 +665,28 @@ export async function addInningsCommentary(
       bowlerStriker: scorecardInningsEntry.bowlerStriker,
     };
 
-    const scoreColumnsToFetch = { [`innings.${inningsType}`]: 1 };
+    const matchDataColumnsToFetch = { [`innings.${inningsType}`]: 1 };
     const commentaryFilter: Record<string, unknown> = {
       matchId,
     };
 
     if (prevInningsType) {
       if (prevInningsType !== "preview")
-        scoreColumnsToFetch[`innings.${prevInningsType}.teamId`] = 1;
+        matchDataColumnsToFetch[`innings.${prevInningsType}.teamId`] = 1;
       commentaryFilter[`innings.${inningsIndex - 1}`] = { $exists: true };
     }
 
     if (inningsType !== "preview") {
-      let scorecard = await Scorecard.findOne(
+      let matchData = await MatchData.findOne(
         {
           matchId,
         },
         {
-          ...scoreColumnsToFetch,
+          ...matchDataColumnsToFetch,
         }
       );
 
-      if (!scorecard) {
+      if (!matchData) {
         // document does not exist
         if (prevInningsType)
           throw new Error(
@@ -697,7 +696,7 @@ export async function addInningsCommentary(
         // validate match
         await verifyMatchAndTeam(matchId, teamId);
 
-        scorecard = new Scorecard({
+        matchData = new MatchData({
           matchId,
           innings: {
             first: {
@@ -723,7 +722,7 @@ export async function addInningsCommentary(
       if (
         prevInningsType &&
         prevInningsType !== "preview" &&
-        !scorecard.innings[prevInningsType]
+        !matchData.innings[prevInningsType]
       ) {
         throw new Error(
           `Cannot add score for '${inningsType}' innings before '${prevInningsType}' innings`
@@ -731,9 +730,9 @@ export async function addInningsCommentary(
       }
 
       let innings: ScorecardInnings | undefined =
-        scorecard.innings[inningsType];
+        matchData.innings[inningsType];
       if (!innings) {
-        scorecard.innings[inningsType] = {
+        matchData.innings[inningsType] = {
           teamId: scorecardInningsEntry.teamId,
           overs: 0,
           oversBowled: 0,
@@ -750,10 +749,10 @@ export async function addInningsCommentary(
           bowlers: [],
         };
 
-        innings = scorecard.innings[inningsType];
+        innings = matchData.innings[inningsType];
       }
 
-      baseScorecardKeys.forEach((key) => {
+      baseScorecardInningsKeys.forEach((key) => {
         let val = scorecardInningsEntry[key];
         if (val !== undefined) (innings![key] as typeof val) = val;
       });
@@ -773,7 +772,7 @@ export async function addInningsCommentary(
         addScorecardBowler(innings!.bowlers, bowler);
       });
 
-      await scorecard.save();
+      await matchData.save();
     }
 
     const results = await Commentary.updateOne(commentaryFilter, {

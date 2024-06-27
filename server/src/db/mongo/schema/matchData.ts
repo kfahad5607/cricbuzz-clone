@@ -1,7 +1,7 @@
 import { Schema, model } from "mongoose";
 import { DBIdType, DBIdUniqueType, PositiveNumberType } from "../schemaTypes";
 import { DISMISSAL_TYPES_VALUES } from "../../../helpers/constants";
-import { Scorecard as ScorecardType } from "../../../types/scorecard";
+import { MatchData as MatchDataType } from "../../../types/matchData";
 
 export const batterSchemaObj = {
   id: DBIdType,
@@ -87,7 +87,7 @@ const scorecardInningsObjSchema = new Schema(
   { _id: false }
 );
 
-const scorecardSchema = new Schema<ScorecardType>({
+const matchDataSchema = new Schema<MatchDataType>({
   matchId: DBIdUniqueType,
   innings: {
     type: scorecardInningsObjSchema,
@@ -96,6 +96,6 @@ const scorecardSchema = new Schema<ScorecardType>({
   },
 });
 
-const Scorecard = model<ScorecardType>("Scorecard", scorecardSchema);
+const MatchData = model<MatchDataType>("MatchData", matchDataSchema);
 
-export default Scorecard;
+export default MatchData;

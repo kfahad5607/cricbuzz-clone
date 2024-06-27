@@ -1,7 +1,7 @@
 import { Schema, model } from "mongoose";
 import { DBIdType, DBIdUniqueType, PositiveNumberType } from "../schemaTypes";
 import { BALL_EVENTS } from "../constants";
-import { batterSchemaObj, bowlerSchemaObj } from "./scorecard";
+import { batterSchemaObj, bowlerSchemaObj } from "./matchData";
 
 const commentaryItemSchema = new Schema(
   {

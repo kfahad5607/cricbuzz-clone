@@ -5,8 +5,8 @@ import {
   ScorecardBatterSchema,
   ScorecardBowlerSchema,
   ScorecardInningsEntry,
-} from "./scorecard";
-import { batterHolderKeysEnum } from "../helpers/scorecard";
+} from "./matchData";
+import { batterHolderKeysEnum } from "../helpers/matchData";
 
 // const
 export const COMMENTARY_INNINGS_TYPES = [

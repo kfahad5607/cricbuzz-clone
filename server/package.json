@@ -10,7 +10,7 @@
     "generate": "drizzle-kit generate",
     "migrate": "drizzle-kit migrate",
     "studio": "drizzle-kit studio",
-    "seed": "ts-node ./src/db/postgres/seeds/index.ts"
+    "seed": "ts-node ./src/db/seeds/index.ts"
   },
   "author": "Fahad Khan",
   "license": "ISC",

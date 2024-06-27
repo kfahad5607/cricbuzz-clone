@@ -11,7 +11,7 @@ import { MatchSquadPlayer } from "./players";
 import { Series } from "./series";
 import { Team } from "./teams";
 
-const MatchResults = z.object({
+export const MatchResults = z.object({
   resultType: z.enum(MATCH_RESULT_TYPES_VALUES).optional(),
   winByInnings: z.boolean(),
   winByRuns: z.boolean(),
@@ -19,7 +19,7 @@ const MatchResults = z.object({
   winningTeamId: z.coerce.number().positive().optional(),
 });
 
-const MatchTossResults = z.object({
+export const MatchTossResults = z.object({
   tossWinnerId: z.coerce.number().positive().optional(),
   decision: z.enum(TOSS_DECISIONS_VALUES).optional(),
 });

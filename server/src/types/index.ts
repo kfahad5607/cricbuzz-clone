@@ -5,5 +5,5 @@ export * from "./teams";
 export * from "./matches";
 export * from "./series";
 export * from "./players";
-export * from "./scorecard";
+export * from "./matchData";
 export * from "./commentary";

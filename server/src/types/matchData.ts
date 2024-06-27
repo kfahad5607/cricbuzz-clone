@@ -1,5 +1,10 @@
 import * as z from "zod";
-import { DISMISSAL_TYPES_VALUES } from "../helpers/constants";
+import {
+  DISMISSAL_TYPES_VALUES,
+  MATCH_STATES,
+  MATCH_STATES_VALUES,
+} from "../helpers/constants";
+import { MatchResults, MatchTossResults } from "./matches";
 
 // const
 export const SCORECARD_INNINGS_TYPES = [
@@ -71,7 +76,7 @@ export const ScorecardInnings = BaseScorecardInnings.extend({
   bowlers: z.array(ScorecardBowler),
 });
 
-export const Scorecard = z.object({
+export const MatchData = z.object({
   matchId: z.coerce.number().positive(),
   innings: z.object({
     first: ScorecardInnings.optional(),
@@ -79,6 +84,10 @@ export const Scorecard = z.object({
     third: ScorecardInnings.optional(),
     fourth: ScorecardInnings.optional(),
   }),
+  state: z.enum(MATCH_STATES_VALUES).default(MATCH_STATES.PREVIEW),
+  status: z.string().max(200).default("").optional(),
+  tossResults: MatchTossResults.default({}),
+  results: MatchResults.default({ winByInnings: false, winByRuns: false }),
 });
 
 export const ScorecardInningsEntry = BaseScorecardInnings.extend({
@@ -92,13 +101,12 @@ export const ScorecardInningsEntry = BaseScorecardInnings.extend({
 export const ScorecardInningsType = z.enum(SCORECARD_INNINGS_TYPES);
 
 // infered types
-export type Scorecard = z.infer<typeof Scorecard>;
+export type MatchData = z.infer<typeof MatchData>;
 export type ScorecardBatter = z.infer<typeof ScorecardBatter>;
 export type ScorecardBowler = z.infer<typeof ScorecardBowler>;
 export type ScorecardInningsEntry = z.infer<typeof ScorecardInningsEntry>;
 export type BaseScorecardInnings = z.infer<typeof BaseScorecardInnings>;
 export type ScorecardInnings = z.infer<typeof ScorecardInnings>;
-// export type InningsType = z.infer<typeof InningsType>;
 export type ScorecardInningsType = z.infer<typeof ScorecardInningsType>;
 
 // manual types

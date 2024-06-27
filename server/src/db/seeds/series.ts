@@ -7,10 +7,10 @@ import {
   SeriesWithId,
   TeamSquad,
 } from "../../types";
-import { Scorecard } from "../../types/scorecard";
+import { MatchData } from "../../types/matchData";
 import Commentary from "../mongo/schema/commentary";
 import MatchSquads from "../mongo/schema/matchSquad";
-import ScorecardModel from "../mongo/schema/scorecard";
+import MatchDataModel from "../mongo/schema/matchData";
 import { db } from "../postgres";
 import * as tables from "../postgres/schema";
 import { BASE_DATA_PATH } from "./helpers/constants";
@@ -125,18 +125,18 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     // validate
     SquadsData.parse(squadsData);
 
-    const scorecardContents = await readFileData(
-      BASE_MATCH_PATH + "scorecard.json"
+    const matchDataContents = await readFileData(
+      BASE_MATCH_PATH + "matchData.json"
     );
 
-    if (!scorecardContents) {
-      console.log("No match scorecard data found to seed...");
+    if (!matchDataContents) {
+      console.log("No scorecard data found to seed...");
       return;
     }
 
-    const scorecardData: Scorecard = JSON.parse(scorecardContents);
+    const matchData: MatchData = JSON.parse(matchDataContents);
     // validate
-    Scorecard.parse(scorecardData);
+    MatchData.parse(matchData);
 
     const tossResults = infoData.tossResults;
     if (tossResults.tossWinnerId)
@@ -186,10 +186,10 @@ const seedMatch = async (seriesId: number, matchId: number) => {
       teams: [homeTeamSquad, awayTeamSquad],
     };
 
-    scorecardData.matchId = insertedMatchId;
-    for (const inningsKey in scorecardData.innings) {
+    matchData.matchId = insertedMatchId;
+    for (const inningsKey in matchData.innings) {
       const currentInnings =
-        scorecardData.innings[inningsKey as keyof Scorecard["innings"]];
+        matchData.innings[inningsKey as keyof MatchData["innings"]];
 
       if (!currentInnings) continue;
 
@@ -239,7 +239,7 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     };
 
     await MatchSquads.create(matchSquad);
-    await ScorecardModel.create(scorecardData);
+    await MatchDataModel.create(matchData);
     await Commentary.create(commentaryData);
 
     console.log("Seeding match finished... ");

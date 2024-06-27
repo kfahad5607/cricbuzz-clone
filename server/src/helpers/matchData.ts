@@ -8,10 +8,10 @@ import {
   ScorecardBatter,
   ScorecardBowler,
   ScorecardInningsEntry,
-} from "../types/scorecard";
+} from "../types/matchData";
 
 // const
-export const baseScorecardKeys: BaseScorecardKeys[] =
+export const baseScorecardInningsKeys: BaseScorecardKeys[] =
   BaseScorecardInnings.keyof().options;
 
 export const batterHolderKeysEnum = ScorecardInningsEntry.pick({

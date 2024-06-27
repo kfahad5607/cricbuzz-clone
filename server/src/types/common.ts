@@ -1,5 +1,5 @@
 import * as z from "zod";
-import { ScorecardInningsType } from "./scorecard";
+import { ScorecardInningsType } from "./matchData";
 import { CommentaryInningsType } from "./commentary";
 
 const DatabaseIntIdParam = z
