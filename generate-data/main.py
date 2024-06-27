@@ -271,7 +271,6 @@ def get_match_squads(match_id, match_number=None):
 
 def get_match_info(match_id, match_number=None):
     try:
-        print("get_match_info ", match_number)
         TOSS_DECISION_MAP = {
             'batting': 'bat',
             'bowling': 'bowl',
@@ -332,7 +331,7 @@ def get_match_info(match_id, match_number=None):
     except Exception as e:
         print("ERROR in get_match_info ==> ", e.args)
 
-def get_match_scorecard(match_id, match_number=None):
+def get_match_data(match_id, match_number=None):
     try:
         url = f"{BASE_URL}/live-cricket-scorecard/{match_id}/match-slug"
         html_content = get_html_content(url=url)
@@ -506,12 +505,16 @@ def get_match_scorecard(match_id, match_number=None):
                 'extras': extras_data
             }
         
-        scorecard_data = {
+        match_data = {
             'matchId': match_info['id'],
-            'innings': innings_data
+            'innings': innings_data,
+            'state': match_info['state'],
+            'status': '',
+            'tossResults': match_info['tossResults'],
+            'results': match_info['results'],
         }
 
-        set_file_data(file_path=f"series/{match_info['series']}/matches/{match_id}/scorecard.json", data=scorecard_data)
+        set_file_data(file_path=f"series/{match_info['series']}/matches/{match_id}/matchData.json", data=match_data)
 
     except Exception as e:
         print("ERROR in get_match_scorecard ==> ", e.args)
@@ -643,7 +646,8 @@ def get_commentary(match_id, innings_id):
         commentary_list = commentary_list[0]['commentaryList']
 
         commentary_data = []
-        for commentary in commentary_list:
+        for i in range(len(commentary_list) - 1, -1, -1):
+            commentary = commentary_list[i]
             batsman_striker = {
                 'id': commentary['batsmanStriker']['batId'],
                 'batRuns': commentary['batsmanStriker']['batRuns'],
@@ -683,12 +687,12 @@ def get_commentary(match_id, innings_id):
     except Exception as e:
         print("ERROR in get_commentary ==> ", e.args)
 
-def get_match_data(match_id, match_number=None):
+def get_match(match_id, match_number=None):
     try:
         print(f"Fetching match {match_id}...")
         match_info = get_match_info(match_id=match_id, match_number=match_number)
         get_match_squads(match_id=match_id, match_number=match_number)
-        get_match_scorecard(match_id=match_id, match_number=match_number)
+        get_match_data(match_id=match_id, match_number=match_number)
 
         innings_scorelist = match_info['inningsScoreList']
         innings_ids = [0]
@@ -712,7 +716,7 @@ def get_series_matches(series_id):
 
         for i, match_link in enumerate(match_links, 1):
             match_id = get_param_from_url(match_link.attrs['href'], pos=2)
-            get_match_data(match_id=match_id, match_number=i)
+            get_match(match_id=match_id, match_number=i)
             sleep(2)
 
     except Exception as e:
@@ -723,11 +727,10 @@ def main():
     try:
         series_data = get_file_data(f"series/index.json")
         series_ids = list(series_data.keys())
-        # for series_id in series_ids:
-        #     get_series_matches(series_id=series_id)
-        #     sleep(5)
+        for series_id in series_ids:
+            get_series_matches(series_id=series_id)
+            sleep(5)
         
-        get_match_data(match_id=91618)
 
     except Exception as e:
         print("ERROR in main ==> ", e.args)
