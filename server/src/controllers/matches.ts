@@ -540,17 +540,12 @@ export async function getCommentary(
               },
               in: {
                 currentBatters: {
-                  $sortArray: {
-                    input: {
-                      $filter: {
-                        input: "$$lastInnings.batters",
-                        as: "batter",
-                        cond: {
-                          $not: { $ifNull: ["$$batter.fallOfWicket", false] },
-                        },
-                      },
+                  $filter: {
+                    input: "$$lastInnings.batters",
+                    as: "batter",
+                    cond: {
+                      $not: { $ifNull: ["$$batter.fallOfWicket", false] },
                     },
-                    sortBy: { isStriker: -1 },
                   },
                 },
                 currentBowlers: {
@@ -594,9 +589,34 @@ export async function getCommentary(
       {
         $project: {
           innings: "$inningsArray",
-          batsmanStriker: { $arrayElemAt: ["$lastInnings.currentBatters", 0] },
+          batsmanStriker: {
+            $arrayElemAt: [
+              {
+                $filter: {
+                  input: "$lastInnings.currentBatters",
+                  as: "batter",
+                  cond: { $eq: ["$$batter.isStriker", true] },
+                },
+              },
+              0,
+            ],
+          },
           batsmanNonStriker: {
-            $arrayElemAt: ["$lastInnings.currentBatters", 1],
+            $arrayElemAt: [
+              {
+                $filter: {
+                  input: "$lastInnings.currentBatters",
+                  as: "batter",
+                  cond: {
+                    $eq: [
+                      { $ifNull: ["$$batter.isStriker", undefined] },
+                      undefined,
+                    ],
+                  },
+                },
+              },
+              0,
+            ],
           },
           bowlerStriker: { $arrayElemAt: ["$lastInnings.currentBowlers", 0] },
           bowlerNonStriker: {
