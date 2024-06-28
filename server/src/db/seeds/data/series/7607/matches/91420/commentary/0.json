@@ -1,421 +1,8 @@
 [
   {
-    "timestamp": 1713088656489,
-    "commText": "<p>Justin Langer rings the bell and we're ready for Match 28 of #IPL2024. The players are out in the middle and it'll be Starc who'll open for KKR</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713087705621,
-    "commText": "<p>Rinku Singh should be KKR's impact sub while LSG could use Manimaran Siddarth as their impact sub unless they reckon they need a bit of pace . Have you locked in your fantasy team? Do you need some help in doing so? Head over to our expert XI for more guidance</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713087632067,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713087616540,
-    "commText": "<p><b>Kolkata Knight Riders Impact Subs:</b> Suyash Sharma, Anukul Roy, Manish Pandey, Rahmanullah Gurbaz, Rinku Singh</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713087592574,
-    "commText": "<p><b>Lucknow Super Giants Impact Subs:</b> Arshad Khan, Prerak Mankad, M Siddharth, Amit Mishra, K Gowtham</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713087479091,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713087477478,
-    "commText": "<p><b>Lucknow Super Giants</b> (Playing XI): Quinton de Kock, KL Rahul(w/c), Deepak Hooda, Ayush Badoni, Marcus Stoinis, Nicholas Pooran, Krunal Pandya, Ravi Bishnoi, Mohsin Khan, Shamar Joseph, Yash Thakur</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713087442523,
-    "commText": "<p><b>Kolkata Knight Riders</b> (Playing XI): Philip Salt(w), Sunil Narine, Venkatesh Iyer, Shreyas Iyer(c), Angkrish Raghuvanshi, Andre Russell, Ramandeep Singh, Mitchell Starc, Harshit Rana, Vaibhav Arora, Varun Chakaravarthy</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713087287724,
-    "commText": "<p>Lucknow Super gaints are wearing the famous Mohun Bagan football clubs colours today - <b>maroon and green</b>, they own this historic football club and it's a sort of a home game for them as well</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713087204921,
-    "commText": "<p><b>KL Rahul</b> - I would have bowled first, but this does look like a good pitch. It was important to recover ona short turnover, it's just about making sure that everyone is rested and recovered well. Few changes - Padikkal and Naveen-ul-Haq miss out, Shamar Joseph and Deepak Hooda are back. Mohsin Khan is back as well</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713087197592,
-    "commText": "<p><b>Shreyas Iyer</b> - We'll bowl first. Feels nostalgic, the crowd is electrifying and this was what we missed playing out of Kolkata, great feeling to be back. I've no idea about the conditions, the last game was a belter, but we're professionals and will have to adapt. Bowling first, so Rinku goes out, Harshit Rana comes in.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713087056785,
-    "commText": "<p><b>Kolkata Knight Riders have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713086550740,
-    "commText": "<p><b>Team News</b> - Shamar Joseph has been handed his maiden IPL cap, he'll replace Naveen-ul-Haq most probably.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713086164393,
-    "commText": "<p><b>Ayush Badoni:</b> It was a very important knock for me (the fifty in the last game), because I wasn't to be score as many as I would have liked in the previous 2-3 games, so glad I could kick on in the last game, happy for that but we couldn't win that game. Today we will look to win this game. All the players are young and fit and we have recovered well from last game. The outfield is very fast here, so there will be lots of runs on offer so exciting times for the batters.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713086164383,
-    "commText": "<p><b>Phil Salt</b> - I'm enjoying it, we've been travelling nicely in the competition, looking forward to another win at home today. I reckon it suits our line-up, we bat down to 9 and 10, everyone plays for the team and the positivity blends itself through the group. The conditions here are slightly different to the away games, I'm already feeling like melting, but the conditions will hopefully suit Narine and Varun. We're one of the stronger sides in the competition, but we'll need to play well right through, especially during the latter half of the tournament.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713084791034,
-    "commText": "<p>It's been 22 days since KKR played at home, 63m and 66m square boundaries while the straight boundary is at 73m. It's very very\u00a0hot today, the wicket looks fantastic, it looks good for batting and it should remain consistent. One of the fastest outfields in the country, the batters getting\u00a0in can definitely cash in. Lots of runs on offer, the batters getting\u00a0in can enjoy themselves, reckon <b>Samuel Badree and Michael Clarke</b>, in their pitch report.\u00a0</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713084304246,
-    "commText": "<p><b>14:15 Local Time, 08:45 GMT, 14:15 IST:</b> For once, Lucknow Super Giants failed to defend\u00a0a 160+ score, for once Kolkata Knight Riders couldn't fire in unison and ended up coming second best to Chennai Super Kings. It's a long tournament, but both teams are still smarting over\u00a0their wounds and would want to get their campaign back on track. It's been a short turnover for the Super\u00a0Giants, who last featured on Friday, and have had to traverse\u00a0a small distance\u00a0between Lucknow and Kolkata. On the other hand, the hosts are well rested following their game in Chennai and will now play back-to-back home games in a span of 3 days. It's a day game today and it's sweltering hot in Kolkata with the temperature expected to hover in the mid-30 region. With dew not expected to play any role, winning\u00a0the toss and bat first could be the way to go for both captains.\u00a0</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713005484699,
-    "commText": "<p><b>Preview</b> by <b>Aayush Puthran</b> \\n \\nWhen Sunil Narine, the batter does well, Kolkata Knight Riders, the team does well. His performance as a pinch-hitter has been an anomaly in the Indian Premier League. Let alone finding success in that role, very few teams have even ventured into replicating that plan with their options. \\n \\nNarine's pinch-hitting proved to be a success for a few seasons before his weakness against fast and short deliveries was exploited and he became a liability at the top. But in 2024, he returned with an improved version of his batting and cracked open the game for his side with some explosive hits at the top. Heading into his sixth game of the season, not only does he boast of the most runs (127) and highest strike rate (201.59) among all players in the powerplay this season, but has also ensured that his team has been the most productive when the field restrictions are on (averaging 54.4 at a run-rate of 11.33), significantly ahead of the second best team - Mumbai Indians. \\n \\nHis exploits have also ensured that it has covered up for the otherwise average showing of his opening partner, Phil Salt. Nonetheless, team mentor Gautam Gambhir isn't fretting over the English batter's performances as yet. \"It's a team game,\" he insists and adds that as far as the team is doing well, individual performances can be overlooked. It's a similar defence he offers for another of their overseas players, Mitchell Starc, who is yet to make an impact this season, after having garnered never-seen-before interest at the auction. \\n \\nThe Indian domestic pacers, Harshit Rana and Vaibhav Arora have offered ample support to the spinners to cover up for Starc, but they would still hope for their big auction buy to come good sooner rather than later. As they return to Eden Gardens after a six-day break and 22 days away from their home venue, they would hope to mark the Bengali New Year with a win for the home fans and also gather momentum in the three-game home stretch. \\n \\nUp against them first are the wounded Lucknow Super Giants, who have blown hot and cold, and looking to find momentum in the absence of Mayank Yadav. It's a side that has never lost to KKR. But the KL Rahul-led side has seen many firsts this season, the latest of those being their inability to defend a 160-plus total against Delhi Capitals in the previous game. \\n \\nHaving spent the last couple of years in their camp before his 'homecoming' this year, Gambhir knows a bit about what makes them tick, but he doesn't want to delve too much into the past. It's Poila Baisakh and he's hoping for a fresh start. \\n \\n<b>When:</b> Sunday, April 14, 2024, 3:30 PM IST \\n \\n<b>Where:</b> Kolkata Knight Riders vs Lucknow Super Giants, IPL 2024, Eden Gardens, Kolkata \\n \\n<b>What to expect:</b> It's Kolkata's first afternoon game of the season. It's going to be extremely hot and extremely humid. With no possibility of dew to play a part, the winning team might opt to bat first. Eden Gardens has been the second most high-scoring venue (where a minimum of three games have been played) since IPL 2023. So expect a lot of runs. \\n \\n<b>Head to head:</b> KKR 0-3 LSG. While LSG may have won all three of their games (batting first all three times), the margin of victory has reduced with each passing match \\n \\n<b>Team Watch:</b> \\n \\n<b>Kolkata Knight Riders:</b> \\n \\n<b>Injuries/Unavailability:</b> Gambhir had stated that Harshit Rana was fully fit ahead of the previous game, but he didn't feature in that match. Nitish Rana was also at practice. Apart from that, there are no injury concerns \\n \\n<b>Tactics & Matchups:</b> LSG's top order batters - Quinton de Kock, Ayush Badoni and Devdutt Padikkal - have struggled against left-arm pacers, averaging 15.5, 11 and 8 respectively since IPL 2023. Could be a good time to give a long spell to Starc upfront. De Kock has also struggled to get going against the spin duo of Sunil Narine and Varun Chakravarthy. The two could also be handy options in the powerplay. \\n \\n<b>Probable XI:</b> Sunil Narine, Phil Salt, Angkrish Raghuvanshi, Shreyas Iyer, Nitish Rana/Venkatesh Iyer, Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Harshit Rana/Vaibhav Arora, Varun Chakravarthy [Impact Sub: Suyash Sharma] \\n \\n<b>Lucknow Super Giants:</b> \\n \\n<b>Injuries/Unavailability:</b> The pace duo of Mayank Yadav and Mohsin Khan are yet to recover from their respective injuries. \\n \\n<b>Tactics & Matchups:</b> Ravi Bishnoi is one of the very few bowlers to have kept Rinku Singh and Andre Russell reasonably quiet in the death overs. The leggie has not only dismissed both the batters once each, but they have also scored runs at a strike rate of only 116.7 and 133.33 respectively against him. Bishnoi could come in handy in the death overs. \\n \\n<b>Probable XI:</b> KL Rahul, Quinton de Kock, Deepak Hooda, Marcus Stoinis, Ayush Badoni, Nicholas Pooran, Krunal Pandya, Ravi Bishnoi, Arshad Khan, Naveen-ul-Haq/Shamar Joseph, Yash Thakur [Impact Sub: M Siddharth/Devdutt Padikkal] \\n \\n<b>Did you know?</b> \\n \\nAmong venues that have hosted at least three matches since the start of IPL 2022, Eden Gardens has the highest scoring rate (9.64). The average first innings total is 195, second only to Mohali's 198, with five 200+ first innings totals in 10 games. \\n \\nKKR have lost the fewest wickets (5), has the highest average (54.40) and has the best RR (11.33) in the powerplay \\n \\nIn the match against RCB, Nicholas Pooran completed his 100th six in IPL and his balls/six ratio of 8.6 is bettered only by Andre Russell who hits one every 6.7 balls. \\n \\n<b>What they said:</b> \\n \\nThere's no reason why you should talk about individual performance. I feel that Mitchell Starc has done reasonably okay. I think he's bowled some tough overs. And he will create an impact, what he's been picked for - Gautam Gambhir, KKR mentor \\n \\nHe (Mayank Yadav) is feeling good, he looks good, but we don't want to rush him. We need to protect his body, he's itching to go. Need to make sure that he's hundred percent (fit) before he comes back - KL Rahul, LSG skipper</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713005484689,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1713005315969,
+    "commText": "<p><b>Kolkata Knight Riders</b> Squad: Philip Salt(w), Sunil Narine, Angkrish Raghuvanshi, Shreyas Iyer(c), Venkatesh Iyer, Ramandeep Singh, Rinku Singh, Andre Russell, Anukul Roy, Mitchell Starc, Vaibhav Arora, Varun Chakaravarthy, Suyash Sharma, Manish Pandey, Rahmanullah Gurbaz, Sakib Hussain, Harshit Rana, Dushmantha Chameera, Srikar Bharat, Nitish Rana, Chetan Sakariya, Sherfane Rutherford, Allah Ghazanfar</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -439,6 +26,7 @@
   {
     "timestamp": 1713005477523,
     "commText": "<p><b>Lucknow Super Giants</b> Squad: Quinton de Kock, KL Rahul(w/c), Devdutt Padikkal, Marcus Stoinis, Nicholas Pooran, Deepak Hooda, Ayush Badoni, Krunal Pandya, Arshad Khan, Ravi Bishnoi, Naveen-ul-Haq, Yash Thakur, Krishnappa Gowtham, Manimaran Siddharth, Amit Mishra, Matt Henry, Mayank Yadav, Yudhvir Singh Charak, Kyle Mayers, Ashton Turner, Prerak Mankad, Mohsin Khan, Shamar Joseph, Arshin Kulkarni</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -460,8 +48,441 @@
     }
   },
   {
-    "timestamp": 1713005315969,
-    "commText": "<p><b>Kolkata Knight Riders</b> Squad: Philip Salt(w), Sunil Narine, Angkrish Raghuvanshi, Shreyas Iyer(c), Venkatesh Iyer, Ramandeep Singh, Rinku Singh, Andre Russell, Anukul Roy, Mitchell Starc, Vaibhav Arora, Varun Chakaravarthy, Suyash Sharma, Manish Pandey, Rahmanullah Gurbaz, Sakib Hussain, Harshit Rana, Dushmantha Chameera, Srikar Bharat, Nitish Rana, Chetan Sakariya, Sherfane Rutherford, Allah Ghazanfar</p>",
+    "timestamp": 1713005484689,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713005484699,
+    "commText": "<p><b>Preview</b> by <b>Aayush Puthran</b> \\n \\nWhen Sunil Narine, the batter does well, Kolkata Knight Riders, the team does well. His performance as a pinch-hitter has been an anomaly in the Indian Premier League. Let alone finding success in that role, very few teams have even ventured into replicating that plan with their options. \\n \\nNarine's pinch-hitting proved to be a success for a few seasons before his weakness against fast and short deliveries was exploited and he became a liability at the top. But in 2024, he returned with an improved version of his batting and cracked open the game for his side with some explosive hits at the top. Heading into his sixth game of the season, not only does he boast of the most runs (127) and highest strike rate (201.59) among all players in the powerplay this season, but has also ensured that his team has been the most productive when the field restrictions are on (averaging 54.4 at a run-rate of 11.33), significantly ahead of the second best team - Mumbai Indians. \\n \\nHis exploits have also ensured that it has covered up for the otherwise average showing of his opening partner, Phil Salt. Nonetheless, team mentor Gautam Gambhir isn't fretting over the English batter's performances as yet. \"It's a team game,\" he insists and adds that as far as the team is doing well, individual performances can be overlooked. It's a similar defence he offers for another of their overseas players, Mitchell Starc, who is yet to make an impact this season, after having garnered never-seen-before interest at the auction. \\n \\nThe Indian domestic pacers, Harshit Rana and Vaibhav Arora have offered ample support to the spinners to cover up for Starc, but they would still hope for their big auction buy to come good sooner rather than later. As they return to Eden Gardens after a six-day break and 22 days away from their home venue, they would hope to mark the Bengali New Year with a win for the home fans and also gather momentum in the three-game home stretch. \\n \\nUp against them first are the wounded Lucknow Super Giants, who have blown hot and cold, and looking to find momentum in the absence of Mayank Yadav. It's a side that has never lost to KKR. But the KL Rahul-led side has seen many firsts this season, the latest of those being their inability to defend a 160-plus total against Delhi Capitals in the previous game. \\n \\nHaving spent the last couple of years in their camp before his 'homecoming' this year, Gambhir knows a bit about what makes them tick, but he doesn't want to delve too much into the past. It's Poila Baisakh and he's hoping for a fresh start. \\n \\n<b>When:</b> Sunday, April 14, 2024, 3:30 PM IST \\n \\n<b>Where:</b> Kolkata Knight Riders vs Lucknow Super Giants, IPL 2024, Eden Gardens, Kolkata \\n \\n<b>What to expect:</b> It's Kolkata's first afternoon game of the season. It's going to be extremely hot and extremely humid. With no possibility of dew to play a part, the winning team might opt to bat first. Eden Gardens has been the second most high-scoring venue (where a minimum of three games have been played) since IPL 2023. So expect a lot of runs. \\n \\n<b>Head to head:</b> KKR 0-3 LSG. While LSG may have won all three of their games (batting first all three times), the margin of victory has reduced with each passing match \\n \\n<b>Team Watch:</b> \\n \\n<b>Kolkata Knight Riders:</b> \\n \\n<b>Injuries/Unavailability:</b> Gambhir had stated that Harshit Rana was fully fit ahead of the previous game, but he didn't feature in that match. Nitish Rana was also at practice. Apart from that, there are no injury concerns \\n \\n<b>Tactics & Matchups:</b> LSG's top order batters - Quinton de Kock, Ayush Badoni and Devdutt Padikkal - have struggled against left-arm pacers, averaging 15.5, 11 and 8 respectively since IPL 2023. Could be a good time to give a long spell to Starc upfront. De Kock has also struggled to get going against the spin duo of Sunil Narine and Varun Chakravarthy. The two could also be handy options in the powerplay. \\n \\n<b>Probable XI:</b> Sunil Narine, Phil Salt, Angkrish Raghuvanshi, Shreyas Iyer, Nitish Rana/Venkatesh Iyer, Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Harshit Rana/Vaibhav Arora, Varun Chakravarthy [Impact Sub: Suyash Sharma] \\n \\n<b>Lucknow Super Giants:</b> \\n \\n<b>Injuries/Unavailability:</b> The pace duo of Mayank Yadav and Mohsin Khan are yet to recover from their respective injuries. \\n \\n<b>Tactics & Matchups:</b> Ravi Bishnoi is one of the very few bowlers to have kept Rinku Singh and Andre Russell reasonably quiet in the death overs. The leggie has not only dismissed both the batters once each, but they have also scored runs at a strike rate of only 116.7 and 133.33 respectively against him. Bishnoi could come in handy in the death overs. \\n \\n<b>Probable XI:</b> KL Rahul, Quinton de Kock, Deepak Hooda, Marcus Stoinis, Ayush Badoni, Nicholas Pooran, Krunal Pandya, Ravi Bishnoi, Arshad Khan, Naveen-ul-Haq/Shamar Joseph, Yash Thakur [Impact Sub: M Siddharth/Devdutt Padikkal] \\n \\n<b>Did you know?</b> \\n \\nAmong venues that have hosted at least three matches since the start of IPL 2022, Eden Gardens has the highest scoring rate (9.64). The average first innings total is 195, second only to Mohali's 198, with five 200+ first innings totals in 10 games. \\n \\nKKR have lost the fewest wickets (5), has the highest average (54.40) and has the best RR (11.33) in the powerplay \\n \\nIn the match against RCB, Nicholas Pooran completed his 100th six in IPL and his balls/six ratio of 8.6 is bettered only by Andre Russell who hits one every 6.7 balls. \\n \\n<b>What they said:</b> \\n \\nThere's no reason why you should talk about individual performance. I feel that Mitchell Starc has done reasonably okay. I think he's bowled some tough overs. And he will create an impact, what he's been picked for - Gautam Gambhir, KKR mentor \\n \\nHe (Mayank Yadav) is feeling good, he looks good, but we don't want to rush him. We need to protect his body, he's itching to go. Need to make sure that he's hundred percent (fit) before he comes back - KL Rahul, LSG skipper</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713084304246,
+    "commText": "<p><b>14:15 Local Time, 08:45 GMT, 14:15 IST:</b> For once, Lucknow Super Giants failed to defend\u00a0a 160+ score, for once Kolkata Knight Riders couldn't fire in unison and ended up coming second best to Chennai Super Kings. It's a long tournament, but both teams are still smarting over\u00a0their wounds and would want to get their campaign back on track. It's been a short turnover for the Super\u00a0Giants, who last featured on Friday, and have had to traverse\u00a0a small distance\u00a0between Lucknow and Kolkata. On the other hand, the hosts are well rested following their game in Chennai and will now play back-to-back home games in a span of 3 days. It's a day game today and it's sweltering hot in Kolkata with the temperature expected to hover in the mid-30 region. With dew not expected to play any role, winning\u00a0the toss and bat first could be the way to go for both captains.\u00a0</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713084791034,
+    "commText": "<p>It's been 22 days since KKR played at home, 63m and 66m square boundaries while the straight boundary is at 73m. It's very very\u00a0hot today, the wicket looks fantastic, it looks good for batting and it should remain consistent. One of the fastest outfields in the country, the batters getting\u00a0in can definitely cash in. Lots of runs on offer, the batters getting\u00a0in can enjoy themselves, reckon <b>Samuel Badree and Michael Clarke</b>, in their pitch report.\u00a0</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713086164383,
+    "commText": "<p><b>Phil Salt</b> - I'm enjoying it, we've been travelling nicely in the competition, looking forward to another win at home today. I reckon it suits our line-up, we bat down to 9 and 10, everyone plays for the team and the positivity blends itself through the group. The conditions here are slightly different to the away games, I'm already feeling like melting, but the conditions will hopefully suit Narine and Varun. We're one of the stronger sides in the competition, but we'll need to play well right through, especially during the latter half of the tournament.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713086164393,
+    "commText": "<p><b>Ayush Badoni:</b> It was a very important knock for me (the fifty in the last game), because I wasn't to be score as many as I would have liked in the previous 2-3 games, so glad I could kick on in the last game, happy for that but we couldn't win that game. Today we will look to win this game. All the players are young and fit and we have recovered well from last game. The outfield is very fast here, so there will be lots of runs on offer so exciting times for the batters.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713086550740,
+    "commText": "<p><b>Team News</b> - Shamar Joseph has been handed his maiden IPL cap, he'll replace Naveen-ul-Haq most probably.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713087056785,
+    "commText": "<p><b>Kolkata Knight Riders have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713087197592,
+    "commText": "<p><b>Shreyas Iyer</b> - We'll bowl first. Feels nostalgic, the crowd is electrifying and this was what we missed playing out of Kolkata, great feeling to be back. I've no idea about the conditions, the last game was a belter, but we're professionals and will have to adapt. Bowling first, so Rinku goes out, Harshit Rana comes in.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713087204921,
+    "commText": "<p><b>KL Rahul</b> - I would have bowled first, but this does look like a good pitch. It was important to recover ona short turnover, it's just about making sure that everyone is rested and recovered well. Few changes - Padikkal and Naveen-ul-Haq miss out, Shamar Joseph and Deepak Hooda are back. Mohsin Khan is back as well</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713087287724,
+    "commText": "<p>Lucknow Super gaints are wearing the famous Mohun Bagan football clubs colours today - <b>maroon and green</b>, they own this historic football club and it's a sort of a home game for them as well</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713087442523,
+    "commText": "<p><b>Kolkata Knight Riders</b> (Playing XI): Philip Salt(w), Sunil Narine, Venkatesh Iyer, Shreyas Iyer(c), Angkrish Raghuvanshi, Andre Russell, Ramandeep Singh, Mitchell Starc, Harshit Rana, Vaibhav Arora, Varun Chakaravarthy</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713087477478,
+    "commText": "<p><b>Lucknow Super Giants</b> (Playing XI): Quinton de Kock, KL Rahul(w/c), Deepak Hooda, Ayush Badoni, Marcus Stoinis, Nicholas Pooran, Krunal Pandya, Ravi Bishnoi, Mohsin Khan, Shamar Joseph, Yash Thakur</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713087479091,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713087592574,
+    "commText": "<p><b>Lucknow Super Giants Impact Subs:</b> Arshad Khan, Prerak Mankad, M Siddharth, Amit Mishra, K Gowtham</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713087616540,
+    "commText": "<p><b>Kolkata Knight Riders Impact Subs:</b> Suyash Sharma, Anukul Roy, Manish Pandey, Rahmanullah Gurbaz, Rinku Singh</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713087632067,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713087705621,
+    "commText": "<p>Rinku Singh should be KKR's impact sub while LSG could use Manimaran Siddarth as their impact sub unless they reckon they need a bit of pace . Have you locked in your fantasy team? Do you need some help in doing so? Head over to our expert XI for more guidance</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713088656489,
+    "commText": "<p>Justin Langer rings the bell and we're ready for Match 28 of #IPL2024. The players are out in the middle and it'll be Starc who'll open for KKR</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

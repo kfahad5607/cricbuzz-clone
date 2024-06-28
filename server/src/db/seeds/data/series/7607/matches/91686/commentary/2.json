@@ -1,7 +1,8 @@
 [
   {
-    "timestamp": 1715796415808,
-    "commText": "<p>There's a lot to be concerned about for the Royals heading into the playoffs. Their form has deserted them and a top-two finish is no longer in their hands as SRH will probably jump over them if they win their remaining matches. That's all we have for now. Hope you enjoyed our coverage. This is Sagar Chawla signing off on behalf of Siva, Saurabh Shankar and Nikhil Jadhav. Goodbye!</p>",
+    "timestamp": 1715789301750,
+    "commText": "<p><b>Prabhsimran and Bairstow are at the crease. Prabhsimran is on strike. Boult will open the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -23,624 +24,13 @@
     }
   },
   {
-    "timestamp": 1715796215900,
-    "commText": "<p><b>Curran, PBKS captain and POTM:</b> We bowled really well as a group. Message was that we had a lot of pride to play for. Ellis was absolutely amazing in his first game of the season. Probably should've played him earlier. When I went in, Jonny said it was quite tough. It was holding a little bit. Didn't need to take too much risk. Knew on a ground like this, we just needed a couple of sixes. Me and Jonny are leaving tomorrow. Obviously nice. Have thoroughly enjoyed the season, have enjoyed captaining. Atmosphere around the group has been really good. Excited about the World Cup. Hindsight is a wonderful thing. We had so many close games. Feel like the team is close to something. Who knows what the future holds. Loads of positives. The chase in Kolkata. The way Shashank Singh has come into the team is amazing. Ashutosh as well. Harshal and Arshdeep have bowled well.</p>",
-    "overs": 0,
+    "timestamp": 1715789327444,
+    "commText": "<p> Boult to Prabhsimran, no run, short of a length around off, shapes back in a touch as Prabhsimran knocks it down the pitch </p>",
+    "ballNbr": 1,
+    "overs": 0.1,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715795741719,
-    "commText": "<p><b>STAT:</b> For the first time ever, KKR will finish first on the points table.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715795741709,
-    "commText": "<p><b>50-plus score & 2 wickets in an IPL match as captain</b> \\n91 & 2/25 - Sourav Ganguly (KKR) vs Deccan Chargers, Hyderabad, 2008 \\n50 & 3/22 - Yuvraj Singh (PBKS) vs RCB, Durban, 2009 \\n66* & 4/29 - Yuvraj Singh (PWI) vs DC, Mumbai DYP, 2011 \\n54 & 4/17 - JP Duminy (DC) vs SRH, Visakhapatnam, 2015 \\n63* & 2/24 - Sam Curran (PBKS) vs RR, Guwahati, 2024 \\n \\n<b>Ashutosh Sharma vs Avesh Khan in the IPL</b> \\nRuns: 32 \\nBalls: 13 \\nDismissals: 0 \\nSR: 246.2 \\n4s/6s: 1/3 \\n \\n<b>Most consecutive defeats for RR in the IPL</b> \\n5 - 2009-10 \\n4 - 2011 \\n4 - 2012 \\n4 - 2020 \\n4 - 2018/19 \\n4 - 2024</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715795741699,
-    "commText": "<p><b>Jitesh Sharma:</b> (On the pitch) Didn\u2019t feel like I would even get to bat today, but glad I got a chance and feeling a bit relieved after today\u2019s performance. Happy with my contribution towards the win, happy to be middling it a bit better today. I felt it was about intent, the wicket was on the slower side but if you played with a positive attitude, there were runs to be had. (On not keeping wickets) Jonny is going for the World Cup now, so he wanted to keep in this game. I\u2019ll take over the gloves again next game. But my fielding isn\u2019t that bad. (On overseas players leaving) This will be a challenge for the domestic players, our think tank has identified a few players and it will be a good challenge for those boys to play against Hyderabad.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715795093277,
-    "commText": "<p><b>Sanju Samson:</b> We needed a few more runs. I think we were 10-15 runs short. It was a 160 kind of a wicket. We would have easily got more than 160 (had we played better), that's where we lost the game. Would have been nice to have one more bowling option. I am getting used to five quality bowlers. We have to sit back and accept that we are going through failures, have lost four games on the trot. Got to find out what's not working out for us as a team. Somebody needs to step up, we have so many match-winners in the team. This is the time we need to show character. We need to score more runs. We thought 160-170 would have been a good score. We are not used to playing on such wickets this season where 200-plus totals are getting scored easily. We had to play smart cricket and build those partnerships today. Hopefully the result goes in our way (in the upcoming games.)</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715795093266,
-    "commText": "<p><b>23:14 Local Time, 17:44 GMT, 23:14 IST:</b> Another blow for Royals in their quest to seal a place in the top two. They might've made it to the playoffs but their form has completely gone downhill in the last couple of weeks with this being their fourth consecutive defeat. Punjab Kings, meanwhile, notch up another win on the road. Most of their success this season has come away from home and again today they put on a superb performance to come up trumps. Restricting the Royals to 144 was an excellent effort, even as the pitch was on the slower side. However, the chase wasn't straightforward. In fact, they seemed to be in big trouble at 48/4, but a superb knock from captain Sam Curran led the way as he struck an unbeaten 63 to guide his team to victory with some help from Ashutosh Sharma towards the end. Stay tuned, we'll have the presentations shortly.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715795009756,
-    "commText": "<p>Avesh Khan to Ashutosh Sharma, 1 run, short ball over the right shoulder, Ashutosh looks to pull and mistimes it behind square for a single. That is all the Kings need to seal victory here in Guwahati as the <b>Royals slip to their fourth consecutive defeat</b></p>",
-    "overs": 18.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13497,
-      "batRuns": 17,
-      "ballsPlayed": 11,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 3.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794964600,
-    "commText": "<p> Avesh Khan to Ashutosh Sharma, <b>SIX</b>, absolutely hammered by Ashutosh! Fuller than a length on middle, he clears the front leg and smokes it over wide long-on. Goes into the second or third tier. Scores level </p>",
-    "overs": 18.4,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 13497,
-      "batRuns": 16,
-      "ballsPlayed": 10,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 3.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 27,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794914050,
-    "commText": "<p> Avesh Khan to Sam Curran, 1 run, low full toss on off, Curran knocks it to long-on </p>",
-    "overs": 18.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 63,
-      "ballsPlayed": 41,
-      "dotBalls": 10,
-      "batFours": 5,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 3.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794854040,
-    "commText": "<p> Avesh Khan to Sam Curran, <b>SIX</b>, emphatically pulled into the crowd! Back of a length on off, 137kph, and Curran picks the bones out of it. Wasn't all that short but it doesn't matter </p>",
-    "overs": 18.2,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 62,
-      "ballsPlayed": 40,
-      "dotBalls": 10,
-      "batFours": 5,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 3.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794801689,
-    "commText": "<p> Avesh Khan to Ashutosh Sharma, 1 run, <b>sliced in the air</b> as he's beaten for pace, but it lands safely. Back of a length just outside off, he looks to slap it away but the ball skids through and he's late on it, slicing it in front of deep third </p>",
-    "overs": 18.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13497,
-      "batRuns": 10,
-      "ballsPlayed": 9,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 3.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 14,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794716056,
-    "commText": "<p> Sandeep Sharma to Sam Curran, <b>SIX</b>, last ball of the over is short, and it disappears for six to turn the balance heavily in favour of Kings. Curran climbs into it and nails the pull over square leg </p>",
-    "overs": 18,
-    "events": [
-      "OVER_BREAK",
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 56,
-      "ballsPlayed": 39,
-      "dotBalls": 10,
-      "batFours": 5,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 4,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794668694,
-    "commText": "<p> Sandeep Sharma to Ashutosh Sharma, 1 run, very full on off as he goes for another yorker. Ashutosh can't get under it and drives to long-off for a single </p>",
-    "overs": 17.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13497,
-      "batRuns": 9,
-      "ballsPlayed": 8,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 3.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794631433,
-    "commText": "<p> Sandeep Sharma to Ashutosh Sharma, no run, yorker on leg stump, Ashutosh squeezes it out </p>",
-    "overs": 17.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13497,
-      "batRuns": 8,
-      "ballsPlayed": 7,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 3.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794598644,
-    "commText": "<p> Sandeep Sharma to Sam Curran, 1 run, slower short ball outside off, Curran pulls it to long-on for a single and brings up <b>fifty</b>. Muted celebration from him </p>",
-    "overs": 17.3,
-    "events": [
-      "FIFTY"
-    ],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 50,
-      "ballsPlayed": 38,
-      "dotBalls": 10,
-      "batFours": 5,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 3.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794560978,
-    "commText": "<p> Sandeep Sharma to Ashutosh Sharma, 1 run, length ball on middle, Ashutosh shuffles across and nudges it to short midwicket </p>",
-    "overs": 17.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13497,
-      "batRuns": 8,
-      "ballsPlayed": 6,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 3.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794522050,
-    "commText": "<p> Sandeep Sharma to Sam Curran, 1 run, full and wide, Curran drives firmly but it's only a single to sweeper cover </p>",
-    "overs": 17.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 49,
-      "ballsPlayed": 37,
-      "dotBalls": 10,
-      "batFours": 5,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 3.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794508695,
-    "commText": "<p><b>Sandeep Sharma [3.0-0-18-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 48,
-      "ballsPlayed": 36,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794414062,
-    "commText": "<p> Avesh Khan to Ashutosh Sharma, <b>FOUR</b>, slower bouncer over the head, Ashutosh reaches out and ramps it over the keeper for a welcome boundary. Was a quiet over until this point </p>",
-    "overs": 17,
-    "events": [
-      "OVER_BREAK",
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 13497,
-      "batRuns": 7,
-      "ballsPlayed": 5,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794373761,
-    "commText": "<p> Avesh Khan to Sam Curran, 1 run,<b> leading edge pops up in the air</b> but it evades the outstretched right hand of Avesh! Back of a length on middle, Curran looks to clip it away but closes the bat face too early </p>",
-    "overs": 16.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 48,
-      "ballsPlayed": 36,
-      "dotBalls": 10,
-      "batFours": 5,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794319701,
-    "commText": "<p> Avesh Khan to Ashutosh Sharma, 1 run, short of length delivery just outside off, Ashutosh opens the face and steers it to deep third </p>",
-    "overs": 16.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13497,
-      "batRuns": 3,
-      "ballsPlayed": 4,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794270121,
-    "commText": "<p> Avesh Khan to Sam Curran, 1 run, fuller than a length just outside off, Curran drives to mid-off </p>",
-    "overs": 16.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 47,
-      "ballsPlayed": 35,
-      "dotBalls": 10,
-      "batFours": 5,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794229625,
-    "commText": "<p> Avesh Khan to Sam Curran, no run, good length on off, defended to cover </p>",
-    "overs": 16.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 46,
-      "ballsPlayed": 34,
-      "dotBalls": 10,
-      "batFours": 5,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794184358,
-    "commText": "<p> Avesh Khan to Ashutosh Sharma, 1 run, <b>direct hit might've had Curran.</b> Back of a length on off, Ashutosh punches to the right of backward point where Jaiswal takes Curran by surprise by how quickly he releases the ball with his right hand </p>",
-    "overs": 16.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13497,
-      "batRuns": 2,
-      "ballsPlayed": 3,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794170595,
-    "commText": "<p><b>Avesh Khan [2.0-0-5-2] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13497,
-      "batRuns": 1,
-      "ballsPlayed": 2,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794102534,
-    "commText": "<p> Chahal to Ashutosh Sharma, 1 run, drifting into the pads, Ashutosh works it through square leg. Chahal is done and finishes with 2/31 </p>",
-    "overs": 16,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 13497,
-      "batRuns": 1,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 4,
-      "bowlMaidens": 0,
-      "bowlRuns": 31,
-      "bowlWickets": 2,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794081519,
-    "commText": "<p> Chahal to Ashutosh Sharma, no run, 90.2kph full ball on off, defended forward </p>",
-    "overs": 15.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13497,
+      "id": 14254,
       "batRuns": 0,
       "ballsPlayed": 1,
       "dotBalls": 1,
@@ -648,31 +38,8 @@
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 3.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 30,
-      "bowlWickets": 2,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715794061029,
-    "commText": "<p><b>Ashutosh Sharma, right handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13497,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 0,
+      "id": 8117,
+      "bowlOvers": 0.1,
       "bowlMaidens": 0,
       "bowlRuns": 0,
       "bowlWickets": 0,
@@ -681,8 +48,59 @@
     }
   },
   {
-    "timestamp": 1715793839554,
-    "commText": "<p>Timeout!</p>",
+    "timestamp": 1715789396263,
+    "commText": "<p> Boult to Prabhsimran, 2 runs, on a length around off, Prabhsimran gets squared up due to the swing as the outside edge rolls past short third man. Chahal chases it all the way and stops it with a slide </p>",
+    "ballNbr": 2,
+    "overs": 0.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14254,
+      "batRuns": 2,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715789403873,
+    "commText": "<p> Boult to Prabhsimran, <b>FOUR</b>, first boundary of the run chase. Prabhsimran shimmies down the wicket and bludgeons it straight past Boult for a rollicking four </p>",
+    "ballNbr": 3,
+    "overs": 0.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 14254,
+      "batRuns": 6,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715789464162,
+    "commText": "<p> Boult to Prabhsimran, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -704,39 +122,1270 @@
     }
   },
   {
-    "timestamp": 1715793836554,
-    "commText": "<p>Chahal to Jitesh Sharma, <b>out</b> Caught by Riyan Parag!! Royals have an opening. Tossed up on middle, Jitesh looks to go for a lofted shot down the ground, doesn't get hold of it and holes out at long-on. The catch is taken comfortably by Parag who throws the ball away in celebration. Jitesh might've wanted to hit with the turn over long-off. But it took the inside half of the bat as it didn't turn much. <b>Jitesh Sharma c Riyan Parag b Chahal 22(20) [6s-2]</b></p>",
-    "overs": 15.4,
+    "timestamp": 1715789465198,
+    "commText": "<p>Boult to Prabhsimran, <b>out</b> Caught by Chahal!! Boult strikes in the first over like he does most of the times. On the shorter side around off, Prabhsimran looks to swing it away and the top edge flies towards short third man. Chahal back pedals and takes a reverse cup catch. In fact, it was a nervous catch by Yuzi as he was tremling a bit before taking it! <b>Prabhsimran c Chahal b Boult 6(4) [4s-1]</b></p>",
+    "ballNbr": 4,
+    "overs": 0.4,
     "events": [
       "WICKET"
     ],
     "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 22,
-      "ballsPlayed": 20,
-      "dotBalls": 9,
-      "batFours": 0,
-      "batSixes": 2
+      "id": 14254,
+      "batRuns": 6,
+      "ballsPlayed": 4,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 3.4,
+      "id": 8117,
+      "bowlOvers": 0.4,
       "bowlMaidens": 0,
-      "bowlRuns": 30,
-      "bowlWickets": 2,
-      "bowlWides": 1,
+      "bowlRuns": 6,
+      "bowlWickets": 1,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715793835065,
-    "commText": "<p> Chahal to Jitesh Sharma, <b>THATS OUT!!</b> Caught!! </p>",
+    "timestamp": 1715789468198,
+    "commText": "<p>A slip in place for Rossouw</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 10214,
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715789571126,
+    "commText": "<p><b>Rilee Rossouw, left handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2244,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715789575508,
+    "commText": "<p> Boult to Rossouw, no run, on a length around off, Rossouw defends it from within the crease </p>",
+    "ballNbr": 5,
+    "overs": 0.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2244,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715789616430,
+    "commText": "<p> Boult to Rossouw, no run, short of a length outside off, shaping away from Rossouw. He attempts a square cut, gets beaten on the outside edge. A lovely first over by Boult comes to an end </p>",
+    "ballNbr": 6,
+    "overs": 1,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 2244,
+      "batRuns": 0,
+      "ballsPlayed": 2,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715789678085,
+    "commText": "<p><b>Sandeep Sharma, right-arm fast medium, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715789721231,
+    "commText": "<p> Sandeep Sharma to Bairstow, no run, on a lenth around off, swings in sharply as Bairstow defends it </p>",
+    "ballNbr": 7,
+    "overs": 1.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715789757278,
+    "commText": "<p> Sandeep Sharma to Bairstow, 1 run, another sharp inswinger, around middle and leg, Bairstow clips it towards the on-side for a single </p>",
+    "ballNbr": 8,
+    "overs": 1.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715789800101,
+    "commText": "<p> Sandeep Sharma to Rossouw, no run, short of a length around off, Rossouw defends it towards mid-off </p>",
+    "ballNbr": 9,
+    "overs": 1.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2244,
+      "batRuns": 0,
+      "ballsPlayed": 3,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715789844829,
+    "commText": "<p> Sandeep Sharma to Rossouw, 2 runs, shapes back into the batter who heaves this through mid-wicket for a couple of runs </p>",
+    "ballNbr": 10,
+    "overs": 1.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2244,
+      "batRuns": 2,
+      "ballsPlayed": 4,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715789870742,
+    "commText": "<p> Sandeep Sharma to Rossouw, <b>FOUR</b>, <b>in the air but safe.</b> Rossouw advances down the wicket and chips it past the fielder at cover, just manages to beat his dive </p>",
+    "ballNbr": 11,
+    "overs": 1.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 2244,
+      "batRuns": 6,
+      "ballsPlayed": 5,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715789911220,
+    "commText": "<p> Sandeep Sharma to Rossouw, no run, pitched up by Sandeep Sharma as Rossouw flicks it to the man at mid-wicket </p>",
+    "ballNbr": 12,
+    "overs": 2,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 2244,
+      "batRuns": 6,
+      "ballsPlayed": 6,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715789911230,
+    "commText": "<p><b>Trent Boult in the first over in IPL 2024</b> \\nOvers: 13 \\nWickets: 6 \\nAvg: 10.33 \\nSR: 13 \\nER: 4.77 \\nNo other bowler has picked more than three wickets in the first over this season.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715789985572,
+    "commText": "<p> Boult to Bairstow, no run, on a length around off, Bairstow knocks it firmly to cover </p>",
+    "ballNbr": 13,
+    "overs": 2.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 1,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790027009,
+    "commText": "<p> Boult to Bairstow, <b>FOUR</b>, stand and deliver. Boult goes for and Bairstow stands tall to spank it over mid-on. No need to run for those </p>",
+    "ballNbr": 14,
+    "overs": 2.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 5,
+      "ballsPlayed": 4,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790074561,
+    "commText": "<p> Boult to Bairstow, 1 run, yorker length ball on off, Bairstow squeezes it next to the stumps and takes a single </p>",
+    "ballNbr": 15,
+    "overs": 2.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 6,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 11,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790126381,
+    "commText": "<p> Boult to Rossouw, <b>FOUR</b>, <b>short and punished!</b> Rocks back and hammers the pull against this short ball, manages mid-wicket and that's four more for Rossouw </p>",
+    "ballNbr": 16,
+    "overs": 2.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 2244,
+      "batRuns": 10,
+      "ballsPlayed": 7,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790159164,
+    "commText": "<p> Boult to Rossouw, <b>FOUR</b>, Rossouw dealing in boundaries. Advances down the wicket and heaves the back of a length delivery over square leg. Continues to attack the bowlers. Boult under pressure </p>",
+    "ballNbr": 17,
+    "overs": 2.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 2244,
+      "batRuns": 14,
+      "ballsPlayed": 8,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790204441,
+    "commText": "<p> Boult to Rossouw, no run, short and wide outside off, Rossouw attempts a cut, gets beaten as the ball shapes away </p>",
+    "ballNbr": 18,
+    "overs": 3,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 2244,
+      "batRuns": 14,
+      "ballsPlayed": 9,
+      "dotBalls": 5,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790266651,
+    "commText": "<p> Sandeep Sharma to Bairstow, no run, back of a length around off, Bairstow knocks it back to Sandeep Sharma </p>",
+    "ballNbr": 19,
+    "overs": 3.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 6,
+      "ballsPlayed": 6,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790295783,
+    "commText": "<p> Sandeep Sharma to Bairstow, no run, slower back of a length delivery on off, Bairstow rocks back, punches it to cover </p>",
+    "ballNbr": 20,
+    "overs": 3.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 6,
+      "ballsPlayed": 7,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790338387,
+    "commText": "<p> Sandeep Sharma to Bairstow, 1 run, low full toss outside off, Bairstow gets an inside edge on to the pads. They take a single </p>",
+    "ballNbr": 21,
+    "overs": 3.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 7,
+      "ballsPlayed": 8,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790395804,
+    "commText": "<p> Sandeep Sharma to Rossouw, <b>FOUR</b>, backs away and pulls this short ball through wide long-on for four more. Punishing both the new ball bowlers is Rossouw </p>",
+    "ballNbr": 22,
+    "overs": 3.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 2244,
+      "batRuns": 18,
+      "ballsPlayed": 10,
+      "dotBalls": 5,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790425932,
+    "commText": "<p> Sandeep Sharma to Rossouw, no run, shimmies down the wicket, squeezes this ball back to the bowler </p>",
+    "ballNbr": 23,
+    "overs": 3.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2244,
+      "batRuns": 18,
+      "ballsPlayed": 11,
+      "dotBalls": 6,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790462584,
+    "commText": "<p> Sandeep Sharma to Rossouw, <b>FOUR</b>, flicked away! This was pitched up by the bowler and Rossouw flicks it over square leg for four runs </p>",
+    "ballNbr": 24,
+    "overs": 4,
+    "events": [
+      "OVER_BREAK",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 2244,
       "batRuns": 22,
-      "ballsPlayed": 19,
+      "ballsPlayed": 12,
+      "dotBalls": 6,
+      "batFours": 5,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790538203,
+    "commText": "<p><b>Avesh Khan, right-arm fast medium, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 7,
+      "ballsPlayed": 8,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790542865,
+    "commText": "<p> Avesh Khan to Bairstow, no run, on a length outside off, Bairstow steered to backward point by Bairstow </p>",
+    "ballNbr": 25,
+    "overs": 4.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 7,
+      "ballsPlayed": 9,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790588386,
+    "commText": "<p> Avesh Khan to Bairstow, 1 run, on a length around off, knocked to cover by Bairstow </p>",
+    "ballNbr": 26,
+    "overs": 4.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 8,
+      "ballsPlayed": 10,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790652560,
+    "commText": "<p> Avesh Khan to Rossouw, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2244,
+      "batRuns": 22,
+      "ballsPlayed": 12,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790654757,
+    "commText": "<p> Avesh Khan to Rossouw, <b>out</b> Caught by Jaiswal!! Avesh Khan strikes in his first over. Gets the dangerous Rossouw. This was pitched up by Avesh Khan outside off and Rossouw slices it straight to Jaiswal at backward point. A sharp low catch taken and they have lost the second wicket. <b>Rossouw c Jaiswal b Avesh Khan 22(13) [4s-5]</b> </p>",
+    "ballNbr": 27,
+    "overs": 4.3,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 2244,
+      "batRuns": 22,
+      "ballsPlayed": 13,
+      "dotBalls": 7,
+      "batFours": 5,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790728927,
+    "commText": "<p><b>Shashank Singh, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10919,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790742801,
+    "commText": "<p> Avesh Khan to Shashank Singh, no run, plays this towards extra cover where Ashwin gathers the ball and has a back flick towards the bowler's end but Bairstow was comfortably in </p>",
+    "ballNbr": 28,
+    "overs": 4.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10919,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790829054,
+    "commText": "<p> Avesh Khan to Shashank Singh, <b>THATS OUT!!</b> Lbw!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10919,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790833991,
+    "commText": "<p> Avesh Khan to Shashank Singh, <b>out</b> Lbw!! That's plumb! Avesh Khan strikes again. Goes full and quick on middle, Shashank Singh looks to flick it away but gets rapped on the pads. Up goes the umpire's finger as Shashank Singh departs without troubling the scorers. <b>Shashank Singh lbw b Avesh Khan 0(2)</b> </p>",
+    "ballNbr": 29,
+    "overs": 4.5,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 10919,
+      "batRuns": 0,
+      "ballsPlayed": 2,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790886498,
+    "commText": "<p><b>Sam Curran, left handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715790959781,
+    "commText": "<p> Avesh Khan to Sam Curran, 1 run, pats this short ball towards the off-side, calls for a single and an overthrow at the keeper's end allows Sam Curran to open his account </p>",
+    "ballNbr": 30,
+    "overs": 5,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 1,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791046202,
+    "commText": "<p> Sandeep Sharma to Sam Curran, no run, pitched up by the bowler on off, Sam Curran drives it to cover </p>",
+    "ballNbr": 31,
+    "overs": 5.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791075622,
+    "commText": "<p> Sandeep Sharma to Sam Curran, 1 run, on a length around middle and leg, knocked to long-on by Sam Curran for a single </p>",
+    "ballNbr": 32,
+    "overs": 5.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 2,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791111893,
+    "commText": "<p> Sandeep Sharma to Bairstow, no run, chipped back to the bowler on the bounce </p>",
+    "ballNbr": 33,
+    "overs": 5.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 8,
+      "ballsPlayed": 11,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791146630,
+    "commText": "<p> Sandeep Sharma to Bairstow, no run, defended from within the crease by Bairstow </p>",
+    "ballNbr": 34,
+    "overs": 5.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 8,
+      "ballsPlayed": 12,
+      "dotBalls": 7,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791189977,
+    "commText": "<p> Sandeep Sharma to Bairstow, no run, pushed down the pitch by Bairstow </p>",
+    "ballNbr": 35,
+    "overs": 5.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 8,
+      "ballsPlayed": 13,
+      "dotBalls": 8,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791234505,
+    "commText": "<p> Sandeep Sharma to Bairstow, 1 run, slower delivery on leg, Bairstow nudges it to short fine leg for a single </p>",
+    "ballNbr": 36,
+    "overs": 6,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 9,
+      "ballsPlayed": 14,
+      "dotBalls": 8,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791234515,
+    "commText": "<p><b>Powerplay summary</b> \\n-- Royals make early inroads \\n-- Boult gets rid of Prabhsimran for 6 (0.4) \\n-- Avesh strikes twice in his first over \\n-- He gets rid of Rossouw for 22, Shashank for 0 \\n-- Sandeep keeps tight in his three overs</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791296182,
+    "commText": "<p><b>Ravichandran Ashwin, right-arm off break, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 9,
+      "ballsPlayed": 14,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791301360,
+    "commText": "<p> Ashwin to Bairstow, no run, flat on off, turning in from back of a length, Bairstow goes back and defends </p>",
+    "ballNbr": 37,
+    "overs": 6.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 9,
+      "ballsPlayed": 15,
+      "dotBalls": 9,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791329014,
+    "commText": "<p> Ashwin to Bairstow, 1 run, length ball on off, Bairstow gets forward and knocks it to long-on </p>",
+    "ballNbr": 38,
+    "overs": 6.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 10,
+      "ballsPlayed": 16,
+      "dotBalls": 9,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791365285,
+    "commText": "<p> Ashwin to Sam Curran, 1 run, slider on off, length ball at 95.7kph, Curran punches it to long-on </p>",
+    "ballNbr": 39,
+    "overs": 6.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 3,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791391115,
+    "commText": "<p> Ashwin to Bairstow, 1 run, carrom ball on middle and leg, Bairstow makes room and cuts to sweeper cover </p>",
+    "ballNbr": 40,
+    "overs": 6.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 11,
+      "ballsPlayed": 17,
+      "dotBalls": 9,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791415295,
+    "commText": "<p> Ashwin to Sam Curran, 1 run, 93.3kph length ball outside off, Curran drives to long-off </p>",
+    "ballNbr": 41,
+    "overs": 6.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 4,
+      "ballsPlayed": 5,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791442158,
+    "commText": "<p> Ashwin to Bairstow, 1 run, length ball on middle, carrom ball, Bairstow makes room and flat-bats it to long-off </p>",
+    "ballNbr": 42,
+    "overs": 7,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 12,
+      "ballsPlayed": 18,
+      "dotBalls": 9,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791442168,
+    "commText": "<p><b>Teams losing most wickets in the Powerplay in IPL 2024</b> \\n28 - DC \\n25 - MI \\n24 - LSG \\n23 - PBKS \\n20 - RCB \\n \\n<b>Teams picking most wickets in the powerplay this season</b> \\n25 - DC \\n24 - RR \\n23 - GT</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791506496,
+    "commText": "<p><b>Yuzvendra Chahal, right-arm leg break, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 12,
+      "ballsPlayed": 18,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
@@ -752,92 +1401,1126 @@
     }
   },
   {
-    "timestamp": 1715793793440,
-    "commText": "<p> Chahal to Sam Curran, 1 run, steps out, isn't quite to the pitch of this legbreak and nudges it through midwicket </p>",
-    "overs": 15.3,
+    "timestamp": 1715791533201,
+    "commText": "<p> Chahal to Bairstow, no run, dragged down short on off, Bairstow makes room and slaps it hard. But it's straight to extra cover </p>",
+    "ballNbr": 43,
+    "overs": 7.1,
     "events": [],
     "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 46,
-      "ballsPlayed": 33,
-      "dotBalls": 9,
-      "batFours": 5,
-      "batSixes": 1
+      "id": 6507,
+      "batRuns": 12,
+      "ballsPlayed": 19,
+      "dotBalls": 10,
+      "batFours": 1,
+      "batSixes": 0
     },
     "bowlerStriker": {
       "id": 7910,
-      "bowlOvers": 3.3,
+      "bowlOvers": 0.1,
       "bowlMaidens": 0,
-      "bowlRuns": 30,
-      "bowlWickets": 1,
-      "bowlWides": 1,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715793753846,
-    "commText": "<p> Chahal to Sam Curran, <b>FOUR</b>, Chahal goes well wide outside off, perhaps anticipating a charge from Curran. But he stays put, reaches out and slaps it through extra cover. Superb knock this has been </p>",
-    "overs": 15.2,
+    "timestamp": 1715791569786,
+    "commText": "<p> Chahal to Bairstow, 1 run, flat length ball sliding in on leg, Bairstow makes room and cuts to sweeper cover </p>",
+    "ballNbr": 44,
+    "overs": 7.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 13,
+      "ballsPlayed": 20,
+      "dotBalls": 10,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791609819,
+    "commText": "<p> Chahal to Sam Curran, 1 run, flat length ball on off, turning in, Curran gets forward and flicks it to deep midwicket </p>",
+    "ballNbr": 45,
+    "overs": 7.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 5,
+      "ballsPlayed": 6,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791640398,
+    "commText": "<p> Chahal to Bairstow, 1 run, slightly short on middle and leg, Bairstow goes back, pulls it in the air and it falls short of long-on </p>",
+    "ballNbr": 46,
+    "overs": 7.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 14,
+      "ballsPlayed": 21,
+      "dotBalls": 10,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791669646,
+    "commText": "<p> Chahal to Sam Curran, 1 run, Curran dances down but the length is on the shorter side. Can only punch it to long-on for a single </p>",
+    "ballNbr": 47,
+    "overs": 7.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 6,
+      "ballsPlayed": 7,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791732114,
+    "commText": "<p> Chahal to Bairstow, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791734831,
+    "commText": "<p> Chahal to Bairstow, <b>out</b> Caught by Riyan Parag!! Bairstow's struggle comes to an end. Tries to break the shackles with a slog-sweep, doesn't get hold of it, and two players converge at the midwicket boundary for the catch. Ferreira takes it nicely and tosses it to Parag as he goes over the boundary. <b>Bairstow c Riyan Parag b Chahal 14(22) [4s-1]</b> </p>",
+    "ballNbr": 48,
+    "overs": 8,
+    "events": [
+      "OVER_BREAK",
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 6507,
+      "batRuns": 14,
+      "ballsPlayed": 22,
+      "dotBalls": 11,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791792869,
+    "commText": "<p><b>Jitesh Sharma, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 6,
+      "ballsPlayed": 7,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791817784,
+    "commText": "<p> Ashwin to Sam Curran, no run, full ball on off, Curran knocks it wide of short midwicket who cuts it off </p>",
+    "ballNbr": 49,
+    "overs": 8.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 6,
+      "ballsPlayed": 8,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791833472,
+    "commText": "<p> Ashwin to Sam Curran, no run, drifting in on middle, Curran looks to drive but gets an inside edge onto pad </p>",
+    "ballNbr": 50,
+    "overs": 8.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 6,
+      "ballsPlayed": 9,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791856276,
+    "commText": "<p> Ashwin to Sam Curran, 1 run, flat length ball outside off, Curran looks to cut and gets a thick edge that <b>loops in the air</b> through the vacant point region </p>",
+    "ballNbr": 51,
+    "overs": 8.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 7,
+      "ballsPlayed": 10,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791856286,
+    "commText": "<p><b>Bairstow vs Chahal in the IPL</b> \\nRuns: 29 \\nBalls: 35 \\nDismissals: 4 \\nAvg: 7.25 \\nSR: 82.85</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791890596,
+    "commText": "<p> Ashwin to Jitesh Sharma, no run, full ball on off, 95kph, Jitesh gets forward and knocks it back to Ashwin </p>",
+    "ballNbr": 52,
+    "overs": 8.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791907461,
+    "commText": "<p> Ashwin to Jitesh Sharma, <b>SIX</b>, carrom ball on off stump, it's way too short and Jitesh nails the pull over midwicket. He hasn't had a good season, but will like to finish it on a high </p>",
+    "ballNbr": 53,
+    "overs": 8.5,
+    "events": [
+      "TEAM_FIFTY",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 6,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791941297,
+    "commText": "<p> Ashwin to Jitesh Sharma, no run, an in-drifter pitched up on middle, bends in late and Jitesh does well to keep it out </p>",
+    "ballNbr": 54,
+    "overs": 9,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 6,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715791944297,
+    "commText": "<p>Timeout! Royals on top at this stage. Have kept the rate well under control while also picking up four wickets. Not much batting to come after this pair.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792155419,
+    "commText": "<p> Chahal to Sam Curran, <b>FOUR</b>, tossed up on middle, quite full and takes a thick under-edge as Curran goes for a sweep shot. It runs away past short fine leg to the boundary </p>",
+    "ballNbr": 55,
+    "overs": 9.1,
     "events": [
       "FOUR"
     ],
     "batsmanStriker": {
       "id": 10420,
-      "batRuns": 45,
-      "ballsPlayed": 32,
-      "dotBalls": 9,
-      "batFours": 5,
-      "batSixes": 1
+      "batRuns": 11,
+      "ballsPlayed": 11,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
     },
     "bowlerStriker": {
       "id": 7910,
-      "bowlOvers": 3.2,
+      "bowlOvers": 1.1,
       "bowlMaidens": 0,
-      "bowlRuns": 29,
+      "bowlRuns": 8,
       "bowlWickets": 1,
-      "bowlWides": 1,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715793725640,
-    "commText": "<p> Chahal to Sam Curran, <b>wide</b>, short ball down leg, Curran looks to pull but misses out </p>",
-    "overs": 15.2,
+    "timestamp": 1715792197710,
+    "commText": "<p> Chahal to Sam Curran, 1 run, pushed through flat on off, 93.3kph, Curran punches it wide of long-on </p>",
+    "ballNbr": 56,
+    "overs": 9.2,
     "events": [],
     "batsmanStriker": {
       "id": 10420,
-      "batRuns": 41,
-      "ballsPlayed": 31,
-      "dotBalls": 9,
-      "batFours": 4,
-      "batSixes": 1
+      "batRuns": 12,
+      "ballsPlayed": 12,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
     },
     "bowlerStriker": {
       "id": 7910,
-      "bowlOvers": 3.1,
+      "bowlOvers": 1.2,
       "bowlMaidens": 0,
-      "bowlRuns": 25,
+      "bowlRuns": 9,
       "bowlWickets": 1,
-      "bowlWides": 1,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715793659809,
-    "commText": "<p> Chahal to Sam Curran, 2 runs, flat on the pads as Curran steps out. He manages to tuck it away through midwicket and comes back for two. Second run ended up being tighter than Curran had thought. No damage done though </p>",
-    "overs": 15.1,
+    "timestamp": 1715792232200,
+    "commText": "<p> Chahal to Jitesh Sharma, 1 run, full ball on middle, Jitesh knocks it to long-off </p>",
+    "ballNbr": 57,
+    "overs": 9.3,
     "events": [],
     "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 41,
-      "ballsPlayed": 31,
-      "dotBalls": 9,
-      "batFours": 4,
+      "id": 10214,
+      "batRuns": 7,
+      "ballsPlayed": 4,
+      "dotBalls": 2,
+      "batFours": 0,
       "batSixes": 1
     },
     "bowlerStriker": {
       "id": 7910,
-      "bowlOvers": 3.1,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792256380,
+    "commText": "<p> Chahal to Sam Curran, no run, left alone outside off in the hope of a wide, but it's just inside the marker </p>",
+    "ballNbr": 58,
+    "overs": 9.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 12,
+      "ballsPlayed": 13,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792284704,
+    "commText": "<p> Chahal to Sam Curran, 1 run, 92.6kph flat length ball on middle, Curran clips it to deep midwicket </p>",
+    "ballNbr": 59,
+    "overs": 9.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 13,
+      "ballsPlayed": 14,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 11,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792324924,
+    "commText": "<p> Chahal to Jitesh Sharma, 1 run, 97.9kph, fuller than a length on middle and leg, Jitesh gets forward and works it to long-on </p>",
+    "ballNbr": 60,
+    "overs": 10,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 8,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792380806,
+    "commText": "<p><b>Avesh Khan [1.0-0-2-2] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 8,
+      "ballsPlayed": 5,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792401474,
+    "commText": "<p> Avesh Khan to Jitesh Sharma, no run, back of a length on off, blocked into the off-side </p>",
+    "ballNbr": 61,
+    "overs": 10.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 8,
+      "ballsPlayed": 6,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792435694,
+    "commText": "<p> Avesh Khan to Jitesh Sharma, no run, short of length delivery just outside off, Jitesh punches it to point </p>",
+    "ballNbr": 62,
+    "overs": 10.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 8,
+      "ballsPlayed": 7,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792473913,
+    "commText": "<p> Avesh Khan to Jitesh Sharma, no run, banged in short, Jitesh lets it go. It's called one for the over </p>",
+    "ballNbr": 63,
+    "overs": 10.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 8,
+      "ballsPlayed": 8,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792506641,
+    "commText": "<p> Avesh Khan to Jitesh Sharma, no run, back of a length delivery just outside off, 135.6kph, Jitesh hangs back and taps it to backward point </p>",
+    "ballNbr": 64,
+    "overs": 10.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 8,
+      "ballsPlayed": 9,
+      "dotBalls": 6,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792552474,
+    "commText": "<p> Avesh Khan to Jitesh Sharma, 2 runs, back of a length outside off, Jitesh cuts well and it takes a good effort at deep third from Sandeep to cut it off </p>",
+    "ballNbr": 65,
+    "overs": 10.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 10,
+      "ballsPlayed": 10,
+      "dotBalls": 6,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792590549,
+    "commText": "<p> Avesh Khan to Jitesh Sharma, 1 run, back of a length on off, tucked away through midwicket </p>",
+    "ballNbr": 66,
+    "overs": 11,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 11,
+      "ballsPlayed": 11,
+      "dotBalls": 6,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792657760,
+    "commText": "<p> Chahal to Jitesh Sharma, 1 run, flat length ball on middle, 93.8kph, Jitesh goes back and tucks it through midwicket </p>",
+    "ballNbr": 67,
+    "overs": 11.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 12,
+      "ballsPlayed": 12,
+      "dotBalls": 6,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792695792,
+    "commText": "<p> Chahal to Sam Curran, 1 run,<b> just short of Parag!</b> Length ball fired in outside off, Curran slaps it hard, goes flat in the air and bounces in front of extra cover </p>",
+    "ballNbr": 68,
+    "overs": 11.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 14,
+      "ballsPlayed": 15,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792725306,
+    "commText": "<p> Chahal to Jitesh Sharma, 1 run, punched to long-off </p>",
+    "ballNbr": 69,
+    "overs": 11.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 13,
+      "ballsPlayed": 13,
+      "dotBalls": 6,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792759688,
+    "commText": "<p> Chahal to Sam Curran, <b>FOUR</b>, lovely footwork from Curran. Steps out to the pitch of the ball and drills it wide of long-on </p>",
+    "ballNbr": 70,
+    "overs": 11.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 18,
+      "ballsPlayed": 16,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792797799,
+    "commText": "<p> Chahal to Sam Curran, 2 runs, again comes dancing down the pitch, the ball is fired into the pads and he tucks it through midwicket </p>",
+    "ballNbr": 71,
+    "overs": 11.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 20,
+      "ballsPlayed": 17,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792836968,
+    "commText": "<p> Chahal to Sam Curran, 1 run, again on the pads as Curran uses his feet. He works it behind square </p>",
+    "ballNbr": 72,
+    "overs": 12,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 21,
+      "ballsPlayed": 18,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792894119,
+    "commText": "<p><b>Ravichandran Ashwin [2.0-0-12-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 21,
+      "ballsPlayed": 18,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792902216,
+    "commText": "<p> Ashwin to Sam Curran, no run, 99.5kph length ball fired into the pads as Curran dances down. He is cramped for room and tucks it to midwicket </p>",
+    "ballNbr": 73,
+    "overs": 12.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 21,
+      "ballsPlayed": 19,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792934313,
+    "commText": "<p> Ashwin to Sam Curran, <b>FOUR</b>, length ball outside off, width on offer and Curran slaps it through extra cover. Looking good out there now against the spinners </p>",
+    "ballNbr": 74,
+    "overs": 12.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 25,
+      "ballsPlayed": 20,
+      "dotBalls": 5,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792966047,
+    "commText": "<p> Ashwin to Sam Curran, no run, tossed up just outside off, much slower through the air and gets it to dip and turn. Curran gets forward and knocks it to point </p>",
+    "ballNbr": 75,
+    "overs": 12.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 25,
+      "ballsPlayed": 21,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715792988257,
+    "commText": "<p> Ashwin to Sam Curran, no run, 98kph length ball on off, Curran punches gently to the left of short cover who does well to cut off the single </p>",
+    "ballNbr": 76,
+    "overs": 12.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 25,
+      "ballsPlayed": 22,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793012375,
+    "commText": "<p> Ashwin to Sam Curran, no run, 94.8kph full ball drifting in on off, Curran looks to drive through cover but drags it off a thick inside edge to short midwicket </p>",
+    "ballNbr": 77,
+    "overs": 12.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 25,
+      "ballsPlayed": 23,
+      "dotBalls": 8,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793015375,
+    "commText": "<p>Midwicket is moved to short fine</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793055146,
+    "commText": "<p> Ashwin to Sam Curran, 1 run, length ball darted in on middle, Curran clips it to deep midwicket </p>",
+    "ballNbr": 78,
+    "overs": 13,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 26,
+      "ballsPlayed": 24,
+      "dotBalls": 8,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793138281,
+    "commText": "<p><b>Trent Boult [2.0-0-19-1] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 26,
+      "ballsPlayed": 24,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793147057,
+    "commText": "<p> Boult to Sam Curran, <b>FOUR</b>, straying in line a touch and Curran capitalises! Back of a length on middle and leg, he shuffles across and pulls it past short fine leg </p>",
+    "ballNbr": 79,
+    "overs": 13.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 30,
+      "ballsPlayed": 25,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793187698,
+    "commText": "<p> Boult to Sam Curran, 1 run, back of a length on middle, Curran shuffles across and looks to clip it away fine, but it goes off the thigh pad to the fielder </p>",
+    "ballNbr": 80,
+    "overs": 13.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 31,
+      "ballsPlayed": 26,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 2.2,
       "bowlMaidens": 0,
       "bowlRuns": 24,
       "bowlWickets": 1,
@@ -846,95 +2529,172 @@
     }
   },
   {
-    "timestamp": 1715793652083,
-    "commText": "<p><b>Yuzvendra Chahal [3.0-0-22-1] is back into the attack</b></p>",
-    "overs": 0,
+    "timestamp": 1715793235729,
+    "commText": "<p> Boult to Jitesh Sharma, no run, short of length delivery just outside off, Jitesh punches it gently to midwicket </p>",
+    "ballNbr": 81,
+    "overs": 13.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 13,
+      "ballsPlayed": 14,
+      "dotBalls": 7,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793273926,
+    "commText": "<p> Boult to Jitesh Sharma, 1 run, back of a length delivery slanted in on middle, Jitesh mistimes the pull behind square </p>",
+    "ballNbr": 82,
+    "overs": 13.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 14,
+      "ballsPlayed": 15,
+      "dotBalls": 7,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793318830,
+    "commText": "<p> Boult to Sam Curran, 1 run, length ball around off, slower one, and Curran works it through midwicket </p>",
+    "ballNbr": 83,
+    "overs": 13.5,
     "events": [],
     "batsmanStriker": {
       "id": 10420,
-      "batRuns": 39,
-      "ballsPlayed": 30,
-      "dotBalls": 0,
-      "batFours": 0,
+      "batRuns": 32,
+      "ballsPlayed": 27,
+      "dotBalls": 8,
+      "batFours": 4,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 0,
+      "id": 8117,
+      "bowlOvers": 2.5,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
+      "bowlRuns": 26,
+      "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715793579975,
-    "commText": "<p><b>Highlights (Overs 7-15)</b> \\n- Chahal strikes in his first over, Bairstow is caught at long-on \\n- A steady partnership building between Jitesh and Curran \\n- Ashwin gets belted in his final over \\n- 50-run stand up for the fifth wicket between Curran and Jitesh \\n- Punjab in control with 42 runs required and 6 wickets remaining</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715793579964,
-    "commText": "<p> Ashwin to Sam Curran, 1 run, length ball sliding in on off, Curran knocks it to long-on. 14 off the over as PBKS take control </p>",
-    "overs": 15,
+    "timestamp": 1715793356074,
+    "commText": "<p> Boult to Jitesh Sharma, 1 run, back of a length delivery just outside off, off-pace delivery, Jitesh opens the face and steers it to short third </p>",
+    "ballNbr": 84,
+    "overs": 14,
     "events": [
-      "OVER_BREAK",
-      "HIGHSCORING_OVER"
+      "OVER_BREAK"
     ],
     "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 39,
-      "ballsPlayed": 30,
-      "dotBalls": 9,
-      "batFours": 4,
+      "id": 10214,
+      "batRuns": 15,
+      "ballsPlayed": 16,
+      "dotBalls": 7,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8117,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793433499,
+    "commText": "<p> Ashwin to Jitesh Sharma, no run, 93kph, length ball on off, carrom ball, Jitesh knocks it to short cover </p>",
+    "ballNbr": 85,
+    "overs": 14.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 15,
+      "ballsPlayed": 17,
+      "dotBalls": 8,
+      "batFours": 0,
       "batSixes": 1
     },
     "bowlerStriker": {
       "id": 1593,
-      "bowlOvers": 4,
+      "bowlOvers": 3.1,
       "bowlMaidens": 0,
-      "bowlRuns": 31,
+      "bowlRuns": 17,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715793554702,
-    "commText": "<p> Ashwin to Sam Curran, no run, length ball sliding in on middle, defended </p>",
-    "overs": 14.5,
-    "events": [],
+    "timestamp": 1715793452505,
+    "commText": "<p> Ashwin to Jitesh Sharma, <b>SIX</b>, <b>slogged into the top tier!</b> Carrom ball on off, in the slot for him and he wallops it over long-on </p>",
+    "ballNbr": 86,
+    "overs": 14.2,
+    "events": [
+      "SIX"
+    ],
     "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 38,
-      "ballsPlayed": 29,
-      "dotBalls": 9,
-      "batFours": 4,
-      "batSixes": 1
+      "id": 10214,
+      "batRuns": 21,
+      "ballsPlayed": 18,
+      "dotBalls": 8,
+      "batFours": 0,
+      "batSixes": 2
     },
     "bowlerStriker": {
       "id": 1593,
-      "bowlOvers": 3.5,
+      "bowlOvers": 3.2,
       "bowlMaidens": 0,
-      "bowlRuns": 30,
+      "bowlRuns": 23,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793488785,
+    "commText": "<p> Ashwin to Jitesh Sharma, 1 run, dances down, Ashwin fires a carrom ball into the toes and keeps him to a single to long-on </p>",
+    "ballNbr": 87,
+    "overs": 14.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10214,
+      "batRuns": 22,
+      "ballsPlayed": 19,
+      "dotBalls": 8,
+      "batFours": 0,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
@@ -943,6 +2703,7 @@
   {
     "timestamp": 1715793516042,
     "commText": "<p> Ashwin to Sam Curran, <b>SIX</b>, oh this is a brilliant shot! Ashwin perhaps sees him coming and fires it quite wide outside off, but Curran is able to reach out as he hammers it over extra cover for six. Goes flat and long </p>",
+    "ballNbr": 88,
     "overs": 14.4,
     "events": [
       "TEAM_HUNDRED",
@@ -968,227 +2729,212 @@
     }
   },
   {
-    "timestamp": 1715793488785,
-    "commText": "<p> Ashwin to Jitesh Sharma, 1 run, dances down, Ashwin fires a carrom ball into the toes and keeps him to a single to long-on </p>",
-    "overs": 14.3,
+    "timestamp": 1715793554702,
+    "commText": "<p> Ashwin to Sam Curran, no run, length ball sliding in on middle, defended </p>",
+    "ballNbr": 89,
+    "overs": 14.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 38,
+      "ballsPlayed": 29,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 30,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793579964,
+    "commText": "<p> Ashwin to Sam Curran, 1 run, length ball sliding in on off, Curran knocks it to long-on. 14 off the over as PBKS take control </p>",
+    "ballNbr": 90,
+    "overs": 15,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 39,
+      "ballsPlayed": 30,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793579975,
+    "commText": "<p><b>Highlights (Overs 7-15)</b> \\n- Chahal strikes in his first over, Bairstow is caught at long-on \\n- A steady partnership building between Jitesh and Curran \\n- Ashwin gets belted in his final over \\n- 50-run stand up for the fifth wicket between Curran and Jitesh \\n- Punjab in control with 42 runs required and 6 wickets remaining</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793652083,
+    "commText": "<p><b>Yuzvendra Chahal [3.0-0-22-1] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 39,
+      "ballsPlayed": 30,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793659809,
+    "commText": "<p> Chahal to Sam Curran, 2 runs, flat on the pads as Curran steps out. He manages to tuck it away through midwicket and comes back for two. Second run ended up being tighter than Curran had thought. No damage done though </p>",
+    "ballNbr": 91,
+    "overs": 15.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 41,
+      "ballsPlayed": 31,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793725640,
+    "commText": "<p> Chahal to Sam Curran, <b>wide</b>, short ball down leg, Curran looks to pull but misses out </p>",
+    "ballNbr": 92,
+    "overs": 15.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 41,
+      "ballsPlayed": 31,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793753846,
+    "commText": "<p> Chahal to Sam Curran, <b>FOUR</b>, Chahal goes well wide outside off, perhaps anticipating a charge from Curran. But he stays put, reaches out and slaps it through extra cover. Superb knock this has been </p>",
+    "ballNbr": 92,
+    "overs": 15.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 45,
+      "ballsPlayed": 32,
+      "dotBalls": 9,
+      "batFours": 5,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 29,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793793440,
+    "commText": "<p> Chahal to Sam Curran, 1 run, steps out, isn't quite to the pitch of this legbreak and nudges it through midwicket </p>",
+    "ballNbr": 93,
+    "overs": 15.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 46,
+      "ballsPlayed": 33,
+      "dotBalls": 9,
+      "batFours": 5,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7910,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 30,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715793835065,
+    "commText": "<p> Chahal to Jitesh Sharma, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
       "id": 10214,
       "batRuns": 22,
       "ballsPlayed": 19,
-      "dotBalls": 8,
-      "batFours": 0,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 3.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715793452505,
-    "commText": "<p> Ashwin to Jitesh Sharma, <b>SIX</b>, <b>slogged into the top tier!</b> Carrom ball on off, in the slot for him and he wallops it over long-on </p>",
-    "overs": 14.2,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 21,
-      "ballsPlayed": 18,
-      "dotBalls": 8,
-      "batFours": 0,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 3.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715793433499,
-    "commText": "<p> Ashwin to Jitesh Sharma, no run, 93kph, length ball on off, carrom ball, Jitesh knocks it to short cover </p>",
-    "overs": 14.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 15,
-      "ballsPlayed": 17,
-      "dotBalls": 8,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 3.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715793356074,
-    "commText": "<p> Boult to Jitesh Sharma, 1 run, back of a length delivery just outside off, off-pace delivery, Jitesh opens the face and steers it to short third </p>",
-    "overs": 14,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 15,
-      "ballsPlayed": 16,
-      "dotBalls": 7,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 27,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715793318830,
-    "commText": "<p> Boult to Sam Curran, 1 run, length ball around off, slower one, and Curran works it through midwicket </p>",
-    "overs": 13.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 32,
-      "ballsPlayed": 27,
-      "dotBalls": 8,
-      "batFours": 4,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 26,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715793273926,
-    "commText": "<p> Boult to Jitesh Sharma, 1 run, back of a length delivery slanted in on middle, Jitesh mistimes the pull behind square </p>",
-    "overs": 13.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 14,
-      "ballsPlayed": 15,
-      "dotBalls": 7,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 25,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715793235729,
-    "commText": "<p> Boult to Jitesh Sharma, no run, short of length delivery just outside off, Jitesh punches it gently to midwicket </p>",
-    "overs": 13.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 13,
-      "ballsPlayed": 14,
-      "dotBalls": 7,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715793187698,
-    "commText": "<p> Boult to Sam Curran, 1 run, back of a length on middle, Curran shuffles across and looks to clip it away fine, but it goes off the thigh pad to the fielder </p>",
-    "overs": 13.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 31,
-      "ballsPlayed": 26,
-      "dotBalls": 8,
-      "batFours": 4,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715793147057,
-    "commText": "<p> Boult to Sam Curran, <b>FOUR</b>, straying in line a touch and Curran capitalises! Back of a length on middle and leg, he shuffles across and pulls it past short fine leg </p>",
-    "overs": 13.1,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 30,
-      "ballsPlayed": 25,
-      "dotBalls": 8,
-      "batFours": 4,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715793138281,
-    "commText": "<p><b>Trent Boult [2.0-0-19-1] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 26,
-      "ballsPlayed": 24,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
@@ -1204,643 +2950,35 @@
     }
   },
   {
-    "timestamp": 1715793055146,
-    "commText": "<p> Ashwin to Sam Curran, 1 run, length ball darted in on middle, Curran clips it to deep midwicket </p>",
-    "overs": 13,
+    "timestamp": 1715793836554,
+    "commText": "<p>Chahal to Jitesh Sharma, <b>out</b> Caught by Riyan Parag!! Royals have an opening. Tossed up on middle, Jitesh looks to go for a lofted shot down the ground, doesn't get hold of it and holes out at long-on. The catch is taken comfortably by Parag who throws the ball away in celebration. Jitesh might've wanted to hit with the turn over long-off. But it took the inside half of the bat as it didn't turn much. <b>Jitesh Sharma c Riyan Parag b Chahal 22(20) [6s-2]</b></p>",
+    "ballNbr": 94,
+    "overs": 15.4,
     "events": [
-      "OVER_BREAK"
+      "WICKET"
     ],
     "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 26,
-      "ballsPlayed": 24,
-      "dotBalls": 8,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715793015375,
-    "commText": "<p>Midwicket is moved to short fine</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715793012375,
-    "commText": "<p> Ashwin to Sam Curran, no run, 94.8kph full ball drifting in on off, Curran looks to drive through cover but drags it off a thick inside edge to short midwicket </p>",
-    "overs": 12.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 25,
-      "ballsPlayed": 23,
-      "dotBalls": 8,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792988257,
-    "commText": "<p> Ashwin to Sam Curran, no run, 98kph length ball on off, Curran punches gently to the left of short cover who does well to cut off the single </p>",
-    "overs": 12.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 25,
-      "ballsPlayed": 22,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792966047,
-    "commText": "<p> Ashwin to Sam Curran, no run, tossed up just outside off, much slower through the air and gets it to dip and turn. Curran gets forward and knocks it to point </p>",
-    "overs": 12.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 25,
-      "ballsPlayed": 21,
-      "dotBalls": 6,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792934313,
-    "commText": "<p> Ashwin to Sam Curran, <b>FOUR</b>, length ball outside off, width on offer and Curran slaps it through extra cover. Looking good out there now against the spinners </p>",
-    "overs": 12.2,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 25,
+      "id": 10214,
+      "batRuns": 22,
       "ballsPlayed": 20,
-      "dotBalls": 5,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792902216,
-    "commText": "<p> Ashwin to Sam Curran, no run, 99.5kph length ball fired into the pads as Curran dances down. He is cramped for room and tucks it to midwicket </p>",
-    "overs": 12.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 21,
-      "ballsPlayed": 19,
-      "dotBalls": 5,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792894119,
-    "commText": "<p><b>Ravichandran Ashwin [2.0-0-12-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 21,
-      "ballsPlayed": 18,
-      "dotBalls": 0,
+      "dotBalls": 9,
       "batFours": 0,
-      "batSixes": 0
+      "batSixes": 2
     },
     "bowlerStriker": {
       "id": 7910,
-      "bowlOvers": 0,
+      "bowlOvers": 3.4,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792836968,
-    "commText": "<p> Chahal to Sam Curran, 1 run, again on the pads as Curran uses his feet. He works it behind square </p>",
-    "overs": 12,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 21,
-      "ballsPlayed": 18,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792797799,
-    "commText": "<p> Chahal to Sam Curran, 2 runs, again comes dancing down the pitch, the ball is fired into the pads and he tucks it through midwicket </p>",
-    "overs": 11.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 20,
-      "ballsPlayed": 17,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792759688,
-    "commText": "<p> Chahal to Sam Curran, <b>FOUR</b>, lovely footwork from Curran. Steps out to the pitch of the ball and drills it wide of long-on </p>",
-    "overs": 11.4,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 18,
-      "ballsPlayed": 16,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792725306,
-    "commText": "<p> Chahal to Jitesh Sharma, 1 run, punched to long-off </p>",
-    "overs": 11.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 13,
-      "ballsPlayed": 13,
-      "dotBalls": 6,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792695792,
-    "commText": "<p> Chahal to Sam Curran, 1 run,<b> just short of Parag!</b> Length ball fired in outside off, Curran slaps it hard, goes flat in the air and bounces in front of extra cover </p>",
-    "overs": 11.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 14,
-      "ballsPlayed": 15,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 14,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792657760,
-    "commText": "<p> Chahal to Jitesh Sharma, 1 run, flat length ball on middle, 93.8kph, Jitesh goes back and tucks it through midwicket </p>",
-    "overs": 11.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 12,
-      "ballsPlayed": 12,
-      "dotBalls": 6,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792590549,
-    "commText": "<p> Avesh Khan to Jitesh Sharma, 1 run, back of a length on off, tucked away through midwicket </p>",
-    "overs": 11,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 11,
-      "ballsPlayed": 11,
-      "dotBalls": 6,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
+      "bowlRuns": 30,
       "bowlWickets": 2,
-      "bowlWides": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715792552474,
-    "commText": "<p> Avesh Khan to Jitesh Sharma, 2 runs, back of a length outside off, Jitesh cuts well and it takes a good effort at deep third from Sandeep to cut it off </p>",
-    "overs": 10.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 10,
-      "ballsPlayed": 10,
-      "dotBalls": 6,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792506641,
-    "commText": "<p> Avesh Khan to Jitesh Sharma, no run, back of a length delivery just outside off, 135.6kph, Jitesh hangs back and taps it to backward point </p>",
-    "overs": 10.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 8,
-      "ballsPlayed": 9,
-      "dotBalls": 6,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792473913,
-    "commText": "<p> Avesh Khan to Jitesh Sharma, no run, banged in short, Jitesh lets it go. It's called one for the over </p>",
-    "overs": 10.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 8,
-      "ballsPlayed": 8,
-      "dotBalls": 5,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792435694,
-    "commText": "<p> Avesh Khan to Jitesh Sharma, no run, short of length delivery just outside off, Jitesh punches it to point </p>",
-    "overs": 10.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 8,
-      "ballsPlayed": 7,
-      "dotBalls": 4,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792401474,
-    "commText": "<p> Avesh Khan to Jitesh Sharma, no run, back of a length on off, blocked into the off-side </p>",
-    "overs": 10.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 8,
-      "ballsPlayed": 6,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792380806,
-    "commText": "<p><b>Avesh Khan [1.0-0-2-2] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 8,
-      "ballsPlayed": 5,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792324924,
-    "commText": "<p> Chahal to Jitesh Sharma, 1 run, 97.9kph, fuller than a length on middle and leg, Jitesh gets forward and works it to long-on </p>",
-    "overs": 10,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 8,
-      "ballsPlayed": 5,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792284704,
-    "commText": "<p> Chahal to Sam Curran, 1 run, 92.6kph flat length ball on middle, Curran clips it to deep midwicket </p>",
-    "overs": 9.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 13,
-      "ballsPlayed": 14,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 11,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792256380,
-    "commText": "<p> Chahal to Sam Curran, no run, left alone outside off in the hope of a wide, but it's just inside the marker </p>",
-    "overs": 9.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 12,
-      "ballsPlayed": 13,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792232200,
-    "commText": "<p> Chahal to Jitesh Sharma, 1 run, full ball on middle, Jitesh knocks it to long-off </p>",
-    "overs": 9.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 7,
-      "ballsPlayed": 4,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792197710,
-    "commText": "<p> Chahal to Sam Curran, 1 run, pushed through flat on off, 93.3kph, Curran punches it wide of long-on </p>",
-    "overs": 9.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 12,
-      "ballsPlayed": 12,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715792155419,
-    "commText": "<p> Chahal to Sam Curran, <b>FOUR</b>, tossed up on middle, quite full and takes a thick under-edge as Curran goes for a sweep shot. It runs away past short fine leg to the boundary </p>",
-    "overs": 9.1,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 11,
-      "ballsPlayed": 11,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791944297,
-    "commText": "<p>Timeout! Royals on top at this stage. Have kept the rate well under control while also picking up four wickets. Not much batting to come after this pair.</p>",
+    "timestamp": 1715793839554,
+    "commText": "<p>Timeout!</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -1862,63 +3000,37 @@
     }
   },
   {
-    "timestamp": 1715791941297,
-    "commText": "<p> Ashwin to Jitesh Sharma, no run, an in-drifter pitched up on middle, bends in late and Jitesh does well to keep it out </p>",
-    "overs": 9,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 6,
-      "ballsPlayed": 3,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791907461,
-    "commText": "<p> Ashwin to Jitesh Sharma, <b>SIX</b>, carrom ball on off stump, it's way too short and Jitesh nails the pull over midwicket. He hasn't had a good season, but will like to finish it on a high </p>",
-    "overs": 8.5,
-    "events": [
-      "TEAM_FIFTY",
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10214,
-      "batRuns": 6,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791890596,
-    "commText": "<p> Ashwin to Jitesh Sharma, no run, full ball on off, 95kph, Jitesh gets forward and knocks it back to Ashwin </p>",
-    "overs": 8.4,
+    "timestamp": 1715794061029,
+    "commText": "<p><b>Ashutosh Sharma, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 10214,
+      "id": 13497,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1593,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715794081519,
+    "commText": "<p> Chahal to Ashutosh Sharma, no run, 90.2kph full ball on off, defended forward </p>",
+    "ballNbr": 95,
+    "overs": 15.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13497,
       "batRuns": 0,
       "ballsPlayed": 1,
       "dotBalls": 1,
@@ -1926,418 +3038,145 @@
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791856286,
-    "commText": "<p><b>Bairstow vs Chahal in the IPL</b> \\nRuns: 29 \\nBalls: 35 \\nDismissals: 4 \\nAvg: 7.25 \\nSR: 82.85</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791856276,
-    "commText": "<p> Ashwin to Sam Curran, 1 run, flat length ball outside off, Curran looks to cut and gets a thick edge that <b>loops in the air</b> through the vacant point region </p>",
-    "overs": 8.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 7,
-      "ballsPlayed": 10,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791833472,
-    "commText": "<p> Ashwin to Sam Curran, no run, drifting in on middle, Curran looks to drive but gets an inside edge onto pad </p>",
-    "overs": 8.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 6,
-      "ballsPlayed": 9,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791817784,
-    "commText": "<p> Ashwin to Sam Curran, no run, full ball on off, Curran knocks it wide of short midwicket who cuts it off </p>",
-    "overs": 8.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 6,
-      "ballsPlayed": 8,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791792869,
-    "commText": "<p><b>Jitesh Sharma, right handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 6,
-      "ballsPlayed": 7,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
       "id": 7910,
-      "bowlOvers": 0,
+      "bowlOvers": 3.5,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
+      "bowlRuns": 30,
+      "bowlWickets": 2,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715791734831,
-    "commText": "<p> Chahal to Bairstow, <b>out</b> Caught by Riyan Parag!! Bairstow's struggle comes to an end. Tries to break the shackles with a slog-sweep, doesn't get hold of it, and two players converge at the midwicket boundary for the catch. Ferreira takes it nicely and tosses it to Parag as he goes over the boundary. <b>Bairstow c Riyan Parag b Chahal 14(22) [4s-1]</b> </p>",
-    "overs": 8,
-    "events": [
-      "OVER_BREAK",
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 14,
-      "ballsPlayed": 22,
-      "dotBalls": 11,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791732114,
-    "commText": "<p> Chahal to Bairstow, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791669646,
-    "commText": "<p> Chahal to Sam Curran, 1 run, Curran dances down but the length is on the shorter side. Can only punch it to long-on for a single </p>",
-    "overs": 7.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 6,
-      "ballsPlayed": 7,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791640398,
-    "commText": "<p> Chahal to Bairstow, 1 run, slightly short on middle and leg, Bairstow goes back, pulls it in the air and it falls short of long-on </p>",
-    "overs": 7.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 14,
-      "ballsPlayed": 21,
-      "dotBalls": 10,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791609819,
-    "commText": "<p> Chahal to Sam Curran, 1 run, flat length ball on off, turning in, Curran gets forward and flicks it to deep midwicket </p>",
-    "overs": 7.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 5,
-      "ballsPlayed": 6,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791569786,
-    "commText": "<p> Chahal to Bairstow, 1 run, flat length ball sliding in on leg, Bairstow makes room and cuts to sweeper cover </p>",
-    "overs": 7.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 13,
-      "ballsPlayed": 20,
-      "dotBalls": 10,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791533201,
-    "commText": "<p> Chahal to Bairstow, no run, dragged down short on off, Bairstow makes room and slaps it hard. But it's straight to extra cover </p>",
-    "overs": 7.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 12,
-      "ballsPlayed": 19,
-      "dotBalls": 10,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7910,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791506496,
-    "commText": "<p><b>Yuzvendra Chahal, right-arm leg break, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 12,
-      "ballsPlayed": 18,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791442168,
-    "commText": "<p><b>Teams losing most wickets in the Powerplay in IPL 2024</b> \\n28 - DC \\n25 - MI \\n24 - LSG \\n23 - PBKS \\n20 - RCB \\n \\n<b>Teams picking most wickets in the powerplay this season</b> \\n25 - DC \\n24 - RR \\n23 - GT</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791442158,
-    "commText": "<p> Ashwin to Bairstow, 1 run, length ball on middle, carrom ball, Bairstow makes room and flat-bats it to long-off </p>",
-    "overs": 7,
+    "timestamp": 1715794102534,
+    "commText": "<p> Chahal to Ashutosh Sharma, 1 run, drifting into the pads, Ashutosh works it through square leg. Chahal is done and finishes with 2/31 </p>",
+    "ballNbr": 96,
+    "overs": 16,
     "events": [
       "OVER_BREAK"
     ],
     "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 12,
-      "ballsPlayed": 18,
-      "dotBalls": 9,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791415295,
-    "commText": "<p> Ashwin to Sam Curran, 1 run, 93.3kph length ball outside off, Curran drives to long-off </p>",
-    "overs": 6.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 4,
-      "ballsPlayed": 5,
+      "id": 13497,
+      "batRuns": 1,
+      "ballsPlayed": 2,
       "dotBalls": 1,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 0.5,
+      "id": 7910,
+      "bowlOvers": 4,
       "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 2,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715791391115,
-    "commText": "<p> Ashwin to Bairstow, 1 run, carrom ball on middle and leg, Bairstow makes room and cuts to sweeper cover </p>",
-    "overs": 6.4,
+    "timestamp": 1715794170595,
+    "commText": "<p><b>Avesh Khan [2.0-0-5-2] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 11,
-      "ballsPlayed": 17,
-      "dotBalls": 9,
-      "batFours": 1,
+      "id": 13497,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 0.4,
+      "id": 7910,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
-      "bowlRuns": 3,
+      "bowlRuns": 0,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715791365285,
-    "commText": "<p> Ashwin to Sam Curran, 1 run, slider on off, length ball at 95.7kph, Curran punches it to long-on </p>",
-    "overs": 6.3,
+    "timestamp": 1715794184358,
+    "commText": "<p> Avesh Khan to Ashutosh Sharma, 1 run, <b>direct hit might've had Curran.</b> Back of a length on off, Ashutosh punches to the right of backward point where Jaiswal takes Curran by surprise by how quickly he releases the ball with his right hand </p>",
+    "ballNbr": 97,
+    "overs": 16.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13497,
+      "batRuns": 2,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715794229625,
+    "commText": "<p> Avesh Khan to Sam Curran, no run, good length on off, defended to cover </p>",
+    "ballNbr": 98,
+    "overs": 16.2,
     "events": [],
     "batsmanStriker": {
       "id": 10420,
+      "batRuns": 46,
+      "ballsPlayed": 34,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715794270121,
+    "commText": "<p> Avesh Khan to Sam Curran, 1 run, fuller than a length just outside off, Curran drives to mid-off </p>",
+    "ballNbr": 99,
+    "overs": 16.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 47,
+      "ballsPlayed": 35,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715794319701,
+    "commText": "<p> Avesh Khan to Ashutosh Sharma, 1 run, short of length delivery just outside off, Ashutosh opens the face and steers it to deep third </p>",
+    "ballNbr": 100,
+    "overs": 16.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13497,
       "batRuns": 3,
       "ballsPlayed": 4,
       "dotBalls": 1,
@@ -2345,798 +3184,367 @@
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791329014,
-    "commText": "<p> Ashwin to Bairstow, 1 run, length ball on off, Bairstow gets forward and knocks it to long-on </p>",
-    "overs": 6.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 10,
-      "ballsPlayed": 16,
-      "dotBalls": 9,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791301360,
-    "commText": "<p> Ashwin to Bairstow, no run, flat on off, turning in from back of a length, Bairstow goes back and defends </p>",
-    "overs": 6.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 9,
-      "ballsPlayed": 15,
-      "dotBalls": 9,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1593,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791296182,
-    "commText": "<p><b>Ravichandran Ashwin, right-arm off break, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 9,
-      "ballsPlayed": 14,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791234515,
-    "commText": "<p><b>Powerplay summary</b> \\n-- Royals make early inroads \\n-- Boult gets rid of Prabhsimran for 6 (0.4) \\n-- Avesh strikes twice in his first over \\n-- He gets rid of Rossouw for 22, Shashank for 0 \\n-- Sandeep keeps tight in his three overs</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791234505,
-    "commText": "<p> Sandeep Sharma to Bairstow, 1 run, slower delivery on leg, Bairstow nudges it to short fine leg for a single </p>",
-    "overs": 6,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 9,
-      "ballsPlayed": 14,
-      "dotBalls": 8,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 18,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791189977,
-    "commText": "<p> Sandeep Sharma to Bairstow, no run, pushed down the pitch by Bairstow </p>",
-    "overs": 5.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 8,
-      "ballsPlayed": 13,
-      "dotBalls": 8,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791146630,
-    "commText": "<p> Sandeep Sharma to Bairstow, no run, defended from within the crease by Bairstow </p>",
-    "overs": 5.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 8,
-      "ballsPlayed": 12,
-      "dotBalls": 7,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
+      "id": 9781,
       "bowlOvers": 2.4,
       "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791111893,
-    "commText": "<p> Sandeep Sharma to Bairstow, no run, chipped back to the bowler on the bounce </p>",
-    "overs": 5.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 8,
-      "ballsPlayed": 11,
-      "dotBalls": 6,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791075622,
-    "commText": "<p> Sandeep Sharma to Sam Curran, 1 run, on a length around middle and leg, knocked to long-on by Sam Curran for a single </p>",
-    "overs": 5.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 2,
-      "ballsPlayed": 3,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715791046202,
-    "commText": "<p> Sandeep Sharma to Sam Curran, no run, pitched up by the bowler on off, Sam Curran drives it to cover </p>",
-    "overs": 5.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 1,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715790959781,
-    "commText": "<p> Avesh Khan to Sam Curran, 1 run, pats this short ball towards the off-side, calls for a single and an overthrow at the keeper's end allows Sam Curran to open his account </p>",
-    "overs": 5,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10420,
-      "batRuns": 1,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
+      "bowlRuns": 8,
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715790886498,
-    "commText": "<p><b>Sam Curran, left handed bat, comes to the crease</b></p>",
-    "overs": 0,
+    "timestamp": 1715794373761,
+    "commText": "<p> Avesh Khan to Sam Curran, 1 run,<b> leading edge pops up in the air</b> but it evades the outstretched right hand of Avesh! Back of a length on middle, Curran looks to clip it away but closes the bat face too early </p>",
+    "ballNbr": 101,
+    "overs": 16.5,
     "events": [],
     "batsmanStriker": {
       "id": 10420,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715790833991,
-    "commText": "<p> Avesh Khan to Shashank Singh, <b>out</b> Lbw!! That's plumb! Avesh Khan strikes again. Goes full and quick on middle, Shashank Singh looks to flick it away but gets rapped on the pads. Up goes the umpire's finger as Shashank Singh departs without troubling the scorers. <b>Shashank Singh lbw b Avesh Khan 0(2)</b> </p>",
-    "overs": 4.5,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 10919,
-      "batRuns": 0,
-      "ballsPlayed": 2,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715790829054,
-    "commText": "<p> Avesh Khan to Shashank Singh, <b>THATS OUT!!</b> Lbw!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10919,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715790742801,
-    "commText": "<p> Avesh Khan to Shashank Singh, no run, plays this towards extra cover where Ashwin gathers the ball and has a back flick towards the bowler's end but Bairstow was comfortably in </p>",
-    "overs": 4.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10919,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715790728927,
-    "commText": "<p><b>Shashank Singh, right handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10919,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715790654757,
-    "commText": "<p> Avesh Khan to Rossouw, <b>out</b> Caught by Jaiswal!! Avesh Khan strikes in his first over. Gets the dangerous Rossouw. This was pitched up by Avesh Khan outside off and Rossouw slices it straight to Jaiswal at backward point. A sharp low catch taken and they have lost the second wicket. <b>Rossouw c Jaiswal b Avesh Khan 22(13) [4s-5]</b> </p>",
-    "overs": 4.3,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 2244,
-      "batRuns": 22,
-      "ballsPlayed": 13,
-      "dotBalls": 7,
+      "batRuns": 48,
+      "ballsPlayed": 36,
+      "dotBalls": 10,
       "batFours": 5,
-      "batSixes": 0
+      "batSixes": 1
     },
     "bowlerStriker": {
       "id": 9781,
-      "bowlOvers": 0.3,
+      "bowlOvers": 2.5,
       "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 1,
+      "bowlRuns": 9,
+      "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715790652560,
-    "commText": "<p> Avesh Khan to Rossouw, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2244,
-      "batRuns": 22,
-      "ballsPlayed": 12,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715790588386,
-    "commText": "<p> Avesh Khan to Bairstow, 1 run, on a length around off, knocked to cover by Bairstow </p>",
-    "overs": 4.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 8,
-      "ballsPlayed": 10,
-      "dotBalls": 5,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715790542865,
-    "commText": "<p> Avesh Khan to Bairstow, no run, on a length outside off, Bairstow steered to backward point by Bairstow </p>",
-    "overs": 4.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 7,
-      "ballsPlayed": 9,
-      "dotBalls": 5,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9781,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715790538203,
-    "commText": "<p><b>Avesh Khan, right-arm fast medium, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 7,
-      "ballsPlayed": 8,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715790462584,
-    "commText": "<p> Sandeep Sharma to Rossouw, <b>FOUR</b>, flicked away! This was pitched up by the bowler and Rossouw flicks it over square leg for four runs </p>",
-    "overs": 4,
+    "timestamp": 1715794414062,
+    "commText": "<p> Avesh Khan to Ashutosh Sharma, <b>FOUR</b>, slower bouncer over the head, Ashutosh reaches out and ramps it over the keeper for a welcome boundary. Was a quiet over until this point </p>",
+    "ballNbr": 102,
+    "overs": 17,
     "events": [
       "OVER_BREAK",
       "FOUR"
     ],
     "batsmanStriker": {
-      "id": 2244,
-      "batRuns": 22,
-      "ballsPlayed": 12,
-      "dotBalls": 6,
-      "batFours": 5,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715790425932,
-    "commText": "<p> Sandeep Sharma to Rossouw, no run, shimmies down the wicket, squeezes this ball back to the bowler </p>",
-    "overs": 3.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2244,
-      "batRuns": 18,
-      "ballsPlayed": 11,
-      "dotBalls": 6,
-      "batFours": 4,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715790395804,
-    "commText": "<p> Sandeep Sharma to Rossouw, <b>FOUR</b>, backs away and pulls this short ball through wide long-on for four more. Punishing both the new ball bowlers is Rossouw </p>",
-    "overs": 3.4,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 2244,
-      "batRuns": 18,
-      "ballsPlayed": 10,
-      "dotBalls": 5,
-      "batFours": 4,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715790338387,
-    "commText": "<p> Sandeep Sharma to Bairstow, 1 run, low full toss outside off, Bairstow gets an inside edge on to the pads. They take a single </p>",
-    "overs": 3.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
+      "id": 13497,
       "batRuns": 7,
-      "ballsPlayed": 8,
-      "dotBalls": 4,
+      "ballsPlayed": 5,
+      "dotBalls": 1,
       "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 1.3,
+      "id": 9781,
+      "bowlOvers": 3,
       "bowlMaidens": 0,
-      "bowlRuns": 8,
+      "bowlRuns": 13,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715794508695,
+    "commText": "<p><b>Sandeep Sharma [3.0-0-18-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10420,
+      "batRuns": 48,
+      "ballsPlayed": 36,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715790295783,
-    "commText": "<p> Sandeep Sharma to Bairstow, no run, slower back of a length delivery on off, Bairstow rocks back, punches it to cover </p>",
-    "overs": 3.2,
+    "timestamp": 1715794522050,
+    "commText": "<p> Sandeep Sharma to Sam Curran, 1 run, full and wide, Curran drives firmly but it's only a single to sweeper cover </p>",
+    "ballNbr": 103,
+    "overs": 17.1,
     "events": [],
     "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 6,
-      "ballsPlayed": 7,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
+      "id": 10420,
+      "batRuns": 49,
+      "ballsPlayed": 37,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 1
     },
     "bowlerStriker": {
       "id": 8356,
-      "bowlOvers": 1.2,
+      "bowlOvers": 3.1,
       "bowlMaidens": 0,
-      "bowlRuns": 7,
+      "bowlRuns": 19,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715790266651,
-    "commText": "<p> Sandeep Sharma to Bairstow, no run, back of a length around off, Bairstow knocks it back to Sandeep Sharma </p>",
-    "overs": 3.1,
+    "timestamp": 1715794560978,
+    "commText": "<p> Sandeep Sharma to Ashutosh Sharma, 1 run, length ball on middle, Ashutosh shuffles across and nudges it to short midwicket </p>",
+    "ballNbr": 104,
+    "overs": 17.2,
     "events": [],
     "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 6,
+      "id": 13497,
+      "batRuns": 8,
       "ballsPlayed": 6,
-      "dotBalls": 3,
+      "dotBalls": 1,
       "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
       "id": 8356,
-      "bowlOvers": 1.1,
+      "bowlOvers": 3.2,
       "bowlMaidens": 0,
-      "bowlRuns": 7,
+      "bowlRuns": 20,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715790204441,
-    "commText": "<p> Boult to Rossouw, no run, short and wide outside off, Rossouw attempts a cut, gets beaten as the ball shapes away </p>",
-    "overs": 3,
+    "timestamp": 1715794598644,
+    "commText": "<p> Sandeep Sharma to Sam Curran, 1 run, slower short ball outside off, Curran pulls it to long-on for a single and brings up <b>fifty</b>. Muted celebration from him </p>",
+    "ballNbr": 105,
+    "overs": 17.3,
     "events": [
-      "OVER_BREAK"
+      "FIFTY"
     ],
     "batsmanStriker": {
-      "id": 2244,
-      "batRuns": 14,
-      "ballsPlayed": 9,
-      "dotBalls": 5,
-      "batFours": 3,
-      "batSixes": 0
+      "id": 10420,
+      "batRuns": 50,
+      "ballsPlayed": 38,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 2,
+      "id": 8356,
+      "bowlOvers": 3.3,
       "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 1,
+      "bowlRuns": 21,
+      "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715790159164,
-    "commText": "<p> Boult to Rossouw, <b>FOUR</b>, Rossouw dealing in boundaries. Advances down the wicket and heaves the back of a length delivery over square leg. Continues to attack the bowlers. Boult under pressure </p>",
-    "overs": 2.5,
-    "events": [
-      "FOUR"
-    ],
+    "timestamp": 1715794631433,
+    "commText": "<p> Sandeep Sharma to Ashutosh Sharma, no run, yorker on leg stump, Ashutosh squeezes it out </p>",
+    "ballNbr": 106,
+    "overs": 17.4,
+    "events": [],
     "batsmanStriker": {
-      "id": 2244,
-      "batRuns": 14,
+      "id": 13497,
+      "batRuns": 8,
+      "ballsPlayed": 7,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715794668694,
+    "commText": "<p> Sandeep Sharma to Ashutosh Sharma, 1 run, very full on off as he goes for another yorker. Ashutosh can't get under it and drives to long-off for a single </p>",
+    "ballNbr": 107,
+    "overs": 17.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13497,
+      "batRuns": 9,
       "ballsPlayed": 8,
-      "dotBalls": 4,
-      "batFours": 3,
+      "dotBalls": 2,
+      "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 1.5,
+      "id": 8356,
+      "bowlOvers": 3.5,
       "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 1,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715790126381,
-    "commText": "<p> Boult to Rossouw, <b>FOUR</b>, <b>short and punished!</b> Rocks back and hammers the pull against this short ball, manages mid-wicket and that's four more for Rossouw </p>",
-    "overs": 2.4,
+    "timestamp": 1715794716056,
+    "commText": "<p> Sandeep Sharma to Sam Curran, <b>SIX</b>, last ball of the over is short, and it disappears for six to turn the balance heavily in favour of Kings. Curran climbs into it and nails the pull over square leg </p>",
+    "ballNbr": 108,
+    "overs": 18,
     "events": [
-      "FOUR"
+      "OVER_BREAK",
+      "SIX"
     ],
     "batsmanStriker": {
-      "id": 2244,
+      "id": 10420,
+      "batRuns": 56,
+      "ballsPlayed": 39,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 8356,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715794801689,
+    "commText": "<p> Avesh Khan to Ashutosh Sharma, 1 run, <b>sliced in the air</b> as he's beaten for pace, but it lands safely. Back of a length just outside off, he looks to slap it away but the ball skids through and he's late on it, slicing it in front of deep third </p>",
+    "ballNbr": 109,
+    "overs": 18.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13497,
       "batRuns": 10,
-      "ballsPlayed": 7,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715790074561,
-    "commText": "<p> Boult to Bairstow, 1 run, yorker length ball on off, Bairstow squeezes it next to the stumps and takes a single </p>",
-    "overs": 2.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 6,
-      "ballsPlayed": 5,
+      "ballsPlayed": 9,
       "dotBalls": 2,
       "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 1.3,
+      "id": 9781,
+      "bowlOvers": 3.1,
       "bowlMaidens": 0,
-      "bowlRuns": 11,
-      "bowlWickets": 1,
+      "bowlRuns": 14,
+      "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715790027009,
-    "commText": "<p> Boult to Bairstow, <b>FOUR</b>, stand and deliver. Boult goes for and Bairstow stands tall to spank it over mid-on. No need to run for those </p>",
-    "overs": 2.2,
+    "timestamp": 1715794854040,
+    "commText": "<p> Avesh Khan to Sam Curran, <b>SIX</b>, emphatically pulled into the crowd! Back of a length on off, 137kph, and Curran picks the bones out of it. Wasn't all that short but it doesn't matter </p>",
+    "ballNbr": 110,
+    "overs": 18.2,
     "events": [
-      "FOUR"
+      "SIX"
     ],
     "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 5,
-      "ballsPlayed": 4,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
+      "id": 10420,
+      "batRuns": 62,
+      "ballsPlayed": 40,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 3
     },
     "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 1.2,
+      "id": 9781,
+      "bowlOvers": 3.2,
       "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 1,
+      "bowlRuns": 20,
+      "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715789985572,
-    "commText": "<p> Boult to Bairstow, no run, on a length around off, Bairstow knocks it firmly to cover </p>",
-    "overs": 2.1,
+    "timestamp": 1715794914050,
+    "commText": "<p> Avesh Khan to Sam Curran, 1 run, low full toss on off, Curran knocks it to long-on </p>",
+    "ballNbr": 111,
+    "overs": 18.3,
     "events": [],
     "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 1,
-      "ballsPlayed": 3,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
+      "id": 10420,
+      "batRuns": 63,
+      "ballsPlayed": 41,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 3
     },
     "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 1.1,
+      "id": 9781,
+      "bowlOvers": 3.3,
       "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 1,
+      "bowlRuns": 21,
+      "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715789911230,
-    "commText": "<p><b>Trent Boult in the first over in IPL 2024</b> \\nOvers: 13 \\nWickets: 6 \\nAvg: 10.33 \\nSR: 13 \\nER: 4.77 \\nNo other bowler has picked more than three wickets in the first over this season.</p>",
+    "timestamp": 1715794964600,
+    "commText": "<p> Avesh Khan to Ashutosh Sharma, <b>SIX</b>, absolutely hammered by Ashutosh! Fuller than a length on middle, he clears the front leg and smokes it over wide long-on. Goes into the second or third tier. Scores level </p>",
+    "ballNbr": 112,
+    "overs": 18.4,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 13497,
+      "batRuns": 16,
+      "ballsPlayed": 10,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715795009756,
+    "commText": "<p>Avesh Khan to Ashutosh Sharma, 1 run, short ball over the right shoulder, Ashutosh looks to pull and mistimes it behind square for a single. That is all the Kings need to seal victory here in Guwahati as the <b>Royals slip to their fourth consecutive defeat</b></p>",
+    "ballNbr": 113,
+    "overs": 18.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13497,
+      "batRuns": 17,
+      "ballsPlayed": 11,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9781,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715795093266,
+    "commText": "<p><b>23:14 Local Time, 17:44 GMT, 23:14 IST:</b> Another blow for Royals in their quest to seal a place in the top two. They might've made it to the playoffs but their form has completely gone downhill in the last couple of weeks with this being their fourth consecutive defeat. Punjab Kings, meanwhile, notch up another win on the road. Most of their success this season has come away from home and again today they put on a superb performance to come up trumps. Restricting the Royals to 144 was an excellent effort, even as the pitch was on the slower side. However, the chase wasn't straightforward. In fact, they seemed to be in big trouble at 48/4, but a superb knock from captain Sam Curran led the way as he struck an unbeaten 63 to guide his team to victory with some help from Ashutosh Sharma towards the end. Stay tuned, we'll have the presentations shortly.</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -3158,244 +3566,9 @@
     }
   },
   {
-    "timestamp": 1715789911220,
-    "commText": "<p> Sandeep Sharma to Rossouw, no run, pitched up by Sandeep Sharma as Rossouw flicks it to the man at mid-wicket </p>",
-    "overs": 2,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 2244,
-      "batRuns": 6,
-      "ballsPlayed": 6,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715789870742,
-    "commText": "<p> Sandeep Sharma to Rossouw, <b>FOUR</b>, <b>in the air but safe.</b> Rossouw advances down the wicket and chips it past the fielder at cover, just manages to beat his dive </p>",
-    "overs": 1.5,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 2244,
-      "batRuns": 6,
-      "ballsPlayed": 5,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715789844829,
-    "commText": "<p> Sandeep Sharma to Rossouw, 2 runs, shapes back into the batter who heaves this through mid-wicket for a couple of runs </p>",
-    "overs": 1.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2244,
-      "batRuns": 2,
-      "ballsPlayed": 4,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715789800101,
-    "commText": "<p> Sandeep Sharma to Rossouw, no run, short of a length around off, Rossouw defends it towards mid-off </p>",
-    "overs": 1.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2244,
-      "batRuns": 0,
-      "ballsPlayed": 3,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715789757278,
-    "commText": "<p> Sandeep Sharma to Bairstow, 1 run, another sharp inswinger, around middle and leg, Bairstow clips it towards the on-side for a single </p>",
-    "overs": 1.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 1,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715789721231,
-    "commText": "<p> Sandeep Sharma to Bairstow, no run, on a lenth around off, swings in sharply as Bairstow defends it </p>",
-    "overs": 1.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8356,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715789678085,
-    "commText": "<p><b>Sandeep Sharma, right-arm fast medium, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 6507,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715789616430,
-    "commText": "<p> Boult to Rossouw, no run, short of a length outside off, shaping away from Rossouw. He attempts a square cut, gets beaten on the outside edge. A lovely first over by Boult comes to an end </p>",
-    "overs": 1,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 2244,
-      "batRuns": 0,
-      "ballsPlayed": 2,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715789575508,
-    "commText": "<p> Boult to Rossouw, no run, on a length around off, Rossouw defends it from within the crease </p>",
-    "overs": 0.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2244,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715789571126,
-    "commText": "<p><b>Rilee Rossouw, left handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2244,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715789468198,
-    "commText": "<p>A slip in place for Rossouw</p>",
+    "timestamp": 1715795093277,
+    "commText": "<p><b>Sanju Samson:</b> We needed a few more runs. I think we were 10-15 runs short. It was a 160 kind of a wicket. We would have easily got more than 160 (had we played better), that's where we lost the game. Would have been nice to have one more bowling option. I am getting used to five quality bowlers. We have to sit back and accept that we are going through failures, have lost four games on the trot. Got to find out what's not working out for us as a team. Somebody needs to step up, we have so many match-winners in the team. This is the time we need to show character. We need to score more runs. We thought 160-170 would have been a good score. We are not used to playing on such wickets this season where 200-plus totals are getting scored easily. We had to play smart cricket and build those partnerships today. Hopefully the result goes in our way (in the upcoming games.)</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -3417,33 +3590,9 @@
     }
   },
   {
-    "timestamp": 1715789465198,
-    "commText": "<p>Boult to Prabhsimran, <b>out</b> Caught by Chahal!! Boult strikes in the first over like he does most of the times. On the shorter side around off, Prabhsimran looks to swing it away and the top edge flies towards short third man. Chahal back pedals and takes a reverse cup catch. In fact, it was a nervous catch by Yuzi as he was tremling a bit before taking it! <b>Prabhsimran c Chahal b Boult 6(4) [4s-1]</b></p>",
-    "overs": 0.4,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 14254,
-      "batRuns": 6,
-      "ballsPlayed": 4,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715789464162,
-    "commText": "<p> Boult to Prabhsimran, <b>THATS OUT!!</b> Caught!! </p>",
+    "timestamp": 1715795741699,
+    "commText": "<p><b>Jitesh Sharma:</b> (On the pitch) Didn\u2019t feel like I would even get to bat today, but glad I got a chance and feeling a bit relieved after today\u2019s performance. Happy with my contribution towards the win, happy to be middling it a bit better today. I felt it was about intent, the wicket was on the slower side but if you played with a positive attitude, there were runs to be had. (On not keeping wickets) Jonny is going for the World Cup now, so he wanted to keep in this game. I\u2019ll take over the gloves again next game. But my fielding isn\u2019t that bad. (On overseas players leaving) This will be a challenge for the domestic players, our think tank has identified a few players and it will be a good challenge for those boys to play against Hyderabad.</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -3465,69 +3614,22 @@
     }
   },
   {
-    "timestamp": 1715789403873,
-    "commText": "<p> Boult to Prabhsimran, <b>FOUR</b>, first boundary of the run chase. Prabhsimran shimmies down the wicket and bludgeons it straight past Boult for a rollicking four </p>",
-    "overs": 0.3,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 14254,
-      "batRuns": 6,
-      "ballsPlayed": 3,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715789396263,
-    "commText": "<p> Boult to Prabhsimran, 2 runs, on a length around off, Prabhsimran gets squared up due to the swing as the outside edge rolls past short third man. Chahal chases it all the way and stops it with a slide </p>",
-    "overs": 0.2,
+    "timestamp": 1715795741709,
+    "commText": "<p><b>50-plus score & 2 wickets in an IPL match as captain</b> \\n91 & 2/25 - Sourav Ganguly (KKR) vs Deccan Chargers, Hyderabad, 2008 \\n50 & 3/22 - Yuvraj Singh (PBKS) vs RCB, Durban, 2009 \\n66* & 4/29 - Yuvraj Singh (PWI) vs DC, Mumbai DYP, 2011 \\n54 & 4/17 - JP Duminy (DC) vs SRH, Visakhapatnam, 2015 \\n63* & 2/24 - Sam Curran (PBKS) vs RR, Guwahati, 2024 \\n \\n<b>Ashutosh Sharma vs Avesh Khan in the IPL</b> \\nRuns: 32 \\nBalls: 13 \\nDismissals: 0 \\nSR: 246.2 \\n4s/6s: 1/3 \\n \\n<b>Most consecutive defeats for RR in the IPL</b> \\n5 - 2009-10 \\n4 - 2011 \\n4 - 2012 \\n4 - 2020 \\n4 - 2018/19 \\n4 - 2024</p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 14254,
-      "batRuns": 2,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715789327444,
-    "commText": "<p> Boult to Prabhsimran, no run, short of a length around off, shapes back in a touch as Prabhsimran knocks it down the pitch </p>",
-    "overs": 0.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14254,
+      "id": 0,
       "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8117,
-      "bowlOvers": 0.1,
+      "id": 0,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
       "bowlWickets": 0,
@@ -3536,8 +3638,57 @@
     }
   },
   {
-    "timestamp": 1715789301750,
-    "commText": "<p><b>Prabhsimran and Bairstow are at the crease. Prabhsimran is on strike. Boult will open the attack</b></p>",
+    "timestamp": 1715795741719,
+    "commText": "<p><b>STAT:</b> For the first time ever, KKR will finish first on the points table.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715796215900,
+    "commText": "<p><b>Curran, PBKS captain and POTM:</b> We bowled really well as a group. Message was that we had a lot of pride to play for. Ellis was absolutely amazing in his first game of the season. Probably should've played him earlier. When I went in, Jonny said it was quite tough. It was holding a little bit. Didn't need to take too much risk. Knew on a ground like this, we just needed a couple of sixes. Me and Jonny are leaving tomorrow. Obviously nice. Have thoroughly enjoyed the season, have enjoyed captaining. Atmosphere around the group has been really good. Excited about the World Cup. Hindsight is a wonderful thing. We had so many close games. Feel like the team is close to something. Who knows what the future holds. Loads of positives. The chase in Kolkata. The way Shashank Singh has come into the team is amazing. Ashutosh as well. Harshal and Arshdeep have bowled well.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715796415808,
+    "commText": "<p>There's a lot to be concerned about for the Royals heading into the playoffs. Their form has deserted them and a top-two finish is no longer in their hands as SRH will probably jump over them if they win their remaining matches. That's all we have for now. Hope you enjoyed our coverage. This is Sagar Chawla signing off on behalf of Siva, Saurabh Shankar and Nikhil Jadhav. Goodbye!</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

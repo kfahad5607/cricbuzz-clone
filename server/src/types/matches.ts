@@ -1,28 +1,8 @@
 import * as z from "zod";
-import {
-  MATCH_FORMATS_VALUES,
-  MATCH_RESULT_TYPES_VALUES,
-  MATCH_STATES,
-  MATCH_STATES_VALUES,
-  MATCH_TYPES_VALUES,
-  TOSS_DECISIONS_VALUES,
-} from "../helpers/constants";
+import { MATCH_FORMATS_VALUES, MATCH_TYPES_VALUES } from "../helpers/constants";
 import { MatchSquadPlayer } from "./players";
 import { Series } from "./series";
 import { Team } from "./teams";
-
-export const MatchResults = z.object({
-  resultType: z.enum(MATCH_RESULT_TYPES_VALUES).optional(),
-  winByInnings: z.boolean(),
-  winByRuns: z.boolean(),
-  winningMargin: z.coerce.number().positive().optional(),
-  winningTeamId: z.coerce.number().positive().optional(),
-});
-
-export const MatchTossResults = z.object({
-  tossWinnerId: z.coerce.number().positive().optional(),
-  decision: z.enum(TOSS_DECISIONS_VALUES).optional(),
-});
 
 export const Match = z.object({
   description: z
@@ -40,10 +20,7 @@ export const Match = z.object({
   series: z.coerce.number().positive(),
   venue: z.coerce.number().positive(),
   startTime: z.coerce.date(),
-  state: z.enum(MATCH_STATES_VALUES).default(MATCH_STATES.PREVIEW),
-  status: z.string().max(200).default("").optional(),
-  tossResults: MatchTossResults.default({}),
-  results: MatchResults.default({ winByInnings: false, winByRuns: false }),
+  completeTime: z.coerce.date(),
 });
 
 export const MatchOptional = Match.partial();
@@ -63,8 +40,6 @@ export const MatchSquad = z.object({
 });
 
 // infered types
-export type MatchResults = z.infer<typeof MatchResults>;
-export type MatchTossResults = z.infer<typeof MatchTossResults>;
 export type Match = z.infer<typeof Match>;
 export type MatchOptional = z.infer<typeof MatchOptional>;
 export type MatchWithId = z.infer<typeof MatchWithId>;
@@ -82,7 +57,7 @@ export type MatchSquad<PlayerT extends MatchSquadPlayer> = {
 
 export type MatchCard = Pick<
   MatchWithId,
-  "id" | "description" | "matchFormat" | "status" | "startTime"
+  "id" | "description" | "matchFormat" | "startTime" | "completeTime"
 > & {
   series: Pick<Series, "title">;
   homeTeam: Pick<Team, "name" | "shortName">;

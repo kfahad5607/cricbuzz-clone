@@ -1,7 +1,8 @@
 [
   {
-    "timestamp": 1714413349458,
-    "commText": "<p>KKR turned up on a pitch that aided their spinners while DC got it wrong maybe even from the toss. Was definitely not a bat-first pitch. On that note we sign off from here. Do come back here for all your cricketing fix. Until next time, take care, be well, sleep tight and cuddle well. Bye.</p>",
+    "timestamp": 1714406753628,
+    "commText": "<p><b>Philip Salt and Narine are at the crease. Philip Salt is on strike. Williams will open the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -23,8 +24,83 @@
     }
   },
   {
-    "timestamp": 1714413343731,
-    "commText": "<p><b>Varun Chakaravarthy | Player of the Match:</b> It was holding a bit, as the game progressed in the 2nd innings, it was turning as well. [on him having a good match-up against Pant] Nothing like that, when the catch was dropped, I felt that was a better ball, and the one I got him, on other grounds, it would\u00a0have gone for a six. Cricket has become a game of fine margins. I liked Tristan Stubbs' wicket. I planned to bowl the legspinner to him and it worked out. [on conversations between him and Narine] Silence. When something doesn't work\u00a0for me, he is always there. In the last game after conceding so many runs, it was a tough pill to take but the whole team motivated us. Abhishek Nayar and even Shahrukh Khan came and spoke to me, definitely motivated us. [on the cheerleaders dancing] They should start dancing only for the sixers and not for the fours.</p>",
+    "timestamp": 1714406766115,
+    "commText": "<p> Williams to Philip Salt, <b>FOUR</b>, poor first delivery. Too straight - on middle and leg, Salt stays inside the line and helps it along the way to fine leg </p>",
+    "ballNbr": 1,
+    "overs": 0.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 4,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714406802724,
+    "commText": "<p> Williams to Philip Salt, 1 run, fraction short and around off, Salt swings across the line and gets an inside edge past the stumps. Pant moves to his left and parries it to short fine where Khaleel fumbles </p>",
+    "ballNbr": 2,
+    "overs": 0.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 5,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714406888107,
+    "commText": "<p> Williams to Narine, <b>no ball</b>, leg byes, 1 run, swining into Narine and he's cramped for room, the ball strikes him on the back pad outside leg-stump and rolls to the leg-side. Williams has overstepped.. </p>",
+    "ballNbr": 3,
+    "overs": 0.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714406891107,
+    "commText": "<p><b>Free-hit</b> coming up</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -46,246 +122,1657 @@
     }
   },
   {
-    "timestamp": 1714413233850,
-    "commText": "<p><b>Shreyas Iyer | KKR captain:</b> [on if the pitch would play this way?] Not at all. Considering the last few matches, 200 was a par score. After the powerplay the pitch started helping the spinners, was tacky. We got a fair idea as to how it played and to tackle the tackiness. Narine still does not attend those meetings but Salt is always there, gives\u00a0us his inputs and it's pure bliss to see him coming up and doing all this. [if Narine attends meetings] He doesn't. I would not recommend him to come either. [on Chakaravarthy] he has not been at his best the last few games. He has been assessing the wicket and has been giving us inputs. The way he turned up today was simply brilliant. [qualification] We have always been looking at it, even from the first game. The mindset is to qualify as early as possible. Just work on our work ethic and processes, don't want to look at the points table.</p>",
-    "overs": 0,
+    "timestamp": 1714406910987,
+    "commText": "<p> Williams to Philip Salt, <b>wide</b>, sprays a full toss down leg, Salt gets inside the line and can't connect, wide called and the free-hit stays </p>",
+    "ballNbr": 3,
+    "overs": 0.3,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
+      "id": 10479,
+      "batRuns": 5,
+      "ballsPlayed": 2,
       "dotBalls": 0,
-      "batFours": 0,
+      "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
+      "id": 8531,
+      "bowlOvers": 0.2,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
+      "bowlRuns": 7,
       "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
+      "bowlWides": 1,
+      "bowlNoBalls": 1
     }
   },
   {
-    "timestamp": 1714411728504,
-    "commText": "<p>Stats by I0$</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411728494,
-    "commText": "<p><b>KKR vs DC at Eden Gardens</b> \\nMats: 10 \\nWon: 8 \\nLost: 2</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411728484,
-    "commText": "<p><b>Most runs at Eden Gardens in an IPL season</b> \\n344 - Phil Salt in 2024 (6 inns)* \\n331 - Sourav Ganguly in 2010 (7 inns) \\n311 - Andre Russell in 2019 (7 inns) \\n303 - Chris Lynn in 2018 (9 inns)</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411728479,
-    "commText": "<p><b>Salt:</b> Good to be contributing. Have had a good run in the home games. Nice that we've had continuity in conditions. Coming from the last game, to put in a performance like that from the bowlers, really pleased for them. It is high risk at times, but it's about putting the odds in your favour. Have to keep backing yourself and make those right options. It does (good keeping performance helps confidence?). Very helpful keeping first and see what it's doing. Gives an advantage in assessing conditions first. Sunil keeps things simple but he's a deep thinker about the game. We've dovetailed nicely in this competition. If one of us gets going, we feed the strike to them.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411728474,
-    "commText": "<p><b>Rishabh Pant | DC captain:</b> It was a good option to bat first. As a batting unit we didn't bat well, 150 was below par with how things were going. But we learn from our mistakes, every day is not your day. The way we were going as a team was nice (winning 4 out of their\u00a0last 5 games), but these games come along in T20s. I think\u00a0anything\u00a0around\u00a0180-210 would have been a good score, we didn't give our bowlers enough runs to defend.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411728463,
-    "commText": "<p><b>22:59 Local Time, 17:29 GMT, 22:59 IST:</b> Easy chase for KKR. At the toss, Pant said the pitch was dry and that it would help the spinners. It sure did but DC did not help themselves as they made just 153 and the two spinners they had had not much to defend. Salt at the top ensured that the game was half-complete with his blistering assault. That innings set KKR on the way and despite DC pulling things back with three wickets, the two Iyers took their side home. KKR could have won earlier but the Iyers batted sensibly after three losses and did not give DC any chance to come back into the game. A totally different game this to the one that PBKS chased down 261 here last time but DC threw away their wickets and a bit more discipline shown could have given them more runs. KKR stay on 2nd with this win. Stay tuned for the presentation...</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411725463,
-    "commText": "<p> Rasikh Salam to Venkatesh Iyer, <b>SIX</b>, Venkatesh Iyer finishes it off. Full and in the slot on the stumps, Venkatesh Iyer gets forward to loft and it's all the way over deep extra-cover. KKR win by 7 wickets </p>",
-    "overs": 16.3,
+    "timestamp": 1714406950334,
+    "commText": "<p> Williams to Philip Salt, <b>SIX</b>, Salt makes the most of the free-hit. Turning into a poor start for Williams, already 14 runs and just 3 balls bowled. This is a length ball right in the slot, Salt heaves across the line and sends it sailing over deep mid-wicket </p>",
+    "ballNbr": 3,
+    "overs": 0.3,
     "events": [
       "SIX"
     ],
     "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 26,
-      "ballsPlayed": 23,
-      "dotBalls": 10,
+      "id": 10479,
+      "batRuns": 11,
+      "ballsPlayed": 3,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714407003765,
+    "commText": "<p> Williams to Philip Salt, <b>FOUR</b>, I0$ back of a length around off, Salt punches it on the rise and places it in front of square on the off-side. This shot indicates that the ball is coming on nicely.. </p>",
+    "ballNbr": 4,
+    "overs": 0.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 15,
+      "ballsPlayed": 4,
+      "dotBalls": 0,
       "batFours": 2,
       "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 14274,
-      "bowlOvers": 2.3,
+      "id": 8531,
+      "bowlOvers": 0.4,
       "bowlMaidens": 0,
-      "bowlRuns": 30,
+      "bowlRuns": 17,
       "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
+      "bowlWides": 1,
+      "bowlNoBalls": 1
     }
   },
   {
-    "timestamp": 1714411690222,
-    "commText": "<p> Rasikh Salam to Venkatesh Iyer, no run, dug in short and it loops over Venkatesh Iyer who lets it go, not called a wide </p>",
-    "overs": 16.2,
+    "timestamp": 1714407054079,
+    "commText": "<p> Williams to Philip Salt, leg byes, 1 run, I0$ nips back in, Salt misses the tuck and the ball deflects off the pad </p>",
+    "ballNbr": 5,
+    "overs": 0.5,
     "events": [],
     "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 20,
-      "ballsPlayed": 22,
-      "dotBalls": 10,
+      "id": 10479,
+      "batRuns": 15,
+      "ballsPlayed": 5,
+      "dotBalls": 1,
       "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714407087211,
+    "commText": "<p> Williams to Narine, <b>FOUR</b>, ordinary first over and KKR are off to a flier. Short ball and Narine is rushed on the pull, but he still goes through with the shot and pulls it behind square on the leg-side, one bounce and over the ropes </p>",
+    "ballNbr": 6,
+    "overs": 1,
+    "events": [
+      "OVER_BREAK",
+      "FOUR",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 4,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 14274,
-      "bowlOvers": 2.2,
+      "id": 8531,
+      "bowlOvers": 1,
       "bowlMaidens": 0,
-      "bowlRuns": 24,
+      "bowlRuns": 21,
       "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
+      "bowlWides": 1,
+      "bowlNoBalls": 1
     }
   },
   {
-    "timestamp": 1714411641945,
-    "commText": "<p> Rasikh Salam to Venkatesh Iyer, no run, back of the hand slower ball and Venkatesh Iyer gives the charge to push to cover </p>",
-    "overs": 16.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 20,
-      "ballsPlayed": 21,
-      "dotBalls": 9,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14274,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411638603,
-    "commText": "<p><b>Rasikh Dar Salam [2.0-0-24-0] is back into the attack</b></p>",
+    "timestamp": 1714407166922,
+    "commText": "<p><b>Khaleel Ahmed, left-arm fast medium, comes into the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 20,
+      "id": 10479,
+      "batRuns": 15,
+      "ballsPlayed": 5,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714407166932,
+    "commText": "<p><b>Most runs scored in the first over of an IPL innings</b> \\n27 - RCB vs MI, Chennai, 2011 \\n26 - RR vs KKR, Eden Gardens, 2023 \\n26 - KKR vs MI, Eden Gardens, 2013 \\n25 - DC vs KKR, Ahmedabad , 2021 \\n23 - RCB vs RR, Bengaluru, 2019 \\n23 - KKR vs DC, Eden Gardens, 2024*</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714407193286,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, 2 runs, <b>dropped!</b> Williams has had a shocking 7 balls. He's given 23 in the first over and now has dropped Salt. I0$ full pitcher and Salt miscues the loft straight up, Williams settles under it near mid-on and goes reverse cup, but the ball bursts through and hits him on the shoulder before going down </p>",
+    "ballNbr": 7,
+    "overs": 1.1,
+    "events": [
+      "DROPPED"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 17,
+      "ballsPlayed": 6,
+      "dotBalls": 1,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714407237875,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, good length ball around off, Salt defends to the off-side </p>",
+    "ballNbr": 8,
+    "overs": 1.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 17,
+      "ballsPlayed": 7,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714407372159,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, now strays down leg, Salt stands his ground and misses the glance. Wide called and <b>Pant decides to review,</b> UltraEdge shows a spike as ball is next to the pad. Decision overturned </p>",
+    "ballNbr": 9,
+    "overs": 1.3,
+    "events": [
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 17,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714407393438,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, I0$ full pitcher outside off, Salt creams the drive straight to cover-point </p>",
+    "ballNbr": 10,
+    "overs": 1.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 17,
+      "ballsPlayed": 9,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714407431051,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, 2 runs, I0$ on a length and angled across, Salt tucks it through the vacant mid-wicket region and picks up a brace </p>",
+    "ballNbr": 11,
+    "overs": 1.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 19,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714407467048,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, I0$ very full and in the blockhole, Salt digs it out to cover and Khaleel walks up to have a word </p>",
+    "ballNbr": 12,
+    "overs": 2,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 19,
+      "ballsPlayed": 11,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714407544211,
+    "commText": "<p> Williams to Narine, no run, full and cramping Narine, he clears his front leg and attempts the flick, the ball sneaks between his legs </p>",
+    "ballNbr": 13,
+    "overs": 2.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 4,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714407579968,
+    "commText": "<p> Williams to Narine, 1 run, I0$ fullish delivery, Narine mistimes the drive in front of mid-off and quickly crosses over </p>",
+    "ballNbr": 14,
+    "overs": 2.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 5,
+      "ballsPlayed": 4,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714407626754,
+    "commText": "<p> Williams to Philip Salt, no run, I0$ slower short of length delivery, Salt is through the pull early and gets an inside edge onto the body </p>",
+    "ballNbr": 15,
+    "overs": 2.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 19,
+      "ballsPlayed": 12,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714407667128,
+    "commText": "<p> Williams to Philip Salt, <b>SIX</b>, very small margins for error. Williams goes full and Salt pumps him down the ground, minimal followthrough of the bat and it is all hands as the ball soars over long-off </p>",
+    "ballNbr": 16,
+    "overs": 2.4,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 25,
+      "ballsPlayed": 13,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714407705657,
+    "commText": "<p> Williams to Philip Salt, <b>SIX</b>, back to back sixes. Williams feeling the heat. The length is again full but the line is on middle, Salt clears his front leg and uses his bottom hand to whip it over cow corner. <b>94-meter six..</b> </p>",
+    "ballNbr": 17,
+    "overs": 2.5,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 31,
+      "ballsPlayed": 14,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 34,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714407760301,
+    "commText": "<p> Williams to Philip Salt, no run, I0$ fraction short and Salt swings across the line, but the ball does not bounce and sneaks past the under-edge, not far from the stumps either and bounces on the way to Pant </p>",
+    "ballNbr": 18,
+    "overs": 3,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 31,
+      "ballsPlayed": 15,
+      "dotBalls": 7,
+      "batFours": 2,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 34,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714407763301,
+    "commText": "<p>Khaleel from round the wicket</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714407854055,
+    "commText": "<p> Khaleel Ahmed to Narine, no run, I0$ bouncer on the stumps, Narine ducks and allows it to sail over </p>",
+    "ballNbr": 19,
+    "overs": 3.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 5,
+      "ballsPlayed": 5,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714407889558,
+    "commText": "<p> Khaleel Ahmed to Narine, 1 run, high full toss below the waist, Narine swings it away to deep backward square </p>",
+    "ballNbr": 20,
+    "overs": 3.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 6,
+      "ballsPlayed": 6,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714407938766,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, I0$ back of a length on middle, Salt knocks it to cover-point </p>",
+    "ballNbr": 21,
+    "overs": 3.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 31,
+      "ballsPlayed": 16,
+      "dotBalls": 8,
+      "batFours": 2,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714407973176,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, I0$ slower ball outside off, Salt is through the loft early and does not connect </p>",
+    "ballNbr": 22,
+    "overs": 3.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 31,
+      "ballsPlayed": 17,
+      "dotBalls": 9,
+      "batFours": 2,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408021981,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, <b>FOUR</b>, I0$ off-pace delivery and had a bit of width, Salt flays it uppishly and just manages to get it over the extra cover region. Once it is passed the infield there's no chance chasing that </p>",
+    "ballNbr": 23,
+    "overs": 3.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 35,
+      "ballsPlayed": 18,
+      "dotBalls": 9,
+      "batFours": 3,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408062348,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, 1 run, another high full toss that Khaleel gets away with, Salt heaves and gets it high on the bat, the ball rolls to mid-wicket </p>",
+    "ballNbr": 24,
+    "overs": 4,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 36,
+      "ballsPlayed": 19,
+      "dotBalls": 9,
+      "batFours": 3,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408154329,
+    "commText": "<p><b>Rasikh Dar Salam, right-arm medium, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 36,
+      "ballsPlayed": 19,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408158134,
+    "commText": "<p> Rasikh Salam to Philip Salt, 1 run, I0$ good length ball around off, Salt makes room and punches it towards cover </p>",
+    "ballNbr": 25,
+    "overs": 4.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 37,
       "ballsPlayed": 20,
+      "dotBalls": 9,
+      "batFours": 3,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 14274,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408161134,
+    "commText": "<p>Pant was standing up to the stumps for Salt. He's gone back for Narine</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408188963,
+    "commText": "<p> Rasikh Salam to Narine, <b>FOUR</b>, slower ball but Narine had the room outside off, he throws his bat and toe-ends it over extra cover </p>",
+    "ballNbr": 26,
+    "overs": 4.2,
+    "events": [
+      "TEAM_FIFTY",
+      "PARTNERSHIP",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 10,
+      "ballsPlayed": 7,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14274,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408191963,
+    "commText": "<p>Rasikh goes round the wicket</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408237857,
+    "commText": "<p> Rasikh Salam to Narine, <b>FOUR</b>, high full toss outside off, Narine stays leg-side and slashes it square on the off-side. Another delivery that was very close to being a no-ball </p>",
+    "ballNbr": 27,
+    "overs": 4.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 14,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14274,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408269082,
+    "commText": "<p> Rasikh Salam to Narine, 1 run, slower short of length delivery, Narine mistimes the pull wide of mid-wicket and long-on tiidies up </p>",
+    "ballNbr": 28,
+    "overs": 4.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 15,
+      "ballsPlayed": 9,
+      "dotBalls": 3,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14274,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408272082,
+    "commText": "<p>Pant back up to the stumps</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408307455,
+    "commText": "<p> Rasikh Salam to Philip Salt, <b>FOUR</b>, back of a length outside off, Salt stands tall and thumps it on the rise over extra cover. This is top class hitting. Pant walks up and puts his hand over Rasikh's shoulder, has a word with him </p>",
+    "ballNbr": 29,
+    "overs": 4.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 41,
+      "ballsPlayed": 21,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 14274,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408359767,
+    "commText": "<p> Rasikh Salam to Philip Salt, 1 run, angled into the pads, Salt flicks to deep mid-wicket and retains strike </p>",
+    "ballNbr": 30,
+    "overs": 5,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 42,
+      "ballsPlayed": 22,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 14274,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408359777,
+    "commText": "<p>This is the fifth 50+ opening partnership between Salt & Narine is the most by a pair this seaosn. One more than by Rohit & Ishan KIshan.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408423785,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, I0$ good length ball on leg, Salt defends to cover </p>",
+    "ballNbr": 31,
+    "overs": 5.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 42,
+      "ballsPlayed": 23,
+      "dotBalls": 10,
+      "batFours": 4,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408463512,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, <b>FOUR</b>, this was not a bad delivery. I0$ short of length delivery and very little width on offer, Salt stays leg-side and flays it in front of square, luckily he finds the gap in a packed off-side field and the ball races away </p>",
+    "ballNbr": 32,
+    "overs": 5.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 46,
+      "ballsPlayed": 24,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408500228,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, off-pace delivery and Salt is early into the pull, toe-ends it to mid-wicket </p>",
+    "ballNbr": 33,
+    "overs": 5.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 46,
+      "ballsPlayed": 25,
+      "dotBalls": 11,
+      "batFours": 5,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408509228,
+    "commText": "<p>Goes round the wicket</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408554265,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, <b>SIX</b>, <b>fifty for Salt.</b> He just loves batting at Eden Gardens. Even gets a thumbs up from owner SRK. He was dropped early on and has made Delhi pay for it. Full pitcher around off, right in the arc for Salt and he pumps it over long-off. Pumps his chest, points a finger at someone and then raises his bat to celebrate the landmark. The ball has been lost and the fourth umpire has come out with a box balls </p>",
+    "ballNbr": 34,
+    "overs": 5.4,
+    "events": [
+      "FIFTY",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 52,
+      "ballsPlayed": 26,
+      "dotBalls": 11,
+      "batFours": 5,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408557265,
+    "commText": "<p>Back over the wicket</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408707013,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, <b>FOUR</b>, the boundaries continue flow.. Full toss around off, Salt slices it with an open face and the ball races away behind square on the off-side </p>",
+    "ballNbr": 35,
+    "overs": 5.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 56,
+      "ballsPlayed": 27,
+      "dotBalls": 11,
+      "batFours": 6,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408744234,
+    "commText": "<p> Khaleel Ahmed to Philip Salt, <b>FOUR</b> .. and again. Khaleel sticks to the low full toss ploy outside off, Salt opens the bat face intentionally and slices it right between backward point and short third </p>",
+    "ballNbr": 36,
+    "overs": 6,
+    "events": [
+      "OVER_BREAK",
+      "FOUR",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 60,
+      "ballsPlayed": 28,
+      "dotBalls": 11,
+      "batFours": 7,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408747234,
+    "commText": "<p><b>Timeout!</b> The new ball and powerplay were imporant and this is why, these two have taken the game away in that first six overs. Williams dropped Salt when he was on 15 and the Englishman has made the most of it. The asking rate is below run-a-ball and this should be a cake walk from here.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408747244,
+    "commText": "<p><b>Powerplay summary</b> \\n-- Salt gets KKR off to a flier \\n-- Williams goes for 23 in the first over \\n-- Salt dropped on 15 by Williams (1.1) \\n-- Rasikh goes for 15 in his first over \\n-- 50-run opening stand comes up in just 4.2 overs \\n-- Salt brings up fifty off 26 balls \\n-- Khaleel goes for 18 in his third over</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408968983,
+    "commText": "<p><b>Axar Patel, Left arm orthodox, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 15,
+      "ballsPlayed": 9,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408984060,
+    "commText": "<p> Axar to Narine, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 15,
+      "ballsPlayed": 9,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408987334,
+    "commText": "<p> Axar to Narine, <b>out</b> Caught by Fraser-McGurk!! A wicket first ball for Axar. A flat length delivery and Narine swung that straight to the fielder at deep mid-wicket. Simple chance and Fraser-McGurk makes no mistake. Can this spark something for DC? <b>Narine c Fraser-McGurk b Axar 15(10) [4s-3]</b> </p>",
+    "ballNbr": 37,
+    "overs": 6.1,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 15,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714408987344,
+    "commText": "<p><b>Most runs by a KKR batter within powerplay</b> \\n60 - Phil Salt vs DC, Kolkata, today* \\n54 - Sunil Narine vs RCB, Bengaluru, 2017 \\n52 - Sunil Narine vs DC, Vizag, 2024 \\n51 - Brendon McCullum vs CSK, Centurion, 2009</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409068349,
+    "commText": "<p><b>Rinku Singh, left handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10952,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409103920,
+    "commText": "<p> Axar to Rinku Singh, 3 runs, sloppy from Fraser-McGurk and he puts his hand up to apologise to Pant. Turned to him at deep square leg and a wild throw wide of Pant turns 2 into 3 </p>",
+    "ballNbr": 38,
+    "overs": 6.2,
+    "events": [
+      "OTHER"
+    ],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 3,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409103930,
+    "commText": "<p><b>Most sixes in powerplay in IPL 2024</b> \\n19 - Abhishek Sharma \\n16 - Travis Head \\n16 - Jake Fraser-McGurk \\n15 - Phil Salt*</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409140393,
+    "commText": "<p> Axar to Philip Salt, no run, fullish outside off, Philip Salt chops the drive to point </p>",
+    "ballNbr": 39,
+    "overs": 6.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 60,
+      "ballsPlayed": 29,
+      "dotBalls": 12,
+      "batFours": 7,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409160434,
+    "commText": "<p> Axar to Philip Salt, 1 run, slower and tossed up outside off, Philip Salt gets forward to drive to sweeper cover </p>",
+    "ballNbr": 40,
+    "overs": 6.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 61,
+      "ballsPlayed": 30,
+      "dotBalls": 12,
+      "batFours": 7,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409177607,
+    "commText": "<p> Axar to Rinku Singh, no run, flat back of a length outside off, cut to backward point </p>",
+    "ballNbr": 41,
+    "overs": 6.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 3,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409201418,
+    "commText": "<p> Axar to Rinku Singh, 1 run, tossed up full outside off, tap and run in front of cover </p>",
+    "ballNbr": 42,
+    "overs": 7,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 4,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409267687,
+    "commText": "<p><b>Kuldeep Yadav, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 4,
+      "ballsPlayed": 3,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409272219,
+    "commText": "<p> Kuldeep Yadav to Rinku Singh, no run, tossed up full on off, Rinku Singh gets forward to drive to cover </p>",
+    "ballNbr": 43,
+    "overs": 7.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 4,
+      "ballsPlayed": 4,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409275219,
+    "commText": "<p>A slip in.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409296258,
+    "commText": "<p> Kuldeep Yadav to Rinku Singh, <b>FOUR</b>, Rasikh running back from short third man has a made a meal of that dive, dives early and it runs away past him, slower and flatter outside off, Rinku Singh glides that wide of slip </p>",
+    "ballNbr": 44,
+    "overs": 7.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 8,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409325834,
+    "commText": "<p> Kuldeep Yadav to Rinku Singh, no run, fullish on middle, Rinku Singh gets forward to defend </p>",
+    "ballNbr": 45,
+    "overs": 7.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 8,
+      "ballsPlayed": 6,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409345315,
+    "commText": "<p> Kuldeep Yadav to Rinku Singh, 1 run, tossed up outside the leg-stump, Rinku Singh gets forward to loft to long-on </p>",
+    "ballNbr": 46,
+    "overs": 7.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 9,
+      "ballsPlayed": 7,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409382496,
+    "commText": "<p> Kuldeep Yadav to Philip Salt, <b>SIX</b>, in his arc and Philip Salt has slogswept this over deep mid-wicket, the longer side but no problems, tossed up and Philip Salt did not hold back </p>",
+    "ballNbr": 47,
+    "overs": 7.5,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 67,
+      "ballsPlayed": 31,
+      "dotBalls": 12,
+      "batFours": 7,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 11,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409419689,
+    "commText": "<p> Kuldeep Yadav to Philip Salt, 1 run, fullish on the stumps, Philip Salt gets forward to drive to long-off </p>",
+    "ballNbr": 48,
+    "overs": 8,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 68,
+      "ballsPlayed": 32,
+      "dotBalls": 12,
+      "batFours": 7,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409474052,
+    "commText": "<p> Axar to Philip Salt, <b>THATS OUT!!</b> Bowled!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 68,
+      "ballsPlayed": 32,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
@@ -301,8 +1788,1430 @@
     }
   },
   {
+    "timestamp": 1714409477705,
+    "commText": "<p> Axar to Philip Salt, <b>out</b> Bowled!! End of Philip Salt. The flat arm-ball, curves back in from a length, Philip Salt is beaten for pace as he looks to slash, the off-stump is down. Salt though has done his job. <b>Philip Salt b Axar 68(33) [4s-7 6s-5]</b> </p>",
+    "ballNbr": 49,
+    "overs": 8.1,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 68,
+      "ballsPlayed": 33,
+      "dotBalls": 13,
+      "batFours": 7,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409532269,
+    "commText": "<p><b>Shreyas Iyer, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409577914,
+    "commText": "<p> Axar to Shreyas Iyer, 1 run, tossed up full outside off, Shreyas Iyer gets forward to drive wide of cover </p>",
+    "ballNbr": 50,
+    "overs": 8.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 1,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409606798,
+    "commText": "<p> Axar to Rinku Singh, 1 run, fullish and Rinku Singh wants to come forward, the ball straightens, tapped in front of point </p>",
+    "ballNbr": 51,
+    "overs": 8.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 10,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409625276,
+    "commText": "<p> Axar to Shreyas Iyer, no run, back of a length outside off, cut to backward point </p>",
+    "ballNbr": 52,
+    "overs": 8.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409648161,
+    "commText": "<p> Axar to Shreyas Iyer, 1 run, good length on off, Shreyas Iyer punches wide of cover </p>",
+    "ballNbr": 53,
+    "overs": 8.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 2,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409674054,
+    "commText": "<p> Axar to Rinku Singh, 1 run, slower good length on the stumps, Rinku Singh goes on the back foot to work to deep square leg </p>",
+    "ballNbr": 54,
+    "overs": 9,
+    "events": [
+      "OVER_BREAK",
+      "TEAM_HUNDRED"
+    ],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 11,
+      "ballsPlayed": 9,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409749995,
+    "commText": "<p><b>Lizaad Williams [2.0-0-34-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 11,
+      "ballsPlayed": 9,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409756489,
+    "commText": "<p> Williams to Rinku Singh, no run, fullish on the stumps, Rinku Singh gets forward to defend </p>",
+    "ballNbr": 55,
+    "overs": 9.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 11,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 34,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714409813304,
+    "commText": "<p> Williams to Rinku Singh, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 11,
+      "ballsPlayed": 10,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409817802,
+    "commText": "<p> Williams to Rinku Singh, <b>out</b> Caught by Kuldeep Yadav!! Good catch at third man. A short of length delivery that hurries Rinku Singh on the pull, he did not know much about it, the top-edge carries to third man and Kuldeep judges it well. Three quick wickets and suddenly DC can hope for something of a miracle. <b>Rinku Singh c Kuldeep Yadav b Williams 11(11) [4s-1]</b> </p>",
+    "ballNbr": 56,
+    "overs": 9.2,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 11,
+      "ballsPlayed": 11,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 34,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714409817812,
+    "commText": "<p><b>Phil Salt at Eden Gardens in IPL</b> \\nInns: 6 \\nRuns: 344 \\nAvg: 68.8 \\nSR: 186.95 \\nHS: 89* \\n50+: 4</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409862498,
+    "commText": "<p><b>Venkatesh Iyer, left handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714409916713,
+    "commText": "<p> Williams to Venkatesh Iyer, no run, short of length on the stumps, Venkatesh Iyer defends to backward point </p>",
+    "ballNbr": 57,
+    "overs": 9.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 34,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714409962961,
+    "commText": "<p> Williams to Venkatesh Iyer, 1 run, back of a length and Venkatesh Iyer gives the charge to pull to long-on </p>",
+    "ballNbr": 58,
+    "overs": 9.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 35,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714410019222,
+    "commText": "<p> Williams to Shreyas Iyer, 1 run, fullish and down leg, flicked to deep square leg </p>",
+    "ballNbr": 59,
+    "overs": 9.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 3,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 36,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714410067150,
+    "commText": "<p> Williams to Venkatesh Iyer, 2 runs, <b>just over the leaping mid-wicket who is on the edge of the ring.</b> Full on the pads, Venkatesh Iyer flicks and just eludes the fielder </p>",
+    "ballNbr": 60,
+    "overs": 10,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 3,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8531,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 38,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 1
+    }
+  },
+  {
+    "timestamp": 1714410121122,
+    "commText": "<p> Axar to Shreyas Iyer, no run, Shreyas Iyer shuffles across and then comes back in line, this curves back in, pushed back </p>",
+    "ballNbr": 61,
+    "overs": 10.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 3,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410136770,
+    "commText": "<p> Axar to Shreyas Iyer, <b>FOUR</b>, again shuffles across and this is a premeditated shot, scoops the length delivery from middle to the fine-leg fence </p>",
+    "ballNbr": 62,
+    "overs": 10.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 7,
+      "ballsPlayed": 6,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410176907,
+    "commText": "<p> Axar to Shreyas Iyer, <b>FOUR</b>, sloppy from short third man, slower and on off, Shreyas Iyer guides it wide of backward point and Kuldeep runs and parries it on the dive, the ball has enough legs to cross the fence </p>",
+    "ballNbr": 63,
+    "overs": 10.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 11,
+      "ballsPlayed": 7,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410215090,
+    "commText": "<p> Axar to Shreyas Iyer, no run, length delivery outside off, cut to point </p>",
+    "ballNbr": 64,
+    "overs": 10.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 11,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410226974,
+    "commText": "<p> Axar to Shreyas Iyer, no run, fired in on a back of a length and angling into the pads, Shreyas Iyer fails to nudge it away, missing leg-stump </p>",
+    "ballNbr": 65,
+    "overs": 10.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 11,
+      "ballsPlayed": 9,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410246585,
+    "commText": "<p> Axar to Shreyas Iyer, 1 run, tossed up on off, drop and run in front of cover </p>",
+    "ballNbr": 66,
+    "overs": 11,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 12,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410312043,
+    "commText": "<p><b>Kuldeep Yadav [1.0-0-12-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 12,
+      "ballsPlayed": 10,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410317718,
+    "commText": "<p> Kuldeep Yadav to Shreyas Iyer, 1 run, flat and down leg, nudged wide of short fine-leg </p>",
+    "ballNbr": 67,
+    "overs": 11.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 13,
+      "ballsPlayed": 11,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410353261,
+    "commText": "<p>Kuldeep Yadav to Venkatesh Iyer, <b>FOUR</b>, the googly but short on the stumps, Venkatesh Iyer pulls hard to the deep square leg region and into the gap</p>",
+    "ballNbr": 68,
+    "overs": 11.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 7,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410379446,
+    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, no run, sharp turn on this, Venkatesh Iyer sinks low to sweep and misses, turns past the edge and a good take by Pant </p>",
+    "ballNbr": 69,
+    "overs": 11.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 7,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410406267,
+    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, no run, very full on the stumps, Venkatesh Iyer did well to get some bat on the reverse-sweep, otherwise he was right in front, rolls to slip </p>",
+    "ballNbr": 70,
+    "overs": 11.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 7,
+      "ballsPlayed": 6,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410429752,
+    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, 1 run, sharp turn on this orthodox chinaman, Venkatesh Iyer goes on the back foot to tap to point and takes a quick single </p>",
+    "ballNbr": 71,
+    "overs": 11.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 8,
+      "ballsPlayed": 7,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410475398,
+    "commText": "<p> Kuldeep Yadav to Shreyas Iyer, 2 runs, good length on middle, tucked wide of deep mid-wicket and the call was for two, easy two it is </p>",
+    "ballNbr": 72,
+    "overs": 12,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 15,
+      "ballsPlayed": 12,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410571724,
+    "commText": "<p><b>Rasikh Dar Salam [1.0-0-15-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 8,
+      "ballsPlayed": 7,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410581440,
+    "commText": "<p> Rasikh Salam to Venkatesh Iyer, <b>FOUR</b>, Williams with a clanger on the fence, full on the stumps, driven and he gets there at sweeper cover but allows the ball to go through his hands </p>",
+    "ballNbr": 73,
+    "overs": 12.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 12,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14274,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410613195,
+    "commText": "<p> Rasikh Salam to Venkatesh Iyer, 1 run, good length and angling into leg-stump, tucked to deep mid-wicket </p>",
+    "ballNbr": 74,
+    "overs": 12.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 13,
+      "ballsPlayed": 9,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14274,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410670495,
+    "commText": "<p> Rasikh Salam to Shreyas Iyer, 2 runs, fullish and a hint of nip back in, Shreyas Iyer gets forward to push, thick inside-edge runs wide of deep backward square leg </p>",
+    "ballNbr": 75,
+    "overs": 12.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 17,
+      "ballsPlayed": 13,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14274,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410711946,
+    "commText": "<p> Rasikh Salam to Shreyas Iyer, no run, fullish outside off, dabbed towards gully </p>",
+    "ballNbr": 76,
+    "overs": 12.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 17,
+      "ballsPlayed": 14,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14274,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410752493,
+    "commText": "<p> Rasikh Salam to Shreyas Iyer, 1 run, good yorker on off, dug out wide of cover </p>",
+    "ballNbr": 77,
+    "overs": 12.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 18,
+      "ballsPlayed": 15,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14274,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410787236,
+    "commText": "<p> Rasikh Salam to Venkatesh Iyer, 1 run, fullish on off, driven to long-off </p>",
+    "ballNbr": 78,
+    "overs": 13,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 14,
+      "ballsPlayed": 10,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14274,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410790236,
+    "commText": "<p><b>Timeout.</b> KKR coasting to a win. Should get there early if they try to finish it off.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714410978148,
+    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, no run, good length on leg-stump, tucked to mid-wicket </p>",
+    "ballNbr": 79,
+    "overs": 13.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 14,
+      "ballsPlayed": 11,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411017816,
+    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, 2 runs, tossed up full on the stumps, Venkatesh Iyer flicks to fine-leg for a couple </p>",
+    "ballNbr": 80,
+    "overs": 13.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 16,
+      "ballsPlayed": 12,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411044522,
+    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, no run, ripper of a chinaman. Turns square from a good length as Kuldeep Yadav tosses it up outside off, Venkatesh Iyer pushes and is beaten </p>",
+    "ballNbr": 81,
+    "overs": 13.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 16,
+      "ballsPlayed": 13,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411070393,
+    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, 1 run, pushed through on a good length on middle, Venkatesh Iyer nudges to long-on </p>",
+    "ballNbr": 82,
+    "overs": 13.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 17,
+      "ballsPlayed": 14,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411098278,
+    "commText": "<p> Kuldeep Yadav to Shreyas Iyer, no run, tossed up on middle and leg, pushed back </p>",
+    "ballNbr": 83,
+    "overs": 13.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 18,
+      "ballsPlayed": 16,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411125310,
+    "commText": "<p> Kuldeep Yadav to Shreyas Iyer, 1 run, the googly on a length outside off, cut wide of backward point </p>",
+    "ballNbr": 84,
+    "overs": 14,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 19,
+      "ballsPlayed": 17,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411190604,
+    "commText": "<p><b>Axar Patel [3.0-0-18-2] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 19,
+      "ballsPlayed": 17,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411196895,
+    "commText": "<p> Axar to Shreyas Iyer, <b>FOUR</b>, superb cut. A flat length delivery outside off, Shreyas Iyer cuts so late and splits backward point and short third man </p>",
+    "ballNbr": 85,
+    "overs": 14.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 23,
+      "ballsPlayed": 18,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411224002,
+    "commText": "<p> Axar to Shreyas Iyer, 1 run, tossed up full on off, drop and run in front of backward point </p>",
+    "ballNbr": 86,
+    "overs": 14.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 24,
+      "ballsPlayed": 19,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411246261,
+    "commText": "<p> Axar to Venkatesh Iyer, 1 run, flat good length outside off, whipped to long-on </p>",
+    "ballNbr": 87,
+    "overs": 14.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 18,
+      "ballsPlayed": 15,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411269066,
+    "commText": "<p> Axar to Shreyas Iyer, 1 run, slower and good length on middle, turned to the short fine-leg region </p>",
+    "ballNbr": 88,
+    "overs": 14.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 25,
+      "ballsPlayed": 20,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411284610,
+    "commText": "<p> Axar to Venkatesh Iyer, no run, tossed up outside off, Venkatesh Iyer comes down the track to drive it back </p>",
+    "ballNbr": 89,
+    "overs": 14.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 18,
+      "ballsPlayed": 16,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411299574,
+    "commText": "<p> Axar to Venkatesh Iyer, no run, flat back of a length just outside off, Venkatesh Iyer inside-edges the pull on to pad, rolls to short third man </p>",
+    "ballNbr": 90,
+    "overs": 15,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 18,
+      "ballsPlayed": 17,
+      "dotBalls": 7,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8808,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411299584,
+    "commText": "<p><b>Highlights (Overs 7-15)</b> -- 62/3, 6.8rpo \\n-- Axar bowls a lovely spell but it's too late \\n-- He strikes with the first ball after powerplay \\n-- Narine holes out to deep midwicket for 15 (6.1) \\n-- Salt is cleaned up by Axar for 68 (8.1) \\n-- Williams gets rid of Rinku for 11 (9.2) \\n-- Axar finishes with 2/25</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411357138,
+    "commText": "<p> Kuldeep Yadav to Shreyas Iyer, 1 run, tossed up full on off, Shreyas Iyer hangs back and drives to the backward point region for one </p>",
+    "ballNbr": 91,
+    "overs": 15.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 26,
+      "ballsPlayed": 21,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411393971,
+    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, 1 run, Williams does well but the ball drops in front of him at deep square leg. He dived but did not get there, tossed up outside off, Venkatesh Iyer top-edges the sweep </p>",
+    "ballNbr": 92,
+    "overs": 15.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 19,
+      "ballsPlayed": 18,
+      "dotBalls": 7,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 26,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411419048,
+    "commText": "<p> Kuldeep Yadav to Shreyas Iyer, 1 run, the googly on a good length on off, drop and run in front of cover </p>",
+    "ballNbr": 93,
+    "overs": 15.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 27,
+      "ballsPlayed": 22,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411422048,
+    "commText": "<p>Run-out check sent upstairs. Not out.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411475636,
+    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, no run, Venkatesh Iyer outside-edges the drive to backward point and runs, no single there and he gets back in with a full-length dive </p>",
+    "ballNbr": 94,
+    "overs": 15.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 19,
+      "ballsPlayed": 19,
+      "dotBalls": 8,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714411531578,
+    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, 1 run, tossed up outside the leg-stump, swept to deep backward square leg </p>",
+    "ballNbr": 95,
+    "overs": 15.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 20,
+      "ballsPlayed": 20,
+      "dotBalls": 8,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8292,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
     "timestamp": 1714411575171,
     "commText": "<p> Kuldeep Yadav to Shreyas Iyer, <b>SIX</b>, good reverse-sweep, sees Kuldeep Yadav come round the wicket and the flighted delivery is outside off, he turns around and sends it all the way over deep backward point </p>",
+    "ballNbr": 96,
     "overs": 16,
     "events": [
       "OVER_BREAK",
@@ -329,66 +3238,21 @@
     }
   },
   {
-    "timestamp": 1714411531578,
-    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, 1 run, tossed up outside the leg-stump, swept to deep backward square leg </p>",
-    "overs": 15.5,
+    "timestamp": 1714411638603,
+    "commText": "<p><b>Rasikh Dar Salam [2.0-0-24-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
       "id": 10917,
       "batRuns": 20,
       "ballsPlayed": 20,
-      "dotBalls": 8,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 3.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411475636,
-    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, no run, Venkatesh Iyer outside-edges the drive to backward point and runs, no single there and he gets back in with a full-length dive </p>",
-    "overs": 15.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 19,
-      "ballsPlayed": 19,
-      "dotBalls": 8,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 3.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 27,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411422048,
-    "commText": "<p>Run-out check sent upstairs. Not out.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 0,
+      "id": 8292,
       "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
@@ -398,444 +3262,23 @@
     }
   },
   {
-    "timestamp": 1714411419048,
-    "commText": "<p> Kuldeep Yadav to Shreyas Iyer, 1 run, the googly on a good length on off, drop and run in front of cover </p>",
-    "overs": 15.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 27,
-      "ballsPlayed": 22,
-      "dotBalls": 6,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 3.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 27,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411393971,
-    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, 1 run, Williams does well but the ball drops in front of him at deep square leg. He dived but did not get there, tossed up outside off, Venkatesh Iyer top-edges the sweep </p>",
-    "overs": 15.2,
+    "timestamp": 1714411641945,
+    "commText": "<p> Rasikh Salam to Venkatesh Iyer, no run, back of the hand slower ball and Venkatesh Iyer gives the charge to push to cover </p>",
+    "ballNbr": 97,
+    "overs": 16.1,
     "events": [],
     "batsmanStriker": {
       "id": 10917,
-      "batRuns": 19,
-      "ballsPlayed": 18,
-      "dotBalls": 7,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 3.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 26,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411357138,
-    "commText": "<p> Kuldeep Yadav to Shreyas Iyer, 1 run, tossed up full on off, Shreyas Iyer hangs back and drives to the backward point region for one </p>",
-    "overs": 15.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 26,
+      "batRuns": 20,
       "ballsPlayed": 21,
-      "dotBalls": 6,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 3.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 25,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411299584,
-    "commText": "<p><b>Highlights (Overs 7-15)</b> -- 62/3, 6.8rpo \\n-- Axar bowls a lovely spell but it's too late \\n-- He strikes with the first ball after powerplay \\n-- Narine holes out to deep midwicket for 15 (6.1) \\n-- Salt is cleaned up by Axar for 68 (8.1) \\n-- Williams gets rid of Rinku for 11 (9.2) \\n-- Axar finishes with 2/25</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411299574,
-    "commText": "<p> Axar to Venkatesh Iyer, no run, flat back of a length just outside off, Venkatesh Iyer inside-edges the pull on to pad, rolls to short third man </p>",
-    "overs": 15,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 18,
-      "ballsPlayed": 17,
-      "dotBalls": 7,
+      "dotBalls": 9,
       "batFours": 2,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 4,
-      "bowlMaidens": 0,
-      "bowlRuns": 25,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411284610,
-    "commText": "<p> Axar to Venkatesh Iyer, no run, tossed up outside off, Venkatesh Iyer comes down the track to drive it back </p>",
-    "overs": 14.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 18,
-      "ballsPlayed": 16,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 3.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 25,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411269066,
-    "commText": "<p> Axar to Shreyas Iyer, 1 run, slower and good length on middle, turned to the short fine-leg region </p>",
-    "overs": 14.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 25,
-      "ballsPlayed": 20,
-      "dotBalls": 6,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 3.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 25,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411246261,
-    "commText": "<p> Axar to Venkatesh Iyer, 1 run, flat good length outside off, whipped to long-on </p>",
-    "overs": 14.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 18,
-      "ballsPlayed": 15,
-      "dotBalls": 5,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 3.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411224002,
-    "commText": "<p> Axar to Shreyas Iyer, 1 run, tossed up full on off, drop and run in front of backward point </p>",
-    "overs": 14.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 24,
-      "ballsPlayed": 19,
-      "dotBalls": 6,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 3.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411196895,
-    "commText": "<p> Axar to Shreyas Iyer, <b>FOUR</b>, superb cut. A flat length delivery outside off, Shreyas Iyer cuts so late and splits backward point and short third man </p>",
-    "overs": 14.1,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 23,
-      "ballsPlayed": 18,
-      "dotBalls": 6,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 3.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411190604,
-    "commText": "<p><b>Axar Patel [3.0-0-18-2] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 19,
-      "ballsPlayed": 17,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411125310,
-    "commText": "<p> Kuldeep Yadav to Shreyas Iyer, 1 run, the googly on a length outside off, cut wide of backward point </p>",
-    "overs": 14,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 19,
-      "ballsPlayed": 17,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411098278,
-    "commText": "<p> Kuldeep Yadav to Shreyas Iyer, no run, tossed up on middle and leg, pushed back </p>",
-    "overs": 13.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 18,
-      "ballsPlayed": 16,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411070393,
-    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, 1 run, pushed through on a good length on middle, Venkatesh Iyer nudges to long-on </p>",
-    "overs": 13.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 17,
-      "ballsPlayed": 14,
-      "dotBalls": 5,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411044522,
-    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, no run, ripper of a chinaman. Turns square from a good length as Kuldeep Yadav tosses it up outside off, Venkatesh Iyer pushes and is beaten </p>",
-    "overs": 13.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 16,
-      "ballsPlayed": 13,
-      "dotBalls": 5,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714411017816,
-    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, 2 runs, tossed up full on the stumps, Venkatesh Iyer flicks to fine-leg for a couple </p>",
-    "overs": 13.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 16,
-      "ballsPlayed": 12,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410978148,
-    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, no run, good length on leg-stump, tucked to mid-wicket </p>",
-    "overs": 13.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 14,
-      "ballsPlayed": 11,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
+      "id": 14274,
       "bowlOvers": 2.1,
       "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410790236,
-    "commText": "<p><b>Timeout.</b> KKR coasting to a win. Should get there early if they try to finish it off.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410787236,
-    "commText": "<p> Rasikh Salam to Venkatesh Iyer, 1 run, fullish on off, driven to long-off </p>",
-    "overs": 13,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 14,
-      "ballsPlayed": 10,
-      "dotBalls": 3,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14274,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
       "bowlRuns": 24,
       "bowlWickets": 0,
       "bowlWides": 0,
@@ -843,1644 +3286,59 @@
     }
   },
   {
-    "timestamp": 1714410752493,
-    "commText": "<p> Rasikh Salam to Shreyas Iyer, 1 run, good yorker on off, dug out wide of cover </p>",
-    "overs": 12.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 18,
-      "ballsPlayed": 15,
-      "dotBalls": 5,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14274,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410711946,
-    "commText": "<p> Rasikh Salam to Shreyas Iyer, no run, fullish outside off, dabbed towards gully </p>",
-    "overs": 12.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 17,
-      "ballsPlayed": 14,
-      "dotBalls": 5,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14274,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410670495,
-    "commText": "<p> Rasikh Salam to Shreyas Iyer, 2 runs, fullish and a hint of nip back in, Shreyas Iyer gets forward to push, thick inside-edge runs wide of deep backward square leg </p>",
-    "overs": 12.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 17,
-      "ballsPlayed": 13,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14274,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410613195,
-    "commText": "<p> Rasikh Salam to Venkatesh Iyer, 1 run, good length and angling into leg-stump, tucked to deep mid-wicket </p>",
-    "overs": 12.2,
+    "timestamp": 1714411690222,
+    "commText": "<p> Rasikh Salam to Venkatesh Iyer, no run, dug in short and it loops over Venkatesh Iyer who lets it go, not called a wide </p>",
+    "ballNbr": 98,
+    "overs": 16.2,
     "events": [],
     "batsmanStriker": {
       "id": 10917,
-      "batRuns": 13,
-      "ballsPlayed": 9,
-      "dotBalls": 3,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14274,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410581440,
-    "commText": "<p> Rasikh Salam to Venkatesh Iyer, <b>FOUR</b>, Williams with a clanger on the fence, full on the stumps, driven and he gets there at sweeper cover but allows the ball to go through his hands </p>",
-    "overs": 12.1,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 12,
-      "ballsPlayed": 8,
-      "dotBalls": 3,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14274,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410571724,
-    "commText": "<p><b>Rasikh Dar Salam [1.0-0-15-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 8,
-      "ballsPlayed": 7,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410475398,
-    "commText": "<p> Kuldeep Yadav to Shreyas Iyer, 2 runs, good length on middle, tucked wide of deep mid-wicket and the call was for two, easy two it is </p>",
-    "overs": 12,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 15,
-      "ballsPlayed": 12,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410429752,
-    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, 1 run, sharp turn on this orthodox chinaman, Venkatesh Iyer goes on the back foot to tap to point and takes a quick single </p>",
-    "overs": 11.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 8,
-      "ballsPlayed": 7,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 18,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410406267,
-    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, no run, very full on the stumps, Venkatesh Iyer did well to get some bat on the reverse-sweep, otherwise he was right in front, rolls to slip </p>",
-    "overs": 11.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 7,
-      "ballsPlayed": 6,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410379446,
-    "commText": "<p> Kuldeep Yadav to Venkatesh Iyer, no run, sharp turn on this, Venkatesh Iyer sinks low to sweep and misses, turns past the edge and a good take by Pant </p>",
-    "overs": 11.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 7,
-      "ballsPlayed": 5,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410353261,
-    "commText": "<p>Kuldeep Yadav to Venkatesh Iyer, <b>FOUR</b>, the googly but short on the stumps, Venkatesh Iyer pulls hard to the deep square leg region and into the gap</p>",
-    "overs": 11.2,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 7,
-      "ballsPlayed": 4,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410317718,
-    "commText": "<p> Kuldeep Yadav to Shreyas Iyer, 1 run, flat and down leg, nudged wide of short fine-leg </p>",
-    "overs": 11.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 13,
-      "ballsPlayed": 11,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410312043,
-    "commText": "<p><b>Kuldeep Yadav [1.0-0-12-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 12,
-      "ballsPlayed": 10,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410246585,
-    "commText": "<p> Axar to Shreyas Iyer, 1 run, tossed up on off, drop and run in front of cover </p>",
-    "overs": 11,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 12,
-      "ballsPlayed": 10,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 18,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410226974,
-    "commText": "<p> Axar to Shreyas Iyer, no run, fired in on a back of a length and angling into the pads, Shreyas Iyer fails to nudge it away, missing leg-stump </p>",
-    "overs": 10.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 11,
-      "ballsPlayed": 9,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410215090,
-    "commText": "<p> Axar to Shreyas Iyer, no run, length delivery outside off, cut to point </p>",
-    "overs": 10.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 11,
-      "ballsPlayed": 8,
-      "dotBalls": 3,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410176907,
-    "commText": "<p> Axar to Shreyas Iyer, <b>FOUR</b>, sloppy from short third man, slower and on off, Shreyas Iyer guides it wide of backward point and Kuldeep runs and parries it on the dive, the ball has enough legs to cross the fence </p>",
-    "overs": 10.3,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 11,
-      "ballsPlayed": 7,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410136770,
-    "commText": "<p> Axar to Shreyas Iyer, <b>FOUR</b>, again shuffles across and this is a premeditated shot, scoops the length delivery from middle to the fine-leg fence </p>",
-    "overs": 10.2,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 7,
-      "ballsPlayed": 6,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410121122,
-    "commText": "<p> Axar to Shreyas Iyer, no run, Shreyas Iyer shuffles across and then comes back in line, this curves back in, pushed back </p>",
-    "overs": 10.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 3,
-      "ballsPlayed": 5,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714410067150,
-    "commText": "<p> Williams to Venkatesh Iyer, 2 runs, <b>just over the leaping mid-wicket who is on the edge of the ring.</b> Full on the pads, Venkatesh Iyer flicks and just eludes the fielder </p>",
-    "overs": 10,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 3,
-      "ballsPlayed": 3,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 38,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714410019222,
-    "commText": "<p> Williams to Shreyas Iyer, 1 run, fullish and down leg, flicked to deep square leg </p>",
-    "overs": 9.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 3,
-      "ballsPlayed": 4,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 36,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714409962961,
-    "commText": "<p> Williams to Venkatesh Iyer, 1 run, back of a length and Venkatesh Iyer gives the charge to pull to long-on </p>",
-    "overs": 9.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 1,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 35,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714409916713,
-    "commText": "<p> Williams to Venkatesh Iyer, no run, short of length on the stumps, Venkatesh Iyer defends to backward point </p>",
-    "overs": 9.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 34,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714409862498,
-    "commText": "<p><b>Venkatesh Iyer, left handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409817812,
-    "commText": "<p><b>Phil Salt at Eden Gardens in IPL</b> \\nInns: 6 \\nRuns: 344 \\nAvg: 68.8 \\nSR: 186.95 \\nHS: 89* \\n50+: 4</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409817802,
-    "commText": "<p> Williams to Rinku Singh, <b>out</b> Caught by Kuldeep Yadav!! Good catch at third man. A short of length delivery that hurries Rinku Singh on the pull, he did not know much about it, the top-edge carries to third man and Kuldeep judges it well. Three quick wickets and suddenly DC can hope for something of a miracle. <b>Rinku Singh c Kuldeep Yadav b Williams 11(11) [4s-1]</b> </p>",
-    "overs": 9.2,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 11,
-      "ballsPlayed": 11,
-      "dotBalls": 5,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 34,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714409813304,
-    "commText": "<p> Williams to Rinku Singh, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 11,
-      "ballsPlayed": 10,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409756489,
-    "commText": "<p> Williams to Rinku Singh, no run, fullish on the stumps, Rinku Singh gets forward to defend </p>",
-    "overs": 9.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 11,
-      "ballsPlayed": 10,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 34,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714409749995,
-    "commText": "<p><b>Lizaad Williams [2.0-0-34-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 11,
-      "ballsPlayed": 9,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409674054,
-    "commText": "<p> Axar to Rinku Singh, 1 run, slower good length on the stumps, Rinku Singh goes on the back foot to work to deep square leg </p>",
-    "overs": 9,
-    "events": [
-      "OVER_BREAK",
-      "TEAM_HUNDRED"
-    ],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 11,
-      "ballsPlayed": 9,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409648161,
-    "commText": "<p> Axar to Shreyas Iyer, 1 run, good length on off, Shreyas Iyer punches wide of cover </p>",
-    "overs": 8.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 2,
-      "ballsPlayed": 3,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409625276,
-    "commText": "<p> Axar to Shreyas Iyer, no run, back of a length outside off, cut to backward point </p>",
-    "overs": 8.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 1,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409606798,
-    "commText": "<p> Axar to Rinku Singh, 1 run, fullish and Rinku Singh wants to come forward, the ball straightens, tapped in front of point </p>",
-    "overs": 8.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 10,
-      "ballsPlayed": 8,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409577914,
-    "commText": "<p> Axar to Shreyas Iyer, 1 run, tossed up full outside off, Shreyas Iyer gets forward to drive wide of cover </p>",
-    "overs": 8.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 1,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409532269,
-    "commText": "<p><b>Shreyas Iyer, right handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409477705,
-    "commText": "<p> Axar to Philip Salt, <b>out</b> Bowled!! End of Philip Salt. The flat arm-ball, curves back in from a length, Philip Salt is beaten for pace as he looks to slash, the off-stump is down. Salt though has done his job. <b>Philip Salt b Axar 68(33) [4s-7 6s-5]</b> </p>",
-    "overs": 8.1,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 68,
-      "ballsPlayed": 33,
-      "dotBalls": 13,
-      "batFours": 7,
-      "batSixes": 5
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409474052,
-    "commText": "<p> Axar to Philip Salt, <b>THATS OUT!!</b> Bowled!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 68,
-      "ballsPlayed": 32,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409419689,
-    "commText": "<p> Kuldeep Yadav to Philip Salt, 1 run, fullish on the stumps, Philip Salt gets forward to drive to long-off </p>",
-    "overs": 8,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 68,
-      "ballsPlayed": 32,
-      "dotBalls": 12,
-      "batFours": 7,
-      "batSixes": 5
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409382496,
-    "commText": "<p> Kuldeep Yadav to Philip Salt, <b>SIX</b>, in his arc and Philip Salt has slogswept this over deep mid-wicket, the longer side but no problems, tossed up and Philip Salt did not hold back </p>",
-    "overs": 7.5,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 67,
-      "ballsPlayed": 31,
-      "dotBalls": 12,
-      "batFours": 7,
-      "batSixes": 5
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 11,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409345315,
-    "commText": "<p> Kuldeep Yadav to Rinku Singh, 1 run, tossed up outside the leg-stump, Rinku Singh gets forward to loft to long-on </p>",
-    "overs": 7.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 9,
-      "ballsPlayed": 7,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409325834,
-    "commText": "<p> Kuldeep Yadav to Rinku Singh, no run, fullish on middle, Rinku Singh gets forward to defend </p>",
-    "overs": 7.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 8,
-      "ballsPlayed": 6,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409296258,
-    "commText": "<p> Kuldeep Yadav to Rinku Singh, <b>FOUR</b>, Rasikh running back from short third man has a made a meal of that dive, dives early and it runs away past him, slower and flatter outside off, Rinku Singh glides that wide of slip </p>",
-    "overs": 7.2,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 8,
-      "ballsPlayed": 5,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409275219,
-    "commText": "<p>A slip in.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409272219,
-    "commText": "<p> Kuldeep Yadav to Rinku Singh, no run, tossed up full on off, Rinku Singh gets forward to drive to cover </p>",
-    "overs": 7.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 4,
-      "ballsPlayed": 4,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8292,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409267687,
-    "commText": "<p><b>Kuldeep Yadav, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 4,
-      "ballsPlayed": 3,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409201418,
-    "commText": "<p> Axar to Rinku Singh, 1 run, tossed up full outside off, tap and run in front of cover </p>",
-    "overs": 7,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 4,
-      "ballsPlayed": 3,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409177607,
-    "commText": "<p> Axar to Rinku Singh, no run, flat back of a length outside off, cut to backward point </p>",
-    "overs": 6.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 3,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409160434,
-    "commText": "<p> Axar to Philip Salt, 1 run, slower and tossed up outside off, Philip Salt gets forward to drive to sweeper cover </p>",
-    "overs": 6.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 61,
-      "ballsPlayed": 30,
-      "dotBalls": 12,
-      "batFours": 7,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409140393,
-    "commText": "<p> Axar to Philip Salt, no run, fullish outside off, Philip Salt chops the drive to point </p>",
-    "overs": 6.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 60,
-      "ballsPlayed": 29,
-      "dotBalls": 12,
-      "batFours": 7,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409103930,
-    "commText": "<p><b>Most sixes in powerplay in IPL 2024</b> \\n19 - Abhishek Sharma \\n16 - Travis Head \\n16 - Jake Fraser-McGurk \\n15 - Phil Salt*</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409103920,
-    "commText": "<p> Axar to Rinku Singh, 3 runs, sloppy from Fraser-McGurk and he puts his hand up to apologise to Pant. Turned to him at deep square leg and a wild throw wide of Pant turns 2 into 3 </p>",
-    "overs": 6.2,
-    "events": [
-      "OTHER"
-    ],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 3,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714409068349,
-    "commText": "<p><b>Rinku Singh, left handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408987344,
-    "commText": "<p><b>Most runs by a KKR batter within powerplay</b> \\n60 - Phil Salt vs DC, Kolkata, today* \\n54 - Sunil Narine vs RCB, Bengaluru, 2017 \\n52 - Sunil Narine vs DC, Vizag, 2024 \\n51 - Brendon McCullum vs CSK, Centurion, 2009</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408987334,
-    "commText": "<p> Axar to Narine, <b>out</b> Caught by Fraser-McGurk!! A wicket first ball for Axar. A flat length delivery and Narine swung that straight to the fielder at deep mid-wicket. Simple chance and Fraser-McGurk makes no mistake. Can this spark something for DC? <b>Narine c Fraser-McGurk b Axar 15(10) [4s-3]</b> </p>",
-    "overs": 6.1,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 15,
-      "ballsPlayed": 10,
-      "dotBalls": 4,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8808,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408984060,
-    "commText": "<p> Axar to Narine, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 15,
-      "ballsPlayed": 9,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408968983,
-    "commText": "<p><b>Axar Patel, Left arm orthodox, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 15,
-      "ballsPlayed": 9,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408747244,
-    "commText": "<p><b>Powerplay summary</b> \\n-- Salt gets KKR off to a flier \\n-- Williams goes for 23 in the first over \\n-- Salt dropped on 15 by Williams (1.1) \\n-- Rasikh goes for 15 in his first over \\n-- 50-run opening stand comes up in just 4.2 overs \\n-- Salt brings up fifty off 26 balls \\n-- Khaleel goes for 18 in his third over</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408747234,
-    "commText": "<p><b>Timeout!</b> The new ball and powerplay were imporant and this is why, these two have taken the game away in that first six overs. Williams dropped Salt when he was on 15 and the Englishman has made the most of it. The asking rate is below run-a-ball and this should be a cake walk from here.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408744234,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, <b>FOUR</b> .. and again. Khaleel sticks to the low full toss ploy outside off, Salt opens the bat face intentionally and slices it right between backward point and short third </p>",
-    "overs": 6,
-    "events": [
-      "OVER_BREAK",
-      "FOUR",
-      "HIGHSCORING_OVER"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 60,
-      "ballsPlayed": 28,
-      "dotBalls": 11,
-      "batFours": 7,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408707013,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, <b>FOUR</b>, the boundaries continue flow.. Full toss around off, Salt slices it with an open face and the ball races away behind square on the off-side </p>",
-    "overs": 5.5,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 56,
-      "ballsPlayed": 27,
-      "dotBalls": 11,
-      "batFours": 6,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408557265,
-    "commText": "<p>Back over the wicket</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408554265,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, <b>SIX</b>, <b>fifty for Salt.</b> He just loves batting at Eden Gardens. Even gets a thumbs up from owner SRK. He was dropped early on and has made Delhi pay for it. Full pitcher around off, right in the arc for Salt and he pumps it over long-off. Pumps his chest, points a finger at someone and then raises his bat to celebrate the landmark. The ball has been lost and the fourth umpire has come out with a box balls </p>",
-    "overs": 5.4,
-    "events": [
-      "FIFTY",
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 52,
-      "ballsPlayed": 26,
-      "dotBalls": 11,
-      "batFours": 5,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408509228,
-    "commText": "<p>Goes round the wicket</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408500228,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, off-pace delivery and Salt is early into the pull, toe-ends it to mid-wicket </p>",
-    "overs": 5.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 46,
-      "ballsPlayed": 25,
-      "dotBalls": 11,
-      "batFours": 5,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 14,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408463512,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, <b>FOUR</b>, this was not a bad delivery. I0$ short of length delivery and very little width on offer, Salt stays leg-side and flays it in front of square, luckily he finds the gap in a packed off-side field and the ball races away </p>",
-    "overs": 5.2,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 46,
-      "ballsPlayed": 24,
+      "batRuns": 20,
+      "ballsPlayed": 22,
       "dotBalls": 10,
-      "batFours": 5,
-      "batSixes": 3
+      "batFours": 2,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 10952,
+      "id": 14274,
       "bowlOvers": 2.2,
       "bowlMaidens": 0,
-      "bowlRuns": 14,
+      "bowlRuns": 24,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1714408423785,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, I0$ good length ball on leg, Salt defends to cover </p>",
-    "overs": 5.1,
-    "events": [],
+    "timestamp": 1714411725463,
+    "commText": "<p> Rasikh Salam to Venkatesh Iyer, <b>SIX</b>, Venkatesh Iyer finishes it off. Full and in the slot on the stumps, Venkatesh Iyer gets forward to loft and it's all the way over deep extra-cover. KKR win by 7 wickets </p>",
+    "ballNbr": 99,
+    "overs": 16.3,
+    "events": [
+      "SIX"
+    ],
     "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 42,
+      "id": 10917,
+      "batRuns": 26,
       "ballsPlayed": 23,
       "dotBalls": 10,
-      "batFours": 4,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408359777,
-    "commText": "<p>This is the fifth 50+ opening partnership between Salt & Narine is the most by a pair this seaosn. One more than by Rohit & Ishan KIshan.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408359767,
-    "commText": "<p> Rasikh Salam to Philip Salt, 1 run, angled into the pads, Salt flicks to deep mid-wicket and retains strike </p>",
-    "overs": 5,
-    "events": [
-      "OVER_BREAK",
-      "HIGHSCORING_OVER"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 42,
-      "ballsPlayed": 22,
-      "dotBalls": 9,
-      "batFours": 4,
-      "batSixes": 3
+      "batFours": 2,
+      "batSixes": 1
     },
     "bowlerStriker": {
       "id": 14274,
-      "bowlOvers": 1,
+      "bowlOvers": 2.3,
       "bowlMaidens": 0,
-      "bowlRuns": 15,
+      "bowlRuns": 30,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1714408307455,
-    "commText": "<p> Rasikh Salam to Philip Salt, <b>FOUR</b>, back of a length outside off, Salt stands tall and thumps it on the rise over extra cover. This is top class hitting. Pant walks up and puts his hand over Rasikh's shoulder, has a word with him </p>",
-    "overs": 4.5,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 41,
-      "ballsPlayed": 21,
-      "dotBalls": 9,
-      "batFours": 4,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 14274,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 14,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408272082,
-    "commText": "<p>Pant back up to the stumps</p>",
+    "timestamp": 1714411728463,
+    "commText": "<p><b>22:59 Local Time, 17:29 GMT, 22:59 IST:</b> Easy chase for KKR. At the toss, Pant said the pitch was dry and that it would help the spinners. It sure did but DC did not help themselves as they made just 153 and the two spinners they had had not much to defend. Salt at the top ensured that the game was half-complete with his blistering assault. That innings set KKR on the way and despite DC pulling things back with three wickets, the two Iyers took their side home. KKR could have won earlier but the Iyers batted sensibly after three losses and did not give DC any chance to come back into the game. A totally different game this to the one that PBKS chased down 261 here last time but DC threw away their wickets and a bit more discipline shown could have given them more runs. KKR stay on 2nd with this win. Stay tuned for the presentation...</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -2502,56 +3360,9 @@
     }
   },
   {
-    "timestamp": 1714408269082,
-    "commText": "<p> Rasikh Salam to Narine, 1 run, slower short of length delivery, Narine mistimes the pull wide of mid-wicket and long-on tiidies up </p>",
-    "overs": 4.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 15,
-      "ballsPlayed": 9,
-      "dotBalls": 3,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14274,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408237857,
-    "commText": "<p> Rasikh Salam to Narine, <b>FOUR</b>, high full toss outside off, Narine stays leg-side and slashes it square on the off-side. Another delivery that was very close to being a no-ball </p>",
-    "overs": 4.3,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 14,
-      "ballsPlayed": 8,
-      "dotBalls": 3,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14274,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408191963,
-    "commText": "<p>Rasikh goes round the wicket</p>",
+    "timestamp": 1714411728474,
+    "commText": "<p><b>Rishabh Pant | DC captain:</b> It was a good option to bat first. As a batting unit we didn't bat well, 150 was below par with how things were going. But we learn from our mistakes, every day is not your day. The way we were going as a team was nice (winning 4 out of their\u00a0last 5 games), but these games come along in T20s. I think\u00a0anything\u00a0around\u00a0180-210 would have been a good score, we didn't give our bowlers enough runs to defend.</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -2573,35 +3384,9 @@
     }
   },
   {
-    "timestamp": 1714408188963,
-    "commText": "<p> Rasikh Salam to Narine, <b>FOUR</b>, slower ball but Narine had the room outside off, he throws his bat and toe-ends it over extra cover </p>",
-    "overs": 4.2,
-    "events": [
-      "TEAM_FIFTY",
-      "PARTNERSHIP",
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 10,
-      "ballsPlayed": 7,
-      "dotBalls": 3,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14274,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408161134,
-    "commText": "<p>Pant was standing up to the stumps for Salt. He's gone back for Narine</p>",
+    "timestamp": 1714411728479,
+    "commText": "<p><b>Salt:</b> Good to be contributing. Have had a good run in the home games. Nice that we've had continuity in conditions. Coming from the last game, to put in a performance like that from the bowlers, really pleased for them. It is high risk at times, but it's about putting the odds in your favour. Have to keep backing yourself and make those right options. It does (good keeping performance helps confidence?). Very helpful keeping first and see what it's doing. Gives an advantage in assessing conditions first. Sunil keeps things simple but he's a deep thinker about the game. We've dovetailed nicely in this competition. If one of us gets going, we feed the strike to them.</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -2623,196 +3408,9 @@
     }
   },
   {
-    "timestamp": 1714408158134,
-    "commText": "<p> Rasikh Salam to Philip Salt, 1 run, I0$ good length ball around off, Salt makes room and punches it towards cover </p>",
-    "overs": 4.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 37,
-      "ballsPlayed": 20,
-      "dotBalls": 9,
-      "batFours": 3,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 14274,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408154329,
-    "commText": "<p><b>Rasikh Dar Salam, right-arm medium, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 36,
-      "ballsPlayed": 19,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408062348,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, 1 run, another high full toss that Khaleel gets away with, Salt heaves and gets it high on the bat, the ball rolls to mid-wicket </p>",
-    "overs": 4,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 36,
-      "ballsPlayed": 19,
-      "dotBalls": 9,
-      "batFours": 3,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714408021981,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, <b>FOUR</b>, I0$ off-pace delivery and had a bit of width, Salt flays it uppishly and just manages to get it over the extra cover region. Once it is passed the infield there's no chance chasing that </p>",
-    "overs": 3.5,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 35,
-      "ballsPlayed": 18,
-      "dotBalls": 9,
-      "batFours": 3,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714407973176,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, I0$ slower ball outside off, Salt is through the loft early and does not connect </p>",
-    "overs": 3.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 31,
-      "ballsPlayed": 17,
-      "dotBalls": 9,
-      "batFours": 2,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714407938766,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, I0$ back of a length on middle, Salt knocks it to cover-point </p>",
-    "overs": 3.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 31,
-      "ballsPlayed": 16,
-      "dotBalls": 8,
-      "batFours": 2,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714407889558,
-    "commText": "<p> Khaleel Ahmed to Narine, 1 run, high full toss below the waist, Narine swings it away to deep backward square </p>",
-    "overs": 3.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 6,
-      "ballsPlayed": 6,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714407854055,
-    "commText": "<p> Khaleel Ahmed to Narine, no run, I0$ bouncer on the stumps, Narine ducks and allows it to sail over </p>",
-    "overs": 3.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 5,
-      "ballsPlayed": 5,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714407763301,
-    "commText": "<p>Khaleel from round the wicket</p>",
+    "timestamp": 1714411728484,
+    "commText": "<p><b>Most runs at Eden Gardens in an IPL season</b> \\n344 - Phil Salt in 2024 (6 inns)* \\n331 - Sourav Ganguly in 2010 (7 inns) \\n311 - Andre Russell in 2019 (7 inns) \\n303 - Chris Lynn in 2018 (9 inns)</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -2834,296 +3432,9 @@
     }
   },
   {
-    "timestamp": 1714407760301,
-    "commText": "<p> Williams to Philip Salt, no run, I0$ fraction short and Salt swings across the line, but the ball does not bounce and sneaks past the under-edge, not far from the stumps either and bounces on the way to Pant </p>",
-    "overs": 3,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 31,
-      "ballsPlayed": 15,
-      "dotBalls": 7,
-      "batFours": 2,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 34,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714407705657,
-    "commText": "<p> Williams to Philip Salt, <b>SIX</b>, back to back sixes. Williams feeling the heat. The length is again full but the line is on middle, Salt clears his front leg and uses his bottom hand to whip it over cow corner. <b>94-meter six..</b> </p>",
-    "overs": 2.5,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 31,
-      "ballsPlayed": 14,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 34,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714407667128,
-    "commText": "<p> Williams to Philip Salt, <b>SIX</b>, very small margins for error. Williams goes full and Salt pumps him down the ground, minimal followthrough of the bat and it is all hands as the ball soars over long-off </p>",
-    "overs": 2.4,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 25,
-      "ballsPlayed": 13,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714407626754,
-    "commText": "<p> Williams to Philip Salt, no run, I0$ slower short of length delivery, Salt is through the pull early and gets an inside edge onto the body </p>",
-    "overs": 2.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 19,
-      "ballsPlayed": 12,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714407579968,
-    "commText": "<p> Williams to Narine, 1 run, I0$ fullish delivery, Narine mistimes the drive in front of mid-off and quickly crosses over </p>",
-    "overs": 2.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 5,
-      "ballsPlayed": 4,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714407544211,
-    "commText": "<p> Williams to Narine, no run, full and cramping Narine, he clears his front leg and attempts the flick, the ball sneaks between his legs </p>",
-    "overs": 2.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 4,
-      "ballsPlayed": 3,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714407467048,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, I0$ very full and in the blockhole, Salt digs it out to cover and Khaleel walks up to have a word </p>",
-    "overs": 2,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 19,
-      "ballsPlayed": 11,
-      "dotBalls": 5,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714407431051,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, 2 runs, I0$ on a length and angled across, Salt tucks it through the vacant mid-wicket region and picks up a brace </p>",
-    "overs": 1.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 19,
-      "ballsPlayed": 10,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714407393438,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, I0$ full pitcher outside off, Salt creams the drive straight to cover-point </p>",
-    "overs": 1.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 17,
-      "ballsPlayed": 9,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714407372159,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, now strays down leg, Salt stands his ground and misses the glance. Wide called and <b>Pant decides to review,</b> UltraEdge shows a spike as ball is next to the pad. Decision overturned </p>",
-    "overs": 1.3,
-    "events": [
-      "UDRS"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 17,
-      "ballsPlayed": 8,
-      "dotBalls": 3,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714407237875,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, no run, good length ball around off, Salt defends to the off-side </p>",
-    "overs": 1.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 17,
-      "ballsPlayed": 7,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714407193286,
-    "commText": "<p> Khaleel Ahmed to Philip Salt, 2 runs, <b>dropped!</b> Williams has had a shocking 7 balls. He's given 23 in the first over and now has dropped Salt. I0$ full pitcher and Salt miscues the loft straight up, Williams settles under it near mid-on and goes reverse cup, but the ball bursts through and hits him on the shoulder before going down </p>",
-    "overs": 1.1,
-    "events": [
-      "DROPPED"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 17,
-      "ballsPlayed": 6,
-      "dotBalls": 1,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10952,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714407166932,
-    "commText": "<p><b>Most runs scored in the first over of an IPL innings</b> \\n27 - RCB vs MI, Chennai, 2011 \\n26 - RR vs KKR, Eden Gardens, 2023 \\n26 - KKR vs MI, Eden Gardens, 2013 \\n25 - DC vs KKR, Ahmedabad , 2021 \\n23 - RCB vs RR, Bengaluru, 2019 \\n23 - KKR vs DC, Eden Gardens, 2024*</p>",
+    "timestamp": 1714411728494,
+    "commText": "<p><b>KKR vs DC at Eden Gardens</b> \\nMats: 10 \\nWon: 8 \\nLost: 2</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -3145,154 +3456,9 @@
     }
   },
   {
-    "timestamp": 1714407166922,
-    "commText": "<p><b>Khaleel Ahmed, left-arm fast medium, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 15,
-      "ballsPlayed": 5,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714407087211,
-    "commText": "<p> Williams to Narine, <b>FOUR</b>, ordinary first over and KKR are off to a flier. Short ball and Narine is rushed on the pull, but he still goes through with the shot and pulls it behind square on the leg-side, one bounce and over the ropes </p>",
-    "overs": 1,
-    "events": [
-      "OVER_BREAK",
-      "FOUR",
-      "HIGHSCORING_OVER"
-    ],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 4,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714407054079,
-    "commText": "<p> Williams to Philip Salt, leg byes, 1 run, I0$ nips back in, Salt misses the tuck and the ball deflects off the pad </p>",
-    "overs": 0.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 15,
-      "ballsPlayed": 5,
-      "dotBalls": 1,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714407003765,
-    "commText": "<p> Williams to Philip Salt, <b>FOUR</b>, I0$ back of a length around off, Salt punches it on the rise and places it in front of square on the off-side. This shot indicates that the ball is coming on nicely.. </p>",
-    "overs": 0.4,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 15,
-      "ballsPlayed": 4,
-      "dotBalls": 0,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714406950334,
-    "commText": "<p> Williams to Philip Salt, <b>SIX</b>, Salt makes the most of the free-hit. Turning into a poor start for Williams, already 14 runs and just 3 balls bowled. This is a length ball right in the slot, Salt heaves across the line and sends it sailing over deep mid-wicket </p>",
-    "overs": 0.3,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 11,
-      "ballsPlayed": 3,
-      "dotBalls": 0,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714406910987,
-    "commText": "<p> Williams to Philip Salt, <b>wide</b>, sprays a full toss down leg, Salt gets inside the line and can't connect, wide called and the free-hit stays </p>",
-    "overs": 0.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 5,
-      "ballsPlayed": 2,
-      "dotBalls": 0,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1714406891107,
-    "commText": "<p><b>Free-hit</b> coming up</p>",
+    "timestamp": 1714411728504,
+    "commText": "<p>Stats by I0$</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -3314,79 +3480,57 @@
     }
   },
   {
-    "timestamp": 1714406888107,
-    "commText": "<p> Williams to Narine, <b>no ball</b>, leg byes, 1 run, swining into Narine and he's cramped for room, the ball strikes him on the back pad outside leg-stump and rolls to the leg-side. Williams has overstepped.. </p>",
-    "overs": 0.3,
+    "timestamp": 1714413233850,
+    "commText": "<p><b>Shreyas Iyer | KKR captain:</b> [on if the pitch would play this way?] Not at all. Considering the last few matches, 200 was a par score. After the powerplay the pitch started helping the spinners, was tacky. We got a fair idea as to how it played and to tackle the tackiness. Narine still does not attend those meetings but Salt is always there, gives\u00a0us his inputs and it's pure bliss to see him coming up and doing all this. [if Narine attends meetings] He doesn't. I would not recommend him to come either. [on Chakaravarthy] he has not been at his best the last few games. He has been assessing the wicket and has been giving us inputs. The way he turned up today was simply brilliant. [qualification] We have always been looking at it, even from the first game. The mindset is to qualify as early as possible. Just work on our work ethic and processes, don't want to look at the points table.</p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 2276,
+      "id": 0,
       "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 0.2,
+      "id": 0,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
-      "bowlRuns": 6,
+      "bowlRuns": 0,
       "bowlWickets": 0,
       "bowlWides": 0,
-      "bowlNoBalls": 1
+      "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1714406802724,
-    "commText": "<p> Williams to Philip Salt, 1 run, fraction short and around off, Salt swings across the line and gets an inside edge past the stumps. Pant moves to his left and parries it to short fine where Khaleel fumbles </p>",
-    "overs": 0.2,
+    "timestamp": 1714413343731,
+    "commText": "<p><b>Varun Chakaravarthy | Player of the Match:</b> It was holding a bit, as the game progressed in the 2nd innings, it was turning as well. [on him having a good match-up against Pant] Nothing like that, when the catch was dropped, I felt that was a better ball, and the one I got him, on other grounds, it would\u00a0have gone for a six. Cricket has become a game of fine margins. I liked Tristan Stubbs' wicket. I planned to bowl the legspinner to him and it worked out. [on conversations between him and Narine] Silence. When something doesn't work\u00a0for me, he is always there. In the last game after conceding so many runs, it was a tough pill to take but the whole team motivated us. Abhishek Nayar and even Shahrukh Khan came and spoke to me, definitely motivated us. [on the cheerleaders dancing] They should start dancing only for the sixers and not for the fours.</p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 5,
-      "ballsPlayed": 2,
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
       "dotBalls": 0,
-      "batFours": 1,
+      "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 0.2,
+      "id": 0,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
-      "bowlRuns": 5,
+      "bowlRuns": 0,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1714406766115,
-    "commText": "<p> Williams to Philip Salt, <b>FOUR</b>, poor first delivery. Too straight - on middle and leg, Salt stays inside the line and helps it along the way to fine leg </p>",
-    "overs": 0.1,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 4,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8531,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714406753628,
-    "commText": "<p><b>Philip Salt and Narine are at the crease. Philip Salt is on strike. Williams will open the attack</b></p>",
+    "timestamp": 1714413349458,
+    "commText": "<p>KKR turned up on a pitch that aided their spinners while DC got it wrong maybe even from the toss. Was definitely not a bat-first pitch. On that note we sign off from here. Do come back here for all your cricketing fix. Until next time, take care, be well, sleep tight and cuddle well. Bye.</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

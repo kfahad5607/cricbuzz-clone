@@ -1,398 +1,8 @@
 [
   {
-    "timestamp": 1713794104061,
-    "commText": "<p>The players and the umpires make their way out to the middle. In the reverse fixture, Boult displayed a masterclass in swing bowling at the Wankhede to get the MI top-order reeling. Can Rohit Sharma and Ishan Kishan see off the Boult threat tonight? It will be an enticing battle for sure. Boult to steam in with the new ball. A slip in place. Here we go...</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713793183574,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713793162295,
-    "commText": "<p><b>Rajasthan Royals Impact Subs:</b> Jos Buttler, Keshav Maharaj, Shubham Dubey, Navdeep Saini, Tom Kohler-Cadmore</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713793143575,
-    "commText": "<p><b>Mumbai Indians Impact Subs:</b> Nuwan Thushara, Akash Madhwal, Naman Dhir, Shams Mulani, Dewald Brevis</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713793137809,
-    "commText": "<p>Mi have made three changes to their setup while RR have made a sole change. We have also tinkered with our combination a bit with a sole change. Have a look at our new and improved team</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713793014941,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713793011684,
-    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Rovman Powell, Ravichandran Ashwin, Trent Boult, Avesh Khan, Sandeep Sharma, Yuzvendra Chahal</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713792969531,
-    "commText": "<p><b>Mumbai Indians</b> (Playing XI): Ishan Kishan(w), Rohit Sharma, Suryakumar Yadav, Tilak Varma, Hardik Pandya(c), Tim David, Nehal Wadhera, Mohammad Nabi, Gerald Coetzee, Piyush Chawla, Jasprit Bumrah</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713792864221,
-    "commText": "<p><b>Sanju Samson | RR captain:</b> We had a slightly different idea about the toss so it\u2019s okay, I'm happy to bowl first. You know the nature of the tournament, it\u2019s a very long tournament, we had a five day break and we discussed about our plans, it\u2019s about focusing about the system and the process. We have played lots of games here, we know how the wicket behaves. MI are known to come back hard in the tournament so we have to play well. We have had Sandeep Sharma back to our side and Kuldeep Sen misses out.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713792636442,
-    "commText": "<p><b>Hardik Pandya | MI captain: </b> We are gonna bat first, looks like a good wicket, we didn't see much dew in the last couple of days hence the decision to bat first. It's a very surreal feeling to play my 100th game for the franchise, started my journey with MI, I'm very grateful. We got three changes - Nuwan, Wadhera and Piyush Chawla come in. Shepherd, Madhwal, and Shreyas Gopal go out.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713792409158,
-    "commText": "<p><b>Mumbai Indians have won the toss and have opted to bat</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713792181884,
-    "commText": "<p><b>Trent Boult:</b> Things are ticking along very nicely, we've enjoyed a few days off over the last couple of days but tonight's game needs no introduction. It's another big one and we are all looking forward to it. (On Nandre Burger) Quality bowler, he's got a bit of an X factor about him, bowls at good pace, he's very clear on how he wants to bowl. His debut in this part of the world which is obviously a lot foreign to the conditions he is used to back home, but he's got the skill set to go very far. He's been laid off with a bit of a sore heel over the last couple of days but now he's fighting fit and looking forward to playing a big role in the rest of this tournament. I try not to search (for swing while bowling with the new ball). One thing I have learnt is everyone is under pressure, the bowler holds the control of how much pressure is on the batsman. I just try to put whoever the player is under pressure by being very accurate and just going out there and enjoying myself. Here's hoping for a couple tonight against a couple of big players. This year's been very exciting, the crowds are getting what they want. I have read a few things from the experts and I agree with it that it's a good opportunity for the bowlers to showcase their worth, find ways to get better. There's a guy called Jasprit Bumrah who'll come up against us tonight who is the leader in ... for whoever is trying to get better. I think he's the template, if we have the mindset like him to try and keep getting better, I think we'll be in the right place. Looking forward to a challenge.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713792181874,
-    "commText": "<p><b>Yuzvendra Chahal:</b> (On him being just one wicket shy of 200 IPL wickets) Amazing feeling, can\u2019t describe because as a bowler you always want that you stay at the top. I won\u2019t jinx it because I have said it earlier as well, when you get wickets, you get in heaps but when you don\u2019t get wickets, no matter how well you bowl you don\u2019t get a single wicket. As a human being you think about it but when you are on the ground you forget about these things because team comes first for me and it\u2019s an achievement. Milestone is for myself but the team winning is more important for me. The batters are playing us carefully, they are not taking much risks, but not conceding runs is equally imprortant as taking wickets in T20 cricket. I\u2019 m not thinkling about it much, I\u2019m enjoying my bowling, what's not in my control, I don't think about it much but if I get an opportunity to play for India again that will be the biggest thing, there\u2019s nothing above that for me. (On playing against MI with whom he started his IPL journey) My journey started from 2011 with Mumbai Indians, I stayed with them for 3 years, I got the privilege of sharing the dressing room of Sachin sir, it\u2019s a very good memory and I developed a very good bonding with Rohit bhaiya in 2011.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713791110701,
-    "commText": "<p><b>Pitch Report | Natalie Germanos and Brian Lara: </b> \"There's been four games (at this venue this season), teams batting first have won twice, teams fielding first have also won twice. Spinners haven't necessarily dominated over seamers. When you look at the team scores, they have been around 180-190, high, but not too high at the same time. Tonight, we are in the middle as well - boundary sizes square - 67m either side, straight - 76m. This pitch looks very very beautiful, it's dry, it's hard and it's even. Why isn't there a score over 200? I think one of the reasons is players presently like bounce and there's not a lot of moisture in this pitch. Moisture is what creates bounce and that's why it's very difficult to play the bowlers that are bowling directly straight at the stumps. The players are a little hesitant to score off every ball or play cross-batted shots. You'd still see a score close to 200 because it's beautiful to bat on but to get over 200, you need a bit of bounce. Nothing to fear for the batters, but they got to be very careful playing the cross-batted shots. Two great batting teams, I think we are in for a great treat.\"</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713790881132,
-    "commText": "<p>Meanwhile, MI have bounced back nicely after losing the first three matches of their campaign. The visitors have won three out of their last four games and need to keep the momentum going. In their last game, the MI bowlers kept their nerves at the death to deny Punjab Kings a victory. Bumrah has been at his lethal best and Coetzee is also starting to shape up nicely but the others need to rise to the occasion as well. Rohit has shone with the bat while Suryakumar has been belligerent since his return from injury. Tilak Varma and Tim David also have been explosive when needed. They will be expecting Hardik Pandya to step up with the bat. These two sides met each other at the start of April. MI were decimated by Boult and Burger with the new ball while Chahal ruled the roost as well. It was a comfortable 6-wicket victory for RR, courtesy a measured fifty from Parag. Can MI take their revenge tonight? Stick around for the toss and team lineups...</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713790786733,
-    "commText": "<p><b>18:30 Local Time, 13:00 GMT, 18:30 IST:</b> Things are heating up as we are already halfway through the tournament. The Rajasthan Royals have been dominant this season having won six out of their seven games and are sitting pretty at the top of the table. It was Buttler\u2019s tremendous century in the last game which led RR to a memorable victory against KKR at the Eden Gardens. RR are back to Jaipur for their final home game at this venue and they will be eyeing to continue their good run. The likes of Buttler, Samson, and Parag have done well with the bat but they would want Jaiswal to return back to form. They have an incisive bowling attack as well and have all their bases covered.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713711090380,
-    "commText": "<p><b>Preview</b> \\n \\nAfter two victories on the road that helped them consolidate the <b>No.1 position, Rajasthan Royals</b> return to Jaipur for their final match at the<b> Sawai Mansingh Stadium.</b> With a 3-1 record here this season, the Royals have somewhat rebuilt their fortress and they'll be keen to complete that job before travelling for four away games and two 'home matches' in Guwahati which complete their league stage journey. \\n \\nRR are up against a Mumbai Indians team that has started to find its feet in the competition after a wayward start and will be looking to add more to the wins column. These two sides last faced each other at the start of April when the left-arm seam of <b>Trent Boult</b> and <b>Nandre Burger</b>, and the guile of <b>Yuzvendra Chahal</b> proved too much for MI to handle. That was the third straight loss that MI suffered but they have since won three out of four and will be looking to build on that. \\n \\nA <b>Jos Buttler</b> special saw the Royals pull off a record run-chase as they reached the target of 224 off the last ball in a thrilling finish at Eden Gardens. <b>Riyan Parag</b> also made a useful contribution to extend his good run in the tournament but RR will be hoping that the rest of the batting order gets going, especially <b>Yashasvi Jaiswal</b> and <b>Dhruv Jurel</b> who haven't been at their best. The spinners were expensive in the last outing and RR will be hoping the return to Jaipur and the bigger boundary dimensions help them get back in business. \\n \\nIn their previous match, MI overcame a spirited lower-order performance from Punjab Kings to defend a total of 192. <b>Rohit Sharma's</b> good form with the bat augurs well for MI, same with <b>Suryakumar Yadav</b> and <b>Tilak Varma.</b> <b>Ishan Kishan</b> has had a couple of low scores and MI will be hoping he gets amongst the runs, while the captain <b>Hardik Pandya</b> himself needs to step up. Among the bowlers, <b>Jasprit Bumrah</b> has led from the front while <b>Gerald Coetzee's</b> performance against PBKS also comes as a shot in the arm for MI who have been depending largely on their pace spearhead. The spin department has been an area of concern for MI but <b>Shreyas Gopal's</b> familiarity with the Jaipur conditions could serve them well and <b>Mohammad Nabi</b> could also have a role to play with the ball. \\n \\n<b>When:</b> RR vs MI, Match 38 - Monday, April 22 at 19:30 IST \\n \\n<b>Where: </b>Sawai Mansingh Stadium, Jaipur \\n \\n<b>What to expect:</b> Teams haven't been able to cross the 200 barrier at this venue in 2024. Totals in the vicinity of 180-190 have proved good totals here, with RR having defended successfully twice. They were on course to defend 196 against Gujarat Titans too but Rashid Khan and Rahul Tewatia pulled off something special. Earlier, RR themselves chased down a target of 184 against RCB here. So the toss isn't that much of a factor at this venue. \\n \\n<b>Head to head:</b> RR 13 - 15 MI. The Royals have won five out of seven times against MI in Jaipur, with Mumbai's last win at this venue going way back to May 2012. \\n \\n<b>Teams watch</b> \\n \\n<b>Rajasthan Royals</b> \\n \\n<b>Injury/Availability:</b> Nandre Burger (niggle in the leg) and Sandeep Sharma (side strain) missed a few games. Burger, though, would have featured in the previous game had RR batted first, according to RR director of cricket Kumar Sangakkara, who also said Sandeep has made a good recovery. \\n \\n<b>Tactics & Matchups:</b> Should <b>Sandeep</b> return, RR would like to use him against Rohit as he has dismissed the batter five times in 44 deliveries. <b>Boult</b> and <b>Avesh Khan</b> have dismissed Rohit twice - in 18 and 13 deliveries respectively. <b>Boult</b> and <b>Sandeep</b> also have a good record against Kishan, having dismissed him twice each, while <b>Chahal</b> has accounted for the left-handed opener three times. <b>Chahal also has favourable matchups against Suryakumar and Pandya,</b> which will make him an important weapon for RR in the middle overs. <b>Avesh's success against Pandya gives RR another option, especially in the death overs.</b> \\n \\n<b>Probable XI:</b> Yashasvi Jaiswal, Jos Buttler, Sanju Samson (c & wk), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Kuldeep Sen/Sandeep Sharma, Yuzvendra Chahal. [Impact sub: Nandre Burger/Keshav Maharaj] \\n \\n<b>Mumbai Indians</b> \\n \\n<b>Injury/Availability:</b> MI currently don't have any fitness concerns with their personnel. \\n \\n<b>Tactics & Matchups:</b> Bumrah will be key for MI against Buttler, Sanju Samson and Shimron Hetmyer. He has dismissed Buttler twice, with the batter having a strike rate of only 95.4 against him. Bumrah has accounted for Hetmyer three times and Samson two times, with the two having strike rates of 64.3 and 98.1 respectively against the MI pace ace. \\n \\n<b>Probable XI:</b> Rohit Sharma, Ishan Kishan (wk), Suryakumar Yadav, Tilak Varma, Hardik Pandya (c), Tim David, Romario Shepherd, Mohammad Nabi, Gerald Coetzee, Shreyas Gopal, Jasprit Bumrah. [Impact sub: Akash Madhwal] \\n \\n<b>Did you know?</b> \\n \\n- Among those who have scored 400-plus runs against Mumbai Indians in the IPL, <b>Jos Buttler</b> is one of only two players with a fifty-plus average. His 498 runs against MI have come in nine innings, with one century and four fifties, and he has a strike rate of 148.65 against them \\n \\n- Among the current players from MI and RR, <b>Shreyas Gopal</b> is the leading wicket-taker in Jaipur, with 15 wickets at an average of 16.66 and an economy of 7.35, with a best of 4-16. <b>Yuzvendra</b> is second on the list with 14 wickets \\n \\n- Rohit Sharma and Ishan Kishan have scored 334 runs in the powerplay in IPL 2024 at a combined strike rate of 176.72. On the other hand, RR's openers Yashasvi Jaiswal and Jos Buttler have managed only 204 runs in this phase, at a combined SR of 136.91 \\n \\n<b>What they said:</b> \\n \\n\"As a modern-day cricketr, you must be adaptive to whatever role you are given. I haven't bowled much in the powerplay, but I'm really enjoying it. I love the middle overs, and I've grown to love the death. As someone who likes wickets, it's prime time to take wickets\" - Gerald Coetzee.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713711090370,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1713710964325,
+    "commText": "<p><b>Rajasthan Royals</b> Squad: Yashasvi Jaiswal, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Rovman Powell, Ravichandran Ashwin, Trent Boult, Avesh Khan, Kuldeep Sen, Yuzvendra Chahal, Jos Buttler, Tom Kohler-Cadmore, Shubham Dubey, Navdeep Saini, Nandre Burger, Sandeep Sharma, Keshav Maharaj, Tanush Kotian, Donovan Ferreira, Abid Mushtaq, Kunal Singh Rathore</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -416,6 +26,7 @@
   {
     "timestamp": 1713711089048,
     "commText": "<p><b>Mumbai Indians</b> Squad: Ishan Kishan(w), Rohit Sharma, Suryakumar Yadav, Tilak Varma, Hardik Pandya(c), Tim David, Romario Shepherd, Mohammad Nabi, Gerald Coetzee, Shreyas Gopal, Jasprit Bumrah, Akash Madhwal, Nuwan Thushara, Kumar Kartikeya, Piyush Chawla, Naman Dhir, Luke Wood, Harvik Desai, Shams Mulani, Arjun Tendulkar, Nehal Wadhera, Shivalik Sharma, Anshul Kamboj, Dewald Brevis, Kwena Maphaka</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -437,8 +48,417 @@
     }
   },
   {
-    "timestamp": 1713710964325,
-    "commText": "<p><b>Rajasthan Royals</b> Squad: Yashasvi Jaiswal, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Rovman Powell, Ravichandran Ashwin, Trent Boult, Avesh Khan, Kuldeep Sen, Yuzvendra Chahal, Jos Buttler, Tom Kohler-Cadmore, Shubham Dubey, Navdeep Saini, Nandre Burger, Sandeep Sharma, Keshav Maharaj, Tanush Kotian, Donovan Ferreira, Abid Mushtaq, Kunal Singh Rathore</p>",
+    "timestamp": 1713711090370,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713711090380,
+    "commText": "<p><b>Preview</b> \\n \\nAfter two victories on the road that helped them consolidate the <b>No.1 position, Rajasthan Royals</b> return to Jaipur for their final match at the<b> Sawai Mansingh Stadium.</b> With a 3-1 record here this season, the Royals have somewhat rebuilt their fortress and they'll be keen to complete that job before travelling for four away games and two 'home matches' in Guwahati which complete their league stage journey. \\n \\nRR are up against a Mumbai Indians team that has started to find its feet in the competition after a wayward start and will be looking to add more to the wins column. These two sides last faced each other at the start of April when the left-arm seam of <b>Trent Boult</b> and <b>Nandre Burger</b>, and the guile of <b>Yuzvendra Chahal</b> proved too much for MI to handle. That was the third straight loss that MI suffered but they have since won three out of four and will be looking to build on that. \\n \\nA <b>Jos Buttler</b> special saw the Royals pull off a record run-chase as they reached the target of 224 off the last ball in a thrilling finish at Eden Gardens. <b>Riyan Parag</b> also made a useful contribution to extend his good run in the tournament but RR will be hoping that the rest of the batting order gets going, especially <b>Yashasvi Jaiswal</b> and <b>Dhruv Jurel</b> who haven't been at their best. The spinners were expensive in the last outing and RR will be hoping the return to Jaipur and the bigger boundary dimensions help them get back in business. \\n \\nIn their previous match, MI overcame a spirited lower-order performance from Punjab Kings to defend a total of 192. <b>Rohit Sharma's</b> good form with the bat augurs well for MI, same with <b>Suryakumar Yadav</b> and <b>Tilak Varma.</b> <b>Ishan Kishan</b> has had a couple of low scores and MI will be hoping he gets amongst the runs, while the captain <b>Hardik Pandya</b> himself needs to step up. Among the bowlers, <b>Jasprit Bumrah</b> has led from the front while <b>Gerald Coetzee's</b> performance against PBKS also comes as a shot in the arm for MI who have been depending largely on their pace spearhead. The spin department has been an area of concern for MI but <b>Shreyas Gopal's</b> familiarity with the Jaipur conditions could serve them well and <b>Mohammad Nabi</b> could also have a role to play with the ball. \\n \\n<b>When:</b> RR vs MI, Match 38 - Monday, April 22 at 19:30 IST \\n \\n<b>Where: </b>Sawai Mansingh Stadium, Jaipur \\n \\n<b>What to expect:</b> Teams haven't been able to cross the 200 barrier at this venue in 2024. Totals in the vicinity of 180-190 have proved good totals here, with RR having defended successfully twice. They were on course to defend 196 against Gujarat Titans too but Rashid Khan and Rahul Tewatia pulled off something special. Earlier, RR themselves chased down a target of 184 against RCB here. So the toss isn't that much of a factor at this venue. \\n \\n<b>Head to head:</b> RR 13 - 15 MI. The Royals have won five out of seven times against MI in Jaipur, with Mumbai's last win at this venue going way back to May 2012. \\n \\n<b>Teams watch</b> \\n \\n<b>Rajasthan Royals</b> \\n \\n<b>Injury/Availability:</b> Nandre Burger (niggle in the leg) and Sandeep Sharma (side strain) missed a few games. Burger, though, would have featured in the previous game had RR batted first, according to RR director of cricket Kumar Sangakkara, who also said Sandeep has made a good recovery. \\n \\n<b>Tactics & Matchups:</b> Should <b>Sandeep</b> return, RR would like to use him against Rohit as he has dismissed the batter five times in 44 deliveries. <b>Boult</b> and <b>Avesh Khan</b> have dismissed Rohit twice - in 18 and 13 deliveries respectively. <b>Boult</b> and <b>Sandeep</b> also have a good record against Kishan, having dismissed him twice each, while <b>Chahal</b> has accounted for the left-handed opener three times. <b>Chahal also has favourable matchups against Suryakumar and Pandya,</b> which will make him an important weapon for RR in the middle overs. <b>Avesh's success against Pandya gives RR another option, especially in the death overs.</b> \\n \\n<b>Probable XI:</b> Yashasvi Jaiswal, Jos Buttler, Sanju Samson (c & wk), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Kuldeep Sen/Sandeep Sharma, Yuzvendra Chahal. [Impact sub: Nandre Burger/Keshav Maharaj] \\n \\n<b>Mumbai Indians</b> \\n \\n<b>Injury/Availability:</b> MI currently don't have any fitness concerns with their personnel. \\n \\n<b>Tactics & Matchups:</b> Bumrah will be key for MI against Buttler, Sanju Samson and Shimron Hetmyer. He has dismissed Buttler twice, with the batter having a strike rate of only 95.4 against him. Bumrah has accounted for Hetmyer three times and Samson two times, with the two having strike rates of 64.3 and 98.1 respectively against the MI pace ace. \\n \\n<b>Probable XI:</b> Rohit Sharma, Ishan Kishan (wk), Suryakumar Yadav, Tilak Varma, Hardik Pandya (c), Tim David, Romario Shepherd, Mohammad Nabi, Gerald Coetzee, Shreyas Gopal, Jasprit Bumrah. [Impact sub: Akash Madhwal] \\n \\n<b>Did you know?</b> \\n \\n- Among those who have scored 400-plus runs against Mumbai Indians in the IPL, <b>Jos Buttler</b> is one of only two players with a fifty-plus average. His 498 runs against MI have come in nine innings, with one century and four fifties, and he has a strike rate of 148.65 against them \\n \\n- Among the current players from MI and RR, <b>Shreyas Gopal</b> is the leading wicket-taker in Jaipur, with 15 wickets at an average of 16.66 and an economy of 7.35, with a best of 4-16. <b>Yuzvendra</b> is second on the list with 14 wickets \\n \\n- Rohit Sharma and Ishan Kishan have scored 334 runs in the powerplay in IPL 2024 at a combined strike rate of 176.72. On the other hand, RR's openers Yashasvi Jaiswal and Jos Buttler have managed only 204 runs in this phase, at a combined SR of 136.91 \\n \\n<b>What they said:</b> \\n \\n\"As a modern-day cricketr, you must be adaptive to whatever role you are given. I haven't bowled much in the powerplay, but I'm really enjoying it. I love the middle overs, and I've grown to love the death. As someone who likes wickets, it's prime time to take wickets\" - Gerald Coetzee.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713790786733,
+    "commText": "<p><b>18:30 Local Time, 13:00 GMT, 18:30 IST:</b> Things are heating up as we are already halfway through the tournament. The Rajasthan Royals have been dominant this season having won six out of their seven games and are sitting pretty at the top of the table. It was Buttler\u2019s tremendous century in the last game which led RR to a memorable victory against KKR at the Eden Gardens. RR are back to Jaipur for their final home game at this venue and they will be eyeing to continue their good run. The likes of Buttler, Samson, and Parag have done well with the bat but they would want Jaiswal to return back to form. They have an incisive bowling attack as well and have all their bases covered.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713790881132,
+    "commText": "<p>Meanwhile, MI have bounced back nicely after losing the first three matches of their campaign. The visitors have won three out of their last four games and need to keep the momentum going. In their last game, the MI bowlers kept their nerves at the death to deny Punjab Kings a victory. Bumrah has been at his lethal best and Coetzee is also starting to shape up nicely but the others need to rise to the occasion as well. Rohit has shone with the bat while Suryakumar has been belligerent since his return from injury. Tilak Varma and Tim David also have been explosive when needed. They will be expecting Hardik Pandya to step up with the bat. These two sides met each other at the start of April. MI were decimated by Boult and Burger with the new ball while Chahal ruled the roost as well. It was a comfortable 6-wicket victory for RR, courtesy a measured fifty from Parag. Can MI take their revenge tonight? Stick around for the toss and team lineups...</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713791110701,
+    "commText": "<p><b>Pitch Report | Natalie Germanos and Brian Lara: </b> \"There's been four games (at this venue this season), teams batting first have won twice, teams fielding first have also won twice. Spinners haven't necessarily dominated over seamers. When you look at the team scores, they have been around 180-190, high, but not too high at the same time. Tonight, we are in the middle as well - boundary sizes square - 67m either side, straight - 76m. This pitch looks very very beautiful, it's dry, it's hard and it's even. Why isn't there a score over 200? I think one of the reasons is players presently like bounce and there's not a lot of moisture in this pitch. Moisture is what creates bounce and that's why it's very difficult to play the bowlers that are bowling directly straight at the stumps. The players are a little hesitant to score off every ball or play cross-batted shots. You'd still see a score close to 200 because it's beautiful to bat on but to get over 200, you need a bit of bounce. Nothing to fear for the batters, but they got to be very careful playing the cross-batted shots. Two great batting teams, I think we are in for a great treat.\"</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713792181874,
+    "commText": "<p><b>Yuzvendra Chahal:</b> (On him being just one wicket shy of 200 IPL wickets) Amazing feeling, can\u2019t describe because as a bowler you always want that you stay at the top. I won\u2019t jinx it because I have said it earlier as well, when you get wickets, you get in heaps but when you don\u2019t get wickets, no matter how well you bowl you don\u2019t get a single wicket. As a human being you think about it but when you are on the ground you forget about these things because team comes first for me and it\u2019s an achievement. Milestone is for myself but the team winning is more important for me. The batters are playing us carefully, they are not taking much risks, but not conceding runs is equally imprortant as taking wickets in T20 cricket. I\u2019 m not thinkling about it much, I\u2019m enjoying my bowling, what's not in my control, I don't think about it much but if I get an opportunity to play for India again that will be the biggest thing, there\u2019s nothing above that for me. (On playing against MI with whom he started his IPL journey) My journey started from 2011 with Mumbai Indians, I stayed with them for 3 years, I got the privilege of sharing the dressing room of Sachin sir, it\u2019s a very good memory and I developed a very good bonding with Rohit bhaiya in 2011.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713792181884,
+    "commText": "<p><b>Trent Boult:</b> Things are ticking along very nicely, we've enjoyed a few days off over the last couple of days but tonight's game needs no introduction. It's another big one and we are all looking forward to it. (On Nandre Burger) Quality bowler, he's got a bit of an X factor about him, bowls at good pace, he's very clear on how he wants to bowl. His debut in this part of the world which is obviously a lot foreign to the conditions he is used to back home, but he's got the skill set to go very far. He's been laid off with a bit of a sore heel over the last couple of days but now he's fighting fit and looking forward to playing a big role in the rest of this tournament. I try not to search (for swing while bowling with the new ball). One thing I have learnt is everyone is under pressure, the bowler holds the control of how much pressure is on the batsman. I just try to put whoever the player is under pressure by being very accurate and just going out there and enjoying myself. Here's hoping for a couple tonight against a couple of big players. This year's been very exciting, the crowds are getting what they want. I have read a few things from the experts and I agree with it that it's a good opportunity for the bowlers to showcase their worth, find ways to get better. There's a guy called Jasprit Bumrah who'll come up against us tonight who is the leader in ... for whoever is trying to get better. I think he's the template, if we have the mindset like him to try and keep getting better, I think we'll be in the right place. Looking forward to a challenge.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713792409158,
+    "commText": "<p><b>Mumbai Indians have won the toss and have opted to bat</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713792636442,
+    "commText": "<p><b>Hardik Pandya | MI captain: </b> We are gonna bat first, looks like a good wicket, we didn't see much dew in the last couple of days hence the decision to bat first. It's a very surreal feeling to play my 100th game for the franchise, started my journey with MI, I'm very grateful. We got three changes - Nuwan, Wadhera and Piyush Chawla come in. Shepherd, Madhwal, and Shreyas Gopal go out.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713792864221,
+    "commText": "<p><b>Sanju Samson | RR captain:</b> We had a slightly different idea about the toss so it\u2019s okay, I'm happy to bowl first. You know the nature of the tournament, it\u2019s a very long tournament, we had a five day break and we discussed about our plans, it\u2019s about focusing about the system and the process. We have played lots of games here, we know how the wicket behaves. MI are known to come back hard in the tournament so we have to play well. We have had Sandeep Sharma back to our side and Kuldeep Sen misses out.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713792969531,
+    "commText": "<p><b>Mumbai Indians</b> (Playing XI): Ishan Kishan(w), Rohit Sharma, Suryakumar Yadav, Tilak Varma, Hardik Pandya(c), Tim David, Nehal Wadhera, Mohammad Nabi, Gerald Coetzee, Piyush Chawla, Jasprit Bumrah</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713793011684,
+    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Rovman Powell, Ravichandran Ashwin, Trent Boult, Avesh Khan, Sandeep Sharma, Yuzvendra Chahal</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713793014941,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713793137809,
+    "commText": "<p>Mi have made three changes to their setup while RR have made a sole change. We have also tinkered with our combination a bit with a sole change. Have a look at our new and improved team</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713793143575,
+    "commText": "<p><b>Mumbai Indians Impact Subs:</b> Nuwan Thushara, Akash Madhwal, Naman Dhir, Shams Mulani, Dewald Brevis</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713793162295,
+    "commText": "<p><b>Rajasthan Royals Impact Subs:</b> Jos Buttler, Keshav Maharaj, Shubham Dubey, Navdeep Saini, Tom Kohler-Cadmore</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713793183574,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713794104061,
+    "commText": "<p>The players and the umpires make their way out to the middle. In the reverse fixture, Boult displayed a masterclass in swing bowling at the Wankhede to get the MI top-order reeling. Can Rohit Sharma and Ishan Kishan see off the Boult threat tonight? It will be an enticing battle for sure. Boult to steam in with the new ball. A slip in place. Here we go...</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

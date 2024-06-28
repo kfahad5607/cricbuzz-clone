@@ -1,398 +1,8 @@
 [
   {
-    "timestamp": 1712152434516,
-    "commText": "<p>The players are out in the middle - Salt and Narine, the two KKR openers. Warner with all the talking in the DC huddle. Khaleel Ahmed will take the new ball, a slip and a wide slip in place</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712151914893,
-    "commText": "<p>We've an injury forced change in our expert XI. Have a look before locking in your fantasy team</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712151810882,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712151711433,
-    "commText": "<p><b>Delhi Capitals Subs:</b> Abishek Porel, Kumar Kushagra, Praveen Dubey, Lalit Yadav, Jake Fraser-McGurk</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712151641995,
-    "commText": "<p><b>Kolkata Knight Riders Subs: </b>Suyash Sharma, Anukul Roy, Manish Pandey, Vaibhav Arora, Rahmanullah Gurbaz</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712151479242,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712151470400,
-    "commText": "<p><b>Delhi Capitals</b> (Playing XI): Prithvi Shaw, David Warner, Mitchell Marsh, Rishabh Pant(w/c), Tristan Stubbs, Axar Patel, Sumit Kumar, Rasikh Dar Salam, Anrich Nortje, Ishant Sharma, Khaleel Ahmed</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712151387258,
-    "commText": "<p><b>Kolkata Knight Riders</b> (Playing XI): Philip Salt(w), Sunil Narine, Venkatesh Iyer, Shreyas Iyer(c), Rinku Singh, Angkrish Raghuvanshi, Andre Russell, Ramandeep Singh, Mitchell Starc, Harshit Rana, Varun Chakaravarthy</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712151334520,
-    "commText": "<p><b>Rishabh Pant</b> - We would have batted first as well, could get a bit slower. It was nice to be back with the group, but I'm not thinking too far ahead. Thew bowlers did a great job, the fast bowlers, and we'd like them to do it once again. Not thinking about the team combination for the first two games, but we've had people working hard in the nets. We just need to keep doing the right things - one change, Mukesh is injured and he's replaced by Sumit.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712151325865,
-    "commText": "<p><b>Shreyas Iyer</b> - We'll bat first. The wicket looks like a belter, no drastic change in the wicket when compared to the last game. It's been quite a journey, was a with Delhi and now with KKR, I'm comfortable with this switch. Anything can happen on a given day, it's important to stick to the process. We've Sunil (Narine) coming in and going after the bowlers in the first 6 overs, so his role is very clear and the rest know what's expected of them. One change - Angrish Raghuvanshi comes in</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712151058481,
-    "commText": "<p><b>Kolkata Knight Riders have won the toss and have opted to bat</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712150224475,
-    "commText": "<p>Our correspondent Pratyush Sinha is early at the ground and he has seen quite a bit. 'Hello from Vizag! Nice breezy evening. They are using the same surface from two days ago, so should play very similar. Spotted KKR's Vaibhav Arora marking his run-up but DC's Mukesh Kumar, who bowled through a hamstring strain against CSK, hasn't marked his run-up yet from what I've seen. Mitchell Marsh, Khaleel Ahmed and Rasikh Salam have'</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712150056131,
-    "commText": "<p><b>Prithvi Shaw:</b> I\u2019m absolutely fine, I felt very good that I got a chance to play white-ball cricket after a long time. Before this, I had played 3-4 Ranji matches but the injury stayed for 5 months, it was not a struggle for me I would say, I enjoyed those moments also but I was a bit sad as everything was going good then but everything is fine now. (On his opening combination with Warner) I feel that from last year, our combination has been good, we play percentage cricket and I believe that the opening partnership in the first 6 overs is very important. We also discuss in team meetings that one person from the top-order should stay till the 15-16th over, that boosts the chances of winning. Myself and Warner discuss that even if we don\u2019t score runs in the first 2-3 overs, we are those kind of batters who can cover up later on.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712150056121,
-    "commText": "<p><b>Harshit Rana</b> - Delhi has a lot of experienced players, we juniors have watched them and have got motivated by their pace. I'm enjoying the faith shown by the franchise and want to do the best. I had worked on my bowling\u00a0before\u00a0the tournament, learnt from new things and worked on it. I've also worked on my batting.\u00a0</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712149800532,
-    "commText": "<p>It's nice and cool - it's not a big ground, the side boundaries are 60m each and the straight boundary is at 74m. It looks like a well prepared surface, it looks very hard and with not much grass. Because of its hardness, there will not be a lot in it for\u00a0the spinners, variations will be the key for the pacers. Khaleel Ahmed spoke about getting more swing due to the wind and it's something to look forward to. Generally, this looks like an easy and true surface\u00a0with the batters able to score across all the parts of the ground, reckons <b>Ian Bishop</b>, in his pitch report.\u00a0</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712148302654,
-    "commText": "<p><b>18:15 Local Time, 12:45 GMT, 18:15 IST:</b> KKR are on a roll with two wins out of two games. On the other hand, the Delhi Capitals secured their first win at their new home in Visakhapatnam, uprooting the Chennai Super Kings by 20 runs and confirming their first points of #IPL2024. Prithvi Shaw returned in style, Rishabh Pant overcame a slow start to torch CSK towards the death overs and the bowlers enjoyed the conditions in Vizag to the hilt. But they're now up against one of the form teams of the tournament in the Knight Riders, who have been well rested with just two matches played so far. Phil Salt has scored runs at the top of the order, Sunil Narine tore into RCB with the bat in the last game and the middle-order is brimming with confidence. Throw in a functioning bowling department and they've got all bases covered. Vizag was a lucky charm for the Capitals on the other day, can they finish well with a win tonight?\u00a0</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712066868330,
-    "commText": "<p><b>Preview by Pratyush Sinha:</b> \\n \\nA bit of Vizag is exactly what Mitchell Starc might need at the moment. \\n \\nHis long-distance relationship with IPL has wound up in a difficult reunion, with the left-arm pacer returning combined figures of 0 for 100 in his first two games. He neither has been able to strike with the new ball nor been economical at the death, the two aspects of the game where Kolkata Knight Riders have lagged behind in this cycle and primarily the reason they broke the bank for his services. \\n \\nOn the eve of KKR's match against Delhi Capitals, bowling coach Bharat Arun was asked about his conversations with Starc. \"Nothing about the price!\" came the light-hearted reply. \"Yes we have been talking about his strengths. I am sure he knows and understands what it is and what it takes to succeed. And the kind of experience he brings in, having played in all the conditions, it's just a matter of time before you see Starc in his elements.\" \\n \\nFortunately for Starc, it's still very early in the season and he now returns to a venue where he racked up a five-wicket haul the last time he was here. Such was thewreckage from that spell that an ODI for which Vizag waited three years lasted only 37 overs in all. \\n \\nEven a couple of nights ago, only seven overs of spin were bowled out of 40 overs during the DC-CSK match, so bowling here is a prospect Starc could definitely enjoy. But it could mean a fair bit of recalibration for a side that's traditionally thrived on the back of its spinners. \\n \\nFor Delhi Capitals, it would be about continuing to pick the threads from their last game. Recoupling of Prithvi Shaw and David Warner at the top, which assistant coach Pravin Amre revealed was the opening pair they had in mind on the auction table, paid rich dividends and Rishabh Pant grooved to the Dhoni chants that go a long way back in his career. And once the runs were on the board, the likes of Khaleel Ahmed and Mukesh Kumar also responded to hoist their first points of the season. \\n \\nDC would like to leave Vizag with two wins out of two and they would be high on confidence after getting the better of CSK, another team like KKR who came in with two wins out of two. But Shreyas Iyer's team might not be the easiest of oppositions after their away-win in Bengaluru, so watch out for a close contest. \\n \\n<b>When:</b> DC vs KKR, Match 16, IPL 2024, at 7:30 PM local \\n \\n<b>Where:</b> Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam \\n \\n<b>What to expect:</b> Another graveyard for the spinners? Bharat Arun isn't too sure. \"The pitch keeps changing like the weather,\" he said on the eve of the match. \\n \\nIt's likely that Vizag serves up another pitch where pacers call the shots; it was something that the home side definitely enjoyed and would want another bite of. It will be interesting to see what DC decide to do if they win the toss. Against CSK, they chose to bat, the second favourite option in all of limited-overs cricket, let alone IPL, but Pravin Amre reckoned it had a lot to do with asking CSK to chase. \\n \\n<b>Head to Head:</b> DC 15 - 16 KKR \\n \\n<b>Team Watch:</b> \\n \\n<b>Delhi Capitals</b> \\n \\n<b>Injury/Availability:</b> As confirmed by Ricky Ponting last time, Jhye Richardson is fit and available. Ishant Sharma made a successful return from his ankle injury in the last game and the only question that remains is around Shai Hope, who missed the last two matches with a back spasm. \\n \\n<b>Tactics/Matchups:</b> While the last match for DC came on the back of top-order contributions, they have a soft underbelly when it comes to the middle overs. So far this season, they have lost the most wickets (10), have the worst average (20.30) and the second-worst scoring rate (7.52) between overs 7 to 15. That's an area they would want to amp up their efforts in, especially against KKR. \\n \\n<b>Probable XI:</b> Prithvi Shaw, David Warner, Mitchell Marsh, Rishabh Pant(w/c), Tristan Stubbs, Abishek Porel, Axar Patel, Anrich Nortje, Mukesh Kumar, Ishant Sharma, Khaleel Ahmed. [Impact Sub: Sumit Kumar/Rasikh Dar Salam] \\n \\n<b>Kolkata Knight Riders</b> \\n \\n<b>Injury/Availability:</b> Venkatesh Iyer pulled his back in the last match but Bharat Arun said that the batter is \"fit and raring to go\". \\n \\nTactics/Matchups:Don't be too surprised to see Varun Chakaravarthy bowling to Prithvi Shaw in the powerplay; the spinner has a favourable matchup against the opener which reads 37 runs, 25 balls, 3 dismissals. That said, KKR would like their spinners to step up. They have expectedly bowled the most overs of spin this year but conceded runs at an economy rate of 8.78 while managing to pick only three wickets. On this Vizag pitch, seamer Vaibhav Arora, who took the new ball last season but hasn't got a game this year, could come into the picture on the Vizag pitch. \\n \\n<b>Probable XI:</b> Philip Salt(w), Venkatesh Iyer, Shreyas Iyer(c), Ramandeep Singh, Rinku Singh, Andre Russell, Sunil Narine, Mitchell Starc, Anukul Roy, Harshit Rana, Varun Chakaravarthy. [Impact Sub: Suyash Sharma/Vaibhav Arora] \\n \\n<b>Did you know?</b> \\n \\nDC have had the better of KKR in this cycle, winning all three matches between the sides since 2022 \\n \\nNine wickets fell to pace and only two to spin in the DC-CSK match at Vizag two nights ago \\n \\nVarun Chakaravarthy bowled his most expensive spell in IPL in KKR's opening game against SRH, when he conceded 55 and followed it up with a two-over spell of 0/20 against RCB \\n \\nAnrich Nortje has figures of 1/48 and 0/43 in his two appearances in IPL 2024 so far extending his poor record in the tournament in India. \\n \\n<b>What they said:</b> \\n \\n\"We are carrying a lot of momentum and also great energy in the team. There's nothing like success. We totally trust in our plans and we are up for it.\"<b> - Bharat Arun,</b> KKR bowling coach. \\n \\n\"CSK also came with two wins, but we played our best cricket. It's not about what they are coming up with, but it's about how we are playing and will focus on what best we can give. We also look to finish on a winning note as it will be our last game in Vizag.\" <b>-Pravin Amre,</b> DC assistant coach</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712066868320,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1712066723711,
+    "commText": "<p><b>Delhi Capitals</b> Squad: Prithvi Shaw, David Warner, Rishabh Pant(w/c), Mitchell Marsh, Tristan Stubbs, Axar Patel, Abishek Porel, Anrich Nortje, Mukesh Kumar, Ishant Sharma, Khaleel Ahmed, Rasikh Dar Salam, Sumit Kumar, Kumar Kushagra, Praveen Dubey, Jake Fraser-McGurk, Ricky Bhui, Kuldeep Yadav, Jhye Richardson, Shai Hope, Lalit Yadav, Yash Dhull, Vicky Ostwal, Swastik Chikara</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -416,6 +26,7 @@
   {
     "timestamp": 1712066862461,
     "commText": "<p><b>Kolkata Knight Riders</b> Squad: Philip Salt(w), Sunil Narine, Venkatesh Iyer, Shreyas Iyer(c), Rinku Singh, Ramandeep Singh, Andre Russell, Mitchell Starc, Anukul Roy, Harshit Rana, Varun Chakaravarthy, Angkrish Raghuvanshi, Suyash Sharma, Vaibhav Arora, Manish Pandey, Rahmanullah Gurbaz, Chetan Sakariya, Sherfane Rutherford, Sakib Hussain, Srikar Bharat, Dushmantha Chameera, Allah Ghazanfar, Nitish Rana</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -437,8 +48,417 @@
     }
   },
   {
-    "timestamp": 1712066723711,
-    "commText": "<p><b>Delhi Capitals</b> Squad: Prithvi Shaw, David Warner, Rishabh Pant(w/c), Mitchell Marsh, Tristan Stubbs, Axar Patel, Abishek Porel, Anrich Nortje, Mukesh Kumar, Ishant Sharma, Khaleel Ahmed, Rasikh Dar Salam, Sumit Kumar, Kumar Kushagra, Praveen Dubey, Jake Fraser-McGurk, Ricky Bhui, Kuldeep Yadav, Jhye Richardson, Shai Hope, Lalit Yadav, Yash Dhull, Vicky Ostwal, Swastik Chikara</p>",
+    "timestamp": 1712066868320,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712066868330,
+    "commText": "<p><b>Preview by Pratyush Sinha:</b> \\n \\nA bit of Vizag is exactly what Mitchell Starc might need at the moment. \\n \\nHis long-distance relationship with IPL has wound up in a difficult reunion, with the left-arm pacer returning combined figures of 0 for 100 in his first two games. He neither has been able to strike with the new ball nor been economical at the death, the two aspects of the game where Kolkata Knight Riders have lagged behind in this cycle and primarily the reason they broke the bank for his services. \\n \\nOn the eve of KKR's match against Delhi Capitals, bowling coach Bharat Arun was asked about his conversations with Starc. \"Nothing about the price!\" came the light-hearted reply. \"Yes we have been talking about his strengths. I am sure he knows and understands what it is and what it takes to succeed. And the kind of experience he brings in, having played in all the conditions, it's just a matter of time before you see Starc in his elements.\" \\n \\nFortunately for Starc, it's still very early in the season and he now returns to a venue where he racked up a five-wicket haul the last time he was here. Such was thewreckage from that spell that an ODI for which Vizag waited three years lasted only 37 overs in all. \\n \\nEven a couple of nights ago, only seven overs of spin were bowled out of 40 overs during the DC-CSK match, so bowling here is a prospect Starc could definitely enjoy. But it could mean a fair bit of recalibration for a side that's traditionally thrived on the back of its spinners. \\n \\nFor Delhi Capitals, it would be about continuing to pick the threads from their last game. Recoupling of Prithvi Shaw and David Warner at the top, which assistant coach Pravin Amre revealed was the opening pair they had in mind on the auction table, paid rich dividends and Rishabh Pant grooved to the Dhoni chants that go a long way back in his career. And once the runs were on the board, the likes of Khaleel Ahmed and Mukesh Kumar also responded to hoist their first points of the season. \\n \\nDC would like to leave Vizag with two wins out of two and they would be high on confidence after getting the better of CSK, another team like KKR who came in with two wins out of two. But Shreyas Iyer's team might not be the easiest of oppositions after their away-win in Bengaluru, so watch out for a close contest. \\n \\n<b>When:</b> DC vs KKR, Match 16, IPL 2024, at 7:30 PM local \\n \\n<b>Where:</b> Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam \\n \\n<b>What to expect:</b> Another graveyard for the spinners? Bharat Arun isn't too sure. \"The pitch keeps changing like the weather,\" he said on the eve of the match. \\n \\nIt's likely that Vizag serves up another pitch where pacers call the shots; it was something that the home side definitely enjoyed and would want another bite of. It will be interesting to see what DC decide to do if they win the toss. Against CSK, they chose to bat, the second favourite option in all of limited-overs cricket, let alone IPL, but Pravin Amre reckoned it had a lot to do with asking CSK to chase. \\n \\n<b>Head to Head:</b> DC 15 - 16 KKR \\n \\n<b>Team Watch:</b> \\n \\n<b>Delhi Capitals</b> \\n \\n<b>Injury/Availability:</b> As confirmed by Ricky Ponting last time, Jhye Richardson is fit and available. Ishant Sharma made a successful return from his ankle injury in the last game and the only question that remains is around Shai Hope, who missed the last two matches with a back spasm. \\n \\n<b>Tactics/Matchups:</b> While the last match for DC came on the back of top-order contributions, they have a soft underbelly when it comes to the middle overs. So far this season, they have lost the most wickets (10), have the worst average (20.30) and the second-worst scoring rate (7.52) between overs 7 to 15. That's an area they would want to amp up their efforts in, especially against KKR. \\n \\n<b>Probable XI:</b> Prithvi Shaw, David Warner, Mitchell Marsh, Rishabh Pant(w/c), Tristan Stubbs, Abishek Porel, Axar Patel, Anrich Nortje, Mukesh Kumar, Ishant Sharma, Khaleel Ahmed. [Impact Sub: Sumit Kumar/Rasikh Dar Salam] \\n \\n<b>Kolkata Knight Riders</b> \\n \\n<b>Injury/Availability:</b> Venkatesh Iyer pulled his back in the last match but Bharat Arun said that the batter is \"fit and raring to go\". \\n \\nTactics/Matchups:Don't be too surprised to see Varun Chakaravarthy bowling to Prithvi Shaw in the powerplay; the spinner has a favourable matchup against the opener which reads 37 runs, 25 balls, 3 dismissals. That said, KKR would like their spinners to step up. They have expectedly bowled the most overs of spin this year but conceded runs at an economy rate of 8.78 while managing to pick only three wickets. On this Vizag pitch, seamer Vaibhav Arora, who took the new ball last season but hasn't got a game this year, could come into the picture on the Vizag pitch. \\n \\n<b>Probable XI:</b> Philip Salt(w), Venkatesh Iyer, Shreyas Iyer(c), Ramandeep Singh, Rinku Singh, Andre Russell, Sunil Narine, Mitchell Starc, Anukul Roy, Harshit Rana, Varun Chakaravarthy. [Impact Sub: Suyash Sharma/Vaibhav Arora] \\n \\n<b>Did you know?</b> \\n \\nDC have had the better of KKR in this cycle, winning all three matches between the sides since 2022 \\n \\nNine wickets fell to pace and only two to spin in the DC-CSK match at Vizag two nights ago \\n \\nVarun Chakaravarthy bowled his most expensive spell in IPL in KKR's opening game against SRH, when he conceded 55 and followed it up with a two-over spell of 0/20 against RCB \\n \\nAnrich Nortje has figures of 1/48 and 0/43 in his two appearances in IPL 2024 so far extending his poor record in the tournament in India. \\n \\n<b>What they said:</b> \\n \\n\"We are carrying a lot of momentum and also great energy in the team. There's nothing like success. We totally trust in our plans and we are up for it.\"<b> - Bharat Arun,</b> KKR bowling coach. \\n \\n\"CSK also came with two wins, but we played our best cricket. It's not about what they are coming up with, but it's about how we are playing and will focus on what best we can give. We also look to finish on a winning note as it will be our last game in Vizag.\" <b>-Pravin Amre,</b> DC assistant coach</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712148302654,
+    "commText": "<p><b>18:15 Local Time, 12:45 GMT, 18:15 IST:</b> KKR are on a roll with two wins out of two games. On the other hand, the Delhi Capitals secured their first win at their new home in Visakhapatnam, uprooting the Chennai Super Kings by 20 runs and confirming their first points of #IPL2024. Prithvi Shaw returned in style, Rishabh Pant overcame a slow start to torch CSK towards the death overs and the bowlers enjoyed the conditions in Vizag to the hilt. But they're now up against one of the form teams of the tournament in the Knight Riders, who have been well rested with just two matches played so far. Phil Salt has scored runs at the top of the order, Sunil Narine tore into RCB with the bat in the last game and the middle-order is brimming with confidence. Throw in a functioning bowling department and they've got all bases covered. Vizag was a lucky charm for the Capitals on the other day, can they finish well with a win tonight?\u00a0</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712149800532,
+    "commText": "<p>It's nice and cool - it's not a big ground, the side boundaries are 60m each and the straight boundary is at 74m. It looks like a well prepared surface, it looks very hard and with not much grass. Because of its hardness, there will not be a lot in it for\u00a0the spinners, variations will be the key for the pacers. Khaleel Ahmed spoke about getting more swing due to the wind and it's something to look forward to. Generally, this looks like an easy and true surface\u00a0with the batters able to score across all the parts of the ground, reckons <b>Ian Bishop</b>, in his pitch report.\u00a0</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712150056121,
+    "commText": "<p><b>Harshit Rana</b> - Delhi has a lot of experienced players, we juniors have watched them and have got motivated by their pace. I'm enjoying the faith shown by the franchise and want to do the best. I had worked on my bowling\u00a0before\u00a0the tournament, learnt from new things and worked on it. I've also worked on my batting.\u00a0</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712150056131,
+    "commText": "<p><b>Prithvi Shaw:</b> I\u2019m absolutely fine, I felt very good that I got a chance to play white-ball cricket after a long time. Before this, I had played 3-4 Ranji matches but the injury stayed for 5 months, it was not a struggle for me I would say, I enjoyed those moments also but I was a bit sad as everything was going good then but everything is fine now. (On his opening combination with Warner) I feel that from last year, our combination has been good, we play percentage cricket and I believe that the opening partnership in the first 6 overs is very important. We also discuss in team meetings that one person from the top-order should stay till the 15-16th over, that boosts the chances of winning. Myself and Warner discuss that even if we don\u2019t score runs in the first 2-3 overs, we are those kind of batters who can cover up later on.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712150224475,
+    "commText": "<p>Our correspondent Pratyush Sinha is early at the ground and he has seen quite a bit. 'Hello from Vizag! Nice breezy evening. They are using the same surface from two days ago, so should play very similar. Spotted KKR's Vaibhav Arora marking his run-up but DC's Mukesh Kumar, who bowled through a hamstring strain against CSK, hasn't marked his run-up yet from what I've seen. Mitchell Marsh, Khaleel Ahmed and Rasikh Salam have'</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712151058481,
+    "commText": "<p><b>Kolkata Knight Riders have won the toss and have opted to bat</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712151325865,
+    "commText": "<p><b>Shreyas Iyer</b> - We'll bat first. The wicket looks like a belter, no drastic change in the wicket when compared to the last game. It's been quite a journey, was a with Delhi and now with KKR, I'm comfortable with this switch. Anything can happen on a given day, it's important to stick to the process. We've Sunil (Narine) coming in and going after the bowlers in the first 6 overs, so his role is very clear and the rest know what's expected of them. One change - Angrish Raghuvanshi comes in</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712151334520,
+    "commText": "<p><b>Rishabh Pant</b> - We would have batted first as well, could get a bit slower. It was nice to be back with the group, but I'm not thinking too far ahead. Thew bowlers did a great job, the fast bowlers, and we'd like them to do it once again. Not thinking about the team combination for the first two games, but we've had people working hard in the nets. We just need to keep doing the right things - one change, Mukesh is injured and he's replaced by Sumit.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712151387258,
+    "commText": "<p><b>Kolkata Knight Riders</b> (Playing XI): Philip Salt(w), Sunil Narine, Venkatesh Iyer, Shreyas Iyer(c), Rinku Singh, Angkrish Raghuvanshi, Andre Russell, Ramandeep Singh, Mitchell Starc, Harshit Rana, Varun Chakaravarthy</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712151470400,
+    "commText": "<p><b>Delhi Capitals</b> (Playing XI): Prithvi Shaw, David Warner, Mitchell Marsh, Rishabh Pant(w/c), Tristan Stubbs, Axar Patel, Sumit Kumar, Rasikh Dar Salam, Anrich Nortje, Ishant Sharma, Khaleel Ahmed</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712151479242,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712151641995,
+    "commText": "<p><b>Kolkata Knight Riders Subs: </b>Suyash Sharma, Anukul Roy, Manish Pandey, Vaibhav Arora, Rahmanullah Gurbaz</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712151711433,
+    "commText": "<p><b>Delhi Capitals Subs:</b> Abishek Porel, Kumar Kushagra, Praveen Dubey, Lalit Yadav, Jake Fraser-McGurk</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712151810882,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712151914893,
+    "commText": "<p>We've an injury forced change in our expert XI. Have a look before locking in your fantasy team</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712152434516,
+    "commText": "<p>The players are out in the middle - Salt and Narine, the two KKR openers. Warner with all the talking in the DC huddle. Khaleel Ahmed will take the new ball, a slip and a wide slip in place</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

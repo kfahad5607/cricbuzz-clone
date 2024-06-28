@@ -1,398 +1,8 @@
 [
   {
-    "timestamp": 1712483792311,
-    "commText": "<p>The players are out in the middle and we're ready to go. Another hot day in Mumbai and Khaleel will start for the Capitals - a slip and a wide slip in place</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712482908126,
-    "commText": "<p><b>Here are the impact subs for both teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712482826829,
-    "commText": "<p><b>Mumbai Indians Subs:</b> Akash Madhwal, Kwena Maphaka, Naman Dhir, Nehal Wadhera, Shams Mulani</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712482737069,
-    "commText": "<p><b>Delhi Capitals Subs:</b> Kumar Kushagra, Yash Dhull, Fraser-McGurk, Sumit Kumar, Praveen Dubey</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712482669044,
-    "commText": "<p>Kumar Kushagra was handed the cap, so he could be DC's impact substitute. MI are batting first and they could bring in Akash Madhwal as their impact sub. Have a look at our expert XI before locking in your fantasy teams.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712482647550,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712482646260,
-    "commText": "<p><b>Mumbai Indians</b> (Playing XI): Rohit Sharma, Ishan Kishan(w), Suryakumar Yadav, Tilak Varma, Hardik Pandya(c), Tim David, Mohammad Nabi, Romario Shepherd, Piyush Chawla, Gerald Coetzee, Jasprit Bumrah</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712482586244,
-    "commText": "<p><b>Delhi Capitals</b> (Playing XI): David Warner, Prithvi Shaw, Abishek Porel, Rishabh Pant(w/c), Tristan Stubbs, Axar Patel, Lalit Yadav, Jhye Richardson, Anrich Nortje, Ishant Sharma, Khaleel Ahmed</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712482526170,
-    "commText": "<p><b>Hardik Pandya</b> - We would have bowled first as well, but batting first is also not a problem, this wicket does look a bit drier. The ball might not\u00a0come on nicely unlike in a night game. But there will be less swing and it should be good to bat. We don't want to put pressure\u00a0onto us, but one win will give us a lot of confidence. Almost 18,000 young people are supporting us today, we're here to represent\u00a0them and want them to go back home with a smile. Three changes for us - Surya is back, he replaces Naman. Romario replaces Mapakha and Nabi is in, he replaces Brevis.\u00a0</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712482511363,
-    "commText": "<p><b>Rishabh Pant</b> - We will bowl first. The wicket looks good, but you can chase any target here in Wankhede. We'll have to stick together as a team. I'm happy to be back, pleasure to be on the field in each and every game. Bowling is one department where we've been on and off, but it's hard for them in T20s. Just two changes for us.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712482248272,
-    "commText": "<p><b>Delhi Capitals have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712482136235,
-    "commText": "<p><b>Some team news from DC</b> - Jhye Richardson and Kumar Kushagra have got their maiden caps. It will be the latter's debut in the IPL.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712481474989,
-    "commText": "<p><b>Piyush Chawla</b> - You go into the ground with a positive frame\u00a0of mind and it's no different here at the Wankhede stadium. The amount of love that the fans show here means a lot for us. First 3 matches haven't been good for us, but we'll have to forget it. We still have 11 games and it's important for us to think about the future. Two points today would be very important. I don't think if it's a day match or a night back, I just back my strengths.\u00a0</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712481116574,
-    "commText": "<p><b>Khaleel Ahmed</b> - I am thrilled, the way the ball is swinging - it was doing the same during the domestic season and I was waiting for the IPL, which is a platform to show my skills at the highest level. I've bowled a lot, I've got my run-up perfect and worked on my non-bowling arm during the domestic season. Reverse swing does happen at times and it's important to make the most of it during the death overs. You can't experiment too much in that phase of play, back your variations and your yorkers. I like playing at the Wankhede, especially during the night. It's a red soil pitch and the ball does swing. But today is a day game, so I will have to see if the ball does swing, but I'm definitely excited.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712480158318,
-    "commText": "<p>The side boundaries are pretty short at 62m and 63m respectively. The straight boundary is at 74m. It's pitch 7 and it's absolutely rock hard, this is the same wicket that was used against Rajasthan Royals. It swung for Trent Boult that night, but it shouldn't be the case today. It's red-hot and feels warm. It has a bit of grass, but there should be plenty of runs on offer. There have been 6 day games here and the scores in 5 of them have been between 180-200. The numbers indicate that spinners have gone for less number of runs, but the ball flies here. Chasing side usually does better here. Should be a high scoring game, reckon <b>Mpumelelo Mbangwa and Simon Katich</b>, in their pitch report.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712479803186,
-    "commText": "<p><b>14:20 Local Time, 08:50 GMT, 14:20 IST:</b> It has been a slow start for both Mumbai Indians and the Delhi Capitals as they languish at the bottom of the table. The Capitals have one win from four matches while the Mumbai Indians are the only team to yet register a win this season, having lost all their three matches so far. While RR and KKR sit pretty at 1 and 2, there's a logjam in the middle and it gives an opportunity for both of these two teams to kickstart their faltering campaign. The Capitals were lacklustre\u00a0in their previous match with Ricky Ponting admitting that he was 'embarrassed' by their first half performance. Injuries haven't helped their cause either with Kuldeep Yadav still sitting out. On the other side, Mumbai Indians have not been helped by off-field issues which have threatened\u00a0to derail their campaign this season. On the positive side, they've been bolstered by the arrival of Surya Kumar Yadav and it might not be a surprise if he's drafted into the playing\u00a0XI today.\u00a0</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712398567425,
-    "commText": "<p><b>Preview:</b> \\n \\nHaving suffered three consecutive losses, Mumbai Indians are in a dire need of a victory. History, though, tells us that they've overcome worse starts to a season and still clinched the championship. For instance, in the 2015 edition, despite enduring reversals in their first four games, and losing five out of the initial six matches, they eventually ended up lifting the title. \\n \\nThe same, though, is unlikely to be said of Ishan Kishan (4, 34, 16), one of the batting mainstays of Mumbai Indians. With Rishabh Pant (18, 28, 51 and 55) and Sanju Samson (82 not out, 15 and 12) - Kishan's perceived competitors - registering strong performances in the season, the MI stumper could be feeling the heat to secure his place in the squad for the upcoming 2024 T20 World Cup. The national selectors are expected to watch the first half of the league before picking the team for the ICC event. \\n \\nKishan had stirred a controversy a few months ago by locking himself from the cricket world and refusing to take part in domestic cricket despite express instructions from the selectors and the BCCI. However, the live images of him conversing with BCCI secretary Jay Shah, apparently in a friendly way after an IPL game recently, suggested that all is well between him and the BCCI. \\n \\nHowever with no meaty scores to back his case, Kishan, one of the key wicketkeeper-batters in the country who was also part of last year's World Cup squad, he may be facing a race against time. Kishan spent a long time at the team nets on Saturday afternoon at the Wankhede, trying to clear the fence. With Pant in the other team, it will be a contest within the contest between them on Sunday afternoon. \\n \\nThe match will be as much about Kishan and Pant as much about Suryakumar Yadav. The prolific batter, who led India not too long ago in South Africa, was last seen in action in December. His return to action, after more than 100 days of hiatus, will be eagerly welcomed by the winless Mumbai Indians side. His return could mean that Naman Dhir, who has impressed with his stroke-making, may come in as an Impact Player. \\n \\nSourav Ganguly, meanwhile, backed the beleaguered MI captain, Hardik Pandya, who has been facing hostility from the crowd after he was appointed skipper in place of Rohit Sharma. \"I don't think they (crowd) should boo Pandya. It's not correct. The franchisee has appointed him as captain. Obviously Rohit Sharma is a different class. But then it's not a hard thing for all, that he has (Pandya) been appointed as captain. I think all of us need to understand,\" Ganguly said. \\n \\n<b>When:</b> Mumbai Indians vs Delhi Capitas, IPL 2024, April 7, 15:30 IST \\n \\n<b>Where:</b> Wankhede Stadium, Mumbai \\n \\n<b>What to expect:</b> The teams are at the bottom of the points table and will obviously be looking to go up on the ladder. It will be a keen contest with the Wankhede pitch assisting the batsmen. It being an afternoon game, the dew will not be a factor which means toss will not be that much crucial \\n \\n<b>Head to Head:</b> MI 18 - 15 DC. Mumbai also have a better record against the Delhi side in recent times, leading them by 6:3 since 2020. Last year, Mumbai Indians had won the only match between them. \\n \\n<b>Team Watch:</b> \\n \\n<b>Mumbai Indians</b> \\n \\n<b>Injury/Availability:</b> Mumbai Indians have full strength for the game with Suryakumar Yadav back in the mix. \\n \\n<b>Tactics & Matchups:</b> It is obvious that Surya will be available for the game which means Naman Dhir could come as an Impact player. MI might use Jasprit Bumrah for at least two overs in the power play so that they can attack opener David Warner, their highest scorer of the season so far. \\n \\n<b>Probable XI:</b> Hardik Pandya (c), Rohit Sharma, Dewald Brevis, Jasprit Bumrah, Piyush Chawla, Gerald Coetzee, Tim David, Ishan Kishan (wk), Akash Madhwal, Kwena Maphaka, Suryakumar Yadav. Substitute: Naman Dhir. \\n \\n<b>Delhi Capitals</b> \\n \\n<b>Injury/Availability:</b> Kuldeep Yadav continues to be doubtful. He needs to clear fitness test. \\n \\n<b>Tactics & Matchups:</b> Delhi Capitals may leave out Mitchell Marsh and include compatriot Jake Fraser McGurk, who has the fastest List A hundred. They are handicapped by the by the absence of Kuleep and may use Axar Patel for full quota of four overs, which they did not in their last game, against Kolkata Knight Riders \\n \\n<b>Probable XI:</b> Prithvi Shaw, David Warner, Rishabh Pant (c & wk), Tristan Stubbs, Axar Patel, Sumit Kumar, Rasikh Dar Salam, Anrich Nortje, Ishant Sharma, Khaleel Ahmed and Jake Fraser McGurk. Substitute: Abhishek Porel \\n \\n<b>What they said:</b> \\n \\n\"Surya is available. He has joined the camp. I don't know about my selection. It is a management decision. I will prepare for the next game. Right now I don't know about it (selection)\" - <b>Naman Dhir</b> on whether he will be used as an Impact Player in the match \\n \\n\"Mumbai are a good side. We are a good team as well. We've won one game against Chennai. We expect Mumbai to play well because they have been a great franchise over a long period of time. They have some quality players, so you expect them to play well. But T20 is such a format that sometimes you get into this situation where you lose a couple of games and then you have to find a way to get back. So we expect them to play well. This is their home and this is a great cricketing venue in Mumbai. So we expect them to play well and it's going to be a good game tomorrow. We'll compete\" - <b>Sourav Ganguly</b>, DC team director, on Mumbai Indians</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712398567415,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1712398434573,
+    "commText": "<p><b>Delhi Capitals</b> Squad: David Warner, Prithvi Shaw, Mitchell Marsh, Abishek Porel, Rishabh Pant(w/c), Tristan Stubbs, Axar Patel, Sumit Kumar, Rasikh Dar Salam, Anrich Nortje, Ishant Sharma, Khaleel Ahmed, Mukesh Kumar, Kumar Kushagra, Praveen Dubey, Jake Fraser-McGurk, Yash Dhull, Kuldeep Yadav, Ricky Bhui, Jhye Richardson, Shai Hope, Lalit Yadav, Vicky Ostwal, Swastik Chikara</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -416,6 +26,7 @@
   {
     "timestamp": 1712398565797,
     "commText": "<p><b>Mumbai Indians</b> Squad: Ishan Kishan(w), Rohit Sharma, Naman Dhir, Dewald Brevis, Tilak Varma, Hardik Pandya(c), Piyush Chawla, Tim David, Gerald Coetzee, Jasprit Bumrah, Akash Madhwal, Kwena Maphaka, Romario Shepherd, Nuwan Thushara, Nehal Wadhera, Shams Mulani, Suryakumar Yadav, Vishnu Vinod, Shreyas Gopal, Luke Wood, Mohammad Nabi, Arjun Tendulkar, Kumar Kartikeya, Shivalik Sharma, Anshul Kamboj</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -437,8 +48,417 @@
     }
   },
   {
-    "timestamp": 1712398434573,
-    "commText": "<p><b>Delhi Capitals</b> Squad: David Warner, Prithvi Shaw, Mitchell Marsh, Abishek Porel, Rishabh Pant(w/c), Tristan Stubbs, Axar Patel, Sumit Kumar, Rasikh Dar Salam, Anrich Nortje, Ishant Sharma, Khaleel Ahmed, Mukesh Kumar, Kumar Kushagra, Praveen Dubey, Jake Fraser-McGurk, Yash Dhull, Kuldeep Yadav, Ricky Bhui, Jhye Richardson, Shai Hope, Lalit Yadav, Vicky Ostwal, Swastik Chikara</p>",
+    "timestamp": 1712398567415,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712398567425,
+    "commText": "<p><b>Preview:</b> \\n \\nHaving suffered three consecutive losses, Mumbai Indians are in a dire need of a victory. History, though, tells us that they've overcome worse starts to a season and still clinched the championship. For instance, in the 2015 edition, despite enduring reversals in their first four games, and losing five out of the initial six matches, they eventually ended up lifting the title. \\n \\nThe same, though, is unlikely to be said of Ishan Kishan (4, 34, 16), one of the batting mainstays of Mumbai Indians. With Rishabh Pant (18, 28, 51 and 55) and Sanju Samson (82 not out, 15 and 12) - Kishan's perceived competitors - registering strong performances in the season, the MI stumper could be feeling the heat to secure his place in the squad for the upcoming 2024 T20 World Cup. The national selectors are expected to watch the first half of the league before picking the team for the ICC event. \\n \\nKishan had stirred a controversy a few months ago by locking himself from the cricket world and refusing to take part in domestic cricket despite express instructions from the selectors and the BCCI. However, the live images of him conversing with BCCI secretary Jay Shah, apparently in a friendly way after an IPL game recently, suggested that all is well between him and the BCCI. \\n \\nHowever with no meaty scores to back his case, Kishan, one of the key wicketkeeper-batters in the country who was also part of last year's World Cup squad, he may be facing a race against time. Kishan spent a long time at the team nets on Saturday afternoon at the Wankhede, trying to clear the fence. With Pant in the other team, it will be a contest within the contest between them on Sunday afternoon. \\n \\nThe match will be as much about Kishan and Pant as much about Suryakumar Yadav. The prolific batter, who led India not too long ago in South Africa, was last seen in action in December. His return to action, after more than 100 days of hiatus, will be eagerly welcomed by the winless Mumbai Indians side. His return could mean that Naman Dhir, who has impressed with his stroke-making, may come in as an Impact Player. \\n \\nSourav Ganguly, meanwhile, backed the beleaguered MI captain, Hardik Pandya, who has been facing hostility from the crowd after he was appointed skipper in place of Rohit Sharma. \"I don't think they (crowd) should boo Pandya. It's not correct. The franchisee has appointed him as captain. Obviously Rohit Sharma is a different class. But then it's not a hard thing for all, that he has (Pandya) been appointed as captain. I think all of us need to understand,\" Ganguly said. \\n \\n<b>When:</b> Mumbai Indians vs Delhi Capitas, IPL 2024, April 7, 15:30 IST \\n \\n<b>Where:</b> Wankhede Stadium, Mumbai \\n \\n<b>What to expect:</b> The teams are at the bottom of the points table and will obviously be looking to go up on the ladder. It will be a keen contest with the Wankhede pitch assisting the batsmen. It being an afternoon game, the dew will not be a factor which means toss will not be that much crucial \\n \\n<b>Head to Head:</b> MI 18 - 15 DC. Mumbai also have a better record against the Delhi side in recent times, leading them by 6:3 since 2020. Last year, Mumbai Indians had won the only match between them. \\n \\n<b>Team Watch:</b> \\n \\n<b>Mumbai Indians</b> \\n \\n<b>Injury/Availability:</b> Mumbai Indians have full strength for the game with Suryakumar Yadav back in the mix. \\n \\n<b>Tactics & Matchups:</b> It is obvious that Surya will be available for the game which means Naman Dhir could come as an Impact player. MI might use Jasprit Bumrah for at least two overs in the power play so that they can attack opener David Warner, their highest scorer of the season so far. \\n \\n<b>Probable XI:</b> Hardik Pandya (c), Rohit Sharma, Dewald Brevis, Jasprit Bumrah, Piyush Chawla, Gerald Coetzee, Tim David, Ishan Kishan (wk), Akash Madhwal, Kwena Maphaka, Suryakumar Yadav. Substitute: Naman Dhir. \\n \\n<b>Delhi Capitals</b> \\n \\n<b>Injury/Availability:</b> Kuldeep Yadav continues to be doubtful. He needs to clear fitness test. \\n \\n<b>Tactics & Matchups:</b> Delhi Capitals may leave out Mitchell Marsh and include compatriot Jake Fraser McGurk, who has the fastest List A hundred. They are handicapped by the by the absence of Kuleep and may use Axar Patel for full quota of four overs, which they did not in their last game, against Kolkata Knight Riders \\n \\n<b>Probable XI:</b> Prithvi Shaw, David Warner, Rishabh Pant (c & wk), Tristan Stubbs, Axar Patel, Sumit Kumar, Rasikh Dar Salam, Anrich Nortje, Ishant Sharma, Khaleel Ahmed and Jake Fraser McGurk. Substitute: Abhishek Porel \\n \\n<b>What they said:</b> \\n \\n\"Surya is available. He has joined the camp. I don't know about my selection. It is a management decision. I will prepare for the next game. Right now I don't know about it (selection)\" - <b>Naman Dhir</b> on whether he will be used as an Impact Player in the match \\n \\n\"Mumbai are a good side. We are a good team as well. We've won one game against Chennai. We expect Mumbai to play well because they have been a great franchise over a long period of time. They have some quality players, so you expect them to play well. But T20 is such a format that sometimes you get into this situation where you lose a couple of games and then you have to find a way to get back. So we expect them to play well. This is their home and this is a great cricketing venue in Mumbai. So we expect them to play well and it's going to be a good game tomorrow. We'll compete\" - <b>Sourav Ganguly</b>, DC team director, on Mumbai Indians</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712479803186,
+    "commText": "<p><b>14:20 Local Time, 08:50 GMT, 14:20 IST:</b> It has been a slow start for both Mumbai Indians and the Delhi Capitals as they languish at the bottom of the table. The Capitals have one win from four matches while the Mumbai Indians are the only team to yet register a win this season, having lost all their three matches so far. While RR and KKR sit pretty at 1 and 2, there's a logjam in the middle and it gives an opportunity for both of these two teams to kickstart their faltering campaign. The Capitals were lacklustre\u00a0in their previous match with Ricky Ponting admitting that he was 'embarrassed' by their first half performance. Injuries haven't helped their cause either with Kuldeep Yadav still sitting out. On the other side, Mumbai Indians have not been helped by off-field issues which have threatened\u00a0to derail their campaign this season. On the positive side, they've been bolstered by the arrival of Surya Kumar Yadav and it might not be a surprise if he's drafted into the playing\u00a0XI today.\u00a0</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712480158318,
+    "commText": "<p>The side boundaries are pretty short at 62m and 63m respectively. The straight boundary is at 74m. It's pitch 7 and it's absolutely rock hard, this is the same wicket that was used against Rajasthan Royals. It swung for Trent Boult that night, but it shouldn't be the case today. It's red-hot and feels warm. It has a bit of grass, but there should be plenty of runs on offer. There have been 6 day games here and the scores in 5 of them have been between 180-200. The numbers indicate that spinners have gone for less number of runs, but the ball flies here. Chasing side usually does better here. Should be a high scoring game, reckon <b>Mpumelelo Mbangwa and Simon Katich</b>, in their pitch report.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712481116574,
+    "commText": "<p><b>Khaleel Ahmed</b> - I am thrilled, the way the ball is swinging - it was doing the same during the domestic season and I was waiting for the IPL, which is a platform to show my skills at the highest level. I've bowled a lot, I've got my run-up perfect and worked on my non-bowling arm during the domestic season. Reverse swing does happen at times and it's important to make the most of it during the death overs. You can't experiment too much in that phase of play, back your variations and your yorkers. I like playing at the Wankhede, especially during the night. It's a red soil pitch and the ball does swing. But today is a day game, so I will have to see if the ball does swing, but I'm definitely excited.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712481474989,
+    "commText": "<p><b>Piyush Chawla</b> - You go into the ground with a positive frame\u00a0of mind and it's no different here at the Wankhede stadium. The amount of love that the fans show here means a lot for us. First 3 matches haven't been good for us, but we'll have to forget it. We still have 11 games and it's important for us to think about the future. Two points today would be very important. I don't think if it's a day match or a night back, I just back my strengths.\u00a0</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712482136235,
+    "commText": "<p><b>Some team news from DC</b> - Jhye Richardson and Kumar Kushagra have got their maiden caps. It will be the latter's debut in the IPL.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712482248272,
+    "commText": "<p><b>Delhi Capitals have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712482511363,
+    "commText": "<p><b>Rishabh Pant</b> - We will bowl first. The wicket looks good, but you can chase any target here in Wankhede. We'll have to stick together as a team. I'm happy to be back, pleasure to be on the field in each and every game. Bowling is one department where we've been on and off, but it's hard for them in T20s. Just two changes for us.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712482526170,
+    "commText": "<p><b>Hardik Pandya</b> - We would have bowled first as well, but batting first is also not a problem, this wicket does look a bit drier. The ball might not\u00a0come on nicely unlike in a night game. But there will be less swing and it should be good to bat. We don't want to put pressure\u00a0onto us, but one win will give us a lot of confidence. Almost 18,000 young people are supporting us today, we're here to represent\u00a0them and want them to go back home with a smile. Three changes for us - Surya is back, he replaces Naman. Romario replaces Mapakha and Nabi is in, he replaces Brevis.\u00a0</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712482586244,
+    "commText": "<p><b>Delhi Capitals</b> (Playing XI): David Warner, Prithvi Shaw, Abishek Porel, Rishabh Pant(w/c), Tristan Stubbs, Axar Patel, Lalit Yadav, Jhye Richardson, Anrich Nortje, Ishant Sharma, Khaleel Ahmed</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712482646260,
+    "commText": "<p><b>Mumbai Indians</b> (Playing XI): Rohit Sharma, Ishan Kishan(w), Suryakumar Yadav, Tilak Varma, Hardik Pandya(c), Tim David, Mohammad Nabi, Romario Shepherd, Piyush Chawla, Gerald Coetzee, Jasprit Bumrah</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712482647550,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712482669044,
+    "commText": "<p>Kumar Kushagra was handed the cap, so he could be DC's impact substitute. MI are batting first and they could bring in Akash Madhwal as their impact sub. Have a look at our expert XI before locking in your fantasy teams.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712482737069,
+    "commText": "<p><b>Delhi Capitals Subs:</b> Kumar Kushagra, Yash Dhull, Fraser-McGurk, Sumit Kumar, Praveen Dubey</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712482826829,
+    "commText": "<p><b>Mumbai Indians Subs:</b> Akash Madhwal, Kwena Maphaka, Naman Dhir, Nehal Wadhera, Shams Mulani</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712482908126,
+    "commText": "<p><b>Here are the impact subs for both teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712483792311,
+    "commText": "<p>The players are out in the middle and we're ready to go. Another hot day in Mumbai and Khaleel will start for the Capitals - a slip and a wide slip in place</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

@@ -1,375 +1,8 @@
 [
   {
-    "timestamp": 1715349535931,
-    "commText": "<p>The players are out in the middle and we are ready for live action. Gill and Sudharsan to open the innings as Santner will start off with the new ball. A slip in place and here we go!</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715349157073,
-    "commText": "<p>We have made a few changes to our Expert XI, do check out the Fantasy Handbook before you lock in your teams..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715348481645,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715348454789,
-    "commText": "<p><b>Gujarat Titans Impact Subs:</b> Abhinav Manohar, Sandeep Warrier, BR Sharath, Darshan Nalkande, Jayant Yadav</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715348405845,
-    "commText": "<p><b>Chennai Super Kings Impact Subs:</b> Ajinkya Rahane, Shaik Rasheed, Aravelly Avanish, Sameer Rizvi, Mukesh Choudhary</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715348267225,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715348265286,
-    "commText": "<p><b>Gujarat Titans</b> (Playing XI): Shubman Gill(c), Sai Sudharsan, Shahrukh Khan, David Miller, Matthew Wade(w), Rahul Tewatia, Rashid Khan, Noor Ahmad, Umesh Yadav, Mohit Sharma, Kartik Tyagi</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715348187947,
-    "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Ruturaj Gaikwad(c), Rachin Ravindra, Daryl Mitchell, Shivam Dube, Moeen Ali, Ravindra Jadeja, MS Dhoni(w), Mitchell Santner, Shardul Thakur, Tushar Deshpande, Simarjeet Singh</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715347961804,
-    "commText": "<p><b>Shubman Gill:</b> Would have bowled first as well, looks a good wicket. There's 1 percent chance of qualifying, so we are going to try hard for that. The mood is like any other match, we as a team believe in doing the best we can. Will be a good surface to bat on. Will score runs and try to restrict them. Wade comes in for Saha who has a niggle. In order to get the team combination right, <b>Kartik Tyagi</b> makes his debut, he comes in for Joshua Little.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715347872713,
-    "commText": "<p><b>Ruturaj Gaikwad:</b> We will bowl first. Looks a good wicket to be honest. It's been a chasing ground, so we will look to chase. Pretty much similar to Chennai. We didn't like the red soil wicket much. Pretty relaxed. You tend to lose many games in IPL, you got to back everyone and make sure everyone is in a good head space. We had injuries in between, but happy now. Rachin Ravindra comes in for Gleeson.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715347859171,
-    "commText": "<p><b>Chennai Super Kings have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715347714368,
-    "commText": "<p>Right then, it's toss time at the Narendra Modi Stadium..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715346644762,
-    "commText": "<p><b>Pitch report:</b> It's got a good covering of grass and it feels solid under the hand. I am looking at a high-scoring game. Two teams are going to come and push that 200-run mark. I can't see the pitch changing. There might be a little bit of swing early on. You got two bowlers on either side that can swing. Good outfield, I am looking at a high-scoring game, reads <b>Chris Morris.</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715346272134,
-    "commText": "<p>The most consistent team in the history of IPL are living up to their legacy once again. Under the leadership of Ruturaj Gaikwad, Chennai Super Kings have done a pretty good job this season and find themselves in a strong position with three more games to go. A win today further solidifies their chance to make it through to the knockouts. With 541 runs in 11 games, Ruturaj is only behind Virat Kohli in the list of leading run-getters this season. Today he has a chance to inch closer to Kohli\u2019s tally of 634 runs. Shubman Gill, who scored almost 900 runs last year is not anywhere close in the list, precisely why Gujarat Titans are placed at the bottom. Let\u2019s hope the Titans manage to put up a spirited performance in their remaining three games and have something for their fans to cheer about. Toss and teams are not far away, stay tuned for all the updates..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715346131970,
-    "commText": "<p><b>18:30 Local Time, 13:00 GMT, 18:30 IST:</b> Two teams eliminated. Two teams almost through to the playoffs. We are moving towards the business end of the tournament as every game becomes crucial. Teams cannot afford to be any more complacent. Given the quality of cricket Gujarat Titans have played this season, they might be the third team to get eliminated from the tournament tonight. They face Chennai Super Kings who beat them in the grand finale last season and the five-time IPL champions might hurt them again. Hello and welcome to our live coverage of Match 59 of IPL 2024 folks!</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715265030569,
-    "commText": "<p><b>Preview by Vijay Tagore</b> \\n \\nStatistically, there is little to differentiate between the <b>Gujarat Titans</b> and the <b>Chennai Super Kings.</b> However, GT find themselves virtually out of contention for a playoffs berth, barring an improbable numerical miracle. Therefore, when the teams clash at the Narendra Modi Stadium in Ahmedabad on Thursday, the pressure will be on the visitors. For them, a win is more of a necessity than for the home side in terms of competitive context. With 12 points from 11 games, they need at least <b>two wins from the remaining three games.</b> \\n \\nAchieving a win against the Titans will not be easy, despite CSK's recent dominance over the Gujarat side. CSK have won their last three encounters, including this year's season-opener and last year's final. However, with nothing to lose, the Titans can be a dangerous side, especially with skipper <b>Shubman Gill</b> on a mission to prove a point or two over his captaincy. Besides, the Super Kings are depleted, with key bowlers <b>Matheesha Pathirana and Mustafizur Rahman</b> unavailable for different reasons. Both, in fact, have left the camp. \\n \\nChennai will largely depend on domestic bowlers such as <b>Tushar Deshpande, Simarjit Singh, Shardul Thakur, and Ravindra Jadeja, besides Mitchll Santner, Moeen Ali, and Richard Gleeson.</b> While they had a fairly easy run against Punjab Kings at Dharamsala, facing the Titans at home, could present a different challenge. This is something that batting coach and mentor <b>Gary Kirsten</b> promised the Titans would be prepared for in their next three games. \\n \\n\"Hopefully (we) have a good last three games. I think it's been one of those seasons where we haven't quite got it going. So after two really good years, to finish on a high note I think would be really important. So I think try and take it one game at a time, see if we can play a really good game of cricket tomorrow. The most important thing for us is playing to the level that we know we are capable of. If we can do that, we give ourselves a good chance of winning a game of cricket,\" the South African, who will be leaving the franchise to take over as the coach of Pakistan team, said. \\n \\nA depleted bowling attack apart, CSK have not exactly managed a good start with the bat. Skipper <b>Ruturaj Gaikwad</b> has been impressive but not the other top order batters - <b>Ajinkya Rahane,</b> in particular. But <b>Fleming said one should not expect the sort of starts that Sunrisers Hyderabad from Chennai Super Kings and they will also not adopt that style of full throttle attack.</b> \\n \\n\"Lack of impetus (at the top) and based on what you saw from Sunrises last night? So we are not as risky as other teams, but we're still getting scores that are similar. I know there's a lot of interest in that. We're not all going to play the same way and with the players that we've got, we think we can do it a different way. We're not going to conform to that just because... It is great to watch and it's tough on the bowlers, but we've got a style of play that we're happy with and we're in the mix, so we'll just cement it. That's our style,\" the New Zealander said. \\n \\n<b>When:</b> Gujarat Titans vs Chennai Super Kings, IPL 2024, <b>May 10, 19:30 IST</b> \\n \\n<b>Where:</b> Narendra Modi Stadium, Ahmedabad \\n \\n<b>What to expect:</b> <b>A high-scoring game with the captain winning the toss opting to field first has been the trend. The pitch may be a little worn out but it still looks full of runs.</b> \\n \\n<b>Head to Head:</b> GT 3 - 3 CSK. \\n \\n<b>Team Watch:</b> \\n \\n<b>Gujarat Titans</b> \\n \\n<b>Injury/Unavailability:</b> No injury concerns for the home team. \\n \\n<b>Tactics & Matchups:</b> <b>Sai Sudharsan has done well against Ravindra Jadeja - CSK's form bowler, with 32 runs in 21 balls without a dismissal.</b> The left-hander has also taken on one of CSK's best bowler this season <b>Tushar Deshpande</b> in his previous encounters against him. The TN batter could hold the aces against CSK in a must-win fixture. \\n \\n<b>Probable XI:</b> Wriddhiman Saha (wk), Shubman Gill (c), Sai Sudharsan, David Miller, Azmatullah Omarzai, Rahul Tewatia, Shahrukh Khan, Rashid Khan, Ravisrinivasan Sai Kishore, Noor Ahmad, Mohit Sharma. \\n \\n<b>Chennai Super Kings</b> \\n \\n<b>Injury/Unavailability:</b> CSK have a handful of absentees with the likes of <b>Deepak Chahar, Mustafizur Rahman and Matheesha Pathirana</b> not available for rest of the season due to injury and national duty. \\n \\n<b>Tactics & Matchups:</b> <b>Shardul Thakur</b> could add to <b>Shubman Gill's</b> middling season as he comes with a favourable match-up [36 runs | 31 balls | 2 dismissals] against the GT captain. \\n \\n<b>Probable XI:</b> Ajinkya Rahane, Ruturaj Gaikwad (c), Daryl Mitchell, Shivam Dube, Moeen Ali, Ravindra Jadeja, MS Dhoni (wk), Mitchell Santner, Shardul Thakur, Richard Gleeson, Tushar Deshpande \\n \\n<b>What They said:</b> \\n \\n\"I think he's <b>Shubman Gill</b> enjoyed the captaincy. You know, it's something that takes time to really master, but I think he's enjoyed it this season and he's a world class player. So I have no doubt that in the next three games he's going to put in one or two really good performances.<b>\" - Gary Kirsten</b> on whether captaincy has affected <b>Shubman Gill's</b> batting. \\n \\n\"We thought <b>Mustafizur</b> was going to be here longer. The BCB pulled him a little bit earlier than we'd hoped, but we're covered for that. So that planning is in place. Some of the other injuries have been a little bit more problematic, but we're okay. We've got good resources to cover it and a good group of young players that are ready to go.<b>\" - Stephen Fleming on injuries to key CSK bowlers.</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715265030559,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1715264533320,
+    "commText": "<p><b>Gujarat Titans</b> Squad: Wriddhiman Saha(w), Shubman Gill(c), Sai Sudharsan, Shahrukh Khan, David Miller, Rahul Tewatia, Rashid Khan, Noor Ahmad, Mohit Sharma, Joshua Little, Sandeep Warrier, Vijay Shankar, Manav Suthar, Jayant Yadav, Darshan Nalkande, Sharath BR, Kane Williamson, Matthew Wade, Umesh Yadav, Abhinav Manohar, Ravisrinivasan Sai Kishore, Kartik Tyagi, Spencer Johnson, Azmatullah Omarzai, Sushant Mishra</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -393,6 +26,7 @@
   {
     "timestamp": 1715265028530,
     "commText": "<p><b>Chennai Super Kings</b> Squad: Ajinkya Rahane, Ruturaj Gaikwad(c), Daryl Mitchell, Shivam Dube, Moeen Ali, Ravindra Jadeja, MS Dhoni(w), Mitchell Santner, Shardul Thakur, Richard Gleeson, Tushar Deshpande, Sameer Rizvi, Simarjeet Singh, Shaik Rasheed, Mukesh Choudhary, Prashant Solanki, Rachin Ravindra, Ajay Jadav Mandal, RS Hangargekar, Maheesh Theekshana, Nishant Sindhu, Aravelly Avanish</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -414,8 +48,393 @@
     }
   },
   {
-    "timestamp": 1715264533320,
-    "commText": "<p><b>Gujarat Titans</b> Squad: Wriddhiman Saha(w), Shubman Gill(c), Sai Sudharsan, Shahrukh Khan, David Miller, Rahul Tewatia, Rashid Khan, Noor Ahmad, Mohit Sharma, Joshua Little, Sandeep Warrier, Vijay Shankar, Manav Suthar, Jayant Yadav, Darshan Nalkande, Sharath BR, Kane Williamson, Matthew Wade, Umesh Yadav, Abhinav Manohar, Ravisrinivasan Sai Kishore, Kartik Tyagi, Spencer Johnson, Azmatullah Omarzai, Sushant Mishra</p>",
+    "timestamp": 1715265030559,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715265030569,
+    "commText": "<p><b>Preview by Vijay Tagore</b> \\n \\nStatistically, there is little to differentiate between the <b>Gujarat Titans</b> and the <b>Chennai Super Kings.</b> However, GT find themselves virtually out of contention for a playoffs berth, barring an improbable numerical miracle. Therefore, when the teams clash at the Narendra Modi Stadium in Ahmedabad on Thursday, the pressure will be on the visitors. For them, a win is more of a necessity than for the home side in terms of competitive context. With 12 points from 11 games, they need at least <b>two wins from the remaining three games.</b> \\n \\nAchieving a win against the Titans will not be easy, despite CSK's recent dominance over the Gujarat side. CSK have won their last three encounters, including this year's season-opener and last year's final. However, with nothing to lose, the Titans can be a dangerous side, especially with skipper <b>Shubman Gill</b> on a mission to prove a point or two over his captaincy. Besides, the Super Kings are depleted, with key bowlers <b>Matheesha Pathirana and Mustafizur Rahman</b> unavailable for different reasons. Both, in fact, have left the camp. \\n \\nChennai will largely depend on domestic bowlers such as <b>Tushar Deshpande, Simarjit Singh, Shardul Thakur, and Ravindra Jadeja, besides Mitchll Santner, Moeen Ali, and Richard Gleeson.</b> While they had a fairly easy run against Punjab Kings at Dharamsala, facing the Titans at home, could present a different challenge. This is something that batting coach and mentor <b>Gary Kirsten</b> promised the Titans would be prepared for in their next three games. \\n \\n\"Hopefully (we) have a good last three games. I think it's been one of those seasons where we haven't quite got it going. So after two really good years, to finish on a high note I think would be really important. So I think try and take it one game at a time, see if we can play a really good game of cricket tomorrow. The most important thing for us is playing to the level that we know we are capable of. If we can do that, we give ourselves a good chance of winning a game of cricket,\" the South African, who will be leaving the franchise to take over as the coach of Pakistan team, said. \\n \\nA depleted bowling attack apart, CSK have not exactly managed a good start with the bat. Skipper <b>Ruturaj Gaikwad</b> has been impressive but not the other top order batters - <b>Ajinkya Rahane,</b> in particular. But <b>Fleming said one should not expect the sort of starts that Sunrisers Hyderabad from Chennai Super Kings and they will also not adopt that style of full throttle attack.</b> \\n \\n\"Lack of impetus (at the top) and based on what you saw from Sunrises last night? So we are not as risky as other teams, but we're still getting scores that are similar. I know there's a lot of interest in that. We're not all going to play the same way and with the players that we've got, we think we can do it a different way. We're not going to conform to that just because... It is great to watch and it's tough on the bowlers, but we've got a style of play that we're happy with and we're in the mix, so we'll just cement it. That's our style,\" the New Zealander said. \\n \\n<b>When:</b> Gujarat Titans vs Chennai Super Kings, IPL 2024, <b>May 10, 19:30 IST</b> \\n \\n<b>Where:</b> Narendra Modi Stadium, Ahmedabad \\n \\n<b>What to expect:</b> <b>A high-scoring game with the captain winning the toss opting to field first has been the trend. The pitch may be a little worn out but it still looks full of runs.</b> \\n \\n<b>Head to Head:</b> GT 3 - 3 CSK. \\n \\n<b>Team Watch:</b> \\n \\n<b>Gujarat Titans</b> \\n \\n<b>Injury/Unavailability:</b> No injury concerns for the home team. \\n \\n<b>Tactics & Matchups:</b> <b>Sai Sudharsan has done well against Ravindra Jadeja - CSK's form bowler, with 32 runs in 21 balls without a dismissal.</b> The left-hander has also taken on one of CSK's best bowler this season <b>Tushar Deshpande</b> in his previous encounters against him. The TN batter could hold the aces against CSK in a must-win fixture. \\n \\n<b>Probable XI:</b> Wriddhiman Saha (wk), Shubman Gill (c), Sai Sudharsan, David Miller, Azmatullah Omarzai, Rahul Tewatia, Shahrukh Khan, Rashid Khan, Ravisrinivasan Sai Kishore, Noor Ahmad, Mohit Sharma. \\n \\n<b>Chennai Super Kings</b> \\n \\n<b>Injury/Unavailability:</b> CSK have a handful of absentees with the likes of <b>Deepak Chahar, Mustafizur Rahman and Matheesha Pathirana</b> not available for rest of the season due to injury and national duty. \\n \\n<b>Tactics & Matchups:</b> <b>Shardul Thakur</b> could add to <b>Shubman Gill's</b> middling season as he comes with a favourable match-up [36 runs | 31 balls | 2 dismissals] against the GT captain. \\n \\n<b>Probable XI:</b> Ajinkya Rahane, Ruturaj Gaikwad (c), Daryl Mitchell, Shivam Dube, Moeen Ali, Ravindra Jadeja, MS Dhoni (wk), Mitchell Santner, Shardul Thakur, Richard Gleeson, Tushar Deshpande \\n \\n<b>What They said:</b> \\n \\n\"I think he's <b>Shubman Gill</b> enjoyed the captaincy. You know, it's something that takes time to really master, but I think he's enjoyed it this season and he's a world class player. So I have no doubt that in the next three games he's going to put in one or two really good performances.<b>\" - Gary Kirsten</b> on whether captaincy has affected <b>Shubman Gill's</b> batting. \\n \\n\"We thought <b>Mustafizur</b> was going to be here longer. The BCB pulled him a little bit earlier than we'd hoped, but we're covered for that. So that planning is in place. Some of the other injuries have been a little bit more problematic, but we're okay. We've got good resources to cover it and a good group of young players that are ready to go.<b>\" - Stephen Fleming on injuries to key CSK bowlers.</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715346131970,
+    "commText": "<p><b>18:30 Local Time, 13:00 GMT, 18:30 IST:</b> Two teams eliminated. Two teams almost through to the playoffs. We are moving towards the business end of the tournament as every game becomes crucial. Teams cannot afford to be any more complacent. Given the quality of cricket Gujarat Titans have played this season, they might be the third team to get eliminated from the tournament tonight. They face Chennai Super Kings who beat them in the grand finale last season and the five-time IPL champions might hurt them again. Hello and welcome to our live coverage of Match 59 of IPL 2024 folks!</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715346272134,
+    "commText": "<p>The most consistent team in the history of IPL are living up to their legacy once again. Under the leadership of Ruturaj Gaikwad, Chennai Super Kings have done a pretty good job this season and find themselves in a strong position with three more games to go. A win today further solidifies their chance to make it through to the knockouts. With 541 runs in 11 games, Ruturaj is only behind Virat Kohli in the list of leading run-getters this season. Today he has a chance to inch closer to Kohli\u2019s tally of 634 runs. Shubman Gill, who scored almost 900 runs last year is not anywhere close in the list, precisely why Gujarat Titans are placed at the bottom. Let\u2019s hope the Titans manage to put up a spirited performance in their remaining three games and have something for their fans to cheer about. Toss and teams are not far away, stay tuned for all the updates..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715346644762,
+    "commText": "<p><b>Pitch report:</b> It's got a good covering of grass and it feels solid under the hand. I am looking at a high-scoring game. Two teams are going to come and push that 200-run mark. I can't see the pitch changing. There might be a little bit of swing early on. You got two bowlers on either side that can swing. Good outfield, I am looking at a high-scoring game, reads <b>Chris Morris.</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715347714368,
+    "commText": "<p>Right then, it's toss time at the Narendra Modi Stadium..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715347859171,
+    "commText": "<p><b>Chennai Super Kings have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715347872713,
+    "commText": "<p><b>Ruturaj Gaikwad:</b> We will bowl first. Looks a good wicket to be honest. It's been a chasing ground, so we will look to chase. Pretty much similar to Chennai. We didn't like the red soil wicket much. Pretty relaxed. You tend to lose many games in IPL, you got to back everyone and make sure everyone is in a good head space. We had injuries in between, but happy now. Rachin Ravindra comes in for Gleeson.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715347961804,
+    "commText": "<p><b>Shubman Gill:</b> Would have bowled first as well, looks a good wicket. There's 1 percent chance of qualifying, so we are going to try hard for that. The mood is like any other match, we as a team believe in doing the best we can. Will be a good surface to bat on. Will score runs and try to restrict them. Wade comes in for Saha who has a niggle. In order to get the team combination right, <b>Kartik Tyagi</b> makes his debut, he comes in for Joshua Little.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715348187947,
+    "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Ruturaj Gaikwad(c), Rachin Ravindra, Daryl Mitchell, Shivam Dube, Moeen Ali, Ravindra Jadeja, MS Dhoni(w), Mitchell Santner, Shardul Thakur, Tushar Deshpande, Simarjeet Singh</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715348265286,
+    "commText": "<p><b>Gujarat Titans</b> (Playing XI): Shubman Gill(c), Sai Sudharsan, Shahrukh Khan, David Miller, Matthew Wade(w), Rahul Tewatia, Rashid Khan, Noor Ahmad, Umesh Yadav, Mohit Sharma, Kartik Tyagi</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715348267225,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715348405845,
+    "commText": "<p><b>Chennai Super Kings Impact Subs:</b> Ajinkya Rahane, Shaik Rasheed, Aravelly Avanish, Sameer Rizvi, Mukesh Choudhary</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715348454789,
+    "commText": "<p><b>Gujarat Titans Impact Subs:</b> Abhinav Manohar, Sandeep Warrier, BR Sharath, Darshan Nalkande, Jayant Yadav</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715348481645,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715349157073,
+    "commText": "<p>We have made a few changes to our Expert XI, do check out the Fantasy Handbook before you lock in your teams..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715349535931,
+    "commText": "<p>The players are out in the middle and we are ready for live action. Gill and Sudharsan to open the innings as Santner will start off with the new ball. A slip in place and here we go!</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

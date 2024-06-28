@@ -1,7 +1,8 @@
 [
   {
-    "timestamp": 1712859057547,
-    "commText": "<p>RCB's bowling hasn't gone too well this season in general, but what we witnessed today was a takedown of another level. MI have well and truly hit their stride now after those three consecutive defeats, and look really dangerous with the depth they have. Bumrah gave some brilliant insights in the interview below, do check it out. That's it for now. We all need a breather. It's a goodbye from Sagar Chawla on behalf of Praveen Kumar, Raju Peethala and Pradeep Krishnamurthy. Goodnight!</p>",
+    "timestamp": 1712852221141,
+    "commText": "<p><b>Ishan Kishan and Rohit are at the crease. Ishan Kishan is on strike. Topley will open the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -23,2121 +24,191 @@
     }
   },
   {
-    "timestamp": 1712858806510,
-    "commText": "<p><b>Bumrah, POTM:</b> I'm very happy with the outcome. But I will not say I had always thought of taking a five-for. Wicket was sticking in the first 10 overs. I observed that quickly and tried to use it to my advantage. One of those days where things went in my favour and catches went to hand. Very happy with the contribution. In this format, it's anyway very harsh on the bowlers so you have to have all kinds of skills. This is what I train for. Come this situation, I should have different options. I should not be a one-trick pony, and can't just rely on yorker because there will be days where my execution is off so I can rely on other deliveries. Everyone is doing research and data, so people start to line you up. So I wanted to have different skills. Bowling is tough because you will have to take a beating, you will have to have bad days to learn from it. What I've done in the past, whenever I've had bad days, I've watched videos the next day to see what didn't work, why it didn't work, what is the way I've been playing. All of these things, you have to be with the curve. Nowadays, you just cannot come on the day and say okay I'll do this, maybe this will work. For me, preparation is always the key. When you prepare hard, you put yourself under pressure in the nets. You bowl to batters in the nets who hit big sixes, find out how you react to pressure. Then you start finding answers. That is very very important for me - to keep pushing yourself in training. Then on game day, you have answers that okay when I had similar pressure in training, I had answers. I do my research and see where the batter is strong. Sometimes the wicket is sticky, you don't always need to bowl the yorker. You can use the bouncer, you can use the slower ball. So you don't need to use all tricks on one day. You have to understand where the game is going, what the wicket is. There's no ego in this format. Even if you can bowl 145kph, but the wicket demands slower balls then you have to do that. All of these things are important. It's not just one-trick pony - aim at the stumps and go pole hunting.</p>",
-    "overs": 0,
+    "timestamp": 1712852226801,
+    "commText": "<p> Topley to Ishan Kishan, no run, full and swinging in towards off, Ishan Kishan jams it off the bottom of the bat into the off-side </p>",
+    "ballNbr": 1,
+    "overs": 0.1,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
+      "id": 10276,
       "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712858621289,
-    "commText": "<p><b>Pandya, MI captain:</b> Always good to win. The way we have won - it's quite impressive. Impact player has given the opportunity to use an extra bowler if we require. It gives me a cushion as well. At the same point, if someone is having a bad day, it helps us to cover those overs. The way Ro and Kishan batted, giving the platform, it was important for us to finish it early. We didn't speak about it. That's the beauty of this team, players know what the situation is. As soon as we saw the target get lesser, we thought we might as well finish it early for NRR. Blessed to have Bumrah in my side. He does it over and over again. Any time I ask him to bowl, he comes and does what he does. He practices a lot. Before doing anything in the game, he makes sure he practices in the nets. The amount of experience and confidence he has is tremendous. I did tell him when he scored the fifty that welcome back (Surya). Always good to have Surya in your team with the areas he hits. I've been opposition captain as well against him, it's tough to put field for him. Some place he hits, I've never seen batters hit there. (I'll do) Whatever the situation requires - last game I had to take some time, and this game's scenario was different. I've always been a fan of whatever the situation demands.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712858321796,
-    "commText": "<p><b>Stats round-up by Deepu Narayananan</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712858321786,
-    "commText": "<p>Sixth consecutive defeat for RCB against MI at the Wankhede (last won in 2015)</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712858321776,
-    "commText": "<p><b>Chasing 190+ targets with most balls to spare (IPL)</b> \\n32 MI vs RR Mumbai WS 2014 (Tar: 190) \\n27 MI vs PK Indore 2017 (Tar: 199) \\n27 MI vs RCB Mumbai WS 2024 (Tar: 197) \\n21 MI vs RCB Mumbai WS 2023 (Tar: 200) \\nMI sit in the top four positions among all teams.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712858321766,
-    "commText": "<p><b>MI vs RCB at Wankhede</b> \\nIPL 2023: RCB (199/6) lost to MI (200/4) with 21 balls to spare \\nIPL 2024: RCB (196/6) lost to MI (199/3) with 27 balls to spare</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712858321756,
-    "commText": "<p><b>Suryakumar Yadav:</b> It's always good to be back at Wankhede, when the tournament started I was mentally here only, although physically in Bangalore (recovering from the injury), it felt like I never left. When you are chasing 200, it is important to know the dew factor and take your chances, both Rohit and Ishan did the job for us at the 10th over mark and we only knew that we had to finish early for that net run rate thing. I just try to play to the field and practice these shots and it is just muscle memory (talking about his freak shots) and I go out there and enjoy myself. The slice over point is the one that I enjoyed the most. The management told him (Ishan Kishan) to go out and enjoy, he has worked really hard on his batting and is just enjoying the fruits now. It's been almost 2-3 years since I batted against him (Bumrah) in the nets, because he either breaks my bat or breaks my foot.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712858163096,
-    "commText": "<p><b>Faf du Plessis | RCB captain -</b> It's a tough pill to swallow - combination of two things, very wet (the conditions with dew), I need to somehow win some tosses, secondly, they played really well, put the pressure on us and we made a lot of mistakes (especially during the powerplay). We knew dew would be a factor, we might have needed to make 250+, but they made 196 look very less. You know when there's dew coming, you'll have to bat big, the ball was very wet, it was changed a few times and the bowlers struggled. We also lost a few key moments, we were going well when myself and Patidar were out in the middle with that partnership, but they did come back well. Every time you see him with the ball in his hand (on Jasprit Bumrah), you think you'll have to put him under pressure. But he has so many skills, bowls well under pressure, he bowls with the same action and has a lot of variations. I think he has become even better under the guidance of Lasith Malinga. We would have loved if he was part of our team (smiles). We will have to find ways with the bat, get those big scores, we know our bowling is not our strongest suit, but we'll have to find ways to manage it, we'll have to be creative, go hard with the bat and make most of the first 4-5 overs with the bat.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712857454660,
-    "commText": "<p><b>23:14 Local Time, 17:44 GMT, 23:14 IST:</b> MI have beaten the hell out of RCB on a dewy evening here at the Wankhede today. A target of 197 chased down in just 15.3 overs with Ishan Kishan and Suryakumar Yadav smashing blistering fifties to make a mockery of the contest. Dinesh Karthik had put on a show himself towards the end of RCB's innings to take them to 196, but what followed was a hammering with Kishan taking the lead in the powerplay, and then Surya doing Surya things enroute to his fastest fifty in IPL off just 17 balls. You look at the figures of all the bowlers today from both teams, and it's hard not to feel sorry for them. But then you look at Bumrah with figures of 5/21. No wonder Siraj is bowing to him before giving him a big hug as the teams meet for the handshakes. Different planet he's from, and he didn't allow RCB to get away in the death overs. The pitch started sticky, with the ball gripping a touch. But with dew settling in, it just became a belter and the visitors were blown away.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712857363472,
-    "commText": "<p> Akash Deep to Hardik Pandya, <b>SIX</b>, and it's all over! RCB can finally go and lie down after this mauling. Full and wide, Pandya reaches out and carves it over cover for six to complete a sensational run-chase at the Wankhede </p>",
-    "overs": 15.3,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 9647,
-      "batRuns": 21,
-      "ballsPlayed": 6,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 3.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 55,
-      "bowlWickets": 1,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712857305304,
-    "commText": "<p> Akash Deep to Tilak Varma, 1 run, good yorker on off, Tilak squeezes it down the pitch and Akash Deep fails to cut it off cleanly </p>",
-    "overs": 15.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14504,
-      "batRuns": 16,
-      "ballsPlayed": 10,
-      "dotBalls": 3,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 3.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 49,
-      "bowlWickets": 1,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712857265687,
-    "commText": "<p> Akash Deep to Tilak Varma, <b>FOUR</b>, high full toss outside off, plenty of width for Tilak who slaps it over extra cover </p>",
-    "overs": 15.1,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 14504,
-      "batRuns": 15,
-      "ballsPlayed": 9,
-      "dotBalls": 3,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 3.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 48,
-      "bowlWickets": 1,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712857261353,
-    "commText": "<p><b>Akash Deep [3.0-0-44-1] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14504,
-      "batRuns": 11,
-      "ballsPlayed": 8,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712857190297,
-    "commText": "<p> Siraj to Tilak Varma, 1 run, short of length on off, Tilak gets on top of it and pulls through sqiuare leg. Fielder cuts it off in the deep </p>",
-    "overs": 15,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 14504,
-      "batRuns": 11,
-      "ballsPlayed": 8,
-      "dotBalls": 3,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 37,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712857131821,
-    "commText": "<p> Siraj to Tilak Varma, no run, full outside off, Tilak looks to drive, doesn't move his feet at all and is beaten </p>",
-    "overs": 14.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14504,
-      "batRuns": 10,
-      "ballsPlayed": 7,
-      "dotBalls": 3,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 36,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712857062546,
-    "commText": "<p>Faf having a chat with Siraj with an arm around his shoulder</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712857059546,
-    "commText": "<p> Siraj to Tilak Varma, <b>FOUR</b>, back of a length outside off, Tilak looks to pull and drags it through midwicket. No timing on it but it's in the gap. Kohli gives up the chase early at deep midwicket </p>",
-    "overs": 14.4,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 14504,
-      "batRuns": 10,
-      "ballsPlayed": 6,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 36,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712857018960,
-    "commText": "<p> Siraj to Tilak Varma, no run, short of length outside off, slower one, Tilak looks to pull but is beaten </p>",
-    "overs": 14.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14504,
-      "batRuns": 6,
-      "ballsPlayed": 5,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 32,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856979472,
-    "commText": "<p> Siraj to Hardik Pandya, 1 run, length ball outside off, Pandya flat-bats it down the ground, and it falls just short of Suyash at long-off </p>",
-    "overs": 14.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9647,
-      "batRuns": 15,
-      "ballsPlayed": 5,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 32,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856913955,
-    "commText": "<p> Siraj to Tilak Varma, 1 run, 135kph full toss outside off, Tilak slaps it to sweeper cover </p>",
-    "overs": 14.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14504,
-      "batRuns": 6,
-      "ballsPlayed": 4,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 31,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856910527,
-    "commText": "<p><b>Mohammed Siraj [2.0-0-30-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14504,
-      "batRuns": 5,
-      "ballsPlayed": 3,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856817513,
-    "commText": "<p><b>Five 50+ scores in an IPL match (the most)</b> \\nPK vs RR Sharjah 2020 \\nRCB vs MI Dubai 2020 \\nRCB vs LSG Bengaluru 2023 \\nCSK vs KKR Kolkata 2023 \\nRCB vs MI Mumbai WS 2024</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856817503,
-    "commText": "<p> Vijaykumar Vyshak to Tilak Varma, 1 run, short of length outside off, slower one, Tilak waits and cuts it to deep point </p>",
-    "overs": 14,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 14504,
-      "batRuns": 5,
-      "ballsPlayed": 3,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 32,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856781970,
-    "commText": "<p> Vijaykumar Vyshak to Tilak Varma, no run, full outside off, slower one, Tilak drives hard but finds cover </p>",
-    "overs": 13.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14504,
-      "batRuns": 4,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 31,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856744470,
-    "commText": "<p><b>Fastest 50s for MI in IPL (balls faced)</b> \\n16 I Kishan vs SRH Abu Dhabi 2021 \\n17 K Pollard vs KKR Mumbai WS 2016 \\n17 I Kishan vs KKR Kolkata 2018 \\n17 K Pollard vs CSK Delhi 2021 \\n17 H Pandya vs KKR Kolkata 2019 \\n17 Suryakumar Yadav vs RCB Mumbai WS 2024</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856744460,
-    "commText": "<p> Vijaykumar Vyshak to Tilak Varma, <b>FOUR</b>, short of length on middle, Tilak advances first ball, looks to pull and drags it off a thick under-edge to the right of the keeper </p>",
-    "overs": 13.4,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 14504,
-      "batRuns": 4,
       "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 1,
+      "dotBalls": 1,
+      "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 2.4,
+      "id": 8349,
+      "bowlOvers": 0.1,
       "bowlMaidens": 0,
-      "bowlRuns": 31,
-      "bowlWickets": 1,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712856736655,
-    "commText": "<p><b>Tilak Varma, left handed bat, comes to the crease</b></p>",
-    "overs": 0,
+    "timestamp": 1712852259508,
+    "commText": "<p> Topley to Ishan Kishan, <b>wide</b>, swings away a bit too much from outside off as Ishan Kishan shoulders arms </p>",
+    "ballNbr": 2,
+    "overs": 0.2,
     "events": [],
     "batsmanStriker": {
-      "id": 14504,
+      "id": 10276,
       "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856689102,
-    "commText": "<p> Vijaykumar Vyshak to Suryakumar Yadav, <b>out</b> Caught by Lomror!! High full toss outside off, Surya slaps it in the air and holes out at deep point. Is that above the waist? It was the slower one so it was dipping on him. MI have taken the review to check if it's a fair delivery, and ball-tracking confirms it's below the waist. Surya's breathtaking knock is over and he walks off raising his bat to the crowd. <b>Suryakumar Yadav c Lomror b Vijaykumar Vyshak 52(19) [4s-5 6s-4]</b> </p>",
-    "overs": 13.3,
-    "events": [
-      "WICKET",
-      "UDRS"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 52,
-      "ballsPlayed": 19,
-      "dotBalls": 5,
-      "batFours": 5,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 27,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856687888,
-    "commText": "<p> Vijaykumar Vyshak to Suryakumar Yadav, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 52,
-      "ballsPlayed": 18,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856559702,
-    "commText": "<p>High full toss outside off, Surya slaps it in the air and holes out at deep point. Is that above the waist? It was the slower one so it was dipping on him.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856553702,
-    "commText": "<p> Vijaykumar Vyshak to Hardik Pandya, 1 run, fuller than a length on off, Pandya looks to slog but drags it off the inside half through midwicket </p>",
-    "overs": 13.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9647,
-      "batRuns": 14,
-      "ballsPlayed": 4,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 27,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856515787,
-    "commText": "<p> Vijaykumar Vyshak to Hardik Pandya, <b>SIX</b>, slower length ball at 113kph, Pandya clears the front leg and absolutely hammers it over long-on. Just no respite from either end </p>",
-    "overs": 13.1,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 9647,
-      "batRuns": 13,
-      "ballsPlayed": 3,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 26,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856509440,
-    "commText": "<p><b>Vijaykumar Vyshak [2.0-0-20-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9647,
-      "batRuns": 7,
-      "ballsPlayed": 2,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856440169,
-    "commText": "<p> Topley to Suryakumar Yadav, no run, wide yorker outside off, Surya tries to reach out but misses </p>",
-    "overs": 13,
-    "events": [
-      "OVER_BREAK",
-      "HIGHSCORING_OVER"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 52,
-      "ballsPlayed": 18,
-      "dotBalls": 4,
-      "batFours": 5,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 34,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856389329,
-    "commText": "<p> Topley to Suryakumar Yadav, <b>FOUR</b>, Kishan raised fifty off 23 balls, and Surya has got there off just 17! <b>It's his fastest fifty in the IPL!</b> Absolutely no signs of rustiness from him after coming back into the team. Short of length at the body, slower one, and he pulls it over midwicket. Didn't quite get hold of it but clears the infield comfortably </p>",
-    "overs": 12.5,
-    "events": [
-      "FIFTY",
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 52,
-      "ballsPlayed": 17,
-      "dotBalls": 3,
-      "batFours": 5,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 34,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856333213,
-    "commText": "<p> Topley to Suryakumar Yadav, <b>FOUR</b>, length ball outside off, Surya walks across, gets low and scoops it over short fine </p>",
-    "overs": 12.4,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 48,
-      "ballsPlayed": 16,
-      "dotBalls": 3,
-      "batFours": 4,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 30,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856280117,
-    "commText": "<p> Topley to Suryakumar Yadav, <b>SIX</b>, full and wide, Surya reaches out and slices it over point for six! Putting on a show are these MI batters </p>",
-    "overs": 12.3,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 44,
-      "ballsPlayed": 15,
-      "dotBalls": 3,
-      "batFours": 3,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 26,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856240849,
-    "commText": "<p> Topley to Suryakumar Yadav, no run, length ball outside off, Surya walks across and tries a scoop but misses </p>",
-    "overs": 12.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 38,
-      "ballsPlayed": 14,
-      "dotBalls": 3,
-      "batFours": 3,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856194432,
-    "commText": "<p> Topley to Suryakumar Yadav, <b>FOUR</b>, full delivery just outside off, Surya throws his hands at it, opens the face and carves it over backward point </p>",
-    "overs": 12.1,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 38,
-      "ballsPlayed": 13,
-      "dotBalls": 2,
-      "batFours": 3,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856185337,
-    "commText": "<p><b>Reece Topley [2.0-0-16-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 34,
-      "ballsPlayed": 12,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856106426,
-    "commText": "<p> Will Jacks to Suryakumar Yadav, 1 run, length ball darted in on off, Surya punches it to long-on </p>",
-    "overs": 12,
-    "events": [
-      "OVER_BREAK",
-      "HIGHSCORING_OVER"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 34,
-      "ballsPlayed": 12,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856066281,
-    "commText": "<p> Will Jacks to Suryakumar Yadav, <b>FOUR</b>, not in control as he looks to drive, <b>it goes in the air</b> but finds the gap between point and short third. It's tossed up outside off and dips on Surya as he reaches out. Gets a lucky boundary </p>",
-    "overs": 11.5,
-    "events": [
-      "TEAM_HUNDRED",
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 33,
-      "ballsPlayed": 11,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856028665,
-    "commText": "<p> Will Jacks to Hardik Pandya, 1 run, flat length ball on off, punched to long-off </p>",
-    "overs": 11.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9647,
-      "batRuns": 7,
-      "ballsPlayed": 2,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712856002623,
-    "commText": "<p> Will Jacks to Hardik Pandya, <b>SIX</b>, tossed up outside off, Pandya gets on one knee and nails the slog-sweep over wide long-on </p>",
-    "overs": 11.3,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 9647,
-      "batRuns": 6,
       "ballsPlayed": 1,
-      "dotBalls": 0,
+      "dotBalls": 1,
       "batFours": 0,
-      "batSixes": 1
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 1.3,
+      "id": 8349,
+      "bowlOvers": 0.1,
       "bowlMaidens": 0,
-      "bowlRuns": 18,
-      "bowlWickets": 1,
-      "bowlWides": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712855994057,
-    "commText": "<p><b>Hardik Pandya, right handed bat, comes to the crease</b></p>",
-    "overs": 0,
+    "timestamp": 1712852298783,
+    "commText": "<p> Topley to Ishan Kishan, no run, I0$ full and wide of off, Ishan Kishan opens the bat face and drives gently to the left of backward point </p>",
+    "ballNbr": 2,
+    "overs": 0.2,
     "events": [],
     "batsmanStriker": {
-      "id": 9647,
+      "id": 10276,
       "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855899402,
-    "commText": "<p>Hardik walks out to loud boos. But a section is chanting Hardik, Hardik too</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855896402,
-    "commText": "<p> Will Jacks to Rohit, <b>out</b> Caught by Topley!! <b>Topley looks shocked himself after pulling this off</b>. An absolute screamer at short fine leg, diving across to his left, reaching out with one hand and clutching it right at the end of his fingers. It's a full ball around middle, Rohit looks to sweep, drags it behind square and Topley sends him packing. <b>Rohit c Topley b Will Jacks 38(24) [4s-3 6s-3]</b> </p>",
-    "overs": 11.2,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 38,
-      "ballsPlayed": 24,
-      "dotBalls": 10,
-      "batFours": 3,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855887583,
-    "commText": "<p> Will Jacks to Rohit, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 38,
-      "ballsPlayed": 23,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855845805,
-    "commText": "<p> Will Jacks to Rohit, <b>FOUR</b>, back of a length on middle, Rohit pulls hard and finds the boundary at square leg. One bounce and over the ropes </p>",
-    "overs": 11.1,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 38,
-      "ballsPlayed": 23,
-      "dotBalls": 9,
-      "batFours": 3,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855838423,
-    "commText": "<p><b>Will Jacks [1.0-0-8-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 34,
-      "ballsPlayed": 22,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855742597,
-    "commText": "<p> Akash Deep to Suryakumar Yadav, <b>SIX</b>, full toss down the leg-side, and it's asking for trouble against Surya whose fast hands and rubber wrists send the ball a long way over long leg. Whipped away for six more! </p>",
-    "overs": 11,
-    "events": [
-      "OVER_BREAK",
-      "SIX",
-      "HIGHSCORING_OVER"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 29,
-      "ballsPlayed": 10,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 44,
-      "bowlWickets": 1,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855682095,
-    "commText": "<p> Akash Deep to Suryakumar Yadav, <b>SIX</b>, wow! Akash Deep watches the ball in awe as it goes sailing over square leg. Surya has well and truly arrived in this tournament. Length ball outside off, he picks it up effortlessly and dumps it over the leg-side boundary </p>",
-    "overs": 10.5,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 23,
-      "ballsPlayed": 9,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 38,
-      "bowlWickets": 1,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855636026,
-    "commText": "<p> Akash Deep to Suryakumar Yadav, 2 runs, <b>Maxwell puts down a tough chance!</b> It was struck really hard and came to him in a flash..Short and wide, Surya throws his bat at it and slaps it to backward point. He goes with both hands but can't hold on. To make it worse, he's in pain and going off the field </p>",
-    "overs": 10.4,
-    "events": [
-      "DROPPED"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 17,
-      "ballsPlayed": 8,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 32,
-      "bowlWickets": 1,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855586857,
-    "commText": "<p> Akash Deep to Suryakumar Yadav, <b>SIX</b>, short of length around the waist, slower one, and Surya pulls it all the way over deep midwicket. It's a very short boundary there, so despite the connection not being great, it clears comfortably </p>",
-    "overs": 10.3,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 15,
-      "ballsPlayed": 7,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 30,
-      "bowlWickets": 1,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855549822,
-    "commText": "<p> Akash Deep to Suryakumar Yadav, no run, 133.5kph length ball on off, Surya is cramped for room slightly as he pushes it to cover </p>",
-    "overs": 10.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 9,
-      "ballsPlayed": 6,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 1,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855495807,
-    "commText": "<p> Akash Deep to Suryakumar Yadav, <b>FOUR</b>, what lovely wristwork from Surya! Picks a full ball from well outside off and whips it over midwicket. It's bowled at 139kph and he makes it look so easy </p>",
-    "overs": 10.1,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 9,
-      "ballsPlayed": 5,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 1,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855418756,
-    "commText": "<p> Vijaykumar Vyshak to Suryakumar Yadav, 1 run, slower ball on off stump, Surya flicks it in the air and it falls well short of long-on </p>",
-    "overs": 10,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 5,
-      "ballsPlayed": 4,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855383444,
-    "commText": "<p> Vijaykumar Vyshak to Suryakumar Yadav, no run, yorker on off, Suryakumar squeezes it to backward point </p>",
-    "overs": 9.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 4,
-      "ballsPlayed": 3,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855350523,
-    "commText": "<p> Vijaykumar Vyshak to Suryakumar Yadav, 2 runs, short of length just outside off, slower one, Suryakumar waits on it and pulls through square leg </p>",
-    "overs": 9.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 4,
       "ballsPlayed": 2,
-      "dotBalls": 0,
+      "dotBalls": 2,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 1.4,
+      "id": 8349,
+      "bowlOvers": 0.2,
       "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855246077,
-    "commText": "<p>Surya has replaced Madhwal by the way, coming in as the impact sub</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855243077,
-    "commText": "<p> Vijaykumar Vyshak to Rohit, 1 run, flicked through midwicket for a single. Rohit was looking for two but Surya sent him back </p>",
-    "overs": 9.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 34,
-      "ballsPlayed": 22,
-      "dotBalls": 9,
-      "batFours": 2,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855195779,
-    "commText": "<p> Vijaykumar Vyshak to Rohit, <b>FOUR</b>, <b>Topley gets fingertips to it, but can't hold on!</b> Slower bouncer around the head, Rohit isn't in control of the pull and it loops over short fine. Jumping effort from Topley there but he tips it over </p>",
-    "overs": 9.2,
-    "events": [
-      "FOUR",
-      "DROPPED"
-    ],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 33,
-      "ballsPlayed": 21,
-      "dotBalls": 9,
-      "batFours": 2,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855159405,
-    "commText": "<p> Vijaykumar Vyshak to Rohit, no run, length ball on off, slower one, Rohit hangs back and defends </p>",
-    "overs": 9.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 29,
-      "ballsPlayed": 20,
-      "dotBalls": 9,
-      "batFours": 1,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855154377,
-    "commText": "<p><b>Vijaykumar Vyshak [1.0-0-12-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 29,
-      "ballsPlayed": 19,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855089492,
-    "commText": "<p> Akash Deep to Suryakumar Yadav, 2 runs, full delivery around off, Suryakumar flicks it through midwicket for a couple </p>",
-    "overs": 9,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 2,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 1,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712855080354,
-    "commText": "<p><b>Suryakumar Yadav, right handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7915,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854970994,
-    "commText": "<p> Akash Deep to Ishan Kishan, <b>out</b> Caught by Kohli!! Finally some relief for RCB! Kishan advances, gets a slower short ball outside off and looks to flat-bat it down the ground for six. But it gets big on him, and he miscues it to long-on where Kohli takes a simple catch and throws the ball in the air without much of a celebration. So a blistering knock comes to an end. <b>Ishan Kishan c Kohli b Akash Deep 69(34) [4s-7 6s-5]</b> </p>",
-    "overs": 8.5,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 69,
-      "ballsPlayed": 34,
-      "dotBalls": 11,
-      "batFours": 7,
-      "batSixes": 5
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 18,
-      "bowlWickets": 1,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854966186,
-    "commText": "<p> Akash Deep to Ishan Kishan, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 69,
-      "ballsPlayed": 33,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854923367,
-    "commText": "<p>This is the 93rd time Rohit Sharma has opened the batting in IPL and the first time he has been involved in a 100+ opening partnership.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854923357,
-    "commText": "<p> Akash Deep to Rohit, 1 run, back of a length delivery just outside off, Rohit hangs back and dabs it to deep third </p>",
-    "overs": 8.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 29,
-      "ballsPlayed": 19,
-      "dotBalls": 8,
-      "batFours": 1,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 18,
-      "bowlWickets": 0,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854885563,
-    "commText": "<p> Akash Deep to Rohit, <b>wide</b>, slower bouncer outside off, left alone by Rohit. Umpire calls it a wide for height. 100 up already for MI </p>",
-    "overs": 8.4,
-    "events": [
-      "TEAM_HUNDRED",
-      "PARTNERSHIP"
-    ],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 28,
-      "ballsPlayed": 18,
-      "dotBalls": 8,
-      "batFours": 1,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854844471,
-    "commText": "<p> Akash Deep to Ishan Kishan, 1 run, short of length on off, 138kph, Kishan swings hard and pulls it on the bounce to deep midwicket </p>",
-    "overs": 8.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 69,
-      "ballsPlayed": 33,
-      "dotBalls": 10,
-      "batFours": 7,
-      "batSixes": 5
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
+      "bowlRuns": 1,
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712854807596,
-    "commText": "<p> Akash Deep to Ishan Kishan, <b>SIX</b>, full toss on off stump at 137kph, and it disappears over the ropes! Kishan swings hard, makes good enough contact and hammers it over wide long-on </p>",
-    "overs": 8.2,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 68,
-      "ballsPlayed": 32,
-      "dotBalls": 10,
-      "batFours": 7,
-      "batSixes": 5
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854769618,
-    "commText": "<p> Akash Deep to Ishan Kishan, no run, full delivery on off, 143.8kph, Kishan gets forward to drive and mistimes it to mid-off </p>",
-    "overs": 8.1,
+    "timestamp": 1712852369420,
+    "commText": "<p> Topley to Ishan Kishan, no run, I0$ fuller and wider once again, Ishan Kishan finds Will Jacks at backward point on the drive </p>",
+    "ballNbr": 3,
+    "overs": 0.3,
     "events": [],
     "batsmanStriker": {
       "id": 10276,
-      "batRuns": 62,
-      "ballsPlayed": 31,
-      "dotBalls": 10,
-      "batFours": 7,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854765146,
-    "commText": "<p><b>Akash Deep [1.0-0-9-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 62,
-      "ballsPlayed": 30,
-      "dotBalls": 0,
+      "batRuns": 0,
+      "ballsPlayed": 3,
+      "dotBalls": 3,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854696444,
-    "commText": "<p> Will Jacks to Ishan Kishan, 1 run, length ball sliding in on leg, Kishan tucks it through square leg </p>",
-    "overs": 8,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 62,
-      "ballsPlayed": 30,
-      "dotBalls": 9,
-      "batFours": 7,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854667330,
-    "commText": "<p> Will Jacks to Ishan Kishan, <b>FOUR</b>, this time he does step out as Jacks gives it some air. Gets right to the pitch of it and hammers it straight back. One bounce and over the ropes </p>",
-    "overs": 7.5,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 61,
-      "ballsPlayed": 29,
-      "dotBalls": 9,
-      "batFours": 7,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854645266,
-    "commText": "<p> Will Jacks to Ishan Kishan, no run, length ball outside off, Kishan was looking to advance but then saw the length and stayed in the crease. He makes a late adjustment and cuts it to backward point </p>",
-    "overs": 7.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 57,
-      "ballsPlayed": 28,
-      "dotBalls": 9,
-      "batFours": 6,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854610837,
-    "commText": "<p> Will Jacks to Rohit, 1 run, 92kph flat length ball on leg stump, Rohit hangs back and tucks it behind square </p>",
-    "overs": 7.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 28,
-      "ballsPlayed": 18,
-      "dotBalls": 8,
-      "batFours": 1,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 12258,
+      "id": 8349,
       "bowlOvers": 0.3,
       "bowlMaidens": 0,
-      "bowlRuns": 3,
+      "bowlRuns": 1,
       "bowlWickets": 0,
-      "bowlWides": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712854581984,
-    "commText": "<p> Will Jacks to Ishan Kishan, 1 run, drifting in on leg stump from round the wicket, full ball, Kishan clears the front leg and drives to long-on </p>",
-    "overs": 7.2,
+    "timestamp": 1712852405279,
+    "commText": "<p> Topley to Ishan Kishan, no run, I0$ swinging away with extra bounce outside off, Ishan Kishan is happy to leave that alone </p>",
+    "ballNbr": 4,
+    "overs": 0.4,
     "events": [],
     "batsmanStriker": {
       "id": 10276,
-      "batRuns": 57,
-      "ballsPlayed": 27,
-      "dotBalls": 8,
-      "batFours": 6,
-      "batSixes": 4
+      "batRuns": 0,
+      "ballsPlayed": 4,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 0.2,
+      "id": 8349,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712852441058,
+    "commText": "<p> Topley to Ishan Kishan, 1 run, I0$ full outside off, Ishan Kishan slices the drive square on the off-side. There's a fielder at deep point to keep it down to a single </p>",
+    "ballNbr": 5,
+    "overs": 0.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 1,
+      "ballsPlayed": 5,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8349,
+      "bowlOvers": 0.5,
       "bowlMaidens": 0,
       "bowlRuns": 2,
       "bowlWickets": 0,
-      "bowlWides": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712854551393,
-    "commText": "<p> Will Jacks to Rohit, 1 run, tossed up outside off, Rohit gets forward and drives to sweeper cover </p>",
-    "overs": 7.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 27,
-      "ballsPlayed": 17,
-      "dotBalls": 8,
-      "batFours": 1,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 12258,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854543275,
-    "commText": "<p><b>Will Jacks, right-arm off break, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 26,
-      "ballsPlayed": 16,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854488573,
-    "commText": "<p><b>Fifty inside Powerplay for MI (IPL)</b> \\nSanath Jayasuriya 59 vs CSK Wankhede 2008 \\nLendl Simmons 50 vs PK Mohali 2015 \\nIshan Kishan 63 vs SRH Abu Dhabi 2021 \\nIshan Kishan 55 vs RCB Wankhede 2024</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854488563,
-    "commText": "<p> Vijaykumar Vyshak to Rohit, 1 run, fuller than a length outside off, slower one, Rohit gets forward and knocks it wide of backward point </p>",
-    "overs": 7,
+    "timestamp": 1712852486777,
+    "commText": "<p> Topley to Rohit, no run, I0$ curling in from a fullish length on the stumps, Rohit looks to heave/flick leg-side and seems to have gotten a faint inside edge onto pad. Mild appeal, but no luck... </p>",
+    "ballNbr": 6,
+    "overs": 1,
     "events": [
       "OVER_BREAK"
     ],
     "batsmanStriker": {
       "id": 576,
-      "batRuns": 26,
-      "ballsPlayed": 16,
-      "dotBalls": 8,
-      "batFours": 1,
-      "batSixes": 3
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 10486,
+      "id": 8349,
       "bowlOvers": 1,
       "bowlMaidens": 0,
-      "bowlRuns": 12,
+      "bowlRuns": 2,
       "bowlWickets": 0,
-      "bowlWides": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712854443346,
-    "commText": "<p> Vijaykumar Vyshak to Rohit, <b>FOUR</b>, now the outside edge runs away for four as well! More frustration for RCB! Length ball on off stump, on-pace delivery, Rohit gets forward to defend but it finds the edge that runs away past the keeper </p>",
-    "overs": 6.5,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 25,
-      "ballsPlayed": 15,
-      "dotBalls": 8,
-      "batFours": 1,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 11,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854404075,
-    "commText": "<p> Vijaykumar Vyshak to Rohit, <b>SIX</b>, whacked into the crowd! Slower full toss on off stump, Rohit picks it and deposits it over midwicket. Barrage of boundaries and sixes continues </p>",
-    "overs": 6.4,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 21,
-      "ballsPlayed": 14,
-      "dotBalls": 8,
-      "batFours": 0,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854367458,
-    "commText": "<p> Vijaykumar Vyshak to Rohit, no run, well wide outside off, another slower one, Rohit reaches out to cut and toe-ends it to point </p>",
-    "overs": 6.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 15,
-      "ballsPlayed": 13,
-      "dotBalls": 8,
-      "batFours": 0,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854335213,
-    "commText": "<p> Vijaykumar Vyshak to Rohit, no run, off-pace yorker on off stump, 113kph, and Rohit squeezes it out </p>",
-    "overs": 6.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 15,
-      "ballsPlayed": 12,
-      "dotBalls": 7,
-      "batFours": 0,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 10486,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854301231,
-    "commText": "<p>MI Powerplay scores in IPL 2024: 52/2, 76/2, 46/4, 75/0, 72/0</p>",
+    "timestamp": 1712852556068,
+    "commText": "<p><b>Mohammed Siraj, right-arm fast medium, comes into the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
+      "id": 10276,
+      "batRuns": 1,
+      "ballsPlayed": 5,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 0,
+      "id": 8349,
       "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
@@ -2147,44 +218,46 @@
     }
   },
   {
-    "timestamp": 1712854301221,
-    "commText": "<p> Vijaykumar Vyshak to Ishan Kishan, 1 run, short of length on off, slower one, Kishan pulls to deep midwicket </p>",
-    "overs": 6.1,
+    "timestamp": 1712852563794,
+    "commText": "<p> Siraj to Ishan Kishan, no run, I0$ full outside off, not a great deal of foot movement from Ishan Kishan as he mistimes the drive into the off-side </p>",
+    "ballNbr": 7,
+    "overs": 1.1,
     "events": [],
     "batsmanStriker": {
       "id": 10276,
-      "batRuns": 56,
-      "ballsPlayed": 26,
-      "dotBalls": 8,
-      "batFours": 6,
-      "batSixes": 4
+      "batRuns": 1,
+      "ballsPlayed": 6,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 10486,
+      "id": 10808,
       "bowlOvers": 0.1,
       "bowlMaidens": 0,
-      "bowlRuns": 1,
+      "bowlRuns": 0,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712854292530,
-    "commText": "<p><b>Vijaykumar Vyshak, right-arm medium, comes into the attack</b></p>",
-    "overs": 0,
+    "timestamp": 1712852626943,
+    "commText": "<p> Siraj to Ishan Kishan, no run, I0$ seam-up full delivery wobbling away late outside off, Ishan Kishan goes for a slashing drive and gets beaten on the outside edge. DK with a well-timed dive to his left and collects it cleanly.... </p>",
+    "ballNbr": 8,
+    "overs": 1.2,
     "events": [],
     "batsmanStriker": {
       "id": 10276,
-      "batRuns": 55,
-      "ballsPlayed": 25,
-      "dotBalls": 0,
+      "batRuns": 1,
+      "ballsPlayed": 7,
+      "dotBalls": 6,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 7662,
-      "bowlOvers": 0,
+      "id": 10808,
+      "bowlOvers": 0.2,
       "bowlMaidens": 0,
       "bowlRuns": 0,
       "bowlWickets": 0,
@@ -2193,166 +266,23 @@
     }
   },
   {
-    "timestamp": 1712854097670,
-    "commText": "<p><b>Highest scoring rate in Powerplay in IPL 2024</b> \\n11.33 KKR \\n10.70 MI \\n10.67 SRH \\n9.07 DC \\n8.77 CSK</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854097660,
-    "commText": "<p><b>Timeout!</b> Mumbai Indians are bossing this game from all corners. But we have seen teams lose plot from such situations quite a few times in this unforgiving format. Can RCB make a comeback or will MI do it in a canter? Here's the supremely-skilled Mumbai lad, I0$ to take you through the rest of the game...</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854094670,
-    "commText": "<p><b>Powerplay summary</b> \\n-- Kishan dominates strike and is off to a blazing start \\n-- There is some swing early on but it dies quickly \\n-- Siraj taken for 23 in 5th over \\n-- MI race to 50 in just 4.5 overs \\n-- Kishan smashes 50 off just 23 balls \\n-- Maxwell taken for 17 in 6th over</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854094660,
-    "commText": "<p> Maxwell to Ishan Kishan, 1 run, full and fast just outside off, driven away to mid-off for a quick single </p>",
-    "overs": 6,
+    "timestamp": 1712852657826,
+    "commText": "<p> Siraj to Ishan Kishan, <b>SIX</b>, into the stands. Full at the pads, Ishan Kishan plays the pick up whip and sends it soaring for a <b>77-metre over deep square</b> </p>",
+    "ballNbr": 9,
+    "overs": 1.3,
     "events": [
-      "OVER_BREAK",
-      "HIGHSCORING_OVER"
-    ],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 55,
-      "ballsPlayed": 25,
-      "dotBalls": 8,
-      "batFours": 6,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 7662,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854036548,
-    "commText": "<p> Maxwell to Ishan Kishan, <b>FOUR</b>, Maxwell goes even quicker and Ishan Kishan is up for it. Goes on the back foot and slaps it past the fielder at mid-on to his right. <b>16 off the over with one ball to go</b> </p>",
-    "overs": 5.5,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 54,
-      "ballsPlayed": 24,
-      "dotBalls": 8,
-      "batFours": 6,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 7662,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712854000354,
-    "commText": "<p> Maxwell to Ishan Kishan, <b>SIX</b>, he goes quick to Kishan and gets launched for a maximum. A <b>23-ball fifty for Ishan Kishan</b> as he uses the depth of the crease to muscle the pull over long-on </p>",
-    "overs": 5.4,
-    "events": [
-      "FIFTY",
       "SIX"
     ],
     "batsmanStriker": {
       "id": 10276,
-      "batRuns": 50,
-      "ballsPlayed": 23,
-      "dotBalls": 8,
-      "batFours": 5,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 7662,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712853972501,
-    "commText": "<p> Maxwell to Rohit, 1 run, slower and shorter just outside off, punched away to the right of mid-wicket for an easy single </p>",
-    "overs": 5.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 15,
-      "ballsPlayed": 11,
+      "batRuns": 7,
+      "ballsPlayed": 8,
       "dotBalls": 6,
       "batFours": 0,
-      "batSixes": 2
+      "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 7662,
+      "id": 10808,
       "bowlOvers": 0.3,
       "bowlMaidens": 0,
       "bowlRuns": 6,
@@ -2362,68 +292,121 @@
     }
   },
   {
-    "timestamp": 1712853922618,
-    "commText": "<p> Maxwell to Ishan Kishan, 1 run, quicker outside off, driven away wide of cover to his right </p>",
-    "overs": 5.2,
+    "timestamp": 1712852692112,
+    "commText": "<p> Siraj to Ishan Kishan, no run, shortens the length and keeps it around leg stump, Ishan Kishan misses the flick and gets hit high on the pad </p>",
+    "ballNbr": 10,
+    "overs": 1.4,
     "events": [],
     "batsmanStriker": {
       "id": 10276,
-      "batRuns": 44,
-      "ballsPlayed": 22,
-      "dotBalls": 8,
-      "batFours": 5,
-      "batSixes": 3
+      "batRuns": 7,
+      "ballsPlayed": 9,
+      "dotBalls": 7,
+      "batFours": 0,
+      "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 7662,
-      "bowlOvers": 0.2,
+      "id": 10808,
+      "bowlOvers": 0.4,
       "bowlMaidens": 0,
-      "bowlRuns": 5,
+      "bowlRuns": 6,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712853897499,
-    "commText": "<p> Maxwell to Ishan Kishan, <b>FOUR</b>, out for a 4-ball duck and he concedes a 4 first ball does Glenn Maxwell. Drops it short on the stumps, Ishan Kishan swivels on the back foot and pulls it to the left of long-on </p>",
-    "overs": 5.1,
+    "timestamp": 1712852729526,
+    "commText": "<p> Siraj to Ishan Kishan, 1 run, I0$ back of a length outside off, cut away to deep backward point </p>",
+    "ballNbr": 11,
+    "overs": 1.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 8,
+      "ballsPlayed": 10,
+      "dotBalls": 7,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712852779366,
+    "commText": "<p> Siraj to Rohit, no run, I0$ full outside off, Rohit blocks it off the front foot into the covers </p>",
+    "ballNbr": 12,
+    "overs": 2,
     "events": [
-      "FOUR"
+      "OVER_BREAK"
     ],
     "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 43,
-      "ballsPlayed": 21,
-      "dotBalls": 8,
-      "batFours": 5,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 7662,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712853886779,
-    "commText": "<p><b>Glenn Maxwell, right-arm off break, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 39,
-      "ballsPlayed": 20,
-      "dotBalls": 0,
+      "id": 576,
+      "batRuns": 0,
+      "ballsPlayed": 2,
+      "dotBalls": 2,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
       "id": 10808,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712852861264,
+    "commText": "<p> Topley to Ishan Kishan, <b>FOUR</b>, full and in the zone outside off, Ishan Kishan slices the drive square on the off-side and beats the diving effort of deep backward point to his left </p>",
+    "ballNbr": 13,
+    "overs": 2.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 12,
+      "ballsPlayed": 11,
+      "dotBalls": 7,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8349,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712852864264,
+    "commText": "<p>Kishan pulled out at the last possible instant and Topley clearly wasn't impressed with that. Instead of aborting his run-up he threw the ball gently towards the batter. There's nothing gentle about the stare though....</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
       "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
@@ -2433,26 +416,497 @@
     }
   },
   {
-    "timestamp": 1712853810397,
-    "commText": "<p> Siraj to Rohit, no run, goes full and wide of off, Rohit looks to dab it fine with an open bat face and misses </p>",
-    "overs": 5,
+    "timestamp": 1712852942595,
+    "commText": "<p> Topley to Ishan Kishan, <b>FOUR</b>, <b>edged and past the fielder.</b> Full and just outside off, Ishan Kishan swings hard and the outside edge flies past the diving right hand of Maxwell at slip </p>",
+    "ballNbr": 14,
+    "overs": 2.2,
+    "events": [
+      "FOUR",
+      "DROPPED"
+    ],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 16,
+      "ballsPlayed": 12,
+      "dotBalls": 7,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8349,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712852987765,
+    "commText": "<p> Topley to Ishan Kishan, <b>FOUR</b>, Topley goes full again and Ishan Kishan is happy to power that on-drive wide of mid-on to his left </p>",
+    "ballNbr": 15,
+    "overs": 2.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 20,
+      "ballsPlayed": 13,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8349,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853021552,
+    "commText": "<p> Topley to Ishan Kishan, 1 run, clips the full delivery to the left of deep square leg </p>",
+    "ballNbr": 16,
+    "overs": 2.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 21,
+      "ballsPlayed": 14,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8349,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853069382,
+    "commText": "<p> Topley to Rohit, 1 run, yorker length just outside off, Rohit jams it towards backward point for a quick single </p>",
+    "ballNbr": 17,
+    "overs": 2.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 1,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8349,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853099360,
+    "commText": "<p> Topley to Ishan Kishan, no run, I0$ full on off, Ishan Kishan toe-ends the drive to mid-off </p>",
+    "ballNbr": 18,
+    "overs": 3,
     "events": [
       "OVER_BREAK",
       "HIGHSCORING_OVER"
     ],
     "batsmanStriker": {
-      "id": 576,
-      "batRuns": 14,
-      "ballsPlayed": 10,
-      "dotBalls": 6,
+      "id": 10276,
+      "batRuns": 21,
+      "ballsPlayed": 15,
+      "dotBalls": 8,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8349,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853102360,
+    "commText": "<p>One slip for Akash Deep...</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
       "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853168377,
+    "commText": "<p><b>Akash Deep, right-arm medium, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 1,
+      "ballsPlayed": 3,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8349,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853178414,
+    "commText": "<p> Akash Deep to Rohit, no run, I0$ skiddy length delivery just outside off, Rohit hangs back and defends it solidly into the off-side </p>",
+    "ballNbr": 19,
+    "overs": 3.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 1,
+      "ballsPlayed": 4,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853214792,
+    "commText": "<p> Akash Deep to Rohit, no run, I0$ swinging away from a length wide of off, Rohit tries to pull but gets beaten all ends up by the late away movement </p>",
+    "ballNbr": 20,
+    "overs": 3.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 1,
+      "ballsPlayed": 5,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853250448,
+    "commText": "<p> Akash Deep to Rohit, no run, I0$ good length just outside off, punched away straight to backward point </p>",
+    "ballNbr": 21,
+    "overs": 3.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 1,
+      "ballsPlayed": 6,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853288752,
+    "commText": "<p> Akash Deep to Rohit, <b>wide</b>, I0$ short and drifting down leg, Rohit looks to pull but couldn't get bat on ball </p>",
+    "ballNbr": 22,
+    "overs": 3.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 1,
+      "ballsPlayed": 6,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853331127,
+    "commText": "<p> Akash Deep to Rohit, 1 run, length delivery on middle and leg, worked away to the right of square leg </p>",
+    "ballNbr": 22,
+    "overs": 3.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 2,
+      "ballsPlayed": 7,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853389785,
+    "commText": "<p> Akash Deep to Ishan Kishan, 1 run, full outside off, Ishan Kishan slices the drive square on the off-side. Will Jacks puts in a one-handed dive to his right at backward point to keep it down to a single </p>",
+    "ballNbr": 23,
+    "overs": 3.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 22,
+      "ballsPlayed": 16,
+      "dotBalls": 8,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853440416,
+    "commText": "<p> Akash Deep to Rohit, <b>SIX</b>, huge top-edge and it's gone all the way for a maximum. I0$ short ball just outside off, Rohit pulls and the edge travels just adjacent to the sightscreen over non-existent fine leg </p>",
+    "ballNbr": 24,
+    "overs": 4,
+    "events": [
+      "OVER_BREAK",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 8,
+      "ballsPlayed": 8,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853510602,
+    "commText": "<p><b>Mohammed Siraj [1.0-0-7-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 22,
+      "ballsPlayed": 16,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853517044,
+    "commText": "<p> Siraj to Ishan Kishan, <b>SIX</b>, I0$ hit-me short of length delivery just outside off, Ishan Kishan swivels and powers the pull over the leaping deep square fielder. Packed enough power on that shot to clear the fielder </p>",
+    "ballNbr": 25,
+    "overs": 4.1,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 28,
+      "ballsPlayed": 17,
+      "dotBalls": 8,
+      "batFours": 3,
       "batSixes": 2
     },
     "bowlerStriker": {
       "id": 10808,
-      "bowlOvers": 2,
+      "bowlOvers": 1.1,
       "bowlMaidens": 0,
-      "bowlRuns": 30,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853520044,
+    "commText": "<p>Siraj is not happy with the landing area. He asked for some sawdust in his previous over and there's more of it being applied as he carefully inspects the bowling mark....</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853598380,
+    "commText": "<p> Siraj to Ishan Kishan, <b>FOUR</b>, now Siraj goes short outside off, Ishan Kishan stands deep inside the crease and slashes in the gap between backward point and cover. Kohli was just a spectator at cover... </p>",
+    "ballNbr": 26,
+    "overs": 4.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 32,
+      "ballsPlayed": 18,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853645520,
+    "commText": "<p> Siraj to Ishan Kishan, <b>SIX</b>, wow. That is some shot from Ishan Kishan. I0$ skiddy length delivery just outside off, Ishan Kishan makes room early and uses his fast hands to great effect as he flays it flat square on the off-side for an impressive maximum </p>",
+    "ballNbr": 27,
+    "overs": 4.3,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 38,
+      "ballsPlayed": 19,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853697379,
+    "commText": "<p> Siraj to Ishan Kishan, 1 run, punch-drives the full delivery to the left of mid-off who manages a half-stop to keep it down to a single </p>",
+    "ballNbr": 28,
+    "overs": 4.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 39,
+      "ballsPlayed": 20,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
@@ -2461,6 +915,7 @@
   {
     "timestamp": 1712853760359,
     "commText": "<p> Siraj to Rohit, <b>SIX</b>, the MI batters are carting Siraj to all corners of the ground. It's the turn of Rohit Sharma now. Picks the full delivery off his pads and whips nonchalantly over mid-wicket. <b>23 off the over already</b> </p>",
+    "ballNbr": 29,
     "overs": 4.5,
     "events": [
       "TEAM_FIFTY",
@@ -2486,71 +941,203 @@
     }
   },
   {
-    "timestamp": 1712853697379,
-    "commText": "<p> Siraj to Ishan Kishan, 1 run, punch-drives the full delivery to the left of mid-off who manages a half-stop to keep it down to a single </p>",
-    "overs": 4.4,
+    "timestamp": 1712853810397,
+    "commText": "<p> Siraj to Rohit, no run, goes full and wide of off, Rohit looks to dab it fine with an open bat face and misses </p>",
+    "ballNbr": 30,
+    "overs": 5,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 14,
+      "ballsPlayed": 10,
+      "dotBalls": 6,
+      "batFours": 0,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 30,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853886779,
+    "commText": "<p><b>Glenn Maxwell, right-arm off break, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
       "id": 10276,
       "batRuns": 39,
       "ballsPlayed": 20,
-      "dotBalls": 8,
-      "batFours": 4,
-      "batSixes": 3
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
     },
     "bowlerStriker": {
       "id": 10808,
-      "bowlOvers": 1.4,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
-      "bowlRuns": 24,
+      "bowlRuns": 0,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712853645520,
-    "commText": "<p> Siraj to Ishan Kishan, <b>SIX</b>, wow. That is some shot from Ishan Kishan. I0$ skiddy length delivery just outside off, Ishan Kishan makes room early and uses his fast hands to great effect as he flays it flat square on the off-side for an impressive maximum </p>",
-    "overs": 4.3,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 38,
-      "ballsPlayed": 19,
-      "dotBalls": 8,
-      "batFours": 4,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712853598380,
-    "commText": "<p> Siraj to Ishan Kishan, <b>FOUR</b>, now Siraj goes short outside off, Ishan Kishan stands deep inside the crease and slashes in the gap between backward point and cover. Kohli was just a spectator at cover... </p>",
-    "overs": 4.2,
+    "timestamp": 1712853897499,
+    "commText": "<p> Maxwell to Ishan Kishan, <b>FOUR</b>, out for a 4-ball duck and he concedes a 4 first ball does Glenn Maxwell. Drops it short on the stumps, Ishan Kishan swivels on the back foot and pulls it to the left of long-on </p>",
+    "ballNbr": 31,
+    "overs": 5.1,
     "events": [
       "FOUR"
     ],
     "batsmanStriker": {
       "id": 10276,
-      "batRuns": 32,
-      "ballsPlayed": 18,
+      "batRuns": 43,
+      "ballsPlayed": 21,
       "dotBalls": 8,
-      "batFours": 4,
+      "batFours": 5,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853922618,
+    "commText": "<p> Maxwell to Ishan Kishan, 1 run, quicker outside off, driven away wide of cover to his right </p>",
+    "ballNbr": 32,
+    "overs": 5.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 44,
+      "ballsPlayed": 22,
+      "dotBalls": 8,
+      "batFours": 5,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712853972501,
+    "commText": "<p> Maxwell to Rohit, 1 run, slower and shorter just outside off, punched away to the right of mid-wicket for an easy single </p>",
+    "ballNbr": 33,
+    "overs": 5.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 15,
+      "ballsPlayed": 11,
+      "dotBalls": 6,
+      "batFours": 0,
       "batSixes": 2
     },
     "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 1.2,
+      "id": 7662,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854000354,
+    "commText": "<p> Maxwell to Ishan Kishan, <b>SIX</b>, he goes quick to Kishan and gets launched for a maximum. A <b>23-ball fifty for Ishan Kishan</b> as he uses the depth of the crease to muscle the pull over long-on </p>",
+    "ballNbr": 34,
+    "overs": 5.4,
+    "events": [
+      "FIFTY",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 50,
+      "ballsPlayed": 23,
+      "dotBalls": 8,
+      "batFours": 5,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854036548,
+    "commText": "<p> Maxwell to Ishan Kishan, <b>FOUR</b>, Maxwell goes even quicker and Ishan Kishan is up for it. Goes on the back foot and slaps it past the fielder at mid-on to his right. <b>16 off the over with one ball to go</b> </p>",
+    "ballNbr": 35,
+    "overs": 5.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 54,
+      "ballsPlayed": 24,
+      "dotBalls": 8,
+      "batFours": 6,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854094660,
+    "commText": "<p> Maxwell to Ishan Kishan, 1 run, full and fast just outside off, driven away to mid-off for a quick single </p>",
+    "ballNbr": 36,
+    "overs": 6,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 55,
+      "ballsPlayed": 25,
+      "dotBalls": 8,
+      "batFours": 6,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 1,
       "bowlMaidens": 0,
       "bowlRuns": 17,
       "bowlWickets": 0,
@@ -2559,8 +1146,9 @@
     }
   },
   {
-    "timestamp": 1712853520044,
-    "commText": "<p>Siraj is not happy with the landing area. He asked for some sawdust in his previous over and there's more of it being applied as he carefully inspects the bowling mark....</p>",
+    "timestamp": 1712854094670,
+    "commText": "<p><b>Powerplay summary</b> \\n-- Kishan dominates strike and is off to a blazing start \\n-- There is some swing early on but it dies quickly \\n-- Siraj taken for 23 in 5th over \\n-- MI race to 50 in just 4.5 overs \\n-- Kishan smashes 50 off just 23 balls \\n-- Maxwell taken for 17 in 6th over</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -2582,45 +1170,21 @@
     }
   },
   {
-    "timestamp": 1712853517044,
-    "commText": "<p> Siraj to Ishan Kishan, <b>SIX</b>, I0$ hit-me short of length delivery just outside off, Ishan Kishan swivels and powers the pull over the leaping deep square fielder. Packed enough power on that shot to clear the fielder </p>",
-    "overs": 4.1,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 28,
-      "ballsPlayed": 17,
-      "dotBalls": 8,
-      "batFours": 3,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712853510602,
-    "commText": "<p><b>Mohammed Siraj [1.0-0-7-0] is back into the attack</b></p>",
+    "timestamp": 1712854097660,
+    "commText": "<p><b>Timeout!</b> Mumbai Indians are bossing this game from all corners. But we have seen teams lose plot from such situations quite a few times in this unforgiving format. Can RCB make a comeback or will MI do it in a canter? Here's the supremely-skilled Mumbai lad, I0$ to take you through the rest of the game...</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 22,
-      "ballsPlayed": 16,
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 14726,
+      "id": 0,
       "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
@@ -2630,24 +1194,464 @@
     }
   },
   {
-    "timestamp": 1712853440416,
-    "commText": "<p> Akash Deep to Rohit, <b>SIX</b>, huge top-edge and it's gone all the way for a maximum. I0$ short ball just outside off, Rohit pulls and the edge travels just adjacent to the sightscreen over non-existent fine leg </p>",
-    "overs": 4,
+    "timestamp": 1712854097670,
+    "commText": "<p><b>Highest scoring rate in Powerplay in IPL 2024</b> \\n11.33 KKR \\n10.70 MI \\n10.67 SRH \\n9.07 DC \\n8.77 CSK</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854292530,
+    "commText": "<p><b>Vijaykumar Vyshak, right-arm medium, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 55,
+      "ballsPlayed": 25,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7662,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854301221,
+    "commText": "<p> Vijaykumar Vyshak to Ishan Kishan, 1 run, short of length on off, slower one, Kishan pulls to deep midwicket </p>",
+    "ballNbr": 37,
+    "overs": 6.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 56,
+      "ballsPlayed": 26,
+      "dotBalls": 8,
+      "batFours": 6,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854301231,
+    "commText": "<p>MI Powerplay scores in IPL 2024: 52/2, 76/2, 46/4, 75/0, 72/0</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854335213,
+    "commText": "<p> Vijaykumar Vyshak to Rohit, no run, off-pace yorker on off stump, 113kph, and Rohit squeezes it out </p>",
+    "ballNbr": 38,
+    "overs": 6.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 15,
+      "ballsPlayed": 12,
+      "dotBalls": 7,
+      "batFours": 0,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854367458,
+    "commText": "<p> Vijaykumar Vyshak to Rohit, no run, well wide outside off, another slower one, Rohit reaches out to cut and toe-ends it to point </p>",
+    "ballNbr": 39,
+    "overs": 6.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 15,
+      "ballsPlayed": 13,
+      "dotBalls": 8,
+      "batFours": 0,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854404075,
+    "commText": "<p> Vijaykumar Vyshak to Rohit, <b>SIX</b>, whacked into the crowd! Slower full toss on off stump, Rohit picks it and deposits it over midwicket. Barrage of boundaries and sixes continues </p>",
+    "ballNbr": 40,
+    "overs": 6.4,
     "events": [
-      "OVER_BREAK",
       "SIX"
     ],
     "batsmanStriker": {
       "id": 576,
-      "batRuns": 8,
-      "ballsPlayed": 8,
-      "dotBalls": 5,
+      "batRuns": 21,
+      "ballsPlayed": 14,
+      "dotBalls": 8,
       "batFours": 0,
-      "batSixes": 1
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854443346,
+    "commText": "<p> Vijaykumar Vyshak to Rohit, <b>FOUR</b>, now the outside edge runs away for four as well! More frustration for RCB! Length ball on off stump, on-pace delivery, Rohit gets forward to defend but it finds the edge that runs away past the keeper </p>",
+    "ballNbr": 41,
+    "overs": 6.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 25,
+      "ballsPlayed": 15,
+      "dotBalls": 8,
+      "batFours": 1,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 11,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854488563,
+    "commText": "<p> Vijaykumar Vyshak to Rohit, 1 run, fuller than a length outside off, slower one, Rohit gets forward and knocks it wide of backward point </p>",
+    "ballNbr": 42,
+    "overs": 7,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 26,
+      "ballsPlayed": 16,
+      "dotBalls": 8,
+      "batFours": 1,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854488573,
+    "commText": "<p><b>Fifty inside Powerplay for MI (IPL)</b> \\nSanath Jayasuriya 59 vs CSK Wankhede 2008 \\nLendl Simmons 50 vs PK Mohali 2015 \\nIshan Kishan 63 vs SRH Abu Dhabi 2021 \\nIshan Kishan 55 vs RCB Wankhede 2024</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854543275,
+    "commText": "<p><b>Will Jacks, right-arm off break, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 26,
+      "ballsPlayed": 16,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854551393,
+    "commText": "<p> Will Jacks to Rohit, 1 run, tossed up outside off, Rohit gets forward and drives to sweeper cover </p>",
+    "ballNbr": 43,
+    "overs": 7.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 27,
+      "ballsPlayed": 17,
+      "dotBalls": 8,
+      "batFours": 1,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854581984,
+    "commText": "<p> Will Jacks to Ishan Kishan, 1 run, drifting in on leg stump from round the wicket, full ball, Kishan clears the front leg and drives to long-on </p>",
+    "ballNbr": 44,
+    "overs": 7.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 57,
+      "ballsPlayed": 27,
+      "dotBalls": 8,
+      "batFours": 6,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854610837,
+    "commText": "<p> Will Jacks to Rohit, 1 run, 92kph flat length ball on leg stump, Rohit hangs back and tucks it behind square </p>",
+    "ballNbr": 45,
+    "overs": 7.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 28,
+      "ballsPlayed": 18,
+      "dotBalls": 8,
+      "batFours": 1,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854645266,
+    "commText": "<p> Will Jacks to Ishan Kishan, no run, length ball outside off, Kishan was looking to advance but then saw the length and stayed in the crease. He makes a late adjustment and cuts it to backward point </p>",
+    "ballNbr": 46,
+    "overs": 7.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 57,
+      "ballsPlayed": 28,
+      "dotBalls": 9,
+      "batFours": 6,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854667330,
+    "commText": "<p> Will Jacks to Ishan Kishan, <b>FOUR</b>, this time he does step out as Jacks gives it some air. Gets right to the pitch of it and hammers it straight back. One bounce and over the ropes </p>",
+    "ballNbr": 47,
+    "overs": 7.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 61,
+      "ballsPlayed": 29,
+      "dotBalls": 9,
+      "batFours": 7,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854696444,
+    "commText": "<p> Will Jacks to Ishan Kishan, 1 run, length ball sliding in on leg, Kishan tucks it through square leg </p>",
+    "ballNbr": 48,
+    "overs": 8,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 62,
+      "ballsPlayed": 30,
+      "dotBalls": 9,
+      "batFours": 7,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854765146,
+    "commText": "<p><b>Akash Deep [1.0-0-9-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 62,
+      "ballsPlayed": 30,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854769618,
+    "commText": "<p> Akash Deep to Ishan Kishan, no run, full delivery on off, 143.8kph, Kishan gets forward to drive and mistimes it to mid-off </p>",
+    "ballNbr": 49,
+    "overs": 8.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 62,
+      "ballsPlayed": 31,
+      "dotBalls": 10,
+      "batFours": 7,
+      "batSixes": 4
     },
     "bowlerStriker": {
       "id": 14726,
-      "bowlOvers": 1,
+      "bowlOvers": 1.1,
       "bowlMaidens": 0,
       "bowlRuns": 9,
       "bowlWickets": 0,
@@ -2656,254 +1660,24 @@
     }
   },
   {
-    "timestamp": 1712853389785,
-    "commText": "<p> Akash Deep to Ishan Kishan, 1 run, full outside off, Ishan Kishan slices the drive square on the off-side. Will Jacks puts in a one-handed dive to his right at backward point to keep it down to a single </p>",
-    "overs": 3.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 22,
-      "ballsPlayed": 16,
-      "dotBalls": 8,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712853331127,
-    "commText": "<p> Akash Deep to Rohit, 1 run, length delivery on middle and leg, worked away to the right of square leg </p>",
-    "overs": 3.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 2,
-      "ballsPlayed": 7,
-      "dotBalls": 5,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712853288752,
-    "commText": "<p> Akash Deep to Rohit, <b>wide</b>, I0$ short and drifting down leg, Rohit looks to pull but couldn't get bat on ball </p>",
-    "overs": 3.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 1,
-      "ballsPlayed": 6,
-      "dotBalls": 5,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712853250448,
-    "commText": "<p> Akash Deep to Rohit, no run, I0$ good length just outside off, punched away straight to backward point </p>",
-    "overs": 3.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 1,
-      "ballsPlayed": 6,
-      "dotBalls": 5,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712853214792,
-    "commText": "<p> Akash Deep to Rohit, no run, I0$ swinging away from a length wide of off, Rohit tries to pull but gets beaten all ends up by the late away movement </p>",
-    "overs": 3.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 1,
-      "ballsPlayed": 5,
-      "dotBalls": 4,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712853178414,
-    "commText": "<p> Akash Deep to Rohit, no run, I0$ skiddy length delivery just outside off, Rohit hangs back and defends it solidly into the off-side </p>",
-    "overs": 3.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 1,
-      "ballsPlayed": 4,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14726,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712853168377,
-    "commText": "<p><b>Akash Deep, right-arm medium, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 1,
-      "ballsPlayed": 3,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712853102360,
-    "commText": "<p>One slip for Akash Deep...</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712853099360,
-    "commText": "<p> Topley to Ishan Kishan, no run, I0$ full on off, Ishan Kishan toe-ends the drive to mid-off </p>",
-    "overs": 3,
+    "timestamp": 1712854807596,
+    "commText": "<p> Akash Deep to Ishan Kishan, <b>SIX</b>, full toss on off stump at 137kph, and it disappears over the ropes! Kishan swings hard, makes good enough contact and hammers it over wide long-on </p>",
+    "ballNbr": 50,
+    "overs": 8.2,
     "events": [
-      "OVER_BREAK",
-      "HIGHSCORING_OVER"
+      "SIX"
     ],
     "batsmanStriker": {
       "id": 10276,
-      "batRuns": 21,
-      "ballsPlayed": 15,
-      "dotBalls": 8,
-      "batFours": 3,
-      "batSixes": 1
+      "batRuns": 68,
+      "ballsPlayed": 32,
+      "dotBalls": 10,
+      "batFours": 7,
+      "batSixes": 5
     },
     "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712853069382,
-    "commText": "<p> Topley to Rohit, 1 run, yorker length just outside off, Rohit jams it towards backward point for a quick single </p>",
-    "overs": 2.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 1,
-      "ballsPlayed": 3,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712853021552,
-    "commText": "<p> Topley to Ishan Kishan, 1 run, clips the full delivery to the left of deep square leg </p>",
-    "overs": 2.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 21,
-      "ballsPlayed": 14,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 1.4,
+      "id": 14726,
+      "bowlOvers": 1.2,
       "bowlMaidens": 0,
       "bowlRuns": 15,
       "bowlWickets": 0,
@@ -2912,59 +1686,84 @@
     }
   },
   {
-    "timestamp": 1712852987765,
-    "commText": "<p> Topley to Ishan Kishan, <b>FOUR</b>, Topley goes full again and Ishan Kishan is happy to power that on-drive wide of mid-on to his left </p>",
-    "overs": 2.3,
-    "events": [
-      "FOUR"
-    ],
+    "timestamp": 1712854844471,
+    "commText": "<p> Akash Deep to Ishan Kishan, 1 run, short of length on off, 138kph, Kishan swings hard and pulls it on the bounce to deep midwicket </p>",
+    "ballNbr": 51,
+    "overs": 8.3,
+    "events": [],
     "batsmanStriker": {
       "id": 10276,
-      "batRuns": 20,
-      "ballsPlayed": 13,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 1
+      "batRuns": 69,
+      "ballsPlayed": 33,
+      "dotBalls": 10,
+      "batFours": 7,
+      "batSixes": 5
     },
     "bowlerStriker": {
-      "id": 8349,
+      "id": 14726,
       "bowlOvers": 1.3,
       "bowlMaidens": 0,
-      "bowlRuns": 14,
+      "bowlRuns": 16,
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712852942595,
-    "commText": "<p> Topley to Ishan Kishan, <b>FOUR</b>, <b>edged and past the fielder.</b> Full and just outside off, Ishan Kishan swings hard and the outside edge flies past the diving right hand of Maxwell at slip </p>",
-    "overs": 2.2,
+    "timestamp": 1712854885563,
+    "commText": "<p> Akash Deep to Rohit, <b>wide</b>, slower bouncer outside off, left alone by Rohit. Umpire calls it a wide for height. 100 up already for MI </p>",
+    "ballNbr": 52,
+    "overs": 8.4,
     "events": [
-      "FOUR",
-      "DROPPED"
+      "TEAM_HUNDRED",
+      "PARTNERSHIP"
     ],
     "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 16,
-      "ballsPlayed": 12,
-      "dotBalls": 7,
-      "batFours": 2,
-      "batSixes": 1
+      "id": 576,
+      "batRuns": 28,
+      "ballsPlayed": 18,
+      "dotBalls": 8,
+      "batFours": 1,
+      "batSixes": 3
     },
     "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 1.2,
+      "id": 14726,
+      "bowlOvers": 1.3,
       "bowlMaidens": 0,
-      "bowlRuns": 10,
+      "bowlRuns": 17,
       "bowlWickets": 0,
-      "bowlWides": 1,
+      "bowlWides": 2,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712852864264,
-    "commText": "<p>Kishan pulled out at the last possible instant and Topley clearly wasn't impressed with that. Instead of aborting his run-up he threw the ball gently towards the batter. There's nothing gentle about the stare though....</p>",
+    "timestamp": 1712854923357,
+    "commText": "<p> Akash Deep to Rohit, 1 run, back of a length delivery just outside off, Rohit hangs back and dabs it to deep third </p>",
+    "ballNbr": 52,
+    "overs": 8.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 29,
+      "ballsPlayed": 19,
+      "dotBalls": 8,
+      "batFours": 1,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 0,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854923367,
+    "commText": "<p>This is the 93rd time Rohit Sharma has opened the batting in IPL and the first time he has been involved in a 100+ opening partnership.</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -2986,181 +1785,900 @@
     }
   },
   {
-    "timestamp": 1712852861264,
-    "commText": "<p> Topley to Ishan Kishan, <b>FOUR</b>, full and in the zone outside off, Ishan Kishan slices the drive square on the off-side and beats the diving effort of deep backward point to his left </p>",
-    "overs": 2.1,
+    "timestamp": 1712854966186,
+    "commText": "<p> Akash Deep to Ishan Kishan, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 69,
+      "ballsPlayed": 33,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712854970994,
+    "commText": "<p> Akash Deep to Ishan Kishan, <b>out</b> Caught by Kohli!! Finally some relief for RCB! Kishan advances, gets a slower short ball outside off and looks to flat-bat it down the ground for six. But it gets big on him, and he miscues it to long-on where Kohli takes a simple catch and throws the ball in the air without much of a celebration. So a blistering knock comes to an end. <b>Ishan Kishan c Kohli b Akash Deep 69(34) [4s-7 6s-5]</b> </p>",
+    "ballNbr": 53,
+    "overs": 8.5,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 10276,
+      "batRuns": 69,
+      "ballsPlayed": 34,
+      "dotBalls": 11,
+      "batFours": 7,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855080354,
+    "commText": "<p><b>Suryakumar Yadav, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855089492,
+    "commText": "<p> Akash Deep to Suryakumar Yadav, 2 runs, full delivery around off, Suryakumar flicks it through midwicket for a couple </p>",
+    "ballNbr": 54,
+    "overs": 9,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 2,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855154377,
+    "commText": "<p><b>Vijaykumar Vyshak [1.0-0-12-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 29,
+      "ballsPlayed": 19,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855159405,
+    "commText": "<p> Vijaykumar Vyshak to Rohit, no run, length ball on off, slower one, Rohit hangs back and defends </p>",
+    "ballNbr": 55,
+    "overs": 9.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 29,
+      "ballsPlayed": 20,
+      "dotBalls": 9,
+      "batFours": 1,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855195779,
+    "commText": "<p> Vijaykumar Vyshak to Rohit, <b>FOUR</b>, <b>Topley gets fingertips to it, but can't hold on!</b> Slower bouncer around the head, Rohit isn't in control of the pull and it loops over short fine. Jumping effort from Topley there but he tips it over </p>",
+    "ballNbr": 56,
+    "overs": 9.2,
+    "events": [
+      "FOUR",
+      "DROPPED"
+    ],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 33,
+      "ballsPlayed": 21,
+      "dotBalls": 9,
+      "batFours": 2,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855243077,
+    "commText": "<p> Vijaykumar Vyshak to Rohit, 1 run, flicked through midwicket for a single. Rohit was looking for two but Surya sent him back </p>",
+    "ballNbr": 57,
+    "overs": 9.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 34,
+      "ballsPlayed": 22,
+      "dotBalls": 9,
+      "batFours": 2,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855246077,
+    "commText": "<p>Surya has replaced Madhwal by the way, coming in as the impact sub</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855350523,
+    "commText": "<p> Vijaykumar Vyshak to Suryakumar Yadav, 2 runs, short of length just outside off, slower one, Suryakumar waits on it and pulls through square leg </p>",
+    "ballNbr": 58,
+    "overs": 9.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 4,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855383444,
+    "commText": "<p> Vijaykumar Vyshak to Suryakumar Yadav, no run, yorker on off, Suryakumar squeezes it to backward point </p>",
+    "ballNbr": 59,
+    "overs": 9.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 4,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855418756,
+    "commText": "<p> Vijaykumar Vyshak to Suryakumar Yadav, 1 run, slower ball on off stump, Surya flicks it in the air and it falls well short of long-on </p>",
+    "ballNbr": 60,
+    "overs": 10,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 5,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855495807,
+    "commText": "<p> Akash Deep to Suryakumar Yadav, <b>FOUR</b>, what lovely wristwork from Surya! Picks a full ball from well outside off and whips it over midwicket. It's bowled at 139kph and he makes it look so easy </p>",
+    "ballNbr": 61,
+    "overs": 10.1,
     "events": [
       "FOUR"
     ],
     "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 12,
-      "ballsPlayed": 11,
-      "dotBalls": 7,
+      "id": 7915,
+      "batRuns": 9,
+      "ballsPlayed": 5,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855549822,
+    "commText": "<p> Akash Deep to Suryakumar Yadav, no run, 133.5kph length ball on off, Surya is cramped for room slightly as he pushes it to cover </p>",
+    "ballNbr": 62,
+    "overs": 10.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 9,
+      "ballsPlayed": 6,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855586857,
+    "commText": "<p> Akash Deep to Suryakumar Yadav, <b>SIX</b>, short of length around the waist, slower one, and Surya pulls it all the way over deep midwicket. It's a very short boundary there, so despite the connection not being great, it clears comfortably </p>",
+    "ballNbr": 63,
+    "overs": 10.3,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 15,
+      "ballsPlayed": 7,
+      "dotBalls": 2,
       "batFours": 1,
       "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 8349,
+      "id": 14726,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 30,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855636026,
+    "commText": "<p> Akash Deep to Suryakumar Yadav, 2 runs, <b>Maxwell puts down a tough chance!</b> It was struck really hard and came to him in a flash..Short and wide, Surya throws his bat at it and slaps it to backward point. He goes with both hands but can't hold on. To make it worse, he's in pain and going off the field </p>",
+    "ballNbr": 64,
+    "overs": 10.4,
+    "events": [
+      "DROPPED"
+    ],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 17,
+      "ballsPlayed": 8,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855682095,
+    "commText": "<p> Akash Deep to Suryakumar Yadav, <b>SIX</b>, wow! Akash Deep watches the ball in awe as it goes sailing over square leg. Surya has well and truly arrived in this tournament. Length ball outside off, he picks it up effortlessly and dumps it over the leg-side boundary </p>",
+    "ballNbr": 65,
+    "overs": 10.5,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 23,
+      "ballsPlayed": 9,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 38,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855742597,
+    "commText": "<p> Akash Deep to Suryakumar Yadav, <b>SIX</b>, full toss down the leg-side, and it's asking for trouble against Surya whose fast hands and rubber wrists send the ball a long way over long leg. Whipped away for six more! </p>",
+    "ballNbr": 66,
+    "overs": 11,
+    "events": [
+      "OVER_BREAK",
+      "SIX",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 29,
+      "ballsPlayed": 10,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 44,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855838423,
+    "commText": "<p><b>Will Jacks [1.0-0-8-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 34,
+      "ballsPlayed": 22,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855845805,
+    "commText": "<p> Will Jacks to Rohit, <b>FOUR</b>, back of a length on middle, Rohit pulls hard and finds the boundary at square leg. One bounce and over the ropes </p>",
+    "ballNbr": 67,
+    "overs": 11.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 38,
+      "ballsPlayed": 23,
+      "dotBalls": 9,
+      "batFours": 3,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 12258,
       "bowlOvers": 1.1,
       "bowlMaidens": 0,
-      "bowlRuns": 6,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855887583,
+    "commText": "<p> Will Jacks to Rohit, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 38,
+      "ballsPlayed": 23,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855896402,
+    "commText": "<p> Will Jacks to Rohit, <b>out</b> Caught by Topley!! <b>Topley looks shocked himself after pulling this off</b>. An absolute screamer at short fine leg, diving across to his left, reaching out with one hand and clutching it right at the end of his fingers. It's a full ball around middle, Rohit looks to sweep, drags it behind square and Topley sends him packing. <b>Rohit c Topley b Will Jacks 38(24) [4s-3 6s-3]</b> </p>",
+    "ballNbr": 68,
+    "overs": 11.2,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 576,
+      "batRuns": 38,
+      "ballsPlayed": 24,
+      "dotBalls": 10,
+      "batFours": 3,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855899402,
+    "commText": "<p>Hardik walks out to loud boos. But a section is chanting Hardik, Hardik too</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712855994057,
+    "commText": "<p><b>Hardik Pandya, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9647,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856002623,
+    "commText": "<p> Will Jacks to Hardik Pandya, <b>SIX</b>, tossed up outside off, Pandya gets on one knee and nails the slog-sweep over wide long-on </p>",
+    "ballNbr": 69,
+    "overs": 11.3,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 9647,
+      "batRuns": 6,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856028665,
+    "commText": "<p> Will Jacks to Hardik Pandya, 1 run, flat length ball on off, punched to long-off </p>",
+    "ballNbr": 70,
+    "overs": 11.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9647,
+      "batRuns": 7,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856066281,
+    "commText": "<p> Will Jacks to Suryakumar Yadav, <b>FOUR</b>, not in control as he looks to drive, <b>it goes in the air</b> but finds the gap between point and short third. It's tossed up outside off and dips on Surya as he reaches out. Gets a lucky boundary </p>",
+    "ballNbr": 71,
+    "overs": 11.5,
+    "events": [
+      "TEAM_HUNDRED",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 33,
+      "ballsPlayed": 11,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856106426,
+    "commText": "<p> Will Jacks to Suryakumar Yadav, 1 run, length ball darted in on off, Surya punches it to long-on </p>",
+    "ballNbr": 72,
+    "overs": 12,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 34,
+      "ballsPlayed": 12,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856185337,
+    "commText": "<p><b>Reece Topley [2.0-0-16-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 34,
+      "ballsPlayed": 12,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 12258,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856194432,
+    "commText": "<p> Topley to Suryakumar Yadav, <b>FOUR</b>, full delivery just outside off, Surya throws his hands at it, opens the face and carves it over backward point </p>",
+    "ballNbr": 73,
+    "overs": 12.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 38,
+      "ballsPlayed": 13,
+      "dotBalls": 2,
+      "batFours": 3,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 8349,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712852779366,
-    "commText": "<p> Siraj to Rohit, no run, I0$ full outside off, Rohit blocks it off the front foot into the covers </p>",
-    "overs": 2,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 576,
-      "batRuns": 0,
-      "ballsPlayed": 2,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712852729526,
-    "commText": "<p> Siraj to Ishan Kishan, 1 run, I0$ back of a length outside off, cut away to deep backward point </p>",
-    "overs": 1.5,
+    "timestamp": 1712856240849,
+    "commText": "<p> Topley to Suryakumar Yadav, no run, length ball outside off, Surya walks across and tries a scoop but misses </p>",
+    "ballNbr": 74,
+    "overs": 12.2,
     "events": [],
     "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 8,
-      "ballsPlayed": 10,
-      "dotBalls": 7,
-      "batFours": 0,
-      "batSixes": 1
+      "id": 7915,
+      "batRuns": 38,
+      "ballsPlayed": 14,
+      "dotBalls": 3,
+      "batFours": 3,
+      "batSixes": 3
     },
     "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 0.5,
+      "id": 8349,
+      "bowlOvers": 2.2,
       "bowlMaidens": 0,
-      "bowlRuns": 7,
+      "bowlRuns": 20,
       "bowlWickets": 0,
-      "bowlWides": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712852692112,
-    "commText": "<p> Siraj to Ishan Kishan, no run, shortens the length and keeps it around leg stump, Ishan Kishan misses the flick and gets hit high on the pad </p>",
-    "overs": 1.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 7,
-      "ballsPlayed": 9,
-      "dotBalls": 7,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712852657826,
-    "commText": "<p> Siraj to Ishan Kishan, <b>SIX</b>, into the stands. Full at the pads, Ishan Kishan plays the pick up whip and sends it soaring for a <b>77-metre over deep square</b> </p>",
-    "overs": 1.3,
+    "timestamp": 1712856280117,
+    "commText": "<p> Topley to Suryakumar Yadav, <b>SIX</b>, full and wide, Surya reaches out and slices it over point for six! Putting on a show are these MI batters </p>",
+    "ballNbr": 75,
+    "overs": 12.3,
     "events": [
       "SIX"
     ],
     "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 7,
-      "ballsPlayed": 8,
-      "dotBalls": 6,
-      "batFours": 0,
-      "batSixes": 1
+      "id": 7915,
+      "batRuns": 44,
+      "ballsPlayed": 15,
+      "dotBalls": 3,
+      "batFours": 3,
+      "batSixes": 4
     },
     "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 0.3,
+      "id": 8349,
+      "bowlOvers": 2.3,
       "bowlMaidens": 0,
-      "bowlRuns": 6,
+      "bowlRuns": 26,
       "bowlWickets": 0,
-      "bowlWides": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712852626943,
-    "commText": "<p> Siraj to Ishan Kishan, no run, I0$ seam-up full delivery wobbling away late outside off, Ishan Kishan goes for a slashing drive and gets beaten on the outside edge. DK with a well-timed dive to his left and collects it cleanly.... </p>",
-    "overs": 1.2,
-    "events": [],
+    "timestamp": 1712856333213,
+    "commText": "<p> Topley to Suryakumar Yadav, <b>FOUR</b>, length ball outside off, Surya walks across, gets low and scoops it over short fine </p>",
+    "ballNbr": 76,
+    "overs": 12.4,
+    "events": [
+      "FOUR"
+    ],
     "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 1,
-      "ballsPlayed": 7,
-      "dotBalls": 6,
-      "batFours": 0,
-      "batSixes": 0
+      "id": 7915,
+      "batRuns": 48,
+      "ballsPlayed": 16,
+      "dotBalls": 3,
+      "batFours": 4,
+      "batSixes": 4
     },
     "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 0.2,
+      "id": 8349,
+      "bowlOvers": 2.4,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
+      "bowlRuns": 30,
       "bowlWickets": 0,
-      "bowlWides": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712852563794,
-    "commText": "<p> Siraj to Ishan Kishan, no run, I0$ full outside off, not a great deal of foot movement from Ishan Kishan as he mistimes the drive into the off-side </p>",
-    "overs": 1.1,
-    "events": [],
+    "timestamp": 1712856389329,
+    "commText": "<p> Topley to Suryakumar Yadav, <b>FOUR</b>, Kishan raised fifty off 23 balls, and Surya has got there off just 17! <b>It's his fastest fifty in the IPL!</b> Absolutely no signs of rustiness from him after coming back into the team. Short of length at the body, slower one, and he pulls it over midwicket. Didn't quite get hold of it but clears the infield comfortably </p>",
+    "ballNbr": 77,
+    "overs": 12.5,
+    "events": [
+      "FIFTY",
+      "FOUR"
+    ],
     "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 1,
-      "ballsPlayed": 6,
-      "dotBalls": 5,
-      "batFours": 0,
-      "batSixes": 0
+      "id": 7915,
+      "batRuns": 52,
+      "ballsPlayed": 17,
+      "dotBalls": 3,
+      "batFours": 5,
+      "batSixes": 4
     },
     "bowlerStriker": {
-      "id": 10808,
-      "bowlOvers": 0.1,
+      "id": 8349,
+      "bowlOvers": 2.5,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
+      "bowlRuns": 34,
       "bowlWickets": 0,
-      "bowlWides": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712852556068,
-    "commText": "<p><b>Mohammed Siraj, right-arm fast medium, comes into the attack</b></p>",
+    "timestamp": 1712856440169,
+    "commText": "<p> Topley to Suryakumar Yadav, no run, wide yorker outside off, Surya tries to reach out but misses </p>",
+    "ballNbr": 78,
+    "overs": 13,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 52,
+      "ballsPlayed": 18,
+      "dotBalls": 4,
+      "batFours": 5,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 8349,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 34,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856509440,
+    "commText": "<p><b>Vijaykumar Vyshak [2.0-0-20-0] is back into the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 1,
-      "ballsPlayed": 5,
+      "id": 9647,
+      "batRuns": 7,
+      "ballsPlayed": 2,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
@@ -3176,161 +2694,72 @@
     }
   },
   {
-    "timestamp": 1712852486777,
-    "commText": "<p> Topley to Rohit, no run, I0$ curling in from a fullish length on the stumps, Rohit looks to heave/flick leg-side and seems to have gotten a faint inside edge onto pad. Mild appeal, but no luck... </p>",
-    "overs": 1,
+    "timestamp": 1712856515787,
+    "commText": "<p> Vijaykumar Vyshak to Hardik Pandya, <b>SIX</b>, slower length ball at 113kph, Pandya clears the front leg and absolutely hammers it over long-on. Just no respite from either end </p>",
+    "ballNbr": 79,
+    "overs": 13.1,
     "events": [
-      "OVER_BREAK"
+      "SIX"
     ],
     "batsmanStriker": {
-      "id": 576,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712852441058,
-    "commText": "<p> Topley to Ishan Kishan, 1 run, I0$ full outside off, Ishan Kishan slices the drive square on the off-side. There's a fielder at deep point to keep it down to a single </p>",
-    "overs": 0.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 1,
-      "ballsPlayed": 5,
-      "dotBalls": 4,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712852405279,
-    "commText": "<p> Topley to Ishan Kishan, no run, I0$ swinging away with extra bounce outside off, Ishan Kishan is happy to leave that alone </p>",
-    "overs": 0.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 0,
-      "ballsPlayed": 4,
-      "dotBalls": 4,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712852369420,
-    "commText": "<p> Topley to Ishan Kishan, no run, I0$ fuller and wider once again, Ishan Kishan finds Will Jacks at backward point on the drive </p>",
-    "overs": 0.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 0,
+      "id": 9647,
+      "batRuns": 13,
       "ballsPlayed": 3,
-      "dotBalls": 3,
+      "dotBalls": 0,
       "batFours": 0,
-      "batSixes": 0
+      "batSixes": 2
     },
     "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 0.3,
+      "id": 10486,
+      "bowlOvers": 2.1,
       "bowlMaidens": 0,
-      "bowlRuns": 1,
+      "bowlRuns": 26,
       "bowlWickets": 0,
-      "bowlWides": 1,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712852298783,
-    "commText": "<p> Topley to Ishan Kishan, no run, I0$ full and wide of off, Ishan Kishan opens the bat face and drives gently to the left of backward point </p>",
-    "overs": 0.2,
+    "timestamp": 1712856553702,
+    "commText": "<p> Vijaykumar Vyshak to Hardik Pandya, 1 run, fuller than a length on off, Pandya looks to slog but drags it off the inside half through midwicket </p>",
+    "ballNbr": 80,
+    "overs": 13.2,
     "events": [],
     "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 0,
-      "ballsPlayed": 2,
-      "dotBalls": 2,
+      "id": 9647,
+      "batRuns": 14,
+      "ballsPlayed": 4,
+      "dotBalls": 0,
       "batFours": 0,
-      "batSixes": 0
+      "batSixes": 2
     },
     "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 0.2,
+      "id": 10486,
+      "bowlOvers": 2.2,
       "bowlMaidens": 0,
-      "bowlRuns": 1,
+      "bowlRuns": 27,
       "bowlWickets": 0,
-      "bowlWides": 1,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712852259508,
-    "commText": "<p> Topley to Ishan Kishan, <b>wide</b>, swings away a bit too much from outside off as Ishan Kishan shoulders arms </p>",
-    "overs": 0.2,
+    "timestamp": 1712856559702,
+    "commText": "<p>High full toss outside off, Surya slaps it in the air and holes out at deep point. Is that above the waist? It was the slower one so it was dipping on him.</p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 10276,
+      "id": 0,
       "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712852226801,
-    "commText": "<p> Topley to Ishan Kishan, no run, full and swinging in towards off, Ishan Kishan jams it off the bottom of the bat into the off-side </p>",
-    "overs": 0.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10276,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8349,
-      "bowlOvers": 0.1,
+      "id": 0,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
       "bowlWickets": 0,
@@ -3339,8 +2768,720 @@
     }
   },
   {
-    "timestamp": 1712852221141,
-    "commText": "<p><b>Ishan Kishan and Rohit are at the crease. Ishan Kishan is on strike. Topley will open the attack</b></p>",
+    "timestamp": 1712856687888,
+    "commText": "<p> Vijaykumar Vyshak to Suryakumar Yadav, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 52,
+      "ballsPlayed": 18,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8349,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856689102,
+    "commText": "<p> Vijaykumar Vyshak to Suryakumar Yadav, <b>out</b> Caught by Lomror!! High full toss outside off, Surya slaps it in the air and holes out at deep point. Is that above the waist? It was the slower one so it was dipping on him. MI have taken the review to check if it's a fair delivery, and ball-tracking confirms it's below the waist. Surya's breathtaking knock is over and he walks off raising his bat to the crowd. <b>Suryakumar Yadav c Lomror b Vijaykumar Vyshak 52(19) [4s-5 6s-4]</b> </p>",
+    "ballNbr": 81,
+    "overs": 13.3,
+    "events": [
+      "WICKET",
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 7915,
+      "batRuns": 52,
+      "ballsPlayed": 19,
+      "dotBalls": 5,
+      "batFours": 5,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856736655,
+    "commText": "<p><b>Tilak Varma, left handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14504,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8349,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856744460,
+    "commText": "<p> Vijaykumar Vyshak to Tilak Varma, <b>FOUR</b>, short of length on middle, Tilak advances first ball, looks to pull and drags it off a thick under-edge to the right of the keeper </p>",
+    "ballNbr": 82,
+    "overs": 13.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 14504,
+      "batRuns": 4,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856744470,
+    "commText": "<p><b>Fastest 50s for MI in IPL (balls faced)</b> \\n16 I Kishan vs SRH Abu Dhabi 2021 \\n17 K Pollard vs KKR Mumbai WS 2016 \\n17 I Kishan vs KKR Kolkata 2018 \\n17 K Pollard vs CSK Delhi 2021 \\n17 H Pandya vs KKR Kolkata 2019 \\n17 Suryakumar Yadav vs RCB Mumbai WS 2024</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856781970,
+    "commText": "<p> Vijaykumar Vyshak to Tilak Varma, no run, full outside off, slower one, Tilak drives hard but finds cover </p>",
+    "ballNbr": 83,
+    "overs": 13.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14504,
+      "batRuns": 4,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856817503,
+    "commText": "<p> Vijaykumar Vyshak to Tilak Varma, 1 run, short of length outside off, slower one, Tilak waits and cuts it to deep point </p>",
+    "ballNbr": 84,
+    "overs": 14,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 14504,
+      "batRuns": 5,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856817513,
+    "commText": "<p><b>Five 50+ scores in an IPL match (the most)</b> \\nPK vs RR Sharjah 2020 \\nRCB vs MI Dubai 2020 \\nRCB vs LSG Bengaluru 2023 \\nCSK vs KKR Kolkata 2023 \\nRCB vs MI Mumbai WS 2024</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856910527,
+    "commText": "<p><b>Mohammed Siraj [2.0-0-30-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14504,
+      "batRuns": 5,
+      "ballsPlayed": 3,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10486,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856913955,
+    "commText": "<p> Siraj to Tilak Varma, 1 run, 135kph full toss outside off, Tilak slaps it to sweeper cover </p>",
+    "ballNbr": 85,
+    "overs": 14.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14504,
+      "batRuns": 6,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712856979472,
+    "commText": "<p> Siraj to Hardik Pandya, 1 run, length ball outside off, Pandya flat-bats it down the ground, and it falls just short of Suyash at long-off </p>",
+    "ballNbr": 86,
+    "overs": 14.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9647,
+      "batRuns": 15,
+      "ballsPlayed": 5,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712857018960,
+    "commText": "<p> Siraj to Tilak Varma, no run, short of length outside off, slower one, Tilak looks to pull but is beaten </p>",
+    "ballNbr": 87,
+    "overs": 14.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14504,
+      "batRuns": 6,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712857059546,
+    "commText": "<p> Siraj to Tilak Varma, <b>FOUR</b>, back of a length outside off, Tilak looks to pull and drags it through midwicket. No timing on it but it's in the gap. Kohli gives up the chase early at deep midwicket </p>",
+    "ballNbr": 88,
+    "overs": 14.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 14504,
+      "batRuns": 10,
+      "ballsPlayed": 6,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 36,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712857062546,
+    "commText": "<p>Faf having a chat with Siraj with an arm around his shoulder</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712857131821,
+    "commText": "<p> Siraj to Tilak Varma, no run, full outside off, Tilak looks to drive, doesn't move his feet at all and is beaten </p>",
+    "ballNbr": 89,
+    "overs": 14.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14504,
+      "batRuns": 10,
+      "ballsPlayed": 7,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 36,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712857190297,
+    "commText": "<p> Siraj to Tilak Varma, 1 run, short of length on off, Tilak gets on top of it and pulls through sqiuare leg. Fielder cuts it off in the deep </p>",
+    "ballNbr": 90,
+    "overs": 15,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 14504,
+      "batRuns": 11,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 37,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712857261353,
+    "commText": "<p><b>Akash Deep [3.0-0-44-1] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14504,
+      "batRuns": 11,
+      "ballsPlayed": 8,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10808,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712857265687,
+    "commText": "<p> Akash Deep to Tilak Varma, <b>FOUR</b>, high full toss outside off, plenty of width for Tilak who slaps it over extra cover </p>",
+    "ballNbr": 91,
+    "overs": 15.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 14504,
+      "batRuns": 15,
+      "ballsPlayed": 9,
+      "dotBalls": 3,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 48,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712857305304,
+    "commText": "<p> Akash Deep to Tilak Varma, 1 run, good yorker on off, Tilak squeezes it down the pitch and Akash Deep fails to cut it off cleanly </p>",
+    "ballNbr": 92,
+    "overs": 15.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14504,
+      "batRuns": 16,
+      "ballsPlayed": 10,
+      "dotBalls": 3,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 49,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712857363472,
+    "commText": "<p> Akash Deep to Hardik Pandya, <b>SIX</b>, and it's all over! RCB can finally go and lie down after this mauling. Full and wide, Pandya reaches out and carves it over cover for six to complete a sensational run-chase at the Wankhede </p>",
+    "ballNbr": 93,
+    "overs": 15.3,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 9647,
+      "batRuns": 21,
+      "ballsPlayed": 6,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 14726,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 55,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712857454660,
+    "commText": "<p><b>23:14 Local Time, 17:44 GMT, 23:14 IST:</b> MI have beaten the hell out of RCB on a dewy evening here at the Wankhede today. A target of 197 chased down in just 15.3 overs with Ishan Kishan and Suryakumar Yadav smashing blistering fifties to make a mockery of the contest. Dinesh Karthik had put on a show himself towards the end of RCB's innings to take them to 196, but what followed was a hammering with Kishan taking the lead in the powerplay, and then Surya doing Surya things enroute to his fastest fifty in IPL off just 17 balls. You look at the figures of all the bowlers today from both teams, and it's hard not to feel sorry for them. But then you look at Bumrah with figures of 5/21. No wonder Siraj is bowing to him before giving him a big hug as the teams meet for the handshakes. Different planet he's from, and he didn't allow RCB to get away in the death overs. The pitch started sticky, with the ball gripping a touch. But with dew settling in, it just became a belter and the visitors were blown away.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712858163096,
+    "commText": "<p><b>Faf du Plessis | RCB captain -</b> It's a tough pill to swallow - combination of two things, very wet (the conditions with dew), I need to somehow win some tosses, secondly, they played really well, put the pressure on us and we made a lot of mistakes (especially during the powerplay). We knew dew would be a factor, we might have needed to make 250+, but they made 196 look very less. You know when there's dew coming, you'll have to bat big, the ball was very wet, it was changed a few times and the bowlers struggled. We also lost a few key moments, we were going well when myself and Patidar were out in the middle with that partnership, but they did come back well. Every time you see him with the ball in his hand (on Jasprit Bumrah), you think you'll have to put him under pressure. But he has so many skills, bowls well under pressure, he bowls with the same action and has a lot of variations. I think he has become even better under the guidance of Lasith Malinga. We would have loved if he was part of our team (smiles). We will have to find ways with the bat, get those big scores, we know our bowling is not our strongest suit, but we'll have to find ways to manage it, we'll have to be creative, go hard with the bat and make most of the first 4-5 overs with the bat.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712858321756,
+    "commText": "<p><b>Suryakumar Yadav:</b> It's always good to be back at Wankhede, when the tournament started I was mentally here only, although physically in Bangalore (recovering from the injury), it felt like I never left. When you are chasing 200, it is important to know the dew factor and take your chances, both Rohit and Ishan did the job for us at the 10th over mark and we only knew that we had to finish early for that net run rate thing. I just try to play to the field and practice these shots and it is just muscle memory (talking about his freak shots) and I go out there and enjoy myself. The slice over point is the one that I enjoyed the most. The management told him (Ishan Kishan) to go out and enjoy, he has worked really hard on his batting and is just enjoying the fruits now. It's been almost 2-3 years since I batted against him (Bumrah) in the nets, because he either breaks my bat or breaks my foot.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712858321766,
+    "commText": "<p><b>MI vs RCB at Wankhede</b> \\nIPL 2023: RCB (199/6) lost to MI (200/4) with 21 balls to spare \\nIPL 2024: RCB (196/6) lost to MI (199/3) with 27 balls to spare</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712858321776,
+    "commText": "<p><b>Chasing 190+ targets with most balls to spare (IPL)</b> \\n32 MI vs RR Mumbai WS 2014 (Tar: 190) \\n27 MI vs PK Indore 2017 (Tar: 199) \\n27 MI vs RCB Mumbai WS 2024 (Tar: 197) \\n21 MI vs RCB Mumbai WS 2023 (Tar: 200) \\nMI sit in the top four positions among all teams.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712858321786,
+    "commText": "<p>Sixth consecutive defeat for RCB against MI at the Wankhede (last won in 2015)</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712858321796,
+    "commText": "<p><b>Stats round-up by Deepu Narayananan</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712858621289,
+    "commText": "<p><b>Pandya, MI captain:</b> Always good to win. The way we have won - it's quite impressive. Impact player has given the opportunity to use an extra bowler if we require. It gives me a cushion as well. At the same point, if someone is having a bad day, it helps us to cover those overs. The way Ro and Kishan batted, giving the platform, it was important for us to finish it early. We didn't speak about it. That's the beauty of this team, players know what the situation is. As soon as we saw the target get lesser, we thought we might as well finish it early for NRR. Blessed to have Bumrah in my side. He does it over and over again. Any time I ask him to bowl, he comes and does what he does. He practices a lot. Before doing anything in the game, he makes sure he practices in the nets. The amount of experience and confidence he has is tremendous. I did tell him when he scored the fifty that welcome back (Surya). Always good to have Surya in your team with the areas he hits. I've been opposition captain as well against him, it's tough to put field for him. Some place he hits, I've never seen batters hit there. (I'll do) Whatever the situation requires - last game I had to take some time, and this game's scenario was different. I've always been a fan of whatever the situation demands.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712858806510,
+    "commText": "<p><b>Bumrah, POTM:</b> I'm very happy with the outcome. But I will not say I had always thought of taking a five-for. Wicket was sticking in the first 10 overs. I observed that quickly and tried to use it to my advantage. One of those days where things went in my favour and catches went to hand. Very happy with the contribution. In this format, it's anyway very harsh on the bowlers so you have to have all kinds of skills. This is what I train for. Come this situation, I should have different options. I should not be a one-trick pony, and can't just rely on yorker because there will be days where my execution is off so I can rely on other deliveries. Everyone is doing research and data, so people start to line you up. So I wanted to have different skills. Bowling is tough because you will have to take a beating, you will have to have bad days to learn from it. What I've done in the past, whenever I've had bad days, I've watched videos the next day to see what didn't work, why it didn't work, what is the way I've been playing. All of these things, you have to be with the curve. Nowadays, you just cannot come on the day and say okay I'll do this, maybe this will work. For me, preparation is always the key. When you prepare hard, you put yourself under pressure in the nets. You bowl to batters in the nets who hit big sixes, find out how you react to pressure. Then you start finding answers. That is very very important for me - to keep pushing yourself in training. Then on game day, you have answers that okay when I had similar pressure in training, I had answers. I do my research and see where the batter is strong. Sometimes the wicket is sticky, you don't always need to bowl the yorker. You can use the bouncer, you can use the slower ball. So you don't need to use all tricks on one day. You have to understand where the game is going, what the wicket is. There's no ego in this format. Even if you can bowl 145kph, but the wicket demands slower balls then you have to do that. All of these things are important. It's not just one-trick pony - aim at the stumps and go pole hunting.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712859057547,
+    "commText": "<p>RCB's bowling hasn't gone too well this season in general, but what we witnessed today was a takedown of another level. MI have well and truly hit their stride now after those three consecutive defeats, and look really dangerous with the depth they have. Bumrah gave some brilliant insights in the interview below, do check it out. That's it for now. We all need a breather. It's a goodbye from Sagar Chawla on behalf of Praveen Kumar, Raju Peethala and Pradeep Krishnamurthy. Goodnight!</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

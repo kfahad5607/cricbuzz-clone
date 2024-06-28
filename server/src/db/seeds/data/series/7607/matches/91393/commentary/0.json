@@ -1,490 +1,8 @@
 [
   {
-    "timestamp": 1712758181532,
-    "commText": "<p>So no Nandre Burger in the subs either for Royals. Meanwhile, the players are out there and we're set for play. One slip in place for Umesh as he comes in from over the wicket</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712757981545,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712757945170,
-    "commText": "<p><b>Gujarat Titans Subs:</b> Sharath BR, Shahrukh Khan, Darshan Nalkande, Ravisrinivasan Sai Kishore, Manav Suthar</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712757909658,
-    "commText": "<p><b>Rajasthan Royals Subs: </b>Rovman Powell, Tanush Kotian, Shubham Dubey, Keshav Maharaj, Navdeep Saini</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712757694265,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712757688384,
-    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Kuldeep Sen, Yuzvendra Chahal</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712757624578,
-    "commText": "<p><b>Gujarat Titans</b> (Playing XI): Shubman Gill(c), Sai Sudharsan, Vijay Shankar, Abhinav Manohar, Matthew Wade(w), Rahul Tewatia, Rashid Khan, Umesh Yadav, Spencer Johnson, Noor Ahmad, Mohit Sharma</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712757450555,
-    "commText": "<p><b>Samson:</b> We also wanted to bowl first. Journey has been special. But as everyone knows, leading a team can't be done alone. Grateful for the support from Sanga and team. Even if we've won all four games, there have been different challenges. Bit confused (about the playing XI). You can see it on the sheet.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712757302038,
-    "commText": "<p><b>Gill:</b> Will bowl first. In case rain is in play, you want to chase things down. Not easy to set up a playing XI when your main players are injured. Couple of changes - Matthew Wade comes in for Kane. Manohar comes in for Sharath. In past couple of games we were in brilliant position. It's just about finishing the crunch situations. Batting part is easy. When I'm batting I don't think about captaincy. While captaining, you want to give players confidence.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712757042038,
-    "commText": "<p><b>Gujarat Titans have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712756782038,
-    "commText": "<p><b>19:16 Local Time, 13:46 GMT, 19:16 IST:</b> Toss will happen at 7.25pm local, start of play at 7.40pm.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712756353336,
-    "commText": "<p><b>Jos Buttler:</b> The feeling is great in the group, lots of different individuals standing up and playing well for the team throughout the four games has been the key for our success. The spinners Ashwin and Chahal, they have been fantastic in this tournament for a long time and Boulty with the new ball. We got lot of things covered, but it counts for nothing today we need to turn up and put our best foot forward and play a good game of cricket. Have a very good relationship with Sanju (Samson) I played with him for a long time here and there's a nice level of trust there and trying to help out if I can and where I can.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712756195615,
-    "commText": "<p><b>Sai Sudharsan:</b> Heartbreaking loss last game, but we learnt a lot from those situations and hopefully we get better in such situations today. The transition from all the phases (talking about converting starts into a bigger one) has to happen in the right way and I have been working on it in the nets as well, yesterday I have had a chat with Gary Kirsten and Nehra as well. The bowling unit has been doing really well and we have a very good match-up today. Shubman (Gill) is doing captaincy for the first time, he is getting to learn a lot and it will be a very good challenge for him.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712755984695,
-    "commText": "<p><b>19:03 Local Time, 13:33 GMT, 19:03 IST:</b> Good news! Covers are being removed and some of the players have started doing their drills on the field.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712755788780,
-    "commText": "<p><b>18:59 Local Time, 13:29 GMT, 18:59 IST:</b> No signs of the toss happening on time. Expect some delay.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712754775091,
-    "commText": "<p><b>18:42 Local Time, 13:12 GMT, 18:42 IST:</b> Oops, there seems to be some rain in the air and the square has been covered. The rain is very light at the moment.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712754442957,
-    "commText": "<p><b>Pitch and conditions:</b> \"Slightly windy at the Sawai Mansingh Stadium. 62 meters on one side (against the wind), 70 meters on the other (with the wind). 79 meters down the ground. Looks like a really good wicket. There's just a hint of grass on it - green grass. Hopefully that will keep some extra pace in the wicket. We saw here last time, this was the slowest out of all the surfaces on this block of wickets in Jaipur. For me, I'll look to play straight as a batter here. Because we know in Jaipur, there can be some movement with the new ball. But as it goes on, I expect it to get a little bit slower. With the overhead conditions, there shouldn't be much dew. <b>Overhead conditions suggest there might be rain later on</b>\" - Pommie Mbangwa and Aaron Finch.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712754133235,
-    "commText": "<p>There are question marks over the fitness of some players from both teams. Wriddhiman Saha and David Miller from Gujarat. And Sandeep Sharma from Rajasthan. As Miller's replacement, Kane Williamson hasn't delivered yet, nor has Gujarat's batting lineup in general. They might be tempted to make some changes in that department.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712753860641,
-    "commText": "<p>In Rashid Khan, Gujarat have someone who has an excellent record against most Rajasthan batters except Sanju Samson. Rashid has been off the boil so far in this tournament, and the visitors desperately need him to step up today to form a lethal alliance with Noor Ahmad who looks in excellent rhythm. The two Afghan spinners may hold the key to a strong performance against an opposition that's flying high on form and confidence.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712753452086,
-    "commText": "<p><b>6.20pm local:</b> Hello and welcome to our live coverage of Match 24. Table-toppers Rajasthan Royals are in action today in Jaipur, taking on the Gujarat Titans. With four wins in four games, Royals have been on a roll despite Yashasvi Jaiswal not getting many runs at the top, and all of their wins have been fairly comfortable. But things could be different against the Titans who possess a bowling attack that could test the batting depth of the home team.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712675475559,
-    "commText": "<p><b>Preview</b> \\n \\nNearly 1/3rd of the league stage of IPL 2024 is done and Rajasthan Royals and Gujarat Titans are set to take on each other in the 24th match of this edition. Around the same time last year, the Royals faced the Titans in the 23rd match and went on to win the game, making it four wins out of five to be at the top. The Titans managed to recover from the defeat, eventually topping the table with as many as 10 wins in the league stage while the Royals missed the playoffs cut after losing six out of their last nine matches. \\n \\nThe Royals are again at the top, this time unbeaten after four matches, while the Titans are placed fourth from the bottom. In a league populated by 10 teams, the room for error is minimum and the Royals will be well aware as they look to continue their winning run and ensure their domination doesn't fizzle out like it did the last time. The Titans, having suffered three losses out of five matches, will be hoping for a quick turnaround and a revival of their fortunes. \\n \\nJos Buttler's return to form, Sanju Samson and Riyan Parag's consistency, the depth and heft in the batting department - the Royals have had everything going their way so far. The bowling isn't far behind either. Trent Boult and Nandre Burger have proved to be a lethal combination and the world-class spin duo of Yuzvendra Chahal and R Ashwin have flawlessly essayed the attack and defence roles respectively, which has made it difficult for the opposition batters to get away. If Yashasvi Jaiswal also gets amongst the runs and if Sandeep regains his fitness and returns to further bolster their bowling, it will complete the synergy for the Royals who have anyway functioned like a well-oiled machine so far in the competition. \\n \\nThe Titans, on the other hand, haven't been as consistent as they were in the previous two seasons. Their wins against Mumbai Indians and Sunrisers Hyderabad were hard-fought while they also suffered comprehensive defeats at the hands of Chennai Super Kings and Lucknow Super Giants, and were taken by surprise by Punjab Kings' lower order having dominated for most of the game. Their batting has mostly revolved around Shubman Gill and Sai Sudharsan but it's the absence of Mohamed Shami that has hurt them the most, along with Rashid Khan not being a major wicket-taking force for them this season. \\n \\n<b>When:</b> Wednesday, April 10 at 19:30 IST \\n \\n<b>Where:</b> Sawai Mansingh Stadium, Jaipur \\n \\n<b>What to expect:</b> Jaipur wasn't quite a fortress for the Royals last season as they lost four out of five home matches there. But they have rebuilt that fort in 2024, having registered three wins so far and will be confident of a fourth. They defended 193 and 185, and chased down a target of 184 as well, with all three being comfortable victories. \\n \\n<b>Head to head:</b> Rajasthan Royals 1 - 4 Gujarat Titans. \\n \\n<b>Team watch:</b> \\n \\n<b>Rajasthan Royals</b> \\n \\n<b>Injury/Availability:</b> Sandeep Sharma missed the last two games due to an undisclosed niggle. Shane Bond, RR's bowling coach, mentioned after their game against RCB that the bowler is unlikely for their next match as well \"but is not too far away\". Meanwhile, Bond also revealed that Navdeep Saini, who had been at the NCA, is set to join the team. \\n \\n<b>Tactics & matchups:</b> The Royals will look to target Sai Sudharsan with their quick bowlers early on considering his numbers against pace this season - four dismissals, average of 26 and strike rate of 123.81. Shubman Gill has been dismissed twice by legspinners in this IPL, which makes Yuzvendra Chahal a good option for the Royals to use against the GT skipper. \\n \\n<b>Probable XI:</b> Yashasvi Jaiswal, Jos Buttler, Sanju Samson (c & wk), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Nandre Burger, Yuzvendra Chahal. [Impact sub: Shubham Dubey]. \\n \\n<b>Gujarat Titans</b> \\n \\n<b>Injury/Availability:</b> David Miller has missed the last two matches due to a niggle while Wriddhiman Saha was out of the last game due to back spasm. It is not yet clear if they will be available for this match. \\n \\n<b>Tactics & matchups:</b> Yashasvi Jaiswal has been dismissed thrice by left-arm pace in this IPL, which makes Spencer Johnson a good bet from the Titans' perspective. Meanwhile, Rashid Khan is a good option against Jos Buttler and Shimron Hetmyer, with the Afghanistan legspinner having bagged their wickets thrice each. \\n \\n<b>Probable XI:</b> Sai Sudharsan, Shubman Gill (c), Kane Williamson, Sharath BR (wk), Vijay Shankar, Rahul Tewatia, Rashid Khan, Noor Ahmad, Umesh Yadav, Spencer Johnson, Darshan Nalkande. [Impact sub: Mohit Sharma]. \\n \\n<b>Did you know?</b> \\n \\n- The 22 sixes by Gujarat Titans in this IPL is the least among all teams. They have scored 4.4 sixes per innings on an average, while the Royals and Punjab Kings, who have struck 30 sixes each (the joint second least), have an average of 7.5 sixes per innings. \\n \\n- Both Rashid Khan and R Ashwin have struggled for wickets in the middle overs in this IPL. Rashid has picked up a solitary wicket in the 7-15 overs period and has an economy rate of 8.04. Ashwin has been good with his economy (6.68) but has gone wicketless so far in this phase. \\n \\n- The RR middle order (Nos.3-7) have scored 488 runs this season and their average of 48.80 is the best among all teams in this IPL. GT, on the other hand, have scored 444 runs at 24.66, the second lowest average after RCB's 17.55. \\n \\n- No batter has scored more runs off Rashid in the IPL than Sanju Samson (111 runs in 96 balls, 1 dismissal, SR 115.63) and the RR captain would be the best choice to negate the legspinner. \\n \\n<b>What they said:</b> \\n \\n\"One of the things we talked about from last year to this year was playing better at home. We didn't play well here last year, we talked a lot about how we wanted to go about our work and I think we've adjusted really well. We're three from three here and that gives us a lot of confidence going into the next game which is here again\" - <b>Shane Bond</b>, RR bowling coach, on the team's performance at home.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712675475549,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1712675143026,
+    "commText": "<p><b>Rajasthan Royals</b> Squad: Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Nandre Burger, Yuzvendra Chahal, Shubham Dubey, Rovman Powell, Tanush Kotian, Kuldeep Sen, Abid Mushtaq, Sandeep Sharma, Navdeep Saini, Keshav Maharaj, Tom Kohler-Cadmore, Donovan Ferreira, Kunal Singh Rathore</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -508,6 +26,7 @@
   {
     "timestamp": 1712675473725,
     "commText": "<p><b>Gujarat Titans</b> Squad: Shubman Gill(c), Sai Sudharsan, Sharath BR(w), Vijay Shankar, Rahul Tewatia, Rashid Khan, Noor Ahmad, Umesh Yadav, Spencer Johnson, Darshan Nalkande, Mohit Sharma, Kane Williamson, Abhinav Manohar, Matthew Wade, Manav Suthar, Jayant Yadav, Wriddhiman Saha, David Miller, Sandeep Warrier, Shahrukh Khan, Joshua Little, Ravisrinivasan Sai Kishore, Kartik Tyagi, Azmatullah Omarzai, Sushant Mishra</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -529,8 +48,513 @@
     }
   },
   {
-    "timestamp": 1712675143026,
-    "commText": "<p><b>Rajasthan Royals</b> Squad: Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Nandre Burger, Yuzvendra Chahal, Shubham Dubey, Rovman Powell, Tanush Kotian, Kuldeep Sen, Abid Mushtaq, Sandeep Sharma, Navdeep Saini, Keshav Maharaj, Tom Kohler-Cadmore, Donovan Ferreira, Kunal Singh Rathore</p>",
+    "timestamp": 1712675475549,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712675475559,
+    "commText": "<p><b>Preview</b> \\n \\nNearly 1/3rd of the league stage of IPL 2024 is done and Rajasthan Royals and Gujarat Titans are set to take on each other in the 24th match of this edition. Around the same time last year, the Royals faced the Titans in the 23rd match and went on to win the game, making it four wins out of five to be at the top. The Titans managed to recover from the defeat, eventually topping the table with as many as 10 wins in the league stage while the Royals missed the playoffs cut after losing six out of their last nine matches. \\n \\nThe Royals are again at the top, this time unbeaten after four matches, while the Titans are placed fourth from the bottom. In a league populated by 10 teams, the room for error is minimum and the Royals will be well aware as they look to continue their winning run and ensure their domination doesn't fizzle out like it did the last time. The Titans, having suffered three losses out of five matches, will be hoping for a quick turnaround and a revival of their fortunes. \\n \\nJos Buttler's return to form, Sanju Samson and Riyan Parag's consistency, the depth and heft in the batting department - the Royals have had everything going their way so far. The bowling isn't far behind either. Trent Boult and Nandre Burger have proved to be a lethal combination and the world-class spin duo of Yuzvendra Chahal and R Ashwin have flawlessly essayed the attack and defence roles respectively, which has made it difficult for the opposition batters to get away. If Yashasvi Jaiswal also gets amongst the runs and if Sandeep regains his fitness and returns to further bolster their bowling, it will complete the synergy for the Royals who have anyway functioned like a well-oiled machine so far in the competition. \\n \\nThe Titans, on the other hand, haven't been as consistent as they were in the previous two seasons. Their wins against Mumbai Indians and Sunrisers Hyderabad were hard-fought while they also suffered comprehensive defeats at the hands of Chennai Super Kings and Lucknow Super Giants, and were taken by surprise by Punjab Kings' lower order having dominated for most of the game. Their batting has mostly revolved around Shubman Gill and Sai Sudharsan but it's the absence of Mohamed Shami that has hurt them the most, along with Rashid Khan not being a major wicket-taking force for them this season. \\n \\n<b>When:</b> Wednesday, April 10 at 19:30 IST \\n \\n<b>Where:</b> Sawai Mansingh Stadium, Jaipur \\n \\n<b>What to expect:</b> Jaipur wasn't quite a fortress for the Royals last season as they lost four out of five home matches there. But they have rebuilt that fort in 2024, having registered three wins so far and will be confident of a fourth. They defended 193 and 185, and chased down a target of 184 as well, with all three being comfortable victories. \\n \\n<b>Head to head:</b> Rajasthan Royals 1 - 4 Gujarat Titans. \\n \\n<b>Team watch:</b> \\n \\n<b>Rajasthan Royals</b> \\n \\n<b>Injury/Availability:</b> Sandeep Sharma missed the last two games due to an undisclosed niggle. Shane Bond, RR's bowling coach, mentioned after their game against RCB that the bowler is unlikely for their next match as well \"but is not too far away\". Meanwhile, Bond also revealed that Navdeep Saini, who had been at the NCA, is set to join the team. \\n \\n<b>Tactics & matchups:</b> The Royals will look to target Sai Sudharsan with their quick bowlers early on considering his numbers against pace this season - four dismissals, average of 26 and strike rate of 123.81. Shubman Gill has been dismissed twice by legspinners in this IPL, which makes Yuzvendra Chahal a good option for the Royals to use against the GT skipper. \\n \\n<b>Probable XI:</b> Yashasvi Jaiswal, Jos Buttler, Sanju Samson (c & wk), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Nandre Burger, Yuzvendra Chahal. [Impact sub: Shubham Dubey]. \\n \\n<b>Gujarat Titans</b> \\n \\n<b>Injury/Availability:</b> David Miller has missed the last two matches due to a niggle while Wriddhiman Saha was out of the last game due to back spasm. It is not yet clear if they will be available for this match. \\n \\n<b>Tactics & matchups:</b> Yashasvi Jaiswal has been dismissed thrice by left-arm pace in this IPL, which makes Spencer Johnson a good bet from the Titans' perspective. Meanwhile, Rashid Khan is a good option against Jos Buttler and Shimron Hetmyer, with the Afghanistan legspinner having bagged their wickets thrice each. \\n \\n<b>Probable XI:</b> Sai Sudharsan, Shubman Gill (c), Kane Williamson, Sharath BR (wk), Vijay Shankar, Rahul Tewatia, Rashid Khan, Noor Ahmad, Umesh Yadav, Spencer Johnson, Darshan Nalkande. [Impact sub: Mohit Sharma]. \\n \\n<b>Did you know?</b> \\n \\n- The 22 sixes by Gujarat Titans in this IPL is the least among all teams. They have scored 4.4 sixes per innings on an average, while the Royals and Punjab Kings, who have struck 30 sixes each (the joint second least), have an average of 7.5 sixes per innings. \\n \\n- Both Rashid Khan and R Ashwin have struggled for wickets in the middle overs in this IPL. Rashid has picked up a solitary wicket in the 7-15 overs period and has an economy rate of 8.04. Ashwin has been good with his economy (6.68) but has gone wicketless so far in this phase. \\n \\n- The RR middle order (Nos.3-7) have scored 488 runs this season and their average of 48.80 is the best among all teams in this IPL. GT, on the other hand, have scored 444 runs at 24.66, the second lowest average after RCB's 17.55. \\n \\n- No batter has scored more runs off Rashid in the IPL than Sanju Samson (111 runs in 96 balls, 1 dismissal, SR 115.63) and the RR captain would be the best choice to negate the legspinner. \\n \\n<b>What they said:</b> \\n \\n\"One of the things we talked about from last year to this year was playing better at home. We didn't play well here last year, we talked a lot about how we wanted to go about our work and I think we've adjusted really well. We're three from three here and that gives us a lot of confidence going into the next game which is here again\" - <b>Shane Bond</b>, RR bowling coach, on the team's performance at home.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712753452086,
+    "commText": "<p><b>6.20pm local:</b> Hello and welcome to our live coverage of Match 24. Table-toppers Rajasthan Royals are in action today in Jaipur, taking on the Gujarat Titans. With four wins in four games, Royals have been on a roll despite Yashasvi Jaiswal not getting many runs at the top, and all of their wins have been fairly comfortable. But things could be different against the Titans who possess a bowling attack that could test the batting depth of the home team.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712753860641,
+    "commText": "<p>In Rashid Khan, Gujarat have someone who has an excellent record against most Rajasthan batters except Sanju Samson. Rashid has been off the boil so far in this tournament, and the visitors desperately need him to step up today to form a lethal alliance with Noor Ahmad who looks in excellent rhythm. The two Afghan spinners may hold the key to a strong performance against an opposition that's flying high on form and confidence.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712754133235,
+    "commText": "<p>There are question marks over the fitness of some players from both teams. Wriddhiman Saha and David Miller from Gujarat. And Sandeep Sharma from Rajasthan. As Miller's replacement, Kane Williamson hasn't delivered yet, nor has Gujarat's batting lineup in general. They might be tempted to make some changes in that department.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712754442957,
+    "commText": "<p><b>Pitch and conditions:</b> \"Slightly windy at the Sawai Mansingh Stadium. 62 meters on one side (against the wind), 70 meters on the other (with the wind). 79 meters down the ground. Looks like a really good wicket. There's just a hint of grass on it - green grass. Hopefully that will keep some extra pace in the wicket. We saw here last time, this was the slowest out of all the surfaces on this block of wickets in Jaipur. For me, I'll look to play straight as a batter here. Because we know in Jaipur, there can be some movement with the new ball. But as it goes on, I expect it to get a little bit slower. With the overhead conditions, there shouldn't be much dew. <b>Overhead conditions suggest there might be rain later on</b>\" - Pommie Mbangwa and Aaron Finch.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712754775091,
+    "commText": "<p><b>18:42 Local Time, 13:12 GMT, 18:42 IST:</b> Oops, there seems to be some rain in the air and the square has been covered. The rain is very light at the moment.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712755788780,
+    "commText": "<p><b>18:59 Local Time, 13:29 GMT, 18:59 IST:</b> No signs of the toss happening on time. Expect some delay.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712755984695,
+    "commText": "<p><b>19:03 Local Time, 13:33 GMT, 19:03 IST:</b> Good news! Covers are being removed and some of the players have started doing their drills on the field.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712756195615,
+    "commText": "<p><b>Sai Sudharsan:</b> Heartbreaking loss last game, but we learnt a lot from those situations and hopefully we get better in such situations today. The transition from all the phases (talking about converting starts into a bigger one) has to happen in the right way and I have been working on it in the nets as well, yesterday I have had a chat with Gary Kirsten and Nehra as well. The bowling unit has been doing really well and we have a very good match-up today. Shubman (Gill) is doing captaincy for the first time, he is getting to learn a lot and it will be a very good challenge for him.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712756353336,
+    "commText": "<p><b>Jos Buttler:</b> The feeling is great in the group, lots of different individuals standing up and playing well for the team throughout the four games has been the key for our success. The spinners Ashwin and Chahal, they have been fantastic in this tournament for a long time and Boulty with the new ball. We got lot of things covered, but it counts for nothing today we need to turn up and put our best foot forward and play a good game of cricket. Have a very good relationship with Sanju (Samson) I played with him for a long time here and there's a nice level of trust there and trying to help out if I can and where I can.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712756782038,
+    "commText": "<p><b>19:16 Local Time, 13:46 GMT, 19:16 IST:</b> Toss will happen at 7.25pm local, start of play at 7.40pm.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712757042038,
+    "commText": "<p><b>Gujarat Titans have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712757302038,
+    "commText": "<p><b>Gill:</b> Will bowl first. In case rain is in play, you want to chase things down. Not easy to set up a playing XI when your main players are injured. Couple of changes - Matthew Wade comes in for Kane. Manohar comes in for Sharath. In past couple of games we were in brilliant position. It's just about finishing the crunch situations. Batting part is easy. When I'm batting I don't think about captaincy. While captaining, you want to give players confidence.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712757450555,
+    "commText": "<p><b>Samson:</b> We also wanted to bowl first. Journey has been special. But as everyone knows, leading a team can't be done alone. Grateful for the support from Sanga and team. Even if we've won all four games, there have been different challenges. Bit confused (about the playing XI). You can see it on the sheet.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712757624578,
+    "commText": "<p><b>Gujarat Titans</b> (Playing XI): Shubman Gill(c), Sai Sudharsan, Vijay Shankar, Abhinav Manohar, Matthew Wade(w), Rahul Tewatia, Rashid Khan, Umesh Yadav, Spencer Johnson, Noor Ahmad, Mohit Sharma</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712757688384,
+    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Kuldeep Sen, Yuzvendra Chahal</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712757694265,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712757909658,
+    "commText": "<p><b>Rajasthan Royals Subs: </b>Rovman Powell, Tanush Kotian, Shubham Dubey, Keshav Maharaj, Navdeep Saini</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712757945170,
+    "commText": "<p><b>Gujarat Titans Subs:</b> Sharath BR, Shahrukh Khan, Darshan Nalkande, Ravisrinivasan Sai Kishore, Manav Suthar</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712757981545,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712758181532,
+    "commText": "<p>So no Nandre Burger in the subs either for Royals. Meanwhile, the players are out there and we're set for play. One slip in place for Umesh as he comes in from over the wicket</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

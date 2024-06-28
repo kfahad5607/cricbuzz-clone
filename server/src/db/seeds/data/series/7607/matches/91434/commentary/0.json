@@ -1,444 +1,8 @@
 [
   {
-    "timestamp": 1713189468786,
-    "commText": "<p>The players have made their way out in the middle. The Chinnaswamy is red as always.. RCB start with Will Jacks against the two left-handed openers. Here we go!</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713188374923,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713188345714,
-    "commText": "<p><b>Sunrisers Hyderabad Impact Subs:</b> Umran Malik, Anmolpreet Singh, Mayank Markande, Glenn Phillips, Rahul Tripathi</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713188300123,
-    "commText": "<p><b>Royal Challengers Bengaluru Impact Subs:</b> Suyash Prabhudessai, Anuj Rawat, Swapnil Singh, Mohammed Siraj, Karn Sharma</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713188196883,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713188188080,
-    "commText": "<p><b>Royal Challengers Bengaluru</b> (Playing XI): Virat Kohli, Faf du Plessis(c), Will Jacks, Rajat Patidar, Saurav Chauhan, Dinesh Karthik(w), Mahipal Lomror, Vijaykumar Vyshak, Reece Topley, Lockie Ferguson, Yash Dayal</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713188128816,
-    "commText": "<p><b>Sunrisers Hyderabad</b> (Playing XI): Travis Head, Abhishek Sharma, Aiden Markram, Nitish Reddy, Heinrich Klaasen(w), Abdul Samad, Shahbaz Ahmed, Pat Cummins(c), Bhuvneshwar Kumar, Jaydev Unadkat, T Natarajan</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713187950214,
-    "commText": "<p><b>Pat Cummins:</b> The way we have gone about it, have been a few great wins. Can't win every game in T20 cricket. We go in with the same team like the last game. You never know here at the Chinnaswamy, (sometimes) 240 is par.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713187873990,
-    "commText": "<p><b>Faf du Plessis:</b> We are going to have a chase. It has been the same throughout the season. It's been a bit slower. We haven't played our best cricket. Feels like most of the times we haven't played to our full potential. We have made changes to see if we can turn it around. Maxwell is sitting out, Siraj is sitting out. Ferguson is coming in.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713187869272,
-    "commText": "<p><b>Royal Challengers Bengaluru have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713187784040,
-    "commText": "<p>Right then, the two captains are out in the middle, it's toss time..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713187289499,
-    "commText": "<p><b>Update:</b> Lockie Ferguson marking his run-up, he's set to make his debut for RCB today..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713186682340,
-    "commText": "<p><b>Will Jacks:</b> We know we haven't quite hit the mark, we lost games where we should have done better and had a better chance of winning. We have to reset, still have 8 games and qualification is still in our hands. It's about starting fresh, winning tonight and gaining some momentum from that. You don't need to put that added pressure on yourself. As players we already know the situation we are in already, so no need to talk about that, only makes it harder for us. I have been amazed by the support here in Bengaluru. Hopefully we can use the crowd support tonight. Need to start well with the bat and ball, need to make the powerplay count.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713186243961,
-    "commText": "<p><b>Pitch and ground dimensions:</b> 57m and 64m square boundaries respectively, 69m straight down the ground. Quite a bit of live green grass on it but it's patchy. Some balls will zip through, some balls will skid through, particularly with the new ball. This ground has had more spin than any other venue this season. This particular surface is a quite dry and it's cracking as well. The spinners will get consistent spin as the game goes on. Team batting second has an advantage here, reckons <b>Aaron Finch.</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713185623586,
-    "commText": "<p>I0$ says our correspondent <b>Kaushik Rangarajan</b> from the Chinnaswamy. I1$ Kaushik further adds.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713185502127,
-    "commText": "<p>Can see a few overseas players warming up. Guess there will be a few changes in RCB's playing XI tonight. Maxwell has struggled throughout the season, so he might make way for someone else..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713185188716,
-    "commText": "<p>Today\u2019s clash will see a stellar batting line-up in action as the Sunrisers Hyderabad lock horns with the Challengers at the Chinnaswamy. Virat Kohli has been the lone fighter for RCB this season, while Faf du Plessis and Dinesh Karthik have chipped in occasionally with some decent performances. None have been match-winning though. With players like Klaasen, Head, Markram, Abhishek Sharma in the opposition, the RCB bowlers will once again feel the pressure. As it is the Chinnaswamy surface offers nothing much for the bowlers and having lost five out of six games this season, the confidence of their bowlers will be down. Will they be able to lift themselves up and come up with an inspiring performance tonight? Or will they Challengers continue to languish at the bottom? We shall find out soon, stay around for the toss and teams..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713184958820,
-    "commText": "<p><b>18:15 Local Time, 12:45 GMT, 18:15 IST:</b> The inaugural season of IPL was played way back in 2008. Since then, nothing much has changed for the Royal Challengers Bangalore. They finished 7th that season and are in a similar situation this time around. How can a franchise disappoint its fans over and over again? Year after year? When their batting clicks, their bowling doesn\u2019t. When their bowling clicks, their batting doesn\u2019t. Sometimes, nothing clicks at all. It's a never ending saga. Same old strategies at the auction table, same old results by the end of the season.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713103584883,
-    "commText": "<p><b>Preview</b> by <b>Kaushik Rangarajan</b> \\n \\nThe most damning indictment of Royal Challengers Bengaluru's floundering IPL 2024 season so far is that they are comfortably bottom in most key bowling metrics: average (43.60), strike-rate (26.4) and sixes conceded (65). They've also taken the least wickets - 25 - a number they share with their next opponents, Sunrisers Hyderabad, who have played one game fewer. \\n \\nBut, while RCB are mired in wooden spoon trouble, SRH find themselves in the happy half of the points table. This is largely down to them living up to the modern T20 axiom of teams needing to maximise batting resources. After four target-setting scores in the range between 173 and 196 all ended in defeats, it is what RCB captain Faf du Plessis wants his side to do. \\n \\n\"We have to push for that 200. We don't have as many weapons in our bowling. So it comes down to the batting. From a bowling perspective, we have lacked penetration. We have to get them two or three down in the powerplay. Always feels like we are on the back foot after the first four overs,\" the RCB captain lamented after the crushing loss in Mumbai. \\n \\nFlights back home after such chastening trips usually bring relief. For nothing is as comforting as well-known and well-made formula. Except this formula at the Chinnaswamy Stadium will also be hand delivered to the away dressing room - where the holders of the record IPL score will sit - with a hospitable 'all-you-can-eat' label. \\n \\nWith the half-way stage in the league still approaching, chaos has been the overarching theme of RCB's campaign. They've used 19 players so far, benched their two most expensive pre-season signings - Cam Green and Alzarri Joseph - and are no closer to shrugging off the inertia. But after a groggy beginning that's already left them flat on the face, the only way ahead is up. \\n \\n<b>When:</b> Royal Challengers Bengaluru vs Sunrisers Hyderabad, IPL 2024, April 15, 19:30 IST \\n \\n<b>Where:</b> M. Chinnaswamy Stadium, Bengaluru \\n \\n<b>What to expect:</b> A chase-happy, toss-winning captain. Even in other seasons, this has been a venue where sides have backed themselves to chase any target in front of them. The two-paced nature of the surface in the first half of games that eases out with the onset of dew has only exacerbated problems of defending here. \\n \\n<b>Head to head:</b> RCB 10 - SRH 12. The Sunrisers won their only IPL title in 2016 at this venue, beating the hosts in the final. But they have won only one other time on this ground. The two sides haven't played here since 2019. \\n \\n<b>Team Watch:</b> \\n \\n<b>Royal Challengers Bengaluru</b> \\n \\n<b>Injury/Availability:</b> Glenn Maxwell, grappling for form, is also nursing a finger injury sustained while fielding against Mumbai Indians. He walked off the field after the blow. Director of Cricket Mo Bobat revealed the all-rounder had two scans and there was no major injury concern just yet. \\n \\n<b>Tactics & Matchups:</b> When RCB hosted LSG here about two weeks ago, the visitors were unafraid to use two left-arm spinners - M. Siddharth and Krunal Pandya - in the PowerPlay. Usually a graveyard for their kind, spinners have conceded at an economy rate of only 8.35 at the Chinnaswamy this season and it's a route worth considering against two left handed SRH openers, who like pace on the ball. RCB could have two off-spinners in their line-up if Maxwell is deemed fit to start. \\n \\n<b>Probable XI:</b> Virat Kohli, Faf du Plessis (c), Will Jacks, Rajat Patidar, Glenn Maxwell/Cam Green, Mahipal Lomror, Dinesh Karthik (wk), Reece Topley, Vijaykumar Vyshak, Akash Deep, Mohammed Siraj [Impact Sub: Saurav Chauhan] \\n \\n<b>Sunrisers Hyderabad</b> \\n \\n<b>Injury/Availability:</b> Mayank Agarwal, who had reported unwell, has resumed training and could feature as an impact substitute at his home ground. \\n \\n<b>Tactics & Matchups:</b> Bhuvneshwar Kumar has picked up a solitary wicket in the PowerPlay this season but enjoys a particularly good record against this season's leading run-getter, Virat Kohli, who he has dismissed four times in the IPL. Bhuvneshwar also enjoys a good record at the venue, claiming nine wickets from eight visits here at an excellent economy of 7.31. \\n \\n<b>Probable XI:</b> Travis Head, Abhishek Sharma, Aiden Markram, Nitish Reddy, Heinrich Klaasen, Abdul Samad, Shahbaz Ahmed, Pat Cummins, Bhuvneshwar Kumar, Jaydev Unadkat, T. Natarajan [Impact Sub: Rahul Tripathi/Mayank Agarwal] \\n \\n<b>Did you know?</b> \\n \\n- Mohammed Siraj has conceded 123 runs from 10 PowerPlay overs bowled this season for a solitary wicket \\n \\n- Glenn Maxwell's highest IPL score of 95 came against Sunrisers Hyderabad, playing for Kings XI Punjab in the 2014 season \\n \\n- Heinrich Klaasen has struck at 234.38 in the death overs this season, a rate bettered by Dinesh Karthik (250.00). Karthik has also hit one six (11) more than Klaasen in this period \\n \\n<b>What they said:</b> \\n \\n\"There's no hiding away from the fact that we haven't played the way we want to play. When you go into the competition, you work out what you think your best chances of winning are. We came into this competition in the last year of an auction cycle, you go to the auction, you improve the team, the best you can, you set the strategy, and you come in and you expect to deliver. Now, we haven't played the way we want to play.\" <b>- Mo Bobat</b>, RCB Director of Cricket \\n \\n\"I think you have to keep challenging yourself to try to take wickets because any team can score that 60-70 at the back-end, in the last four or five overs. So I think no score is safe. And you always feel you're in the game, particularly when you're chasing. I think most teams will come here and try to chase because they feel it's easier to navigate the innings when you know what's in front of you.\" <b>- Daniel Vettori</b>, SRH Head Coach</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713103584873,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1713103462567,
+    "commText": "<p><b>Royal Challengers Bengaluru</b> Squad: Virat Kohli, Faf du Plessis(c), Will Jacks, Rajat Patidar, Glenn Maxwell, Dinesh Karthik(w), Mahipal Lomror, Reece Topley, Vijaykumar Vyshak, Mohammed Siraj, Akash Deep, Saurav Chauhan, Suyash Prabhudessai, Swapnil Singh, Rajan Kumar, Karn Sharma, Tom Curran, Lockie Ferguson, Mayank Dagar, Alzarri Joseph, Cameron Green, Anuj Rawat, Manoj Bhandage, Yash Dayal, Himanshu Sharma</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -462,6 +26,7 @@
   {
     "timestamp": 1713103583575,
     "commText": "<p><b>Sunrisers Hyderabad</b> Squad: Travis Head, Abhishek Sharma, Aiden Markram, Heinrich Klaasen(w), Abdul Samad, Nitish Reddy, Shahbaz Ahmed, Pat Cummins(c), Bhuvneshwar Kumar, Jaydev Unadkat, T Natarajan, Umran Malik, Washington Sundar, Mayank Markande, Rahul Tripathi, Glenn Phillips, Anmolpreet Singh, Upendra Yadav, Jhatavedh Subramanyan, Sanvir Singh, Vijayakanth Viyaskanth, Fazalhaq Farooqi, Marco Jansen, Akash Maharaj Singh, Mayank Agarwal</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -483,8 +48,465 @@
     }
   },
   {
-    "timestamp": 1713103462567,
-    "commText": "<p><b>Royal Challengers Bengaluru</b> Squad: Virat Kohli, Faf du Plessis(c), Will Jacks, Rajat Patidar, Glenn Maxwell, Dinesh Karthik(w), Mahipal Lomror, Reece Topley, Vijaykumar Vyshak, Mohammed Siraj, Akash Deep, Saurav Chauhan, Suyash Prabhudessai, Swapnil Singh, Rajan Kumar, Karn Sharma, Tom Curran, Lockie Ferguson, Mayank Dagar, Alzarri Joseph, Cameron Green, Anuj Rawat, Manoj Bhandage, Yash Dayal, Himanshu Sharma</p>",
+    "timestamp": 1713103584873,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713103584883,
+    "commText": "<p><b>Preview</b> by <b>Kaushik Rangarajan</b> \\n \\nThe most damning indictment of Royal Challengers Bengaluru's floundering IPL 2024 season so far is that they are comfortably bottom in most key bowling metrics: average (43.60), strike-rate (26.4) and sixes conceded (65). They've also taken the least wickets - 25 - a number they share with their next opponents, Sunrisers Hyderabad, who have played one game fewer. \\n \\nBut, while RCB are mired in wooden spoon trouble, SRH find themselves in the happy half of the points table. This is largely down to them living up to the modern T20 axiom of teams needing to maximise batting resources. After four target-setting scores in the range between 173 and 196 all ended in defeats, it is what RCB captain Faf du Plessis wants his side to do. \\n \\n\"We have to push for that 200. We don't have as many weapons in our bowling. So it comes down to the batting. From a bowling perspective, we have lacked penetration. We have to get them two or three down in the powerplay. Always feels like we are on the back foot after the first four overs,\" the RCB captain lamented after the crushing loss in Mumbai. \\n \\nFlights back home after such chastening trips usually bring relief. For nothing is as comforting as well-known and well-made formula. Except this formula at the Chinnaswamy Stadium will also be hand delivered to the away dressing room - where the holders of the record IPL score will sit - with a hospitable 'all-you-can-eat' label. \\n \\nWith the half-way stage in the league still approaching, chaos has been the overarching theme of RCB's campaign. They've used 19 players so far, benched their two most expensive pre-season signings - Cam Green and Alzarri Joseph - and are no closer to shrugging off the inertia. But after a groggy beginning that's already left them flat on the face, the only way ahead is up. \\n \\n<b>When:</b> Royal Challengers Bengaluru vs Sunrisers Hyderabad, IPL 2024, April 15, 19:30 IST \\n \\n<b>Where:</b> M. Chinnaswamy Stadium, Bengaluru \\n \\n<b>What to expect:</b> A chase-happy, toss-winning captain. Even in other seasons, this has been a venue where sides have backed themselves to chase any target in front of them. The two-paced nature of the surface in the first half of games that eases out with the onset of dew has only exacerbated problems of defending here. \\n \\n<b>Head to head:</b> RCB 10 - SRH 12. The Sunrisers won their only IPL title in 2016 at this venue, beating the hosts in the final. But they have won only one other time on this ground. The two sides haven't played here since 2019. \\n \\n<b>Team Watch:</b> \\n \\n<b>Royal Challengers Bengaluru</b> \\n \\n<b>Injury/Availability:</b> Glenn Maxwell, grappling for form, is also nursing a finger injury sustained while fielding against Mumbai Indians. He walked off the field after the blow. Director of Cricket Mo Bobat revealed the all-rounder had two scans and there was no major injury concern just yet. \\n \\n<b>Tactics & Matchups:</b> When RCB hosted LSG here about two weeks ago, the visitors were unafraid to use two left-arm spinners - M. Siddharth and Krunal Pandya - in the PowerPlay. Usually a graveyard for their kind, spinners have conceded at an economy rate of only 8.35 at the Chinnaswamy this season and it's a route worth considering against two left handed SRH openers, who like pace on the ball. RCB could have two off-spinners in their line-up if Maxwell is deemed fit to start. \\n \\n<b>Probable XI:</b> Virat Kohli, Faf du Plessis (c), Will Jacks, Rajat Patidar, Glenn Maxwell/Cam Green, Mahipal Lomror, Dinesh Karthik (wk), Reece Topley, Vijaykumar Vyshak, Akash Deep, Mohammed Siraj [Impact Sub: Saurav Chauhan] \\n \\n<b>Sunrisers Hyderabad</b> \\n \\n<b>Injury/Availability:</b> Mayank Agarwal, who had reported unwell, has resumed training and could feature as an impact substitute at his home ground. \\n \\n<b>Tactics & Matchups:</b> Bhuvneshwar Kumar has picked up a solitary wicket in the PowerPlay this season but enjoys a particularly good record against this season's leading run-getter, Virat Kohli, who he has dismissed four times in the IPL. Bhuvneshwar also enjoys a good record at the venue, claiming nine wickets from eight visits here at an excellent economy of 7.31. \\n \\n<b>Probable XI:</b> Travis Head, Abhishek Sharma, Aiden Markram, Nitish Reddy, Heinrich Klaasen, Abdul Samad, Shahbaz Ahmed, Pat Cummins, Bhuvneshwar Kumar, Jaydev Unadkat, T. Natarajan [Impact Sub: Rahul Tripathi/Mayank Agarwal] \\n \\n<b>Did you know?</b> \\n \\n- Mohammed Siraj has conceded 123 runs from 10 PowerPlay overs bowled this season for a solitary wicket \\n \\n- Glenn Maxwell's highest IPL score of 95 came against Sunrisers Hyderabad, playing for Kings XI Punjab in the 2014 season \\n \\n- Heinrich Klaasen has struck at 234.38 in the death overs this season, a rate bettered by Dinesh Karthik (250.00). Karthik has also hit one six (11) more than Klaasen in this period \\n \\n<b>What they said:</b> \\n \\n\"There's no hiding away from the fact that we haven't played the way we want to play. When you go into the competition, you work out what you think your best chances of winning are. We came into this competition in the last year of an auction cycle, you go to the auction, you improve the team, the best you can, you set the strategy, and you come in and you expect to deliver. Now, we haven't played the way we want to play.\" <b>- Mo Bobat</b>, RCB Director of Cricket \\n \\n\"I think you have to keep challenging yourself to try to take wickets because any team can score that 60-70 at the back-end, in the last four or five overs. So I think no score is safe. And you always feel you're in the game, particularly when you're chasing. I think most teams will come here and try to chase because they feel it's easier to navigate the innings when you know what's in front of you.\" <b>- Daniel Vettori</b>, SRH Head Coach</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713184958820,
+    "commText": "<p><b>18:15 Local Time, 12:45 GMT, 18:15 IST:</b> The inaugural season of IPL was played way back in 2008. Since then, nothing much has changed for the Royal Challengers Bangalore. They finished 7th that season and are in a similar situation this time around. How can a franchise disappoint its fans over and over again? Year after year? When their batting clicks, their bowling doesn\u2019t. When their bowling clicks, their batting doesn\u2019t. Sometimes, nothing clicks at all. It's a never ending saga. Same old strategies at the auction table, same old results by the end of the season.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713185188716,
+    "commText": "<p>Today\u2019s clash will see a stellar batting line-up in action as the Sunrisers Hyderabad lock horns with the Challengers at the Chinnaswamy. Virat Kohli has been the lone fighter for RCB this season, while Faf du Plessis and Dinesh Karthik have chipped in occasionally with some decent performances. None have been match-winning though. With players like Klaasen, Head, Markram, Abhishek Sharma in the opposition, the RCB bowlers will once again feel the pressure. As it is the Chinnaswamy surface offers nothing much for the bowlers and having lost five out of six games this season, the confidence of their bowlers will be down. Will they be able to lift themselves up and come up with an inspiring performance tonight? Or will they Challengers continue to languish at the bottom? We shall find out soon, stay around for the toss and teams..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713185502127,
+    "commText": "<p>Can see a few overseas players warming up. Guess there will be a few changes in RCB's playing XI tonight. Maxwell has struggled throughout the season, so he might make way for someone else..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713185623586,
+    "commText": "<p>I0$ says our correspondent <b>Kaushik Rangarajan</b> from the Chinnaswamy. I1$ Kaushik further adds.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713186243961,
+    "commText": "<p><b>Pitch and ground dimensions:</b> 57m and 64m square boundaries respectively, 69m straight down the ground. Quite a bit of live green grass on it but it's patchy. Some balls will zip through, some balls will skid through, particularly with the new ball. This ground has had more spin than any other venue this season. This particular surface is a quite dry and it's cracking as well. The spinners will get consistent spin as the game goes on. Team batting second has an advantage here, reckons <b>Aaron Finch.</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713186682340,
+    "commText": "<p><b>Will Jacks:</b> We know we haven't quite hit the mark, we lost games where we should have done better and had a better chance of winning. We have to reset, still have 8 games and qualification is still in our hands. It's about starting fresh, winning tonight and gaining some momentum from that. You don't need to put that added pressure on yourself. As players we already know the situation we are in already, so no need to talk about that, only makes it harder for us. I have been amazed by the support here in Bengaluru. Hopefully we can use the crowd support tonight. Need to start well with the bat and ball, need to make the powerplay count.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713187289499,
+    "commText": "<p><b>Update:</b> Lockie Ferguson marking his run-up, he's set to make his debut for RCB today..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713187784040,
+    "commText": "<p>Right then, the two captains are out in the middle, it's toss time..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713187869272,
+    "commText": "<p><b>Royal Challengers Bengaluru have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713187873990,
+    "commText": "<p><b>Faf du Plessis:</b> We are going to have a chase. It has been the same throughout the season. It's been a bit slower. We haven't played our best cricket. Feels like most of the times we haven't played to our full potential. We have made changes to see if we can turn it around. Maxwell is sitting out, Siraj is sitting out. Ferguson is coming in.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713187950214,
+    "commText": "<p><b>Pat Cummins:</b> The way we have gone about it, have been a few great wins. Can't win every game in T20 cricket. We go in with the same team like the last game. You never know here at the Chinnaswamy, (sometimes) 240 is par.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713188128816,
+    "commText": "<p><b>Sunrisers Hyderabad</b> (Playing XI): Travis Head, Abhishek Sharma, Aiden Markram, Nitish Reddy, Heinrich Klaasen(w), Abdul Samad, Shahbaz Ahmed, Pat Cummins(c), Bhuvneshwar Kumar, Jaydev Unadkat, T Natarajan</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713188188080,
+    "commText": "<p><b>Royal Challengers Bengaluru</b> (Playing XI): Virat Kohli, Faf du Plessis(c), Will Jacks, Rajat Patidar, Saurav Chauhan, Dinesh Karthik(w), Mahipal Lomror, Vijaykumar Vyshak, Reece Topley, Lockie Ferguson, Yash Dayal</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713188196883,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713188300123,
+    "commText": "<p><b>Royal Challengers Bengaluru Impact Subs:</b> Suyash Prabhudessai, Anuj Rawat, Swapnil Singh, Mohammed Siraj, Karn Sharma</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713188345714,
+    "commText": "<p><b>Sunrisers Hyderabad Impact Subs:</b> Umran Malik, Anmolpreet Singh, Mayank Markande, Glenn Phillips, Rahul Tripathi</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713188374923,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713189468786,
+    "commText": "<p>The players have made their way out in the middle. The Chinnaswamy is red as always.. RCB start with Will Jacks against the two left-handed openers. Here we go!</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

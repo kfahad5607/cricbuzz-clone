@@ -1,329 +1,8 @@
 [
   {
-    "timestamp": 1715263165649,
-    "commText": "<p>All set to go. One slip in place for Kaverappa on IPL debut</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715262311227,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715262255123,
-    "commText": "<p><b>Punjab Kings Impact Subs:</b> Harpreet Brar, Tanay Thyagarajan, Rishi Dhawan, Jitesh Sharma, Nathan Ellis</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715262249611,
-    "commText": "<p><b>Royal Challengers Bengaluru Impact Subs: </b>Anuj Rawat, Suyash Prabhudessai, Vijaykumar Vyshak, Yash Dayal, Mayank Dagar</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715261886611,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715261884827,
-    "commText": "<p><b>Royal Challengers Bengaluru</b> (Playing XI): Virat Kohli, Faf du Plessis(c), Will Jacks, Rajat Patidar, Mahipal Lomror, Cameron Green, Dinesh Karthik(w), Swapnil Singh, Karn Sharma, Mohammed Siraj, Lockie Ferguson</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715261846652,
-    "commText": "<p><b>Punjab Kings</b> (Playing XI): Jonny Bairstow(w), Prabhsimran Singh, Rilee Rossouw, Liam Livingstone, Shashank Singh, Sam Curran(c), Ashutosh Sharma, Harshal Patel, Rahul Chahar, Arshdeep Singh, Vidhwath Kaverappa</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715261533471,
-    "commText": "<p><b>Faf:</b> Would've done the same. Been a great turnaround for us. Last few games we've been clinical. Focus remains the same, not too much on the table, just the way we want to play. Maxwell out for Lockie Ferguson.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715261428232,
-    "commText": "<p><b>Curran: </b>Going to bowl. Looks like they've watered the wicket a bit, might be something early on. Looking to put RCB under pressure early. With the side we've picked today, looking to take wickets with the new ball. Pretty simple for us now - need few results to go for us and win our remaining games. Livingstone comes in for Rabada. Our strength is our batting.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715261419510,
-    "commText": "<p><b>Punjab Kings have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715261410678,
-    "commText": "<p><b>Dinesh Karthik: </b>We have reached that stage where we have to win every game, we have won three in a row but there's a long way to go. Need to try and repeat things we have been doing well. Bowling in good areas, taking on bowlers up front and keeping that pressure on the bowlers. Things that have worked for us, need to repeat them again and again. Earlier we were taking the softer option with the bat but we are taking the harder option now. We are trying to put the pressure on the bowlers. The bowlers have been taken to the cleaners, the pitches are good and boundaries are short. I am not big on wickets which are completely in favour of batters, I think there should be an even contest between the bat and ball. What I am hearing is that people are loving those 270-280 totals, at the end of the day people who watch the sport that matter. There's a lot of freedom as a batter but there's pressure as well, you got to up your game. Need to be consistent and score those runs.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715259720239,
-    "commText": "<p><b>Pitch and ground dimensions:</b> The same pitch that was used between PBKS and CSK. 64m and 62m square boundaries, 75m down the ground. There's a tinge of grass on the surface, it's dry and hard. The average first innings score for night games is 195 at this venue. There will be some lateral movement. Spin can play a part on this wicket if you bowl in the right areas. Out of the 18 wickets in the last game, 7 were taken by the spinners. A surface that is decent for batting but the bowlers will also extract some help, reckons <b>Daren Ganga.</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715259720229,
-    "commText": "<p><b>6.30pm local:</b> Hello and welcome to our live coverage of Match 58. It's a must-win game for both teams to keep their slender hopes of qualification alive. The loser will become the second team to be eliminated after Mumbai Indians. This is also the last league game to be played in Dharamsala this season, and the last game for Punjab Kings at home where they have a dismal record of just one win and five losses so far. While they've had decent results on the road, their struggles in both Dharamsala and Mullanpur have been a big reason why they're in eighth place currently. Today they'll be up against a team that's only ahead of them on NRR, but are on a three-match winning run.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715180446454,
-    "commText": "<p><b>Preview:</b> \\n \\nSuch has been the competitive nature of this year's IPL that no team has officially been eliminated at the final leg of the league stage. Mumbai Indians, who have just four wins from 12 games, are also in with a shout, albeit a complicated one at that. Over the years, 16 points has been enough to make the cut but with the expansion to ten teams, it is no longer the case, Which is why teams like KKR and RR wouldn't want to relax despite sitting on 16 points. Meanwhile, PBKS and RCB are two teams who can only get as far as 14 points, meaning a host of other results need to go their way for qualification. \\n \\nIt is in such a scenario that they face-off at Dharamsala in a virtual elimination game with the loser joining Mumbai Indians on that bus that can only get as far as 12 points. By all means, this is a clash between two sides who couldn't have had more contrasting routes leading up to this game. Punjab Kings may have only recorded four wins so far from 11 games but the results don't tell you how close they were in many of their seven defeats to getting across the line. While top order failures cost them in most games, death bowling was also a concern in the other losses. \\n \\nThe high-intent approach of Punjab's batting did mean that they produced an unthinkable run chase against table toppers KKR, gunning down the highest T20 chase of all time. Most of their batting has revolved around the juniors like Shashank Singh and Ashutosh Sharma who had to do the heavy lifting after all the early damage. The duo have certainly impressed, more so Shashank, but it wasn't until Jonny Bairstow found form that Punjab started to look ominous. The heroics against KKR at Eden Gardens were followed by a special win against CSK at Chepauk but the defeat to the defending champions in the reverse fixture at Dharamsala has hurt Punjab's hopes. They do have the personnel to turn things around but it will boil down to their temperament under pressure. \\n \\nThe challenge for PBKS is that they are running into a RCB outfit that's on a three-match winning streak. IPL's eternal tragic heroes had just a solitary win in their first eight games, having been outplayed more often than not. Early elimination seemed certain until Faf du Plessis' men started to notch up one win after the other. It started by upstaging Sunrisers Hyderabad in Hyderabad before completing a double over Gujarat Titans. All three wins were achieved with a degree of dominance. \\n \\nThe lack of pressure in recent games may have been a reason, as suggested by Faf in his post-match presentations. Bangalore's batting line-up struggled for impetus in the first half of the season. But with nothing to lose (qualification chances are extremely complex), RCB has played with more freedom, especially with the bat. Faf's own form has spiked while the entry of Will Jacks has certainly added thrust to the batting unit. The bowling, which lacked purpose and discipline early on, seems to have worked out their strategies better in the last three games. \\n \\nThe nature of T20 cricket is such that the contrasting roadmaps of the two sides are not of much significance, given that they both find themselves in similar terrain. It may not be advertised as one but this is effectively a knockout game of sorts. \\n \\n<b>When:</b> Thursday, May 9 at 19:30 IST \\n \\n<b>Where:</b> Himachal Pradesh Cricket Association Stadium, Dharamsala \\n \\n<b>What to expect:</b> The first game of the season saw a surprisingly slower surface with help for seamers with the new ball and spinners with the older ball. However, that was a day game and the venue has historically seen more joy for batters in night games. This could mean a much better batting track on offer. There should still be some help on offer for the pacers with the new ball. \\n \\n<b>Head to Head:</b> There isn't much to choose when it comes to the head-to-head stats between the two teams. The sides have faced each other 32 times with PBKS holding a slender 17-15 lead. RCB prevailed in the reverse fixture earlier this season in Bengaluru. \\n \\n<b>Team watch:</b> \\n \\n<b>Punjab Kings</b> \\n \\n<b>Injuries and unavailability:</b> Shikhar Dhawan is yet to return to the setup \\n \\n<b>Tactics and matchups:</b> Jonny Bairstow has had tremendous personal success against RCB. In five innings, he has a century and two fifties, tallying 261 runs at a staggering strike rate of 177.55. He also has a strike rate of 216 against RCB's powerplay specialist Mohammed Siraj, who has conceded 54 runs in 25 balls against the Englishman with one dismissal. Punjab will hope that Bairstow can deliver once more against his favourite franchise. PBKS are expected to be unchanged for this fixture, unless they want to bring back Liam Livingstone into the XI, which would mean an exit for Rilee Rossouw. However, that seems unlikely, as does the option of Shikhar Dhawan returning. \\n \\n<b>Probable XI:</b> Jonny Bairstow, Rilee Rossouw, Shashank Singh, Sam Curran (c), Jitesh Sharma (wk), Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada, Rahul Chahar, Arshdeep Singh. [Impact sub: Prabhsimran Singh] \\n \\n<b>Royal Challengers Bangalore</b> \\n \\n<b>Injuries/unavailability:</b> RCB don't have any injury concerns in their camp. \\n \\nTactics and matchups:Between overs 7-15, Rajat Patidar has been going at a rollicking strike rate of 183. He has also perished seven times in 100 deliveries but his intent against spin will be crucial to RCB's chances, given the form of Punjab's spin duo Rahul Chahar and Harpreet Brar. It's rare for sides to change much when they are on a three-match winning streak and RCB are also expected to go with that pattern. \\n \\n<b>Probable XI:</b> Virat Kohli, Faf du Plessis (c), Glenn Maxwell, Will Jacks, Cameron Green, Dinesh Karthik, Karn Sharma, Swapnil Singh, Yash Dayal, Vijaykumar Vysakh, Mohammed Siraj. [Impact sub: Rajat Patidar]. \\n \\n<b>Did you know?</b> \\n \\n- Seven of Mohammed Siraj's eight wickets have come while bowling first this season with an economy of 8.8 while his solitary wicket bowling second has come at an economy of 9.77 \\n \\n- Harshal Patel has been expensive at the death but has also been a wicket-taker. He has 11 wickets in slog overs this season across 16 overs bowled. \\n \\n<b>What they said:</b> \\n \\n\"Not easy to switch between red and white ball cricket. You need to give your 110% every ball here (in T20s).\" - <b>Mohammed Siraj</b> explains the challenges of being a bowler in the shortest format \\n \\n\"The wicket was probably slower than we thought, we expected a little more pace and bounce, it was pretty similar throughout the game. Couple of days off and we go against RCB in a few days time so we need to move on and stay headstrong.\" <b>Sam Curran</b> after the loss to CSK</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715180446444,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1715180238769,
+    "commText": "<p><b>Punjab Kings</b> Squad: Prabhsimran Singh, Jonny Bairstow, Rilee Rossouw, Shashank Singh, Sam Curran(c), Jitesh Sharma(w), Ashutosh Sharma, Harpreet Brar, Harshal Patel, Rahul Chahar, Kagiso Rabada, Arshdeep Singh, Harpreet Singh Bhatia, Tanay Thyagarajan, Vidhwath Kaverappa, Rishi Dhawan, Liam Livingstone, Shikhar Dhawan, Chris Woakes, Atharva Taide, Nathan Ellis, Shivam Singh, Prince Choudhary, Vishwanath Singh</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -347,6 +26,7 @@
   {
     "timestamp": 1715180440237,
     "commText": "<p><b>Royal Challengers Bengaluru</b> Squad: Virat Kohli, Faf du Plessis(c), Will Jacks, Rajat Patidar, Glenn Maxwell, Cameron Green, Dinesh Karthik(w), Swapnil Singh, Karn Sharma, Mohammed Siraj, Yash Dayal, Vijaykumar Vyshak, Mahipal Lomror, Anuj Rawat, Suyash Prabhudessai, Akash Deep, Himanshu Sharma, Reece Topley, Tom Curran, Lockie Ferguson, Mayank Dagar, Alzarri Joseph, Manoj Bhandage, Saurav Chauhan, Rajan Kumar</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -368,8 +48,345 @@
     }
   },
   {
-    "timestamp": 1715180238769,
-    "commText": "<p><b>Punjab Kings</b> Squad: Prabhsimran Singh, Jonny Bairstow, Rilee Rossouw, Shashank Singh, Sam Curran(c), Jitesh Sharma(w), Ashutosh Sharma, Harpreet Brar, Harshal Patel, Rahul Chahar, Kagiso Rabada, Arshdeep Singh, Harpreet Singh Bhatia, Tanay Thyagarajan, Vidhwath Kaverappa, Rishi Dhawan, Liam Livingstone, Shikhar Dhawan, Chris Woakes, Atharva Taide, Nathan Ellis, Shivam Singh, Prince Choudhary, Vishwanath Singh</p>",
+    "timestamp": 1715180446444,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715180446454,
+    "commText": "<p><b>Preview:</b> \\n \\nSuch has been the competitive nature of this year's IPL that no team has officially been eliminated at the final leg of the league stage. Mumbai Indians, who have just four wins from 12 games, are also in with a shout, albeit a complicated one at that. Over the years, 16 points has been enough to make the cut but with the expansion to ten teams, it is no longer the case, Which is why teams like KKR and RR wouldn't want to relax despite sitting on 16 points. Meanwhile, PBKS and RCB are two teams who can only get as far as 14 points, meaning a host of other results need to go their way for qualification. \\n \\nIt is in such a scenario that they face-off at Dharamsala in a virtual elimination game with the loser joining Mumbai Indians on that bus that can only get as far as 12 points. By all means, this is a clash between two sides who couldn't have had more contrasting routes leading up to this game. Punjab Kings may have only recorded four wins so far from 11 games but the results don't tell you how close they were in many of their seven defeats to getting across the line. While top order failures cost them in most games, death bowling was also a concern in the other losses. \\n \\nThe high-intent approach of Punjab's batting did mean that they produced an unthinkable run chase against table toppers KKR, gunning down the highest T20 chase of all time. Most of their batting has revolved around the juniors like Shashank Singh and Ashutosh Sharma who had to do the heavy lifting after all the early damage. The duo have certainly impressed, more so Shashank, but it wasn't until Jonny Bairstow found form that Punjab started to look ominous. The heroics against KKR at Eden Gardens were followed by a special win against CSK at Chepauk but the defeat to the defending champions in the reverse fixture at Dharamsala has hurt Punjab's hopes. They do have the personnel to turn things around but it will boil down to their temperament under pressure. \\n \\nThe challenge for PBKS is that they are running into a RCB outfit that's on a three-match winning streak. IPL's eternal tragic heroes had just a solitary win in their first eight games, having been outplayed more often than not. Early elimination seemed certain until Faf du Plessis' men started to notch up one win after the other. It started by upstaging Sunrisers Hyderabad in Hyderabad before completing a double over Gujarat Titans. All three wins were achieved with a degree of dominance. \\n \\nThe lack of pressure in recent games may have been a reason, as suggested by Faf in his post-match presentations. Bangalore's batting line-up struggled for impetus in the first half of the season. But with nothing to lose (qualification chances are extremely complex), RCB has played with more freedom, especially with the bat. Faf's own form has spiked while the entry of Will Jacks has certainly added thrust to the batting unit. The bowling, which lacked purpose and discipline early on, seems to have worked out their strategies better in the last three games. \\n \\nThe nature of T20 cricket is such that the contrasting roadmaps of the two sides are not of much significance, given that they both find themselves in similar terrain. It may not be advertised as one but this is effectively a knockout game of sorts. \\n \\n<b>When:</b> Thursday, May 9 at 19:30 IST \\n \\n<b>Where:</b> Himachal Pradesh Cricket Association Stadium, Dharamsala \\n \\n<b>What to expect:</b> The first game of the season saw a surprisingly slower surface with help for seamers with the new ball and spinners with the older ball. However, that was a day game and the venue has historically seen more joy for batters in night games. This could mean a much better batting track on offer. There should still be some help on offer for the pacers with the new ball. \\n \\n<b>Head to Head:</b> There isn't much to choose when it comes to the head-to-head stats between the two teams. The sides have faced each other 32 times with PBKS holding a slender 17-15 lead. RCB prevailed in the reverse fixture earlier this season in Bengaluru. \\n \\n<b>Team watch:</b> \\n \\n<b>Punjab Kings</b> \\n \\n<b>Injuries and unavailability:</b> Shikhar Dhawan is yet to return to the setup \\n \\n<b>Tactics and matchups:</b> Jonny Bairstow has had tremendous personal success against RCB. In five innings, he has a century and two fifties, tallying 261 runs at a staggering strike rate of 177.55. He also has a strike rate of 216 against RCB's powerplay specialist Mohammed Siraj, who has conceded 54 runs in 25 balls against the Englishman with one dismissal. Punjab will hope that Bairstow can deliver once more against his favourite franchise. PBKS are expected to be unchanged for this fixture, unless they want to bring back Liam Livingstone into the XI, which would mean an exit for Rilee Rossouw. However, that seems unlikely, as does the option of Shikhar Dhawan returning. \\n \\n<b>Probable XI:</b> Jonny Bairstow, Rilee Rossouw, Shashank Singh, Sam Curran (c), Jitesh Sharma (wk), Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada, Rahul Chahar, Arshdeep Singh. [Impact sub: Prabhsimran Singh] \\n \\n<b>Royal Challengers Bangalore</b> \\n \\n<b>Injuries/unavailability:</b> RCB don't have any injury concerns in their camp. \\n \\nTactics and matchups:Between overs 7-15, Rajat Patidar has been going at a rollicking strike rate of 183. He has also perished seven times in 100 deliveries but his intent against spin will be crucial to RCB's chances, given the form of Punjab's spin duo Rahul Chahar and Harpreet Brar. It's rare for sides to change much when they are on a three-match winning streak and RCB are also expected to go with that pattern. \\n \\n<b>Probable XI:</b> Virat Kohli, Faf du Plessis (c), Glenn Maxwell, Will Jacks, Cameron Green, Dinesh Karthik, Karn Sharma, Swapnil Singh, Yash Dayal, Vijaykumar Vysakh, Mohammed Siraj. [Impact sub: Rajat Patidar]. \\n \\n<b>Did you know?</b> \\n \\n- Seven of Mohammed Siraj's eight wickets have come while bowling first this season with an economy of 8.8 while his solitary wicket bowling second has come at an economy of 9.77 \\n \\n- Harshal Patel has been expensive at the death but has also been a wicket-taker. He has 11 wickets in slog overs this season across 16 overs bowled. \\n \\n<b>What they said:</b> \\n \\n\"Not easy to switch between red and white ball cricket. You need to give your 110% every ball here (in T20s).\" - <b>Mohammed Siraj</b> explains the challenges of being a bowler in the shortest format \\n \\n\"The wicket was probably slower than we thought, we expected a little more pace and bounce, it was pretty similar throughout the game. Couple of days off and we go against RCB in a few days time so we need to move on and stay headstrong.\" <b>Sam Curran</b> after the loss to CSK</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715259720229,
+    "commText": "<p><b>6.30pm local:</b> Hello and welcome to our live coverage of Match 58. It's a must-win game for both teams to keep their slender hopes of qualification alive. The loser will become the second team to be eliminated after Mumbai Indians. This is also the last league game to be played in Dharamsala this season, and the last game for Punjab Kings at home where they have a dismal record of just one win and five losses so far. While they've had decent results on the road, their struggles in both Dharamsala and Mullanpur have been a big reason why they're in eighth place currently. Today they'll be up against a team that's only ahead of them on NRR, but are on a three-match winning run.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715259720239,
+    "commText": "<p><b>Pitch and ground dimensions:</b> The same pitch that was used between PBKS and CSK. 64m and 62m square boundaries, 75m down the ground. There's a tinge of grass on the surface, it's dry and hard. The average first innings score for night games is 195 at this venue. There will be some lateral movement. Spin can play a part on this wicket if you bowl in the right areas. Out of the 18 wickets in the last game, 7 were taken by the spinners. A surface that is decent for batting but the bowlers will also extract some help, reckons <b>Daren Ganga.</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715261410678,
+    "commText": "<p><b>Dinesh Karthik: </b>We have reached that stage where we have to win every game, we have won three in a row but there's a long way to go. Need to try and repeat things we have been doing well. Bowling in good areas, taking on bowlers up front and keeping that pressure on the bowlers. Things that have worked for us, need to repeat them again and again. Earlier we were taking the softer option with the bat but we are taking the harder option now. We are trying to put the pressure on the bowlers. The bowlers have been taken to the cleaners, the pitches are good and boundaries are short. I am not big on wickets which are completely in favour of batters, I think there should be an even contest between the bat and ball. What I am hearing is that people are loving those 270-280 totals, at the end of the day people who watch the sport that matter. There's a lot of freedom as a batter but there's pressure as well, you got to up your game. Need to be consistent and score those runs.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715261419510,
+    "commText": "<p><b>Punjab Kings have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715261428232,
+    "commText": "<p><b>Curran: </b>Going to bowl. Looks like they've watered the wicket a bit, might be something early on. Looking to put RCB under pressure early. With the side we've picked today, looking to take wickets with the new ball. Pretty simple for us now - need few results to go for us and win our remaining games. Livingstone comes in for Rabada. Our strength is our batting.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715261533471,
+    "commText": "<p><b>Faf:</b> Would've done the same. Been a great turnaround for us. Last few games we've been clinical. Focus remains the same, not too much on the table, just the way we want to play. Maxwell out for Lockie Ferguson.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715261846652,
+    "commText": "<p><b>Punjab Kings</b> (Playing XI): Jonny Bairstow(w), Prabhsimran Singh, Rilee Rossouw, Liam Livingstone, Shashank Singh, Sam Curran(c), Ashutosh Sharma, Harshal Patel, Rahul Chahar, Arshdeep Singh, Vidhwath Kaverappa</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715261884827,
+    "commText": "<p><b>Royal Challengers Bengaluru</b> (Playing XI): Virat Kohli, Faf du Plessis(c), Will Jacks, Rajat Patidar, Mahipal Lomror, Cameron Green, Dinesh Karthik(w), Swapnil Singh, Karn Sharma, Mohammed Siraj, Lockie Ferguson</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715261886611,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715262249611,
+    "commText": "<p><b>Royal Challengers Bengaluru Impact Subs: </b>Anuj Rawat, Suyash Prabhudessai, Vijaykumar Vyshak, Yash Dayal, Mayank Dagar</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715262255123,
+    "commText": "<p><b>Punjab Kings Impact Subs:</b> Harpreet Brar, Tanay Thyagarajan, Rishi Dhawan, Jitesh Sharma, Nathan Ellis</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715262311227,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715263165649,
+    "commText": "<p>All set to go. One slip in place for Kaverappa on IPL debut</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

@@ -1,398 +1,8 @@
 [
   {
-    "timestamp": 1712671046185,
-    "commText": "<p>The players are out in the middle and we're set to start - it's the explosive pair of Travis Head and Abhishek Sharma to open for SRH. Kagiso Rabada to take the new ball for Punjab Kings, first time this season that he's bowling the 1st over. One slip in place</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712670012534,
-    "commText": "<p>After his 17-ball 31, Ashutosh Sharma gets into the playing XI for Punjab Kings with Prabhsimran Singh the probable impact sub. On the other hand, SRH have an option of either Washington Sundar or Mayank Markande as their impact sub. They could even think about Umran Malik if they fancy some pace. Do check our expert XI before finalizing your fantasy XIs.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712669988357,
-    "commText": "<p><b>Here are the impact subs for both teams</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712669957059,
-    "commText": "<p><b>Sunrisers Hyderabad Subs: </b> Umran Malik, Mayank Markande, Washington Sundar, Glenn Phillips, Rahul Tripathi</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712669926906,
-    "commText": "<p><b>Punjab Kings Subs: </b>Prabhsimran Singh, Nathan Ellis, Tanay Thyagarajan, Rahul Chahar, Rishi Dhawan</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712669919380,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712669918292,
-    "commText": "<p><b>Sunrisers Hyderabad</b> (Playing XI): Travis Head, Abhishek Sharma, Aiden Markram, Heinrich Klaasen(w), Abdul Samad, Nitish Reddy, Shahbaz Ahmed, Pat Cummins(c), Bhuvneshwar Kumar, Jaydev Unadkat, T Natarajan</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712669893556,
-    "commText": "<p><b>Punjab Kings</b> (Playing XI): Shikhar Dhawan(c), Jonny Bairstow, Jitesh Sharma(w), Ashutosh Sharma, Sam Curran, Shashank Singh, Sikandar Raza, Harpreet Brar, Harshal Patel, Kagiso Rabada, Arshdeep Singh</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712669592507,
-    "commText": "<p><b>Pat Cummins</b> - We would have bowled first as well. Overall happy with the way we've been going, two wins and we could have had one more game going our way. We've got good strength and some depth. Same team as the last game.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712669582515,
-    "commText": "<p><b>Shikhar Dhawan</b> - We'll bowl first. The wicket will stay the same, so look to restrict them to a low score. We were lucky to have won the last match, it's good that we're not depending on any one player. We've\u00a0won two games, looking forward to a good run. He's still\u00a0recovering (on Liam Livingstone), we're playing the same team,</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712669440913,
-    "commText": "<p><b>Punjab Kings have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712668185599,
-    "commText": "<p><b>Aiden Markram</b> - It was an important win (on the CSK match), gives good vibes and helps us to try and build some momentum going forward in a tournament like this. A lot of our success has some from that (the success of their openers), the three of them have been massive for us. Pretty easy (on his\u00a0job), happy to float around, do whatever needed, obviously you don't want to waste a guy like Heinrich (Klaasen) too much, so whenever we're in a position to get him early, I'm fine with that for the team. We've been fortunate, have a nice schedule, good breaks between games. That'll allow us to be refreshed, travel and be fresh going into a game.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712667844808,
-    "commText": "<p><b>Shashank Singh</b> - I felt good on that day (on his match-winning knock against Gujarat Titans), my family and friends were happy. The best part of it was that we won the match, an away match against the Gujarat Titans. But we have an important game today, we had a good net session and we're ready for the match. I've previously been with Delhi Capitals and Rajasthan Royals, I didn't get to play any match, but the experience gained was good. There were some greats of the game with Steve Smith being in Rajasthan. Last year, I played for the Sunrisers and I got to spend some time with Brian Lara. He changed my mindset. I wasn't part of any team last year, but I worked hard in domestic cricket. I've been with Chattisgarh for the last five years, have played red-ball cricket and I have brought that temperament here. I consider myself as a batter who can bowl a bit. Lara said that despite batting at 7, I shouldn't think that I'm a slogger, that's the kind of good experience for me. This is a new venue, but this is a good wicket, a flat track, the ball comes nicely onto the bat, the bounce is even and I can say that this is a boundary hitting venue.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712585199225,
-    "commText": "<p><b>Team News</b>: Sunrisers Hyderabad have signed Vijaykanth Viyaskanth as a replacement for the injured Wanindu Hasaranga for the remainder of the Tata Indian Premier League (IPL) 2024.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712585199215,
-    "commText": "<p>This is the first evening game of the IPL at this venue. 63m and 70m side boundaries while the straight boundary is at 72m. This looks like a similar pitch to the day game that was played here, the pitch looks rock hard and it does look like a 200-run surface. There's an even covering of grass, the\u00a0power packed SRH batting line-up will enjoy playing here. Plenty of runs here tonight, not much dew expected either. Another high scoring affair, reckon <b>Deep Dasgupta and Simon Katich</b>, in their pitch report</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712585199205,
-    "commText": "<p><b>6:20 pm IST</b>: We're into match 23 and we're back in Chandigarh as the Punjab Kings host the Sunrisers Hyderabad. Both camps should be in an upbeat mood as they registered much-needed victories in their last match, against the Gujarat Titans and Chennai Super Kings respectively. For the Sunrisers, it was a collective effort as the bowlers restricted a strong Chennai line-up to a reasonable score and the batters then ran amok to complete an easy chase. On the other hand, the KIngs took the tougher route to success and were indebted to two domestic\u00a0batters, Shashank Singh and Ashustosh Sharma, to complete a 3-wicket comeback win over the Titans. The Kings began a new era in Mullanpur with a win in their first game against the Capitals and they're back once again after 17 days to try and build a fortress of their own.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712585199185,
-    "commText": "<p><b>Preview</b> \\nAfter a Shashank Singh-inspired jailbreak instilled some life into their frail campaign, Punjab Kings will hope to build on that momentum as they begin a four-match home leg against the high-flying Sunrisers Hyderabad in Mullanpur, New Chandigarh, on Tuesday (April 9). \\n \\nWhile their success usually has come on the back of bowling prowess over the last few years, SRH are making heads turn with their batting might in IPL 2024. SRH's batting PowerPlay numbers are comfortably the best among the 10 teams with them striking at 11.66 in the phase. Having posted the record highest IPL total ever of 277/3 against Mumbai Indians in an epic display of a sustained assault on a bowling attack, SRH convincingly beat defending champions by six wickets to maintain a healthy NRR of +0.409 - only second behind CSK among the four teams looking to break out of that mid-table logjam. One of which is their next opponent. \\n \\nLanguishing in the middle of the points table is an uncomfortably familiar territory for PBKS. They haven't been great on the road early in the competition, losing two of three but the come-from-behind victory against Gujarat Titans in their last outing has ticked a few boxes. With Prabhsimran Singh and Jitesh Sharma's modest returns thus far, to go with a misfiring opener in Jonny Bairstow and the dwindling returns of Sam Curran, PBKS' batting has got a much-needed boost in Shashank - at least at the backend of their innings. \\n \\nThat said, the inconsistency of the batting order is the lesser of the two concerns for Punjab though. What needs immediate attention is their inability to contain teams in death overs. PBKS have the second-worst economy rate in overs 17-20 of 12.65, which is only behind bottom-placed Delhi Capitals. Known for their death-overs skills, Harshal Patel has proved very expensive in the four outings thus far while Arshdeep Singh just hasn't been as incisive. Kagiso Rabada and Harpreet Brar have been their best bowlers in the pace and spin department respectively, and would desperately need support at the other end if the Kings were to keep the power-packed SRH in check. \\n \\n<b>When:</b> PBKS vs SRH, 23rd Match on April 9 at 19:30 hours \\n \\n<b>Where:</b> Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh \\n \\n<b>What to expect:</b> Pacers have enjoyed considerably more success at Mullanpur in T20 cricket since the 2023 season with 87 wickets as against 33 to spin in 10 matches, which wasn't quite the case in the one IPL game at the venue thus far. \\n \\n<b>Head to Head:</b> SRH have an overwhemling lead with 14-7 record against Punjab Kings in 21 meetings. However, the last five games have been competitive between the two with SRH winning three and Punjab the other two. SRH last clashed with Punjab in Hyderabad in 2023 and won convincingly by 8 wickets. \\n \\n<b>Teams watch</b> \\n \\n<b>Punjab Kings</b> \\n \\n<b>Injury/Unavailability:</b>A final call on Liam Livingstone, who missed PBKS' last game, will be taken on match day, confirmed the team's assistant coach Brad Haddin. \\n \\n<b>Matchups & Strategy:</b>While Travis Head has been a PowerPlay beast this IPL, scoring at a strike-rate above 210 in the period, his numbers drop considerably against spin - two dismissals in four outings and a strike-rate of just 81.25. Expect Punjab to exploit this flaw and introduce spin early to nip the threat in the bud on a surface with low bounce. \\n \\n<b>Probable XI:</b>Shikhar Dhawan (C), Jonny Bairstow, Prabhsimran Singh, Sam Curran, Jitesh Sharma (wk), Shashank Singh, Liam Livingstone/Sikandar Raza, Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada [Impact sub: Arshdeep Singh] \\n \\n<b>Sunrisers Hyderabad</b> \\n \\n<b>Injury/Unavailability:</b> Mayank Agarwal, who was unwell and hence sat out of Hyderabad's last fixture, could return to the XI after resuming training. \\n \\n<b>Matchups & Strategy:</b> Jonny Bairstow hasn't exactly fired for Punjab this season, and now he'll be up against Pat Cummins, who has had the wood over the English batter in T20s. The Punjab opener has lost his wicket to the Australian thrice, striking only at close to 69. Bairstow also has a poor match-up against left-arm spin, losing his wicket five times in IPL to left-arm orthodox bowlers with a concerning dot-ball consumption of 49% (54 in 110). It's therefore likely that SRH can throw the new ball again to Abhishek Sharma, who opened the bowling against CSK in their last match. \\n \\n<b>Probable XI:</b>Travis Head, Abhishek Sharma, Adien Markram, Heinrich Klaasen (wk), Abdul Samad, Mayank Agarwal/Nitish Reddy, Shahbaz Ahmed, Pat Cummins (C), Bhuvneshwar Kumar, T Natarajan, Mayank Markande [Impact sub: Jaydev Unadkat] \\n \\n<b>Did you know?</b> \\n \\n- Both Dhawan and Bairstow have represented SRH in the past. Of Dhawan's 6734 runs, 2518 have come for SRH (37.39%), while the corresponding numbers for Bairstow are 1038 out of 1372 (75.66%). \\n \\n- Liam Livingstone needs 89 more to complete 1000 runs in IPL; Aiden Markram needs 98 \\n \\n- If selected, T Natarajan will be playing his 50th IPL game \\n \\n<b>What they said:</b> \\n \\nThe hustle and bustle of IPL boils down to play, travel, play, travel. We have the chance to now play four games on a surface which we understand better than most. I hope it might give us advantage on the points table as well - <b>Brad Haddin, PBKS assistant coach</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712585199175,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1712585075478,
+    "commText": "<p><b>Sunrisers Hyderabad</b> Squad: Abhishek Sharma, Aiden Markram, Heinrich Klaasen(w), Abdul Samad, Shahbaz Ahmed, Nitish Reddy, Pat Cummins(c), Jaydev Unadkat, Bhuvneshwar Kumar, Mayank Markande, T Natarajan, Travis Head, Umran Malik, Washington Sundar, Glenn Phillips, Rahul Tripathi, Mayank Agarwal, Upendra Yadav, Anmolpreet Singh, Jhatavedh Subramanyan, Sanvir Singh, Fazalhaq Farooqi, Marco Jansen, Akash Maharaj Singh</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -416,6 +26,7 @@
   {
     "timestamp": 1712585197702,
     "commText": "<p><b>Punjab Kings</b> Squad: Shikhar Dhawan(c), Jonny Bairstow, Prabhsimran Singh, Sam Curran, Sikandar Raza, Shashank Singh, Jitesh Sharma(w), Harpreet Brar, Ashutosh Sharma, Harshal Patel, Kagiso Rabada, Arshdeep Singh, Tanay Thyagarajan, Nathan Ellis, Rahul Chahar, Vidhwath Kaverappa, Liam Livingstone, Rilee Rossouw, Harpreet Singh Bhatia, Chris Woakes, Rishi Dhawan, Atharva Taide, Shivam Singh, Prince Choudhary, Vishwanath Singh</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -437,8 +48,417 @@
     }
   },
   {
-    "timestamp": 1712585075478,
-    "commText": "<p><b>Sunrisers Hyderabad</b> Squad: Abhishek Sharma, Aiden Markram, Heinrich Klaasen(w), Abdul Samad, Shahbaz Ahmed, Nitish Reddy, Pat Cummins(c), Jaydev Unadkat, Bhuvneshwar Kumar, Mayank Markande, T Natarajan, Travis Head, Umran Malik, Washington Sundar, Glenn Phillips, Rahul Tripathi, Mayank Agarwal, Upendra Yadav, Anmolpreet Singh, Jhatavedh Subramanyan, Sanvir Singh, Fazalhaq Farooqi, Marco Jansen, Akash Maharaj Singh</p>",
+    "timestamp": 1712585199175,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712585199185,
+    "commText": "<p><b>Preview</b> \\nAfter a Shashank Singh-inspired jailbreak instilled some life into their frail campaign, Punjab Kings will hope to build on that momentum as they begin a four-match home leg against the high-flying Sunrisers Hyderabad in Mullanpur, New Chandigarh, on Tuesday (April 9). \\n \\nWhile their success usually has come on the back of bowling prowess over the last few years, SRH are making heads turn with their batting might in IPL 2024. SRH's batting PowerPlay numbers are comfortably the best among the 10 teams with them striking at 11.66 in the phase. Having posted the record highest IPL total ever of 277/3 against Mumbai Indians in an epic display of a sustained assault on a bowling attack, SRH convincingly beat defending champions by six wickets to maintain a healthy NRR of +0.409 - only second behind CSK among the four teams looking to break out of that mid-table logjam. One of which is their next opponent. \\n \\nLanguishing in the middle of the points table is an uncomfortably familiar territory for PBKS. They haven't been great on the road early in the competition, losing two of three but the come-from-behind victory against Gujarat Titans in their last outing has ticked a few boxes. With Prabhsimran Singh and Jitesh Sharma's modest returns thus far, to go with a misfiring opener in Jonny Bairstow and the dwindling returns of Sam Curran, PBKS' batting has got a much-needed boost in Shashank - at least at the backend of their innings. \\n \\nThat said, the inconsistency of the batting order is the lesser of the two concerns for Punjab though. What needs immediate attention is their inability to contain teams in death overs. PBKS have the second-worst economy rate in overs 17-20 of 12.65, which is only behind bottom-placed Delhi Capitals. Known for their death-overs skills, Harshal Patel has proved very expensive in the four outings thus far while Arshdeep Singh just hasn't been as incisive. Kagiso Rabada and Harpreet Brar have been their best bowlers in the pace and spin department respectively, and would desperately need support at the other end if the Kings were to keep the power-packed SRH in check. \\n \\n<b>When:</b> PBKS vs SRH, 23rd Match on April 9 at 19:30 hours \\n \\n<b>Where:</b> Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh \\n \\n<b>What to expect:</b> Pacers have enjoyed considerably more success at Mullanpur in T20 cricket since the 2023 season with 87 wickets as against 33 to spin in 10 matches, which wasn't quite the case in the one IPL game at the venue thus far. \\n \\n<b>Head to Head:</b> SRH have an overwhemling lead with 14-7 record against Punjab Kings in 21 meetings. However, the last five games have been competitive between the two with SRH winning three and Punjab the other two. SRH last clashed with Punjab in Hyderabad in 2023 and won convincingly by 8 wickets. \\n \\n<b>Teams watch</b> \\n \\n<b>Punjab Kings</b> \\n \\n<b>Injury/Unavailability:</b>A final call on Liam Livingstone, who missed PBKS' last game, will be taken on match day, confirmed the team's assistant coach Brad Haddin. \\n \\n<b>Matchups & Strategy:</b>While Travis Head has been a PowerPlay beast this IPL, scoring at a strike-rate above 210 in the period, his numbers drop considerably against spin - two dismissals in four outings and a strike-rate of just 81.25. Expect Punjab to exploit this flaw and introduce spin early to nip the threat in the bud on a surface with low bounce. \\n \\n<b>Probable XI:</b>Shikhar Dhawan (C), Jonny Bairstow, Prabhsimran Singh, Sam Curran, Jitesh Sharma (wk), Shashank Singh, Liam Livingstone/Sikandar Raza, Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada [Impact sub: Arshdeep Singh] \\n \\n<b>Sunrisers Hyderabad</b> \\n \\n<b>Injury/Unavailability:</b> Mayank Agarwal, who was unwell and hence sat out of Hyderabad's last fixture, could return to the XI after resuming training. \\n \\n<b>Matchups & Strategy:</b> Jonny Bairstow hasn't exactly fired for Punjab this season, and now he'll be up against Pat Cummins, who has had the wood over the English batter in T20s. The Punjab opener has lost his wicket to the Australian thrice, striking only at close to 69. Bairstow also has a poor match-up against left-arm spin, losing his wicket five times in IPL to left-arm orthodox bowlers with a concerning dot-ball consumption of 49% (54 in 110). It's therefore likely that SRH can throw the new ball again to Abhishek Sharma, who opened the bowling against CSK in their last match. \\n \\n<b>Probable XI:</b>Travis Head, Abhishek Sharma, Adien Markram, Heinrich Klaasen (wk), Abdul Samad, Mayank Agarwal/Nitish Reddy, Shahbaz Ahmed, Pat Cummins (C), Bhuvneshwar Kumar, T Natarajan, Mayank Markande [Impact sub: Jaydev Unadkat] \\n \\n<b>Did you know?</b> \\n \\n- Both Dhawan and Bairstow have represented SRH in the past. Of Dhawan's 6734 runs, 2518 have come for SRH (37.39%), while the corresponding numbers for Bairstow are 1038 out of 1372 (75.66%). \\n \\n- Liam Livingstone needs 89 more to complete 1000 runs in IPL; Aiden Markram needs 98 \\n \\n- If selected, T Natarajan will be playing his 50th IPL game \\n \\n<b>What they said:</b> \\n \\nThe hustle and bustle of IPL boils down to play, travel, play, travel. We have the chance to now play four games on a surface which we understand better than most. I hope it might give us advantage on the points table as well - <b>Brad Haddin, PBKS assistant coach</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712585199205,
+    "commText": "<p><b>6:20 pm IST</b>: We're into match 23 and we're back in Chandigarh as the Punjab Kings host the Sunrisers Hyderabad. Both camps should be in an upbeat mood as they registered much-needed victories in their last match, against the Gujarat Titans and Chennai Super Kings respectively. For the Sunrisers, it was a collective effort as the bowlers restricted a strong Chennai line-up to a reasonable score and the batters then ran amok to complete an easy chase. On the other hand, the KIngs took the tougher route to success and were indebted to two domestic\u00a0batters, Shashank Singh and Ashustosh Sharma, to complete a 3-wicket comeback win over the Titans. The Kings began a new era in Mullanpur with a win in their first game against the Capitals and they're back once again after 17 days to try and build a fortress of their own.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712585199215,
+    "commText": "<p>This is the first evening game of the IPL at this venue. 63m and 70m side boundaries while the straight boundary is at 72m. This looks like a similar pitch to the day game that was played here, the pitch looks rock hard and it does look like a 200-run surface. There's an even covering of grass, the\u00a0power packed SRH batting line-up will enjoy playing here. Plenty of runs here tonight, not much dew expected either. Another high scoring affair, reckon <b>Deep Dasgupta and Simon Katich</b>, in their pitch report</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712585199225,
+    "commText": "<p><b>Team News</b>: Sunrisers Hyderabad have signed Vijaykanth Viyaskanth as a replacement for the injured Wanindu Hasaranga for the remainder of the Tata Indian Premier League (IPL) 2024.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712667844808,
+    "commText": "<p><b>Shashank Singh</b> - I felt good on that day (on his match-winning knock against Gujarat Titans), my family and friends were happy. The best part of it was that we won the match, an away match against the Gujarat Titans. But we have an important game today, we had a good net session and we're ready for the match. I've previously been with Delhi Capitals and Rajasthan Royals, I didn't get to play any match, but the experience gained was good. There were some greats of the game with Steve Smith being in Rajasthan. Last year, I played for the Sunrisers and I got to spend some time with Brian Lara. He changed my mindset. I wasn't part of any team last year, but I worked hard in domestic cricket. I've been with Chattisgarh for the last five years, have played red-ball cricket and I have brought that temperament here. I consider myself as a batter who can bowl a bit. Lara said that despite batting at 7, I shouldn't think that I'm a slogger, that's the kind of good experience for me. This is a new venue, but this is a good wicket, a flat track, the ball comes nicely onto the bat, the bounce is even and I can say that this is a boundary hitting venue.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712668185599,
+    "commText": "<p><b>Aiden Markram</b> - It was an important win (on the CSK match), gives good vibes and helps us to try and build some momentum going forward in a tournament like this. A lot of our success has some from that (the success of their openers), the three of them have been massive for us. Pretty easy (on his\u00a0job), happy to float around, do whatever needed, obviously you don't want to waste a guy like Heinrich (Klaasen) too much, so whenever we're in a position to get him early, I'm fine with that for the team. We've been fortunate, have a nice schedule, good breaks between games. That'll allow us to be refreshed, travel and be fresh going into a game.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712669440913,
+    "commText": "<p><b>Punjab Kings have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712669582515,
+    "commText": "<p><b>Shikhar Dhawan</b> - We'll bowl first. The wicket will stay the same, so look to restrict them to a low score. We were lucky to have won the last match, it's good that we're not depending on any one player. We've\u00a0won two games, looking forward to a good run. He's still\u00a0recovering (on Liam Livingstone), we're playing the same team,</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712669592507,
+    "commText": "<p><b>Pat Cummins</b> - We would have bowled first as well. Overall happy with the way we've been going, two wins and we could have had one more game going our way. We've got good strength and some depth. Same team as the last game.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712669893556,
+    "commText": "<p><b>Punjab Kings</b> (Playing XI): Shikhar Dhawan(c), Jonny Bairstow, Jitesh Sharma(w), Ashutosh Sharma, Sam Curran, Shashank Singh, Sikandar Raza, Harpreet Brar, Harshal Patel, Kagiso Rabada, Arshdeep Singh</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712669918292,
+    "commText": "<p><b>Sunrisers Hyderabad</b> (Playing XI): Travis Head, Abhishek Sharma, Aiden Markram, Heinrich Klaasen(w), Abdul Samad, Nitish Reddy, Shahbaz Ahmed, Pat Cummins(c), Bhuvneshwar Kumar, Jaydev Unadkat, T Natarajan</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712669919380,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712669926906,
+    "commText": "<p><b>Punjab Kings Subs: </b>Prabhsimran Singh, Nathan Ellis, Tanay Thyagarajan, Rahul Chahar, Rishi Dhawan</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712669957059,
+    "commText": "<p><b>Sunrisers Hyderabad Subs: </b> Umran Malik, Mayank Markande, Washington Sundar, Glenn Phillips, Rahul Tripathi</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712669988357,
+    "commText": "<p><b>Here are the impact subs for both teams</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712670012534,
+    "commText": "<p>After his 17-ball 31, Ashutosh Sharma gets into the playing XI for Punjab Kings with Prabhsimran Singh the probable impact sub. On the other hand, SRH have an option of either Washington Sundar or Mayank Markande as their impact sub. They could even think about Umran Malik if they fancy some pace. Do check our expert XI before finalizing your fantasy XIs.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712671046185,
+    "commText": "<p>The players are out in the middle and we're set to start - it's the explosive pair of Travis Head and Abhishek Sharma to open for SRH. Kagiso Rabada to take the new ball for Punjab Kings, first time this season that he's bowling the 1st over. One slip in place</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

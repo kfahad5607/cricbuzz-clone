@@ -1,490 +1,8 @@
 [
   {
-    "timestamp": 1716040666070,
-    "commText": "<p>The umpires are out in the middle, they're followed by the players and we're ready to go. Match 68 and we should know our final playoff team in around 4 hours. Tushar Deshpande to start for CSK - a slip in place</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716039933915,
-    "commText": "<p>Right, RCB are batting first and the equation is straightforward. Win by a margin of 18 runs or more to ensure that their NRR goes above that of their derby neighbours. Keeping the task in mind, we've made a change to our pre-toss expert XI. Have a look before you lock in your fantasy picks.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716039644270,
-    "commText": "<p>Faf du Plessis said same team at the toss, but Will Jacks is back in England and he's replaced by Glenn Maxwell. He's slated to take Jacks's number 3 slot as well, not sure if that'll happen. Swapnil Singh has been named as part of the impact sub, it could be either him / Vyshak Vijaykumar. For CSK, Shivam Dube is on the bench and should walk in as the impact sub.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716039644260,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716039606438,
-    "commText": "<p><b>Royal Challengers Bengaluru Impact Subs:</b> Swapnil Singh, Anuj Rawat, Suyash Prabhudessai, Vijaykumar Vyshak, Himanshu Sharma</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716039568239,
-    "commText": "<p><b>Chennai Super Kings Impact Subs:</b> Shivam Dube, Sameer Rizvi , Prashant Solanki, Shaik Rasheed, Mukesh Choudhary</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716039391433,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716039389725,
-    "commText": "<p><b>Royal Challengers Bengaluru</b> (Playing XI): Faf du Plessis(c), Virat Kohli, Glenn Maxwell, Rajat Patidar, Cameron Green, Mahipal Lomror, Dinesh Karthik(w), Karn Sharma, Yash Dayal, Lockie Ferguson, Mohammed Siraj</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716039343482,
-    "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Rachin Ravindra, Ruturaj Gaikwad(c), Daryl Mitchell, Ajinkya Rahane, Ravindra Jadeja, MS Dhoni(w), Mitchell Santner, Shardul Thakur, Tushar Deshpande, Simarjeet Singh, Maheesh Theekshana</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716039270007,
-    "commText": "<p><b>Faf du Plessis</b> - We would have fielded as well, but we put up a good score\u00a0when we batted first last. Losing the toss isn't ideal, but we'll take a lot of confidence from the last 5 games. The set-up is great, last match\u00a0before the knockout stage, the scenario is nicely set up and we're happy to play our last league game\u00a0in front of our fans. Not thinking a lot, we'll take it as it comes and do our best.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716039248679,
-    "commText": "<p><b>Ruturaj Gaikwad</b> - We'll bowl first. The wicket looks good, conditions are overcast and we will look to make the most of the movement in the first 2-3 overs. It looks a bit damp, but we'll go with great intent. Every game in the IPL is must win, nothing changes for us, we'll take it ball-by-ball, try and win the small processes. We've won some crucial games to go ahead of the pack in the middle. Just one change - Moeen isn't available, Santner replaces him.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716039057051,
-    "commText": "<p><b>Chennai Super Kings have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716038421532,
-    "commText": "<p><b>Dinesh Karthik:</b> As a sportsman these are the kind of games you live and die for literally. The tournament is on the line for us, weather permitting, we have to put up a good show. I think this has been one of those journeys people will remember for decades. After losing seven out of their first eight games (RCB) are in this position, there's still a lot of work to do though. We play against a solid team, but what a journey this has been. Three weeks can turn around your fortunes. We are trying to hunt down a side that has done really well in the tournament. We had nothing to lose a few games ago but now we know the value of pushing and recreating it again and again. There are a formidable and balanced side. The way they play their cricket, one of the most successful sides in this league. They come good in big games, it's a great challenge for us. The way we (RCB) have played in the last five games is pretty symbolic of what RCB is capable of. Playing some good cricket, big names, playing some high octane cricket, great to be a part of it. I will remember this journey for a long time. Every year there's going to be a team at the halfway stage almost where we were. I am wishing that we take one step forward. I think it's RCB's turn to do something special.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716038421522,
-    "commText": "<p><b>Rachin Ravindra</b> - It's going to be incredible, hopefully, the rain stays away and we can put up a show for our fans. The atmosphere has been electric here at the Chinnaswamy. Just keep your feet on the ground and take it as it comes. Amazing to be part of CSK, amazing players and the management, the support staff, they've kind, I haven't had the greatest run, have seen the ups and downs. To share the dressing room with the likes of Dhoni, Jaddu and the incredible overseas players, it's been a learning experience. It's important to find your own experience because every journey is different, the things you learn are very useful. Siraj is a threat with the new ball, they've been on a run of 5 straight wins, RCB are a very good team, but hopefully we can continue our work and stop them.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716037949705,
-    "commText": "<p><b>More from Kaushik</b>: Faf du Plessis has called up the entire squad and the management for the team huddle. On the other end, Shivam Dube and Daryl Mitchell are having a long stint with the ball in their hands.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716036919376,
-    "commText": "<p><b>Pitch and conditions:</b> 60m square boundaries, 70m straight down the ground. There's not much grass on the surface, there are a few cracks and it looks mosaic, but the pitch is rock hard, reckons Deep Dasgupta. Doesn't have that extra moisture like the last game played here. There will be runs scored. Hasn't rained much since yesterday barring the occasional drizzle.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716036919366,
-    "commText": "<p>If we do have a match, we should have a cracking encounter. It could also be the last time that Virat Kohli squares up against MS Dhoni. Theoretically, it could also be Dinesh Karthik's last IPL game, unless RCB turn the margins over. A day of nostalgia at the Chinnaswamy? No wonder, tickets vanished as soon as they were opened on the RCB site. Here's <b>Kaushik Rangarajan's</b> soothing article on what it means for cricket tonight.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716036919355,
-    "commText": "<p><b>6:25 pm</b>: That brings up to the weather forecast tonight. Fortunately for RCB, the actual weather hasn't mirrored the forecast and we could see a full match if we're lucky enough. Two days back, the meteorological department suggested 'Orange Alert' which threatened nothing but a washout. It was downgraded to 'Yellow Alert' yesterday and it hasn't actually rained in several parts of Bengaluru today. But the weather in this city is always fickle and the home team will hope for a complete game.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716036574030,
-    "commText": "<p><b>A weather update</b>: It did rain a few moments ago, the groundstaff are ready with the covers, but our man at the ground, Kaushik Rangarajan, says that both teams continue to warm-up with the CSK management having a close look at the surface. It results in Richard Gleeson marking his run-up for the yellow army, Lockie Ferguson has done for the red brigade as well. We do know that the English players have gone home - so, Glenn Maxwell should be a straight swap for Will Jacks, Mitchell Santner could get a look in, if CSK decide they need more spinners on this pitch. In fact, Kaushik says that Santner could be playing tonight, he has marked his run-up - will he be in the XI or will he an impact sub? We'll get to know at the toss.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716036364631,
-    "commText": "<p><b>6:15 pm IST</b>: It's the last weekend of the league phase of the 2024 Indian Premier League and we'll in all probability seal the final playoff berth at the M Chinnaswamy Stadium in Bengaluru. It's the Royal Challengers Bengaluru up against the Chennai Super Kings in should be a mouth -watering contest between two traditional rivals. And with just one place in the playoff available, tonight's contest should turn extremely spicy as well. As far as equations are concerned, it's as straightforward as it gets for CSK - a win should be enough, a washout will be good enough and even a close loss should be good enough to secure a ticket for next week's matches. But they do need to win and then hope for a slip up from both RR and SRH if they're to entertain hopes of finishing in the top-2 and secure a place in the Qualifier 1 against the Knight Riders. For RCB, it's all about winning and winning with a margin. Do read Deepu Naryanan's extensive analysis to get a know-how on what RCB need to do and what they can't afford to do.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715954798108,
-    "commText": "<p><b>Preview</b> by <b>Kaushik Rangarajan</b> \\n \\nThere was barely a flicker of expectation for Royal Challengers Bengaluru when they returned home after a beatdown in Mumbai; the fifth loss in six games to start the season was pronounced as the end of their campaign. Director of Cricket Mo Bobat was also asked if the remainder of the tournament was a unique free pass to build for 2025. He admitted to the team's failings but responded in the negative. \"There's a point when it's not in our hands, that's when you might think differently.\" Into the 14th match of their campaign, that point hasn't been reached and Mission Impossible has morphed slowly into Mission Entirely Probable. \\n \\nThe IPL has always loved such cinematic narratives. Even if the reality - the head-to-head records, matchups, forecast - make for prosaic reading, that it's CSK clustering together with RCB for the one remaining playoffs spot makes for persuasive packaging. Throw in Virat Kohli, MS Dhoni, Dinesh Karthik and the notion of a 'last dance' for added gravitas on the penultimate day of a 70-game league phase. \\n \\nThe forecast notwithstanding, RCB's final home game of the season is no longer fraught with the hopelessness that surrounded the build-up to that SRH game a month ago. Then, they were happy to finish within 25 runs of a record total. Reasons to be fearful are fewer this time with both arms to their game syncing in harmony. That CSK's batting has lost some of the zing from last year and that their bowling has lost key personnel ought to bring an added dose of optimism for RCB. \\n \\nThe hosts also have form on their side: they're on a five-game winning run while CSK have not won more than two in a row at any point this season. Even the recent win against Rajasthan Royals wasn't as clinical as it could have been. There were catches dropped and an opportunity to boost the NRR wasn't chased. But the win will have helped flush a particularly chastening visit to Ahmedabad. What the visitors have in troves though is big-match pedigree: CSK are chasing a 13th visit to the final-four in 15 seasons. Experience in the ranks of having been there and done that is priceless, as is the advantage of knowing that a win, of any kind, or a washout is enough. Even a small loss will do. \\n \\n<b>Scenarios: An NRR game on RCB's hands </b> \\n \\nRCB have to win at least by a margin of 18 runs if they bat first i.e if they score 200, they'll have to restrict CSK to 182 or less. This bat-first scenario doesn't change even in a truncated five-over contest: if they make 75 in a five-over contest, they'll need to restrict the opposition to 57 or less, failing which CSK will go through. \\n \\nIf RCB are batting second and CSK post 200, the hosts will have to get to 201 with 11 or more balls to spare. If they hit a six from 200, they can complete the chase with up to 8 balls to spare. The chasing equation gets complicated in a truncated game. A target of 75 in a five-over clash, for example, will have to be chased down in 3.1 overs for their NRR to go above CSK's. \\n \\n<b>When: </b>Royal Challengers Bengaluru vs Chennai Super Kings, IPL 2024, May 18, 19:30 IST \\n \\n<b>Where: </b>M. Chinnaswamy Stadium, Bengaluru \\n \\n<b>What to expect: </b>A start-stop game. There is an 80% forecast for rain that is expected to hit Bengaluru CBD around match-start time. The sub-surface aeration at the stadium should facilitate a quick restart. The six games here have been split in the middle between wins for target setting and chasing teams. \\n \\n<b>Head to Head: </b>RCB 10 - 21 CSK. The Super Kings have won each of their last three as well as five of the last six contests against RCB. Only MI has more wins against a single opponent (23 vs KKR) than CSK's 21 wins against RCB. \\n \\n<b>Team Watch: </b> \\n \\n<b>Royal Challengers Bengaluru </b> \\n \\n<b>Injuries/Availability: </b>Will Jacks and Reece Topley have returned home to begin World Cup prep and will not be available for this game. Glenn Maxwell should return to the XI \\n \\n<b>Tactics & Matchups: </b>Yash Dayal has been excellent in the PowerPlay in Bengaluru, hitting his lengths perfectly and also finding swing. He'll be a threat to both Rachin Ravindra and Ruturaj Gaikwad at the top of innings. They have been dismissed five times and thrice respectively by left-arm seamers this season. \\n \\n<b>Probable XI: </b>Virat Kohli, Faf du Plessis (c), Rajat Patidar, Glenn Maxwell, Cameron Green, Mahipal Lomror, Dinesh Karthik (wk), Swapnil Singh, Karn Sharma, Lockie Ferguson, Mohammed Siraj [Impact Sub: Vijaykumar Vyshak/Yash Dayal] \\n \\n<b>Chennai Super Kings</b> \\n \\n<b>Injuries/Availability: </b>Matheesha Pathirana and Deepak Chahar are unavailable due to hamstring injuries while Mustafizur Rahman and Moeen Ali have left for international commitments. \\n \\n<b>Tactics & Matchups: </b>Ravindra Jadeja has excellent match-ups with three of RCB's key batters. He has dismissed Maxwell six times while also accounting for Kohli and Karthik three times each. \\n \\n<b>Probable XI: </b>Ruturaj Gaikwad (c), Rachin Ravindra, Daryl Mitchell, Shivam Dube, Ravindra Jadeja, MS Dhoni (wk), Shardul Thakur, Tushar Deshpande, Mitchell Santner/Richard Gleeson, Simarjeet Singh, Maheesh Theekshana [Impact Sub: Sameer Rizvi] \\n \\n<b>Did you know? </b> \\n \\n- RCB became the fourth side to have sequences of five successive wins and defeats each in the same season. Deccan Chargers in 2010, PBKS in 2020 and SRH in 2022 are the other teams to have such mixed league runs. \\n \\n- Shivam Dube averages 113.50 against RCB. His four scores against them read: 46 (32), 95* (46), 52 (27) and 34* (28) \\n \\n- In a reversal of traditional strengths, RCB's spinners have taken more wickets this season (20 at 20.3 SR) than CSK's have (13 at 34.6 SR) \\n \\n<b>What they said: </b> \\n \\n\"We prepare well as a bowling group, we have very good plans. And tomorrow is no different, RCB will have to try to beat us off our plans. And if they do that, well played to them. But if they don't, then... next season for them.\" - <b>Dwayne Bravo</b> on coming up against an aggressive RCB batting line-up.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715954798098,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1715954683531,
+    "commText": "<p><b>Chennai Super Kings</b> Squad: Rachin Ravindra, Ruturaj Gaikwad(c), Daryl Mitchell, Shivam Dube, Ravindra Jadeja, MS Dhoni(w), Shardul Thakur, Tushar Deshpande, Simarjeet Singh, Maheesh Theekshana, Ajinkya Rahane, Sameer Rizvi, Prashant Solanki, Ajay Jadav Mandal, Mukesh Choudhary, Mitchell Santner, Richard Gleeson, RS Hangargekar, Shaik Rasheed, Nishant Sindhu, Aravelly Avanish</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -508,6 +26,7 @@
   {
     "timestamp": 1715954795328,
     "commText": "<p><b>Royal Challengers Bengaluru</b> Squad: Faf du Plessis(c), Virat Kohli, Rajat Patidar, Glenn Maxwell, Cameron Green, Mahipal Lomror, Dinesh Karthik(w), Karn Sharma, Mohammed Siraj, Lockie Ferguson, Yash Dayal, Swapnil Singh, Anuj Rawat, Suyash Prabhudessai, Vijaykumar Vyshak, Himanshu Sharma, Mayank Dagar, Manoj Bhandage, Tom Curran, Alzarri Joseph, Akash Deep, Saurav Chauhan, Rajan Kumar</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -529,8 +48,513 @@
     }
   },
   {
-    "timestamp": 1715954683531,
-    "commText": "<p><b>Chennai Super Kings</b> Squad: Rachin Ravindra, Ruturaj Gaikwad(c), Daryl Mitchell, Shivam Dube, Ravindra Jadeja, MS Dhoni(w), Shardul Thakur, Tushar Deshpande, Simarjeet Singh, Maheesh Theekshana, Ajinkya Rahane, Sameer Rizvi, Prashant Solanki, Ajay Jadav Mandal, Mukesh Choudhary, Mitchell Santner, Richard Gleeson, RS Hangargekar, Shaik Rasheed, Nishant Sindhu, Aravelly Avanish</p>",
+    "timestamp": 1715954798098,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715954798108,
+    "commText": "<p><b>Preview</b> by <b>Kaushik Rangarajan</b> \\n \\nThere was barely a flicker of expectation for Royal Challengers Bengaluru when they returned home after a beatdown in Mumbai; the fifth loss in six games to start the season was pronounced as the end of their campaign. Director of Cricket Mo Bobat was also asked if the remainder of the tournament was a unique free pass to build for 2025. He admitted to the team's failings but responded in the negative. \"There's a point when it's not in our hands, that's when you might think differently.\" Into the 14th match of their campaign, that point hasn't been reached and Mission Impossible has morphed slowly into Mission Entirely Probable. \\n \\nThe IPL has always loved such cinematic narratives. Even if the reality - the head-to-head records, matchups, forecast - make for prosaic reading, that it's CSK clustering together with RCB for the one remaining playoffs spot makes for persuasive packaging. Throw in Virat Kohli, MS Dhoni, Dinesh Karthik and the notion of a 'last dance' for added gravitas on the penultimate day of a 70-game league phase. \\n \\nThe forecast notwithstanding, RCB's final home game of the season is no longer fraught with the hopelessness that surrounded the build-up to that SRH game a month ago. Then, they were happy to finish within 25 runs of a record total. Reasons to be fearful are fewer this time with both arms to their game syncing in harmony. That CSK's batting has lost some of the zing from last year and that their bowling has lost key personnel ought to bring an added dose of optimism for RCB. \\n \\nThe hosts also have form on their side: they're on a five-game winning run while CSK have not won more than two in a row at any point this season. Even the recent win against Rajasthan Royals wasn't as clinical as it could have been. There were catches dropped and an opportunity to boost the NRR wasn't chased. But the win will have helped flush a particularly chastening visit to Ahmedabad. What the visitors have in troves though is big-match pedigree: CSK are chasing a 13th visit to the final-four in 15 seasons. Experience in the ranks of having been there and done that is priceless, as is the advantage of knowing that a win, of any kind, or a washout is enough. Even a small loss will do. \\n \\n<b>Scenarios: An NRR game on RCB's hands </b> \\n \\nRCB have to win at least by a margin of 18 runs if they bat first i.e if they score 200, they'll have to restrict CSK to 182 or less. This bat-first scenario doesn't change even in a truncated five-over contest: if they make 75 in a five-over contest, they'll need to restrict the opposition to 57 or less, failing which CSK will go through. \\n \\nIf RCB are batting second and CSK post 200, the hosts will have to get to 201 with 11 or more balls to spare. If they hit a six from 200, they can complete the chase with up to 8 balls to spare. The chasing equation gets complicated in a truncated game. A target of 75 in a five-over clash, for example, will have to be chased down in 3.1 overs for their NRR to go above CSK's. \\n \\n<b>When: </b>Royal Challengers Bengaluru vs Chennai Super Kings, IPL 2024, May 18, 19:30 IST \\n \\n<b>Where: </b>M. Chinnaswamy Stadium, Bengaluru \\n \\n<b>What to expect: </b>A start-stop game. There is an 80% forecast for rain that is expected to hit Bengaluru CBD around match-start time. The sub-surface aeration at the stadium should facilitate a quick restart. The six games here have been split in the middle between wins for target setting and chasing teams. \\n \\n<b>Head to Head: </b>RCB 10 - 21 CSK. The Super Kings have won each of their last three as well as five of the last six contests against RCB. Only MI has more wins against a single opponent (23 vs KKR) than CSK's 21 wins against RCB. \\n \\n<b>Team Watch: </b> \\n \\n<b>Royal Challengers Bengaluru </b> \\n \\n<b>Injuries/Availability: </b>Will Jacks and Reece Topley have returned home to begin World Cup prep and will not be available for this game. Glenn Maxwell should return to the XI \\n \\n<b>Tactics & Matchups: </b>Yash Dayal has been excellent in the PowerPlay in Bengaluru, hitting his lengths perfectly and also finding swing. He'll be a threat to both Rachin Ravindra and Ruturaj Gaikwad at the top of innings. They have been dismissed five times and thrice respectively by left-arm seamers this season. \\n \\n<b>Probable XI: </b>Virat Kohli, Faf du Plessis (c), Rajat Patidar, Glenn Maxwell, Cameron Green, Mahipal Lomror, Dinesh Karthik (wk), Swapnil Singh, Karn Sharma, Lockie Ferguson, Mohammed Siraj [Impact Sub: Vijaykumar Vyshak/Yash Dayal] \\n \\n<b>Chennai Super Kings</b> \\n \\n<b>Injuries/Availability: </b>Matheesha Pathirana and Deepak Chahar are unavailable due to hamstring injuries while Mustafizur Rahman and Moeen Ali have left for international commitments. \\n \\n<b>Tactics & Matchups: </b>Ravindra Jadeja has excellent match-ups with three of RCB's key batters. He has dismissed Maxwell six times while also accounting for Kohli and Karthik three times each. \\n \\n<b>Probable XI: </b>Ruturaj Gaikwad (c), Rachin Ravindra, Daryl Mitchell, Shivam Dube, Ravindra Jadeja, MS Dhoni (wk), Shardul Thakur, Tushar Deshpande, Mitchell Santner/Richard Gleeson, Simarjeet Singh, Maheesh Theekshana [Impact Sub: Sameer Rizvi] \\n \\n<b>Did you know? </b> \\n \\n- RCB became the fourth side to have sequences of five successive wins and defeats each in the same season. Deccan Chargers in 2010, PBKS in 2020 and SRH in 2022 are the other teams to have such mixed league runs. \\n \\n- Shivam Dube averages 113.50 against RCB. His four scores against them read: 46 (32), 95* (46), 52 (27) and 34* (28) \\n \\n- In a reversal of traditional strengths, RCB's spinners have taken more wickets this season (20 at 20.3 SR) than CSK's have (13 at 34.6 SR) \\n \\n<b>What they said: </b> \\n \\n\"We prepare well as a bowling group, we have very good plans. And tomorrow is no different, RCB will have to try to beat us off our plans. And if they do that, well played to them. But if they don't, then... next season for them.\" - <b>Dwayne Bravo</b> on coming up against an aggressive RCB batting line-up.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716036364631,
+    "commText": "<p><b>6:15 pm IST</b>: It's the last weekend of the league phase of the 2024 Indian Premier League and we'll in all probability seal the final playoff berth at the M Chinnaswamy Stadium in Bengaluru. It's the Royal Challengers Bengaluru up against the Chennai Super Kings in should be a mouth -watering contest between two traditional rivals. And with just one place in the playoff available, tonight's contest should turn extremely spicy as well. As far as equations are concerned, it's as straightforward as it gets for CSK - a win should be enough, a washout will be good enough and even a close loss should be good enough to secure a ticket for next week's matches. But they do need to win and then hope for a slip up from both RR and SRH if they're to entertain hopes of finishing in the top-2 and secure a place in the Qualifier 1 against the Knight Riders. For RCB, it's all about winning and winning with a margin. Do read Deepu Naryanan's extensive analysis to get a know-how on what RCB need to do and what they can't afford to do.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716036574030,
+    "commText": "<p><b>A weather update</b>: It did rain a few moments ago, the groundstaff are ready with the covers, but our man at the ground, Kaushik Rangarajan, says that both teams continue to warm-up with the CSK management having a close look at the surface. It results in Richard Gleeson marking his run-up for the yellow army, Lockie Ferguson has done for the red brigade as well. We do know that the English players have gone home - so, Glenn Maxwell should be a straight swap for Will Jacks, Mitchell Santner could get a look in, if CSK decide they need more spinners on this pitch. In fact, Kaushik says that Santner could be playing tonight, he has marked his run-up - will he be in the XI or will he an impact sub? We'll get to know at the toss.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716036919355,
+    "commText": "<p><b>6:25 pm</b>: That brings up to the weather forecast tonight. Fortunately for RCB, the actual weather hasn't mirrored the forecast and we could see a full match if we're lucky enough. Two days back, the meteorological department suggested 'Orange Alert' which threatened nothing but a washout. It was downgraded to 'Yellow Alert' yesterday and it hasn't actually rained in several parts of Bengaluru today. But the weather in this city is always fickle and the home team will hope for a complete game.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716036919366,
+    "commText": "<p>If we do have a match, we should have a cracking encounter. It could also be the last time that Virat Kohli squares up against MS Dhoni. Theoretically, it could also be Dinesh Karthik's last IPL game, unless RCB turn the margins over. A day of nostalgia at the Chinnaswamy? No wonder, tickets vanished as soon as they were opened on the RCB site. Here's <b>Kaushik Rangarajan's</b> soothing article on what it means for cricket tonight.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716036919376,
+    "commText": "<p><b>Pitch and conditions:</b> 60m square boundaries, 70m straight down the ground. There's not much grass on the surface, there are a few cracks and it looks mosaic, but the pitch is rock hard, reckons Deep Dasgupta. Doesn't have that extra moisture like the last game played here. There will be runs scored. Hasn't rained much since yesterday barring the occasional drizzle.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716037949705,
+    "commText": "<p><b>More from Kaushik</b>: Faf du Plessis has called up the entire squad and the management for the team huddle. On the other end, Shivam Dube and Daryl Mitchell are having a long stint with the ball in their hands.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716038421522,
+    "commText": "<p><b>Rachin Ravindra</b> - It's going to be incredible, hopefully, the rain stays away and we can put up a show for our fans. The atmosphere has been electric here at the Chinnaswamy. Just keep your feet on the ground and take it as it comes. Amazing to be part of CSK, amazing players and the management, the support staff, they've kind, I haven't had the greatest run, have seen the ups and downs. To share the dressing room with the likes of Dhoni, Jaddu and the incredible overseas players, it's been a learning experience. It's important to find your own experience because every journey is different, the things you learn are very useful. Siraj is a threat with the new ball, they've been on a run of 5 straight wins, RCB are a very good team, but hopefully we can continue our work and stop them.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716038421532,
+    "commText": "<p><b>Dinesh Karthik:</b> As a sportsman these are the kind of games you live and die for literally. The tournament is on the line for us, weather permitting, we have to put up a good show. I think this has been one of those journeys people will remember for decades. After losing seven out of their first eight games (RCB) are in this position, there's still a lot of work to do though. We play against a solid team, but what a journey this has been. Three weeks can turn around your fortunes. We are trying to hunt down a side that has done really well in the tournament. We had nothing to lose a few games ago but now we know the value of pushing and recreating it again and again. There are a formidable and balanced side. The way they play their cricket, one of the most successful sides in this league. They come good in big games, it's a great challenge for us. The way we (RCB) have played in the last five games is pretty symbolic of what RCB is capable of. Playing some good cricket, big names, playing some high octane cricket, great to be a part of it. I will remember this journey for a long time. Every year there's going to be a team at the halfway stage almost where we were. I am wishing that we take one step forward. I think it's RCB's turn to do something special.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716039057051,
+    "commText": "<p><b>Chennai Super Kings have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716039248679,
+    "commText": "<p><b>Ruturaj Gaikwad</b> - We'll bowl first. The wicket looks good, conditions are overcast and we will look to make the most of the movement in the first 2-3 overs. It looks a bit damp, but we'll go with great intent. Every game in the IPL is must win, nothing changes for us, we'll take it ball-by-ball, try and win the small processes. We've won some crucial games to go ahead of the pack in the middle. Just one change - Moeen isn't available, Santner replaces him.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716039270007,
+    "commText": "<p><b>Faf du Plessis</b> - We would have fielded as well, but we put up a good score\u00a0when we batted first last. Losing the toss isn't ideal, but we'll take a lot of confidence from the last 5 games. The set-up is great, last match\u00a0before the knockout stage, the scenario is nicely set up and we're happy to play our last league game\u00a0in front of our fans. Not thinking a lot, we'll take it as it comes and do our best.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716039343482,
+    "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Rachin Ravindra, Ruturaj Gaikwad(c), Daryl Mitchell, Ajinkya Rahane, Ravindra Jadeja, MS Dhoni(w), Mitchell Santner, Shardul Thakur, Tushar Deshpande, Simarjeet Singh, Maheesh Theekshana</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716039389725,
+    "commText": "<p><b>Royal Challengers Bengaluru</b> (Playing XI): Faf du Plessis(c), Virat Kohli, Glenn Maxwell, Rajat Patidar, Cameron Green, Mahipal Lomror, Dinesh Karthik(w), Karn Sharma, Yash Dayal, Lockie Ferguson, Mohammed Siraj</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716039391433,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716039568239,
+    "commText": "<p><b>Chennai Super Kings Impact Subs:</b> Shivam Dube, Sameer Rizvi , Prashant Solanki, Shaik Rasheed, Mukesh Choudhary</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716039606438,
+    "commText": "<p><b>Royal Challengers Bengaluru Impact Subs:</b> Swapnil Singh, Anuj Rawat, Suyash Prabhudessai, Vijaykumar Vyshak, Himanshu Sharma</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716039644260,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716039644270,
+    "commText": "<p>Faf du Plessis said same team at the toss, but Will Jacks is back in England and he's replaced by Glenn Maxwell. He's slated to take Jacks's number 3 slot as well, not sure if that'll happen. Swapnil Singh has been named as part of the impact sub, it could be either him / Vyshak Vijaykumar. For CSK, Shivam Dube is on the bench and should walk in as the impact sub.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716039933915,
+    "commText": "<p>Right, RCB are batting first and the equation is straightforward. Win by a margin of 18 runs or more to ensure that their NRR goes above that of their derby neighbours. Keeping the task in mind, we've made a change to our pre-toss expert XI. Have a look before you lock in your fantasy picks.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716040666070,
+    "commText": "<p>The umpires are out in the middle, they're followed by the players and we're ready to go. Match 68 and we should know our final playoff team in around 4 hours. Tushar Deshpande to start for CSK - a slip in place</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

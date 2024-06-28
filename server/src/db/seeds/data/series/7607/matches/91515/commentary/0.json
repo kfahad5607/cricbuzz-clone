@@ -1,398 +1,8 @@
 [
   {
-    "timestamp": 1713967051447,
-    "commText": "<p>The umpires are out in the middle and we're set for action. With no Warner, it'll be Jake Fraser-McGurk opening with Prithvi Shaw. Omarzai to start for the Titans</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713966107445,
-    "commText": "<p>Gujarat Titans have named Sai Sudharsan in their impact sub list and he'll certainly be in action for the 2nd innings. DC did name Sumit Kumar as a replacement for Lalit Yadav, but both do find a place in the impact list. We've made one change to our pre-toss expert XI, have a look before you lock in your fantasy XI</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713965935195,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713965909946,
-    "commText": "<p><b>Delhi Capitals Impact Subs: </b>Sumit Kumar, Rasikh Dar Salam, Kumar Kushagra, Praveen Dubey, Lalit Yadav</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713965869610,
-    "commText": "<p><b>Gujarat Titans Impact Subs: </b>Sharath BR, Sai Sudharsan, Manav Suthar, Darshan Nalkande, Vijay Shankar</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713965799248,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713965798091,
-    "commText": "<p><b>Delhi Capitals</b> (Playing XI): Prithvi Shaw, Jake Fraser-McGurk, Abishek Porel, Shai Hope, Rishabh Pant(w/c), Tristan Stubbs, Axar Patel, Kuldeep Yadav, Anrich Nortje, Khaleel Ahmed, Mukesh Kumar</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713965748754,
-    "commText": "<p><b>Gujarat Titans</b> (Playing XI): Wriddhiman Saha(w), Shubman Gill(c), David Miller, Azmatullah Omarzai, Rahul Tewatia, Shahrukh Khan, Rashid Khan, Ravisrinivasan Sai Kishore, Noor Ahmad, Mohit Sharma, Sandeep Warrier</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713965670143,
-    "commText": "<p><b>Rishabh Pant</b> - It's a good toss to lose, we would have batted first anyway. We just spoke at keeping things simple, just doing what we can do for a longer period of time. This wicket looks a bit slower than the last game, dew plays a big factor here, there was no dew last time, hopefully it'll not be there tonight as well. Two changes - David Warner sits out and Hope replaces him, Sumit Kumar replaces Lalit Yadav</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713965656567,
-    "commText": "<p><b>Shubman Gill</b> - We will bowl\u00a0first. Looks like a good wicket, we've been chasing well in the last couple of games. Means a lot to me (on playing 100 IPL matches), have come a long way, still a long way to go, but the focus is on today's match. It's cricket, there'll always be ups and downs, you want to play the way you're good at. We're playing the same side.\u00a0</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713965458786,
-    "commText": "<p><b>Gujarat Titans have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713965104933,
-    "commText": "<p>Shubman Gill is playing his <b>100th IPL game</b> and he gets a plaque from his Gujarat franchise, claps all around the camp and they'll hope that he makes thisa big night for himself and his team</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713964862302,
-    "commText": "<p><b>Shahrukh Khan -</b> Last match was the first time I was in the proper XI, Rahul Tewatia was our hero, I did hit one six off Rabada, I wanted to stay till the end, but I'm happy that we won the game. T20 is all about impact performances, there are players who take the team ahead, my role is to create as much impact as I can to the team. I cannot prepare for any situation, at 3, you know that you can go out to bat in the first 8-10 overs, but at my position, you don't know how many balls you'll get, it could be just 1 or 2, so you'll have to react to the situation, be calculative and help the team go past the line. Really good (on his time with Gujarat Titans), everyone knows about Ashish Nehra, he calls the shots here, watching from outside (when he wasn't part of the franchise), I admired how he handled situations. He lets us be relaxed and not stress ourselves, it's a chilled atmosphere in the team</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713964855369,
-    "commText": "<p><b>Tristan Stubbs:</b> It\u2019s been really enjoyable to contribute to the team. The wickets have been really good and some are batting like it\u2019s a Playstation game. It\u2019s all about keeping up with them. I always like trying to take the game on. At the moment, the scores have been on a whole different level. You have to express yourself and take risks or good options. If you get a good powerplay, you can literally just go for the next 14 overs with an extra batter in the lineup. There\u2019s no more opportunity to play yourself in, I think that\u2019s been the biggest movement. We got to go and win this game, we\u2019ve put ourselves in a position where we have to win almost every game. We\u2019re going to come out fighting, try and take every opportunity that comes.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713964285684,
-    "commText": "<p>SRH put up a record breaking 125 runs during the batting PP in the last game at this venue, but that was on pitch number 4, we've moved across to pitch number 5 for today's game. 63m and 62m square boundaries while the straight boundary is at 72m. The pitch in the last game was completely different to what's been the case here. The grass seems to be patchy, there has been dry grass and it has been rolled, but there are some bare areas as well. It could be two paced with the spinners getting a bit of help in the first innings, but this pitch looks very good, very well rolled and should play nicely, opine <b>Deep Dasgupta and Natalie Germanos</b>, in their pitch report</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713963007598,
-    "commText": "<p><b>18:20 Local Time, 12:50 GMT, 18:20 IST:</b> : We're slowly getting into the business end of the tournament and each and every game starts to make a splash on the table. As it stands, today's game becomes important in the context of getting out of the mid-table congestion. Rajasthan Royals all but have one foot in the playoffs and they're looking destined to take up one of the top-2 places. But the rest of the table looks clogged for you, you can probably discount the Royal Challengers at the moment, but the rest of the teams do stand a chance to make it to the top-4. Tonight's game is between the Delhi Capitals and the Gujarat Titans, two teams whose fortunes have been wildly fluctuating. The Capitals' return to Delhi wasn't an occasion to remember as they were brutalized by Travis Head & co, but they're still not too far away from the rest of the group, despite being down at number 8. On the other hand, the Titans can join KKR, SRH and LSG on 10 points (but having played at least one extra game) with a win tonight. The Titans haven't won back-to-back games this season, the Capitals have done so only once. Inconsistent and scratchy so far, but with time running out, both teams will need to lift themselves up if they're to stay in the hunt for a playoff spot.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713881823197,
-    "commText": "<p><b>Preview</b> by <b>Gokul Gopal:</b> \\n \\nFrom bowling the opposition out for 89 to being torn apart for 266 runs, the Delhi Capitals have been at two extremes. Not just these two games, but the season itself has been a bumpy ride for the Capitals who'll be seeking to put a stop to the inconsistency that has relegated them to the bottom half of the table. But despite the hammering they received at the hands of Sunrisers Hyderabad in their first game at the Arun Jaitley Stadium, they can seek solace from the fact that their opponents on Wednesday - Gujarat Titans - are the very team against whom DC came up with a commanding bowling display. \\n \\nAmong the positives for DC has been the arrival of Jake Fraser-McGurk who has struck two fifties in three games, including the fastest half-century for the Delhi team in the IPL and the joint third-fastest overall. They'd also like to reflect on their batting in the previous game, especially the way SRH's managed to apply the brakes on DC despite their bright start in the chase. \\n \\n\"We've got to give credit to Sunrisers last game, they adjusted really well with their bowling. If you look back at the game, whenever they had the spinners on, we were right in the game, we were scoring really quickly. They changed it up, went back to their faster bowlers, they used the slower-ball bouncers really well. Natarajan was good with his bouncers and yorkers. They decided to try and close the game early rather than trying to stretch the game and have the better bowlers at the end,\" said head coach Ricky Ponting. \\n \\nThat's something the likes of Khaleel Ahmed, Mukesh Kumar and Anrich Nortje can use as a reference and come up with a renewed plan of attack. The spinners have been really good for DC with Kuldeep Yadav delivering the strikes and Axar Patel tying one end up. But they'll want the pacemen to step up. \\n \\nMeanwhile, the Titans' hot and cold journey has culminated in four wins out of eight games so far and they find themselves just outside the top five. But looking at their recent matches, apart from the batting collapse against DC, they have done reasonably well. They are the only side to defeat Rajasthan Royals and they also overcame Punjab Kings. But apart from Shubman Gill and Sai Sudharsan in the top order and important contributions from Rahul Tewatia and Rashid Khan with the bat in the lower middle order, the Titans have struggled with their batting balance. \\n \\nThe middle order batters (Nos. 4, 5 and 6) have scored a combined 334 runs for the Titans, which is the least among all teams in this IPL. The Titans also have the lowest run-rate (8.03) among all sides, have hit the least sixes (29), have only two individual fifty-plus scores (the joint second least) and are one of two sides who are yet to cross the 200-run mark this season (LSG being the other team). On a positive note, GT have taken the most wickets in the powerplay this season (15 wickets) and their spinners have had the most success among all teams (19 wickets) - DC is second with 18 - and they'll be eager to keep those positions intact while seeking a boost with their batting. \\n \\n<b>When:</b> Delhi Capitals vs Gujarat Titans, Wednesday, April 24 at 19:30 IST \\n \\n<b>Where:</b> Arun Jaitley Stadium, Delhi \\n \\n<b>What to expect:</b> A high-scoring encounter, going by what transpired in the previous match here. A brief but heavy spell of showers disrupted the practice sessions for a while a day before the match but when the teams resumed, range and power-hitting was the first order of business for both teams. Expect more of that on match day. \\n \\n<b>Head to head:</b> 2-2. DC's two wins both came in Ahmedabad while they lost once each in Pune and Delhi. \\n \\n<b>Teams watch:</b> \\n \\n<b>Delhi Capitals</b> \\n \\n<b>Injuries/Availability:</b> Apart from the unavailability of Mitchell Marsh, DC also missed Ishant Sharma in the previous game as he suffered back spasm just before the match. Ishant was present during training on Tuesday, sprinting for a while, throwing the medicine ball around and having a chat with physio Patrick Farhart. The update is that he is being assessed and a call on his participation will be taken closer to the game. \\n \\n<b>Tactics & Matchups:</b> Khaleel Ahmed has had success against left-handers in this IPL, picking up five wickets, and he'll be a good option against the likes of Sai Sudharsan, David Miller and Rahul Tewatia. Between them, Nortje and Khaleel have dismissed Gill five times while the left-arm seamer has also accounted for Shahrukh Khan three times in 10 deliveries. Despite the unusual matchup, Axar Patel has dismissed Tewatia two times in 16 deliveries and has conceded only 13 runs. \\n \\n<b>Probable XI:</b> Prithvi Shaw, David Warner, Jake Fraser-McGurk, Rishabh Pant (c & wk), Tristan Stubbs, Axar Patel, Lalit Yadav, Kuldeep Yadav, Anrich Nortje, Khaleel Ahmed, Mukesh Kumar. [Impact sub: Abishek Porel] \\n \\n<b>Gujarat Titans</b> \\n \\n<b>Injuries/Availability:</b> The Titans do not have any injury concerns at the moment. \\n \\n<b>Tactics & Matchups:</b> Tristan Stubbs has scored well against the pacers this season - 108 runs at a strike rate of 174.19 - and GT might look at using their spin options more against him. Rashid Khan and Mohit Sharma have good numbers against DC - 21 and 14 wickets respectively - and GT will be banking on them to deliver more success. \\n \\n<b>Probable XI:</b> Wriddhiman Saha (wk), Shubman Gill (c), Sai Sudharsan, David Miller, Azmatullah Omarzai, Shahrukh Khan, Rahul Tewatia, Rashid Khan, R Sai Kishore, Noor Ahmad, Mohit Sharma. [Impact sub: Sandeep Warrier] \\n \\n<b>Did you know?</b> \\n \\n- Since IPl 2023, Delhi Capitals have lost 43 wickets in the powerplay, which is the most for any team. Punjab Kings are second with 42 \\n \\n- Gujarat Titans have the lowest run-rate in the powerplay this season (7.62). The combination of Wriddhiman Saha and Shubman Gill hasn't worked too well for GT this season. They have batted in six opening partnerships and their highest stand is 36 \\n \\n- The Delhi Capitals pacers have a collective economy rate of 10.75, the highest among all teams in this IPL \\n \\n<b>What they said</b> \\n \\n\"Abhishek has played number three for us on occasions in this tournament. He's a potential star of the future. He's learning every day but he's got a touch of class. I think with this impact model, you've got to be prepared to bat anywhere between 3 and 8. He batted nine for us against the Punjab Kings and played well. That goes to show that he was prepared\" - <b>Ricky Ponting</b> effusive in his praise for <b>Abishek Porel</b>.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713881823187,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1713881724677,
+    "commText": "<p><b>Delhi Capitals</b> Squad: David Warner, Jake Fraser-McGurk, Abishek Porel, Rishabh Pant(w/c), Tristan Stubbs, Axar Patel, Lalit Yadav, Kuldeep Yadav, Anrich Nortje, Khaleel Ahmed, Mukesh Kumar, Prithvi Shaw, Shai Hope, Praveen Dubey, Rasikh Dar Salam, Sumit Kumar, Kumar Kushagra, Yash Dhull, Vicky Ostwal, Swastik Chikara, Jhye Richardson, Ricky Bhui, Lizaad Williams, Ishant Sharma</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -416,6 +26,7 @@
   {
     "timestamp": 1713881818856,
     "commText": "<p><b>Gujarat Titans</b> Squad: Wriddhiman Saha(w), Shubman Gill(c), David Miller, Azmatullah Omarzai, Shahrukh Khan, Rahul Tewatia, Rashid Khan, Ravisrinivasan Sai Kishore, Noor Ahmad, Sandeep Warrier, Mohit Sharma, Kane Williamson, Sai Sudharsan, Sharath BR, Manav Suthar, Vijay Shankar, Darshan Nalkande, Kartik Tyagi, Spencer Johnson, Sushant Mishra, Joshua Little, Abhinav Manohar, Jayant Yadav, Umesh Yadav, Matthew Wade</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -437,8 +48,417 @@
     }
   },
   {
-    "timestamp": 1713881724677,
-    "commText": "<p><b>Delhi Capitals</b> Squad: David Warner, Jake Fraser-McGurk, Abishek Porel, Rishabh Pant(w/c), Tristan Stubbs, Axar Patel, Lalit Yadav, Kuldeep Yadav, Anrich Nortje, Khaleel Ahmed, Mukesh Kumar, Prithvi Shaw, Shai Hope, Praveen Dubey, Rasikh Dar Salam, Sumit Kumar, Kumar Kushagra, Yash Dhull, Vicky Ostwal, Swastik Chikara, Jhye Richardson, Ricky Bhui, Lizaad Williams, Ishant Sharma</p>",
+    "timestamp": 1713881823187,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713881823197,
+    "commText": "<p><b>Preview</b> by <b>Gokul Gopal:</b> \\n \\nFrom bowling the opposition out for 89 to being torn apart for 266 runs, the Delhi Capitals have been at two extremes. Not just these two games, but the season itself has been a bumpy ride for the Capitals who'll be seeking to put a stop to the inconsistency that has relegated them to the bottom half of the table. But despite the hammering they received at the hands of Sunrisers Hyderabad in their first game at the Arun Jaitley Stadium, they can seek solace from the fact that their opponents on Wednesday - Gujarat Titans - are the very team against whom DC came up with a commanding bowling display. \\n \\nAmong the positives for DC has been the arrival of Jake Fraser-McGurk who has struck two fifties in three games, including the fastest half-century for the Delhi team in the IPL and the joint third-fastest overall. They'd also like to reflect on their batting in the previous game, especially the way SRH's managed to apply the brakes on DC despite their bright start in the chase. \\n \\n\"We've got to give credit to Sunrisers last game, they adjusted really well with their bowling. If you look back at the game, whenever they had the spinners on, we were right in the game, we were scoring really quickly. They changed it up, went back to their faster bowlers, they used the slower-ball bouncers really well. Natarajan was good with his bouncers and yorkers. They decided to try and close the game early rather than trying to stretch the game and have the better bowlers at the end,\" said head coach Ricky Ponting. \\n \\nThat's something the likes of Khaleel Ahmed, Mukesh Kumar and Anrich Nortje can use as a reference and come up with a renewed plan of attack. The spinners have been really good for DC with Kuldeep Yadav delivering the strikes and Axar Patel tying one end up. But they'll want the pacemen to step up. \\n \\nMeanwhile, the Titans' hot and cold journey has culminated in four wins out of eight games so far and they find themselves just outside the top five. But looking at their recent matches, apart from the batting collapse against DC, they have done reasonably well. They are the only side to defeat Rajasthan Royals and they also overcame Punjab Kings. But apart from Shubman Gill and Sai Sudharsan in the top order and important contributions from Rahul Tewatia and Rashid Khan with the bat in the lower middle order, the Titans have struggled with their batting balance. \\n \\nThe middle order batters (Nos. 4, 5 and 6) have scored a combined 334 runs for the Titans, which is the least among all teams in this IPL. The Titans also have the lowest run-rate (8.03) among all sides, have hit the least sixes (29), have only two individual fifty-plus scores (the joint second least) and are one of two sides who are yet to cross the 200-run mark this season (LSG being the other team). On a positive note, GT have taken the most wickets in the powerplay this season (15 wickets) and their spinners have had the most success among all teams (19 wickets) - DC is second with 18 - and they'll be eager to keep those positions intact while seeking a boost with their batting. \\n \\n<b>When:</b> Delhi Capitals vs Gujarat Titans, Wednesday, April 24 at 19:30 IST \\n \\n<b>Where:</b> Arun Jaitley Stadium, Delhi \\n \\n<b>What to expect:</b> A high-scoring encounter, going by what transpired in the previous match here. A brief but heavy spell of showers disrupted the practice sessions for a while a day before the match but when the teams resumed, range and power-hitting was the first order of business for both teams. Expect more of that on match day. \\n \\n<b>Head to head:</b> 2-2. DC's two wins both came in Ahmedabad while they lost once each in Pune and Delhi. \\n \\n<b>Teams watch:</b> \\n \\n<b>Delhi Capitals</b> \\n \\n<b>Injuries/Availability:</b> Apart from the unavailability of Mitchell Marsh, DC also missed Ishant Sharma in the previous game as he suffered back spasm just before the match. Ishant was present during training on Tuesday, sprinting for a while, throwing the medicine ball around and having a chat with physio Patrick Farhart. The update is that he is being assessed and a call on his participation will be taken closer to the game. \\n \\n<b>Tactics & Matchups:</b> Khaleel Ahmed has had success against left-handers in this IPL, picking up five wickets, and he'll be a good option against the likes of Sai Sudharsan, David Miller and Rahul Tewatia. Between them, Nortje and Khaleel have dismissed Gill five times while the left-arm seamer has also accounted for Shahrukh Khan three times in 10 deliveries. Despite the unusual matchup, Axar Patel has dismissed Tewatia two times in 16 deliveries and has conceded only 13 runs. \\n \\n<b>Probable XI:</b> Prithvi Shaw, David Warner, Jake Fraser-McGurk, Rishabh Pant (c & wk), Tristan Stubbs, Axar Patel, Lalit Yadav, Kuldeep Yadav, Anrich Nortje, Khaleel Ahmed, Mukesh Kumar. [Impact sub: Abishek Porel] \\n \\n<b>Gujarat Titans</b> \\n \\n<b>Injuries/Availability:</b> The Titans do not have any injury concerns at the moment. \\n \\n<b>Tactics & Matchups:</b> Tristan Stubbs has scored well against the pacers this season - 108 runs at a strike rate of 174.19 - and GT might look at using their spin options more against him. Rashid Khan and Mohit Sharma have good numbers against DC - 21 and 14 wickets respectively - and GT will be banking on them to deliver more success. \\n \\n<b>Probable XI:</b> Wriddhiman Saha (wk), Shubman Gill (c), Sai Sudharsan, David Miller, Azmatullah Omarzai, Shahrukh Khan, Rahul Tewatia, Rashid Khan, R Sai Kishore, Noor Ahmad, Mohit Sharma. [Impact sub: Sandeep Warrier] \\n \\n<b>Did you know?</b> \\n \\n- Since IPl 2023, Delhi Capitals have lost 43 wickets in the powerplay, which is the most for any team. Punjab Kings are second with 42 \\n \\n- Gujarat Titans have the lowest run-rate in the powerplay this season (7.62). The combination of Wriddhiman Saha and Shubman Gill hasn't worked too well for GT this season. They have batted in six opening partnerships and their highest stand is 36 \\n \\n- The Delhi Capitals pacers have a collective economy rate of 10.75, the highest among all teams in this IPL \\n \\n<b>What they said</b> \\n \\n\"Abhishek has played number three for us on occasions in this tournament. He's a potential star of the future. He's learning every day but he's got a touch of class. I think with this impact model, you've got to be prepared to bat anywhere between 3 and 8. He batted nine for us against the Punjab Kings and played well. That goes to show that he was prepared\" - <b>Ricky Ponting</b> effusive in his praise for <b>Abishek Porel</b>.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713963007598,
+    "commText": "<p><b>18:20 Local Time, 12:50 GMT, 18:20 IST:</b> : We're slowly getting into the business end of the tournament and each and every game starts to make a splash on the table. As it stands, today's game becomes important in the context of getting out of the mid-table congestion. Rajasthan Royals all but have one foot in the playoffs and they're looking destined to take up one of the top-2 places. But the rest of the table looks clogged for you, you can probably discount the Royal Challengers at the moment, but the rest of the teams do stand a chance to make it to the top-4. Tonight's game is between the Delhi Capitals and the Gujarat Titans, two teams whose fortunes have been wildly fluctuating. The Capitals' return to Delhi wasn't an occasion to remember as they were brutalized by Travis Head & co, but they're still not too far away from the rest of the group, despite being down at number 8. On the other hand, the Titans can join KKR, SRH and LSG on 10 points (but having played at least one extra game) with a win tonight. The Titans haven't won back-to-back games this season, the Capitals have done so only once. Inconsistent and scratchy so far, but with time running out, both teams will need to lift themselves up if they're to stay in the hunt for a playoff spot.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713964285684,
+    "commText": "<p>SRH put up a record breaking 125 runs during the batting PP in the last game at this venue, but that was on pitch number 4, we've moved across to pitch number 5 for today's game. 63m and 62m square boundaries while the straight boundary is at 72m. The pitch in the last game was completely different to what's been the case here. The grass seems to be patchy, there has been dry grass and it has been rolled, but there are some bare areas as well. It could be two paced with the spinners getting a bit of help in the first innings, but this pitch looks very good, very well rolled and should play nicely, opine <b>Deep Dasgupta and Natalie Germanos</b>, in their pitch report</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713964855369,
+    "commText": "<p><b>Tristan Stubbs:</b> It\u2019s been really enjoyable to contribute to the team. The wickets have been really good and some are batting like it\u2019s a Playstation game. It\u2019s all about keeping up with them. I always like trying to take the game on. At the moment, the scores have been on a whole different level. You have to express yourself and take risks or good options. If you get a good powerplay, you can literally just go for the next 14 overs with an extra batter in the lineup. There\u2019s no more opportunity to play yourself in, I think that\u2019s been the biggest movement. We got to go and win this game, we\u2019ve put ourselves in a position where we have to win almost every game. We\u2019re going to come out fighting, try and take every opportunity that comes.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713964862302,
+    "commText": "<p><b>Shahrukh Khan -</b> Last match was the first time I was in the proper XI, Rahul Tewatia was our hero, I did hit one six off Rabada, I wanted to stay till the end, but I'm happy that we won the game. T20 is all about impact performances, there are players who take the team ahead, my role is to create as much impact as I can to the team. I cannot prepare for any situation, at 3, you know that you can go out to bat in the first 8-10 overs, but at my position, you don't know how many balls you'll get, it could be just 1 or 2, so you'll have to react to the situation, be calculative and help the team go past the line. Really good (on his time with Gujarat Titans), everyone knows about Ashish Nehra, he calls the shots here, watching from outside (when he wasn't part of the franchise), I admired how he handled situations. He lets us be relaxed and not stress ourselves, it's a chilled atmosphere in the team</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713965104933,
+    "commText": "<p>Shubman Gill is playing his <b>100th IPL game</b> and he gets a plaque from his Gujarat franchise, claps all around the camp and they'll hope that he makes thisa big night for himself and his team</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713965458786,
+    "commText": "<p><b>Gujarat Titans have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713965656567,
+    "commText": "<p><b>Shubman Gill</b> - We will bowl\u00a0first. Looks like a good wicket, we've been chasing well in the last couple of games. Means a lot to me (on playing 100 IPL matches), have come a long way, still a long way to go, but the focus is on today's match. It's cricket, there'll always be ups and downs, you want to play the way you're good at. We're playing the same side.\u00a0</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713965670143,
+    "commText": "<p><b>Rishabh Pant</b> - It's a good toss to lose, we would have batted first anyway. We just spoke at keeping things simple, just doing what we can do for a longer period of time. This wicket looks a bit slower than the last game, dew plays a big factor here, there was no dew last time, hopefully it'll not be there tonight as well. Two changes - David Warner sits out and Hope replaces him, Sumit Kumar replaces Lalit Yadav</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713965748754,
+    "commText": "<p><b>Gujarat Titans</b> (Playing XI): Wriddhiman Saha(w), Shubman Gill(c), David Miller, Azmatullah Omarzai, Rahul Tewatia, Shahrukh Khan, Rashid Khan, Ravisrinivasan Sai Kishore, Noor Ahmad, Mohit Sharma, Sandeep Warrier</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713965798091,
+    "commText": "<p><b>Delhi Capitals</b> (Playing XI): Prithvi Shaw, Jake Fraser-McGurk, Abishek Porel, Shai Hope, Rishabh Pant(w/c), Tristan Stubbs, Axar Patel, Kuldeep Yadav, Anrich Nortje, Khaleel Ahmed, Mukesh Kumar</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713965799248,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713965869610,
+    "commText": "<p><b>Gujarat Titans Impact Subs: </b>Sharath BR, Sai Sudharsan, Manav Suthar, Darshan Nalkande, Vijay Shankar</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713965909946,
+    "commText": "<p><b>Delhi Capitals Impact Subs: </b>Sumit Kumar, Rasikh Dar Salam, Kumar Kushagra, Praveen Dubey, Lalit Yadav</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713965935195,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713966107445,
+    "commText": "<p>Gujarat Titans have named Sai Sudharsan in their impact sub list and he'll certainly be in action for the 2nd innings. DC did name Sumit Kumar as a replacement for Lalit Yadav, but both do find a place in the impact list. We've made one change to our pre-toss expert XI, have a look before you lock in your fantasy XI</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713967051447,
+    "commText": "<p>The umpires are out in the middle and we're set for action. With no Warner, it'll be Jake Fraser-McGurk opening with Prithvi Shaw. Omarzai to start for the Titans</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

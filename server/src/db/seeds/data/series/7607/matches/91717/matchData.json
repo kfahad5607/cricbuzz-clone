@@ -1,0 +1,15 @@
+{
+  "matchId": "91717",
+  "innings": {},
+  "state": "abandon",
+  "status": "",
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 63
+  },
+  "results": {
+    "resultType": "abandon",
+    "winByRuns": false,
+    "winByInnings": false
+  }
+}

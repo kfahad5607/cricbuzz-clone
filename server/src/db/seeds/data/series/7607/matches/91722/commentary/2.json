@@ -1,7 +1,8 @@
 [
   {
-    "timestamp": 1716313737737,
-    "commText": "<p>That brings an end to our first playoff game of IPL 2024. Proved to be a one-sided affair in the end, but KKR fans won't mind it. They move one step closer to lifting that trophy. Been 10 long years since the Knights last won that title. It's not the end of SRH's journey though as they will face the winner of tomorrow's game in Qualifier 2. Expecting the Eliminator (<b>RR v RCB</b>) game to be much more exciting than tonight's clash. RCB have been on a roll and have won six games on the trot. Will they make it 7 in a row against Rajasthan Royals? We shall find out tomorrow. For now, it's goodbye from <b>Nikhil, Raju, Abhinav</b> and <b>Siva</b>. Peace out!</p>",
+    "timestamp": 1716307352472,
+    "commText": "<p><b>Gurbaz and Narine are at the crease. Gurbaz is on strike. Bhuvneshwar will open the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -23,21 +24,22 @@
     }
   },
   {
-    "timestamp": 1716313240663,
-    "commText": "<p><b>Mitchell Starc | Player of the Match:</b> We know how important the powerplay is. These were the two sides who have dominated in the powerplay with the bat. We needed to pick early wickets and get into their middle-order. The way Head and Abhishek have been playing thoughout the tournament, they like width and free their arms. We just tried to swing the ball and not provide them width. Bowl stump to stump and tried the hard length. The spinners were effective and the whole bowling department was great. Got lucky I guess (on taking Head's wicket), was nice to see his back early, not always the case. We have been playing against each other in recent times. They (Arora and Harshit) are exciting to watch and are talented, they are skillful. It's good to see how hard they train. Harshit has been phenomenal this year. Our bowling attack has been great, it's hard to single anyone out. As an older and overseas player, it's good to see. No doubt they'll take many wickets in the IPL and for India as well.</p>",
-    "overs": 0,
+    "timestamp": 1716307355920,
+    "commText": "<p> Bhuvneshwar to Gurbaz, no run, Gurbaz walks down the track first ball to negate the swing and plays the fullish ball with soft hands towards short mid-wicket </p>",
+    "ballNbr": 1,
+    "overs": 0.1,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
+      "id": 13213,
       "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
+      "id": 1726,
+      "bowlOvers": 0.1,
       "bowlMaidens": 0,
       "bowlRuns": 0,
       "bowlWickets": 0,
@@ -46,451 +48,120 @@
     }
   },
   {
-    "timestamp": 1716313020166,
-    "commText": "<p><b>Shreyas Iyer | KKR skipper:</b> Elated by the performance, the responsibility was important, we stood up for each other, extremely happy with the performances. The rejuvenation was important for us. When you travel so much. It's important to stay in the present. Today was the day we had to maximise, we did it and that's what we thrive on. I think the way every bowler stood up to this occasion, the way they came in and took wickets, that was imperative. The attitude and approach of all bowlers was to take wickets and they did. When you have a variety in the bowling line-up, it's mesmerising. They have been true in terms of their work ethics, hopefully we keep performing. It was Gurbaz's first game and he gave an impactful start. We had to make sure we carry forward the same run rate. I don't know tamil, but I understand. Venky speaks in tamil, I reply in hindi (talking about the communication between him and Venkatesh Iyer). We need to be in our zone in the final and make sure we give our best.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716312278797,
-    "commText": "<p><b>Stats round-up by Shashikant Singh</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716312278787,
-    "commText": "<p><b>DYK:</b> Since 2018, the team that won Qualifier 1 went onto win the IPL trophy every single time.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716312278777,
-    "commText": "<p><b>Most 50-plus scores as a captain in playoffs</b> \\n2 - MS Dhoni \\n2 - Rohit Sharma \\n2 - David Warner \\n2 - Shreyas Iyer*</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716312278767,
-    "commText": "<p><b>Most appearances in the IPL final</b> \\n10 - CSK \\n6 - MI \\n4 - KKR* \\n3 - RCB</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716312278757,
-    "commText": "<p><b>Highest partnership for KKR in playoffs</b> \\n136 - M Bisla & J Kallis vs CSK, Chennai, 2012 \\n97* - Shreyas Iyer & V Iyer vs SRH, Ahmedabad, 2024* \\n96 - Shubman Gill & V Iyer vs DC, Sharjah, 2021</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716312278747,
-    "commText": "<p><b>Venkatesh Iyer's scores in playoffs</b> \\n26 (30) vs RCB, Sharjah, 2021 \\n55 (41) vs DC, Sharjah, 2021 \\n50 (32) vs CSK, Dubai, 2021 \\n51* (28) vs SRH, Ahmedabad, 2024*</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716312278737,
-    "commText": "<p><b>Winning with the most balls to spare in IPL (160+ targets)</b> \\n62 - SRH vs LSG, Hyderabad, 2024 (Target: 166) \\n38 - KKR vs SRH, Ahmedabad, 2024 (Target: 160) \\n34 - KKR vs SRH, Kolkata, 2014 (Target: 161) \\n32 - MI vs RR, Wankhede, 2014 (Target: 190)</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716312278707,
-    "commText": "<p><b> Venkatesh Iyer:</b> More than the confidence I was really wanting to go out and bat, we last played a game on 11th, so we all were eager to go out and showcase our talent. The wicket was really good, credit goes to our bowlers for bowling them out for 160 odd. In a tournament like this, momentum is really important, we have seen that with RCB winning their matches continuously and gaining the momentum even we wanted that momentum, so we wanted to go out and wanted the rain to stop but it was disappointing. But, we were the table toppers and we have got a lot of support from the management, credit to the owners, SRK and Jay sir were also there tonight to support us. It is always special for players like us to play in the IPL final, it\u2019s a dreamy moment for us, going to Chennai and looking forward to it. We have a realistic chance to win the trophy now. We were raring to go out there, when you have the momentum you want to really go out there. You saw Rinku fielding in hotspots and taking those catches. It\u2019s the excitement we have to go out there and perform.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716312278697,
-    "commText": "<p><b>Pat Cummins | SRH skipper:</b> Yeah we will try to put this behind quickly, good thing we will have a crack at it (second qualifier). You have those days in T20 cricket where things doesn't quite work out. We weren't where we wanted with the bat and obviously couldn't do much with the ball. Felt that extra batting was important (picking the impact sub) on this wicket. Thought KKR bowled really well, there was a little bit in it early on and the surface got better. We all have played enough cricket, and going to a new venue (Chennai) helps us as well, so we gotta keep this behind and move on.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716311796967,
-    "commText": "<p><b>22:46 Local Time, 17:16 GMT, 22:46 IST:</b> 2012. 2014. 2021. 2024. KKR set to play their fourth final in the history of IPL. They finished the league stage as the number 1 team and they have played like the best team of the season tonight. Couldn't have been anymore convincing. Mitchell Starc got the Knights off to a dream start by dismissing Head for a duck and he bowled a magnificent spell in the powerplay to reduce SRH to 39/4. Tripathi and Klaasen added some pivotal runs, however, the KKR bowlers choked them in the middle overs as Sunrisers finished with a mediocre total. In reply, the KKR openers gave a perfect start, while the two Iyers (Shreyas and Venkatesh) finished off the run chase with an excellent partnership for the third wicket. Head who had a great outing here in the final of 2023 World Cup had a horrible game tonight. Was dismissed for a duck earlier in the evening and was smashed all around the park by Shreyas towards the end.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716311648112,
-    "commText": "<p>Head to Shreyas Iyer, <b>SIX</b>, <b>Kolkata Knight Riders book a place in the final with a convincing 8-wicket win!</b> A tossed up delivery and Shreyas Iyer launches it over long-on to draw curtains to the game. <b>Clinical win!</b> The players are quick to exchange handshakes</p>",
-    "overs": 13.4,
+    "timestamp": 1716307381504,
+    "commText": "<p> Bhuvneshwar to Gurbaz, <b>FOUR</b>, lovely shot! Pitched up outside off, swinging away, Gurbaz leans into it and essays a lovely drive through covers to get the desired result. Good way to get off the mark </p>",
+    "ballNbr": 2,
+    "overs": 0.2,
     "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 58,
-      "ballsPlayed": 24,
-      "dotBalls": 2,
-      "batFours": 5,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 8497,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 32,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716311610392,
-    "commText": "<p> Head to Shreyas Iyer, <b>SIX</b>, this is carnage by the KKR skipper. Tossed up delivery on leg and Shreyas Iyer has smashed it over deep mid-wicket for half-a-dozen more. Head getting a taste of his own medicine </p>",
-    "overs": 13.3,
-    "events": [
-      "FIFTY",
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 52,
-      "ballsPlayed": 23,
-      "dotBalls": 2,
-      "batFours": 5,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 8497,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 26,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716311585531,
-    "commText": "<p> Head to Shreyas Iyer, <b>FOUR</b>, spanks this away to the deep mid-wicket fence as Head bowls a loosener. <b>150 up for KKR!</b> </p>",
-    "overs": 13.2,
-    "events": [
-      "TEAM_HUNDRED",
       "FOUR"
     ],
     "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 46,
-      "ballsPlayed": 22,
-      "dotBalls": 2,
-      "batFours": 5,
-      "batSixes": 2
+      "id": 13213,
+      "batRuns": 4,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8497,
-      "bowlOvers": 1.2,
+      "id": 1726,
+      "bowlOvers": 0.2,
       "bowlMaidens": 0,
-      "bowlRuns": 20,
+      "bowlRuns": 4,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716311564854,
-    "commText": "<p> Head to Shreyas Iyer, <b>SIX</b>, Shreyas Iyer doesn't hold back either. A tossed up delivery on leg and Shreyas Iyer has swiped this over deep mid-wicket for half-a-dozen </p>",
-    "overs": 13.1,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 42,
-      "ballsPlayed": 21,
-      "dotBalls": 2,
-      "batFours": 4,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 8497,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716311500427,
-    "commText": "<p> Nitish Reddy to Venkatesh Iyer, <b>SIX</b>, <b>Venkatesh Iyer brings up his fifty with a maximum!</b> What a fantastic knock this has been. Clearly the best knock of this game. Nails it over deep mid-wicket for half-a-dozen </p>",
-    "overs": 13,
-    "events": [
-      "OVER_BREAK",
-      "FIFTY",
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 51,
-      "ballsPlayed": 28,
-      "dotBalls": 12,
-      "batFours": 5,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 14701,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716311463988,
-    "commText": "<p> Nitish Reddy to Venkatesh Iyer, no run, played back to the bowler by Venkatesh Iyer </p>",
-    "overs": 12.5,
+    "timestamp": 1716307414295,
+    "commText": "<p> Bhuvneshwar to Gurbaz, no run, 137.8kph full length ball swinging in from outside off, Gurbaz leans ahead and blocks it down the track </p>",
+    "ballNbr": 3,
+    "overs": 0.3,
     "events": [],
     "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 45,
-      "ballsPlayed": 27,
-      "dotBalls": 12,
-      "batFours": 5,
-      "batSixes": 3
+      "id": 13213,
+      "batRuns": 4,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 14701,
-      "bowlOvers": 0.5,
+      "id": 1726,
+      "bowlOvers": 0.3,
       "bowlMaidens": 0,
-      "bowlRuns": 7,
+      "bowlRuns": 4,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716311436206,
-    "commText": "<p> Nitish Reddy to Shreyas Iyer, 1 run, drifting on the pads, Shreyas Iyer flicks it through the on-side for a single </p>",
-    "overs": 12.4,
+    "timestamp": 1716307417295,
+    "commText": "<p>Klaasen is standing up to the stumps now</p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 36,
-      "ballsPlayed": 20,
-      "dotBalls": 2,
-      "batFours": 4,
-      "batSixes": 1
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 14701,
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716307463225,
+    "commText": "<p> Bhuvneshwar to Gurbaz, no run, length ball outside off, some nibble in the air, Gurbaz goes for an expansive drive and misses. The ball deflects off Klaasen's gloves and carries to first slip. There's a slight appeal but there wasn't any wood involved </p>",
+    "ballNbr": 4,
+    "overs": 0.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13213,
+      "batRuns": 4,
+      "ballsPlayed": 4,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1726,
       "bowlOvers": 0.4,
       "bowlMaidens": 0,
-      "bowlRuns": 7,
+      "bowlRuns": 4,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716311392223,
-    "commText": "<p> Nitish Reddy to Shreyas Iyer, <b>FOUR</b>, another rollicking boundary by the skipper. Nitish Reddy goes short and Shreyas Iyer nails the pull through backward square leg, away to the fence at the rate of knots </p>",
-    "overs": 12.3,
-    "events": [
-      "FOUR"
-    ],
+    "timestamp": 1716307498726,
+    "commText": "<p> Bhuvneshwar to Gurbaz, 2 runs, full ball outside off, swinging away, Gurbaz opens his bat-face to place it past point and comes back for the second run </p>",
+    "ballNbr": 5,
+    "overs": 0.5,
+    "events": [],
     "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 35,
-      "ballsPlayed": 19,
-      "dotBalls": 2,
-      "batFours": 4,
-      "batSixes": 1
+      "id": 13213,
+      "batRuns": 6,
+      "ballsPlayed": 5,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 14701,
-      "bowlOvers": 0.3,
+      "id": 1726,
+      "bowlOvers": 0.5,
       "bowlMaidens": 0,
       "bowlRuns": 6,
       "bowlWickets": 0,
@@ -499,31 +170,9 @@
     }
   },
   {
-    "timestamp": 1716311356587,
-    "commText": "<p> Nitish Reddy to Venkatesh Iyer, 1 run, drilled to long-on as the bowler goes full </p>",
-    "overs": 12.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 45,
-      "ballsPlayed": 26,
-      "dotBalls": 11,
-      "batFours": 5,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 14701,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716311319618,
-    "commText": "<p><b>DYK:</b> SRH's spinners have taken just 13 wickets which is the least among all the teams whereas KKR's spinners took 36 wickets (the most among all the teams) so for this season.</p>",
+    "timestamp": 1716307501726,
+    "commText": "<p>Klaasen goes back to his original position</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -545,43 +194,47 @@
     }
   },
   {
-    "timestamp": 1716311319608,
-    "commText": "<p> Nitish Reddy to Shreyas Iyer, 1 run, back of a length on off, Shreyas Iyer steers it to third man with soft hands for a single </p>",
-    "overs": 12.1,
-    "events": [],
+    "timestamp": 1716307550466,
+    "commText": "<p> Bhuvneshwar to Gurbaz, no run, full ball outside off, swinging away a touch, Gurbaz leans into it and drives it crisply to extra cover </p>",
+    "ballNbr": 6,
+    "overs": 1,
+    "events": [
+      "OVER_BREAK"
+    ],
     "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 31,
-      "ballsPlayed": 18,
-      "dotBalls": 2,
-      "batFours": 3,
-      "batSixes": 1
+      "id": 13213,
+      "batRuns": 6,
+      "ballsPlayed": 6,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 14701,
-      "bowlOvers": 0.1,
+      "id": 1726,
+      "bowlOvers": 1,
       "bowlMaidens": 0,
-      "bowlRuns": 1,
+      "bowlRuns": 6,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716311316360,
-    "commText": "<p><b>Nitish Reddy, right-arm fast medium, comes into the attack</b></p>",
+    "timestamp": 1716307633637,
+    "commText": "<p><b>Pat Cummins, right-arm fast, comes into the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 30,
-      "ballsPlayed": 17,
+      "id": 2276,
+      "batRuns": 0,
+      "ballsPlayed": 0,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8497,
+      "id": 1726,
       "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
@@ -591,70 +244,124 @@
     }
   },
   {
-    "timestamp": 1716311219948,
-    "commText": "<p> Head to Venkatesh Iyer, no run, pushed down the wicket by Venkatesh Iyer </p>",
-    "overs": 12,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 44,
-      "ballsPlayed": 25,
-      "dotBalls": 11,
-      "batFours": 5,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 8497,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716311218363,
-    "commText": "<p> Head to Shreyas Iyer, 1 run, worked towards the on-side by Shreyas Iyer for a single </p>",
-    "overs": 11.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 30,
-      "ballsPlayed": 17,
-      "dotBalls": 2,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8497,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716311153339,
-    "commText": "<p> Head to Shreyas Iyer, <b>FOUR</b>, easy pickings! Down the leg-side as Shreyas Iyer paddles this away to the fine leg boundary, runs coming thick and fast </p>",
-    "overs": 11.4,
+    "timestamp": 1716307636907,
+    "commText": "<p> Cummins to Narine, <b>FOUR</b>, Narine gets off the mark in style! Pitched up around off, right in Narine's eyeline and he loves it there. He clears his front leg and smashes it over the leaping fielder at mid-off to find the fence </p>",
+    "ballNbr": 7,
+    "overs": 1.1,
     "events": [
       "FOUR"
     ],
     "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 29,
-      "ballsPlayed": 16,
-      "dotBalls": 2,
-      "batFours": 3,
-      "batSixes": 1
+      "id": 2276,
+      "batRuns": 4,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8497,
+      "id": 8095,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716307663829,
+    "commText": "<p> Cummins to Narine, <b>FOUR</b>, not the correct length to bowl to Narine. Straighter this time and it's full again. In the slot for Narine and he heaves it past the left side of mid-on to pick up another boundary </p>",
+    "ballNbr": 8,
+    "overs": 1.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 8,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716307713483,
+    "commText": "<p> Cummins to Narine, 1 run, in the air... but safe! Better from Cummins this time as he gets Narine into an uncomfortable position with a leg-stump bouncer. He top-edges the pull but it falls short of the fielder running in from deep square leg </p>",
+    "ballNbr": 9,
+    "overs": 1.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 9,
+      "ballsPlayed": 3,
+      "dotBalls": 0,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716307716483,
+    "commText": "<p><b>DRS!</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716307852623,
+    "commText": "<p> Cummins to Gurbaz, leg byes, <b>FOUR</b>, to fine leg, Cummins takes a review for lbw after getting a nod from Klaasen. Was a length ball that seamed in from off, Gurbaz moved inside the line and looked to work it across but the ball deflected off his pads and went past Klaasen. Time for the replays. Over to ball-tracking and it's missing the leg-stump. <b>SRH lose a review</b> </p>",
+    "ballNbr": 10,
+    "overs": 1.4,
+    "events": [
+      "FOUR",
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 13213,
+      "batRuns": 6,
+      "ballsPlayed": 7,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8095,
       "bowlOvers": 0.4,
       "bowlMaidens": 0,
       "bowlRuns": 9,
@@ -664,85 +371,911 @@
     }
   },
   {
-    "timestamp": 1716311118175,
-    "commText": "<p> Head to Venkatesh Iyer, 1 run, goes for the reverse sweep, doesn't middle it though, a single taken towards the off-side </p>",
-    "overs": 11.3,
-    "events": [],
+    "timestamp": 1716307899546,
+    "commText": "<p> Cummins to Gurbaz, <b>SIX</b>, Gurbaz swings and gets lucky! He dances down the track and looks to slog across the line to the back of a length delivery. Ends up getting a big top-edge and away she flies over the third man fence for a flat maxiimum </p>",
+    "ballNbr": 11,
+    "overs": 1.5,
+    "events": [
+      "SIX"
+    ],
     "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 44,
-      "ballsPlayed": 24,
-      "dotBalls": 10,
-      "batFours": 5,
-      "batSixes": 3
+      "id": 13213,
+      "batRuns": 12,
+      "ballsPlayed": 8,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 8497,
-      "bowlOvers": 0.3,
+      "id": 8095,
+      "bowlOvers": 0.5,
       "bowlMaidens": 0,
-      "bowlRuns": 5,
+      "bowlRuns": 15,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716311093243,
-    "commText": "<p> Head to Venkatesh Iyer, no run, outside off, nicely tossed up as Venkatesh Iyer gets beaten as the ball turns a bit </p>",
-    "overs": 11.2,
+    "timestamp": 1716307937768,
+    "commText": "<p> Cummins to Gurbaz, <b>wide</b>, 140.5kph short of length ball shaping down leg, Gurbaz looks to glance it but misses. Wided </p>",
+    "ballNbr": 12,
+    "overs": 2,
     "events": [],
     "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 43,
-      "ballsPlayed": 23,
-      "dotBalls": 10,
-      "batFours": 5,
-      "batSixes": 3
+      "id": 13213,
+      "batRuns": 12,
+      "ballsPlayed": 8,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 8497,
+      "id": 8095,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716307970415,
+    "commText": "<p> Cummins to Gurbaz, no run, 140.8kph back of a length ball in the channel, Gurbaz taps it with an open bat-face to backward point </p>",
+    "ballNbr": 12,
+    "overs": 2,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 13213,
+      "batRuns": 12,
+      "ballsPlayed": 9,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716307976415,
+    "commText": "<p><b>DRS!</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308115724,
+    "commText": "<p> Bhuvneshwar to Narine, leg byes, <b>FOUR</b>, SRH take their second review for an lbw. Narine is the man in question. Was a fullish ball around the leg-stump, Narine looked to slog across the line and was struck on the back pad. No bat involved as the third umpire confirms. Over to ball-tracking and it has pitched outside leg. That puts the argument to bed. <b>SRH exhaust both their reviews</b> </p>",
+    "ballNbr": 13,
+    "overs": 2.1,
+    "events": [
+      "FOUR",
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 9,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308140387,
+    "commText": "<p> Bhuvneshwar to Narine, 1 run, fullish ball swinging in on middle, Narine mishits it towards long-on </p>",
+    "ballNbr": 14,
+    "overs": 2.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 10,
+      "ballsPlayed": 5,
+      "dotBalls": 1,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308200968,
+    "commText": "<p> Bhuvneshwar to Gurbaz, <b>SIX</b>, what a hit! Gurbaz once again shimmies down the track and gets close to the pitch of it. The connection is great as he tonks it over long-on for a big maximum </p>",
+    "ballNbr": 15,
+    "overs": 2.3,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 13213,
+      "batRuns": 18,
+      "ballsPlayed": 10,
+      "dotBalls": 6,
+      "batFours": 1,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308252956,
+    "commText": "<p>Bhuvneshwar to Gurbaz, <b>FOUR</b>, length ball angled in towards middle and leg, Gurbaz stays still and thumps it back over the leaping fielder at mid-on to his left</p>",
+    "ballNbr": 16,
+    "overs": 2.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13213,
+      "batRuns": 22,
+      "ballsPlayed": 11,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308307941,
+    "commText": "<p>Bhuvneshwar to Gurbaz, 1 run, slower back of a length delivery outside off, Gurbaz cuts to the left of backward point</p>",
+    "ballNbr": 17,
+    "overs": 2.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13213,
+      "batRuns": 23,
+      "ballsPlayed": 12,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308348607,
+    "commText": "<p>Bhuvneshwar to Narine, 2 runs, pitched up on the stumps, Narine clips it to the left of mid-wicket</p>",
+    "ballNbr": 18,
+    "overs": 3,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 12,
+      "ballsPlayed": 6,
+      "dotBalls": 1,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308426730,
+    "commText": "<p><b>T Natarajan, left-arm fast medium, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13213,
+      "batRuns": 23,
+      "ballsPlayed": 13,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308427480,
+    "commText": "<p> T Natarajan to Gurbaz, no run, short in length and outside off, Gurbaz plays a cut, connects thin air </p>",
+    "ballNbr": 19,
+    "overs": 3.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13213,
+      "batRuns": 23,
+      "ballsPlayed": 13,
+      "dotBalls": 7,
+      "batFours": 2,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308486416,
+    "commText": "<p> T Natarajan to Gurbaz, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13213,
+      "batRuns": 23,
+      "ballsPlayed": 13,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308489678,
+    "commText": "<p> T Natarajan to Gurbaz, <b>out</b> Caught by V Viyaskanth!! Natarajan strikes in his first over. Gurbaz shimmies down the wicket and slashes it straight to the fielder at cover. Taken comfortably by Viyaskanth and Gurbaz departs after playing a cameo. Just the breakthrough SRH were looking for. <b>Gurbaz c V Viyaskanth b T Natarajan 23(14) [4s-2 6s-2]</b> </p>",
+    "ballNbr": 20,
+    "overs": 3.2,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 13213,
+      "batRuns": 23,
+      "ballsPlayed": 14,
+      "dotBalls": 8,
+      "batFours": 2,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 10225,
       "bowlOvers": 0.2,
       "bowlMaidens": 0,
-      "bowlRuns": 4,
+      "bowlRuns": 0,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308559971,
+    "commText": "<p><b>Venkatesh Iyer, left handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716311069420,
-    "commText": "<p> Head to Venkatesh Iyer, <b>FOUR</b>, on the shorter side outside off, Venkatesh Iyer rocks back and carves it through backward point for four runs </p>",
-    "overs": 11.1,
+    "timestamp": 1716308565583,
+    "commText": "<p> T Natarajan to Venkatesh Iyer, <b>FOUR</b>, Venkatesh Iyer opens his account with a first ball boundary. Drifting on the pads and Venkatesh Iyer has glanced it away to the fine leg fence to get going. Natarajan looks utterly disappointed with himself </p>",
+    "ballNbr": 21,
+    "overs": 3.3,
     "events": [
       "FOUR"
     ],
     "batsmanStriker": {
       "id": 10917,
-      "batRuns": 43,
-      "ballsPlayed": 22,
-      "dotBalls": 9,
-      "batFours": 5,
-      "batSixes": 3
+      "batRuns": 4,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8497,
-      "bowlOvers": 0.1,
+      "id": 10225,
+      "bowlOvers": 0.3,
       "bowlMaidens": 0,
       "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308616996,
+    "commText": "<p> T Natarajan to Venkatesh Iyer, leg byes, 1 run, fired on leg, Venkatesh Iyer looks to work it away, gets hit on the pads as the ball rolls to the on-side </p>",
+    "ballNbr": 22,
+    "overs": 3.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 4,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308645055,
+    "commText": "<p> T Natarajan to Narine, no run, banged in short by Natarajan, Narine has a swing and a miss </p>",
+    "ballNbr": 23,
+    "overs": 3.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 12,
+      "ballsPlayed": 7,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308679087,
+    "commText": "<p> T Natarajan to Narine, no run, fired on leg, off the pads towards the off-side </p>",
+    "ballNbr": 24,
+    "overs": 4,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 12,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308679097,
+    "commText": "<p><b>Gurbaz's scores vs SRH</b> \\n0 (3) \\n0 (1) \\n23 (14)</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716311066711,
-    "commText": "<p><b>Travis Head, right-arm off break, comes into the attack</b></p>",
-    "overs": 0,
+    "timestamp": 1716308752020,
+    "commText": "<p> Bhuvneshwar to Venkatesh Iyer, no run, fullish ball in line of the stumps, Venkatesh Iyer leans ahead and pushes it to extra cover </p>",
+    "ballNbr": 25,
+    "overs": 4.1,
     "events": [],
     "batsmanStriker": {
       "id": 10917,
-      "batRuns": 39,
-      "ballsPlayed": 21,
+      "batRuns": 4,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308785235,
+    "commText": "<p> Bhuvneshwar to Venkatesh Iyer, <b>FOUR</b>, easy pickings! Fullish ball swinging towards the pads, Venkatesh Iyer glances it and the ball races to the fine leg fence </p>",
+    "ballNbr": 26,
+    "overs": 4.2,
+    "events": [
+      "TEAM_FIFTY",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 8,
+      "ballsPlayed": 4,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308819283,
+    "commText": "<p> Bhuvneshwar to Venkatesh Iyer, <b>FOUR</b>, shot! Venkatesh Iyer is showing intent from the start! He skips down the track, converts it into a half-volley and hits it over the mid-off fielder to get the desired result </p>",
+    "ballNbr": 27,
+    "overs": 4.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 12,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308865427,
+    "commText": "<p> Bhuvneshwar to Venkatesh Iyer, no run, well bowled! In the corridor of uncertainty, pitches and shapes away to square Venkatesh Iyer up. He pokes at it and is lucky not to nick it behind </p>",
+    "ballNbr": 28,
+    "overs": 4.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 12,
+      "ballsPlayed": 6,
+      "dotBalls": 3,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308902708,
+    "commText": "<p> Bhuvneshwar to Venkatesh Iyer, no run, a short ball on leg-stump, Venkatesh Iyer ducks under it awkwardly </p>",
+    "ballNbr": 29,
+    "overs": 4.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 12,
+      "ballsPlayed": 7,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308976091,
+    "commText": "<p> Bhuvneshwar to Venkatesh Iyer, no run, back of a length ball swinging away towards off-stump, Venkatesh Iyer is rooted to the crease and keeps it out tentatively </p>",
+    "ballNbr": 30,
+    "overs": 5,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 12,
+      "ballsPlayed": 8,
+      "dotBalls": 5,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1726,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716308976101,
+    "commText": "<p><b>Over summary (1-5)</b> \\n-> Bhuvneshwar Kumar bowls an economical first over \\n-> Cummins concedes 20 runs in his opening over \\n-> Gurbaz and Narine take on SRH bowlers \\n-> Natarajan strikes in his first over, Gurbaz is gone \\n-> Venky Iyer off to a positive start, KKR - 57/1 (5)</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309041892,
+    "commText": "<p> T Natarajan to Narine, no run, 135.1kph pitched up ball on off, Narine drives it straight to extra cover </p>",
+    "ballNbr": 31,
+    "overs": 5.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 12,
+      "ballsPlayed": 9,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309044892,
+    "commText": "<p>Looks like Narine has done some damage to his bat. A replacement will come in</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309168299,
+    "commText": "<p> T Natarajan to Narine, no run, a shortish ball that gets big on Narine. He looks to pull it across but is struck on the helmet. The physio comes in and a mandatory concussion check is being done </p>",
+    "ballNbr": 32,
+    "overs": 5.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 12,
+      "ballsPlayed": 10,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309245265,
+    "commText": "<p> T Natarajan to Narine, no run, a low full-toss swinging down leg, Narine looks to whip it away but is struck on the pads </p>",
+    "ballNbr": 33,
+    "overs": 5.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 12,
+      "ballsPlayed": 11,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309281103,
+    "commText": "<p> T Natarajan to Narine, no run, four dots in a row! Brilliant from Natarajan. A yorker length ball tailing in on middle, all Narine can do is dig it out down the track </p>",
+    "ballNbr": 34,
+    "overs": 5.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 12,
+      "ballsPlayed": 12,
+      "dotBalls": 7,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309324233,
+    "commText": "<p> T Natarajan to Narine, <b>wide</b>, 135.6kph bouncer on middle and leg, takes off after landing. Narine tries to hook it across half-heartedly and is beaten for pace. Wided by the square leg umpire for height </p>",
+    "ballNbr": 35,
+    "overs": 5.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 12,
+      "ballsPlayed": 12,
+      "dotBalls": 7,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309374671,
+    "commText": "<p> T Natarajan to Narine, <b>FOUR</b>, this boundary spoils the over somewhat! A back of a length ball angling in, this time it sits up nicely for him. He pulls it over mid-wicket and bisects long-on and deep mid-wicket to perfection </p>",
+    "ballNbr": 35,
+    "overs": 5.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 16,
+      "ballsPlayed": 13,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309420576,
+    "commText": "<p> T Natarajan to Narine, 1 run, a very full ball swinging in on middle, Narine clears his front leg and knocks it down to long-on to retain strike </p>",
+    "ballNbr": 36,
+    "overs": 6,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 17,
+      "ballsPlayed": 14,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309423576,
+    "commText": "<p><b>Time for the strategic break!</b> Gurbaz in particular gave KKR a strong start. He fell against the run of play but he has set the platform. KKR are placed comfortably at present. SRH need wickets to claw back into the contest</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309605997,
+    "commText": "<p><b>Pat Cummins [1.0-0-16-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 17,
+      "ballsPlayed": 14,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
@@ -758,8 +1291,901 @@
     }
   },
   {
+    "timestamp": 1716309657451,
+    "commText": "<p> Cummins to Narine, <b>FOUR</b>, just over the leaping keeper! A back of a length ball outside off, Narine throws his bat at it and gets a thick outside edge. Klaasen leaps to his left but it evades him and races through to the fence </p>",
+    "ballNbr": 37,
+    "overs": 6.1,
+    "events": [
+      "FOUR",
+      "DROPPED"
+    ],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 21,
+      "ballsPlayed": 15,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309709537,
+    "commText": "<p> Cummins to Narine, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309712501,
+    "commText": "<p>Cummins to Narine, <b>out</b> Caught by V Viyaskanth!! The short ball ploy has worked for Cummins & Co! Three fielders in the deep on the leg-side and Narine has picked out one of them. A shortish delivery in line of the stumps, Narine doesn't have much space to free his arms but goes through his pull shot. Hasn't got the power behind it as the ball flies towards deep mid-wicket. Viyaskanth stationed there takes it safely. <b>Narine c V Viyaskanth b Cummins 21(16) [4s-4]</b></p>",
+    "ballNbr": 38,
+    "overs": 6.2,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 21,
+      "ballsPlayed": 16,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309794316,
+    "commText": "<p><b>Shreyas Iyer, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309800759,
+    "commText": "<p> Cummins to Shreyas Iyer, 1 run, a back of a length ball outside off, Shreyas Iyer hops and places it past backward point to get off the mark </p>",
+    "ballNbr": 39,
+    "overs": 6.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 1,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309837123,
+    "commText": "<p> Cummins to Venkatesh Iyer, no run, Klaasen goes up in an appeal instantly but not much in it from Cummins! A short ball around off, Venkatesh Iyer arches back and tries to ramp it over the keeper but seems to have missed. The replay shows that there was clear gap between bat and ball </p>",
+    "ballNbr": 40,
+    "overs": 6.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 12,
+      "ballsPlayed": 9,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309874964,
+    "commText": "<p> Cummins to Venkatesh Iyer, <b>SIX</b>, great response from Venkatesh Iyer! He uses his feet and Cummins shortens his length a bit. Good extension of the arms from Venkatesh Iyer and he smashes it over mid-off for a boundary </p>",
+    "ballNbr": 41,
+    "overs": 6.5,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 18,
+      "ballsPlayed": 10,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309909246,
+    "commText": "<p> Cummins to Venkatesh Iyer, no run, a length ball outside off, played with an open bat-face to backward point </p>",
+    "ballNbr": 42,
+    "overs": 7,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 18,
+      "ballsPlayed": 11,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309909256,
+    "commText": "<p><b>Sunil Narine scores in Ahmedabad in IPL:</b> \\n0(4) vs PBKS, 2021 \\n0(1) vs DC, 2021 \\n0(1) vs GT, 2023 \\n21(16) vs SRH, 2024</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309909266,
+    "commText": "<p><b>Sunil Narine\u2019s last seven scores vs SRH</b> \\n0 (2) \\n6 (2) \\n1* (2) \\n0 (1) \\n1 (2) \\n2 (4) \\n21 (16) \\n- He scored just 129 runs at an average of 9.92 against SRH in the IPL</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716309999588,
+    "commText": "<p><b>Vijayakanth Viyaskanth, right-arm leg break, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 1,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310001914,
+    "commText": "<p> V Viyaskanth to Shreyas Iyer, 1 run, on the shorter side, Shreyas Iyer rocks back and pulls it through mid-wicket </p>",
+    "ballNbr": 43,
+    "overs": 7.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 2,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13931,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310031923,
+    "commText": "<p> V Viyaskanth to Venkatesh Iyer, <b>SIX</b>, <b>Venky Iyer on the charge!</b> Right into the slot on off, Venkatesh Iyer goes down on his knee and smokes it over deep mid-wicket for a clean six </p>",
+    "ballNbr": 44,
+    "overs": 7.2,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 24,
+      "ballsPlayed": 12,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 13931,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310075905,
+    "commText": "<p> V Viyaskanth to Venkatesh Iyer, 1 run, fraction short on middle and leg, Venkatesh Iyer pulls it through mid-wicket for a single </p>",
+    "ballNbr": 45,
+    "overs": 7.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 25,
+      "ballsPlayed": 13,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 13931,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310099730,
+    "commText": "<p> V Viyaskanth to Shreyas Iyer, 1 run, leg-break on off, Shreyas Iyer stays put and eases it into the off-side for a single </p>",
+    "ballNbr": 46,
+    "overs": 7.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 3,
+      "ballsPlayed": 3,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13931,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310123456,
+    "commText": "<p> V Viyaskanth to Venkatesh Iyer, 1 run, quicker through the air on off, Venkatesh Iyer knocks it down the wicket to long-off </p>",
+    "ballNbr": 47,
+    "overs": 7.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 26,
+      "ballsPlayed": 14,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 13931,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310144993,
+    "commText": "<p> V Viyaskanth to Shreyas Iyer, 1 run, googly on middle and leg, nudged to long-on with soft hands </p>",
+    "ballNbr": 48,
+    "overs": 8,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 4,
+      "ballsPlayed": 4,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13931,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 11,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310230049,
+    "commText": "<p> Cummins to Shreyas Iyer, 1 run, banged in short on off, Shreyas Iyer rides the bounce and steers it to third man for a single </p>",
+    "ballNbr": 49,
+    "overs": 8.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 5,
+      "ballsPlayed": 5,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310262636,
+    "commText": "<p>Cummins to Venkatesh Iyer, <b>FOUR</b>, <b>equation down to 70 off 70.</b> Just a run-a-ball from this point. Venkatesh Iyer walks across in the crease, makes room and pulls the short ball over mid-wicket as the ball races away to the fence</p>",
+    "ballNbr": 50,
+    "overs": 8.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 30,
+      "ballsPlayed": 15,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310296432,
+    "commText": "<p> Cummins to Venkatesh Iyer, no run, yorker length delivery on off, Venkatesh Iyer squeezes it into the off-side </p>",
+    "ballNbr": 51,
+    "overs": 8.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 30,
+      "ballsPlayed": 16,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310329397,
+    "commText": "<p> Cummins to Venkatesh Iyer, 1 run, follows the batter on leg, doesn't provide any room. Venkatesh Iyer drags it to long leg and takes a single </p>",
+    "ballNbr": 52,
+    "overs": 8.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 31,
+      "ballsPlayed": 17,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 33,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310371738,
+    "commText": "<p> Cummins to Shreyas Iyer, <b>FOUR</b>, <b>Shreyas Iyer joins the act!</b> Short ball outside off, Shreyas Iyer carves this away to the square third man fence. Used the pace and put it away by placing it into the gap </p>",
+    "ballNbr": 53,
+    "overs": 8.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 9,
+      "ballsPlayed": 6,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 37,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310409628,
+    "commText": "<p> Cummins to Shreyas Iyer, 1 run, banged in short by Cummins, Shreyas Iyer goes for a pull, gets a top edge towards square leg, just a single </p>",
+    "ballNbr": 54,
+    "overs": 9,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 10,
+      "ballsPlayed": 7,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8095,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 38,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310489449,
+    "commText": "<p> V Viyaskanth to Shreyas Iyer, no run, shouts of catch it, but not taken. Shreyas Iyer was trying to play the scoop and it came right off the face. Hits Klaasen on the body and lobs towards the on-side. It was a fantastic effort by Klaasen to move to his left and take it on the second attempt, however, <b>the ball popped out</b> due to his collision with Rahul Tripathi who was also charging towards the ball. Klaasen clearly annoyed with Tripathi on that occasion </p>",
+    "ballNbr": 55,
+    "overs": 9.1,
+    "events": [
+      "DROPPED"
+    ],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 10,
+      "ballsPlayed": 8,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13931,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 11,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310566099,
+    "commText": "<p> V Viyaskanth to Shreyas Iyer, 1 run, plays this down the ground for a single </p>",
+    "ballNbr": 56,
+    "overs": 9.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 11,
+      "ballsPlayed": 9,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13931,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310590499,
+    "commText": "<p> V Viyaskanth to Venkatesh Iyer, 1 run, down the wicket to drive this to long-on for a single </p>",
+    "ballNbr": 57,
+    "overs": 9.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 32,
+      "ballsPlayed": 18,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 13931,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310620163,
+    "commText": "<p> V Viyaskanth to Shreyas Iyer, 2 runs, <b>100 up for KKR</b> as Shreyas Iyer clips this towards the on-side for a couple of runs </p>",
+    "ballNbr": 58,
+    "overs": 9.4,
+    "events": [
+      "TEAM_HUNDRED"
+    ],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 13,
+      "ballsPlayed": 10,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13931,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310641061,
+    "commText": "<p> V Viyaskanth to Shreyas Iyer, 1 run, Viyaskanth goes full on off, Shreyas Iyer drives it through the off-side for a single </p>",
+    "ballNbr": 59,
+    "overs": 9.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 14,
+      "ballsPlayed": 11,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13931,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310668269,
+    "commText": "<p> V Viyaskanth to Venkatesh Iyer, <b>SIX</b>, Venkatesh Iyer wants to get done with this quickly. He's wasting no time, playing with authority and confidence. This was fraction short and Venkatesh Iyer rocks back in the crease and hammers the pull over deep mid-wicket for a flat six </p>",
+    "ballNbr": 60,
+    "overs": 10,
+    "events": [
+      "OVER_BREAK",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 38,
+      "ballsPlayed": 19,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 13931,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310762252,
+    "commText": "<p><b>T Natarajan [2.0-0-10-1] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 14,
+      "ballsPlayed": 11,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13931,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310762263,
+    "commText": "<p><b>Over summary (6-10)</b> \\n-> Natarajan bowls another tight over \\n-> Cummins concedes 11 off his 2nd over \\n-> Venkatesh welcomes Viyaskanth with a massive six \\n-> A collision leads to a drop catch of Shreyas Iyer \\n-> Venkatesh continues to score runs freely \\n-> 50 runs are scored in this phase of play</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310764883,
+    "commText": "<p> T Natarajan to Shreyas Iyer, no run, <b>dropped by Head at point!</b> Shreyas Iyer had sliced this away and Head puts down a regulation chance. You won't get such easy chances </p>",
+    "ballNbr": 61,
+    "overs": 10.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 14,
+      "ballsPlayed": 12,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310801460,
+    "commText": "<p> T Natarajan to Shreyas Iyer, <b>SIX</b>, <b>insult to injury!</b> This was pitched up by Natarajan and Shreyas Iyer lofts it over long-off for a well timed six. Sunrisers look down and out </p>",
+    "ballNbr": 62,
+    "overs": 10.2,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 20,
+      "ballsPlayed": 13,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310852982,
+    "commText": "<p> T Natarajan to Shreyas Iyer, 1 run, short of a length around off, Shreyas Iyer steers it to third man for a single </p>",
+    "ballNbr": 63,
+    "overs": 10.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 21,
+      "ballsPlayed": 14,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310898524,
+    "commText": "<p> T Natarajan to Venkatesh Iyer, no run, on a length around middle and leg, nudged to mid-on by Venkatesh Iyer </p>",
+    "ballNbr": 64,
+    "overs": 10.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 38,
+      "ballsPlayed": 20,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716310934484,
+    "commText": "<p> T Natarajan to Venkatesh Iyer, 1 run, pitched up by the bowler, Venkatesh Iyer drives it to mid-on for a single. A direct-hit at the keeper's end but the batter was in </p>",
+    "ballNbr": 65,
+    "overs": 10.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 39,
+      "ballsPlayed": 21,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 10225,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
     "timestamp": 1716310983068,
     "commText": "<p> T Natarajan to Shreyas Iyer, <b>FOUR</b>, banged in short by T Natarajan, Shreyas Iyer arches back and guides it away to the third man fence. KKR rapidly hunting this down as the 50-run stand comes up </p>",
+    "ballNbr": 66,
     "overs": 11,
     "events": [
       "OVER_BREAK",
@@ -785,137 +2211,21 @@
     }
   },
   {
-    "timestamp": 1716310934484,
-    "commText": "<p> T Natarajan to Venkatesh Iyer, 1 run, pitched up by the bowler, Venkatesh Iyer drives it to mid-on for a single. A direct-hit at the keeper's end but the batter was in </p>",
-    "overs": 10.5,
+    "timestamp": 1716311066711,
+    "commText": "<p><b>Travis Head, right-arm off break, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
       "id": 10917,
       "batRuns": 39,
       "ballsPlayed": 21,
-      "dotBalls": 9,
-      "batFours": 4,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 18,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310898524,
-    "commText": "<p> T Natarajan to Venkatesh Iyer, no run, on a length around middle and leg, nudged to mid-on by Venkatesh Iyer </p>",
-    "overs": 10.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 38,
-      "ballsPlayed": 20,
-      "dotBalls": 9,
-      "batFours": 4,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310852982,
-    "commText": "<p> T Natarajan to Shreyas Iyer, 1 run, short of a length around off, Shreyas Iyer steers it to third man for a single </p>",
-    "overs": 10.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 21,
-      "ballsPlayed": 14,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310801460,
-    "commText": "<p> T Natarajan to Shreyas Iyer, <b>SIX</b>, <b>insult to injury!</b> This was pitched up by Natarajan and Shreyas Iyer lofts it over long-off for a well timed six. Sunrisers look down and out </p>",
-    "overs": 10.2,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 20,
-      "ballsPlayed": 13,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310764883,
-    "commText": "<p> T Natarajan to Shreyas Iyer, no run, <b>dropped by Head at point!</b> Shreyas Iyer had sliced this away and Head puts down a regulation chance. You won't get such easy chances </p>",
-    "overs": 10.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 14,
-      "ballsPlayed": 12,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310762263,
-    "commText": "<p><b>Over summary (6-10)</b> \\n-> Natarajan bowls another tight over \\n-> Cummins concedes 11 off his 2nd over \\n-> Venkatesh welcomes Viyaskanth with a massive six \\n-> A collision leads to a drop catch of Shreyas Iyer \\n-> Venkatesh continues to score runs freely \\n-> 50 runs are scored in this phase of play</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 0,
+      "id": 10225,
       "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
@@ -925,380 +2235,97 @@
     }
   },
   {
-    "timestamp": 1716310762252,
-    "commText": "<p><b>T Natarajan [2.0-0-10-1] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 14,
-      "ballsPlayed": 11,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13931,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310668269,
-    "commText": "<p> V Viyaskanth to Venkatesh Iyer, <b>SIX</b>, Venkatesh Iyer wants to get done with this quickly. He's wasting no time, playing with authority and confidence. This was fraction short and Venkatesh Iyer rocks back in the crease and hammers the pull over deep mid-wicket for a flat six </p>",
-    "overs": 10,
+    "timestamp": 1716311069420,
+    "commText": "<p> Head to Venkatesh Iyer, <b>FOUR</b>, on the shorter side outside off, Venkatesh Iyer rocks back and carves it through backward point for four runs </p>",
+    "ballNbr": 67,
+    "overs": 11.1,
     "events": [
-      "OVER_BREAK",
-      "SIX"
+      "FOUR"
     ],
     "batsmanStriker": {
       "id": 10917,
-      "batRuns": 38,
-      "ballsPlayed": 19,
-      "dotBalls": 8,
-      "batFours": 4,
+      "batRuns": 43,
+      "ballsPlayed": 22,
+      "dotBalls": 9,
+      "batFours": 5,
       "batSixes": 3
     },
     "bowlerStriker": {
-      "id": 13931,
-      "bowlOvers": 2,
+      "id": 8497,
+      "bowlOvers": 0.1,
       "bowlMaidens": 0,
-      "bowlRuns": 22,
+      "bowlRuns": 4,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716310641061,
-    "commText": "<p> V Viyaskanth to Shreyas Iyer, 1 run, Viyaskanth goes full on off, Shreyas Iyer drives it through the off-side for a single </p>",
-    "overs": 9.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 14,
-      "ballsPlayed": 11,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13931,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310620163,
-    "commText": "<p> V Viyaskanth to Shreyas Iyer, 2 runs, <b>100 up for KKR</b> as Shreyas Iyer clips this towards the on-side for a couple of runs </p>",
-    "overs": 9.4,
-    "events": [
-      "TEAM_HUNDRED"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 13,
-      "ballsPlayed": 10,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13931,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310590499,
-    "commText": "<p> V Viyaskanth to Venkatesh Iyer, 1 run, down the wicket to drive this to long-on for a single </p>",
-    "overs": 9.3,
+    "timestamp": 1716311093243,
+    "commText": "<p> Head to Venkatesh Iyer, no run, outside off, nicely tossed up as Venkatesh Iyer gets beaten as the ball turns a bit </p>",
+    "ballNbr": 68,
+    "overs": 11.2,
     "events": [],
     "batsmanStriker": {
       "id": 10917,
-      "batRuns": 32,
-      "ballsPlayed": 18,
-      "dotBalls": 8,
-      "batFours": 4,
-      "batSixes": 2
+      "batRuns": 43,
+      "ballsPlayed": 23,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 3
     },
     "bowlerStriker": {
-      "id": 13931,
-      "bowlOvers": 1.3,
+      "id": 8497,
+      "bowlOvers": 0.2,
       "bowlMaidens": 0,
-      "bowlRuns": 13,
+      "bowlRuns": 4,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716310566099,
-    "commText": "<p> V Viyaskanth to Shreyas Iyer, 1 run, plays this down the ground for a single </p>",
-    "overs": 9.2,
+    "timestamp": 1716311118175,
+    "commText": "<p> Head to Venkatesh Iyer, 1 run, goes for the reverse sweep, doesn't middle it though, a single taken towards the off-side </p>",
+    "ballNbr": 69,
+    "overs": 11.3,
     "events": [],
     "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 11,
-      "ballsPlayed": 9,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
+      "id": 10917,
+      "batRuns": 44,
+      "ballsPlayed": 24,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 3
     },
     "bowlerStriker": {
-      "id": 13931,
-      "bowlOvers": 1.2,
+      "id": 8497,
+      "bowlOvers": 0.3,
       "bowlMaidens": 0,
-      "bowlRuns": 12,
+      "bowlRuns": 5,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716310489449,
-    "commText": "<p> V Viyaskanth to Shreyas Iyer, no run, shouts of catch it, but not taken. Shreyas Iyer was trying to play the scoop and it came right off the face. Hits Klaasen on the body and lobs towards the on-side. It was a fantastic effort by Klaasen to move to his left and take it on the second attempt, however, <b>the ball popped out</b> due to his collision with Rahul Tripathi who was also charging towards the ball. Klaasen clearly annoyed with Tripathi on that occasion </p>",
-    "overs": 9.1,
-    "events": [
-      "DROPPED"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 10,
-      "ballsPlayed": 8,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13931,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 11,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310409628,
-    "commText": "<p> Cummins to Shreyas Iyer, 1 run, banged in short by Cummins, Shreyas Iyer goes for a pull, gets a top edge towards square leg, just a single </p>",
-    "overs": 9,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 10,
-      "ballsPlayed": 7,
-      "dotBalls": 0,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 38,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310371738,
-    "commText": "<p> Cummins to Shreyas Iyer, <b>FOUR</b>, <b>Shreyas Iyer joins the act!</b> Short ball outside off, Shreyas Iyer carves this away to the square third man fence. Used the pace and put it away by placing it into the gap </p>",
-    "overs": 8.5,
+    "timestamp": 1716311153339,
+    "commText": "<p> Head to Shreyas Iyer, <b>FOUR</b>, easy pickings! Down the leg-side as Shreyas Iyer paddles this away to the fine leg boundary, runs coming thick and fast </p>",
+    "ballNbr": 70,
+    "overs": 11.4,
     "events": [
       "FOUR"
     ],
     "batsmanStriker": {
       "id": 9428,
-      "batRuns": 9,
-      "ballsPlayed": 6,
-      "dotBalls": 0,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 37,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310329397,
-    "commText": "<p> Cummins to Venkatesh Iyer, 1 run, follows the batter on leg, doesn't provide any room. Venkatesh Iyer drags it to long leg and takes a single </p>",
-    "overs": 8.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 31,
-      "ballsPlayed": 17,
-      "dotBalls": 8,
-      "batFours": 4,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 33,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310296432,
-    "commText": "<p> Cummins to Venkatesh Iyer, no run, yorker length delivery on off, Venkatesh Iyer squeezes it into the off-side </p>",
-    "overs": 8.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 30,
+      "batRuns": 29,
       "ballsPlayed": 16,
-      "dotBalls": 8,
-      "batFours": 4,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 32,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310262636,
-    "commText": "<p>Cummins to Venkatesh Iyer, <b>FOUR</b>, <b>equation down to 70 off 70.</b> Just a run-a-ball from this point. Venkatesh Iyer walks across in the crease, makes room and pulls the short ball over mid-wicket as the ball races away to the fence</p>",
-    "overs": 8.2,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 30,
-      "ballsPlayed": 15,
-      "dotBalls": 7,
-      "batFours": 4,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 32,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310230049,
-    "commText": "<p> Cummins to Shreyas Iyer, 1 run, banged in short on off, Shreyas Iyer rides the bounce and steers it to third man for a single </p>",
-    "overs": 8.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 5,
-      "ballsPlayed": 5,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310144993,
-    "commText": "<p> V Viyaskanth to Shreyas Iyer, 1 run, googly on middle and leg, nudged to long-on with soft hands </p>",
-    "overs": 8,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 4,
-      "ballsPlayed": 4,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13931,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 11,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310123456,
-    "commText": "<p> V Viyaskanth to Venkatesh Iyer, 1 run, quicker through the air on off, Venkatesh Iyer knocks it down the wicket to long-off </p>",
-    "overs": 7.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 26,
-      "ballsPlayed": 14,
-      "dotBalls": 7,
+      "dotBalls": 2,
       "batFours": 3,
-      "batSixes": 2
+      "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 13931,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310099730,
-    "commText": "<p> V Viyaskanth to Shreyas Iyer, 1 run, leg-break on off, Shreyas Iyer stays put and eases it into the off-side for a single </p>",
-    "overs": 7.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 3,
-      "ballsPlayed": 3,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13931,
+      "id": 8497,
       "bowlOvers": 0.4,
       "bowlMaidens": 0,
       "bowlRuns": 9,
@@ -1308,68 +2335,95 @@
     }
   },
   {
-    "timestamp": 1716310075905,
-    "commText": "<p> V Viyaskanth to Venkatesh Iyer, 1 run, fraction short on middle and leg, Venkatesh Iyer pulls it through mid-wicket for a single </p>",
-    "overs": 7.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 25,
-      "ballsPlayed": 13,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 13931,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310031923,
-    "commText": "<p> V Viyaskanth to Venkatesh Iyer, <b>SIX</b>, <b>Venky Iyer on the charge!</b> Right into the slot on off, Venkatesh Iyer goes down on his knee and smokes it over deep mid-wicket for a clean six </p>",
-    "overs": 7.2,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 24,
-      "ballsPlayed": 12,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 13931,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716310001914,
-    "commText": "<p> V Viyaskanth to Shreyas Iyer, 1 run, on the shorter side, Shreyas Iyer rocks back and pulls it through mid-wicket </p>",
-    "overs": 7.1,
+    "timestamp": 1716311218363,
+    "commText": "<p> Head to Shreyas Iyer, 1 run, worked towards the on-side by Shreyas Iyer for a single </p>",
+    "ballNbr": 71,
+    "overs": 11.5,
     "events": [],
     "batsmanStriker": {
       "id": 9428,
-      "batRuns": 2,
-      "ballsPlayed": 2,
+      "batRuns": 30,
+      "ballsPlayed": 17,
+      "dotBalls": 2,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8497,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716311219948,
+    "commText": "<p> Head to Venkatesh Iyer, no run, pushed down the wicket by Venkatesh Iyer </p>",
+    "ballNbr": 72,
+    "overs": 12,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 44,
+      "ballsPlayed": 25,
+      "dotBalls": 11,
+      "batFours": 5,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 8497,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716311316360,
+    "commText": "<p><b>Nitish Reddy, right-arm fast medium, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 30,
+      "ballsPlayed": 17,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 13931,
+      "id": 8497,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716311319608,
+    "commText": "<p> Nitish Reddy to Shreyas Iyer, 1 run, back of a length on off, Shreyas Iyer steers it to third man with soft hands for a single </p>",
+    "ballNbr": 73,
+    "overs": 12.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 31,
+      "ballsPlayed": 18,
+      "dotBalls": 2,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 14701,
       "bowlOvers": 0.1,
       "bowlMaidens": 0,
       "bowlRuns": 1,
@@ -1379,31 +2433,9 @@
     }
   },
   {
-    "timestamp": 1716309999588,
-    "commText": "<p><b>Vijayakanth Viyaskanth, right-arm leg break, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 1,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309909266,
-    "commText": "<p><b>Sunil Narine\u2019s last seven scores vs SRH</b> \\n0 (2) \\n6 (2) \\n1* (2) \\n0 (1) \\n1 (2) \\n2 (4) \\n21 (16) \\n- He scored just 129 runs at an average of 9.92 against SRH in the IPL</p>",
+    "timestamp": 1716311319618,
+    "commText": "<p><b>DYK:</b> SRH's spinners have taken just 13 wickets which is the least among all the teams whereas KKR's spinners took 36 wickets (the most among all the teams) so for this season.</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -1425,974 +2457,72 @@
     }
   },
   {
-    "timestamp": 1716309909256,
-    "commText": "<p><b>Sunil Narine scores in Ahmedabad in IPL:</b> \\n0(4) vs PBKS, 2021 \\n0(1) vs DC, 2021 \\n0(1) vs GT, 2023 \\n21(16) vs SRH, 2024</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309909246,
-    "commText": "<p> Cummins to Venkatesh Iyer, no run, a length ball outside off, played with an open bat-face to backward point </p>",
-    "overs": 7,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 18,
-      "ballsPlayed": 11,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 27,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309874964,
-    "commText": "<p> Cummins to Venkatesh Iyer, <b>SIX</b>, great response from Venkatesh Iyer! He uses his feet and Cummins shortens his length a bit. Good extension of the arms from Venkatesh Iyer and he smashes it over mid-off for a boundary </p>",
-    "overs": 6.5,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 18,
-      "ballsPlayed": 10,
-      "dotBalls": 6,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 27,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309837123,
-    "commText": "<p> Cummins to Venkatesh Iyer, no run, Klaasen goes up in an appeal instantly but not much in it from Cummins! A short ball around off, Venkatesh Iyer arches back and tries to ramp it over the keeper but seems to have missed. The replay shows that there was clear gap between bat and ball </p>",
-    "overs": 6.4,
+    "timestamp": 1716311356587,
+    "commText": "<p> Nitish Reddy to Venkatesh Iyer, 1 run, drilled to long-on as the bowler goes full </p>",
+    "ballNbr": 74,
+    "overs": 12.2,
     "events": [],
     "batsmanStriker": {
       "id": 10917,
-      "batRuns": 12,
-      "ballsPlayed": 9,
-      "dotBalls": 6,
-      "batFours": 3,
-      "batSixes": 0
+      "batRuns": 45,
+      "ballsPlayed": 26,
+      "dotBalls": 11,
+      "batFours": 5,
+      "batSixes": 3
     },
     "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309800759,
-    "commText": "<p> Cummins to Shreyas Iyer, 1 run, a back of a length ball outside off, Shreyas Iyer hops and places it past backward point to get off the mark </p>",
-    "overs": 6.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 1,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309794316,
-    "commText": "<p><b>Shreyas Iyer, right handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309712501,
-    "commText": "<p>Cummins to Narine, <b>out</b> Caught by V Viyaskanth!! The short ball ploy has worked for Cummins & Co! Three fielders in the deep on the leg-side and Narine has picked out one of them. A shortish delivery in line of the stumps, Narine doesn't have much space to free his arms but goes through his pull shot. Hasn't got the power behind it as the ball flies towards deep mid-wicket. Viyaskanth stationed there takes it safely. <b>Narine c V Viyaskanth b Cummins 21(16) [4s-4]</b></p>",
-    "overs": 6.2,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 21,
-      "ballsPlayed": 16,
-      "dotBalls": 8,
-      "batFours": 4,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309709537,
-    "commText": "<p> Cummins to Narine, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309657451,
-    "commText": "<p> Cummins to Narine, <b>FOUR</b>, just over the leaping keeper! A back of a length ball outside off, Narine throws his bat at it and gets a thick outside edge. Klaasen leaps to his left but it evades him and races through to the fence </p>",
-    "overs": 6.1,
-    "events": [
-      "FOUR",
-      "DROPPED"
-    ],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 21,
-      "ballsPlayed": 15,
-      "dotBalls": 7,
-      "batFours": 4,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309605997,
-    "commText": "<p><b>Pat Cummins [1.0-0-16-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 17,
-      "ballsPlayed": 14,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309423576,
-    "commText": "<p><b>Time for the strategic break!</b> Gurbaz in particular gave KKR a strong start. He fell against the run of play but he has set the platform. KKR are placed comfortably at present. SRH need wickets to claw back into the contest</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309420576,
-    "commText": "<p> T Natarajan to Narine, 1 run, a very full ball swinging in on middle, Narine clears his front leg and knocks it down to long-on to retain strike </p>",
-    "overs": 6,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 17,
-      "ballsPlayed": 14,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309374671,
-    "commText": "<p> T Natarajan to Narine, <b>FOUR</b>, this boundary spoils the over somewhat! A back of a length ball angling in, this time it sits up nicely for him. He pulls it over mid-wicket and bisects long-on and deep mid-wicket to perfection </p>",
-    "overs": 5.5,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 16,
-      "ballsPlayed": 13,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309324233,
-    "commText": "<p> T Natarajan to Narine, <b>wide</b>, 135.6kph bouncer on middle and leg, takes off after landing. Narine tries to hook it across half-heartedly and is beaten for pace. Wided by the square leg umpire for height </p>",
-    "overs": 5.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 12,
-      "ballsPlayed": 12,
-      "dotBalls": 7,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309281103,
-    "commText": "<p> T Natarajan to Narine, no run, four dots in a row! Brilliant from Natarajan. A yorker length ball tailing in on middle, all Narine can do is dig it out down the track </p>",
-    "overs": 5.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 12,
-      "ballsPlayed": 12,
-      "dotBalls": 7,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309245265,
-    "commText": "<p> T Natarajan to Narine, no run, a low full-toss swinging down leg, Narine looks to whip it away but is struck on the pads </p>",
-    "overs": 5.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 12,
-      "ballsPlayed": 11,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309168299,
-    "commText": "<p> T Natarajan to Narine, no run, a shortish ball that gets big on Narine. He looks to pull it across but is struck on the helmet. The physio comes in and a mandatory concussion check is being done </p>",
-    "overs": 5.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 12,
-      "ballsPlayed": 10,
-      "dotBalls": 5,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309044892,
-    "commText": "<p>Looks like Narine has done some damage to his bat. A replacement will come in</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716309041892,
-    "commText": "<p> T Natarajan to Narine, no run, 135.1kph pitched up ball on off, Narine drives it straight to extra cover </p>",
-    "overs": 5.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 12,
-      "ballsPlayed": 9,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308976101,
-    "commText": "<p><b>Over summary (1-5)</b> \\n-> Bhuvneshwar Kumar bowls an economical first over \\n-> Cummins concedes 20 runs in his opening over \\n-> Gurbaz and Narine take on SRH bowlers \\n-> Natarajan strikes in his first over, Gurbaz is gone \\n-> Venky Iyer off to a positive start, KKR - 57/1 (5)</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308976091,
-    "commText": "<p> Bhuvneshwar to Venkatesh Iyer, no run, back of a length ball swinging away towards off-stump, Venkatesh Iyer is rooted to the crease and keeps it out tentatively </p>",
-    "overs": 5,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 12,
-      "ballsPlayed": 8,
-      "dotBalls": 5,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308902708,
-    "commText": "<p> Bhuvneshwar to Venkatesh Iyer, no run, a short ball on leg-stump, Venkatesh Iyer ducks under it awkwardly </p>",
-    "overs": 4.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 12,
-      "ballsPlayed": 7,
-      "dotBalls": 4,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308865427,
-    "commText": "<p> Bhuvneshwar to Venkatesh Iyer, no run, well bowled! In the corridor of uncertainty, pitches and shapes away to square Venkatesh Iyer up. He pokes at it and is lucky not to nick it behind </p>",
-    "overs": 4.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 12,
-      "ballsPlayed": 6,
-      "dotBalls": 3,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308819283,
-    "commText": "<p> Bhuvneshwar to Venkatesh Iyer, <b>FOUR</b>, shot! Venkatesh Iyer is showing intent from the start! He skips down the track, converts it into a half-volley and hits it over the mid-off fielder to get the desired result </p>",
-    "overs": 4.3,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 12,
-      "ballsPlayed": 5,
-      "dotBalls": 2,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308785235,
-    "commText": "<p> Bhuvneshwar to Venkatesh Iyer, <b>FOUR</b>, easy pickings! Fullish ball swinging towards the pads, Venkatesh Iyer glances it and the ball races to the fine leg fence </p>",
-    "overs": 4.2,
-    "events": [
-      "TEAM_FIFTY",
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 8,
-      "ballsPlayed": 4,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308752020,
-    "commText": "<p> Bhuvneshwar to Venkatesh Iyer, no run, fullish ball in line of the stumps, Venkatesh Iyer leans ahead and pushes it to extra cover </p>",
-    "overs": 4.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 4,
-      "ballsPlayed": 3,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308679097,
-    "commText": "<p><b>Gurbaz's scores vs SRH</b> \\n0 (3) \\n0 (1) \\n23 (14)</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308679087,
-    "commText": "<p> T Natarajan to Narine, no run, fired on leg, off the pads towards the off-side </p>",
-    "overs": 4,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 12,
-      "ballsPlayed": 8,
-      "dotBalls": 3,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308645055,
-    "commText": "<p> T Natarajan to Narine, no run, banged in short by Natarajan, Narine has a swing and a miss </p>",
-    "overs": 3.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 12,
-      "ballsPlayed": 7,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308616996,
-    "commText": "<p> T Natarajan to Venkatesh Iyer, leg byes, 1 run, fired on leg, Venkatesh Iyer looks to work it away, gets hit on the pads as the ball rolls to the on-side </p>",
-    "overs": 3.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 4,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308565583,
-    "commText": "<p> T Natarajan to Venkatesh Iyer, <b>FOUR</b>, Venkatesh Iyer opens his account with a first ball boundary. Drifting on the pads and Venkatesh Iyer has glanced it away to the fine leg fence to get going. Natarajan looks utterly disappointed with himself </p>",
-    "overs": 3.3,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 4,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308559971,
-    "commText": "<p><b>Venkatesh Iyer, left handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308489678,
-    "commText": "<p> T Natarajan to Gurbaz, <b>out</b> Caught by V Viyaskanth!! Natarajan strikes in his first over. Gurbaz shimmies down the wicket and slashes it straight to the fielder at cover. Taken comfortably by Viyaskanth and Gurbaz departs after playing a cameo. Just the breakthrough SRH were looking for. <b>Gurbaz c V Viyaskanth b T Natarajan 23(14) [4s-2 6s-2]</b> </p>",
-    "overs": 3.2,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 23,
-      "ballsPlayed": 14,
-      "dotBalls": 8,
-      "batFours": 2,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 10225,
+      "id": 14701,
       "bowlOvers": 0.2,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308486416,
-    "commText": "<p> T Natarajan to Gurbaz, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 23,
-      "ballsPlayed": 13,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
+      "bowlRuns": 2,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716308427480,
-    "commText": "<p> T Natarajan to Gurbaz, no run, short in length and outside off, Gurbaz plays a cut, connects thin air </p>",
-    "overs": 3.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 23,
-      "ballsPlayed": 13,
-      "dotBalls": 7,
-      "batFours": 2,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 10225,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308426730,
-    "commText": "<p><b>T Natarajan, left-arm fast medium, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 23,
-      "ballsPlayed": 13,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308348607,
-    "commText": "<p>Bhuvneshwar to Narine, 2 runs, pitched up on the stumps, Narine clips it to the left of mid-wicket</p>",
-    "overs": 3,
-    "events": [
-      "OVER_BREAK",
-      "HIGHSCORING_OVER"
-    ],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 12,
-      "ballsPlayed": 6,
-      "dotBalls": 1,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308307941,
-    "commText": "<p>Bhuvneshwar to Gurbaz, 1 run, slower back of a length delivery outside off, Gurbaz cuts to the left of backward point</p>",
-    "overs": 2.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 23,
-      "ballsPlayed": 12,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 18,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308252956,
-    "commText": "<p>Bhuvneshwar to Gurbaz, <b>FOUR</b>, length ball angled in towards middle and leg, Gurbaz stays still and thumps it back over the leaping fielder at mid-on to his left</p>",
-    "overs": 2.4,
+    "timestamp": 1716311392223,
+    "commText": "<p> Nitish Reddy to Shreyas Iyer, <b>FOUR</b>, another rollicking boundary by the skipper. Nitish Reddy goes short and Shreyas Iyer nails the pull through backward square leg, away to the fence at the rate of knots </p>",
+    "ballNbr": 75,
+    "overs": 12.3,
     "events": [
       "FOUR"
     ],
     "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 22,
-      "ballsPlayed": 11,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 2
+      "id": 9428,
+      "batRuns": 35,
+      "ballsPlayed": 19,
+      "dotBalls": 2,
+      "batFours": 4,
+      "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 1.4,
+      "id": 14701,
+      "bowlOvers": 0.3,
       "bowlMaidens": 0,
-      "bowlRuns": 17,
+      "bowlRuns": 6,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716308200968,
-    "commText": "<p> Bhuvneshwar to Gurbaz, <b>SIX</b>, what a hit! Gurbaz once again shimmies down the track and gets close to the pitch of it. The connection is great as he tonks it over long-on for a big maximum </p>",
-    "overs": 2.3,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 18,
-      "ballsPlayed": 10,
-      "dotBalls": 6,
-      "batFours": 1,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716308140387,
-    "commText": "<p> Bhuvneshwar to Narine, 1 run, fullish ball swinging in on middle, Narine mishits it towards long-on </p>",
-    "overs": 2.2,
+    "timestamp": 1716311436206,
+    "commText": "<p> Nitish Reddy to Shreyas Iyer, 1 run, drifting on the pads, Shreyas Iyer flicks it through the on-side for a single </p>",
+    "ballNbr": 76,
+    "overs": 12.4,
     "events": [],
     "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 10,
-      "ballsPlayed": 5,
-      "dotBalls": 1,
-      "batFours": 2,
-      "batSixes": 0
+      "id": 9428,
+      "batRuns": 36,
+      "ballsPlayed": 20,
+      "dotBalls": 2,
+      "batFours": 4,
+      "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 1.2,
+      "id": 14701,
+      "bowlOvers": 0.4,
       "bowlMaidens": 0,
       "bowlRuns": 7,
       "bowlWickets": 0,
@@ -2401,454 +2531,180 @@
     }
   },
   {
-    "timestamp": 1716308115724,
-    "commText": "<p> Bhuvneshwar to Narine, leg byes, <b>FOUR</b>, SRH take their second review for an lbw. Narine is the man in question. Was a fullish ball around the leg-stump, Narine looked to slog across the line and was struck on the back pad. No bat involved as the third umpire confirms. Over to ball-tracking and it has pitched outside leg. That puts the argument to bed. <b>SRH exhaust both their reviews</b> </p>",
-    "overs": 2.1,
-    "events": [
-      "FOUR",
-      "UDRS"
-    ],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 9,
-      "ballsPlayed": 4,
-      "dotBalls": 1,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307976415,
-    "commText": "<p><b>DRS!</b></p>",
-    "overs": 0,
+    "timestamp": 1716311463988,
+    "commText": "<p> Nitish Reddy to Venkatesh Iyer, no run, played back to the bowler by Venkatesh Iyer </p>",
+    "ballNbr": 77,
+    "overs": 12.5,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
+      "id": 10917,
+      "batRuns": 45,
+      "ballsPlayed": 27,
+      "dotBalls": 12,
+      "batFours": 5,
+      "batSixes": 3
     },
     "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307970415,
-    "commText": "<p> Cummins to Gurbaz, no run, 140.8kph back of a length ball in the channel, Gurbaz taps it with an open bat-face to backward point </p>",
-    "overs": 2,
-    "events": [
-      "OVER_BREAK",
-      "HIGHSCORING_OVER"
-    ],
-    "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 12,
-      "ballsPlayed": 9,
-      "dotBalls": 6,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307937768,
-    "commText": "<p> Cummins to Gurbaz, <b>wide</b>, 140.5kph short of length ball shaping down leg, Gurbaz looks to glance it but misses. Wided </p>",
-    "overs": 2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 12,
-      "ballsPlayed": 8,
-      "dotBalls": 5,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8095,
+      "id": 14701,
       "bowlOvers": 0.5,
       "bowlMaidens": 0,
-      "bowlRuns": 16,
+      "bowlRuns": 7,
       "bowlWickets": 0,
-      "bowlWides": 1,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716307899546,
-    "commText": "<p> Cummins to Gurbaz, <b>SIX</b>, Gurbaz swings and gets lucky! He dances down the track and looks to slog across the line to the back of a length delivery. Ends up getting a big top-edge and away she flies over the third man fence for a flat maxiimum </p>",
-    "overs": 1.5,
+    "timestamp": 1716311500427,
+    "commText": "<p> Nitish Reddy to Venkatesh Iyer, <b>SIX</b>, <b>Venkatesh Iyer brings up his fifty with a maximum!</b> What a fantastic knock this has been. Clearly the best knock of this game. Nails it over deep mid-wicket for half-a-dozen </p>",
+    "ballNbr": 78,
+    "overs": 13,
+    "events": [
+      "OVER_BREAK",
+      "FIFTY",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 51,
+      "ballsPlayed": 28,
+      "dotBalls": 12,
+      "batFours": 5,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 14701,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716311564854,
+    "commText": "<p> Head to Shreyas Iyer, <b>SIX</b>, Shreyas Iyer doesn't hold back either. A tossed up delivery on leg and Shreyas Iyer has swiped this over deep mid-wicket for half-a-dozen </p>",
+    "ballNbr": 79,
+    "overs": 13.1,
     "events": [
       "SIX"
     ],
     "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 12,
-      "ballsPlayed": 8,
-      "dotBalls": 5,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307852623,
-    "commText": "<p> Cummins to Gurbaz, leg byes, <b>FOUR</b>, to fine leg, Cummins takes a review for lbw after getting a nod from Klaasen. Was a length ball that seamed in from off, Gurbaz moved inside the line and looked to work it across but the ball deflected off his pads and went past Klaasen. Time for the replays. Over to ball-tracking and it's missing the leg-stump. <b>SRH lose a review</b> </p>",
-    "overs": 1.4,
-    "events": [
-      "FOUR",
-      "UDRS"
-    ],
-    "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 6,
-      "ballsPlayed": 7,
-      "dotBalls": 5,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307716483,
-    "commText": "<p><b>DRS!</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307713483,
-    "commText": "<p> Cummins to Narine, 1 run, in the air... but safe! Better from Cummins this time as he gets Narine into an uncomfortable position with a leg-stump bouncer. He top-edges the pull but it falls short of the fielder running in from deep square leg </p>",
-    "overs": 1.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 9,
-      "ballsPlayed": 3,
-      "dotBalls": 0,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307663829,
-    "commText": "<p> Cummins to Narine, <b>FOUR</b>, not the correct length to bowl to Narine. Straighter this time and it's full again. In the slot for Narine and he heaves it past the left side of mid-on to pick up another boundary </p>",
-    "overs": 1.2,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 8,
-      "ballsPlayed": 2,
-      "dotBalls": 0,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307636907,
-    "commText": "<p> Cummins to Narine, <b>FOUR</b>, Narine gets off the mark in style! Pitched up around off, right in Narine's eyeline and he loves it there. He clears his front leg and smashes it over the leaping fielder at mid-off to find the fence </p>",
-    "overs": 1.1,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 4,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8095,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307633637,
-    "commText": "<p><b>Pat Cummins, right-arm fast, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307550466,
-    "commText": "<p> Bhuvneshwar to Gurbaz, no run, full ball outside off, swinging away a touch, Gurbaz leans into it and drives it crisply to extra cover </p>",
-    "overs": 1,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 6,
-      "ballsPlayed": 6,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307501726,
-    "commText": "<p>Klaasen goes back to his original position</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307498726,
-    "commText": "<p> Bhuvneshwar to Gurbaz, 2 runs, full ball outside off, swinging away, Gurbaz opens his bat-face to place it past point and comes back for the second run </p>",
-    "overs": 0.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 6,
-      "ballsPlayed": 5,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307463225,
-    "commText": "<p> Bhuvneshwar to Gurbaz, no run, length ball outside off, some nibble in the air, Gurbaz goes for an expansive drive and misses. The ball deflects off Klaasen's gloves and carries to first slip. There's a slight appeal but there wasn't any wood involved </p>",
-    "overs": 0.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 4,
-      "ballsPlayed": 4,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307417295,
-    "commText": "<p>Klaasen is standing up to the stumps now</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716307414295,
-    "commText": "<p> Bhuvneshwar to Gurbaz, no run, 137.8kph full length ball swinging in from outside off, Gurbaz leans ahead and blocks it down the track </p>",
-    "overs": 0.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 4,
-      "ballsPlayed": 3,
+      "id": 9428,
+      "batRuns": 42,
+      "ballsPlayed": 21,
       "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
+      "batFours": 4,
+      "batSixes": 2
     },
     "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 0.3,
+      "id": 8497,
+      "bowlOvers": 1.1,
       "bowlMaidens": 0,
-      "bowlRuns": 4,
+      "bowlRuns": 16,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716307381504,
-    "commText": "<p> Bhuvneshwar to Gurbaz, <b>FOUR</b>, lovely shot! Pitched up outside off, swinging away, Gurbaz leans into it and essays a lovely drive through covers to get the desired result. Good way to get off the mark </p>",
-    "overs": 0.2,
+    "timestamp": 1716311585531,
+    "commText": "<p> Head to Shreyas Iyer, <b>FOUR</b>, spanks this away to the deep mid-wicket fence as Head bowls a loosener. <b>150 up for KKR!</b> </p>",
+    "ballNbr": 80,
+    "overs": 13.2,
     "events": [
+      "TEAM_HUNDRED",
       "FOUR"
     ],
     "batsmanStriker": {
-      "id": 13213,
-      "batRuns": 4,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
+      "id": 9428,
+      "batRuns": 46,
+      "ballsPlayed": 22,
+      "dotBalls": 2,
+      "batFours": 5,
+      "batSixes": 2
     },
     "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 0.2,
+      "id": 8497,
+      "bowlOvers": 1.2,
       "bowlMaidens": 0,
-      "bowlRuns": 4,
+      "bowlRuns": 20,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1716307355920,
-    "commText": "<p> Bhuvneshwar to Gurbaz, no run, Gurbaz walks down the track first ball to negate the swing and plays the fullish ball with soft hands towards short mid-wicket </p>",
-    "overs": 0.1,
+    "timestamp": 1716311610392,
+    "commText": "<p> Head to Shreyas Iyer, <b>SIX</b>, this is carnage by the KKR skipper. Tossed up delivery on leg and Shreyas Iyer has smashed it over deep mid-wicket for half-a-dozen more. Head getting a taste of his own medicine </p>",
+    "ballNbr": 81,
+    "overs": 13.3,
+    "events": [
+      "FIFTY",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 52,
+      "ballsPlayed": 23,
+      "dotBalls": 2,
+      "batFours": 5,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 8497,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 26,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716311648112,
+    "commText": "<p>Head to Shreyas Iyer, <b>SIX</b>, <b>Kolkata Knight Riders book a place in the final with a convincing 8-wicket win!</b> A tossed up delivery and Shreyas Iyer launches it over long-on to draw curtains to the game. <b>Clinical win!</b> The players are quick to exchange handshakes</p>",
+    "ballNbr": 82,
+    "overs": 13.4,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 58,
+      "ballsPlayed": 24,
+      "dotBalls": 2,
+      "batFours": 5,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 8497,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716311796967,
+    "commText": "<p><b>22:46 Local Time, 17:16 GMT, 22:46 IST:</b> 2012. 2014. 2021. 2024. KKR set to play their fourth final in the history of IPL. They finished the league stage as the number 1 team and they have played like the best team of the season tonight. Couldn't have been anymore convincing. Mitchell Starc got the Knights off to a dream start by dismissing Head for a duck and he bowled a magnificent spell in the powerplay to reduce SRH to 39/4. Tripathi and Klaasen added some pivotal runs, however, the KKR bowlers choked them in the middle overs as Sunrisers finished with a mediocre total. In reply, the KKR openers gave a perfect start, while the two Iyers (Shreyas and Venkatesh) finished off the run chase with an excellent partnership for the third wicket. Head who had a great outing here in the final of 2023 World Cup had a horrible game tonight. Was dismissed for a duck earlier in the evening and was smashed all around the park by Shreyas towards the end.</p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 13213,
+      "id": 0,
       "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 1726,
-      "bowlOvers": 0.1,
+      "id": 0,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
       "bowlWickets": 0,
@@ -2857,8 +2713,273 @@
     }
   },
   {
-    "timestamp": 1716307352472,
-    "commText": "<p><b>Gurbaz and Narine are at the crease. Gurbaz is on strike. Bhuvneshwar will open the attack</b></p>",
+    "timestamp": 1716312278697,
+    "commText": "<p><b>Pat Cummins | SRH skipper:</b> Yeah we will try to put this behind quickly, good thing we will have a crack at it (second qualifier). You have those days in T20 cricket where things doesn't quite work out. We weren't where we wanted with the bat and obviously couldn't do much with the ball. Felt that extra batting was important (picking the impact sub) on this wicket. Thought KKR bowled really well, there was a little bit in it early on and the surface got better. We all have played enough cricket, and going to a new venue (Chennai) helps us as well, so we gotta keep this behind and move on.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716312278707,
+    "commText": "<p><b> Venkatesh Iyer:</b> More than the confidence I was really wanting to go out and bat, we last played a game on 11th, so we all were eager to go out and showcase our talent. The wicket was really good, credit goes to our bowlers for bowling them out for 160 odd. In a tournament like this, momentum is really important, we have seen that with RCB winning their matches continuously and gaining the momentum even we wanted that momentum, so we wanted to go out and wanted the rain to stop but it was disappointing. But, we were the table toppers and we have got a lot of support from the management, credit to the owners, SRK and Jay sir were also there tonight to support us. It is always special for players like us to play in the IPL final, it\u2019s a dreamy moment for us, going to Chennai and looking forward to it. We have a realistic chance to win the trophy now. We were raring to go out there, when you have the momentum you want to really go out there. You saw Rinku fielding in hotspots and taking those catches. It\u2019s the excitement we have to go out there and perform.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716312278737,
+    "commText": "<p><b>Winning with the most balls to spare in IPL (160+ targets)</b> \\n62 - SRH vs LSG, Hyderabad, 2024 (Target: 166) \\n38 - KKR vs SRH, Ahmedabad, 2024 (Target: 160) \\n34 - KKR vs SRH, Kolkata, 2014 (Target: 161) \\n32 - MI vs RR, Wankhede, 2014 (Target: 190)</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716312278747,
+    "commText": "<p><b>Venkatesh Iyer's scores in playoffs</b> \\n26 (30) vs RCB, Sharjah, 2021 \\n55 (41) vs DC, Sharjah, 2021 \\n50 (32) vs CSK, Dubai, 2021 \\n51* (28) vs SRH, Ahmedabad, 2024*</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716312278757,
+    "commText": "<p><b>Highest partnership for KKR in playoffs</b> \\n136 - M Bisla & J Kallis vs CSK, Chennai, 2012 \\n97* - Shreyas Iyer & V Iyer vs SRH, Ahmedabad, 2024* \\n96 - Shubman Gill & V Iyer vs DC, Sharjah, 2021</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716312278767,
+    "commText": "<p><b>Most appearances in the IPL final</b> \\n10 - CSK \\n6 - MI \\n4 - KKR* \\n3 - RCB</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716312278777,
+    "commText": "<p><b>Most 50-plus scores as a captain in playoffs</b> \\n2 - MS Dhoni \\n2 - Rohit Sharma \\n2 - David Warner \\n2 - Shreyas Iyer*</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716312278787,
+    "commText": "<p><b>DYK:</b> Since 2018, the team that won Qualifier 1 went onto win the IPL trophy every single time.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716312278797,
+    "commText": "<p><b>Stats round-up by Shashikant Singh</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716313020166,
+    "commText": "<p><b>Shreyas Iyer | KKR skipper:</b> Elated by the performance, the responsibility was important, we stood up for each other, extremely happy with the performances. The rejuvenation was important for us. When you travel so much. It's important to stay in the present. Today was the day we had to maximise, we did it and that's what we thrive on. I think the way every bowler stood up to this occasion, the way they came in and took wickets, that was imperative. The attitude and approach of all bowlers was to take wickets and they did. When you have a variety in the bowling line-up, it's mesmerising. They have been true in terms of their work ethics, hopefully we keep performing. It was Gurbaz's first game and he gave an impactful start. We had to make sure we carry forward the same run rate. I don't know tamil, but I understand. Venky speaks in tamil, I reply in hindi (talking about the communication between him and Venkatesh Iyer). We need to be in our zone in the final and make sure we give our best.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716313240663,
+    "commText": "<p><b>Mitchell Starc | Player of the Match:</b> We know how important the powerplay is. These were the two sides who have dominated in the powerplay with the bat. We needed to pick early wickets and get into their middle-order. The way Head and Abhishek have been playing thoughout the tournament, they like width and free their arms. We just tried to swing the ball and not provide them width. Bowl stump to stump and tried the hard length. The spinners were effective and the whole bowling department was great. Got lucky I guess (on taking Head's wicket), was nice to see his back early, not always the case. We have been playing against each other in recent times. They (Arora and Harshit) are exciting to watch and are talented, they are skillful. It's good to see how hard they train. Harshit has been phenomenal this year. Our bowling attack has been great, it's hard to single anyone out. As an older and overseas player, it's good to see. No doubt they'll take many wickets in the IPL and for India as well.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716313737737,
+    "commText": "<p>That brings an end to our first playoff game of IPL 2024. Proved to be a one-sided affair in the end, but KKR fans won't mind it. They move one step closer to lifting that trophy. Been 10 long years since the Knights last won that title. It's not the end of SRH's journey though as they will face the winner of tomorrow's game in Qualifier 2. Expecting the Eliminator (<b>RR v RCB</b>) game to be much more exciting than tonight's clash. RCB have been on a roll and have won six games on the trot. Will they make it 7 in a row against Rajasthan Royals? We shall find out tomorrow. For now, it's goodbye from <b>Nikhil, Raju, Abhinav</b> and <b>Siva</b>. Peace out!</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

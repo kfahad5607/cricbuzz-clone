@@ -12,16 +12,10 @@ import {
 } from "drizzle-orm/pg-core";
 import {
   MATCH_FORMATS_VALUES,
-  MATCH_STATES,
   MATCH_STATES_VALUES,
   MATCH_TYPES_VALUES,
 } from "../../../helpers/constants";
-import {
-  MatchResults,
-  MatchTossResults,
-  PersonalInfo,
-  RoleInfo,
-} from "../../../types";
+import { PersonalInfo, RoleInfo } from "../../../types";
 
 export const matchFormatEnum = pgEnum("matchFormat", MATCH_FORMATS_VALUES);
 
@@ -58,16 +52,11 @@ export const matches = pgTable("matches", {
     withTimezone: true,
     mode: "date",
   }).notNull(),
-  state: matchStateEnum("match_state").notNull().default(MATCH_STATES.PREVIEW),
-  status: varchar("status", { length: 200 }).default("").notNull(),
-  tossResults: jsonb("toss_results")
-    .$type<MatchTossResults>()
-    .default({})
-    .notNull(),
-  results: jsonb("results")
-    .$type<MatchResults>()
-    .default({ winByInnings: false, winByRuns: false })
-    .notNull(),
+  completeTime: timestamp("complete_time", {
+    precision: 3,
+    withTimezone: true,
+    mode: "date",
+  }).notNull(),
 });
 
 export const innings = pgTable("innings", {

@@ -1,398 +1,8 @@
 [
   {
-    "timestamp": 1711547893358,
-    "commText": "<p>The players are out in the middle and we are ready for live action. A slip in place and here we go!</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711546997936,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711546909382,
-    "commText": "<p><b>Mumbai Indians Subs: </b>Dewald Brevis, Romario Shepherd, Mohammad Nabi, Vishnu Vinod, Nehal Wadhera</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711546862365,
-    "commText": "<p><b>Sunrisers Hyderabad Subs:</b> Nitish Reddy, Washington Sundar, Umran Malik, Glenn Phillips, Upendra Yadav</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711546721246,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711546719675,
-    "commText": "<p><b>Sunrisers Hyderabad</b> (Playing XI): Travis Head, Mayank Agarwal, Abhishek Sharma, Aiden Markram, Heinrich Klaasen(w), Abdul Samad, Shahbaz Ahmed, Pat Cummins(c), Bhuvneshwar Kumar, Mayank Markande, Jaydev Unadkat</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711546644105,
-    "commText": "<p><b>Mumbai Indians</b> (Playing XI): Ishan Kishan(w), Rohit Sharma, Naman Dhir, Tilak Varma, Hardik Pandya(c), Tim David, Gerald Coetzee, Shams Mulani, Piyush Chawla, Jasprit Bumrah, Kwena Maphaka</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711546339487,
-    "commText": "<p><b>Pat Cummins:</b> Looks like a good wicket. Not too upset. It's a tough tournament, the crowd and conditions will help. A couple of changes. Head comes in for Jansen. Natarajan has a niggle, Unadkat comes in. We got a great squad, the 11 or 12 players playing tonight got to give their everything.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711546293006,
-    "commText": "<p><b>Hardik Pandya:</b> We are going to bowl first. Looks like a good track, we were solid in the last game. Didn't plan properly, that cost us the game. 13 games to go, we need to keep doing the right things. We are positive and looking forward to the challenge. Just trying to spend time with all the players. Getting to know them better. One change, Luke misses out, Maphaka comes in.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711546270914,
-    "commText": "<p><b>Mumbai Indians have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711546143620,
-    "commText": "<p><b>Right then, it's toss time..</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711545592583,
-    "commText": "<p><b>Pitch and ground dimensions:</b> First game of the season in Hyderabad. Leg-side is 66 metres, off-side is 63 metres, 76 metres straight down the ground. Looks like a great batting track, this one's void of grass. The best time to bat is against the new ball. As the ball loses shine, the bowlers who use variations and bowl slower ones will get purchase from the wicket. Teams need to capitalize in the first 5-10 overs while batting. There's going to be something in it for the fast bowlers in the beginning, something in it for the spinners throughout. Bowlers who hit the deck will enjoy bowling here. Bumrah will excel. A bat first wicket, reckons <b>Brian Lara.</b> There won't be dew, so the spinners will come into play later.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711545216316,
-    "commText": "<p><b>Gerald Coetzee:</b> Really enjoyed it (first game), had a great time. It (experience of playing in the World Cup) helped me in understanding the conditions better, got a good grasp of the conditions. He (Bumrah) is such a great quality bowler, like to learn a lot of things from him. He's experienced, probably one of the best in the world. Will take the confidence from that (Gujarat) game, but you also know every game, every ball is a new ball. So you appreciate that, but you move forward and start on a new page.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711543987781,
-    "commText": "<p>The Orange Army and the Men in Blue - both have some serious talent in their respective teams, so let's hope we have a cracking encounter tonight. Also, Mumbai Indians' former captain - Rohit Sharma will be playing his 200th match for MI. Coming back to the city where he started his IPL career with, he would be looking forward to playing an impactful knock. Will he be able to make this game a memorable one? Only time will tell. For now, stay around for the toss and teams..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711543900852,
-    "commText": "<p>Talking about their first game of the tournament, Mumbai Indians were impressive with the ball against Gujarat Titans, however, their batters struggled to an extent as a result of which they fell short of the target by 6 runs. On the other hand, Sunrisers showed some ability with the bat against the Knight Riders, but their bowlers were at the receiving end of some punitive treatment by the opposition, particularly Andre Russell and Phil Salt. Marco Jansen and Bhuvneshwar Kumar had an off day, and the Sunrisers need their pacers to pull up their socks in the upcoming games starting today.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711543666272,
-    "commText": "<p><b>18:20 Local Time, 12:50 GMT, 18:20 IST:</b> Two teams that lost their respective opening encounters will lock horns in the 8th clash of IPL 2024 tonight in Hyderabad. Hello and welcome everybody! All the matches have been won by the home teams this season, however, the Sunrisers Hyderabad dont boast a great record at this venue. Despite being the hosts, the Sunrisers have struggled to make an impact at the Rajiv Gandhi International Stadium. They would be looking forward to turning things around this season though and give their fans something to cheer about.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711461980555,
-    "commText": "<p><b>Preview</b> by <b>Gokul Gopal </b> \\n \\nHow to heal a broken heart? \\n \\nThis might perhaps be among the top searches for fans of Mumbai Indians and Sunrisers Hyderabad as both teams enter the IPL 2024 contest on Wednesday after experiencing gut-wrenching opening losses. \\n \\nAlthough MI fans would have been accustomed to watching their side lose opening matches - what with 12 such defeats since 2013 - the manner of the loss to Gujarat Titans would have hurt them as much as it did the team. With 48 needed off the last six overs in a chase of 169, MI were in cruise mode before the Titans gave them a jolt as they ended up with 162/9. \\n \\nThe SRH effort against Kolkata Knight Riders was even more remarkable. They were chasing a mammoth 209, reduced to 111/4 after 14, and needed 60 in the last four overs. Heinrich Klaasen and Shahbaz Ahmed reignited the hopes and even brought it down to 7 off 5 before Harshit Rana came up with the silencing act. \\n \\nSo to address the question mentioned at the top, the best way to do that from a cricketing perspective would be to quickly pick up a win. MI have a slight edge, having won their last two encounters against SRH, including chasing down a target of 201 rather comfortably in Hyderabad. That loss was one of six defeats SRH suffered at home in the previous season and they will be keen to remedy that and start on the right note in their first home match in this edition. \\n \\n<b>When: </b>Wednesday, March 27 at 19:30 IST \\n \\n<b>Where: </b>Rajiv Gandhi International Stadium, Hyderabad \\n \\n<b>What to expect:</b> The pitches here have supported a fair fight between bat and ball, with 180-plus being a par total here in the previous season. \\n \\n<b>Head to head: </b>MI have 12 wins compared to SRH's 9. Since IPL 2020, MI have had an upper hand against SRH with 5 wins out of 7. \\n \\n<b>Team watch:</b> \\n \\n<b>Sunrisers Hyderabad</b> \\n \\n<b>Injury/Availability: </b>Wanindu Hasaranga is unavailable for the game, confirmed captain Pat Cummins who said: \"He's definitely not in India. I think he's seeing a specialist. Hopefully, I'll have more information on him in the next few days.\" \\n \\n<b>Tactics & Matchups: </b>Using Cummins and Washington Sundar early might work to SRH's advantage. Cummins has dismissed Ishan Kishan four times in the IPL while Sundar has accounted for Rohit's wicket thrice. Bhuvneshwar against Hardik Pandya is also a good matchup from SRH's point of view, with the experienced pacer having dismissed the MI captain two times. \\n \\n<b>Probable XI: </b>Mayank Agarwal, Rahul Tripathi, Aiden Markram, Heinrich Klaasen (wk), Abdul Samad, Shahbaz Ahmed, Marco Jansen, Pat Cummins (c), Bhuvneshwar Kumar, Mayank Markande, T Natarajan [Impact sub: Abhishek Sharma for Natarajan]. \\n \\n<b>Mumbai Indians</b> \\n \\n<b>Injury/Availability:</b> Suryakumar Yadav continues to be unavailable for Mumbai Indians who are yet to receive any information/clearance from the National Cricket Academy about his participation in the IPL. \\n \\n<b>Tactics & Matchups:</b> Piyush Chawla might be a good option against Mayank Agarwal who has been dismissed nine times by right-arm legspinners since IPL 2021 and has a strike rate of 111.39 against them. Jasprit Bumrah has a good matchup against the opener as well, having bagged his wicket thrice in 16 deliveries. They might, however, be wary of using too much spin against Heinrich Klaasen who has scored 648 runs at a strike rate of 190.32 against the slower bowlers in T20 cricket since January 2023. That said, he has also been dismissed by spinners nine times, four of which have been against right-arm wrist spin. \\n \\n<b>Probable XI: </b>Rohit Sharma, Ishan Kishan (wk), Tilak Varma, Naman Dhir, Hardik Pandya (c), Tim David, Shams Mulani, Piyush Chawla, Gerald Coetzee, Jasprit Bumrah, Luke Wood [Impact sub: Dewald Brevis for Wood]. \\n \\n<b>Did you know?</b> \\n \\n- After a successful IPL season in 2022, in which he scored 413 runs at a strike rate of 158.24, Rahul Tripathi has struggled to make an impact. He scored a lone fifty in IPL 2023 and had an average domestic season for Goa too, with only one fifty-plus score in 19 innings across formats. His IPL average in Hyderabad is 19.11. \\n \\n- Jasprit Bumrah is only two wickets away from becoming the second Indian pacer to get to 150 wickets in IPL after Bhuvneshwar Kumar. \\n \\n<b>What they said?</b> \\n \\n\"I think IPL is always...teams that have done well...you got to make your home a fortress. We've got some experienced (players) in our team that have played a lot here. So we'll use that experience. It's really important to win at home\" - <b>Pat Cummins,</b> SRH captain.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711461980545,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1711461891073,
+    "commText": "<p><b>Mumbai Indians</b> Squad: Ishan Kishan(w), Rohit Sharma, Dewald Brevis, Tilak Varma, Tim David, Hardik Pandya(c), Shams Mulani, Gerald Coetzee, Piyush Chawla, Jasprit Bumrah, Luke Wood, Naman Dhir, Romario Shepherd, Mohammad Nabi, Shreyas Gopal, Vishnu Vinod, Arjun Tendulkar, Nehal Wadhera, Kumar Kartikeya, Shivalik Sharma, Anshul Kamboj, Akash Madhwal, Nuwan Thushara, Kwena Maphaka</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -416,6 +26,7 @@
   {
     "timestamp": 1711461978667,
     "commText": "<p><b>Sunrisers Hyderabad</b> Squad: Mayank Agarwal, Abhishek Sharma, Rahul Tripathi, Aiden Markram, Heinrich Klaasen(w), Abdul Samad, Shahbaz Ahmed, Marco Jansen, Pat Cummins(c), Bhuvneshwar Kumar, Mayank Markande, T Natarajan, Travis Head, Glenn Phillips, Washington Sundar, Jaydev Unadkat, Anmolpreet Singh, Upendra Yadav, Fazalhaq Farooqi, Umran Malik, Jhatavedh Subramanyan, Sanvir Singh, Akash Maharaj Singh, Nitish Reddy</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -437,8 +48,417 @@
     }
   },
   {
-    "timestamp": 1711461891073,
-    "commText": "<p><b>Mumbai Indians</b> Squad: Ishan Kishan(w), Rohit Sharma, Dewald Brevis, Tilak Varma, Tim David, Hardik Pandya(c), Shams Mulani, Gerald Coetzee, Piyush Chawla, Jasprit Bumrah, Luke Wood, Naman Dhir, Romario Shepherd, Mohammad Nabi, Shreyas Gopal, Vishnu Vinod, Arjun Tendulkar, Nehal Wadhera, Kumar Kartikeya, Shivalik Sharma, Anshul Kamboj, Akash Madhwal, Nuwan Thushara, Kwena Maphaka</p>",
+    "timestamp": 1711461980545,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711461980555,
+    "commText": "<p><b>Preview</b> by <b>Gokul Gopal </b> \\n \\nHow to heal a broken heart? \\n \\nThis might perhaps be among the top searches for fans of Mumbai Indians and Sunrisers Hyderabad as both teams enter the IPL 2024 contest on Wednesday after experiencing gut-wrenching opening losses. \\n \\nAlthough MI fans would have been accustomed to watching their side lose opening matches - what with 12 such defeats since 2013 - the manner of the loss to Gujarat Titans would have hurt them as much as it did the team. With 48 needed off the last six overs in a chase of 169, MI were in cruise mode before the Titans gave them a jolt as they ended up with 162/9. \\n \\nThe SRH effort against Kolkata Knight Riders was even more remarkable. They were chasing a mammoth 209, reduced to 111/4 after 14, and needed 60 in the last four overs. Heinrich Klaasen and Shahbaz Ahmed reignited the hopes and even brought it down to 7 off 5 before Harshit Rana came up with the silencing act. \\n \\nSo to address the question mentioned at the top, the best way to do that from a cricketing perspective would be to quickly pick up a win. MI have a slight edge, having won their last two encounters against SRH, including chasing down a target of 201 rather comfortably in Hyderabad. That loss was one of six defeats SRH suffered at home in the previous season and they will be keen to remedy that and start on the right note in their first home match in this edition. \\n \\n<b>When: </b>Wednesday, March 27 at 19:30 IST \\n \\n<b>Where: </b>Rajiv Gandhi International Stadium, Hyderabad \\n \\n<b>What to expect:</b> The pitches here have supported a fair fight between bat and ball, with 180-plus being a par total here in the previous season. \\n \\n<b>Head to head: </b>MI have 12 wins compared to SRH's 9. Since IPL 2020, MI have had an upper hand against SRH with 5 wins out of 7. \\n \\n<b>Team watch:</b> \\n \\n<b>Sunrisers Hyderabad</b> \\n \\n<b>Injury/Availability: </b>Wanindu Hasaranga is unavailable for the game, confirmed captain Pat Cummins who said: \"He's definitely not in India. I think he's seeing a specialist. Hopefully, I'll have more information on him in the next few days.\" \\n \\n<b>Tactics & Matchups: </b>Using Cummins and Washington Sundar early might work to SRH's advantage. Cummins has dismissed Ishan Kishan four times in the IPL while Sundar has accounted for Rohit's wicket thrice. Bhuvneshwar against Hardik Pandya is also a good matchup from SRH's point of view, with the experienced pacer having dismissed the MI captain two times. \\n \\n<b>Probable XI: </b>Mayank Agarwal, Rahul Tripathi, Aiden Markram, Heinrich Klaasen (wk), Abdul Samad, Shahbaz Ahmed, Marco Jansen, Pat Cummins (c), Bhuvneshwar Kumar, Mayank Markande, T Natarajan [Impact sub: Abhishek Sharma for Natarajan]. \\n \\n<b>Mumbai Indians</b> \\n \\n<b>Injury/Availability:</b> Suryakumar Yadav continues to be unavailable for Mumbai Indians who are yet to receive any information/clearance from the National Cricket Academy about his participation in the IPL. \\n \\n<b>Tactics & Matchups:</b> Piyush Chawla might be a good option against Mayank Agarwal who has been dismissed nine times by right-arm legspinners since IPL 2021 and has a strike rate of 111.39 against them. Jasprit Bumrah has a good matchup against the opener as well, having bagged his wicket thrice in 16 deliveries. They might, however, be wary of using too much spin against Heinrich Klaasen who has scored 648 runs at a strike rate of 190.32 against the slower bowlers in T20 cricket since January 2023. That said, he has also been dismissed by spinners nine times, four of which have been against right-arm wrist spin. \\n \\n<b>Probable XI: </b>Rohit Sharma, Ishan Kishan (wk), Tilak Varma, Naman Dhir, Hardik Pandya (c), Tim David, Shams Mulani, Piyush Chawla, Gerald Coetzee, Jasprit Bumrah, Luke Wood [Impact sub: Dewald Brevis for Wood]. \\n \\n<b>Did you know?</b> \\n \\n- After a successful IPL season in 2022, in which he scored 413 runs at a strike rate of 158.24, Rahul Tripathi has struggled to make an impact. He scored a lone fifty in IPL 2023 and had an average domestic season for Goa too, with only one fifty-plus score in 19 innings across formats. His IPL average in Hyderabad is 19.11. \\n \\n- Jasprit Bumrah is only two wickets away from becoming the second Indian pacer to get to 150 wickets in IPL after Bhuvneshwar Kumar. \\n \\n<b>What they said?</b> \\n \\n\"I think IPL is always...teams that have done well...you got to make your home a fortress. We've got some experienced (players) in our team that have played a lot here. So we'll use that experience. It's really important to win at home\" - <b>Pat Cummins,</b> SRH captain.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711543666272,
+    "commText": "<p><b>18:20 Local Time, 12:50 GMT, 18:20 IST:</b> Two teams that lost their respective opening encounters will lock horns in the 8th clash of IPL 2024 tonight in Hyderabad. Hello and welcome everybody! All the matches have been won by the home teams this season, however, the Sunrisers Hyderabad dont boast a great record at this venue. Despite being the hosts, the Sunrisers have struggled to make an impact at the Rajiv Gandhi International Stadium. They would be looking forward to turning things around this season though and give their fans something to cheer about.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711543900852,
+    "commText": "<p>Talking about their first game of the tournament, Mumbai Indians were impressive with the ball against Gujarat Titans, however, their batters struggled to an extent as a result of which they fell short of the target by 6 runs. On the other hand, Sunrisers showed some ability with the bat against the Knight Riders, but their bowlers were at the receiving end of some punitive treatment by the opposition, particularly Andre Russell and Phil Salt. Marco Jansen and Bhuvneshwar Kumar had an off day, and the Sunrisers need their pacers to pull up their socks in the upcoming games starting today.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711543987781,
+    "commText": "<p>The Orange Army and the Men in Blue - both have some serious talent in their respective teams, so let's hope we have a cracking encounter tonight. Also, Mumbai Indians' former captain - Rohit Sharma will be playing his 200th match for MI. Coming back to the city where he started his IPL career with, he would be looking forward to playing an impactful knock. Will he be able to make this game a memorable one? Only time will tell. For now, stay around for the toss and teams..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711545216316,
+    "commText": "<p><b>Gerald Coetzee:</b> Really enjoyed it (first game), had a great time. It (experience of playing in the World Cup) helped me in understanding the conditions better, got a good grasp of the conditions. He (Bumrah) is such a great quality bowler, like to learn a lot of things from him. He's experienced, probably one of the best in the world. Will take the confidence from that (Gujarat) game, but you also know every game, every ball is a new ball. So you appreciate that, but you move forward and start on a new page.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711545592583,
+    "commText": "<p><b>Pitch and ground dimensions:</b> First game of the season in Hyderabad. Leg-side is 66 metres, off-side is 63 metres, 76 metres straight down the ground. Looks like a great batting track, this one's void of grass. The best time to bat is against the new ball. As the ball loses shine, the bowlers who use variations and bowl slower ones will get purchase from the wicket. Teams need to capitalize in the first 5-10 overs while batting. There's going to be something in it for the fast bowlers in the beginning, something in it for the spinners throughout. Bowlers who hit the deck will enjoy bowling here. Bumrah will excel. A bat first wicket, reckons <b>Brian Lara.</b> There won't be dew, so the spinners will come into play later.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711546143620,
+    "commText": "<p><b>Right then, it's toss time..</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711546270914,
+    "commText": "<p><b>Mumbai Indians have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711546293006,
+    "commText": "<p><b>Hardik Pandya:</b> We are going to bowl first. Looks like a good track, we were solid in the last game. Didn't plan properly, that cost us the game. 13 games to go, we need to keep doing the right things. We are positive and looking forward to the challenge. Just trying to spend time with all the players. Getting to know them better. One change, Luke misses out, Maphaka comes in.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711546339487,
+    "commText": "<p><b>Pat Cummins:</b> Looks like a good wicket. Not too upset. It's a tough tournament, the crowd and conditions will help. A couple of changes. Head comes in for Jansen. Natarajan has a niggle, Unadkat comes in. We got a great squad, the 11 or 12 players playing tonight got to give their everything.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711546644105,
+    "commText": "<p><b>Mumbai Indians</b> (Playing XI): Ishan Kishan(w), Rohit Sharma, Naman Dhir, Tilak Varma, Hardik Pandya(c), Tim David, Gerald Coetzee, Shams Mulani, Piyush Chawla, Jasprit Bumrah, Kwena Maphaka</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711546719675,
+    "commText": "<p><b>Sunrisers Hyderabad</b> (Playing XI): Travis Head, Mayank Agarwal, Abhishek Sharma, Aiden Markram, Heinrich Klaasen(w), Abdul Samad, Shahbaz Ahmed, Pat Cummins(c), Bhuvneshwar Kumar, Mayank Markande, Jaydev Unadkat</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711546721246,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711546862365,
+    "commText": "<p><b>Sunrisers Hyderabad Subs:</b> Nitish Reddy, Washington Sundar, Umran Malik, Glenn Phillips, Upendra Yadav</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711546909382,
+    "commText": "<p><b>Mumbai Indians Subs: </b>Dewald Brevis, Romario Shepherd, Mohammad Nabi, Vishnu Vinod, Nehal Wadhera</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711546997936,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711547893358,
+    "commText": "<p>The players are out in the middle and we are ready for live action. A slip in place and here we go!</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

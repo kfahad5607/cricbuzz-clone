@@ -570,15 +570,6 @@ export async function getCommentary(
                     sortBy: { isStriker: -1 },
                   },
                 },
-                currentBatters_: {
-                  $filter: {
-                    input: "$$lastInnings.batters",
-                    as: "batter",
-                    cond: {
-                      $not: { $ifNull: ["$$batter.fallOfWicket", false] },
-                    },
-                  },
-                },
               },
             },
           },
@@ -828,7 +819,7 @@ export async function getCurrentMatches(
         description: true,
         matchFormat: true,
         startTime: true,
-        status: true,
+        completeTime: true,
       },
       with: {
         series: {
@@ -871,7 +862,7 @@ export async function getMatchInfo(
         description: true,
         matchFormat: true,
         startTime: true,
-        status: true,
+        completeTime: true,
       },
       with: {
         series: {
@@ -1006,7 +997,7 @@ export async function getMatchScore(
         description: true,
         matchFormat: true,
         startTime: true,
-        status: true,
+        completeTime: true,
       },
       with: {
         series: {

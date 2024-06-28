@@ -28,7 +28,7 @@ import {
   Match,
   getValidationSchema,
 } from "../types";
-import { ScorecardInningsEntry } from "../types/scorecard";
+import { ScorecardInningsEntry } from "../types/matchData";
 import { CommentaryInningsEntry } from "../types/commentary";
 
 const router = express.Router();

@@ -1,375 +1,8 @@
 [
   {
-    "timestamp": 1712066363392,
-    "commText": "<p>Players stride for the action. RCB have got Topley in and he can trouble both the LSG batters. Will those patchy grass spots aid the RCB new ball bowlers? Lone slip in place!</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712065361635,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712065277385,
-    "commText": "<p><b>Lucknow Super Giants Subs:</b> Manimaran Siddharth, Shamar Joseph, Deepak Hooda, Amit Mishra, Krishnappa Gowtham</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712065210284,
-    "commText": "<p><b>Royal Challengers Bengaluru Subs:</b> Suyash Prabhudessai, Mahipal Lomror, Karn Sharma, Vijaykumar Vyshak, Swapnil Singh</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712065035686,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712065032764,
-    "commText": "<p><b>Royal Challengers Bengaluru</b> (Playing XI): Virat Kohli, Faf du Plessis(c), Cameron Green, Glenn Maxwell, Rajat Patidar, Dinesh Karthik, Anuj Rawat(w), Mayank Dagar, Reece Topley, Mohammed Siraj, Yash Dayal</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712065027228,
-    "commText": "<p><b>Lucknow Super Giants</b> (Playing XI): Quinton de Kock, KL Rahul(w/c), Devdutt Padikkal, Marcus Stoinis, Nicholas Pooran, Ayush Badoni, Krunal Pandya, Ravi Bishnoi, Yash Thakur, Naveen-ul-Haq, Mayank Yadav</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712064739772,
-    "commText": "<p><b>KL Rahul:</b> It is a bit different. Been used to coming here and walking into the home dressing room, bit different when I walk into the visiting dressing room. We have showed character in both games. Everyone is chipping in and that gives you a lot of confidence, we need to keep doing that and keep getting better. Some of the guys have gotten better with their skills since season one, the combination is coming well as a team. Now we need to put some runs on the board and put pressure on the opposition. More than the victory everyone was talking about Mayank's pace, he has been with us since the first season and was unlucky to miss out last season with injury. Just one change - Mohsin Khan has a sore back and Yash Thakur comes in.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712064625829,
-    "commText": "<p><b>Faf du Plessis:</b> We are going to chase. The previous game we played on here first innings it was slower. Some places it is patchy and dry. It really important to find some answers. We have had some really good conversations. It would be good if you keep learning from the mistakes. There is a touch of moisture and let's see how it goes. Topley comes in for Alzarri.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712064342489,
-    "commText": "<p><b>Royal Challengers Bengaluru have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712064059149,
-    "commText": "<p>Good news! KL Rahul is back as captain and is posing with Faf for the photos. We are ready for the toss..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712063483271,
-    "commText": "<p><b>Pitch and Conditons:</b> \"Pitch number 7 which was used for the first game against Punjab Kings - 175 was the score. Average first innings score over here in the last few years has gone up to 196. What I have seen straightaway on this pitch is that it's very dry. I think there will be spin, especially for Glenn Maxwell. We saw the other night (RCB vs PBKS), Glenn Maxwell was getting turn. Both spinners for RCB were getting turn - the left-armer and the off-spinner. This pitch is very dry. It's the highest turning ground on average this year in the IPL. This area outside the off-stump for the right-handed batsmen, this is the sort of area that Maxwell will be looking to pitch the ball. It's almost like a riverbed, very dry, a lot of these cracks don't move but right next to these cracks, there's a little bit of grass as well. The ball will behave differently whether it pitches on the brown bit or the green. It may be slightly two-paced. The odd ball turns, the odd ball goes straight. A very good pitch for bowling spin\" - Murali Kartik and Graeme Swann.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712062811656,
-    "commText": "<p>KL Rahul was seen doing short sprints under the watchful eyes of the physio. These are usally done to determine a player's fitness. He might be undergoing a fitness test and Lucknow will be hoping he passes. Meanwhile, Kohli is having some throwdowns near the boundary rope.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711980333841,
-    "commText": "<p>Lucknow Super Giants come into this fixture on the back of an impressive win against Punjab Kings. Mayank Yadav has been the talk of the nation. The youngster kept clocking 150kph consistently and more importantly was accurate, it was his fiery burst of 3 for 27 that for the Super Giants the win. KL Rahul was used as an impact sub and Pooran took over the captaincy reins, but we are hearing that Rahul might entirely miss today's game which is not a good news. They still have the local knowledge with Padikkal and Gowtham in the squad, the former will have to step up in his state mate's absence. The bowling looked in the previous game and has a lot of variety. The head to head is 3:1 in RCB's favour but the Super Giants will try to change that today. Toss and teams coming up..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711980333831,
-    "commText": "<p><b>18:20 Local Time, 12:50 GMT:</b> 12 out of the 14 games have been won by the home side and the two games lost are by the two teams sitting at the bottom of the table. The Chinnaswamy conundrum still remains even after 17 seasons, Royal Challengers Bengaluru are yet to crack the formula of winning their home games and the surfaces in the two matches this year have not quite been belters, Kolkata Knight Riders might dispute that but the fact remains today is another home encounter and RCB will not be the favourites. They did try to address the problem by picking a bunch of fast bowlers in the auction but that hasn't worked out. Two defeats, one close victory, it is that time now to start tinkering with the playing XI. Alzarri Joseph has shown sign zero signs that he is the answer to the bowling woes and with few more choices on the bench, Reece Topley or Lockie Ferguson might get a look in today. Batting too has not clicked with Faf and Maxwell struggling to get going and like the seasons before the sole onus falling on Kohli's shoulder. It is a new day and another chance for RCB to start clicking as a team.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711980333811,
-    "commText": "<p><b>Preview by Ganesh Chandrasekaran:</b> \\n \\nRoyal Challengers Bengaluru have lost two games while defending totals and won one while chasing. Consequently, even in the early stages of the IPL 2024, there are the now-familiar question marks over the team's bowling resources. That it's a product of the unforgiving nature of the ground is well-documented. How could they offset the said disadvantages remains to be answered, and will be one of the many challenges that will confront them when they take on Lucknow Super Giants, who had stolen a thrilling victory over them in the previous season at the same venue. \\n \\nThe architect of that stunning chase, Nicholas Pooran, led LSG in their previous outing this season with KL Rahul playing as an Impact sub. It might be a role that he could well continue as LSG sweat over the fitness of Rahul, who underwent some fitness drills along with his batting routine and even some wicket-keeping practice on the eve of the game. \\n \\nDespite that worry, LSG will be brimming with confidence after their victory against Punjab Kings where they also got to showcase the raw pace of 21-year-old Mayank Yadav that drew the eyeballs from the cricketing world. Despite the smaller boundary sizes on offer, Yadav's skillset of hitting the deck hard could find its use on a pitch such as the one in Bengaluru. \\n \\nTo counter that, RCB will bank on their batting to come good collectively alongside the bowling upgrades needed. The likes of Faf du Plessis, Glenn Maxwell and Rajat Patidar are yet to make their presence felt in the season so far. It has further burdened a bowling line-up that is always under pressure, and while Virat Kohli's returns have been on the up, it hasn't been enough to offset the lack of contributions from his top-order partners. \\n \\nLSG float in the same boat with the returns of some of their top-order batters as RCB, but just as it is with the home side, the promise for more to come rings true. The teams need to put some of that scratchiness behind as early as possible in a long tournament. \\n \\n<b>When:</b> April 2, 2024 at 19:30 IST \\n \\n<b>Where:</b> M Chinnaswamy Stadium, Bengaluru \\n \\n<b>What to expect:</b> The pitch - the same strip used for the game against Punjab Kings - wore a distinct tinge of green on the eve of the match. In the couple of games played so far at the ground in this season, the pace bowlers were forced to resort to cutters to find some purchase. That prospect could see a change if the pitch plays as quick as it seems from the outside. \\n \\n<b>Teams</b> \\n \\n<b>Royal Challengers Bengaluru</b> \\n \\nOne question on RCB's minds would be the position of Alzarri Joseph who has not created an impact in the opportunities so far. With the likes of Lockie Ferguson and Reece Topley waiting in the wings, a change in the combination remains a distinct possibility. \\n \\n<b>Tactics and match-ups:</b> \\n \\nGlenn Maxwell's weakness against left-arm spin could be up for exploitation by Krunal Pandya who has dismissed him thrice so far. Additionally, the likes of Ravi Bishnoi and M Siddharth could also come into the equation if Maxwell's poor returns against spin (dismissed twice in 14 balls) this season continue. \\n \\n<b>Probable XII:</b> Faf du Plessis, Virat Kohli, Cameron Green, Glenn Maxwell, Rajat Patidar, Anuj Rawat, Dinesh Karthik, Alzarri Joseph/Reece Topley, Mayank Dagar, Mohammad Siraj, Vyshak Vijaykumar, Mahipal Lomror/Yash Dayal \\n \\n<b>Lucknow Super Giants</b> \\n \\nRahul's fitness concerns might not be too serious, but if he is deemed not fit, it opens the door for Deepak Hooda to be considered as a straight replacement. \\n \\n<b>Tactics and match-ups</b> \\n \\nDevdutt Padikkal, Quinton de Kock and Ayush Badoni have all been dismissed twice each against left-arm pace in this season. RCB could potentially have two such practitioners to go with if recent form is something to go by. \\n \\n<b>Probable XII:</b> KL Rahul, Quinton de Kock, Devdutt Padikkal, Marcus Stoinis, Nicholas Pooran, Ayush Badoni, Krunal Pandya, Ravi Bishnoi, Mohsin Khan, Naveen-ul-Haq, Mayank Yadav, M Siddharth \\n \\n<b>Did you know?</b> \\n \\n-Quinton de Kock has two fifties and a hundred at the Chinnaswamy stadium while Nicholas Pooran strikes at 229 at the same venue \\n \\n- Faf du Plessis has an aggregate of 219 runs in four innings against Lucknow Super Giants</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711980333801,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1711980203489,
+    "commText": "<p><b>Royal Challengers Bengaluru</b> Squad: Virat Kohli, Faf du Plessis(c), Cameron Green, Glenn Maxwell, Rajat Patidar, Anuj Rawat(w), Alzarri Joseph, Mayank Dagar, Mohammed Siraj, Yash Dayal, Vijaykumar Vyshak, Dinesh Karthik, Karn Sharma, Reece Topley, Tom Curran, Swapnil Singh, Lockie Ferguson, Mahipal Lomror, Will Jacks, Suyash Prabhudessai, Manoj Bhandage, Akash Deep, Saurav Chauhan, Rajan Kumar, Himanshu Sharma</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -393,6 +26,7 @@
   {
     "timestamp": 1711980332423,
     "commText": "<p><b>Lucknow Super Giants</b> Squad: Quinton de Kock(w), KL Rahul, Devdutt Padikkal, Marcus Stoinis, Nicholas Pooran(c), Ayush Badoni, Krunal Pandya, Ravi Bishnoi, Mohsin Khan, Mayank Yadav, Manimaran Siddharth, Naveen-ul-Haq, Amit Mishra, Kyle Mayers, Ashton Turner, Krishnappa Gowtham, Matt Henry, Deepak Hooda, Prerak Mankad, Yash Thakur, Shivam Mavi, Yudhvir Singh Charak, Arshad Khan, Shamar Joseph, Arshin Kulkarni</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -414,8 +48,393 @@
     }
   },
   {
-    "timestamp": 1711980203489,
-    "commText": "<p><b>Royal Challengers Bengaluru</b> Squad: Virat Kohli, Faf du Plessis(c), Cameron Green, Glenn Maxwell, Rajat Patidar, Anuj Rawat(w), Alzarri Joseph, Mayank Dagar, Mohammed Siraj, Yash Dayal, Vijaykumar Vyshak, Dinesh Karthik, Karn Sharma, Reece Topley, Tom Curran, Swapnil Singh, Lockie Ferguson, Mahipal Lomror, Will Jacks, Suyash Prabhudessai, Manoj Bhandage, Akash Deep, Saurav Chauhan, Rajan Kumar, Himanshu Sharma</p>",
+    "timestamp": 1711980333801,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711980333811,
+    "commText": "<p><b>Preview by Ganesh Chandrasekaran:</b> \\n \\nRoyal Challengers Bengaluru have lost two games while defending totals and won one while chasing. Consequently, even in the early stages of the IPL 2024, there are the now-familiar question marks over the team's bowling resources. That it's a product of the unforgiving nature of the ground is well-documented. How could they offset the said disadvantages remains to be answered, and will be one of the many challenges that will confront them when they take on Lucknow Super Giants, who had stolen a thrilling victory over them in the previous season at the same venue. \\n \\nThe architect of that stunning chase, Nicholas Pooran, led LSG in their previous outing this season with KL Rahul playing as an Impact sub. It might be a role that he could well continue as LSG sweat over the fitness of Rahul, who underwent some fitness drills along with his batting routine and even some wicket-keeping practice on the eve of the game. \\n \\nDespite that worry, LSG will be brimming with confidence after their victory against Punjab Kings where they also got to showcase the raw pace of 21-year-old Mayank Yadav that drew the eyeballs from the cricketing world. Despite the smaller boundary sizes on offer, Yadav's skillset of hitting the deck hard could find its use on a pitch such as the one in Bengaluru. \\n \\nTo counter that, RCB will bank on their batting to come good collectively alongside the bowling upgrades needed. The likes of Faf du Plessis, Glenn Maxwell and Rajat Patidar are yet to make their presence felt in the season so far. It has further burdened a bowling line-up that is always under pressure, and while Virat Kohli's returns have been on the up, it hasn't been enough to offset the lack of contributions from his top-order partners. \\n \\nLSG float in the same boat with the returns of some of their top-order batters as RCB, but just as it is with the home side, the promise for more to come rings true. The teams need to put some of that scratchiness behind as early as possible in a long tournament. \\n \\n<b>When:</b> April 2, 2024 at 19:30 IST \\n \\n<b>Where:</b> M Chinnaswamy Stadium, Bengaluru \\n \\n<b>What to expect:</b> The pitch - the same strip used for the game against Punjab Kings - wore a distinct tinge of green on the eve of the match. In the couple of games played so far at the ground in this season, the pace bowlers were forced to resort to cutters to find some purchase. That prospect could see a change if the pitch plays as quick as it seems from the outside. \\n \\n<b>Teams</b> \\n \\n<b>Royal Challengers Bengaluru</b> \\n \\nOne question on RCB's minds would be the position of Alzarri Joseph who has not created an impact in the opportunities so far. With the likes of Lockie Ferguson and Reece Topley waiting in the wings, a change in the combination remains a distinct possibility. \\n \\n<b>Tactics and match-ups:</b> \\n \\nGlenn Maxwell's weakness against left-arm spin could be up for exploitation by Krunal Pandya who has dismissed him thrice so far. Additionally, the likes of Ravi Bishnoi and M Siddharth could also come into the equation if Maxwell's poor returns against spin (dismissed twice in 14 balls) this season continue. \\n \\n<b>Probable XII:</b> Faf du Plessis, Virat Kohli, Cameron Green, Glenn Maxwell, Rajat Patidar, Anuj Rawat, Dinesh Karthik, Alzarri Joseph/Reece Topley, Mayank Dagar, Mohammad Siraj, Vyshak Vijaykumar, Mahipal Lomror/Yash Dayal \\n \\n<b>Lucknow Super Giants</b> \\n \\nRahul's fitness concerns might not be too serious, but if he is deemed not fit, it opens the door for Deepak Hooda to be considered as a straight replacement. \\n \\n<b>Tactics and match-ups</b> \\n \\nDevdutt Padikkal, Quinton de Kock and Ayush Badoni have all been dismissed twice each against left-arm pace in this season. RCB could potentially have two such practitioners to go with if recent form is something to go by. \\n \\n<b>Probable XII:</b> KL Rahul, Quinton de Kock, Devdutt Padikkal, Marcus Stoinis, Nicholas Pooran, Ayush Badoni, Krunal Pandya, Ravi Bishnoi, Mohsin Khan, Naveen-ul-Haq, Mayank Yadav, M Siddharth \\n \\n<b>Did you know?</b> \\n \\n-Quinton de Kock has two fifties and a hundred at the Chinnaswamy stadium while Nicholas Pooran strikes at 229 at the same venue \\n \\n- Faf du Plessis has an aggregate of 219 runs in four innings against Lucknow Super Giants</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711980333831,
+    "commText": "<p><b>18:20 Local Time, 12:50 GMT:</b> 12 out of the 14 games have been won by the home side and the two games lost are by the two teams sitting at the bottom of the table. The Chinnaswamy conundrum still remains even after 17 seasons, Royal Challengers Bengaluru are yet to crack the formula of winning their home games and the surfaces in the two matches this year have not quite been belters, Kolkata Knight Riders might dispute that but the fact remains today is another home encounter and RCB will not be the favourites. They did try to address the problem by picking a bunch of fast bowlers in the auction but that hasn't worked out. Two defeats, one close victory, it is that time now to start tinkering with the playing XI. Alzarri Joseph has shown sign zero signs that he is the answer to the bowling woes and with few more choices on the bench, Reece Topley or Lockie Ferguson might get a look in today. Batting too has not clicked with Faf and Maxwell struggling to get going and like the seasons before the sole onus falling on Kohli's shoulder. It is a new day and another chance for RCB to start clicking as a team.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711980333841,
+    "commText": "<p>Lucknow Super Giants come into this fixture on the back of an impressive win against Punjab Kings. Mayank Yadav has been the talk of the nation. The youngster kept clocking 150kph consistently and more importantly was accurate, it was his fiery burst of 3 for 27 that for the Super Giants the win. KL Rahul was used as an impact sub and Pooran took over the captaincy reins, but we are hearing that Rahul might entirely miss today's game which is not a good news. They still have the local knowledge with Padikkal and Gowtham in the squad, the former will have to step up in his state mate's absence. The bowling looked in the previous game and has a lot of variety. The head to head is 3:1 in RCB's favour but the Super Giants will try to change that today. Toss and teams coming up..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712062811656,
+    "commText": "<p>KL Rahul was seen doing short sprints under the watchful eyes of the physio. These are usally done to determine a player's fitness. He might be undergoing a fitness test and Lucknow will be hoping he passes. Meanwhile, Kohli is having some throwdowns near the boundary rope.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712063483271,
+    "commText": "<p><b>Pitch and Conditons:</b> \"Pitch number 7 which was used for the first game against Punjab Kings - 175 was the score. Average first innings score over here in the last few years has gone up to 196. What I have seen straightaway on this pitch is that it's very dry. I think there will be spin, especially for Glenn Maxwell. We saw the other night (RCB vs PBKS), Glenn Maxwell was getting turn. Both spinners for RCB were getting turn - the left-armer and the off-spinner. This pitch is very dry. It's the highest turning ground on average this year in the IPL. This area outside the off-stump for the right-handed batsmen, this is the sort of area that Maxwell will be looking to pitch the ball. It's almost like a riverbed, very dry, a lot of these cracks don't move but right next to these cracks, there's a little bit of grass as well. The ball will behave differently whether it pitches on the brown bit or the green. It may be slightly two-paced. The odd ball turns, the odd ball goes straight. A very good pitch for bowling spin\" - Murali Kartik and Graeme Swann.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712064059149,
+    "commText": "<p>Good news! KL Rahul is back as captain and is posing with Faf for the photos. We are ready for the toss..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712064342489,
+    "commText": "<p><b>Royal Challengers Bengaluru have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712064625829,
+    "commText": "<p><b>Faf du Plessis:</b> We are going to chase. The previous game we played on here first innings it was slower. Some places it is patchy and dry. It really important to find some answers. We have had some really good conversations. It would be good if you keep learning from the mistakes. There is a touch of moisture and let's see how it goes. Topley comes in for Alzarri.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712064739772,
+    "commText": "<p><b>KL Rahul:</b> It is a bit different. Been used to coming here and walking into the home dressing room, bit different when I walk into the visiting dressing room. We have showed character in both games. Everyone is chipping in and that gives you a lot of confidence, we need to keep doing that and keep getting better. Some of the guys have gotten better with their skills since season one, the combination is coming well as a team. Now we need to put some runs on the board and put pressure on the opposition. More than the victory everyone was talking about Mayank's pace, he has been with us since the first season and was unlucky to miss out last season with injury. Just one change - Mohsin Khan has a sore back and Yash Thakur comes in.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712065027228,
+    "commText": "<p><b>Lucknow Super Giants</b> (Playing XI): Quinton de Kock, KL Rahul(w/c), Devdutt Padikkal, Marcus Stoinis, Nicholas Pooran, Ayush Badoni, Krunal Pandya, Ravi Bishnoi, Yash Thakur, Naveen-ul-Haq, Mayank Yadav</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712065032764,
+    "commText": "<p><b>Royal Challengers Bengaluru</b> (Playing XI): Virat Kohli, Faf du Plessis(c), Cameron Green, Glenn Maxwell, Rajat Patidar, Dinesh Karthik, Anuj Rawat(w), Mayank Dagar, Reece Topley, Mohammed Siraj, Yash Dayal</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712065035686,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712065210284,
+    "commText": "<p><b>Royal Challengers Bengaluru Subs:</b> Suyash Prabhudessai, Mahipal Lomror, Karn Sharma, Vijaykumar Vyshak, Swapnil Singh</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712065277385,
+    "commText": "<p><b>Lucknow Super Giants Subs:</b> Manimaran Siddharth, Shamar Joseph, Deepak Hooda, Amit Mishra, Krishnappa Gowtham</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712065361635,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712066363392,
+    "commText": "<p>Players stride for the action. RCB have got Topley in and he can trouble both the LSG batters. Will those patchy grass spots aid the RCB new ball bowlers? Lone slip in place!</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

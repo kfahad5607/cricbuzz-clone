@@ -1,582 +1,8 @@
 [
   {
-    "timestamp": 1715442234787,
-    "commText": "<p>Mark Boucher rings the bell before the game begins. The umps stride out. Hardik has his boys in the huddle. Expect the ball to move and MI will not want the ball to get into any of the wet patches beyond the boundary</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715442132931,
-    "commText": "<p>We have made a few changes to our expert XI. Do have a look before locking your teams.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715442014877,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715442007917,
-    "commText": "<p><b>Mumbai Indians Impact Subs: </b>Rohit Sharma, Shams Mulani, Shivalik Sharma, Mohammad Nabi, Kumar Kartikeya</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715442001117,
-    "commText": "<p><b>Kolkata Knight Riders Impact Subs:</b> Anukul Roy, Vaibhav Arora, Suyash Sharma, Rahmanullah Gurbaz, Angkrish Raghuvanshi</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715441924518,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715441922063,
-    "commText": "<p><b>Mumbai Indians</b> (Playing XI): Ishan Kishan(w), Naman Dhir, Suryakumar Yadav, Tilak Varma, Nehal Wadhera, Hardik Pandya(c), Tim David, Anshul Kamboj, Piyush Chawla, Jasprit Bumrah, Nuwan Thushara</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715441866097,
-    "commText": "<p><b>Kolkata Knight Riders</b> (Playing XI): Philip Salt(w), Sunil Narine, Venkatesh Iyer, Shreyas Iyer(c), Rinku Singh, Nitish Rana, Andre Russell, Ramandeep Singh, Mitchell Starc, Harshit Rana, Varun Chakaravarthy</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715441525898,
-    "commText": "<p><b>Shreyas Iyer</b>: I tried it another time (toss), still it came down as heads (smiles at his record on losing tosses). It's part and parcel but it such games it's crucial. Not going to take those excuses though. We want the Q next to our team. <b>Nitish comes in for Angkrish</b>.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715441452091,
-    "commText": "<p><b>Hardik Pandya</b>: We are going to bowl. Just want to see how the pitch behaves. It has been under covers for two days. We all are aware of the stats, but you got to turn up and play good cricket on the day. <b>Same team</b>.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715441450289,
-    "commText": "<p><b>Mumbai Indians have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715441335983,
-    "commText": "<p>Toss time!</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715440728820,
-    "commText": "<p><b>Pitch report:</b> \"This is pitch no.5, the last game played on it was on the 23rd March against SRH. 67m and 62m boundaries, 75m down the ground. The spinners might quite like it. It\u2019s been under covers for so long so the spinners might get some purchase. If the pacers get it slightly wrong, it\u2019ll disappear. It\u2019s very cool here at Kolkata so it might swing around a bit\" says Danny Morrison.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715440324090,
-    "commText": "<p><b>20:42 Local Time, 15:12 GMT, 20:42 IST:</b> We've got some good news coming in. <b>The match is set to start at 9:15pm and it will be a 16-over contest</b>. The toss will be held at 9pm.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715438546065,
-    "commText": "<p><b>20:10 Local Time, 14:40 GMT:</b> Almost all the covers have come off and we can see players coming out onto the field now. The umps will inspect the conditions at <b>20:45</b>, so we could be in for a slightly shorter game.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715437510770,
-    "commText": "<p>The ump doing a test on the pitch to see if any moisture has seeped in</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715437225291,
-    "commText": "<p><b>19:50 Local Time, 14:20 GMT:</b> Covers are being taken off</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715436367510,
-    "commText": "<p><b>19:35 Local Time, 14:05 GMT:</b> Looks like rain has stopped and the groundstaff are using mops to push the water on the covers to one side so that they can remove without spilling on the outfield. Meanwhile you can see Rohit now having a chat the KKR players</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715435874691,
-    "commText": "<p>As we wait for the weather to clear, let's discuss some cricket. This IPL has seen some crazy scores and hitting with bat dominating ball quite easily. How do you see this as a fan? Also how do you see the impact sub rule? Do chirp away using the '<b>Have Your Say</b>' button on our desktop site</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715435654920,
-    "commText": "<p><b>Lasith Malinga | MI bowling coach:</b> This year it was a great experience. I have been playing over the last 12-13 years, but this year most eams have been trying to score over 200 and therefore bowlers have to be more smarter than before and skill-full, but MI are not in that path this year, but I hope they understand that in the next couple of years. Looking forward to the future. When I look at the next 5 years, most important ball is yorker, it doesn't matter the line. Bowlers have to learn to be consistent, and this new generation guys always happy to do workload management, that's why they don't get that control on each delivery. Hope, might be they have to change their mindset to by thinking with more quantity (have to manage two batters during the match) then they can get that quality. He (Bumrah) is the most experienced bowler in our line-up and with the new ball he tries to swing and after the 7th over, he bowls yorkers and slower balls with wide lines. In the game, always need to take that positive mindset.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715435647412,
-    "commText": "<p><b>Mitchell Starc: </b>We're going alright, been an interesting year. We've had a stretch at home and then games away, nice to be back home now. It's important to get that second chance, you get that big break before the final, certainly spoke about it at training the other day so that we finish in that top 2. You certainly need a bit of luck with the ball, especially with the impact player rule and the sizes of the grounds. Salt and Sunil (Narine) have been fantastic at the top of the order. There's been some fantastic batting but with the ball, it could be a little bit better. I haven't actually played a lot of T20 cricket in the last 8-9 years, so it's nice to get back into the rhythm of T20 cricket . Would have been nice to get a better start to the tournament but it has been good to contribute in the last couple of games. We've got a fantastic bowling unit too, slightly on the younger side but they've all contributed. It looks like the rain has stopped, looks like the forecast has gotten better too. It's been a gloomy day but hopefully the covers come off and we can get a game.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715434475940,
-    "commText": "<p><b>19:05 Local Time, 13:35 GMT:</b> The rain is still pretty persistent. Meanwhile the players from both sides chilling in the dressing rooms. SKY is in KKR's dressing room and he has his arm around one of the players as he is chatting away with Venky Iyer, Shreyas Iyer in the presence of coach Chandrakant Pandit</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715433670135,
-    "commText": "<p><b>18:50 Local Time, 13:20 GMT:</b> The white sheets are on at the Eden Gardens as it's been raining. Toss will be delayed. In case you don't know, the good thing here is they cover the entire ground in Kolkata like they do in Sri Lanka</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715432457670,
-    "commText": "<p><b>18:30 local, 13:00 GMT:</b> Greetings everyone! How's your weeking rolling folks? The dash for the playoffs might be over for Mumbai but Hardik Pandya has stressed that they'll give it their all for their fans and their pride. Looking back, things haven't quite worked out for the five-time champions. They made a big trade, they switched captains but unfortunately something in the formula went awry as they're now left with just a couple of games before they can sit down, look back and see what they want to do next time around. As for KKR, they're at the other end of the spectrum. A win tonight will mean that they'll become the first team to officially qualify for the playoffs and in addition, it'll also likely mean they'll finish in the top 2. Sunil Narine is having a season of a lifetime and they've had vital contributions all around right when they needed them. They've shown faith in different players and they've come good when their side was in strife. Although this game holds lesser significance in the grand scheme of the playoffs, it should be an exciting one. Stick around, toss and teams coming your way shortly.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715350064507,
-    "commText": "<p><b>Preview</b> \\n \\nFor the first time since 2019, Mumbai Indians will return to Eden Gardens where they enjoy a good record having won 10 out of 13 matches at this venue. Their last outing in Kolkata was a 34-run loss at the hands of the hosts but it turned out to be a memorable season for MI who went on to win the title for the fourth time. But in what has been an IPL 2024 of what-ifs for them, MI land in Kolkata having become the first team to be eliminated from the playoffs race. They are up against a confident Kolkata Knight Riders outfit, who having registered their first win at Wankhede in 12 years, will look to do the double over MI and become the first team to book a berth in the playoffs this season, and solidify their bid to finish in the top two. \\n \\nKKR's average powerplay score of 68 is the second highest this season, they have the joint second highest boundary percentage (30.8) in the powerplay, and have lost 16 wickets in this phase, joint second lowest after CSK's 13. MI, on the other hand, have lost as many as 25 wickets in the powerplay, the highest among all teams. Between them, Phil Salt and Sunil Narine have scored 548 runs at a combined strike rate of 180.86 in the powerplay and have been the chief contributors to KKR's success this season. Even when they had a rare failure, like they did against MI at Wankhede, KKR have found resources to make up for that. With the bowlers also delivering consistently, and Mitchell Starc having found some form with his four-fer against MI, KKR have a smooth-functioning engine which they'll be hoping helps them complete a journey that has been going quite well so far. \\n \\nMI, on the other hand, have been plagued by inconsistencies. Barring Suryakumar Yadav and Tilak Varma, their batting has been a let-down in this competition. A highest of 11 to go with single digit scores in his last five innings, Rohit Sharma hasn't been on song, nor for that matter Ishan Kishan who has a highest of 32 in his last seven outings. Apart from Jasprit Bumrah, none of their bowlers feature in the top 15 list of wicket-takers in this IPL. But the win against Sunrisers Hyderabad in their last game, where they restricted their power-packed batting to 173 before Suryakumar's century got them over the line, will give them some confidence as they'll be hoping to finish a disappointing season with a couple of victories and add more chaos to the heavy mid-table traffic. \\n \\n<b>When:</b> KKR vs MI, Saturday, May 11 at 19:30 IST \\n \\n<b>Where:</b> Eden Gardens, Kolkata \\n \\n<b>What to expect:</b> Although Delhi Capitals were restricted to 153, which the Knight Riders chased down in 16.3 overs, high scores have been the flavour of this season in Kolkata. Early in the season SRH came close to KKR's 208, RR chased down a target of 224, RCB fell one short of KKR's 222 while Punjab Kings mowed down a target of 262 in 18.4 overs. Another high-scoring game is on the cards. Although it has been raining in Kolkata and disrupted KKR's arrival in the city, the forecast around the match time looks promising. \\n \\n<b>Head to head:</b> Kolkata Knight Riders 10 - 23 Mumbai Indians \\n \\n<b>Teams watch</b> \\n \\n<b>Kolkata Knight Riders</b> \\n \\n<b>Injury/Availability:</b> The KKR camp currently don't have any injury concerns. \\n \\n<b>Tactics & Matchups:</b> Including his dismissal in the last MI-KKR clash, Rohit Sharma has been dismissed 10 times by Sunil Narine while he has also fallen to left-arm pace five times this season, which would make Mitchell Starc a good combination with the West Indian in the powerplay. Among the current KKR batters, Shreyas Iyer has handled Jasprit Bumrah pretty well - 59 runs off 40 balls, 1 dismissal, batting strike rate of 147.50 - and the home team will bank on the skipper to negate his threat as well as take on the MI spinners. Andre Russell has dismissed Suryakumar thrice in 26 deliveries, including the last match, and KKR could look at this matchup to work in their favour. \\n \\n<b>Probable XI:</b> Phil Salt (wk), Sunil Narine, Angkrish Raghuvanshi, Shreyas Iyer (c), Venkatesh Iyer, Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Varun Chakaravarthy, Harshit Rana [Impact sub: Vaibhav Arora/Manish Pandey] \\n \\n<b>Mumbai Indians</b> \\n \\n<b>Injury/Availability:</b> MI also don't have any fitness-related issues in their setup. \\n \\n<b>Tactics & Matchups:</b> Nuwan Thushara made an early impact against KKR in the last game and MI will bank on the slingy paceman from Sri Lanka to deliver again. Bumrah is a good matchup against Venkatesh Iyer and Rinku Singh, having dismissed them twice each. They could also perhaps consider Luke Wood who despite registering the most expensive figures for MI (1-68 vs DC) can offer some favourable matchups for MI against the likes of Narine, Shreyas and Venkatesh, who have been dismissed by left-arm pace a combined nine times in this IPL. \\n \\n<b>Probable XI:</b> Ishan Kishan (wk), Rohit Sharma, Naman Dhir, Suryakumar Yadav, Tilak Varma, Hardik Pandya (c), Tim David, Anshul Kamboj/Luke Wood, Piyush Chawla, Jasprit Bumrah, Nuwan Thushara. [Imact sub: Dewald Brevis/Romario Shepherd] \\n \\n<b>Did you know?</b> \\n \\n- Kolkata Knight Riders' top three have contributed 1160 runs this season, the second most after RCB, their combined strike rate of 176.02 is the second highest after SRH, and have the second most number of fifty-plus scores (10) after RCB. MI's top-three have scored the least runs (833) and have the joint least fifty-plus scores (4) along with Punjab Kings. \\n \\n- Among the pacers who have bowled 20 overs or more in this IPL, Mitchell Starc's economy rate of 11.37 in the second most after Anrich Nortje's 13.36 \\n \\n- Jasprit Bumrah has bowled 139 dot deliveries, the most in this IPL, and his economy of 6.2 is the least among all bowlers. For KKR, Sunil Narine has bowled the most dot deliveries (101) and is second on the list of best economy with 6.61 (minimum 10 overs) \\n \\n<b>What they said</b> \\n \\n\"They have been splendid for us, the way they are playing their shots is pure bliss. They are setting us up and giving momentum and no matter what the situation is, we are playing with a positive mindset. A lefty-righty combination makes things difficult for the opposition, the bowlers have to change their plans and that makes a difference\" - <b>Shreyas Iyer</b>, KKR captain, on the openers.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715350064497,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1715349951583,
+    "commText": "<p><b>Kolkata Knight Riders</b> Squad: Philip Salt(w), Sunil Narine, Angkrish Raghuvanshi, Shreyas Iyer(c), Venkatesh Iyer, Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Varun Chakaravarthy, Harshit Rana, Anukul Roy, Manish Pandey, Vaibhav Arora, Srikar Bharat, Sherfane Rutherford, Dushmantha Chameera, Nitish Rana, Rahmanullah Gurbaz, Chetan Sakariya, Sakib Hussain, Suyash Sharma, Allah Ghazanfar</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -600,6 +26,7 @@
   {
     "timestamp": 1715350063030,
     "commText": "<p><b>Mumbai Indians</b> Squad: Ishan Kishan(w), Rohit Sharma, Naman Dhir, Suryakumar Yadav, Tilak Varma, Hardik Pandya(c), Tim David, Anshul Kamboj, Piyush Chawla, Jasprit Bumrah, Nuwan Thushara, Nehal Wadhera, Shams Mulani, Shivalik Sharma, Dewald Brevis, Romario Shepherd, Mohammad Nabi, Shreyas Gopal, Luke Wood, Harvik Desai, Gerald Coetzee, Arjun Tendulkar, Kumar Kartikeya, Akash Madhwal, Kwena Maphaka</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -621,8 +48,609 @@
     }
   },
   {
-    "timestamp": 1715349951583,
-    "commText": "<p><b>Kolkata Knight Riders</b> Squad: Philip Salt(w), Sunil Narine, Angkrish Raghuvanshi, Shreyas Iyer(c), Venkatesh Iyer, Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Varun Chakaravarthy, Harshit Rana, Anukul Roy, Manish Pandey, Vaibhav Arora, Srikar Bharat, Sherfane Rutherford, Dushmantha Chameera, Nitish Rana, Rahmanullah Gurbaz, Chetan Sakariya, Sakib Hussain, Suyash Sharma, Allah Ghazanfar</p>",
+    "timestamp": 1715350064497,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715350064507,
+    "commText": "<p><b>Preview</b> \\n \\nFor the first time since 2019, Mumbai Indians will return to Eden Gardens where they enjoy a good record having won 10 out of 13 matches at this venue. Their last outing in Kolkata was a 34-run loss at the hands of the hosts but it turned out to be a memorable season for MI who went on to win the title for the fourth time. But in what has been an IPL 2024 of what-ifs for them, MI land in Kolkata having become the first team to be eliminated from the playoffs race. They are up against a confident Kolkata Knight Riders outfit, who having registered their first win at Wankhede in 12 years, will look to do the double over MI and become the first team to book a berth in the playoffs this season, and solidify their bid to finish in the top two. \\n \\nKKR's average powerplay score of 68 is the second highest this season, they have the joint second highest boundary percentage (30.8) in the powerplay, and have lost 16 wickets in this phase, joint second lowest after CSK's 13. MI, on the other hand, have lost as many as 25 wickets in the powerplay, the highest among all teams. Between them, Phil Salt and Sunil Narine have scored 548 runs at a combined strike rate of 180.86 in the powerplay and have been the chief contributors to KKR's success this season. Even when they had a rare failure, like they did against MI at Wankhede, KKR have found resources to make up for that. With the bowlers also delivering consistently, and Mitchell Starc having found some form with his four-fer against MI, KKR have a smooth-functioning engine which they'll be hoping helps them complete a journey that has been going quite well so far. \\n \\nMI, on the other hand, have been plagued by inconsistencies. Barring Suryakumar Yadav and Tilak Varma, their batting has been a let-down in this competition. A highest of 11 to go with single digit scores in his last five innings, Rohit Sharma hasn't been on song, nor for that matter Ishan Kishan who has a highest of 32 in his last seven outings. Apart from Jasprit Bumrah, none of their bowlers feature in the top 15 list of wicket-takers in this IPL. But the win against Sunrisers Hyderabad in their last game, where they restricted their power-packed batting to 173 before Suryakumar's century got them over the line, will give them some confidence as they'll be hoping to finish a disappointing season with a couple of victories and add more chaos to the heavy mid-table traffic. \\n \\n<b>When:</b> KKR vs MI, Saturday, May 11 at 19:30 IST \\n \\n<b>Where:</b> Eden Gardens, Kolkata \\n \\n<b>What to expect:</b> Although Delhi Capitals were restricted to 153, which the Knight Riders chased down in 16.3 overs, high scores have been the flavour of this season in Kolkata. Early in the season SRH came close to KKR's 208, RR chased down a target of 224, RCB fell one short of KKR's 222 while Punjab Kings mowed down a target of 262 in 18.4 overs. Another high-scoring game is on the cards. Although it has been raining in Kolkata and disrupted KKR's arrival in the city, the forecast around the match time looks promising. \\n \\n<b>Head to head:</b> Kolkata Knight Riders 10 - 23 Mumbai Indians \\n \\n<b>Teams watch</b> \\n \\n<b>Kolkata Knight Riders</b> \\n \\n<b>Injury/Availability:</b> The KKR camp currently don't have any injury concerns. \\n \\n<b>Tactics & Matchups:</b> Including his dismissal in the last MI-KKR clash, Rohit Sharma has been dismissed 10 times by Sunil Narine while he has also fallen to left-arm pace five times this season, which would make Mitchell Starc a good combination with the West Indian in the powerplay. Among the current KKR batters, Shreyas Iyer has handled Jasprit Bumrah pretty well - 59 runs off 40 balls, 1 dismissal, batting strike rate of 147.50 - and the home team will bank on the skipper to negate his threat as well as take on the MI spinners. Andre Russell has dismissed Suryakumar thrice in 26 deliveries, including the last match, and KKR could look at this matchup to work in their favour. \\n \\n<b>Probable XI:</b> Phil Salt (wk), Sunil Narine, Angkrish Raghuvanshi, Shreyas Iyer (c), Venkatesh Iyer, Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Varun Chakaravarthy, Harshit Rana [Impact sub: Vaibhav Arora/Manish Pandey] \\n \\n<b>Mumbai Indians</b> \\n \\n<b>Injury/Availability:</b> MI also don't have any fitness-related issues in their setup. \\n \\n<b>Tactics & Matchups:</b> Nuwan Thushara made an early impact against KKR in the last game and MI will bank on the slingy paceman from Sri Lanka to deliver again. Bumrah is a good matchup against Venkatesh Iyer and Rinku Singh, having dismissed them twice each. They could also perhaps consider Luke Wood who despite registering the most expensive figures for MI (1-68 vs DC) can offer some favourable matchups for MI against the likes of Narine, Shreyas and Venkatesh, who have been dismissed by left-arm pace a combined nine times in this IPL. \\n \\n<b>Probable XI:</b> Ishan Kishan (wk), Rohit Sharma, Naman Dhir, Suryakumar Yadav, Tilak Varma, Hardik Pandya (c), Tim David, Anshul Kamboj/Luke Wood, Piyush Chawla, Jasprit Bumrah, Nuwan Thushara. [Imact sub: Dewald Brevis/Romario Shepherd] \\n \\n<b>Did you know?</b> \\n \\n- Kolkata Knight Riders' top three have contributed 1160 runs this season, the second most after RCB, their combined strike rate of 176.02 is the second highest after SRH, and have the second most number of fifty-plus scores (10) after RCB. MI's top-three have scored the least runs (833) and have the joint least fifty-plus scores (4) along with Punjab Kings. \\n \\n- Among the pacers who have bowled 20 overs or more in this IPL, Mitchell Starc's economy rate of 11.37 in the second most after Anrich Nortje's 13.36 \\n \\n- Jasprit Bumrah has bowled 139 dot deliveries, the most in this IPL, and his economy of 6.2 is the least among all bowlers. For KKR, Sunil Narine has bowled the most dot deliveries (101) and is second on the list of best economy with 6.61 (minimum 10 overs) \\n \\n<b>What they said</b> \\n \\n\"They have been splendid for us, the way they are playing their shots is pure bliss. They are setting us up and giving momentum and no matter what the situation is, we are playing with a positive mindset. A lefty-righty combination makes things difficult for the opposition, the bowlers have to change their plans and that makes a difference\" - <b>Shreyas Iyer</b>, KKR captain, on the openers.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715432457670,
+    "commText": "<p><b>18:30 local, 13:00 GMT:</b> Greetings everyone! How's your weeking rolling folks? The dash for the playoffs might be over for Mumbai but Hardik Pandya has stressed that they'll give it their all for their fans and their pride. Looking back, things haven't quite worked out for the five-time champions. They made a big trade, they switched captains but unfortunately something in the formula went awry as they're now left with just a couple of games before they can sit down, look back and see what they want to do next time around. As for KKR, they're at the other end of the spectrum. A win tonight will mean that they'll become the first team to officially qualify for the playoffs and in addition, it'll also likely mean they'll finish in the top 2. Sunil Narine is having a season of a lifetime and they've had vital contributions all around right when they needed them. They've shown faith in different players and they've come good when their side was in strife. Although this game holds lesser significance in the grand scheme of the playoffs, it should be an exciting one. Stick around, toss and teams coming your way shortly.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715433670135,
+    "commText": "<p><b>18:50 Local Time, 13:20 GMT:</b> The white sheets are on at the Eden Gardens as it's been raining. Toss will be delayed. In case you don't know, the good thing here is they cover the entire ground in Kolkata like they do in Sri Lanka</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715434475940,
+    "commText": "<p><b>19:05 Local Time, 13:35 GMT:</b> The rain is still pretty persistent. Meanwhile the players from both sides chilling in the dressing rooms. SKY is in KKR's dressing room and he has his arm around one of the players as he is chatting away with Venky Iyer, Shreyas Iyer in the presence of coach Chandrakant Pandit</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715435647412,
+    "commText": "<p><b>Mitchell Starc: </b>We're going alright, been an interesting year. We've had a stretch at home and then games away, nice to be back home now. It's important to get that second chance, you get that big break before the final, certainly spoke about it at training the other day so that we finish in that top 2. You certainly need a bit of luck with the ball, especially with the impact player rule and the sizes of the grounds. Salt and Sunil (Narine) have been fantastic at the top of the order. There's been some fantastic batting but with the ball, it could be a little bit better. I haven't actually played a lot of T20 cricket in the last 8-9 years, so it's nice to get back into the rhythm of T20 cricket . Would have been nice to get a better start to the tournament but it has been good to contribute in the last couple of games. We've got a fantastic bowling unit too, slightly on the younger side but they've all contributed. It looks like the rain has stopped, looks like the forecast has gotten better too. It's been a gloomy day but hopefully the covers come off and we can get a game.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715435654920,
+    "commText": "<p><b>Lasith Malinga | MI bowling coach:</b> This year it was a great experience. I have been playing over the last 12-13 years, but this year most eams have been trying to score over 200 and therefore bowlers have to be more smarter than before and skill-full, but MI are not in that path this year, but I hope they understand that in the next couple of years. Looking forward to the future. When I look at the next 5 years, most important ball is yorker, it doesn't matter the line. Bowlers have to learn to be consistent, and this new generation guys always happy to do workload management, that's why they don't get that control on each delivery. Hope, might be they have to change their mindset to by thinking with more quantity (have to manage two batters during the match) then they can get that quality. He (Bumrah) is the most experienced bowler in our line-up and with the new ball he tries to swing and after the 7th over, he bowls yorkers and slower balls with wide lines. In the game, always need to take that positive mindset.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715435874691,
+    "commText": "<p>As we wait for the weather to clear, let's discuss some cricket. This IPL has seen some crazy scores and hitting with bat dominating ball quite easily. How do you see this as a fan? Also how do you see the impact sub rule? Do chirp away using the '<b>Have Your Say</b>' button on our desktop site</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715436367510,
+    "commText": "<p><b>19:35 Local Time, 14:05 GMT:</b> Looks like rain has stopped and the groundstaff are using mops to push the water on the covers to one side so that they can remove without spilling on the outfield. Meanwhile you can see Rohit now having a chat the KKR players</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715437225291,
+    "commText": "<p><b>19:50 Local Time, 14:20 GMT:</b> Covers are being taken off</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715437510770,
+    "commText": "<p>The ump doing a test on the pitch to see if any moisture has seeped in</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715438546065,
+    "commText": "<p><b>20:10 Local Time, 14:40 GMT:</b> Almost all the covers have come off and we can see players coming out onto the field now. The umps will inspect the conditions at <b>20:45</b>, so we could be in for a slightly shorter game.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715440324090,
+    "commText": "<p><b>20:42 Local Time, 15:12 GMT, 20:42 IST:</b> We've got some good news coming in. <b>The match is set to start at 9:15pm and it will be a 16-over contest</b>. The toss will be held at 9pm.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715440728820,
+    "commText": "<p><b>Pitch report:</b> \"This is pitch no.5, the last game played on it was on the 23rd March against SRH. 67m and 62m boundaries, 75m down the ground. The spinners might quite like it. It\u2019s been under covers for so long so the spinners might get some purchase. If the pacers get it slightly wrong, it\u2019ll disappear. It\u2019s very cool here at Kolkata so it might swing around a bit\" says Danny Morrison.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715441335983,
+    "commText": "<p>Toss time!</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715441450289,
+    "commText": "<p><b>Mumbai Indians have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715441452091,
+    "commText": "<p><b>Hardik Pandya</b>: We are going to bowl. Just want to see how the pitch behaves. It has been under covers for two days. We all are aware of the stats, but you got to turn up and play good cricket on the day. <b>Same team</b>.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715441525898,
+    "commText": "<p><b>Shreyas Iyer</b>: I tried it another time (toss), still it came down as heads (smiles at his record on losing tosses). It's part and parcel but it such games it's crucial. Not going to take those excuses though. We want the Q next to our team. <b>Nitish comes in for Angkrish</b>.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715441866097,
+    "commText": "<p><b>Kolkata Knight Riders</b> (Playing XI): Philip Salt(w), Sunil Narine, Venkatesh Iyer, Shreyas Iyer(c), Rinku Singh, Nitish Rana, Andre Russell, Ramandeep Singh, Mitchell Starc, Harshit Rana, Varun Chakaravarthy</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715441922063,
+    "commText": "<p><b>Mumbai Indians</b> (Playing XI): Ishan Kishan(w), Naman Dhir, Suryakumar Yadav, Tilak Varma, Nehal Wadhera, Hardik Pandya(c), Tim David, Anshul Kamboj, Piyush Chawla, Jasprit Bumrah, Nuwan Thushara</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715441924518,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715442001117,
+    "commText": "<p><b>Kolkata Knight Riders Impact Subs:</b> Anukul Roy, Vaibhav Arora, Suyash Sharma, Rahmanullah Gurbaz, Angkrish Raghuvanshi</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715442007917,
+    "commText": "<p><b>Mumbai Indians Impact Subs: </b>Rohit Sharma, Shams Mulani, Shivalik Sharma, Mohammad Nabi, Kumar Kartikeya</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715442014877,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715442132931,
+    "commText": "<p>We have made a few changes to our expert XI. Do have a look before locking your teams.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715442234787,
+    "commText": "<p>Mark Boucher rings the bell before the game begins. The umps stride out. Hardik has his boys in the huddle. Expect the ball to move and MI will not want the ball to get into any of the wet patches beyond the boundary</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

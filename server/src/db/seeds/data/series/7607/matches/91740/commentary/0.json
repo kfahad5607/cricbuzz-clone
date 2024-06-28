@@ -1,513 +1,8 @@
 [
   {
-    "timestamp": 1716732066186,
-    "commText": "<p>Head isn't taking strike, it'll be Abhishek Sharma, one slip in place.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716731652803,
-    "commText": "<p>Pat Cummins won the toss in QF1, batted first and was left to regret that call. He has opted\u00a0to bat first once again and he'll hope that the dew doesn't come. Always good to bat first in a big final, the onus is on SRH to put up a total on the board.\u00a0The players are out in the middle for the national anthem of India. The two on-field umpires walk out to the middle - Jayaraman Madanagopal and Nitin Menon, KKR are quick onto the field, it'll be Starc v Head once again, a big sub-plot and one which could decide which way this final goes.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716731253914,
-    "commText": "<p><b>Travis Head</b>: It's another final. It's nice to be here, it's been a very enjoyable couple of months, so hopefully we can top it off tonight and please a lot of fans. (On losing 4 & 3 wickets in the powerplay in the last two matches) We'd obviously like to lose a little bit less. We got to 170 both times without hitting the marks that we wanted to hit. That's exciting as a group and we spoke about that - we want to go out and continue to play aggressive, play positively and do what we've done the whole time. The positive is that we've been able to get to totals that's given us half a chance with a powerplay like that. So hopefully tonight we can get off to a really good start and get to a really big score. (Any advantage having played Qualifier 2 at this venue?) We'll say yes and they'll say no. We have to come prepared and we are ready to go. We had a look at it the other day, it'll be completely different. It's about making sure that we sum those conditions up as quickly as we can and communicate that well. If it's with the bat, get off to the best start we can with me and Abhi (Abhishek Sharma). If it's the ball, then Bhuvi will kickstart that for us. (Battle against Starc) We have had our battles over the years and he's won a fair few of them, hopefully knock the shine off him tonight and then we get off to a good start.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716731104170,
-    "commText": "<p>We've made no changes to our pre-toss expert XI. Do have a look before you finalize your fantasy picks.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716730632163,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716730609243,
-    "commText": "<p><b>Sunrisers Hyderabad Impact Subs: </b>Umran Malik, Glenn Phillips, Mayank Markande, Abdul Samad, Washington Sundar</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716730601363,
-    "commText": "<p><b>Kolkata Knight Riders Impact Subs: </b>Anukul Roy, Manish Pandey, Nitish Rana, KS Bharat, Sherfaine Rutherford</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716730582835,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716730539748,
-    "commText": "<p><b>Kolkata Knight Riders</b> (Playing XI): Rahmanullah Gurbaz(w), Sunil Narine, Venkatesh Iyer, Shreyas Iyer(c), Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Vaibhav Arora, Harshit Rana, Varun Chakaravarthy</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716730504956,
-    "commText": "<p><b>Sunrisers Hyderabad</b> (Playing XI): Travis Head, Abhishek Sharma, Rahul Tripathi, Aiden Markram, Nitish Reddy, Heinrich Klaasen(w), Shahbaz Ahmed, Pat Cummins(c), Bhuvneshwar Kumar, Jaydev Unadkat, T Natarajan</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716730444721,
-    "commText": "<p><b>Shreyas Iyer - </b>We would have bowled, we'll get a fair idea about how the pitch will play. It's a red soil and we played our last game on a similar surface. We need to stay with the present, stick to the basics and execute all our plans. Every individual is taking responsibility, this is a big game, we've plenty of people who're playing in a final for the first time, nervous, but this is also a good chance. We're going with the same team</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716730384487,
-    "commText": "<p><b>Pat Cummins - </b>We will bat first. Looks like a good wicket, played on a different wicket the other night. There was no dew on the other night's game, we have a style which doesn't work always, but when it does, it's very damaging. I want to crack with the bat first. We have done well defending scores. Pretty much the same, Shahbaz comes in for Samad.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716730264018,
-    "commText": "<p><b>Sunrisers Hyderabad have won the toss and have opted to bat</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716730034212,
-    "commText": "<p><b>Mitchell Starc:</b> We had one (practice session) interrupted by rain last night. We all got warmed up and ready to go and then the rain came, so hopefully that's not the case tonight. It was nice to get here early after our game in Ahmedabad, obviously we watched the other game (Qualifier 2) here last night unfold which resulted in us playing the Sunrisers, everyone is ready to go. Sunrisers played here a couple of nights ago but it is a different wicket, it will be about adapting with the bat and ball, I think powerplay in both innings is going to be what shapes the game, we were on the better side of that in Ahmedabad and hopefully it is the same here, but we know in T20 cricket anything can happen. I missed that game with a cut on my finger, I felt that my rhythm was building up being back into T20 cricket after a fair while, so thankfully that has been the case and got back into rhythm - the intensity and how quickly you need to adapt in T20 to conditions or how the batting team goes about it. Our bowling unit has been fantastic throughout, the openers at the top order have been phenomenal as well and we have just gone about our business as a group, trying to improve game on game and find ourselves in the final. It has been nice personally to contribute to that and hopefully it is another successful night tonight.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716729983793,
-    "commText": "<p><b>Rinku Singh:</b> (Secret behind KKR's success) Team atmosphere is superb. Whenever we enter the dressing room, Ramandeep Singh plays Punjabi songs and it changes the environment. GG (Gautam Gambhir) sir and Chandru (Chandrakant Pandit) sir have given us a lot of freedom. The thought process remains the same (for the final), playing according to the match situation. It'll be a dream come true to win a senior trophy. I'll try to give my best. Hopefully we win the match. We have played a match here as well, so we know how the wicket plays. I never look too far ahead, I always stay in the present.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716729547028,
-    "commText": "<p><b>More from Prakash</b>: It's a humid evening and slightly overcast. Game today on pitch #4 which is more central of all the pitches. It's also a red soil wicket. CSK lost to PBKS on it on May 1. Some bowling on the side for Markram. Might be an option against the left-handers in KKR's line-up. Meanwhile, Umran Malik just marked his run-up. He's done it in previous games too but wasn't brought on as an impact sub.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716728823974,
-    "commText": "<p>It's a red soil pitch, 63m and 70m square boundaries, the straight boundary is at 77m. Red clay tends to have a lot of bounce, this is a well prepared pitch and we should have a high scoring game. The scores could range anywhere around 175-190. This is the third final at this venue and there have been high scores in both the previous games. Not a lot of spin, but significant bounce. Unconventional\u00a0shots, horizontal\u00a0bat shots is what the batters will look to do against spin. The groundsmen\u00a0have assured that <b>there'll be no dew tonight as well</b>, say <b>Ian Bishop and Matthew Hayden</b>, in their pitch report.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716728350650,
-    "commText": "<p>Our man at the ground, <b>Prakash Govindasreenivasan</b>, has some early info regarding the game and the conditions. 'It's a humid evening and slightly overcast. Game today on pitch #4 which is more central of all the pitches. It's also a red soil wicket. CSK lost to PBKS on it on May 1', he says.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716727699934,
-    "commText": "<p><b>Star Performers</b> - It has been a collective effort from the Knight Riders and they've got contributions from the unlikeliest sources as well. Sunil Narine was back as an opener and he's their leading run-scorer with 482 runs. Phil Salt was brought in as Jason Roy's replacement and he finished with 435 runs. As many as four others topped at least 200+ runs. In the bowling front, as many as 6 players took 10 or more wickets. A complete team effort and it's no wonder that they were easily the best team of the season. On the other hand, the Sunrisers have depended heavily on their powerful batting line-up. With 567 runs and a SR of 192.2, Travis Head tops the charts. Five others have gone past at least 200+ runs, but only three bowlers have entered double digits in the wickets column. But tonight's completely different - one good batting performance or one good bowling spell could lead to a title dash.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716727204354,
-    "commText": "<p><b>18:10 Local Time, 12:40 GMT, 18:10 IST:</b> Road to the final - It has been plain sailing as far as the Knight Riders are concerned in this season's tournament. They suffered only 3 losses and haven't been beaten by any team for exactly one month. On the other hand, the Sunrisers had to wait until their 13th game to confirm a playoff position and then won their last match to secure a top-2 spot. In the big scheme of things, they've never beaten the Knight Riders this season. They were beaten by a 4-run margin in a close opening encounter, but there was nothing close to their hammering in Qualifier 1.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716726600975,
-    "commText": "<p><b>18:00 Local Time, 12:30 GMT, 18:00 IST:</b> After 70 league matches and 3 playoffs, we're here for the grand finale. It's the IPL final and it pits 2-time champion, Kolkata Knight Riders, up against the 2016 champions, Sunrisers Hyderabad. It's been a long wait for both teams to add to their collection, both teams did make it to the finals once, the Knight Riders in 2021 and the Sunrisers in 2018, only for both of them to be beaten by the Chennai Super Kings (CSK). It's pretty ironic then that both teams will now meet at CSK's homeground Chepauk, with destiny firmly in their hands.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716646152770,
-    "commText": "<p><b>Preview</b> by <b>Prakash Govindasreenivasan</b> \\n \\nBattersea Power station in June 2023. Adalaj Stepwell, Ahmedabad in November 2023. Marina Beach, Chennai in May 2024. At every major cricket trophy photoshoot ahead of a big final in the last 12 months, Pat Cummins has made it to the frame. Twice, he managed to nudge the opposing captain - Rohit Sharma both times - out of the crowning glory frame a little over 24 hours later. \\n \\nSunday's summit clash is a locking of horns between two unusual suspects. Neither is gunning for a record sixth title to lord it over the other with five, while the most incredible redemption arc of this season too died at the doorsteps of the final. Instead we have two cold, calculative batting behemoths who have written and rewritten standards for this season. \\n \\nThe array of batting talent that will take the field is only part of why Sunday's game will be a spectacle. A title tussle between two teams with middling, nondescript identity for two-thirds of this cycle makes for a fascinating sub-plot. After successive finishes in the lower half of the table, something had to give for both franchises. Their trophy cabinets weren't empty, but had been sealed shut without an addition for too long. \\n \\nKKR delved into the depths of their success from a decade ago to bring back an old messiah in the anticipation of his tales and tactics sparking new life. SRH punted on a recent trophy-glutton to flip their fortunes around. As the last two months have shown, both Gambhir and Cummins have been inspired acquisitions. \\n \\nOn the field too, the narratives run deep and criss-cross. They might strut about with identical batting philosophies, but the bowling ideas and the weaponry could not be more different. The two teams played out a one-sided Q1 just days ago, but should take nothing of it into Sunday. Against a lesser-fancied Cummins team with a trophy at stake, Shreyas will perhaps be watching over his shoulder for that dreaded nudge. \\n \\n<b>When:</b> Kolkata Knight Riders vs Sunrisers Hyderabad, IPL 2024 Final, May 26, 07:30 PM IST \\n \\n<b>Where:</b> MA Chidambaram stadium, Chennai \\n \\n<b>What to expect:</b> The uncertainty of dew. It stayed away just two nights ago in the second qualifier but what transpires on Sunday is unknown. Even Pat Cummins admitted there wasn't a way of making an educated guess about its arrival or otherwise. The final will be played on pitch #4, a red soil wicket. It's the same pitch where CSK lost to PBKS at the start of this month, with Punjab's spin pair of Harpreet Brar and Rahul Chahar picking 4 for 33 in 8 overs between them. On that day, PBKS were assisted by dew in their chase of CSK's 162/7. \\n \\nA spell of steady showers swung the ground staff into action on Saturday evening and cut KKR's practice session short but the forecast for match day appears to be clear. \\n \\n<b>Head to Head:</b> KKR 18 - 9 SRH. \\n \\n<b>Team Watch:</b> \\n \\n<b>Kolkata Knight Riders</b> \\n \\n<b>Injury/Unavailability:</b> Q1 winners have no absentees from the squad that beat SRH four days ago. \\n \\n<b>Tactics & Match-ups:</b> KKR have already got a taste of taking out SRH's openers Travis Head and Abhishek Sharma early to devastating effect. Round 2 of Starc vs Head could be a great start to the final, even as the latter has been effective against left-arm pacers. \\n \\nShould the KKR top-order have an off-day, Andre Russell's abilities against the majority of SRH's bowling attack will be the way out for the two-time champions. Russell has taken on Bhuvneshwar Kumar the most of the lot, hitting 97 off 37 balls in the IPL. Against Natarajan, SRH's best bowler this season, he has smashed 43 off 26. Jaydev Unadkat has been taken apart for 24 in just 9 balls. \\n \\n<b>Probable XII:</b> Sunil Narine, Rahmanullah Gurbaz (wk), Venkatesh Iyer, Shreyas Iyer (c), Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Vaibhav Arora, Harshit Rana, Varun Chakravarthy [Impact substitute: Anukul Roy/Nitish Rana] \\n \\n<b>Sunrisers Hyderabad</b> \\n \\n<b>Injury/Unavailability:</b> Nothing new to report for SRH since the second qualifier. \\n \\n<b>Tactics & Match-ups:</b> In a venue where pace has been significantly more influential than spin, the 2016 champions will rely on the quartet of Bhuveshwar Kumar, Pat Cummins, T Natarajan and Jaydev Unadkat against one of the best top-orders this season. Sunil Narine fell to Cummins a couple of days ago, but has also struggled to get away against Bhuvneshwar [31 runs | 28 balls | 2 wickets] and Unadkat [19 runs | 22 balls | 3 wickets]. One of KKR's pulverisers with the bat, Venkatesh Iyer, has been dismissed twice in 7 balls by Natarajan, while Bhuvneshwar has conceded at a sub-100 strike rate to both Venkatesh and Shreyas Iyer. \\n \\nSRH brought back Aiden Markram after Q1 to give their batting some solidity in case of a top-order collapse around him. Markram's numbers against Varun CV, a 20-wicket spinner for the second season in a row with an appreciable economy rate (8.15 and 8.19), makes him an option once again. \\n \\nThis game will be a test of Cummins's bowling management. KKR come armed with left-handers at the top (Narine) and in the middle (Venkatesh Iyer and Rinku Singh), minimising the scope for Cummins to use either of his match winners from two days ago (Abhishek Sharma and Shahbaz Ahmed). He might have to find a small window with two right-handers in the middle to sneak in an over or two from either, while the quicks bowl the rest. Nitish Reddy's bowling services could also be summoned. \\n \\n<b>Probable XII:</b>Travis Head, Abhishek Sharma, Rahul Tripathi, Aiden Markram, Nitish Reddy, Heinrich Klaasen (wk), Abdul Samad, Pat Cummins (c), Bhuvneshwar Kumar, Jaydev Unadkat, T Natarajan [Impact substitute: Shahbaz Ahmed/Umran Malik] \\n \\n<b>Did you know:</b> \\n \\n- Team winning the Qualifier 1 has won each of the last six IPL finals (2018 to 2023). \\n \\n- Narine has gone wicketless in seven of 13 playoff fixtures he's played in. In the other 6, he has 11 wickets. \\n \\n- KKR have conceded runs at 8.50 in the middle-overs (7-15) this season - the best returns. SRH have given away runs at 9.59 in this phase. In this period, KKR have picked 46 wickets while SRH have 36. \\n \\n<b>What they said:</b> \\n \\n\"I think data and analytics is there as a tool to use but it's just one factor in the decision making process. In T20 you play a lot of games but no two games are exactly the same. It's different wickets, different oppositions, different forms so data can only take you so far. I think there's still a strong place for gut feel and intuition.\" - SRH captain <b>Pat Cummins</b> \\n \\n\"To be honest, I feel whatever the nature is going to provide to you at that particular point of time... if it [dew] has to happen, it will happen. You have no control over it. All you have control over is your skills and your abilities and how strong your mindset is tomorrow. I think basically you should focus on that rather than the dew factor.\" - KKR captain <b>Shreyas Iyer</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1716646152760,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1716646003461,
+    "commText": "<p><b>Kolkata Knight Riders</b> Squad: Rahmanullah Gurbaz(w), Sunil Narine, Venkatesh Iyer, Shreyas Iyer(c), Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Vaibhav Arora, Harshit Rana, Varun Chakaravarthy, Anukul Roy, Manish Pandey, Nitish Rana, Srikar Bharat, Sherfane Rutherford, Dushmantha Chameera, Chetan Sakariya, Angkrish Raghuvanshi, Sakib Hussain, Suyash Sharma, Allah Ghazanfar</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -531,6 +26,7 @@
   {
     "timestamp": 1716646150548,
     "commText": "<p><b>Sunrisers Hyderabad</b> Squad: Travis Head, Abhishek Sharma, Rahul Tripathi, Aiden Markram, Nitish Reddy, Heinrich Klaasen(w), Abdul Samad, Pat Cummins(c), Bhuvneshwar Kumar, T Natarajan, Jaydev Unadkat, Shahbaz Ahmed, Umran Malik, Sanvir Singh, Glenn Phillips, Mayank Markande, Mayank Agarwal, Washington Sundar, Anmolpreet Singh, Upendra Yadav, Jhatavedh Subramanyan, Vijayakanth Viyaskanth, Fazalhaq Farooqi, Marco Jansen, Akash Maharaj Singh</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -552,8 +48,537 @@
     }
   },
   {
-    "timestamp": 1716646003461,
-    "commText": "<p><b>Kolkata Knight Riders</b> Squad: Rahmanullah Gurbaz(w), Sunil Narine, Venkatesh Iyer, Shreyas Iyer(c), Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Vaibhav Arora, Harshit Rana, Varun Chakaravarthy, Anukul Roy, Manish Pandey, Nitish Rana, Srikar Bharat, Sherfane Rutherford, Dushmantha Chameera, Chetan Sakariya, Angkrish Raghuvanshi, Sakib Hussain, Suyash Sharma, Allah Ghazanfar</p>",
+    "timestamp": 1716646152760,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716646152770,
+    "commText": "<p><b>Preview</b> by <b>Prakash Govindasreenivasan</b> \\n \\nBattersea Power station in June 2023. Adalaj Stepwell, Ahmedabad in November 2023. Marina Beach, Chennai in May 2024. At every major cricket trophy photoshoot ahead of a big final in the last 12 months, Pat Cummins has made it to the frame. Twice, he managed to nudge the opposing captain - Rohit Sharma both times - out of the crowning glory frame a little over 24 hours later. \\n \\nSunday's summit clash is a locking of horns between two unusual suspects. Neither is gunning for a record sixth title to lord it over the other with five, while the most incredible redemption arc of this season too died at the doorsteps of the final. Instead we have two cold, calculative batting behemoths who have written and rewritten standards for this season. \\n \\nThe array of batting talent that will take the field is only part of why Sunday's game will be a spectacle. A title tussle between two teams with middling, nondescript identity for two-thirds of this cycle makes for a fascinating sub-plot. After successive finishes in the lower half of the table, something had to give for both franchises. Their trophy cabinets weren't empty, but had been sealed shut without an addition for too long. \\n \\nKKR delved into the depths of their success from a decade ago to bring back an old messiah in the anticipation of his tales and tactics sparking new life. SRH punted on a recent trophy-glutton to flip their fortunes around. As the last two months have shown, both Gambhir and Cummins have been inspired acquisitions. \\n \\nOn the field too, the narratives run deep and criss-cross. They might strut about with identical batting philosophies, but the bowling ideas and the weaponry could not be more different. The two teams played out a one-sided Q1 just days ago, but should take nothing of it into Sunday. Against a lesser-fancied Cummins team with a trophy at stake, Shreyas will perhaps be watching over his shoulder for that dreaded nudge. \\n \\n<b>When:</b> Kolkata Knight Riders vs Sunrisers Hyderabad, IPL 2024 Final, May 26, 07:30 PM IST \\n \\n<b>Where:</b> MA Chidambaram stadium, Chennai \\n \\n<b>What to expect:</b> The uncertainty of dew. It stayed away just two nights ago in the second qualifier but what transpires on Sunday is unknown. Even Pat Cummins admitted there wasn't a way of making an educated guess about its arrival or otherwise. The final will be played on pitch #4, a red soil wicket. It's the same pitch where CSK lost to PBKS at the start of this month, with Punjab's spin pair of Harpreet Brar and Rahul Chahar picking 4 for 33 in 8 overs between them. On that day, PBKS were assisted by dew in their chase of CSK's 162/7. \\n \\nA spell of steady showers swung the ground staff into action on Saturday evening and cut KKR's practice session short but the forecast for match day appears to be clear. \\n \\n<b>Head to Head:</b> KKR 18 - 9 SRH. \\n \\n<b>Team Watch:</b> \\n \\n<b>Kolkata Knight Riders</b> \\n \\n<b>Injury/Unavailability:</b> Q1 winners have no absentees from the squad that beat SRH four days ago. \\n \\n<b>Tactics & Match-ups:</b> KKR have already got a taste of taking out SRH's openers Travis Head and Abhishek Sharma early to devastating effect. Round 2 of Starc vs Head could be a great start to the final, even as the latter has been effective against left-arm pacers. \\n \\nShould the KKR top-order have an off-day, Andre Russell's abilities against the majority of SRH's bowling attack will be the way out for the two-time champions. Russell has taken on Bhuvneshwar Kumar the most of the lot, hitting 97 off 37 balls in the IPL. Against Natarajan, SRH's best bowler this season, he has smashed 43 off 26. Jaydev Unadkat has been taken apart for 24 in just 9 balls. \\n \\n<b>Probable XII:</b> Sunil Narine, Rahmanullah Gurbaz (wk), Venkatesh Iyer, Shreyas Iyer (c), Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Vaibhav Arora, Harshit Rana, Varun Chakravarthy [Impact substitute: Anukul Roy/Nitish Rana] \\n \\n<b>Sunrisers Hyderabad</b> \\n \\n<b>Injury/Unavailability:</b> Nothing new to report for SRH since the second qualifier. \\n \\n<b>Tactics & Match-ups:</b> In a venue where pace has been significantly more influential than spin, the 2016 champions will rely on the quartet of Bhuveshwar Kumar, Pat Cummins, T Natarajan and Jaydev Unadkat against one of the best top-orders this season. Sunil Narine fell to Cummins a couple of days ago, but has also struggled to get away against Bhuvneshwar [31 runs | 28 balls | 2 wickets] and Unadkat [19 runs | 22 balls | 3 wickets]. One of KKR's pulverisers with the bat, Venkatesh Iyer, has been dismissed twice in 7 balls by Natarajan, while Bhuvneshwar has conceded at a sub-100 strike rate to both Venkatesh and Shreyas Iyer. \\n \\nSRH brought back Aiden Markram after Q1 to give their batting some solidity in case of a top-order collapse around him. Markram's numbers against Varun CV, a 20-wicket spinner for the second season in a row with an appreciable economy rate (8.15 and 8.19), makes him an option once again. \\n \\nThis game will be a test of Cummins's bowling management. KKR come armed with left-handers at the top (Narine) and in the middle (Venkatesh Iyer and Rinku Singh), minimising the scope for Cummins to use either of his match winners from two days ago (Abhishek Sharma and Shahbaz Ahmed). He might have to find a small window with two right-handers in the middle to sneak in an over or two from either, while the quicks bowl the rest. Nitish Reddy's bowling services could also be summoned. \\n \\n<b>Probable XII:</b>Travis Head, Abhishek Sharma, Rahul Tripathi, Aiden Markram, Nitish Reddy, Heinrich Klaasen (wk), Abdul Samad, Pat Cummins (c), Bhuvneshwar Kumar, Jaydev Unadkat, T Natarajan [Impact substitute: Shahbaz Ahmed/Umran Malik] \\n \\n<b>Did you know:</b> \\n \\n- Team winning the Qualifier 1 has won each of the last six IPL finals (2018 to 2023). \\n \\n- Narine has gone wicketless in seven of 13 playoff fixtures he's played in. In the other 6, he has 11 wickets. \\n \\n- KKR have conceded runs at 8.50 in the middle-overs (7-15) this season - the best returns. SRH have given away runs at 9.59 in this phase. In this period, KKR have picked 46 wickets while SRH have 36. \\n \\n<b>What they said:</b> \\n \\n\"I think data and analytics is there as a tool to use but it's just one factor in the decision making process. In T20 you play a lot of games but no two games are exactly the same. It's different wickets, different oppositions, different forms so data can only take you so far. I think there's still a strong place for gut feel and intuition.\" - SRH captain <b>Pat Cummins</b> \\n \\n\"To be honest, I feel whatever the nature is going to provide to you at that particular point of time... if it [dew] has to happen, it will happen. You have no control over it. All you have control over is your skills and your abilities and how strong your mindset is tomorrow. I think basically you should focus on that rather than the dew factor.\" - KKR captain <b>Shreyas Iyer</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716726600975,
+    "commText": "<p><b>18:00 Local Time, 12:30 GMT, 18:00 IST:</b> After 70 league matches and 3 playoffs, we're here for the grand finale. It's the IPL final and it pits 2-time champion, Kolkata Knight Riders, up against the 2016 champions, Sunrisers Hyderabad. It's been a long wait for both teams to add to their collection, both teams did make it to the finals once, the Knight Riders in 2021 and the Sunrisers in 2018, only for both of them to be beaten by the Chennai Super Kings (CSK). It's pretty ironic then that both teams will now meet at CSK's homeground Chepauk, with destiny firmly in their hands.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716727204354,
+    "commText": "<p><b>18:10 Local Time, 12:40 GMT, 18:10 IST:</b> Road to the final - It has been plain sailing as far as the Knight Riders are concerned in this season's tournament. They suffered only 3 losses and haven't been beaten by any team for exactly one month. On the other hand, the Sunrisers had to wait until their 13th game to confirm a playoff position and then won their last match to secure a top-2 spot. In the big scheme of things, they've never beaten the Knight Riders this season. They were beaten by a 4-run margin in a close opening encounter, but there was nothing close to their hammering in Qualifier 1.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716727699934,
+    "commText": "<p><b>Star Performers</b> - It has been a collective effort from the Knight Riders and they've got contributions from the unlikeliest sources as well. Sunil Narine was back as an opener and he's their leading run-scorer with 482 runs. Phil Salt was brought in as Jason Roy's replacement and he finished with 435 runs. As many as four others topped at least 200+ runs. In the bowling front, as many as 6 players took 10 or more wickets. A complete team effort and it's no wonder that they were easily the best team of the season. On the other hand, the Sunrisers have depended heavily on their powerful batting line-up. With 567 runs and a SR of 192.2, Travis Head tops the charts. Five others have gone past at least 200+ runs, but only three bowlers have entered double digits in the wickets column. But tonight's completely different - one good batting performance or one good bowling spell could lead to a title dash.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716728350650,
+    "commText": "<p>Our man at the ground, <b>Prakash Govindasreenivasan</b>, has some early info regarding the game and the conditions. 'It's a humid evening and slightly overcast. Game today on pitch #4 which is more central of all the pitches. It's also a red soil wicket. CSK lost to PBKS on it on May 1', he says.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716728823974,
+    "commText": "<p>It's a red soil pitch, 63m and 70m square boundaries, the straight boundary is at 77m. Red clay tends to have a lot of bounce, this is a well prepared pitch and we should have a high scoring game. The scores could range anywhere around 175-190. This is the third final at this venue and there have been high scores in both the previous games. Not a lot of spin, but significant bounce. Unconventional\u00a0shots, horizontal\u00a0bat shots is what the batters will look to do against spin. The groundsmen\u00a0have assured that <b>there'll be no dew tonight as well</b>, say <b>Ian Bishop and Matthew Hayden</b>, in their pitch report.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716729547028,
+    "commText": "<p><b>More from Prakash</b>: It's a humid evening and slightly overcast. Game today on pitch #4 which is more central of all the pitches. It's also a red soil wicket. CSK lost to PBKS on it on May 1. Some bowling on the side for Markram. Might be an option against the left-handers in KKR's line-up. Meanwhile, Umran Malik just marked his run-up. He's done it in previous games too but wasn't brought on as an impact sub.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716729983793,
+    "commText": "<p><b>Rinku Singh:</b> (Secret behind KKR's success) Team atmosphere is superb. Whenever we enter the dressing room, Ramandeep Singh plays Punjabi songs and it changes the environment. GG (Gautam Gambhir) sir and Chandru (Chandrakant Pandit) sir have given us a lot of freedom. The thought process remains the same (for the final), playing according to the match situation. It'll be a dream come true to win a senior trophy. I'll try to give my best. Hopefully we win the match. We have played a match here as well, so we know how the wicket plays. I never look too far ahead, I always stay in the present.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716730034212,
+    "commText": "<p><b>Mitchell Starc:</b> We had one (practice session) interrupted by rain last night. We all got warmed up and ready to go and then the rain came, so hopefully that's not the case tonight. It was nice to get here early after our game in Ahmedabad, obviously we watched the other game (Qualifier 2) here last night unfold which resulted in us playing the Sunrisers, everyone is ready to go. Sunrisers played here a couple of nights ago but it is a different wicket, it will be about adapting with the bat and ball, I think powerplay in both innings is going to be what shapes the game, we were on the better side of that in Ahmedabad and hopefully it is the same here, but we know in T20 cricket anything can happen. I missed that game with a cut on my finger, I felt that my rhythm was building up being back into T20 cricket after a fair while, so thankfully that has been the case and got back into rhythm - the intensity and how quickly you need to adapt in T20 to conditions or how the batting team goes about it. Our bowling unit has been fantastic throughout, the openers at the top order have been phenomenal as well and we have just gone about our business as a group, trying to improve game on game and find ourselves in the final. It has been nice personally to contribute to that and hopefully it is another successful night tonight.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716730264018,
+    "commText": "<p><b>Sunrisers Hyderabad have won the toss and have opted to bat</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716730384487,
+    "commText": "<p><b>Pat Cummins - </b>We will bat first. Looks like a good wicket, played on a different wicket the other night. There was no dew on the other night's game, we have a style which doesn't work always, but when it does, it's very damaging. I want to crack with the bat first. We have done well defending scores. Pretty much the same, Shahbaz comes in for Samad.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716730444721,
+    "commText": "<p><b>Shreyas Iyer - </b>We would have bowled, we'll get a fair idea about how the pitch will play. It's a red soil and we played our last game on a similar surface. We need to stay with the present, stick to the basics and execute all our plans. Every individual is taking responsibility, this is a big game, we've plenty of people who're playing in a final for the first time, nervous, but this is also a good chance. We're going with the same team</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716730504956,
+    "commText": "<p><b>Sunrisers Hyderabad</b> (Playing XI): Travis Head, Abhishek Sharma, Rahul Tripathi, Aiden Markram, Nitish Reddy, Heinrich Klaasen(w), Shahbaz Ahmed, Pat Cummins(c), Bhuvneshwar Kumar, Jaydev Unadkat, T Natarajan</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716730539748,
+    "commText": "<p><b>Kolkata Knight Riders</b> (Playing XI): Rahmanullah Gurbaz(w), Sunil Narine, Venkatesh Iyer, Shreyas Iyer(c), Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Vaibhav Arora, Harshit Rana, Varun Chakaravarthy</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716730582835,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716730601363,
+    "commText": "<p><b>Kolkata Knight Riders Impact Subs: </b>Anukul Roy, Manish Pandey, Nitish Rana, KS Bharat, Sherfaine Rutherford</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716730609243,
+    "commText": "<p><b>Sunrisers Hyderabad Impact Subs: </b>Umran Malik, Glenn Phillips, Mayank Markande, Abdul Samad, Washington Sundar</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716730632163,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716731104170,
+    "commText": "<p>We've made no changes to our pre-toss expert XI. Do have a look before you finalize your fantasy picks.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716731253914,
+    "commText": "<p><b>Travis Head</b>: It's another final. It's nice to be here, it's been a very enjoyable couple of months, so hopefully we can top it off tonight and please a lot of fans. (On losing 4 & 3 wickets in the powerplay in the last two matches) We'd obviously like to lose a little bit less. We got to 170 both times without hitting the marks that we wanted to hit. That's exciting as a group and we spoke about that - we want to go out and continue to play aggressive, play positively and do what we've done the whole time. The positive is that we've been able to get to totals that's given us half a chance with a powerplay like that. So hopefully tonight we can get off to a really good start and get to a really big score. (Any advantage having played Qualifier 2 at this venue?) We'll say yes and they'll say no. We have to come prepared and we are ready to go. We had a look at it the other day, it'll be completely different. It's about making sure that we sum those conditions up as quickly as we can and communicate that well. If it's with the bat, get off to the best start we can with me and Abhi (Abhishek Sharma). If it's the ball, then Bhuvi will kickstart that for us. (Battle against Starc) We have had our battles over the years and he's won a fair few of them, hopefully knock the shine off him tonight and then we get off to a good start.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716731652803,
+    "commText": "<p>Pat Cummins won the toss in QF1, batted first and was left to regret that call. He has opted\u00a0to bat first once again and he'll hope that the dew doesn't come. Always good to bat first in a big final, the onus is on SRH to put up a total on the board.\u00a0The players are out in the middle for the national anthem of India. The two on-field umpires walk out to the middle - Jayaraman Madanagopal and Nitin Menon, KKR are quick onto the field, it'll be Starc v Head once again, a big sub-plot and one which could decide which way this final goes.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1716732066186,
+    "commText": "<p>Head isn't taking strike, it'll be Abhishek Sharma, one slip in place.</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

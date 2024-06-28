@@ -1,398 +1,8 @@
 [
   {
-    "timestamp": 1715781492657,
-    "commText": "<p>YBJ and TKC are ready to open the batting for Rajasthan. Bairstow has the gloves for Punjab and the skipper Curran will open the bowling. One slip in place, a deep backward square leg and a third-man.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715780498779,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715780437946,
-    "commText": "<p><b>Punjab Kings Impact Subs: </b>Tanay Thyagarajan, Rishi Dhawan, Vidhwath Kaverappa, Ashutosh Sharma, Harpreet Singh Bhatia</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715780317158,
-    "commText": "<p><b>Rajasthan Royals Impact Subs:</b> Nandre Burger, Tanush Kotian, Keshav Maharaj, Kuldeep Sen, Donovan Ferreira</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715780274252,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715780273245,
-    "commText": "<p><b>Punjab Kings</b> (Playing XI): Prabhsimran Singh, Jonny Bairstow, Rilee Rossouw, Shashank Singh, Jitesh Sharma(w), Sam Curran(c), Harpreet Brar, Harshal Patel, Nathan Ellis, Rahul Chahar, Arshdeep Singh</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715780222069,
-    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Tom Kohler-Cadmore, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Rovman Powell, Ravichandran Ashwin, Trent Boult, Sandeep Sharma, Avesh Khan, Yuzvendra Chahal</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715779968357,
-    "commText": "<p><b>Sam Curran:</b> Tonight we play a really good team, and we can spoil a few campaigns now and finish with some pride. We've had a really good squad but some of those games we didn't win the big moments. We are about 2-3 wins away from qualifying and we aren't there becasue we didn't capitalise on the big moments. Tonight, we play a good side and I believe in character, I certainly don't want to lose tonight and hopefully I can rub that off on the players. We've lost a few players, KG is out and Nathan Ellis gets a game. Brar also comes back into the line-up.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715779849102,
-    "commText": "<p><b>Sanju Samson:</b> We'll bat first in these conditions. This is a second home for us, we have spend quite a bit of time here. We spent two days to assess on whether there is dew, and there isn't any. The team, the batting and bowling unit are doing great. Everyone is chill and we are excited to come out and play a great game of cricket. (On securing qualification) I'd be lying if I say no, the camp looks a lot more relaxed. We'll miss Jos and Kohler-Cadmore comes in, and we might have Ferreira as an impact sub later.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715779498683,
-    "commText": "<p><b>Rajasthan Royals have won the toss and have opted to bat</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715779148264,
-    "commText": "<p><b>Dhruv Jurel:</b> Had a hamstring injury which could have worsened if I kept playing, so I took an off in the middle. Last game also I played as an impact sub so that there wouldn\u2019t be the load of fielding. Now I'm feeling much better. Playing at 6-7 is an important role because sometimes you lose early wickets and you have to play till the end while maintaining a good SR. I\u2019m glad I haven\u2019t had to bat much because the team is performing well, but when I have got opportunities, I\u2019ve tried to play till the end with a good SR. (On Jos Buttler\u2019s absence) It will impact the team because he was in really good form, but our bench players are also good so who knows what could happen when they get a chance. (On whether he fancies opening) We\u2019ll get done with the toss soon, y\u2019all will find out everything then.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715779106710,
-    "commText": "<p><b>Arshdeep Singh: </b>Has been a fifty-fifty season, a few good games and a few bad ones. Just trying to improve my economy rate (apart from taking wickets), trying to watch and learn from bowlers like Bumrah and others who have bowled this season. We are not able to finish it off properly, the results haven't gone our way in many close games. We have played some good cricket and have enjoyed ourselves, unfortunately we are at the bottom of the points table. Trying to enjoy the present moment. Will focus on today's game, will think about World Cup later.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715778724602,
-    "commText": "<p><b>Pitch Report | Deep Dasgupta and WV Raman:</b> 13th venue of the season, the most in an IPL season. This has traditionally been a very high scoring venue, with 63m and 60m side boundaries, with the straight boundary at 73m. We are playing on a black soil pitch which is firm and rolled nicely. Surely a surface on which a lot of runs can be scored. The pitch has a few cracks but it generally plays much better than the looks. Last year, both games here were won by the side batting first. Teams prefer doing that because when you are chasing, you are under pressure, but in an India Australia game at this venue, Australia chased a huge score of 222 in the last over. Irrespective on when you bat, there are a lot of runs to be had here.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715778359266,
-    "commText": "<p>Punjab have already been eliminated and have now lost the services of Liam Livingstone and KG Rabada, both of whom have returned home with minor injuries. Sam Curran and Jonny Bairstow are expected to join that exodus, but will get a farewell opportunity in Guwahati before that. Nothing but pride to play for, PBKS can be the spoilers for other teams hoping for a lofty finish in the points table. Games between these two sides have generally produced last over thrillers, let\u2019s hope we get one more of those\u2026</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715778207613,
-    "commText": "<p>Rajasthan picked up a de-facto bump in the points table yesterday with Lucknows loss confirming their place in the playoffs. The goal however would be to finish in the top two to have two bites at the cherry. They have a Jos Buttler sized hole at the top of the order, but they have been pruning another mild-mannered English keeper batsman who has been lighting it up in other franchise tournaments to come good in these later stages. The fast outfields, flat decks and flat PBKS bowling attack would be ideal testing grounds to give Tom Kohler-Cadmore a gateway into the IPL.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715777814241,
-    "commText": "<p><b>18:26 Local Time, 12:56 GMT, 18:26 IST:</b> After spanning the length and breadth of this country, the IPL travels to the far east for the first time this season. Beyond the tea plantations of Assam, it has found a lovely new home in the suburb of Barsapara in Guwahati which has become an adopted house for Rajasthan Royals. And this year, the welcome in Assam would feel even more warm and hospitable given where RR sit on the points table, and more importantly where the local boy Riyan Parag sits on the run scorers list.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715697655896,
-    "commText": "<p><b>Preview</b> by <b>Pratyush Sinha</b> \\n \\nThere's no direct flight from <b>Jaipur to </b>Guwahati. The fastest you can get from one city to the other is 4 hours and 15 minutes. On first glance, traveling far east to play a \"home\" game might make little sense for Rajasthan Royals but when <b>Riyan Parag</b> was addressing the media on the eve of the game and speaking about his familiarity with the conditions to a packed room, it felt like a home game and then some. \\n \\nOf course, much of the RR squad don't have first-hand knowledge of the venue but the <b>Barsapara Cricket Stadium</b> has pulled all the stops to make them feel at home. The giant hoardings, the underlit roof canopies, the dancing LEDs on the supporting pillars and the table mats are all pink and in perfect agreement with the colour that RR have made their own but yet, there must remain a sense that the team would be playing some 2000 kilometers away from their traditional home. \\n \\nThis feeling, though, of being so near yet so far is not unfamiliar to RR this season. They looked primed to seal a spot in the PlayOffs when they went on to lose three on the trot. They remain the favourites, mind you, to become the second team to qualify even before they take the field (more on that below), notwithstanding how they have been guilty of sweating the last mile. But as <b>Parag</b> said, the defeats haven't meant that his side has \"done everything wrong\" in those games. Perhaps a change of venue then, with its promise of high scores after Chennai, couldn't have come at a better time. \\n \\nFor the eliminated <b>Punjab Kings,</b> playing a match that will have no bearing on their qualification must feel like a bad habit, for it's been a decade since they have made it to the PlayOffs. No other team has had to wait longer. But it is what it is and all they would want from this match is an encore from last year, when they beat RR at this very venue by five runs. Fortunately, they boast of wins in their last three away fixtures - Ahmedabad, Kolkata, and Chennai - and a lot of this game will be how much \"away\" they can make this for RR. \\n \\n<b>When:</b> RR v PBKS, Match 65 at 7:30 PM IST/Local \\n \\n<b>Where:</b> Barsapara Cricket Stadium, Guwahati \\n \\n<b>What to expect:</b> <b>Guwahati,</b> with its shiny black-soil pitches, has been a high-scoring venue lately despite <b>70-meter square boundaries,</b> with the average first-inning total in the last four T20 matches here being a shade over <b>213.</b> <b>Parag</b> expects much of the same this time around too, with dew playing a crucial part in his opinion. The effects of it were on show in the last T20I played at this venue, when <b>India's 222/3</b> wasn't enough against <b>Australia and Glenn Maxwell.</b> \\n \\n<b>Head to Head:</b>RR 16 - 11 PBKS. Since 2020, RR have won 6 of the 8 matches between the sides. \\n \\n<b>Team Watch:</b> \\n \\n<b>RAJASTHAN ROYALS</b> \\n \\n<b>Qualification scenario:</b> A win against PBKS will confirm RR's playoffs berth but they might end up taking the field as a qualified side if Delhi Capitals beat Lucknow Super Giants on Tuesday. \\n \\n<b>Injuries/Availability:</b> <b>Jos Buttler</b> has flown back home to prepare for the T20I series against <b>Pakistan</b>, as was indicated by <b>the England & Wales Cricket Board (ECB)</b> while announcing the provisional T20 World Cup squad. RR have been practicing with <b>Tom Kohler-Cadmore</b> as the \"back-up\" for Buttler, Parag said on the eve of the match, and the <b>Somerset wicketkeeper-batter is likely to make his IPL debut and partner Yashasvi Jaiswal</b> at the top of the order. \\n \\n<b>Tactics & Matchups:</b> Led by <b>Yuzvendra Chahal's</b> resurgence, RR's spinners started the season in full force but have tailed off since then. Compared to the first six games, their average has nearly doubled and the economy-rate has gone up by almost two-and-a-half points despite <b>Ravichandran Ashwin</b> picking five wickets in the last two matches and it's an area RR would like to get back to their best at. \\n \\n<b>Probable XI:</b> Yashasvi Jaiswal, Tom Kohler-Cadmore, Sanju Samson(w/c), Riyan Parag, Shimron Hetmyer, Dhruv Jurel, Ravichandran Ashwin, Trent Boult, Avesh Khan, Sandeep Sharma, Yuzvendra Chahal [Impact Player: Nandre Burger/Rovman Powell] \\n \\n<b>PUNJAB KINGS</b> \\n \\n<b>Injuries/Availability:</b> <b>Liam Livingstone and Kagiso Rabada</b> have returned home to tend to niggles before the upcoming T20 World Cup, assistant coach <b>Brad Haddin</b> confirmed on the eve of the game, but the likes of <b>Sam Curran and Jonny Bairstow have travelled to Guwahati</b> and are expected to turn up against RR. <b>Shashank Singh,</b> who collided with <b>Faf du Plessis</b> in the last game and endured a sore shoulder, is fit again and likely to play. \\n \\n<b>Tactics & Matchups:</b> Like RR, the PBKS would want an amped-up performance from their spinners. They played a crucial role in victories at Chepauk and Mullanpur and have been amongst the more economical spin attacks this season but have struggled to dent oppositions regularly in the middle overs. \\n \\n<b>Probable XI:</b> Jonny Bairstow(w), Prabhsimran Singh, Rilee Rossouw, Shashank Singh, Jitesh Sharma, Sam Curran(c), Ashutosh Sharma, Harshal Patel, Rahul Chahar, Arshdeep Singh, Vidhwath Kaverappa [Impact player: Harpreet Brar/Nathan Ellis] \\n \\n<b>Did you know?</b> \\n \\nNo batter from PBKS has topped the 400-run chart in either this edition or the last. Shashank Singh, with 352 runs, is their leading run-getter of the season and he is 19th on the overall list. \\n \\nThe last T20I match at this venue saw <b>Ruturaj Gaikwad and Glenn Maxwell</b> score scintillating hundreds \\n \\n<b>Who said what</b> \\n \\n\"All of the talks about India games, all of the talks about me representing North East, me representing Assam etc etc, that's good. I am from here, I am the only player who's playing right now [and] who's probably having a great season till now but as soon as I go in [to bat] I don't think about that. I am here to play good cricket and that's what I will do.<b>\" - Riyan Parag</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715697655886,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1715697419663,
+    "commText": "<p><b>Rajasthan Royals</b> Squad: Yashasvi Jaiswal, Tom Kohler-Cadmore, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Sandeep Sharma, Yuzvendra Chahal, Rovman Powell, Nandre Burger, Keshav Maharaj, Tanush Kotian, Kuldeep Sen, Donovan Ferreira, Abid Mushtaq, Shubham Dubey, Kunal Singh Rathore, Navdeep Saini</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -416,6 +26,7 @@
   {
     "timestamp": 1715697653544,
     "commText": "<p><b>Punjab Kings</b> Squad: Jonny Bairstow(w), Prabhsimran Singh, Rilee Rossouw, Shashank Singh, Jitesh Sharma, Sam Curran(c), Ashutosh Sharma, Harshal Patel, Rahul Chahar, Arshdeep Singh, Vidhwath Kaverappa, Harpreet Brar, Nathan Ellis, Chris Woakes, Rishi Dhawan, Harpreet Singh Bhatia, Tanay Thyagarajan, Shikhar Dhawan, Atharva Taide, Shivam Singh, Prince Choudhary, Vishwanath Singh</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -437,8 +48,417 @@
     }
   },
   {
-    "timestamp": 1715697419663,
-    "commText": "<p><b>Rajasthan Royals</b> Squad: Yashasvi Jaiswal, Tom Kohler-Cadmore, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Sandeep Sharma, Yuzvendra Chahal, Rovman Powell, Nandre Burger, Keshav Maharaj, Tanush Kotian, Kuldeep Sen, Donovan Ferreira, Abid Mushtaq, Shubham Dubey, Kunal Singh Rathore, Navdeep Saini</p>",
+    "timestamp": 1715697655886,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715697655896,
+    "commText": "<p><b>Preview</b> by <b>Pratyush Sinha</b> \\n \\nThere's no direct flight from <b>Jaipur to </b>Guwahati. The fastest you can get from one city to the other is 4 hours and 15 minutes. On first glance, traveling far east to play a \"home\" game might make little sense for Rajasthan Royals but when <b>Riyan Parag</b> was addressing the media on the eve of the game and speaking about his familiarity with the conditions to a packed room, it felt like a home game and then some. \\n \\nOf course, much of the RR squad don't have first-hand knowledge of the venue but the <b>Barsapara Cricket Stadium</b> has pulled all the stops to make them feel at home. The giant hoardings, the underlit roof canopies, the dancing LEDs on the supporting pillars and the table mats are all pink and in perfect agreement with the colour that RR have made their own but yet, there must remain a sense that the team would be playing some 2000 kilometers away from their traditional home. \\n \\nThis feeling, though, of being so near yet so far is not unfamiliar to RR this season. They looked primed to seal a spot in the PlayOffs when they went on to lose three on the trot. They remain the favourites, mind you, to become the second team to qualify even before they take the field (more on that below), notwithstanding how they have been guilty of sweating the last mile. But as <b>Parag</b> said, the defeats haven't meant that his side has \"done everything wrong\" in those games. Perhaps a change of venue then, with its promise of high scores after Chennai, couldn't have come at a better time. \\n \\nFor the eliminated <b>Punjab Kings,</b> playing a match that will have no bearing on their qualification must feel like a bad habit, for it's been a decade since they have made it to the PlayOffs. No other team has had to wait longer. But it is what it is and all they would want from this match is an encore from last year, when they beat RR at this very venue by five runs. Fortunately, they boast of wins in their last three away fixtures - Ahmedabad, Kolkata, and Chennai - and a lot of this game will be how much \"away\" they can make this for RR. \\n \\n<b>When:</b> RR v PBKS, Match 65 at 7:30 PM IST/Local \\n \\n<b>Where:</b> Barsapara Cricket Stadium, Guwahati \\n \\n<b>What to expect:</b> <b>Guwahati,</b> with its shiny black-soil pitches, has been a high-scoring venue lately despite <b>70-meter square boundaries,</b> with the average first-inning total in the last four T20 matches here being a shade over <b>213.</b> <b>Parag</b> expects much of the same this time around too, with dew playing a crucial part in his opinion. The effects of it were on show in the last T20I played at this venue, when <b>India's 222/3</b> wasn't enough against <b>Australia and Glenn Maxwell.</b> \\n \\n<b>Head to Head:</b>RR 16 - 11 PBKS. Since 2020, RR have won 6 of the 8 matches between the sides. \\n \\n<b>Team Watch:</b> \\n \\n<b>RAJASTHAN ROYALS</b> \\n \\n<b>Qualification scenario:</b> A win against PBKS will confirm RR's playoffs berth but they might end up taking the field as a qualified side if Delhi Capitals beat Lucknow Super Giants on Tuesday. \\n \\n<b>Injuries/Availability:</b> <b>Jos Buttler</b> has flown back home to prepare for the T20I series against <b>Pakistan</b>, as was indicated by <b>the England & Wales Cricket Board (ECB)</b> while announcing the provisional T20 World Cup squad. RR have been practicing with <b>Tom Kohler-Cadmore</b> as the \"back-up\" for Buttler, Parag said on the eve of the match, and the <b>Somerset wicketkeeper-batter is likely to make his IPL debut and partner Yashasvi Jaiswal</b> at the top of the order. \\n \\n<b>Tactics & Matchups:</b> Led by <b>Yuzvendra Chahal's</b> resurgence, RR's spinners started the season in full force but have tailed off since then. Compared to the first six games, their average has nearly doubled and the economy-rate has gone up by almost two-and-a-half points despite <b>Ravichandran Ashwin</b> picking five wickets in the last two matches and it's an area RR would like to get back to their best at. \\n \\n<b>Probable XI:</b> Yashasvi Jaiswal, Tom Kohler-Cadmore, Sanju Samson(w/c), Riyan Parag, Shimron Hetmyer, Dhruv Jurel, Ravichandran Ashwin, Trent Boult, Avesh Khan, Sandeep Sharma, Yuzvendra Chahal [Impact Player: Nandre Burger/Rovman Powell] \\n \\n<b>PUNJAB KINGS</b> \\n \\n<b>Injuries/Availability:</b> <b>Liam Livingstone and Kagiso Rabada</b> have returned home to tend to niggles before the upcoming T20 World Cup, assistant coach <b>Brad Haddin</b> confirmed on the eve of the game, but the likes of <b>Sam Curran and Jonny Bairstow have travelled to Guwahati</b> and are expected to turn up against RR. <b>Shashank Singh,</b> who collided with <b>Faf du Plessis</b> in the last game and endured a sore shoulder, is fit again and likely to play. \\n \\n<b>Tactics & Matchups:</b> Like RR, the PBKS would want an amped-up performance from their spinners. They played a crucial role in victories at Chepauk and Mullanpur and have been amongst the more economical spin attacks this season but have struggled to dent oppositions regularly in the middle overs. \\n \\n<b>Probable XI:</b> Jonny Bairstow(w), Prabhsimran Singh, Rilee Rossouw, Shashank Singh, Jitesh Sharma, Sam Curran(c), Ashutosh Sharma, Harshal Patel, Rahul Chahar, Arshdeep Singh, Vidhwath Kaverappa [Impact player: Harpreet Brar/Nathan Ellis] \\n \\n<b>Did you know?</b> \\n \\nNo batter from PBKS has topped the 400-run chart in either this edition or the last. Shashank Singh, with 352 runs, is their leading run-getter of the season and he is 19th on the overall list. \\n \\nThe last T20I match at this venue saw <b>Ruturaj Gaikwad and Glenn Maxwell</b> score scintillating hundreds \\n \\n<b>Who said what</b> \\n \\n\"All of the talks about India games, all of the talks about me representing North East, me representing Assam etc etc, that's good. I am from here, I am the only player who's playing right now [and] who's probably having a great season till now but as soon as I go in [to bat] I don't think about that. I am here to play good cricket and that's what I will do.<b>\" - Riyan Parag</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715777814241,
+    "commText": "<p><b>18:26 Local Time, 12:56 GMT, 18:26 IST:</b> After spanning the length and breadth of this country, the IPL travels to the far east for the first time this season. Beyond the tea plantations of Assam, it has found a lovely new home in the suburb of Barsapara in Guwahati which has become an adopted house for Rajasthan Royals. And this year, the welcome in Assam would feel even more warm and hospitable given where RR sit on the points table, and more importantly where the local boy Riyan Parag sits on the run scorers list.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715778207613,
+    "commText": "<p>Rajasthan picked up a de-facto bump in the points table yesterday with Lucknows loss confirming their place in the playoffs. The goal however would be to finish in the top two to have two bites at the cherry. They have a Jos Buttler sized hole at the top of the order, but they have been pruning another mild-mannered English keeper batsman who has been lighting it up in other franchise tournaments to come good in these later stages. The fast outfields, flat decks and flat PBKS bowling attack would be ideal testing grounds to give Tom Kohler-Cadmore a gateway into the IPL.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715778359266,
+    "commText": "<p>Punjab have already been eliminated and have now lost the services of Liam Livingstone and KG Rabada, both of whom have returned home with minor injuries. Sam Curran and Jonny Bairstow are expected to join that exodus, but will get a farewell opportunity in Guwahati before that. Nothing but pride to play for, PBKS can be the spoilers for other teams hoping for a lofty finish in the points table. Games between these two sides have generally produced last over thrillers, let\u2019s hope we get one more of those\u2026</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715778724602,
+    "commText": "<p><b>Pitch Report | Deep Dasgupta and WV Raman:</b> 13th venue of the season, the most in an IPL season. This has traditionally been a very high scoring venue, with 63m and 60m side boundaries, with the straight boundary at 73m. We are playing on a black soil pitch which is firm and rolled nicely. Surely a surface on which a lot of runs can be scored. The pitch has a few cracks but it generally plays much better than the looks. Last year, both games here were won by the side batting first. Teams prefer doing that because when you are chasing, you are under pressure, but in an India Australia game at this venue, Australia chased a huge score of 222 in the last over. Irrespective on when you bat, there are a lot of runs to be had here.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715779106710,
+    "commText": "<p><b>Arshdeep Singh: </b>Has been a fifty-fifty season, a few good games and a few bad ones. Just trying to improve my economy rate (apart from taking wickets), trying to watch and learn from bowlers like Bumrah and others who have bowled this season. We are not able to finish it off properly, the results haven't gone our way in many close games. We have played some good cricket and have enjoyed ourselves, unfortunately we are at the bottom of the points table. Trying to enjoy the present moment. Will focus on today's game, will think about World Cup later.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715779148264,
+    "commText": "<p><b>Dhruv Jurel:</b> Had a hamstring injury which could have worsened if I kept playing, so I took an off in the middle. Last game also I played as an impact sub so that there wouldn\u2019t be the load of fielding. Now I'm feeling much better. Playing at 6-7 is an important role because sometimes you lose early wickets and you have to play till the end while maintaining a good SR. I\u2019m glad I haven\u2019t had to bat much because the team is performing well, but when I have got opportunities, I\u2019ve tried to play till the end with a good SR. (On Jos Buttler\u2019s absence) It will impact the team because he was in really good form, but our bench players are also good so who knows what could happen when they get a chance. (On whether he fancies opening) We\u2019ll get done with the toss soon, y\u2019all will find out everything then.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715779498683,
+    "commText": "<p><b>Rajasthan Royals have won the toss and have opted to bat</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715779849102,
+    "commText": "<p><b>Sanju Samson:</b> We'll bat first in these conditions. This is a second home for us, we have spend quite a bit of time here. We spent two days to assess on whether there is dew, and there isn't any. The team, the batting and bowling unit are doing great. Everyone is chill and we are excited to come out and play a great game of cricket. (On securing qualification) I'd be lying if I say no, the camp looks a lot more relaxed. We'll miss Jos and Kohler-Cadmore comes in, and we might have Ferreira as an impact sub later.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715779968357,
+    "commText": "<p><b>Sam Curran:</b> Tonight we play a really good team, and we can spoil a few campaigns now and finish with some pride. We've had a really good squad but some of those games we didn't win the big moments. We are about 2-3 wins away from qualifying and we aren't there becasue we didn't capitalise on the big moments. Tonight, we play a good side and I believe in character, I certainly don't want to lose tonight and hopefully I can rub that off on the players. We've lost a few players, KG is out and Nathan Ellis gets a game. Brar also comes back into the line-up.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715780222069,
+    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Tom Kohler-Cadmore, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Rovman Powell, Ravichandran Ashwin, Trent Boult, Sandeep Sharma, Avesh Khan, Yuzvendra Chahal</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715780273245,
+    "commText": "<p><b>Punjab Kings</b> (Playing XI): Prabhsimran Singh, Jonny Bairstow, Rilee Rossouw, Shashank Singh, Jitesh Sharma(w), Sam Curran(c), Harpreet Brar, Harshal Patel, Nathan Ellis, Rahul Chahar, Arshdeep Singh</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715780274252,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715780317158,
+    "commText": "<p><b>Rajasthan Royals Impact Subs:</b> Nandre Burger, Tanush Kotian, Keshav Maharaj, Kuldeep Sen, Donovan Ferreira</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715780437946,
+    "commText": "<p><b>Punjab Kings Impact Subs: </b>Tanay Thyagarajan, Rishi Dhawan, Vidhwath Kaverappa, Ashutosh Sharma, Harpreet Singh Bhatia</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715780498779,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715781492657,
+    "commText": "<p>YBJ and TKC are ready to open the batting for Rajasthan. Bairstow has the gloves for Punjab and the skipper Curran will open the bowling. One slip in place, a deep backward square leg and a third-man.</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

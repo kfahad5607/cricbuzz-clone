@@ -1,398 +1,8 @@
 [
   {
-    "timestamp": 1713448670964,
-    "commText": "<p>The umpires are making their way out to the middle. Tilak Varma is padded up doing some shadow practice. Punjab Kings have a quick huddle before taking the field. Here come Rohit and Ishan. The new ball has done a bit at this venue. Can Rabada and Arshdeep strike early? But looks like they are starting with spin. There goes all the pitch assessment of it having grass and helping the seam bowlers. Livingstone has the new ball. He will bowl off-spin to Ishan and leg-breaks to Rohit. The countdown has begin..3..2..1..PLAY</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713447874146,
-    "commText": "<p>Punjab Kings have made a couple of changes from their previous game while Mumbai Indians are sticking to the same team. We have made one change to our Expert XI and you can check who comes in at Fantasy Handbook.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713447663260,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713447625211,
-    "commText": "<p><b>Mumbai Indians Subs:</b> Akash Madhwal, Nuwan Thushara, Kumar Kartikeya, Piyush Chawla, Naman Dhir</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713447463312,
-    "commText": "<p><b>Punjab Kings Impact Subs:</b> Rahul Chahar, Vidhwath Kaverappa, Harpreet Bhatia, Shivam Singh, Rishi Dhawan</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713447452983,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713447451608,
-    "commText": "<p><b>Punjab Kings</b> (Playing XI): Rilee Rossouw, Prabhsimran Singh, Sam Curran(c), Jitesh Sharma(w), Liam Livingstone, Shashank Singh, Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada, Arshdeep Singh</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713447445673,
-    "commText": "<p><b>Mumbai Indians</b> (Playing XI): Rohit Sharma, Ishan Kishan(w), Suryakumar Yadav, Tilak Varma, Hardik Pandya(c), Tim David, Romario Shepherd, Mohammad Nabi, Gerald Coetzee, Shreyas Gopal, Jasprit Bumrah</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713447115845,
-    "commText": "<p><b>Hardik Pandya:</b> We were wanting to bat first as well, so good toss to lose. We don't judge (our performances), couple of times we had the game in our grasp and didn't finish the game, IPL tests you, when the game is not over it is not over. We just take it game by game, go out there and give our 100 percent. Every indivdual should commit to the team's goal and once we do that, the results will be seen. Same team.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713447031859,
-    "commText": "<p><b>Sam Curran:</b> We will have a bowl. Keeping up with the trend of the tournament. Shikhar is not well, so that's the only injury and Rilee comes in for Jonny today. It is not nice to lose the close games but we are doing a lot of things right. Taide drops out of the side, just a couple of tactical changes.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713446922754,
-    "commText": "<p><b>Punjab Kings have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713446813649,
-    "commText": "<p>Shikhar Dhawan missed the last game due to a niggle and looks like he will miss this game as well. Sam Curran is walking out..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713446518655,
-    "commText": "<p><b>Mohammad Nabi - </b>This is my 3rd franchise in the IPL. The same hard work, bowl the proper line and length according to the conditions. I have batted only once, have had to strike right from the first ball, that's what I'm working on in the nets. We've batted well during the tournament and that has meant I haven't batted a lot. For my country, I do bat higher up in the order and that gives me the chance to settle and then hit. It does depend on the conditions, we do discuss our game plan in the team meetings, what needs to do under different situations and we do share our experience.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713445935155,
-    "commText": "<p><b>Kagiso Rabada -</b> We've been playing some good cricket, just need to find a way to win. All teams would like to win, the last two home games over here, wins will give us an advantage going into the second half of the tournament. It's a gradual process, always looking to improve, but at the moment I'm pretty happy with the way it's coming out (on his bowling). I've played a few games and will have to follow the process. At this stage, I'm ready to bowl at any stage, during the powerplay, in the middle or at the death, it's sort of varied, the most consistent one was two overs upfront, but let's see what happens today. It sometimes swings, sometimes it doesn't, you will have to look during the warm-ups, sometimes if there's shape during the warm-up, it'll mean that the ball will swing during the game as well.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713404469833,
-    "commText": "<p><b>Pitch and Conditions:</b> \"If we go to the Western terrace or the sunset 70 meters over there, 63 to the Eastern side and down town is 72, the other tricky thing is behind the wicket it is just 58 and 56 meters, players are going to be searching and thinking about that. I like what I see. It has got a bit of green about it,\" informs Danny Morrison. \"It is a difficultfor the bowlers you'd think because of the pocket size of the boundaries, but having said that, this ground is definitely pleasing for a bowler. Yes, the spinners have done well but the seamers especially in the last game, hit the hard length and troubled the batters. The seam bowlers have done really well and that's nice but not for the batters,\" suggests Anjum Chopra. \"The average first innings score is 168,\" adds Danny. \"That is a good score but you need more on the board. It is a good surface but the seam bowlers will be a little tempted seeing the grass,\" concludes Anjum.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713363004541,
-    "commText": "<p><b>18:20 Local Time, 12:50 GMT:</b> Today is a very important game for Punjab Kings and Mumbai Indians. Not a lot between the two teams - the wins and losses are the same and only seperated on the points table by NRR. These two teams have figured out their combinations and best XIs unlike some of the teams who struggle in such competitions, but they have lacked consistency in one or the other department. For example - Punjab's top order is yet to fire with the likes of Dhawan, Bairstow and Prabhsimran struggling, while Mumbai have conceded four totals close to or above 200 in their six games even though Jasprit Bumrah is second in the Purple Cap list. Both these sides have to find that consistency quickly else they will be left with a lot of catching to do in the second half of the season. Who's going to turn their fortunes around, Punjab or Mumbai? We shall find out in due course. Pitch report and toss coming up.. Stay tuned</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713363004521,
-    "commText": "<p><b>Preview</b> <b>by Purnima Malhotra </b> \\n \\nOnly minor details separate Punjab Kings and Mumbai Indians. Places seventh and eighth respectively in the standings due to a minute decimal-point difference in their NRR, both have four points in six games and are desperate for more as they hit the halfway mark in their IPL 2024 campaigns on Thursday (April 18). Both are coming into the contest on the back of last-over defeats, except MI had regained a bit of momentum before going down to CSK despite Rohit Sharma's first IPL ton in 12 years. \\n \\nBoth have a stand-out pacer who's lacked consistent support at the other end. Jasprit Bumrah (ER 6.08) has proved difficult to put away even on days he's gone wicket-less, whereas PBKS have Kagiso Rabada (ER 7.95) hitting top form once again, which the opponents have been wary of. Both teams have a couple of batters doing the heavy-lifting for the side - for the hosts, it's the uncapped duo of Shashank Singh and Ashutosh Sharma at the backend saving them the blushes and for MI it's their experienced opening pair of Rohit Sharma and Ishan Kishan giving them blazing starts consistently. Only once have MI scored under 50 runs in the PowerPlays this season. \\n \\nMI in fact are the third-best team in PowerPlays in IPL 2024, averaging 48 with a run-rate of 10.67 and the second-best boundary percentage of 29.2. They have also hit most sixes (23) in this phase. \\n \\nHowever, after four straight games in the comforts of their home ground, the next track might not be as free-scoring. Mullanpur has been the lowest scoring venue in PowerPlays with a run rate of just 7.28 as compared to the season average of 9.18. This is where the start from in-form MI openers will be imperative to the team's chances of getting back to winning ways, especially given their captain Hardik Pandya's indifferent form and Suryakumar Yadav's mixed-bag of a season since his return from injury. \\n \\nOn the contrary, Punjab's top-order troubles are well documented. Their top-three have aggregated just 382 runs, which is the lowest in IPL 2024, and the solitary 50+ knock has come from their captain Shikhar Dhawan's bat. However, his shoulder injury has compounded PBKS' batting woes. Despite the unfavourable results though, Punjab haven't chopped and changed much this year, consistently backing the likes of Prabhsimran Singh, Jonny Bairstow and Jitesh Sharma to come good. With a better grasp of the conditions at the new home ground now, PBKS will be expecting their top-order to pull up their socks if they were to put their campaign back on track before it turns into another season of what-ifs. \\n \\n<b>When:</b> PBKS vs MI, Match 33 on April 18 at 19:30 hours \\n \\n<b>Where:</b> Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh \\n \\n<b>What to expect:</b> Dew hasn't made much of an appearance here, yet captains have preferred chasing at this venue. Expect the pacers to continue leading the charge in helpful conditions. \\n \\n<b>Head-to-Head:</b> Mumbai have a marginal edge with 16-15 record against the Punjab outfit in 31 clashes. Since 2020 as well, MI vs PBKS have been tightly fought contests with MI leading 4-3. \\n \\n<b>Teams Watch</b> \\n \\n<b>Punjab Kings</b> \\n \\n<b>Injuries & Availability:</b> Dhawan remains unavailable for at least the two remaining games at Mullanpur, whereas Jitesh Sharma, who played the last game despite a blow to the forehead and with more than a dozen stitches, seems fit enough to continue. \\n \\n<b>Tactics & Matchups:</b> Hardik Pandya's poor form with the ball - among bowlers with 10+ overs this season his economy of 12 is second-worst - may make him an easy target for Punjab's finishers, who have been in good nick. Shashank has been going at the pacers with a strike-rate of 205.36 this IPL whereas Ashutosh, in his three knocks, has consistently struck above 182. \\n \\n<b>Probable XI:</b> Jonny Bairstow, Atharva Taide, Sam Curran (C), Liam Livingstone, Jitesh Sharma (wk), Shashank Singh, Ashutosh Sharma, Harpreet Brar, Harshal Patel, Arshdeep Singh, Kagiso Rabada [Impact sub: Prabhsimran Singh/Rahul Chahar] \\n \\n<b>Mumbai Indians</b> \\n \\n<b>Injuries & Availability:</b> No injury concerns to report in the MI camp. \\n \\n<b>Tactics & Matchups:</b> Suryakumar Yadav vs Sam Curran is a budding rivalry and so far the MI batter has had the wood over the PBKS stand-in captain. Suryakumar has smashed 52 runs off the English allrounder in just 20 balls, at a strike-rate of 260, while conceding his wicket only once. However, he's in for an unfavourable match-up against Rabada on the other hand, averaging just a shade above 18 and losing his wicket thrice to the South Africa speedster. \\n \\n<b>Probable XI:</b> Rohit Sharma, Ishan Kishan (wk), Tilak Varma, Hardik Pandya (C), Tim David, Mohammad Nabi, Romario Shepherd, Shreyas Gopal, Gerald Coetzee, Jasprit Bumrah, Akash Madhwal [Impact sub: Suryakumar Yadav] \\n \\n<b>Did you know?</b> \\n \\n- Rohit Sharma will become only the second player, after MS Dhoni, to play 250 IPL matches \\n \\n- MI have lost both their away games this season - by six runs vs GT in Ahmedabad and by 31 runs vs SRH in Hyderabad. \\n \\n- PBKS have made the fewest changes (4 in six matches) among all the teams so far in IPL 2024. \\n \\n- While Suryakumar only averages 26.44 in away matches since IPL 2023, he scored fifties in both matches vs PBKS last edition. \\n \\n<b>What they said:</b> \\n \\n\"It's our time our top-order takes the responsbility. We've addressed the areas we need to look at to score runs. Also, coming into this wicket, it's a challenge for the batters [across teams]. It's unlike other wickets in India, it's a challenging wicket for every batter. Especially for the visiting batters, because the nature of the composition is completely different. So, it's advantage for us I believe,\" - Sunil Joshi, PBKS spin bowling coach, on the top-order concerns \\n \\n\"I can tell you over 10 years of experience, or 10 years of friendship with him, he's really tough. And something like this is only going to motivate him. The way he's taking it so far has been tremendous and very inspiring for a lot of us. Seeing it on a daily basis is obviously not easy, but the guy is really, really strong and he's one of the toughest human beings going around in the world, and kudos to him for that. He's not let anything affect him personally,\" - Shreyas Gopal on how MI captain Hardik Pandya is coping with the criticism and booing</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713363004511,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1713362825509,
+    "commText": "<p><b>Mumbai Indians</b> Squad: Rohit Sharma, Ishan Kishan(w), Suryakumar Yadav, Tilak Varma, Hardik Pandya(c), Tim David, Romario Shepherd, Mohammad Nabi, Shreyas Gopal, Gerald Coetzee, Jasprit Bumrah, Akash Madhwal, Dewald Brevis, Naman Dhir, Nehal Wadhera, Harvik Desai, Shams Mulani, Arjun Tendulkar, Kumar Kartikeya, Shivalik Sharma, Anshul Kamboj, Nuwan Thushara, Kwena Maphaka, Luke Wood, Piyush Chawla</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -416,6 +26,7 @@
   {
     "timestamp": 1713363002956,
     "commText": "<p><b>Punjab Kings</b> Squad: Atharva Taide, Jonny Bairstow, Prabhsimran Singh, Sam Curran(c), Jitesh Sharma(w), Shashank Singh, Liam Livingstone, Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada, Arshdeep Singh, Rahul Chahar, Vidhwath Kaverappa, Harpreet Singh Bhatia, Nathan Ellis, Tanay Thyagarajan, Shivam Singh, Shikhar Dhawan, Rilee Rossouw, Chris Woakes, Rishi Dhawan, Sikandar Raza, Prince Choudhary, Vishwanath Singh</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -437,8 +48,417 @@
     }
   },
   {
-    "timestamp": 1713362825509,
-    "commText": "<p><b>Mumbai Indians</b> Squad: Rohit Sharma, Ishan Kishan(w), Suryakumar Yadav, Tilak Varma, Hardik Pandya(c), Tim David, Romario Shepherd, Mohammad Nabi, Shreyas Gopal, Gerald Coetzee, Jasprit Bumrah, Akash Madhwal, Dewald Brevis, Naman Dhir, Nehal Wadhera, Harvik Desai, Shams Mulani, Arjun Tendulkar, Kumar Kartikeya, Shivalik Sharma, Anshul Kamboj, Nuwan Thushara, Kwena Maphaka, Luke Wood, Piyush Chawla</p>",
+    "timestamp": 1713363004511,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713363004521,
+    "commText": "<p><b>Preview</b> <b>by Purnima Malhotra </b> \\n \\nOnly minor details separate Punjab Kings and Mumbai Indians. Places seventh and eighth respectively in the standings due to a minute decimal-point difference in their NRR, both have four points in six games and are desperate for more as they hit the halfway mark in their IPL 2024 campaigns on Thursday (April 18). Both are coming into the contest on the back of last-over defeats, except MI had regained a bit of momentum before going down to CSK despite Rohit Sharma's first IPL ton in 12 years. \\n \\nBoth have a stand-out pacer who's lacked consistent support at the other end. Jasprit Bumrah (ER 6.08) has proved difficult to put away even on days he's gone wicket-less, whereas PBKS have Kagiso Rabada (ER 7.95) hitting top form once again, which the opponents have been wary of. Both teams have a couple of batters doing the heavy-lifting for the side - for the hosts, it's the uncapped duo of Shashank Singh and Ashutosh Sharma at the backend saving them the blushes and for MI it's their experienced opening pair of Rohit Sharma and Ishan Kishan giving them blazing starts consistently. Only once have MI scored under 50 runs in the PowerPlays this season. \\n \\nMI in fact are the third-best team in PowerPlays in IPL 2024, averaging 48 with a run-rate of 10.67 and the second-best boundary percentage of 29.2. They have also hit most sixes (23) in this phase. \\n \\nHowever, after four straight games in the comforts of their home ground, the next track might not be as free-scoring. Mullanpur has been the lowest scoring venue in PowerPlays with a run rate of just 7.28 as compared to the season average of 9.18. This is where the start from in-form MI openers will be imperative to the team's chances of getting back to winning ways, especially given their captain Hardik Pandya's indifferent form and Suryakumar Yadav's mixed-bag of a season since his return from injury. \\n \\nOn the contrary, Punjab's top-order troubles are well documented. Their top-three have aggregated just 382 runs, which is the lowest in IPL 2024, and the solitary 50+ knock has come from their captain Shikhar Dhawan's bat. However, his shoulder injury has compounded PBKS' batting woes. Despite the unfavourable results though, Punjab haven't chopped and changed much this year, consistently backing the likes of Prabhsimran Singh, Jonny Bairstow and Jitesh Sharma to come good. With a better grasp of the conditions at the new home ground now, PBKS will be expecting their top-order to pull up their socks if they were to put their campaign back on track before it turns into another season of what-ifs. \\n \\n<b>When:</b> PBKS vs MI, Match 33 on April 18 at 19:30 hours \\n \\n<b>Where:</b> Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh \\n \\n<b>What to expect:</b> Dew hasn't made much of an appearance here, yet captains have preferred chasing at this venue. Expect the pacers to continue leading the charge in helpful conditions. \\n \\n<b>Head-to-Head:</b> Mumbai have a marginal edge with 16-15 record against the Punjab outfit in 31 clashes. Since 2020 as well, MI vs PBKS have been tightly fought contests with MI leading 4-3. \\n \\n<b>Teams Watch</b> \\n \\n<b>Punjab Kings</b> \\n \\n<b>Injuries & Availability:</b> Dhawan remains unavailable for at least the two remaining games at Mullanpur, whereas Jitesh Sharma, who played the last game despite a blow to the forehead and with more than a dozen stitches, seems fit enough to continue. \\n \\n<b>Tactics & Matchups:</b> Hardik Pandya's poor form with the ball - among bowlers with 10+ overs this season his economy of 12 is second-worst - may make him an easy target for Punjab's finishers, who have been in good nick. Shashank has been going at the pacers with a strike-rate of 205.36 this IPL whereas Ashutosh, in his three knocks, has consistently struck above 182. \\n \\n<b>Probable XI:</b> Jonny Bairstow, Atharva Taide, Sam Curran (C), Liam Livingstone, Jitesh Sharma (wk), Shashank Singh, Ashutosh Sharma, Harpreet Brar, Harshal Patel, Arshdeep Singh, Kagiso Rabada [Impact sub: Prabhsimran Singh/Rahul Chahar] \\n \\n<b>Mumbai Indians</b> \\n \\n<b>Injuries & Availability:</b> No injury concerns to report in the MI camp. \\n \\n<b>Tactics & Matchups:</b> Suryakumar Yadav vs Sam Curran is a budding rivalry and so far the MI batter has had the wood over the PBKS stand-in captain. Suryakumar has smashed 52 runs off the English allrounder in just 20 balls, at a strike-rate of 260, while conceding his wicket only once. However, he's in for an unfavourable match-up against Rabada on the other hand, averaging just a shade above 18 and losing his wicket thrice to the South Africa speedster. \\n \\n<b>Probable XI:</b> Rohit Sharma, Ishan Kishan (wk), Tilak Varma, Hardik Pandya (C), Tim David, Mohammad Nabi, Romario Shepherd, Shreyas Gopal, Gerald Coetzee, Jasprit Bumrah, Akash Madhwal [Impact sub: Suryakumar Yadav] \\n \\n<b>Did you know?</b> \\n \\n- Rohit Sharma will become only the second player, after MS Dhoni, to play 250 IPL matches \\n \\n- MI have lost both their away games this season - by six runs vs GT in Ahmedabad and by 31 runs vs SRH in Hyderabad. \\n \\n- PBKS have made the fewest changes (4 in six matches) among all the teams so far in IPL 2024. \\n \\n- While Suryakumar only averages 26.44 in away matches since IPL 2023, he scored fifties in both matches vs PBKS last edition. \\n \\n<b>What they said:</b> \\n \\n\"It's our time our top-order takes the responsbility. We've addressed the areas we need to look at to score runs. Also, coming into this wicket, it's a challenge for the batters [across teams]. It's unlike other wickets in India, it's a challenging wicket for every batter. Especially for the visiting batters, because the nature of the composition is completely different. So, it's advantage for us I believe,\" - Sunil Joshi, PBKS spin bowling coach, on the top-order concerns \\n \\n\"I can tell you over 10 years of experience, or 10 years of friendship with him, he's really tough. And something like this is only going to motivate him. The way he's taking it so far has been tremendous and very inspiring for a lot of us. Seeing it on a daily basis is obviously not easy, but the guy is really, really strong and he's one of the toughest human beings going around in the world, and kudos to him for that. He's not let anything affect him personally,\" - Shreyas Gopal on how MI captain Hardik Pandya is coping with the criticism and booing</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713363004541,
+    "commText": "<p><b>18:20 Local Time, 12:50 GMT:</b> Today is a very important game for Punjab Kings and Mumbai Indians. Not a lot between the two teams - the wins and losses are the same and only seperated on the points table by NRR. These two teams have figured out their combinations and best XIs unlike some of the teams who struggle in such competitions, but they have lacked consistency in one or the other department. For example - Punjab's top order is yet to fire with the likes of Dhawan, Bairstow and Prabhsimran struggling, while Mumbai have conceded four totals close to or above 200 in their six games even though Jasprit Bumrah is second in the Purple Cap list. Both these sides have to find that consistency quickly else they will be left with a lot of catching to do in the second half of the season. Who's going to turn their fortunes around, Punjab or Mumbai? We shall find out in due course. Pitch report and toss coming up.. Stay tuned</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713404469833,
+    "commText": "<p><b>Pitch and Conditions:</b> \"If we go to the Western terrace or the sunset 70 meters over there, 63 to the Eastern side and down town is 72, the other tricky thing is behind the wicket it is just 58 and 56 meters, players are going to be searching and thinking about that. I like what I see. It has got a bit of green about it,\" informs Danny Morrison. \"It is a difficultfor the bowlers you'd think because of the pocket size of the boundaries, but having said that, this ground is definitely pleasing for a bowler. Yes, the spinners have done well but the seamers especially in the last game, hit the hard length and troubled the batters. The seam bowlers have done really well and that's nice but not for the batters,\" suggests Anjum Chopra. \"The average first innings score is 168,\" adds Danny. \"That is a good score but you need more on the board. It is a good surface but the seam bowlers will be a little tempted seeing the grass,\" concludes Anjum.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713445935155,
+    "commText": "<p><b>Kagiso Rabada -</b> We've been playing some good cricket, just need to find a way to win. All teams would like to win, the last two home games over here, wins will give us an advantage going into the second half of the tournament. It's a gradual process, always looking to improve, but at the moment I'm pretty happy with the way it's coming out (on his bowling). I've played a few games and will have to follow the process. At this stage, I'm ready to bowl at any stage, during the powerplay, in the middle or at the death, it's sort of varied, the most consistent one was two overs upfront, but let's see what happens today. It sometimes swings, sometimes it doesn't, you will have to look during the warm-ups, sometimes if there's shape during the warm-up, it'll mean that the ball will swing during the game as well.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713446518655,
+    "commText": "<p><b>Mohammad Nabi - </b>This is my 3rd franchise in the IPL. The same hard work, bowl the proper line and length according to the conditions. I have batted only once, have had to strike right from the first ball, that's what I'm working on in the nets. We've batted well during the tournament and that has meant I haven't batted a lot. For my country, I do bat higher up in the order and that gives me the chance to settle and then hit. It does depend on the conditions, we do discuss our game plan in the team meetings, what needs to do under different situations and we do share our experience.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713446813649,
+    "commText": "<p>Shikhar Dhawan missed the last game due to a niggle and looks like he will miss this game as well. Sam Curran is walking out..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713446922754,
+    "commText": "<p><b>Punjab Kings have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713447031859,
+    "commText": "<p><b>Sam Curran:</b> We will have a bowl. Keeping up with the trend of the tournament. Shikhar is not well, so that's the only injury and Rilee comes in for Jonny today. It is not nice to lose the close games but we are doing a lot of things right. Taide drops out of the side, just a couple of tactical changes.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713447115845,
+    "commText": "<p><b>Hardik Pandya:</b> We were wanting to bat first as well, so good toss to lose. We don't judge (our performances), couple of times we had the game in our grasp and didn't finish the game, IPL tests you, when the game is not over it is not over. We just take it game by game, go out there and give our 100 percent. Every indivdual should commit to the team's goal and once we do that, the results will be seen. Same team.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713447445673,
+    "commText": "<p><b>Mumbai Indians</b> (Playing XI): Rohit Sharma, Ishan Kishan(w), Suryakumar Yadav, Tilak Varma, Hardik Pandya(c), Tim David, Romario Shepherd, Mohammad Nabi, Gerald Coetzee, Shreyas Gopal, Jasprit Bumrah</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713447451608,
+    "commText": "<p><b>Punjab Kings</b> (Playing XI): Rilee Rossouw, Prabhsimran Singh, Sam Curran(c), Jitesh Sharma(w), Liam Livingstone, Shashank Singh, Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada, Arshdeep Singh</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713447452983,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713447463312,
+    "commText": "<p><b>Punjab Kings Impact Subs:</b> Rahul Chahar, Vidhwath Kaverappa, Harpreet Bhatia, Shivam Singh, Rishi Dhawan</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713447625211,
+    "commText": "<p><b>Mumbai Indians Subs:</b> Akash Madhwal, Nuwan Thushara, Kumar Kartikeya, Piyush Chawla, Naman Dhir</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713447663260,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713447874146,
+    "commText": "<p>Punjab Kings have made a couple of changes from their previous game while Mumbai Indians are sticking to the same team. We have made one change to our Expert XI and you can check who comes in at Fantasy Handbook.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713448670964,
+    "commText": "<p>The umpires are making their way out to the middle. Tilak Varma is padded up doing some shadow practice. Punjab Kings have a quick huddle before taking the field. Here come Rohit and Ishan. The new ball has done a bit at this venue. Can Rabada and Arshdeep strike early? But looks like they are starting with spin. There goes all the pitch assessment of it having grass and helping the seam bowlers. Livingstone has the new ball. He will bowl off-spin to Ishan and leg-breaks to Rohit. The countdown has begin..3..2..1..PLAY</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

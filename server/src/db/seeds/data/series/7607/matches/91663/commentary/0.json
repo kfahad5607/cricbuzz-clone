@@ -1,444 +1,8 @@
 [
   {
-    "timestamp": 1715507839656,
-    "commText": "<p>The players are out in the middle in the sweltering heat of Chennai. The two RR openers are ready to roll as Deshpande will bowl the first over of the match. Here we go!</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715507295637,
-    "commText": "<p><b>Most tosses lost in the league phase in an IPL edition</b> \\n12 - RR in IPL 2022 \\n11 - DC in IPL 2013 \\n11 - RCB in IPL 2013 \\n11 - LSG in IPL 2023 \\n11 - CSK in IPL 2024*</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715507295627,
-    "commText": "<p><b>CSK have lost the toss in 11 of their 13 matches this season.</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715506858584,
-    "commText": "<p>We have made a couple of changes in our Fantasy Handbook, do check out our Expert XI before you lock your teams..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715506818016,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715506810800,
-    "commText": "<p><b>Rajasthan Royals Impact Subs: </b>Rovman Powell, Tom Kohler-Cadmore, Nandre Burger, Tanush Kotian, Keshav Maharaj</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715506761168,
-    "commText": "<p><b>Chennai Super Kings Impact Subs:</b> Ajinkya Rahane, Sameer Rizvi, Prashant Solanki, Ajay Mandal, Mukesh Choudhary</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715506550526,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715506549383,
-    "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Rachin Ravindra, Ruturaj Gaikwad(c), Daryl Mitchell, Moeen Ali, Shivam Dube, Ravindra Jadeja, MS Dhoni(w), Shardul Thakur, Tushar Deshpande, Simarjeet Singh, Maheesh Theekshana</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715506509447,
-    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Shubham Dubey, Dhruv Jurel, Ravichandran Ashwin, Trent Boult, Avesh Khan, Sandeep Sharma, Yuzvendra Chahal</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715506363275,
-    "commText": "<p><b>Ruturaj Gaikwad:</b> Dew is not a factor, doesn't matter if we bat or ball first. The pitch will remain the same throughout the game. In these conditions you need to prepare mentally. We spoke about the areas we need to improve. You need to be in a good head space and deliver what's expected. We got the right balance, Rachin and I will open, Mitchell will bat at number 3. Theekshana comes in for Santner. Need to believe and back yourself. We want to win every game possible, you got to have the right mindset.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715506269130,
-    "commText": "<p><b>Sanju Samson:</b> We would like to bat first. Looks like a decent wicket, don't expect any dew. Change of conditions and weather, got time to adapt to it. Need to give it all in this game. Need to stick to what has worked for us. Need to do our basic processes, just taking care of the controllables. Need to perform as a batsman, results have to go your way to feel happy. Jurel is back.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715506247656,
-    "commText": "<p><b>Rajasthan Royals have won the toss and have opted to bat</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715505915478,
-    "commText": "<p>\"Good afternoon from sweltering Chennai,\" says our correspondent <b>Kaushik Rangarajan.</b> \"Lot of bowling for Mukesh Choudhary on one side, Ashwin and Keshav Maharaj the most active on the other side. The hessian has been kept on to presumably keep the pitch cool,\" <b>Kaushik</b> further adds.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715505728524,
-    "commText": "<p><b>Moeen Ali:</b> Very crucial, I think every game is big, it's a big opportunity. We need a win, had a bad last game. Hopefully we can get those two points today. Rajasthan are a top side. I think toss has been crucial in the night games, it has been difficult for the spinners due to the dew, has been difficult to grip the ball. Hopefully the wicket can spin today, I know they have two fantastic spinners, but that's our strength too. As players we speak to him (Dhoni), it's special to play with him. Need to take early wickets against RR, they bat deep. Think they have a really balanced side.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715504416641,
-    "commText": "<p><b>Pitch report</b>: \"It's hot, very hot at Chepauk. Temperature around 37 but feels like 47. The boundaries, 66m and 70m square and those aren't too small, 79 is the straight hit. It's a day game so you got to read\u00a0the pitch well. Avg score here is 183\", says <b>Pommie Mbangwa</b>. <b>Daren Ganga</b> comes in for more, \"What will be critical firstly is the water\u00a0content in this surface and that\u00a0will determine\u00a0how tricky this pitch is. There is no grass covering, it's bare. The curator told me that it's normal\u00a0water content. Now the challenge really is how does he preserve\u00a0that water content where it remains good for batting first and remains good for batting throughout the course of the game. It's hot, so there is going to be that drying out. Maybe if there is a little bit of moisture it will be tacky, sticky, bit of a challenge for the team batting first. There will be a bit of turn because\u00a0historically we have seen six matches this season and the average turn for the spinners is 2.1 - above the average we have seen in the tournament so expect spin to play a part. Average as Pommie said is 183 but for day games it is usually a bit lower. But Chennai, playing on this pitch No. 6 they have played\u00a0twice\u00a0batted first and scored over 200 runs and those were night games. Batting first teams will be looking for a score around there.\"</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715504416631,
-    "commText": "<p>The twin centuries by Gill and Sudharsan came in as a surprise for CSK a couple of days back, however, they are back at home and the defending champions know how to win in these conditions. CSK\u2019s bowling looked rattled against the Titans but expect them to bounce back in this afternoon clash. A win for them takes them one step closer to the playoffs. What do we have in store for this game? Only time has all the answers, stay around for the toss and teams..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715504286688,
-    "commText": "<p><b>14:30 Local Time, 09:00 GMT, 14:30 IST:</b> Kolkata Knight Riders beat Mumbai Indians and became the first team to qualify for the IPL 2024 playoffs last night. It\u2019s a double-header Sunday and the teams involved in today\u2019s afternoon clash - both are the strongest contenders to seal two out of the remaining three spots. Hello and welcome to our live coverage of the clash between CSK and RR! The Royals looked unstoppable in the first half of the season but they have run out of gas in their last few games. Having lost back-to-back games they have slipped to the number two spot and today they will be up against the Chennai Super Kings at the Chepauk. Things are only getting tougher for the Royals.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715423689762,
-    "commText": "<p><b>Preview</b> by <b>Kaushik Rangarajan</b> \\n \\n\"I stress that it's not the same as what we left [in 2019]. We've worked hard to try and understand [the conditions], we're still trying to understand...\" Stephen Fleming was trying to make sense of Chennai Super Kings' 4-3 home record last year. It seemed like an aberration for the eventual champions of 2023 because in each of the two previous seasons -- 2019 & 2015 -- that had CSK playing their entire set of home league games at Chepauk, they dropped only one match. \\n \\nA year on and CSK would seem no closer to solving the puzzles that their citadel is keen on throwing their way with captain Ruturaj Gaikwad even publicly expressing a dislike for the red-soil pitch that was used last time around, against Punjab Kings. A defeat on Sunday to Rajasthan Royals will mark a second straight year with a 4-3 record and inflict severe qualification jeopardy on the holders, whose inconsistent form has left them scrambling in the 11th hour. \\n \\nConditions, however, cannot detract from a strange season, one in which injuries and erratic form has left the CSK boat with more holes than there are fingers to plug them. And there are really no easy fixes at this juncture. They have to pick one side - batting or bowling - and hope the trade-off works. For example, in Ahmedabad, they dropped Richard Gleeson and reintroduced Rachin Ravindra to address top-order troubles, but as it turned out, the Gujarat Titans plundered 231 runs and had CSK reeling at 10 for 3 in the chase. \\n \\nExacerbating the dilemma is the rapid turnaround from the last game as well as a new unknown. It is uncertain how conditions will evolve in the first afternoon game of the season here. If it takes turn, then with home-town hero Ravichandran Ashwin and Yuzvendra Chahal in their ranks, the Royals could be well placed to exploit it. Having lost two close games on the bounce with the middle-order unable to close out chases, Sanju Samson and Co. will be out to chart an stress-free path into the playoffs themselves. As such, even with enough on the plate for a tasty encounter, the on-field narrative could just end up paling in comparison to the 'will he?' narrative outside of it. \\n \\n<b>When: </b>Chennai Super Kings vs Rajasthan Royals, IPL 2024, May 12, 15:30 IST \\n \\n<b>Where: </b>MA Chidambaram Stadium, Chennai \\n \\n<b>What to expect: </b>Four of the six games this season have been won by teams chasing, but the 35 degrees Celsius mid-afternoon temperature with 73% humidity will test the resolve of the captain considering chasing. The game will be played on Pitch No.6, a black soil surface used for the Gujarat Titans and Lucknow Super Giants games. Both those games saw CSK bat first and score in excess of 200. They won only one of those. \\n \\n<b>Head to Head: </b>CSK 15 - 13 RR. The Royals have won six of the last seven clashes against CSK, including each of the last four. Ashwin was the player of the match when the visitors edged home by three runs at this venue last year. \\n \\n<b>Team Watch: </b> \\n \\n<b>Chennai Super Kings</b> \\n \\n<b>Injuries and Availability: </b>Matheesha Pathirana and Deepak Chahar will continue to miss out with hamstring injuries while Mustafizur Rahman has returned home for national team duties. \\n \\n<b>Tactics & Matchups:</b> \\n \\nWhile Samson has been in good touch against left-arm spin and legspin in this IPL, he has a poor record against Mitchell Santner. The New Zealand all-rounder has dismissed Samson twice in just seven balls bowled to the Royals captain. \\n \\n<b>Probable XI: </b>Ruturaj Gaikwad (c), Rachin Ravindra, Daryl Mitchell, Shivam Dube, Moeen Ali, Ravindra Jadeja, Mitchell Santner, MS Dhoni (wk), Shardul Thakur, Tushar Deshpande, Simarjeet Singh [Impact Sub: Ajinkya Rahane/Sameer Rizvi] \\n \\n<b>Rajasthan Royals</b> \\n \\n<b>Injuries and Availability: </b>Dhruv Jurel and Shimron Hetmyer missed RR's previous game. Both trained on the eve of the game but a decision on their match-readiness will likely be taken closer to the game \\n \\n<b>Tactics & Matchups: </b> \\n \\nRuturaj Gaikwad has a poor record against each of the Royals' three fast bowlers - Boult, Sandeep and Avesh and scores at lesser than a-run-a-ball against the former two. Boult has dismissed Gaikwad thrice in 24 balls while Sandeep and Avesh have accounted for the CSK captain once each. \\n \\n<b>Probable XI: </b>Yashasvi Jaiswal, Sanju Samson (c&wk), Riyan Parag, Shubham Dubey/Dhruv Jurel, Rovman Powell, Donovan Ferreira/Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Yuzvendra Chahal, Sandeep Sharma [Impact Sub: Jos Buttler] \\n \\n<b>Did you know? </b> \\n \\n- Ruturaj Gaikwad averages 99 in games at Chepauk this year. His last-four scores here read 67* (58), 108* (60), 98 (54) and 62 (48) \\n \\n- Sanju Samson is 14 runs away from surpassing his highest tally in an IPL season (484 runs in IPL 2021). His average (67.29) and strike-rate (163.54) this year already the best for him in a single edition. \\n \\n- Tushar Deshpande has taken seven death-overs wickets at an economy of 8.77, down from an economy rate of 12.88 last year. \\n \\n<b>What they said: </b> \\n \\n\"I wouldn't really say that it's much of a concern. I mean obviously we're grateful that our top-order has put us in really good positions and put us over the line. I think we have got capable batters in the middle-order and we've got quite a deep batting line-up for us to pull that through. We just need to keep backing ourselves and when it comes to those crunch moments... luckily we have three games now... you don't really want to say you want to test yourselves here, you want to test the middle order. You just have to keep going and keep the momentum on your side. And I think it's just training really well and training with match intensity in the middle-order so that when the moment arrives, your skills are up and then you back yourself to pull the game through\" - <b>Donovan Ferreira</b> isn't concerned by the meagre returns for Rajasthan Royals' middle order.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715423689752,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1715423664548,
+    "commText": "<p><b>Rajasthan Royals</b> Squad: Yashasvi Jaiswal, Sanju Samson(w/c), Riyan Parag, Donovan Ferreira, Rovman Powell, Shubham Dubey, Ravichandran Ashwin, Trent Boult, Avesh Khan, Sandeep Sharma, Yuzvendra Chahal, Jos Buttler, Kuldeep Sen, Tanush Kotian, Tom Kohler-Cadmore, Kunal Singh Rathore, Navdeep Saini, Keshav Maharaj, Shimron Hetmyer, Nandre Burger, Dhruv Jurel, Abid Mushtaq</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -462,6 +26,7 @@
   {
     "timestamp": 1715423688295,
     "commText": "<p><b>Chennai Super Kings</b> Squad: Ruturaj Gaikwad(c), Rachin Ravindra, Daryl Mitchell, Shivam Dube, Moeen Ali, Ravindra Jadeja, MS Dhoni(w), Mitchell Santner, Shardul Thakur, Tushar Deshpande, Simarjeet Singh, Ajinkya Rahane, Shaik Rasheed, Aravelly Avanish, Sameer Rizvi, Mukesh Choudhary, Richard Gleeson, Ajay Jadav Mandal, Prashant Solanki, RS Hangargekar, Nishant Sindhu, Maheesh Theekshana</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -483,8 +48,465 @@
     }
   },
   {
-    "timestamp": 1715423664548,
-    "commText": "<p><b>Rajasthan Royals</b> Squad: Yashasvi Jaiswal, Sanju Samson(w/c), Riyan Parag, Donovan Ferreira, Rovman Powell, Shubham Dubey, Ravichandran Ashwin, Trent Boult, Avesh Khan, Sandeep Sharma, Yuzvendra Chahal, Jos Buttler, Kuldeep Sen, Tanush Kotian, Tom Kohler-Cadmore, Kunal Singh Rathore, Navdeep Saini, Keshav Maharaj, Shimron Hetmyer, Nandre Burger, Dhruv Jurel, Abid Mushtaq</p>",
+    "timestamp": 1715423689752,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715423689762,
+    "commText": "<p><b>Preview</b> by <b>Kaushik Rangarajan</b> \\n \\n\"I stress that it's not the same as what we left [in 2019]. We've worked hard to try and understand [the conditions], we're still trying to understand...\" Stephen Fleming was trying to make sense of Chennai Super Kings' 4-3 home record last year. It seemed like an aberration for the eventual champions of 2023 because in each of the two previous seasons -- 2019 & 2015 -- that had CSK playing their entire set of home league games at Chepauk, they dropped only one match. \\n \\nA year on and CSK would seem no closer to solving the puzzles that their citadel is keen on throwing their way with captain Ruturaj Gaikwad even publicly expressing a dislike for the red-soil pitch that was used last time around, against Punjab Kings. A defeat on Sunday to Rajasthan Royals will mark a second straight year with a 4-3 record and inflict severe qualification jeopardy on the holders, whose inconsistent form has left them scrambling in the 11th hour. \\n \\nConditions, however, cannot detract from a strange season, one in which injuries and erratic form has left the CSK boat with more holes than there are fingers to plug them. And there are really no easy fixes at this juncture. They have to pick one side - batting or bowling - and hope the trade-off works. For example, in Ahmedabad, they dropped Richard Gleeson and reintroduced Rachin Ravindra to address top-order troubles, but as it turned out, the Gujarat Titans plundered 231 runs and had CSK reeling at 10 for 3 in the chase. \\n \\nExacerbating the dilemma is the rapid turnaround from the last game as well as a new unknown. It is uncertain how conditions will evolve in the first afternoon game of the season here. If it takes turn, then with home-town hero Ravichandran Ashwin and Yuzvendra Chahal in their ranks, the Royals could be well placed to exploit it. Having lost two close games on the bounce with the middle-order unable to close out chases, Sanju Samson and Co. will be out to chart an stress-free path into the playoffs themselves. As such, even with enough on the plate for a tasty encounter, the on-field narrative could just end up paling in comparison to the 'will he?' narrative outside of it. \\n \\n<b>When: </b>Chennai Super Kings vs Rajasthan Royals, IPL 2024, May 12, 15:30 IST \\n \\n<b>Where: </b>MA Chidambaram Stadium, Chennai \\n \\n<b>What to expect: </b>Four of the six games this season have been won by teams chasing, but the 35 degrees Celsius mid-afternoon temperature with 73% humidity will test the resolve of the captain considering chasing. The game will be played on Pitch No.6, a black soil surface used for the Gujarat Titans and Lucknow Super Giants games. Both those games saw CSK bat first and score in excess of 200. They won only one of those. \\n \\n<b>Head to Head: </b>CSK 15 - 13 RR. The Royals have won six of the last seven clashes against CSK, including each of the last four. Ashwin was the player of the match when the visitors edged home by three runs at this venue last year. \\n \\n<b>Team Watch: </b> \\n \\n<b>Chennai Super Kings</b> \\n \\n<b>Injuries and Availability: </b>Matheesha Pathirana and Deepak Chahar will continue to miss out with hamstring injuries while Mustafizur Rahman has returned home for national team duties. \\n \\n<b>Tactics & Matchups:</b> \\n \\nWhile Samson has been in good touch against left-arm spin and legspin in this IPL, he has a poor record against Mitchell Santner. The New Zealand all-rounder has dismissed Samson twice in just seven balls bowled to the Royals captain. \\n \\n<b>Probable XI: </b>Ruturaj Gaikwad (c), Rachin Ravindra, Daryl Mitchell, Shivam Dube, Moeen Ali, Ravindra Jadeja, Mitchell Santner, MS Dhoni (wk), Shardul Thakur, Tushar Deshpande, Simarjeet Singh [Impact Sub: Ajinkya Rahane/Sameer Rizvi] \\n \\n<b>Rajasthan Royals</b> \\n \\n<b>Injuries and Availability: </b>Dhruv Jurel and Shimron Hetmyer missed RR's previous game. Both trained on the eve of the game but a decision on their match-readiness will likely be taken closer to the game \\n \\n<b>Tactics & Matchups: </b> \\n \\nRuturaj Gaikwad has a poor record against each of the Royals' three fast bowlers - Boult, Sandeep and Avesh and scores at lesser than a-run-a-ball against the former two. Boult has dismissed Gaikwad thrice in 24 balls while Sandeep and Avesh have accounted for the CSK captain once each. \\n \\n<b>Probable XI: </b>Yashasvi Jaiswal, Sanju Samson (c&wk), Riyan Parag, Shubham Dubey/Dhruv Jurel, Rovman Powell, Donovan Ferreira/Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Yuzvendra Chahal, Sandeep Sharma [Impact Sub: Jos Buttler] \\n \\n<b>Did you know? </b> \\n \\n- Ruturaj Gaikwad averages 99 in games at Chepauk this year. His last-four scores here read 67* (58), 108* (60), 98 (54) and 62 (48) \\n \\n- Sanju Samson is 14 runs away from surpassing his highest tally in an IPL season (484 runs in IPL 2021). His average (67.29) and strike-rate (163.54) this year already the best for him in a single edition. \\n \\n- Tushar Deshpande has taken seven death-overs wickets at an economy of 8.77, down from an economy rate of 12.88 last year. \\n \\n<b>What they said: </b> \\n \\n\"I wouldn't really say that it's much of a concern. I mean obviously we're grateful that our top-order has put us in really good positions and put us over the line. I think we have got capable batters in the middle-order and we've got quite a deep batting line-up for us to pull that through. We just need to keep backing ourselves and when it comes to those crunch moments... luckily we have three games now... you don't really want to say you want to test yourselves here, you want to test the middle order. You just have to keep going and keep the momentum on your side. And I think it's just training really well and training with match intensity in the middle-order so that when the moment arrives, your skills are up and then you back yourself to pull the game through\" - <b>Donovan Ferreira</b> isn't concerned by the meagre returns for Rajasthan Royals' middle order.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715504286688,
+    "commText": "<p><b>14:30 Local Time, 09:00 GMT, 14:30 IST:</b> Kolkata Knight Riders beat Mumbai Indians and became the first team to qualify for the IPL 2024 playoffs last night. It\u2019s a double-header Sunday and the teams involved in today\u2019s afternoon clash - both are the strongest contenders to seal two out of the remaining three spots. Hello and welcome to our live coverage of the clash between CSK and RR! The Royals looked unstoppable in the first half of the season but they have run out of gas in their last few games. Having lost back-to-back games they have slipped to the number two spot and today they will be up against the Chennai Super Kings at the Chepauk. Things are only getting tougher for the Royals.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715504416631,
+    "commText": "<p>The twin centuries by Gill and Sudharsan came in as a surprise for CSK a couple of days back, however, they are back at home and the defending champions know how to win in these conditions. CSK\u2019s bowling looked rattled against the Titans but expect them to bounce back in this afternoon clash. A win for them takes them one step closer to the playoffs. What do we have in store for this game? Only time has all the answers, stay around for the toss and teams..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715504416641,
+    "commText": "<p><b>Pitch report</b>: \"It's hot, very hot at Chepauk. Temperature around 37 but feels like 47. The boundaries, 66m and 70m square and those aren't too small, 79 is the straight hit. It's a day game so you got to read\u00a0the pitch well. Avg score here is 183\", says <b>Pommie Mbangwa</b>. <b>Daren Ganga</b> comes in for more, \"What will be critical firstly is the water\u00a0content in this surface and that\u00a0will determine\u00a0how tricky this pitch is. There is no grass covering, it's bare. The curator told me that it's normal\u00a0water content. Now the challenge really is how does he preserve\u00a0that water content where it remains good for batting first and remains good for batting throughout the course of the game. It's hot, so there is going to be that drying out. Maybe if there is a little bit of moisture it will be tacky, sticky, bit of a challenge for the team batting first. There will be a bit of turn because\u00a0historically we have seen six matches this season and the average turn for the spinners is 2.1 - above the average we have seen in the tournament so expect spin to play a part. Average as Pommie said is 183 but for day games it is usually a bit lower. But Chennai, playing on this pitch No. 6 they have played\u00a0twice\u00a0batted first and scored over 200 runs and those were night games. Batting first teams will be looking for a score around there.\"</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715505728524,
+    "commText": "<p><b>Moeen Ali:</b> Very crucial, I think every game is big, it's a big opportunity. We need a win, had a bad last game. Hopefully we can get those two points today. Rajasthan are a top side. I think toss has been crucial in the night games, it has been difficult for the spinners due to the dew, has been difficult to grip the ball. Hopefully the wicket can spin today, I know they have two fantastic spinners, but that's our strength too. As players we speak to him (Dhoni), it's special to play with him. Need to take early wickets against RR, they bat deep. Think they have a really balanced side.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715505915478,
+    "commText": "<p>\"Good afternoon from sweltering Chennai,\" says our correspondent <b>Kaushik Rangarajan.</b> \"Lot of bowling for Mukesh Choudhary on one side, Ashwin and Keshav Maharaj the most active on the other side. The hessian has been kept on to presumably keep the pitch cool,\" <b>Kaushik</b> further adds.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715506247656,
+    "commText": "<p><b>Rajasthan Royals have won the toss and have opted to bat</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715506269130,
+    "commText": "<p><b>Sanju Samson:</b> We would like to bat first. Looks like a decent wicket, don't expect any dew. Change of conditions and weather, got time to adapt to it. Need to give it all in this game. Need to stick to what has worked for us. Need to do our basic processes, just taking care of the controllables. Need to perform as a batsman, results have to go your way to feel happy. Jurel is back.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715506363275,
+    "commText": "<p><b>Ruturaj Gaikwad:</b> Dew is not a factor, doesn't matter if we bat or ball first. The pitch will remain the same throughout the game. In these conditions you need to prepare mentally. We spoke about the areas we need to improve. You need to be in a good head space and deliver what's expected. We got the right balance, Rachin and I will open, Mitchell will bat at number 3. Theekshana comes in for Santner. Need to believe and back yourself. We want to win every game possible, you got to have the right mindset.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715506509447,
+    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Shubham Dubey, Dhruv Jurel, Ravichandran Ashwin, Trent Boult, Avesh Khan, Sandeep Sharma, Yuzvendra Chahal</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715506549383,
+    "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Rachin Ravindra, Ruturaj Gaikwad(c), Daryl Mitchell, Moeen Ali, Shivam Dube, Ravindra Jadeja, MS Dhoni(w), Shardul Thakur, Tushar Deshpande, Simarjeet Singh, Maheesh Theekshana</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715506550526,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715506761168,
+    "commText": "<p><b>Chennai Super Kings Impact Subs:</b> Ajinkya Rahane, Sameer Rizvi, Prashant Solanki, Ajay Mandal, Mukesh Choudhary</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715506810800,
+    "commText": "<p><b>Rajasthan Royals Impact Subs: </b>Rovman Powell, Tom Kohler-Cadmore, Nandre Burger, Tanush Kotian, Keshav Maharaj</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715506818016,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715506858584,
+    "commText": "<p>We have made a couple of changes in our Fantasy Handbook, do check out our Expert XI before you lock your teams..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715507295627,
+    "commText": "<p><b>CSK have lost the toss in 11 of their 13 matches this season.</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715507295637,
+    "commText": "<p><b>Most tosses lost in the league phase in an IPL edition</b> \\n12 - RR in IPL 2022 \\n11 - DC in IPL 2013 \\n11 - RCB in IPL 2013 \\n11 - LSG in IPL 2023 \\n11 - CSK in IPL 2024*</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715507839656,
+    "commText": "<p>The players are out in the middle in the sweltering heat of Chennai. The two RR openers are ready to roll as Deshpande will bowl the first over of the match. Here we go!</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

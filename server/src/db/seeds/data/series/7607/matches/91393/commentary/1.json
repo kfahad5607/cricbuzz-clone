@@ -1,7 +1,8 @@
 [
   {
-    "timestamp": 1712764531741,
-    "commText": "<p><b>GT's sub - Shahrukh Khan in</b>. Here we go. Boult to start off. A wide slip in.</p>",
+    "timestamp": 1712758255411,
+    "commText": "<p><b>Jaiswal and Buttler are at the crease. Jaiswal is on strike. Umesh Yadav will open the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -23,12 +24,161 @@
     }
   },
   {
-    "timestamp": 1712764528741,
-    "commText": "<p>Welcome back. The players are out there. <b>RR have made their sub - Jaiswal out and Maharaj in</b>.</p>",
+    "timestamp": 1712758263515,
+    "commText": "<p> Umesh Yadav to Jaiswal, no run, starts with a wayward delivery that's well wide outside off. Jaiswal leaves it alone. Was close to being called a wide </p>",
+    "ballNbr": 1,
+    "overs": 0.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712758287434,
+    "commText": "<p> Umesh Yadav to Jaiswal, no run, back of a length on middle, hint of inswing, Jaiswal hangs back and punches gently into the on-side </p>",
+    "ballNbr": 2,
+    "overs": 0.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 0,
+      "ballsPlayed": 2,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712758320625,
+    "commText": "<p> Umesh Yadav to Jaiswal, no run, back of a length on middle, Jaiswal defends from the crease. Looks like he wants to give himself a bit more time at the start, rather than being aggressive from the first ball </p>",
+    "ballNbr": 3,
+    "overs": 0.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 0,
+      "ballsPlayed": 3,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712758357192,
+    "commText": "<p> Umesh Yadav to Jaiswal, no run, full outside off, Jaiswal looks to drive and mistimes it to cover </p>",
+    "ballNbr": 4,
+    "overs": 0.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 0,
+      "ballsPlayed": 4,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712758391244,
+    "commText": "<p> Umesh Yadav to Jaiswal, <b>FOUR</b>, cracking shot off the back foot! Back of a length outside off, Jaiswal stays in the crease and punches it beautifully through the covers </p>",
+    "ballNbr": 5,
+    "overs": 0.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 4,
+      "ballsPlayed": 5,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712758436506,
+    "commText": "<p> Umesh Yadav to Jaiswal, 2 runs, <b>almost chopped on!</b> Length ball slanted away outside off, Jaiswal goes cross-batted as he looks to flay it through the off-side and gets a thick under-edge. It wasn't far from crashing into the stumps </p>",
+    "ballNbr": 6,
+    "overs": 1,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 6,
+      "ballsPlayed": 6,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712758488944,
+    "commText": "<p><b>Spencer Johnson, left-arm fast medium, comes into the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
+      "id": 2258,
       "batRuns": 0,
       "ballsPlayed": 0,
       "dotBalls": 0,
@@ -36,7 +186,7 @@
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 0,
+      "id": 1858,
       "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
@@ -46,243 +196,1777 @@
     }
   },
   {
-    "timestamp": 1712764525781,
-    "commText": "<p><b>RR innings progression</b> \\nOvers 1-6: 43/2 (RR: 7.16) \\nOvers 7-15: 91/0 (RR: 10.11) \\nOvers 16-20: 62/1 (RR: 12.40)</p>",
-    "overs": 0,
+    "timestamp": 1712758525762,
+    "commText": "<p> Spencer Johnson to Buttler, 2 runs, 139.3kph length ball across off stump, Buttler hangs back and taps it into the off-side. Finds the gap at cover and gets a couple of runs </p>",
+    "ballNbr": 7,
+    "overs": 1.1,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
+      "id": 2258,
+      "batRuns": 2,
+      "ballsPlayed": 1,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
+      "id": 13143,
+      "bowlOvers": 0.1,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
+      "bowlRuns": 2,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712764525771,
-    "commText": "<p><b>Highest partnership for RR for 3rd or lower wickets in IPL</b> \\n152* - S Samson & B Stokes vs MI, Abu Dhabi, 2020 \\n130 - S Samson & R Parag vs GT, Jaipur, 2024* \\n107 - P Dogra & Y Pathan vs MI, Brabourne, 2010 \\n104 - G Smith & S Watson vs RCB, Bengaluru, 2008</p>",
-    "overs": 0,
+    "timestamp": 1712758555838,
+    "commText": "<p> Spencer Johnson to Buttler, 1 run, fuller than a length outside off, angling away, Buttler opens the face and runs it to deep third </p>",
+    "ballNbr": 8,
+    "overs": 1.2,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
+      "id": 2258,
+      "batRuns": 3,
+      "ballsPlayed": 2,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
+      "id": 13143,
+      "bowlOvers": 0.2,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
+      "bowlRuns": 3,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712764525761,
-    "commText": "<p><b>Most 50+ scores for RR in all T20s</b> \\n25 - Sanju Samson (131 inns)* \\n24 - Jos Buttler (76 inns) \\n23 - Ajinkya Rahane (99 inns) \\n16 - Shane Watson (81 inns) \\n9 - Yashasvi Jaiswal (42 inns)</p>",
-    "overs": 0,
+    "timestamp": 1712758604927,
+    "commText": "<p> Spencer Johnson to Jaiswal, no run, length ball wide of off, Jaiswal slashes hard but misses </p>",
+    "ballNbr": 9,
+    "overs": 1.3,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
+      "id": 13940,
+      "batRuns": 6,
+      "ballsPlayed": 7,
+      "dotBalls": 5,
+      "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
+      "id": 13143,
+      "bowlOvers": 0.3,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
+      "bowlRuns": 3,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712764525751,
-    "commText": "<p><b>Highest scores in 50th IPL match as captain</b> \\n68* (38) - Sanju Samson (RR) vs GT, 2024* \\n59 (46) - Gautam Gambhir (KKR) vs RCB, 2013 \\n65 (48) - Rohit Sharma (MI) vs DC, 2016 \\n45 (33) - David Warner (SRH) vs DC, 2021</p>",
-    "overs": 0,
+    "timestamp": 1712758639014,
+    "commText": "<p> Spencer Johnson to Jaiswal, no run, driven nicely but straight to point. Fuller than a length just outside off, not much movement, and Jaiswal hits it sweetly off the front foot </p>",
+    "ballNbr": 10,
+    "overs": 1.4,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
+      "id": 13940,
+      "batRuns": 6,
+      "ballsPlayed": 8,
+      "dotBalls": 6,
+      "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
+      "id": 13143,
+      "bowlOvers": 0.4,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
+      "bowlRuns": 3,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712764525741,
-    "commText": "<p><b>Rashid Khan:</b> First few games I was struggling with line and length. Have been working on hitting the right area consistently. Hard after coming back from back surgery. I wasn't feeling right in the first few games. Didn't have the satisfaction. Felt like I was 90-94 percent today. Look forward to making it 100 percent. The more you bowl into the wicket, the harder it is for batter. Will look to have the positive mindset in the chase.</p>",
-    "overs": 0,
+    "timestamp": 1712758675190,
+    "commText": "<p> Spencer Johnson to Jaiswal, no run, 137.4kph back of a length delivery just outside off, Jaiswal looks to cut but is cramped for room. Beaten! </p>",
+    "ballNbr": 11,
+    "overs": 1.5,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
+      "id": 13940,
+      "batRuns": 6,
+      "ballsPlayed": 9,
+      "dotBalls": 7,
+      "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
+      "id": 13143,
+      "bowlOvers": 0.5,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
+      "bowlRuns": 3,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712764522741,
-    "commText": "<p><b>21:25 Local Time, 15:55 GMT, 21:25 IST:</b> RR end with a very good score. Buttler failed tonight and Jaiswal again did not last beyond the powerplay - he has not done that this season. Enter Samson and Riyan Parag. Parag was dropped twice by Wade early on off Rashid Khan and that proved costly. The duo settled down and then began the rebuilding work. Parag took heavy toll on Noor, smashing him on the leg-side for three sixes. The stand was worth 130 and GT after a good start couldn't get rid of them. At the end Hetmyer hit a six and ensured his contribution. Once again RR's skipper Samson came good - his third fifty in 5 games and 196 is a good score. RR have a good bowling lineup and they will be backing themselves. Back for the chase in 5 minutes...</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712764519741,
-    "commText": "<p> Umesh Yadav to Hetmyer, 1 run, very full outside off, driven to extra-cover and just one, Hetmyer has a look at the toe of his bat, RR end on 196 </p>",
-    "overs": 20,
+    "timestamp": 1712758711695,
+    "commText": "<p> Spencer Johnson to Jaiswal, <b>FOUR</b>, again not much room as he looks to cut, but this time he cracks it away past backward point! Back of a length just outside off, was perhaps even tighter than the previous one, but Jaiswal got hold of it nicely </p>",
+    "ballNbr": 12,
+    "overs": 2,
     "events": [
       "OVER_BREAK",
-      "HIGHSCORING_OVER"
+      "FOUR"
     ],
     "batsmanStriker": {
-      "id": 9789,
-      "batRuns": 13,
-      "ballsPlayed": 5,
+      "id": 13940,
+      "batRuns": 10,
+      "ballsPlayed": 10,
+      "dotBalls": 7,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712758788419,
+    "commText": "<p> Umesh Yadav to Buttler, 1 run, 139.5kph length ball on off, Buttler gets half-forward looking to push down the ground and drags it off the inside half wide of mid-on </p>",
+    "ballNbr": 13,
+    "overs": 2.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 4,
+      "ballsPlayed": 3,
       "dotBalls": 0,
-      "batFours": 1,
-      "batSixes": 1
+      "batFours": 0,
+      "batSixes": 0
     },
     "bowlerStriker": {
       "id": 1858,
-      "bowlOvers": 4,
+      "bowlOvers": 1.1,
       "bowlMaidens": 0,
-      "bowlRuns": 47,
-      "bowlWickets": 1,
-      "bowlWides": 2,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712764473376,
-    "commText": "<p> Umesh Yadav to Samson, 1 run, slower ball leg-cutter on a back of a length outside off, Samson pulls to deep mid-wicket, has a wry smile on his face, did not get all of it </p>",
-    "overs": 19.5,
+    "timestamp": 1712758858801,
+    "commText": "<p> Umesh Yadav to Jaiswal, no run, back of a length on off, Jaiswal blocks from the crease </p>",
+    "ballNbr": 14,
+    "overs": 2.2,
     "events": [],
     "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 68,
-      "ballsPlayed": 38,
-      "dotBalls": 7,
-      "batFours": 7,
-      "batSixes": 2
+      "id": 13940,
+      "batRuns": 10,
+      "ballsPlayed": 11,
+      "dotBalls": 8,
+      "batFours": 2,
+      "batSixes": 0
     },
     "bowlerStriker": {
       "id": 1858,
-      "bowlOvers": 3.5,
+      "bowlOvers": 1.2,
       "bowlMaidens": 0,
-      "bowlRuns": 46,
-      "bowlWickets": 1,
-      "bowlWides": 2,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712764437386,
-    "commText": "<p> Umesh Yadav to Samson, <b>wide</b>, way outside off, full and outside the tramline, left alone and the wide taken </p>",
-    "overs": 19.5,
+    "timestamp": 1712758861801,
+    "commText": "<p>Despite the rain we had earlier, there hasn't been much movement for the pacers with the new ball</p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 67,
-      "ballsPlayed": 37,
-      "dotBalls": 7,
-      "batFours": 7,
-      "batSixes": 2
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 3.4,
+      "id": 0,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
-      "bowlRuns": 45,
-      "bowlWickets": 1,
-      "bowlWides": 2,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712764413744,
-    "commText": "<p> Umesh Yadav to Samson, <b>wide</b>, slower ball dug in outside off, too short and Samson leaps to cut, misses, GT lose the review as it is over the head </p>",
-    "overs": 19.5,
+    "timestamp": 1712758910747,
+    "commText": "<p> Umesh Yadav to Jaiswal, no run, length ball on middle and leg, 140.3kph, Jaiswal hangs back and clips it to mid-on </p>",
+    "ballNbr": 15,
+    "overs": 2.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 10,
+      "ballsPlayed": 12,
+      "dotBalls": 9,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712758910757,
+    "commText": "<p>Highest opening stand for RR this IPL season</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712758952361,
+    "commText": "<p> Umesh Yadav to Jaiswal, no run, more frustration for Jaiswal as he finds the fielder. Back of a length delivery straying on leg stump, Jaiswal looks to capitalise and plays the pull shot. But it's straight to short fine </p>",
+    "ballNbr": 16,
+    "overs": 2.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 10,
+      "ballsPlayed": 13,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712758992559,
+    "commText": "<p> Umesh Yadav to Jaiswal, <b>FOUR</b>, this time he finds the gap! Back of a length outside off, width on offer for Jaiswal who frees his arms and slashes it through the covers </p>",
+    "ballNbr": 17,
+    "overs": 2.5,
     "events": [
-      "UDRS"
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 14,
+      "ballsPlayed": 14,
+      "dotBalls": 10,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 11,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759040864,
+    "commText": "<p> Umesh Yadav to Jaiswal, <b>FOUR</b>, more width, and it disappears to the boundary again! Length ball slanted away, Jaiswal throws his bat at it and slaps it hard through extra cover </p>",
+    "ballNbr": 18,
+    "overs": 3,
+    "events": [
+      "OVER_BREAK",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 18,
+      "ballsPlayed": 15,
+      "dotBalls": 10,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759104117,
+    "commText": "<p> Spencer Johnson to Buttler, no run, 140.4kph overpitched outside off, Buttler drives well but straight to cover </p>",
+    "ballNbr": 19,
+    "overs": 3.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 4,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759135329,
+    "commText": "<p> Spencer Johnson to Buttler, 1 run, 139kph length ball on middle, Buttler gets forward and knocks it to mid-off for a quick single </p>",
+    "ballNbr": 20,
+    "overs": 3.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 5,
+      "ballsPlayed": 5,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759179851,
+    "commText": "<p> Spencer Johnson to Jaiswal, 1 run, back of a length delivery just outside off, Jaiswal is cramped for room as he looks to cut and ends up chopping it off a thick under-edge into the off-side </p>",
+    "ballNbr": 21,
+    "overs": 3.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 19,
+      "ballsPlayed": 16,
+      "dotBalls": 10,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759230817,
+    "commText": "<p> Spencer Johnson to Buttler, 1 run, length ball just outside off, Buttler goes for a scoop but doesn't connect. Gets hit on the thigh pad </p>",
+    "ballNbr": 22,
+    "overs": 3.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 6,
+      "ballsPlayed": 6,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759264254,
+    "commText": "<p> Spencer Johnson to Jaiswal, 1 run, 144.2kph full delivery on off, Jaiswal looks to go hard on the drive and mistimes it to mid-off </p>",
+    "ballNbr": 23,
+    "overs": 3.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 20,
+      "ballsPlayed": 17,
+      "dotBalls": 10,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 11,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759308387,
+    "commText": "<p> Spencer Johnson to Buttler, 2 runs, 137.7kph back of a length delivery on middle, Buttler hangs back and clips it through midwicket for a couple of runs </p>",
+    "ballNbr": 24,
+    "overs": 4,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 8,
+      "ballsPlayed": 7,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759311387,
+    "commText": "<p>Steady start from the Royals so far. They'll look to go big in these last couple of overs in the powerplay.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759365491,
+    "commText": "<p> Umesh Yadav to Jaiswal, <b>FOUR</b>, there he goes! Back of a length just outside off, Jaiswal shuffles across, pulls hard and hoists it over midwicket. May have got it slightly high on the bat, but clears the infield easily </p>",
+    "ballNbr": 25,
+    "overs": 4.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 24,
+      "ballsPlayed": 18,
+      "dotBalls": 10,
+      "batFours": 5,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759365501,
+    "commText": "<p><b>RR's opening stand this IPL</b> \\n13 (12) vs LSG \\n9 (11) vs DC \\n10 (6) vs MI \\n0 (2) vs RCB \\n32 (26) vs GT*</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759410525,
+    "commText": "<p> Umesh Yadav to Jaiswal, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 24,
+      "ballsPlayed": 18,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759413820,
+    "commText": "<p> Umesh Yadav to Jaiswal, <b>out</b> Caught by Wade!! Gone this time. Length ball around off, Jaiswal bends across to scoop and gets it very high on the bat. As a result, he doesn't get the desired elevation and Wade takes a superb jumping catch. Jaiswal's lean run this season continues. <b>Jaiswal c Wade b Umesh Yadav 24(19) [4s-5]</b> </p>",
+    "ballNbr": 26,
+    "overs": 4.2,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 13940,
+      "batRuns": 24,
+      "ballsPlayed": 19,
+      "dotBalls": 11,
+      "batFours": 5,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759413830,
+    "commText": "<p><b>Jaiswal in this IPL</b> \\n10(6) vs LSG \\n5(7) vs DC \\n24(12) vs MI \\n0(1) vs RCB \\n24 (19) vs GT* \\n \\n- He has failed to survive the powerplay this season so far.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759447501,
+    "commText": "<p><b>Sanju Samson, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759526210,
+    "commText": "<p> Umesh Yadav to Samson, no run, length ball on off, Samson gets forward and punches it to mid-on. The ball stayed low and struck him on the toe-end </p>",
+    "ballNbr": 27,
+    "overs": 4.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759564848,
+    "commText": "<p> Umesh Yadav to Samson, <b>FOUR</b>, short and wide outside off, Samson goes back in the crease, gets on top of the bounce and cuts it superbly through point </p>",
+    "ballNbr": 28,
+    "overs": 4.4,
+    "events": [
+      "FOUR"
     ],
     "batsmanStriker": {
       "id": 8271,
-      "batRuns": 67,
-      "ballsPlayed": 37,
-      "dotBalls": 7,
-      "batFours": 7,
-      "batSixes": 2
+      "batRuns": 4,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
     },
     "bowlerStriker": {
       "id": 1858,
-      "bowlOvers": 3.4,
+      "bowlOvers": 2.4,
       "bowlMaidens": 0,
-      "bowlRuns": 44,
+      "bowlRuns": 23,
       "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759610684,
+    "commText": "<p> Umesh Yadav to Samson, <b>FOUR</b>, back-to-back boundaries as Samson gets going straightaway! Length ball on middle, he hangs back in the crease and clips it beautifully through midwicket </p>",
+    "ballNbr": 29,
+    "overs": 4.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 8,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759657332,
+    "commText": "<p> Umesh Yadav to Samson, 1 run, 133.8kph short of length delivery on off, Samson rides the bounce and dabs it past the keeper </p>",
+    "ballNbr": 30,
+    "overs": 5,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 9,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759660332,
+    "commText": "<p>Rashid has an excellent record against Buttler, not so against Samson. Will be a battle to watch out for.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759711520,
+    "commText": "<p><b>Rashid Khan, right-arm leg break, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 9,
+      "ballsPlayed": 4,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759747771,
+    "commText": "<p> Rashid Khan to Samson, 1 run, full ball on leg stump, seems like the googly and Samson works it through midwicket </p>",
+    "ballNbr": 31,
+    "overs": 5.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 10,
+      "ballsPlayed": 5,
+      "dotBalls": 1,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759777109,
+    "commText": "<p> Rashid Khan to Buttler, no run, flat length ball outside off, <b>stays quite low</b>, turns away and goes under the bat as Buttler looks to punch off the back foot </p>",
+    "ballNbr": 32,
+    "overs": 5.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 8,
+      "ballsPlayed": 8,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759777119,
+    "commText": "<p><b>Buttler vs Rashid Khan in T20s (before today)</b> \\nBalls: 72 \\nRuns: 50 \\nDismissals: 4 \\nAvg: 12.5 \\nSR: 69.44 \\n4s/6s: 1/0 \\nDots: 29</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759801421,
+    "commText": "<p> Rashid Khan to Buttler, no run, flat on middle, googly, Buttler hangs back and tucks it to short midwicket </p>",
+    "ballNbr": 33,
+    "overs": 5.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 8,
+      "ballsPlayed": 9,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759820126,
+    "commText": "<p> Rashid Khan to Buttler, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759823242,
+    "commText": "<p> Rashid Khan to Buttler, <b>out</b> Caught by Rahul Tewatia!! Rashid continues his dominance against Buttler, getting him out for the fifth time in T20s. Full outside off, Buttler looks to loft down the ground but it turns away and takes the outside edge to slip. Sharp catch from Tewatia there. <b>Buttler c Rahul Tewatia b Rashid Khan 8(10)</b> </p>",
+    "ballNbr": 34,
+    "overs": 5.4,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 2258,
+      "batRuns": 8,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759823252,
+    "commText": "<p><b>Buttler vs Rashid in IPL</b> \\n30 runs \\n50 balls \\nFour dismissals \\nNo boundary</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759889261,
+    "commText": "<p><b>Riyan Parag, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759896652,
+    "commText": "<p> Rashid Khan to Riyan Parag, no run, defended into the off-side </p>",
+    "ballNbr": 35,
+    "overs": 5.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759923564,
+    "commText": "<p> Rashid Khan to Riyan Parag, 1 run, was there an edge on it? Oh yes, the umpire signals runs. Fuller than a length outside off, Parag looks to drive but it turns away and he nicks it behind. <b>Wade can't hold on</b> </p>",
+    "ballNbr": 36,
+    "overs": 6,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759926564,
+    "commText": "<p>Timeout! Brilliant start from Gujarat Titans. They've kept the rate under control while also getting rid of both openers on a pitch where the new ball didn't move around too much. But it's definitely on the slower side with a few balls also staying low already.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712759926574,
+    "commText": "<p><b>Highlights (overs 1-6):</b> \\n-- 4 dots, 6 runs off the opening over from Umesh \\n-- Jaiswal scores 4 boundaries off his first 18 runs \\n-- Umesh gets rid of Jaiswal in his 3rd over \\n-- Samson hits 2 boundaries off his first 3 balls \\n-- Rashid gets the big wicket of Buttler in the last over of the powerplay</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760125578,
+    "commText": "<p><b>Noor Ahmad, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760125588,
+    "commText": "<p><b>Powerplay scores for RR this IPL</b> \\n2/54 vs LSG \\n2/31 vs DC \\n2/46 vs MI \\n1/54 vs RCB \\n2/43 vs GT*</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760129507,
+    "commText": "<p> Noor Ahmad to Riyan Parag, no run, 88kph full outside off, turning in, Parag gets forward and knocks it to short cover </p>",
+    "ballNbr": 37,
+    "overs": 6.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 1,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760155267,
+    "commText": "<p> Noor Ahmad to Riyan Parag, <b>wide</b>, 95kph short and wide outside off, Parag looks to cut but it stays low again and goes under the bat. Wide called by the umpire </p>",
+    "ballNbr": 38,
+    "overs": 6.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 1,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712764309390,
-    "commText": "<p><b>Gill reviews for a wide call.</b> It is a wide.</p>",
+    "timestamp": 1712760165191,
+    "commText": "<p> Noor Ahmad to Riyan Parag, 1 run, length ball on middle, turning in, Parag hangs back and clips it through midwicket </p>",
+    "ballNbr": 38,
+    "overs": 6.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 2,
+      "ballsPlayed": 4,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760196840,
+    "commText": "<p> Noor Ahmad to Samson, 1 run, 93.2kph flat length ball outside off, leg-break, Samson hangs back and punches it to long-off </p>",
+    "ballNbr": 39,
+    "overs": 6.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 11,
+      "ballsPlayed": 6,
+      "dotBalls": 1,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760221429,
+    "commText": "<p> Noor Ahmad to Riyan Parag, 2 runs, googly outside off, slightly short and Parag slaps it hard. Good work at short extra cover who dives across and gets a hand on it </p>",
+    "ballNbr": 40,
+    "overs": 6.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 4,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760291290,
+    "commText": "<p>Noor Ahmad to Riyan Parag, no run, beaten! Gets forward to defend but doesn't pick the googly and it goes past the edge</p>",
+    "ballNbr": 41,
+    "overs": 6.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 4,
+      "ballsPlayed": 6,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760296115,
+    "commText": "<p> Noor Ahmad to Riyan Parag, 1 run, overpitched on the pads, Parag flicks it to deep midwicket </p>",
+    "ballNbr": 42,
+    "overs": 7,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 5,
+      "ballsPlayed": 7,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760329726,
+    "commText": "<p> Rashid Khan to Riyan Parag, no run, full delivery on middle and off, Parag pushes to short cover </p>",
+    "ballNbr": 43,
+    "overs": 7.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 5,
+      "ballsPlayed": 8,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760345851,
+    "commText": "<p> Rashid Khan to Riyan Parag, no run, flat length ball outside off, leg-break, Parag hangs back and cuts to short cover </p>",
+    "ballNbr": 44,
+    "overs": 7.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 5,
+      "ballsPlayed": 9,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760367109,
+    "commText": "<p> Rashid Khan to Riyan Parag, 1 run, 91.9kph full outside off, googly, Parag gets forward and drives to long-off </p>",
+    "ballNbr": 45,
+    "overs": 7.3,
+    "events": [
+      "TEAM_FIFTY"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 6,
+      "ballsPlayed": 10,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760395673,
+    "commText": "<p> Rashid Khan to Samson, 1 run, 93kph length ball on off, turning away, Samson gets forward to defend but it catches the outside half and goes past slip </p>",
+    "ballNbr": 46,
+    "overs": 7.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 12,
+      "ballsPlayed": 7,
+      "dotBalls": 1,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760416500,
+    "commText": "<p>Rashid Khan to Riyan Parag, no run, <b>dropped again</b>! Fuller than a length on off, Parag looks to defend forward but it turns away and takes the outside edge. Not the easiest of chance as there was a reasonable deflection. Wade fails to hang on again</p>",
+    "ballNbr": 47,
+    "overs": 7.5,
+    "events": [
+      "DROPPED"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 6,
+      "ballsPlayed": 11,
+      "dotBalls": 6,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760443920,
+    "commText": "<p> Rashid Khan to Riyan Parag, 1 run, full on middle, flicked to long-on </p>",
+    "ballNbr": 48,
+    "overs": 8,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 7,
+      "ballsPlayed": 12,
+      "dotBalls": 6,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760493754,
+    "commText": "<p> Noor Ahmad to Riyan Parag, no run, Parag looks all at sea against the two Afghan leggies. Gets forward to defend, doesn't pick the googly and is beaten </p>",
+    "ballNbr": 49,
+    "overs": 8.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 7,
+      "ballsPlayed": 13,
+      "dotBalls": 7,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760517520,
+    "commText": "<p> Noor Ahmad to Riyan Parag, <b>SIX</b>, Parag decides to go on the attack. When you're not picking it, sweep is not a bad option and he smokes it over midwicket. Goes just over the jumping fielder at the boundary </p>",
+    "ballNbr": 50,
+    "overs": 8.2,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 13,
+      "ballsPlayed": 14,
+      "dotBalls": 7,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760548442,
+    "commText": "<p> Noor Ahmad to Riyan Parag, 1 run, opens the face and steers this wide of point </p>",
+    "ballNbr": 51,
+    "overs": 8.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 14,
+      "ballsPlayed": 15,
+      "dotBalls": 7,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760575431,
+    "commText": "<p> Noor Ahmad to Samson, no run, full outside off, Samson was expecting it to turn in but it's the googly that goes away. He doesn't get anywhere close to it </p>",
+    "ballNbr": 52,
+    "overs": 8.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 12,
+      "ballsPlayed": 8,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760637946,
+    "commText": "<p> Noor Ahmad to Samson, 5 runs, bonus runs for the Royals. Sloppy work from Mohit gives them four<b> overthrows</b>. Length ball on leg stump, Samson doesn't pick the googly in defence and it goes off a thick edge to point. There's a shy at the non-striker's end, should've been cut off by Mohit who was backing up but it sneaks right through him </p>",
+    "ballNbr": 53,
+    "overs": 8.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 17,
+      "ballsPlayed": 9,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760664985,
+    "commText": "<p> Noor Ahmad to Riyan Parag, 1 run, googly on middle, Parag punches it to long-off </p>",
+    "ballNbr": 54,
+    "overs": 9,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 15,
+      "ballsPlayed": 16,
+      "dotBalls": 7,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760720315,
+    "commText": "<p> Rashid Khan to Riyan Parag, 2 runs, googly on middle and leg, Parag clips it through midwicket and gets back for two </p>",
+    "ballNbr": 55,
+    "overs": 9.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 17,
+      "ballsPlayed": 17,
+      "dotBalls": 7,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760741382,
+    "commText": "<p> Rashid Khan to Riyan Parag, no run, full legbreak on middle, Parag defends forward </p>",
+    "ballNbr": 56,
+    "overs": 9.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 17,
+      "ballsPlayed": 18,
+      "dotBalls": 8,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760763350,
+    "commText": "<p> Rashid Khan to Riyan Parag, 1 run, 93.4kph overpitched on off, Parag drives through point for a single </p>",
+    "ballNbr": 57,
+    "overs": 9.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 18,
+      "ballsPlayed": 19,
+      "dotBalls": 8,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760786343,
+    "commText": "<p> Rashid Khan to Samson, 1 run, attempted googly outside off, lands in the blockhole and Samson squeezes it through point </p>",
+    "ballNbr": 58,
+    "overs": 9.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 18,
+      "ballsPlayed": 10,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760810486,
+    "commText": "<p> Rashid Khan to Riyan Parag, <b>FOUR</b>, beautifully done by Parag! Flat length ball outside off, he waits in the crease, picks the legbreak and dabs it past slip, using the pace of the bowler </p>",
+    "ballNbr": 59,
+    "overs": 9.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 22,
+      "ballsPlayed": 20,
+      "dotBalls": 8,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760841013,
+    "commText": "<p> Rashid Khan to Riyan Parag, no run, flat length ball on off, leg-break again and he doesn't quite pick it this time. Looks to work it through the on-side and gets a leading edge wide of cover </p>",
+    "ballNbr": 60,
+    "overs": 10,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 22,
+      "ballsPlayed": 21,
+      "dotBalls": 9,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760844013,
+    "commText": "<p>Noor again. Has bowled much better than his figures suggest</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -304,116 +1988,169 @@
     }
   },
   {
-    "timestamp": 1712764306390,
-    "commText": "<p> Umesh Yadav to Samson, 2 runs, slower ball off-cutter dug in outside off, Samson reaches for it and cuts it over backward point, the field was in and they hare back for the 2nd </p>",
-    "overs": 19.4,
+    "timestamp": 1712760900259,
+    "commText": "<p> Noor Ahmad to Samson, 1 run, length ball outside off, turning in, Samson gets forward and punches it to long-off </p>",
+    "ballNbr": 61,
+    "overs": 10.1,
     "events": [],
     "batsmanStriker": {
       "id": 8271,
-      "batRuns": 67,
-      "ballsPlayed": 37,
-      "dotBalls": 7,
-      "batFours": 7,
-      "batSixes": 2
+      "batRuns": 19,
+      "ballsPlayed": 11,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 3.4,
+      "id": 15452,
+      "bowlOvers": 2.1,
       "bowlMaidens": 0,
-      "bowlRuns": 43,
-      "bowlWickets": 1,
-      "bowlWides": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712764234180,
-    "commText": "<p> Umesh Yadav to Samson, <b>SIX</b>, that is a poor delivery, the attempted yorker is a low full-toss on off, lofted over long-on, easy for Samson </p>",
-    "overs": 19.3,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 65,
-      "ballsPlayed": 36,
-      "dotBalls": 7,
-      "batFours": 7,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 3.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 41,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712764192435,
-    "commText": "<p> Umesh Yadav to Hetmyer, 1 run, full and wide outside off, Hetmyer moves and drives to sweeper cover </p>",
-    "overs": 19.2,
+    "timestamp": 1712760923383,
+    "commText": "<p> Noor Ahmad to Riyan Parag, 1 run, 94kph flat length ball on middle, googly, Parag hangs back and punches it to long-off </p>",
+    "ballNbr": 62,
+    "overs": 10.2,
     "events": [],
     "batsmanStriker": {
-      "id": 9789,
-      "batRuns": 12,
-      "ballsPlayed": 4,
-      "dotBalls": 0,
+      "id": 12305,
+      "batRuns": 23,
+      "ballsPlayed": 22,
+      "dotBalls": 9,
       "batFours": 1,
       "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 3.2,
+      "id": 15452,
+      "bowlOvers": 2.2,
       "bowlMaidens": 0,
-      "bowlRuns": 35,
-      "bowlWickets": 1,
-      "bowlWides": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712764139091,
-    "commText": "<p> Umesh Yadav to Hetmyer, <b>SIX</b>, smashed over wide long-off. Full outside off, in the slot and Hetmyer plays this shot well, gets under this and lofts </p>",
-    "overs": 19.1,
+    "timestamp": 1712760951112,
+    "commText": "<p> Noor Ahmad to Samson, 1 run, 87kph tossed up on middle, overpitches and Samson squeezes it through point </p>",
+    "ballNbr": 63,
+    "overs": 10.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 20,
+      "ballsPlayed": 12,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712760976681,
+    "commText": "<p> Noor Ahmad to Riyan Parag, <b>FOUR</b>, too full on middle, Parag goes for a big swipe across the line and drags it off the inside half through square leg. Races away to the boundary </p>",
+    "ballNbr": 64,
+    "overs": 10.4,
     "events": [
-      "SIX"
+      "FOUR"
     ],
     "batsmanStriker": {
-      "id": 9789,
-      "batRuns": 11,
-      "ballsPlayed": 3,
-      "dotBalls": 0,
-      "batFours": 1,
+      "id": 12305,
+      "batRuns": 27,
+      "ballsPlayed": 23,
+      "dotBalls": 9,
+      "batFours": 2,
       "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 3.1,
+      "id": 15452,
+      "bowlOvers": 2.4,
       "bowlMaidens": 0,
-      "bowlRuns": 34,
-      "bowlWickets": 1,
-      "bowlWides": 0,
+      "bowlRuns": 26,
+      "bowlWickets": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712764120932,
-    "commText": "<p><b>Umesh Yadav [3.0-0-28-1] is back into the attack</b></p>",
+    "timestamp": 1712761005890,
+    "commText": "<p> Noor Ahmad to Riyan Parag, no run, flat on off, turning in slightly, Parag gets cramped a touch and drags it back to the bowler </p>",
+    "ballNbr": 65,
+    "overs": 10.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 27,
+      "ballsPlayed": 24,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 26,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761029299,
+    "commText": "<p> Noor Ahmad to Riyan Parag, 2 runs, full on the pads, Parag works it nicely through the gap at midwicket and charges back for two </p>",
+    "ballNbr": 66,
+    "overs": 11,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 29,
+      "ballsPlayed": 25,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761091116,
+    "commText": "<p><b>Mohit Sharma, right-arm fast medium, comes into the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 9789,
-      "batRuns": 5,
-      "ballsPlayed": 2,
+      "id": 8271,
+      "batRuns": 20,
+      "ballsPlayed": 12,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8181,
+      "id": 15452,
       "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
@@ -423,63 +2160,664 @@
     }
   },
   {
-    "timestamp": 1712764057065,
-    "commText": "<p> Mohit Sharma to Hetmyer, 1 run, back of the hand slower ball on a good length on off, Hetmyer mistimes the pull, rolls to square leg and he retains the strike with that run </p>",
-    "overs": 19,
+    "timestamp": 1712761119969,
+    "commText": "<p> Mohit Sharma to Samson, 1 run, back of a length on middle, 131.7kph, Samson hangs back and clips it through midwicket </p>",
+    "ballNbr": 67,
+    "overs": 11.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 21,
+      "ballsPlayed": 13,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761165362,
+    "commText": "<p> Mohit Sharma to Riyan Parag, 1 run, length ball on off, Parag gets forward and punches it to mid-off </p>",
+    "ballNbr": 68,
+    "overs": 11.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 30,
+      "ballsPlayed": 26,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761212781,
+    "commText": "<p> Mohit Sharma to Samson, <b>wide</b>, slower bouncer outside off, Samson leaves it alone and it's called wide as it's too wide </p>",
+    "ballNbr": 69,
+    "overs": 11.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 21,
+      "ballsPlayed": 13,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761250694,
+    "commText": "<p> Mohit Sharma to Samson, 1 run, back of a length outside off, Samson punches nicely to sweeper cover </p>",
+    "ballNbr": 69,
+    "overs": 11.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 22,
+      "ballsPlayed": 14,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761305006,
+    "commText": "<p> Mohit Sharma to Riyan Parag, 1 run, 131.4kph full delivery on middle, Parag flicks it to long-on </p>",
+    "ballNbr": 70,
+    "overs": 11.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 31,
+      "ballsPlayed": 27,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761351958,
+    "commText": "<p> Mohit Sharma to Samson, 1 run, length ball on off, Samson gets forward and punches sweetly to long-on </p>",
+    "ballNbr": 71,
+    "overs": 11.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 23,
+      "ballsPlayed": 15,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761391533,
+    "commText": "<p> Mohit Sharma to Riyan Parag, 1 run, slower one outside off, back of a length, Parag looks to cut but chops it to the left of extra cover </p>",
+    "ballNbr": 72,
+    "overs": 12,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 32,
+      "ballsPlayed": 28,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761452949,
+    "commText": "<p> Noor Ahmad to Riyan Parag, <b>SIX</b>, absolutely nails the slog-sweep! Full ball on leg stump, tossed up by Noor and Parag gets on one knee and whacks it over midwicket. Goes a long way back into the stands </p>",
+    "ballNbr": 73,
+    "overs": 12.1,
+    "events": [
+      "SIX",
+      "PARTNERSHIP"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 38,
+      "ballsPlayed": 29,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 34,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761523382,
+    "commText": "<p> Noor Ahmad to Riyan Parag, 1 run, 98.kph length ball on middle, googly, Parag gets forward and knocks it wide of point </p>",
+    "ballNbr": 74,
+    "overs": 12.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 39,
+      "ballsPlayed": 30,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 35,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761556443,
+    "commText": "<p> Noor Ahmad to Samson, 1 run, 94.9kph googly outside off, Samson looks to flat-bat it down the ground but gets it right off the toe-end. It balloons in the air and falls in front of long-off </p>",
+    "ballNbr": 75,
+    "overs": 12.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 24,
+      "ballsPlayed": 16,
+      "dotBalls": 2,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 36,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761592612,
+    "commText": "<p> Noor Ahmad to Riyan Parag, <b>SIX</b>, another cracking sweep from Parag who's on a roll! Tossed up outside leg, Parag gets low and whacks it over square leg this time. These aren't small sixes. He's hitting them way back into the crowd </p>",
+    "ballNbr": 76,
+    "overs": 12.4,
+    "events": [
+      "TEAM_HUNDRED",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 45,
+      "ballsPlayed": 31,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 42,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761636305,
+    "commText": "<p> Noor Ahmad to Riyan Parag, 1 run, flat length ball just outside off, Parag flat-bats it to long-off </p>",
+    "ballNbr": 77,
+    "overs": 12.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 46,
+      "ballsPlayed": 32,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 15452,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 43,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761664030,
+    "commText": "<p> Noor Ahmad to Samson, no run, length ball on leg stump, googly, Samson defends forward </p>",
+    "ballNbr": 78,
+    "overs": 13,
     "events": [
       "OVER_BREAK",
       "HIGHSCORING_OVER"
     ],
     "batsmanStriker": {
-      "id": 9789,
-      "batRuns": 5,
-      "ballsPlayed": 2,
-      "dotBalls": 0,
-      "batFours": 1,
+      "id": 8271,
+      "batRuns": 24,
+      "ballsPlayed": 17,
+      "dotBalls": 3,
+      "batFours": 2,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8181,
+      "id": 15452,
       "bowlOvers": 4,
       "bowlMaidens": 0,
-      "bowlRuns": 51,
-      "bowlWickets": 1,
-      "bowlWides": 4,
+      "bowlRuns": 43,
+      "bowlWickets": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712764009220,
-    "commText": "<p> Mohit Sharma to Hetmyer, <b>FOUR</b>, the back of the hand slower ball full outside off, in the slot and Hetmyer lofts it wide of long-on, one bounce over the ropes </p>",
-    "overs": 18.5,
+    "timestamp": 1712761723979,
+    "commText": "<p> Mohit Sharma to Riyan Parag, 1 run, good length on off, whipped wristily to deep mid-wicket </p>",
+    "ballNbr": 79,
+    "overs": 13.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 47,
+      "ballsPlayed": 33,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 3
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761765017,
+    "commText": "<p> Mohit Sharma to Samson, no run, back of the hand slower ball outside off, Samson premeditates the scoop, gets across and misses the shot </p>",
+    "ballNbr": 80,
+    "overs": 13.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 24,
+      "ballsPlayed": 18,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761813340,
+    "commText": "<p> Mohit Sharma to Samson, <b>FOUR</b>, he has played this shot so well this season. Makes room and gets under the half-volley to carve it over cover, no chance for sweeper cover </p>",
+    "ballNbr": 81,
+    "overs": 13.3,
     "events": [
       "FOUR"
     ],
     "batsmanStriker": {
-      "id": 9789,
-      "batRuns": 4,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 1,
+      "id": 8271,
+      "batRuns": 28,
+      "ballsPlayed": 19,
+      "dotBalls": 4,
+      "batFours": 3,
       "batSixes": 0
     },
     "bowlerStriker": {
       "id": 8181,
-      "bowlOvers": 3.5,
+      "bowlOvers": 1.3,
       "bowlMaidens": 0,
-      "bowlRuns": 50,
-      "bowlWickets": 1,
-      "bowlWides": 4,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712763938905,
-    "commText": "<p><b>Shimron Hetmyer, left handed bat, comes to the crease</b></p>",
+    "timestamp": 1712761861600,
+    "commText": "<p> Mohit Sharma to Samson, 1 run, tight good length delivery on off, Samson makes room to punch, mistimes it in front of cover </p>",
+    "ballNbr": 82,
+    "overs": 13.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 29,
+      "ballsPlayed": 20,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761908365,
+    "commText": "<p> Mohit Sharma to Riyan Parag, <b>SIX</b>, Riyan Parag's fine run continues. Gets under the back of the hand slower ball outside off, it's on a length, slugged away flat over wide long-on. Gets to <b>50</b> </p>",
+    "ballNbr": 83,
+    "overs": 13.5,
+    "events": [
+      "FIFTY",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 53,
+      "ballsPlayed": 34,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712761959997,
+    "commText": "<p> Mohit Sharma to Riyan Parag, 2 runs, short of length and angling into off and middle, pulled wide of deep mid-wicket for two </p>",
+    "ballNbr": 84,
+    "overs": 14,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 55,
+      "ballsPlayed": 35,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762006511,
+    "commText": "<p><b>Spencer Johnson [2.0-0-13-0] is back into the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 9789,
+      "id": 8271,
+      "batRuns": 29,
+      "ballsPlayed": 20,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762068131,
+    "commText": "<p> Spencer Johnson to Samson, 1 run, back of a length on off, Samson pulls to deep backward square leg, not well-timed </p>",
+    "ballNbr": 85,
+    "overs": 14.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 30,
+      "ballsPlayed": 21,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762111219,
+    "commText": "<p> Spencer Johnson to Riyan Parag, 1 run, fullish on off, whipped to deep mid-wicket </p>",
+    "ballNbr": 86,
+    "overs": 14.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 56,
+      "ballsPlayed": 36,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762151541,
+    "commText": "<p> Spencer Johnson to Samson, <b>FOUR</b>, thick outside-edge and four to third man. A short of length delivery outside off, Samson flashes the cut and no slip </p>",
+    "ballNbr": 87,
+    "overs": 14.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 34,
+      "ballsPlayed": 22,
+      "dotBalls": 4,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762196668,
+    "commText": "<p> Spencer Johnson to Samson, no run, full on off, drilled straight to the fielder at mid-on and Riyan Parag is sent back </p>",
+    "ballNbr": 88,
+    "overs": 14.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 34,
+      "ballsPlayed": 23,
+      "dotBalls": 5,
+      "batFours": 4,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762246936,
+    "commText": "<p> Spencer Johnson to Samson, <b>FOUR</b>, brilliant shot. Full and angling away from Samson outside off, he stands tall and crunches the drive wide of extra-cover, the fielders stood there and admired that hit </p>",
+    "ballNbr": 89,
+    "overs": 14.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 38,
+      "ballsPlayed": 24,
+      "dotBalls": 5,
+      "batFours": 5,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762294271,
+    "commText": "<p> Spencer Johnson to Samson, <b>SIX</b>, huge over this. A short of length delivery outside off, Samson gets under it and pulls over mid-on, flies all the way too </p>",
+    "ballNbr": 90,
+    "overs": 15,
+    "events": [
+      "OVER_BREAK",
+      "SIX",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 44,
+      "ballsPlayed": 25,
+      "dotBalls": 5,
+      "batFours": 5,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 29,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762297271,
+    "commText": "<p><b>Timeout!</b> This partnership has given RR all the momentum they need. The drops by Wade of Riyan Parag is already proving costly. RR set for 190 and more from here.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
       "batRuns": 0,
       "ballsPlayed": 0,
       "dotBalls": 0,
@@ -487,7 +2825,7 @@
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 13143,
+      "id": 0,
       "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
@@ -497,39 +2835,39 @@
     }
   },
   {
-    "timestamp": 1712763850884,
-    "commText": "<p>Mohit Sharma to Riyan Parag, <b>out</b> Caught by Shankar!! Good catch by long-off. The back of the hand slower ball full outside off, lofted flat and Vijay Shankar takes it, but his feet are near the cushions, he is stumbling, so lobs it up, goes outside, flicks the cushions but the ball is in the air when he does that, then comes back in to catch it. End of another fine innings. <b>Riyan Parag c Shankar b Mohit Sharma 76(48) [4s-3 6s-5]</b></p>",
-    "overs": 18.4,
-    "events": [
-      "WICKET"
-    ],
+    "timestamp": 1712762297282,
+    "commText": "<p><b>Highlights (overs 7-15)</b> \\n-- Parag dropped twice (On 0 and 6) \\n-- Noor bowls four overs straight and goes wicketless \\n-- Parag hits Noor for 2 sixes off his final over \\n-- 3rd fifty in his last 4 innings for Riyan Parag \\n-- Mohit Sharma concedes 14 off his second over \\n-- 16 runs off Spencer Johnson's third over</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
     "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 76,
-      "ballsPlayed": 48,
-      "dotBalls": 12,
-      "batFours": 3,
-      "batSixes": 5
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 3.4,
+      "id": 0,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
-      "bowlRuns": 46,
-      "bowlWickets": 1,
-      "bowlWides": 4,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712763846655,
-    "commText": "<p> Mohit Sharma to Riyan Parag, <b>THATS OUT!!</b> Caught!! </p>",
+    "timestamp": 1712762476987,
+    "commText": "<p><b>Rashid Khan [3.0-0-13-1] is back into the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
       "id": 12305,
-      "batRuns": 76,
-      "ballsPlayed": 47,
+      "batRuns": 56,
+      "ballsPlayed": 36,
       "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
@@ -545,269 +2883,379 @@
     }
   },
   {
-    "timestamp": 1712763795118,
-    "commText": "<p> Mohit Sharma to Riyan Parag, 2 runs, full seam-up delivery outside off, carved wide of sweeper cover and a good stop near the fence, two more </p>",
-    "overs": 18.3,
+    "timestamp": 1712762499467,
+    "commText": "<p> Rashid Khan to Riyan Parag, 1 run, good length on the middle and leg line, flicked to deep square leg </p>",
+    "ballNbr": 91,
+    "overs": 15.1,
     "events": [],
     "batsmanStriker": {
       "id": 12305,
-      "batRuns": 76,
-      "ballsPlayed": 47,
-      "dotBalls": 11,
-      "batFours": 3,
-      "batSixes": 5
+      "batRuns": 57,
+      "ballsPlayed": 37,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 4
     },
     "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 3.3,
+      "id": 10738,
+      "bowlOvers": 3.1,
       "bowlMaidens": 0,
-      "bowlRuns": 46,
-      "bowlWickets": 0,
-      "bowlWides": 4,
+      "bowlRuns": 14,
+      "bowlWickets": 1,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712763741657,
-    "commText": "<p> Mohit Sharma to Riyan Parag, <b>SIX</b>, predictable slower ball off-cutter dug in outside off, Riyan Parag waits for it and thumps the pull over deep mid-wicket, was not an easy shot with the ball bouncing over his shoulder but such is the form he is in, that he put it away easily </p>",
-    "overs": 18.2,
+    "timestamp": 1712762529154,
+    "commText": "<p> Rashid Khan to Samson, 1 run, good length googly on off and middle, tapped to long-on </p>",
+    "ballNbr": 92,
+    "overs": 15.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 45,
+      "ballsPlayed": 26,
+      "dotBalls": 5,
+      "batFours": 5,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762550159,
+    "commText": "<p> Rashid Khan to Riyan Parag, 1 run, short of length outside off, nudged to the right of Rashid Khan for an easy single </p>",
+    "ballNbr": 93,
+    "overs": 15.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 58,
+      "ballsPlayed": 38,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762573230,
+    "commText": "<p> Rashid Khan to Samson, 1 run, Rashid Khan is not overpitching at all, good length on off, punched to long-off </p>",
+    "ballNbr": 94,
+    "overs": 15.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 46,
+      "ballsPlayed": 27,
+      "dotBalls": 5,
+      "batFours": 5,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762599963,
+    "commText": "<p> Rashid Khan to Riyan Parag, 1 run, slower googly outside off, tucked to deep mid-wicket </p>",
+    "ballNbr": 95,
+    "overs": 15.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 59,
+      "ballsPlayed": 39,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762624402,
+    "commText": "<p> Rashid Khan to Samson, no run, another good length googly to end, on the middle and leg line, Samson gets an inside-edge on the tuck </p>",
+    "ballNbr": 96,
+    "overs": 16,
     "events": [
-      "SIX"
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 46,
+      "ballsPlayed": 28,
+      "dotBalls": 6,
+      "batFours": 5,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762680869,
+    "commText": "<p><b>Mohit Sharma [2.0-0-21-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 59,
+      "ballsPlayed": 39,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 10738,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762698166,
+    "commText": "<p> Mohit Sharma to Riyan Parag, 2 runs, slower ball off-cutter outside off, pulled wide of deep mid-wicket for two </p>",
+    "ballNbr": 97,
+    "overs": 16.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 61,
+      "ballsPlayed": 40,
+      "dotBalls": 10,
+      "batFours": 2,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762745330,
+    "commText": "<p> Mohit Sharma to Riyan Parag, <b>FOUR</b>, sloppy from Umesh at deep mid-wicket, full on off, whipped to Umesh on the bounce, it spins away and deceives him, 1 turns into 4 </p>",
+    "ballNbr": 98,
+    "overs": 16.2,
+    "events": [
+      "FOUR",
+      "PARTNERSHIP"
     ],
     "batsmanStriker": {
       "id": 12305,
-      "batRuns": 74,
-      "ballsPlayed": 46,
-      "dotBalls": 11,
-      "batFours": 3,
-      "batSixes": 5
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 3.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 44,
-      "bowlWickets": 0,
-      "bowlWides": 4,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712763709094,
-    "commText": "<p> Mohit Sharma to Riyan Parag, <b>wide</b>, slower ball off-cutter outside off, way too outside off and left alone to take the wide </p>",
-    "overs": 18.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 68,
-      "ballsPlayed": 45,
-      "dotBalls": 11,
+      "batRuns": 65,
+      "ballsPlayed": 41,
+      "dotBalls": 10,
       "batFours": 3,
       "batSixes": 4
     },
     "bowlerStriker": {
       "id": 8181,
-      "bowlOvers": 3.1,
+      "bowlOvers": 2.2,
       "bowlMaidens": 0,
-      "bowlRuns": 38,
+      "bowlRuns": 27,
       "bowlWickets": 0,
-      "bowlWides": 4,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712763663401,
-    "commText": "<p> Mohit Sharma to Samson, 1 run, full outside off, lofted with no timing to long-on </p>",
-    "overs": 18.1,
+    "timestamp": 1712762804053,
+    "commText": "<p> Mohit Sharma to Riyan Parag, 1 run, the luck continues with Riyan Parag. A slower ball full outside off, he loses all shape as he lofts, thick outside-edge eludes the backward point fielder, Sudharsan the man who went and lunged out with the dive, did not get fingertips too </p>",
+    "ballNbr": 99,
+    "overs": 16.3,
     "events": [],
     "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 66,
+      "ballsPlayed": 42,
+      "dotBalls": 10,
+      "batFours": 3,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762945714,
+    "commText": "<p> Mohit Sharma to Samson, <b>wide</b>, slower ball off-cutter dug in outside off, Samson looks to slash and misses, he <b>reviews it now</b> for a wide, Samson was on his tiptoes, over his head and the review works </p>",
+    "ballNbr": 100,
+    "overs": 16.4,
+    "events": [
+      "UDRS"
+    ],
+    "batsmanStriker": {
       "id": 8271,
-      "batRuns": 59,
-      "ballsPlayed": 35,
-      "dotBalls": 7,
-      "batFours": 7,
+      "batRuns": 46,
+      "ballsPlayed": 28,
+      "dotBalls": 6,
+      "batFours": 5,
       "batSixes": 1
     },
     "bowlerStriker": {
       "id": 8181,
-      "bowlOvers": 3.1,
+      "bowlOvers": 2.3,
       "bowlMaidens": 0,
-      "bowlRuns": 37,
+      "bowlRuns": 29,
+      "bowlWickets": 0,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712762971875,
+    "commText": "<p> Mohit Sharma to Samson, 2 runs, slower ball off-cutter on the stumps, pulled wide of deep backward square leg and no timing, they take on Umesh to come back for the second </p>",
+    "ballNbr": 100,
+    "overs": 16.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 48,
+      "ballsPlayed": 29,
+      "dotBalls": 6,
+      "batFours": 5,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 0,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763019902,
+    "commText": "<p> Mohit Sharma to Samson, no run, low full-toss outside off, Samson misses the drive, goes under the bat, has a wry smile on his face </p>",
+    "ballNbr": 101,
+    "overs": 16.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 48,
+      "ballsPlayed": 30,
+      "dotBalls": 7,
+      "batFours": 5,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 0,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763154021,
+    "commText": "<p><b>DRS for a wide</b>. Gill goes for it. It's a wide. The third umpire got confused there. Gave it as a fair delivery first and then again called it a wide. Gill is not happy. Has a chat with the umpire. And an animated one at that. The wide call stays.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763241551,
+    "commText": "<p>Mohit Sharma to Samson, <b>wide</b>, the slower ball full and wide outside off, outside the tramline as well, Samson moved a little outside off in trying to play, misses, the third ump initially said since Samson moved, the line moves as well and gave it as a fair delivery, but not sure what happened to him after that, he changes it after having another look at the replay and gives it as a wide. Gill is a frustrated man, has a long animated chat with umpire Vinod Seshan but all that is in vain</p>",
+    "ballNbr": 102,
+    "overs": 17,
+    "events": [
+      "TEAM_HUNDRED",
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 48,
+      "ballsPlayed": 30,
+      "dotBalls": 7,
+      "batFours": 5,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
       "bowlWickets": 0,
       "bowlWides": 3,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712763584263,
-    "commText": "<p> Spencer Johnson to Riyan Parag, no run, fine yorker length delivery outside off, Riyan Parag tries to drive square and misses </p>",
-    "overs": 18,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 68,
-      "ballsPlayed": 45,
-      "dotBalls": 11,
-      "batFours": 3,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 4,
-      "bowlMaidens": 0,
-      "bowlRuns": 37,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712763551955,
-    "commText": "<p> Spencer Johnson to Samson, 1 run, just <b>short of the forward-diving Noor at short third man.</b> A yorker length delivery outside off, Samson tries the reverse-scoop and doe snot get all of it, gets lucky as it loops over Wade and falls short of Noor </p>",
-    "overs": 17.5,
-    "events": [
-      "DROPPED"
-    ],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 58,
-      "ballsPlayed": 34,
-      "dotBalls": 7,
-      "batFours": 7,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 3.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 37,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712763496173,
-    "commText": "<p> Spencer Johnson to Samson, <b>FOUR</b>, Samson executes this beautifully. A full delivery outside off, he shuffles across and scoops over short fine-leg, superb stuff </p>",
-    "overs": 17.4,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 57,
-      "ballsPlayed": 33,
-      "dotBalls": 7,
-      "batFours": 7,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 3.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 36,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712763458512,
-    "commText": "<p> Spencer Johnson to Riyan Parag, 1 run, back of a length around off, pulled to long-on </p>",
-    "overs": 17.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 68,
-      "ballsPlayed": 44,
-      "dotBalls": 10,
-      "batFours": 3,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 3.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 32,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712763420336,
-    "commText": "<p> Spencer Johnson to Samson, 1 run, yorker outside off, dug out to cover, good bowling </p>",
-    "overs": 17.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 53,
-      "ballsPlayed": 32,
-      "dotBalls": 7,
-      "batFours": 6,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 3.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 31,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712763347425,
-    "commText": "<p> Spencer Johnson to Riyan Parag, 1 run, yorker length outside off, Riyan Parag shuffles across and scoops to short fine-leg </p>",
-    "overs": 17.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 67,
-      "ballsPlayed": 43,
-      "dotBalls": 10,
-      "batFours": 3,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 3.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 30,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712763337620,
-    "commText": "<p><b>Spencer Johnson [3.0-0-29-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 66,
-      "ballsPlayed": 42,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
     "timestamp": 1712763286016,
     "commText": "<p>Mohit Sharma to Samson, <b>FOUR</b>, <b>what happened there to Tewatia at long-on?</b> He looks to have tripped himself on his own feet there, moves to his left and tries to get under this, but is going to ground already, the ball flies to his right and out of his grasp, that trip allows the chance to go away, otherwise he was in a good position to catch that. A low full-toss on off, Samson lofts and gets away, gets to <b>50 as well</b></p>",
+    "ballNbr": 102,
     "overs": 17,
     "events": [
       "OVER_BREAK",
@@ -835,34 +3283,532 @@
     }
   },
   {
-    "timestamp": 1712763241551,
-    "commText": "<p>Mohit Sharma to Samson, <b>wide</b>, the slower ball full and wide outside off, outside the tramline as well, Samson moved a little outside off in trying to play, misses, the third ump initially said since Samson moved, the line moves as well and gave it as a fair delivery, but not sure what happened to him after that, he changes it after having another look at the replay and gives it as a wide. Gill is a frustrated man, has a long animated chat with umpire Vinod Seshan but all that is in vain</p>",
-    "overs": 17,
+    "timestamp": 1712763337620,
+    "commText": "<p><b>Spencer Johnson [3.0-0-29-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 66,
+      "ballsPlayed": 42,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763347425,
+    "commText": "<p> Spencer Johnson to Riyan Parag, 1 run, yorker length outside off, Riyan Parag shuffles across and scoops to short fine-leg </p>",
+    "ballNbr": 103,
+    "overs": 17.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 67,
+      "ballsPlayed": 43,
+      "dotBalls": 10,
+      "batFours": 3,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 30,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763420336,
+    "commText": "<p> Spencer Johnson to Samson, 1 run, yorker outside off, dug out to cover, good bowling </p>",
+    "ballNbr": 104,
+    "overs": 17.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 53,
+      "ballsPlayed": 32,
+      "dotBalls": 7,
+      "batFours": 6,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763458512,
+    "commText": "<p> Spencer Johnson to Riyan Parag, 1 run, back of a length around off, pulled to long-on </p>",
+    "ballNbr": 105,
+    "overs": 17.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 68,
+      "ballsPlayed": 44,
+      "dotBalls": 10,
+      "batFours": 3,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763496173,
+    "commText": "<p> Spencer Johnson to Samson, <b>FOUR</b>, Samson executes this beautifully. A full delivery outside off, he shuffles across and scoops over short fine-leg, superb stuff </p>",
+    "ballNbr": 106,
+    "overs": 17.4,
     "events": [
-      "TEAM_HUNDRED",
-      "UDRS"
+      "FOUR"
     ],
     "batsmanStriker": {
       "id": 8271,
-      "batRuns": 48,
-      "ballsPlayed": 30,
+      "batRuns": 57,
+      "ballsPlayed": 33,
       "dotBalls": 7,
-      "batFours": 5,
+      "batFours": 7,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 36,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763551955,
+    "commText": "<p> Spencer Johnson to Samson, 1 run, just <b>short of the forward-diving Noor at short third man.</b> A yorker length delivery outside off, Samson tries the reverse-scoop and doe snot get all of it, gets lucky as it loops over Wade and falls short of Noor </p>",
+    "ballNbr": 107,
+    "overs": 17.5,
+    "events": [
+      "DROPPED"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 58,
+      "ballsPlayed": 34,
+      "dotBalls": 7,
+      "batFours": 7,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 37,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763584263,
+    "commText": "<p> Spencer Johnson to Riyan Parag, no run, fine yorker length delivery outside off, Riyan Parag tries to drive square and misses </p>",
+    "ballNbr": 108,
+    "overs": 18,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 68,
+      "ballsPlayed": 45,
+      "dotBalls": 11,
+      "batFours": 3,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 37,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763663401,
+    "commText": "<p> Mohit Sharma to Samson, 1 run, full outside off, lofted with no timing to long-on </p>",
+    "ballNbr": 109,
+    "overs": 18.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 59,
+      "ballsPlayed": 35,
+      "dotBalls": 7,
+      "batFours": 7,
       "batSixes": 1
     },
     "bowlerStriker": {
       "id": 8181,
-      "bowlOvers": 2.5,
+      "bowlOvers": 3.1,
       "bowlMaidens": 0,
-      "bowlRuns": 32,
+      "bowlRuns": 37,
       "bowlWickets": 0,
       "bowlWides": 3,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712763154021,
-    "commText": "<p><b>DRS for a wide</b>. Gill goes for it. It's a wide. The third umpire got confused there. Gave it as a fair delivery first and then again called it a wide. Gill is not happy. Has a chat with the umpire. And an animated one at that. The wide call stays.</p>",
+    "timestamp": 1712763709094,
+    "commText": "<p> Mohit Sharma to Riyan Parag, <b>wide</b>, slower ball off-cutter outside off, way too outside off and left alone to take the wide </p>",
+    "ballNbr": 110,
+    "overs": 18.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 68,
+      "ballsPlayed": 45,
+      "dotBalls": 11,
+      "batFours": 3,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 38,
+      "bowlWickets": 0,
+      "bowlWides": 4,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763741657,
+    "commText": "<p> Mohit Sharma to Riyan Parag, <b>SIX</b>, predictable slower ball off-cutter dug in outside off, Riyan Parag waits for it and thumps the pull over deep mid-wicket, was not an easy shot with the ball bouncing over his shoulder but such is the form he is in, that he put it away easily </p>",
+    "ballNbr": 110,
+    "overs": 18.2,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 74,
+      "ballsPlayed": 46,
+      "dotBalls": 11,
+      "batFours": 3,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 44,
+      "bowlWickets": 0,
+      "bowlWides": 4,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763795118,
+    "commText": "<p> Mohit Sharma to Riyan Parag, 2 runs, full seam-up delivery outside off, carved wide of sweeper cover and a good stop near the fence, two more </p>",
+    "ballNbr": 111,
+    "overs": 18.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 76,
+      "ballsPlayed": 47,
+      "dotBalls": 11,
+      "batFours": 3,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 46,
+      "bowlWickets": 0,
+      "bowlWides": 4,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763846655,
+    "commText": "<p> Mohit Sharma to Riyan Parag, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 76,
+      "ballsPlayed": 47,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763850884,
+    "commText": "<p>Mohit Sharma to Riyan Parag, <b>out</b> Caught by Shankar!! Good catch by long-off. The back of the hand slower ball full outside off, lofted flat and Vijay Shankar takes it, but his feet are near the cushions, he is stumbling, so lobs it up, goes outside, flicks the cushions but the ball is in the air when he does that, then comes back in to catch it. End of another fine innings. <b>Riyan Parag c Shankar b Mohit Sharma 76(48) [4s-3 6s-5]</b></p>",
+    "ballNbr": 112,
+    "overs": 18.4,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 12305,
+      "batRuns": 76,
+      "ballsPlayed": 48,
+      "dotBalls": 12,
+      "batFours": 3,
+      "batSixes": 5
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 46,
+      "bowlWickets": 1,
+      "bowlWides": 4,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712763938905,
+    "commText": "<p><b>Shimron Hetmyer, left handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13143,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712764009220,
+    "commText": "<p> Mohit Sharma to Hetmyer, <b>FOUR</b>, the back of the hand slower ball full outside off, in the slot and Hetmyer lofts it wide of long-on, one bounce over the ropes </p>",
+    "ballNbr": 113,
+    "overs": 18.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 4,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 50,
+      "bowlWickets": 1,
+      "bowlWides": 4,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712764057065,
+    "commText": "<p> Mohit Sharma to Hetmyer, 1 run, back of the hand slower ball on a good length on off, Hetmyer mistimes the pull, rolls to square leg and he retains the strike with that run </p>",
+    "ballNbr": 114,
+    "overs": 19,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 5,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 51,
+      "bowlWickets": 1,
+      "bowlWides": 4,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712764120932,
+    "commText": "<p><b>Umesh Yadav [3.0-0-28-1] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 5,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 8181,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712764139091,
+    "commText": "<p> Umesh Yadav to Hetmyer, <b>SIX</b>, smashed over wide long-off. Full outside off, in the slot and Hetmyer plays this shot well, gets under this and lofts </p>",
+    "ballNbr": 115,
+    "overs": 19.1,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 11,
+      "ballsPlayed": 3,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 34,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712764192435,
+    "commText": "<p> Umesh Yadav to Hetmyer, 1 run, full and wide outside off, Hetmyer moves and drives to sweeper cover </p>",
+    "ballNbr": 116,
+    "overs": 19.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9789,
+      "batRuns": 12,
+      "ballsPlayed": 4,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 35,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712764234180,
+    "commText": "<p> Umesh Yadav to Samson, <b>SIX</b>, that is a poor delivery, the attempted yorker is a low full-toss on off, lofted over long-on, easy for Samson </p>",
+    "ballNbr": 117,
+    "overs": 19.3,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 65,
+      "ballsPlayed": 36,
+      "dotBalls": 7,
+      "batFours": 7,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 41,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712764306390,
+    "commText": "<p> Umesh Yadav to Samson, 2 runs, slower ball off-cutter dug in outside off, Samson reaches for it and cuts it over backward point, the field was in and they hare back for the 2nd </p>",
+    "ballNbr": 118,
+    "overs": 19.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 67,
+      "ballsPlayed": 37,
+      "dotBalls": 7,
+      "batFours": 7,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 43,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712764309390,
+    "commText": "<p><b>Gill reviews for a wide call.</b> It is a wide.</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -884,1787 +3830,110 @@
     }
   },
   {
-    "timestamp": 1712763019902,
-    "commText": "<p> Mohit Sharma to Samson, no run, low full-toss outside off, Samson misses the drive, goes under the bat, has a wry smile on his face </p>",
-    "overs": 16.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 48,
-      "ballsPlayed": 30,
-      "dotBalls": 7,
-      "batFours": 5,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 31,
-      "bowlWickets": 0,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762971875,
-    "commText": "<p> Mohit Sharma to Samson, 2 runs, slower ball off-cutter on the stumps, pulled wide of deep backward square leg and no timing, they take on Umesh to come back for the second </p>",
-    "overs": 16.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 48,
-      "ballsPlayed": 29,
-      "dotBalls": 6,
-      "batFours": 5,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 31,
-      "bowlWickets": 0,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762945714,
-    "commText": "<p> Mohit Sharma to Samson, <b>wide</b>, slower ball off-cutter dug in outside off, Samson looks to slash and misses, he <b>reviews it now</b> for a wide, Samson was on his tiptoes, over his head and the review works </p>",
-    "overs": 16.4,
+    "timestamp": 1712764413744,
+    "commText": "<p> Umesh Yadav to Samson, <b>wide</b>, slower ball dug in outside off, too short and Samson leaps to cut, misses, GT lose the review as it is over the head </p>",
+    "ballNbr": 119,
+    "overs": 19.5,
     "events": [
       "UDRS"
     ],
     "batsmanStriker": {
       "id": 8271,
-      "batRuns": 46,
-      "ballsPlayed": 28,
-      "dotBalls": 6,
-      "batFours": 5,
-      "batSixes": 1
+      "batRuns": 67,
+      "ballsPlayed": 37,
+      "dotBalls": 7,
+      "batFours": 7,
+      "batSixes": 2
     },
     "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 2.3,
+      "id": 1858,
+      "bowlOvers": 3.4,
       "bowlMaidens": 0,
-      "bowlRuns": 29,
-      "bowlWickets": 0,
+      "bowlRuns": 44,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712764437386,
+    "commText": "<p> Umesh Yadav to Samson, <b>wide</b>, way outside off, full and outside the tramline, left alone and the wide taken </p>",
+    "ballNbr": 119,
+    "overs": 19.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8271,
+      "batRuns": 67,
+      "ballsPlayed": 37,
+      "dotBalls": 7,
+      "batFours": 7,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 1858,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 45,
+      "bowlWickets": 1,
       "bowlWides": 2,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712762804053,
-    "commText": "<p> Mohit Sharma to Riyan Parag, 1 run, the luck continues with Riyan Parag. A slower ball full outside off, he loses all shape as he lofts, thick outside-edge eludes the backward point fielder, Sudharsan the man who went and lunged out with the dive, did not get fingertips too </p>",
-    "overs": 16.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 66,
-      "ballsPlayed": 42,
-      "dotBalls": 10,
-      "batFours": 3,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762745330,
-    "commText": "<p> Mohit Sharma to Riyan Parag, <b>FOUR</b>, sloppy from Umesh at deep mid-wicket, full on off, whipped to Umesh on the bounce, it spins away and deceives him, 1 turns into 4 </p>",
-    "overs": 16.2,
-    "events": [
-      "FOUR",
-      "PARTNERSHIP"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 65,
-      "ballsPlayed": 41,
-      "dotBalls": 10,
-      "batFours": 3,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 27,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762698166,
-    "commText": "<p> Mohit Sharma to Riyan Parag, 2 runs, slower ball off-cutter outside off, pulled wide of deep mid-wicket for two </p>",
-    "overs": 16.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 61,
-      "ballsPlayed": 40,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762680869,
-    "commText": "<p><b>Mohit Sharma [2.0-0-21-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 59,
-      "ballsPlayed": 39,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762624402,
-    "commText": "<p> Rashid Khan to Samson, no run, another good length googly to end, on the middle and leg line, Samson gets an inside-edge on the tuck </p>",
-    "overs": 16,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 46,
-      "ballsPlayed": 28,
-      "dotBalls": 6,
-      "batFours": 5,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 4,
-      "bowlMaidens": 0,
-      "bowlRuns": 18,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762599963,
-    "commText": "<p> Rashid Khan to Riyan Parag, 1 run, slower googly outside off, tucked to deep mid-wicket </p>",
-    "overs": 15.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 59,
-      "ballsPlayed": 39,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 3.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 18,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762573230,
-    "commText": "<p> Rashid Khan to Samson, 1 run, Rashid Khan is not overpitching at all, good length on off, punched to long-off </p>",
-    "overs": 15.4,
+    "timestamp": 1712764473376,
+    "commText": "<p> Umesh Yadav to Samson, 1 run, slower ball leg-cutter on a back of a length outside off, Samson pulls to deep mid-wicket, has a wry smile on his face, did not get all of it </p>",
+    "ballNbr": 119,
+    "overs": 19.5,
     "events": [],
     "batsmanStriker": {
       "id": 8271,
-      "batRuns": 46,
-      "ballsPlayed": 27,
-      "dotBalls": 5,
-      "batFours": 5,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 3.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762550159,
-    "commText": "<p> Rashid Khan to Riyan Parag, 1 run, short of length outside off, nudged to the right of Rashid Khan for an easy single </p>",
-    "overs": 15.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 58,
+      "batRuns": 68,
       "ballsPlayed": 38,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 4
+      "dotBalls": 7,
+      "batFours": 7,
+      "batSixes": 2
     },
     "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 3.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762529154,
-    "commText": "<p> Rashid Khan to Samson, 1 run, good length googly on off and middle, tapped to long-on </p>",
-    "overs": 15.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 45,
-      "ballsPlayed": 26,
-      "dotBalls": 5,
-      "batFours": 5,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 3.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762499467,
-    "commText": "<p> Rashid Khan to Riyan Parag, 1 run, good length on the middle and leg line, flicked to deep square leg </p>",
-    "overs": 15.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 57,
-      "ballsPlayed": 37,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 3.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 14,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762476987,
-    "commText": "<p><b>Rashid Khan [3.0-0-13-1] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 56,
-      "ballsPlayed": 36,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762297282,
-    "commText": "<p><b>Highlights (overs 7-15)</b> \\n-- Parag dropped twice (On 0 and 6) \\n-- Noor bowls four overs straight and goes wicketless \\n-- Parag hits Noor for 2 sixes off his final over \\n-- 3rd fifty in his last 4 innings for Riyan Parag \\n-- Mohit Sharma concedes 14 off his second over \\n-- 16 runs off Spencer Johnson's third over</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762297271,
-    "commText": "<p><b>Timeout!</b> This partnership has given RR all the momentum they need. The drops by Wade of Riyan Parag is already proving costly. RR set for 190 and more from here.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762294271,
-    "commText": "<p> Spencer Johnson to Samson, <b>SIX</b>, huge over this. A short of length delivery outside off, Samson gets under it and pulls over mid-on, flies all the way too </p>",
-    "overs": 15,
-    "events": [
-      "OVER_BREAK",
-      "SIX",
-      "HIGHSCORING_OVER"
-    ],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 44,
-      "ballsPlayed": 25,
-      "dotBalls": 5,
-      "batFours": 5,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 29,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762246936,
-    "commText": "<p> Spencer Johnson to Samson, <b>FOUR</b>, brilliant shot. Full and angling away from Samson outside off, he stands tall and crunches the drive wide of extra-cover, the fielders stood there and admired that hit </p>",
-    "overs": 14.5,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 38,
-      "ballsPlayed": 24,
-      "dotBalls": 5,
-      "batFours": 5,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762196668,
-    "commText": "<p> Spencer Johnson to Samson, no run, full on off, drilled straight to the fielder at mid-on and Riyan Parag is sent back </p>",
-    "overs": 14.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 34,
-      "ballsPlayed": 23,
-      "dotBalls": 5,
-      "batFours": 4,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762151541,
-    "commText": "<p> Spencer Johnson to Samson, <b>FOUR</b>, thick outside-edge and four to third man. A short of length delivery outside off, Samson flashes the cut and no slip </p>",
-    "overs": 14.3,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 34,
-      "ballsPlayed": 22,
-      "dotBalls": 4,
-      "batFours": 4,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762111219,
-    "commText": "<p> Spencer Johnson to Riyan Parag, 1 run, fullish on off, whipped to deep mid-wicket </p>",
-    "overs": 14.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 56,
-      "ballsPlayed": 36,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762068131,
-    "commText": "<p> Spencer Johnson to Samson, 1 run, back of a length on off, Samson pulls to deep backward square leg, not well-timed </p>",
-    "overs": 14.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 30,
-      "ballsPlayed": 21,
-      "dotBalls": 4,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 14,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712762006511,
-    "commText": "<p><b>Spencer Johnson [2.0-0-13-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 29,
-      "ballsPlayed": 20,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761959997,
-    "commText": "<p> Mohit Sharma to Riyan Parag, 2 runs, short of length and angling into off and middle, pulled wide of deep mid-wicket for two </p>",
-    "overs": 14,
-    "events": [
-      "OVER_BREAK",
-      "HIGHSCORING_OVER"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 55,
-      "ballsPlayed": 35,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761908365,
-    "commText": "<p> Mohit Sharma to Riyan Parag, <b>SIX</b>, Riyan Parag's fine run continues. Gets under the back of the hand slower ball outside off, it's on a length, slugged away flat over wide long-on. Gets to <b>50</b> </p>",
-    "overs": 13.5,
-    "events": [
-      "FIFTY",
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 53,
-      "ballsPlayed": 34,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761861600,
-    "commText": "<p> Mohit Sharma to Samson, 1 run, tight good length delivery on off, Samson makes room to punch, mistimes it in front of cover </p>",
-    "overs": 13.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 29,
-      "ballsPlayed": 20,
-      "dotBalls": 4,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761813340,
-    "commText": "<p> Mohit Sharma to Samson, <b>FOUR</b>, he has played this shot so well this season. Makes room and gets under the half-volley to carve it over cover, no chance for sweeper cover </p>",
-    "overs": 13.3,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 28,
-      "ballsPlayed": 19,
-      "dotBalls": 4,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761765017,
-    "commText": "<p> Mohit Sharma to Samson, no run, back of the hand slower ball outside off, Samson premeditates the scoop, gets across and misses the shot </p>",
-    "overs": 13.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 24,
-      "ballsPlayed": 18,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761723979,
-    "commText": "<p> Mohit Sharma to Riyan Parag, 1 run, good length on off, whipped wristily to deep mid-wicket </p>",
-    "overs": 13.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 47,
-      "ballsPlayed": 33,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761664030,
-    "commText": "<p> Noor Ahmad to Samson, no run, length ball on leg stump, googly, Samson defends forward </p>",
-    "overs": 13,
-    "events": [
-      "OVER_BREAK",
-      "HIGHSCORING_OVER"
-    ],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 24,
-      "ballsPlayed": 17,
-      "dotBalls": 3,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 4,
-      "bowlMaidens": 0,
-      "bowlRuns": 43,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761636305,
-    "commText": "<p> Noor Ahmad to Riyan Parag, 1 run, flat length ball just outside off, Parag flat-bats it to long-off </p>",
-    "overs": 12.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 46,
-      "ballsPlayed": 32,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 15452,
+      "id": 1858,
       "bowlOvers": 3.5,
       "bowlMaidens": 0,
-      "bowlRuns": 43,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761592612,
-    "commText": "<p> Noor Ahmad to Riyan Parag, <b>SIX</b>, another cracking sweep from Parag who's on a roll! Tossed up outside leg, Parag gets low and whacks it over square leg this time. These aren't small sixes. He's hitting them way back into the crowd </p>",
-    "overs": 12.4,
-    "events": [
-      "TEAM_HUNDRED",
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 45,
-      "ballsPlayed": 31,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 3.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 42,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761556443,
-    "commText": "<p> Noor Ahmad to Samson, 1 run, 94.9kph googly outside off, Samson looks to flat-bat it down the ground but gets it right off the toe-end. It balloons in the air and falls in front of long-off </p>",
-    "overs": 12.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 24,
-      "ballsPlayed": 16,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 3.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 36,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761523382,
-    "commText": "<p> Noor Ahmad to Riyan Parag, 1 run, 98.kph length ball on middle, googly, Parag gets forward and knocks it wide of point </p>",
-    "overs": 12.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 39,
-      "ballsPlayed": 30,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 3.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 35,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761452949,
-    "commText": "<p> Noor Ahmad to Riyan Parag, <b>SIX</b>, absolutely nails the slog-sweep! Full ball on leg stump, tossed up by Noor and Parag gets on one knee and whacks it over midwicket. Goes a long way back into the stands </p>",
-    "overs": 12.1,
-    "events": [
-      "SIX",
-      "PARTNERSHIP"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 38,
-      "ballsPlayed": 29,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 3.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 34,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761391533,
-    "commText": "<p> Mohit Sharma to Riyan Parag, 1 run, slower one outside off, back of a length, Parag looks to cut but chops it to the left of extra cover </p>",
-    "overs": 12,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 32,
-      "ballsPlayed": 28,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761351958,
-    "commText": "<p> Mohit Sharma to Samson, 1 run, length ball on off, Samson gets forward and punches sweetly to long-on </p>",
-    "overs": 11.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 23,
-      "ballsPlayed": 15,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761305006,
-    "commText": "<p> Mohit Sharma to Riyan Parag, 1 run, 131.4kph full delivery on middle, Parag flicks it to long-on </p>",
-    "overs": 11.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 31,
-      "ballsPlayed": 27,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761250694,
-    "commText": "<p> Mohit Sharma to Samson, 1 run, back of a length outside off, Samson punches nicely to sweeper cover </p>",
-    "overs": 11.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 22,
-      "ballsPlayed": 14,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761212781,
-    "commText": "<p> Mohit Sharma to Samson, <b>wide</b>, slower bouncer outside off, Samson leaves it alone and it's called wide as it's too wide </p>",
-    "overs": 11.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 21,
-      "ballsPlayed": 13,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761165362,
-    "commText": "<p> Mohit Sharma to Riyan Parag, 1 run, length ball on off, Parag gets forward and punches it to mid-off </p>",
-    "overs": 11.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 30,
-      "ballsPlayed": 26,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761119969,
-    "commText": "<p> Mohit Sharma to Samson, 1 run, back of a length on middle, 131.7kph, Samson hangs back and clips it through midwicket </p>",
-    "overs": 11.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 21,
-      "ballsPlayed": 13,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 8181,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761091116,
-    "commText": "<p><b>Mohit Sharma, right-arm fast medium, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 20,
-      "ballsPlayed": 12,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761029299,
-    "commText": "<p> Noor Ahmad to Riyan Parag, 2 runs, full on the pads, Parag works it nicely through the gap at midwicket and charges back for two </p>",
-    "overs": 11,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 29,
-      "ballsPlayed": 25,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712761005890,
-    "commText": "<p> Noor Ahmad to Riyan Parag, no run, flat on off, turning in slightly, Parag gets cramped a touch and drags it back to the bowler </p>",
-    "overs": 10.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 27,
-      "ballsPlayed": 24,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 26,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760976681,
-    "commText": "<p> Noor Ahmad to Riyan Parag, <b>FOUR</b>, too full on middle, Parag goes for a big swipe across the line and drags it off the inside half through square leg. Races away to the boundary </p>",
-    "overs": 10.4,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 27,
-      "ballsPlayed": 23,
-      "dotBalls": 9,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 26,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760951112,
-    "commText": "<p> Noor Ahmad to Samson, 1 run, 87kph tossed up on middle, overpitches and Samson squeezes it through point </p>",
-    "overs": 10.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 20,
-      "ballsPlayed": 12,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760923383,
-    "commText": "<p> Noor Ahmad to Riyan Parag, 1 run, 94kph flat length ball on middle, googly, Parag hangs back and punches it to long-off </p>",
-    "overs": 10.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 23,
-      "ballsPlayed": 22,
-      "dotBalls": 9,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760900259,
-    "commText": "<p> Noor Ahmad to Samson, 1 run, length ball outside off, turning in, Samson gets forward and punches it to long-off </p>",
-    "overs": 10.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 19,
-      "ballsPlayed": 11,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760844013,
-    "commText": "<p>Noor again. Has bowled much better than his figures suggest</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760841013,
-    "commText": "<p> Rashid Khan to Riyan Parag, no run, flat length ball on off, leg-break again and he doesn't quite pick it this time. Looks to work it through the on-side and gets a leading edge wide of cover </p>",
-    "overs": 10,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 22,
-      "ballsPlayed": 21,
-      "dotBalls": 9,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
+      "bowlRuns": 46,
       "bowlWickets": 1,
-      "bowlWides": 0,
+      "bowlWides": 2,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712760810486,
-    "commText": "<p> Rashid Khan to Riyan Parag, <b>FOUR</b>, beautifully done by Parag! Flat length ball outside off, he waits in the crease, picks the legbreak and dabs it past slip, using the pace of the bowler </p>",
-    "overs": 9.5,
+    "timestamp": 1712764519741,
+    "commText": "<p> Umesh Yadav to Hetmyer, 1 run, very full outside off, driven to extra-cover and just one, Hetmyer has a look at the toe of his bat, RR end on 196 </p>",
+    "ballNbr": 120,
+    "overs": 20,
     "events": [
-      "FOUR"
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
     ],
     "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 22,
-      "ballsPlayed": 20,
-      "dotBalls": 8,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760786343,
-    "commText": "<p> Rashid Khan to Samson, 1 run, attempted googly outside off, lands in the blockhole and Samson squeezes it through point </p>",
-    "overs": 9.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 18,
-      "ballsPlayed": 10,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760763350,
-    "commText": "<p> Rashid Khan to Riyan Parag, 1 run, 93.4kph overpitched on off, Parag drives through point for a single </p>",
-    "overs": 9.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 18,
-      "ballsPlayed": 19,
-      "dotBalls": 8,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760741382,
-    "commText": "<p> Rashid Khan to Riyan Parag, no run, full legbreak on middle, Parag defends forward </p>",
-    "overs": 9.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 17,
-      "ballsPlayed": 18,
-      "dotBalls": 8,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760720315,
-    "commText": "<p> Rashid Khan to Riyan Parag, 2 runs, googly on middle and leg, Parag clips it through midwicket and gets back for two </p>",
-    "overs": 9.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 17,
-      "ballsPlayed": 17,
-      "dotBalls": 7,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760664985,
-    "commText": "<p> Noor Ahmad to Riyan Parag, 1 run, googly on middle, Parag punches it to long-off </p>",
-    "overs": 9,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 15,
-      "ballsPlayed": 16,
-      "dotBalls": 7,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760637946,
-    "commText": "<p> Noor Ahmad to Samson, 5 runs, bonus runs for the Royals. Sloppy work from Mohit gives them four<b> overthrows</b>. Length ball on leg stump, Samson doesn't pick the googly in defence and it goes off a thick edge to point. There's a shy at the non-striker's end, should've been cut off by Mohit who was backing up but it sneaks right through him </p>",
-    "overs": 8.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 17,
-      "ballsPlayed": 9,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 18,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760575431,
-    "commText": "<p> Noor Ahmad to Samson, no run, full outside off, Samson was expecting it to turn in but it's the googly that goes away. He doesn't get anywhere close to it </p>",
-    "overs": 8.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 12,
-      "ballsPlayed": 8,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760548442,
-    "commText": "<p> Noor Ahmad to Riyan Parag, 1 run, opens the face and steers this wide of point </p>",
-    "overs": 8.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 14,
-      "ballsPlayed": 15,
-      "dotBalls": 7,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760517520,
-    "commText": "<p> Noor Ahmad to Riyan Parag, <b>SIX</b>, Parag decides to go on the attack. When you're not picking it, sweep is not a bad option and he smokes it over midwicket. Goes just over the jumping fielder at the boundary </p>",
-    "overs": 8.2,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
+      "id": 9789,
       "batRuns": 13,
-      "ballsPlayed": 14,
-      "dotBalls": 7,
-      "batFours": 0,
+      "ballsPlayed": 5,
+      "dotBalls": 0,
+      "batFours": 1,
       "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 1.2,
+      "id": 1858,
+      "bowlOvers": 4,
       "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760493754,
-    "commText": "<p> Noor Ahmad to Riyan Parag, no run, Parag looks all at sea against the two Afghan leggies. Gets forward to defend, doesn't pick the googly and is beaten </p>",
-    "overs": 8.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 7,
-      "ballsPlayed": 13,
-      "dotBalls": 7,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760443920,
-    "commText": "<p> Rashid Khan to Riyan Parag, 1 run, full on middle, flicked to long-on </p>",
-    "overs": 8,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 7,
-      "ballsPlayed": 12,
-      "dotBalls": 6,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
+      "bowlRuns": 47,
       "bowlWickets": 1,
-      "bowlWides": 0,
+      "bowlWides": 2,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712760416500,
-    "commText": "<p>Rashid Khan to Riyan Parag, no run, <b>dropped again</b>! Fuller than a length on off, Parag looks to defend forward but it turns away and takes the outside edge. Not the easiest of chance as there was a reasonable deflection. Wade fails to hang on again</p>",
-    "overs": 7.5,
-    "events": [
-      "DROPPED"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 6,
-      "ballsPlayed": 11,
-      "dotBalls": 6,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760395673,
-    "commText": "<p> Rashid Khan to Samson, 1 run, 93kph length ball on off, turning away, Samson gets forward to defend but it catches the outside half and goes past slip </p>",
-    "overs": 7.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 12,
-      "ballsPlayed": 7,
-      "dotBalls": 1,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760367109,
-    "commText": "<p> Rashid Khan to Riyan Parag, 1 run, 91.9kph full outside off, googly, Parag gets forward and drives to long-off </p>",
-    "overs": 7.3,
-    "events": [
-      "TEAM_FIFTY"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 6,
-      "ballsPlayed": 10,
-      "dotBalls": 5,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760345851,
-    "commText": "<p> Rashid Khan to Riyan Parag, no run, flat length ball outside off, leg-break, Parag hangs back and cuts to short cover </p>",
-    "overs": 7.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 5,
-      "ballsPlayed": 9,
-      "dotBalls": 5,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760329726,
-    "commText": "<p> Rashid Khan to Riyan Parag, no run, full delivery on middle and off, Parag pushes to short cover </p>",
-    "overs": 7.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 5,
-      "ballsPlayed": 8,
-      "dotBalls": 4,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760296115,
-    "commText": "<p> Noor Ahmad to Riyan Parag, 1 run, overpitched on the pads, Parag flicks it to deep midwicket </p>",
-    "overs": 7,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 5,
-      "ballsPlayed": 7,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760291290,
-    "commText": "<p>Noor Ahmad to Riyan Parag, no run, beaten! Gets forward to defend but doesn't pick the googly and it goes past the edge</p>",
-    "overs": 6.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 4,
-      "ballsPlayed": 6,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760221429,
-    "commText": "<p> Noor Ahmad to Riyan Parag, 2 runs, googly outside off, slightly short and Parag slaps it hard. Good work at short extra cover who dives across and gets a hand on it </p>",
-    "overs": 6.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 4,
-      "ballsPlayed": 5,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760196840,
-    "commText": "<p> Noor Ahmad to Samson, 1 run, 93.2kph flat length ball outside off, leg-break, Samson hangs back and punches it to long-off </p>",
-    "overs": 6.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 11,
-      "ballsPlayed": 6,
-      "dotBalls": 1,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760165191,
-    "commText": "<p> Noor Ahmad to Riyan Parag, 1 run, length ball on middle, turning in, Parag hangs back and clips it through midwicket </p>",
-    "overs": 6.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 2,
-      "ballsPlayed": 4,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760155267,
-    "commText": "<p> Noor Ahmad to Riyan Parag, <b>wide</b>, 95kph short and wide outside off, Parag looks to cut but it stays low again and goes under the bat. Wide called by the umpire </p>",
-    "overs": 6.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 1,
-      "ballsPlayed": 3,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760129507,
-    "commText": "<p> Noor Ahmad to Riyan Parag, no run, 88kph full outside off, turning in, Parag gets forward and knocks it to short cover </p>",
-    "overs": 6.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 1,
-      "ballsPlayed": 3,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 15452,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712760125588,
-    "commText": "<p><b>Powerplay scores for RR this IPL</b> \\n2/54 vs LSG \\n2/31 vs DC \\n2/46 vs MI \\n1/54 vs RCB \\n2/43 vs GT*</p>",
+    "timestamp": 1712764522741,
+    "commText": "<p><b>21:25 Local Time, 15:55 GMT, 21:25 IST:</b> RR end with a very good score. Buttler failed tonight and Jaiswal again did not last beyond the powerplay - he has not done that this season. Enter Samson and Riyan Parag. Parag was dropped twice by Wade early on off Rashid Khan and that proved costly. The duo settled down and then began the rebuilding work. Parag took heavy toll on Noor, smashing him on the leg-side for three sixes. The stand was worth 130 and GT after a good start couldn't get rid of them. At the end Hetmyer hit a six and ensured his contribution. Once again RR's skipper Samson came good - his third fifty in 5 games and 196 is a good score. RR have a good bowling lineup and they will be backing themselves. Back for the chase in 5 minutes...</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -2686,31 +3955,9 @@
     }
   },
   {
-    "timestamp": 1712760125578,
-    "commText": "<p><b>Noor Ahmad, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 1,
-      "ballsPlayed": 2,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759926574,
-    "commText": "<p><b>Highlights (overs 1-6):</b> \\n-- 4 dots, 6 runs off the opening over from Umesh \\n-- Jaiswal scores 4 boundaries off his first 18 runs \\n-- Umesh gets rid of Jaiswal in his 3rd over \\n-- Samson hits 2 boundaries off his first 3 balls \\n-- Rashid gets the big wicket of Buttler in the last over of the powerplay</p>",
+    "timestamp": 1712764525741,
+    "commText": "<p><b>Rashid Khan:</b> First few games I was struggling with line and length. Have been working on hitting the right area consistently. Hard after coming back from back surgery. I wasn't feeling right in the first few games. Didn't have the satisfaction. Felt like I was 90-94 percent today. Look forward to making it 100 percent. The more you bowl into the wicket, the harder it is for batter. Will look to have the positive mindset in the chase.</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -2732,8 +3979,9 @@
     }
   },
   {
-    "timestamp": 1712759926564,
-    "commText": "<p>Timeout! Brilliant start from Gujarat Titans. They've kept the rate under control while also getting rid of both openers on a pitch where the new ball didn't move around too much. But it's definitely on the slower side with a few balls also staying low already.</p>",
+    "timestamp": 1712764525751,
+    "commText": "<p><b>Highest scores in 50th IPL match as captain</b> \\n68* (38) - Sanju Samson (RR) vs GT, 2024* \\n59 (46) - Gautam Gambhir (KKR) vs RCB, 2013 \\n65 (48) - Rohit Sharma (MI) vs DC, 2016 \\n45 (33) - David Warner (SRH) vs DC, 2021</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -2755,79 +4003,9 @@
     }
   },
   {
-    "timestamp": 1712759923564,
-    "commText": "<p> Rashid Khan to Riyan Parag, 1 run, was there an edge on it? Oh yes, the umpire signals runs. Fuller than a length outside off, Parag looks to drive but it turns away and he nicks it behind. <b>Wade can't hold on</b> </p>",
-    "overs": 6,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 1,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759896652,
-    "commText": "<p> Rashid Khan to Riyan Parag, no run, defended into the off-side </p>",
-    "overs": 5.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759889261,
-    "commText": "<p><b>Riyan Parag, right handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12305,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759823252,
-    "commText": "<p><b>Buttler vs Rashid in IPL</b> \\n30 runs \\n50 balls \\nFour dismissals \\nNo boundary</p>",
+    "timestamp": 1712764525761,
+    "commText": "<p><b>Most 50+ scores for RR in all T20s</b> \\n25 - Sanju Samson (131 inns)* \\n24 - Jos Buttler (76 inns) \\n23 - Ajinkya Rahane (99 inns) \\n16 - Shane Watson (81 inns) \\n9 - Yashasvi Jaiswal (42 inns)</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -2849,79 +4027,9 @@
     }
   },
   {
-    "timestamp": 1712759823242,
-    "commText": "<p> Rashid Khan to Buttler, <b>out</b> Caught by Rahul Tewatia!! Rashid continues his dominance against Buttler, getting him out for the fifth time in T20s. Full outside off, Buttler looks to loft down the ground but it turns away and takes the outside edge to slip. Sharp catch from Tewatia there. <b>Buttler c Rahul Tewatia b Rashid Khan 8(10)</b> </p>",
-    "overs": 5.4,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 2258,
-      "batRuns": 8,
-      "ballsPlayed": 10,
-      "dotBalls": 4,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759820126,
-    "commText": "<p> Rashid Khan to Buttler, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759801421,
-    "commText": "<p> Rashid Khan to Buttler, no run, flat on middle, googly, Buttler hangs back and tucks it to short midwicket </p>",
-    "overs": 5.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2258,
-      "batRuns": 8,
-      "ballsPlayed": 9,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759777119,
-    "commText": "<p><b>Buttler vs Rashid Khan in T20s (before today)</b> \\nBalls: 72 \\nRuns: 50 \\nDismissals: 4 \\nAvg: 12.5 \\nSR: 69.44 \\n4s/6s: 1/0 \\nDots: 29</p>",
+    "timestamp": 1712764525771,
+    "commText": "<p><b>Highest partnership for RR for 3rd or lower wickets in IPL</b> \\n152* - S Samson & B Stokes vs MI, Abu Dhabi, 2020 \\n130 - S Samson & R Parag vs GT, Jaipur, 2024* \\n107 - P Dogra & Y Pathan vs MI, Brabourne, 2010 \\n104 - G Smith & S Watson vs RCB, Bengaluru, 2008</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -2943,77 +4051,9 @@
     }
   },
   {
-    "timestamp": 1712759777109,
-    "commText": "<p> Rashid Khan to Buttler, no run, flat length ball outside off, <b>stays quite low</b>, turns away and goes under the bat as Buttler looks to punch off the back foot </p>",
-    "overs": 5.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2258,
-      "batRuns": 8,
-      "ballsPlayed": 8,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759747771,
-    "commText": "<p> Rashid Khan to Samson, 1 run, full ball on leg stump, seems like the googly and Samson works it through midwicket </p>",
-    "overs": 5.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 10,
-      "ballsPlayed": 5,
-      "dotBalls": 1,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 10738,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759711520,
-    "commText": "<p><b>Rashid Khan, right-arm leg break, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 9,
-      "ballsPlayed": 4,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759660332,
-    "commText": "<p>Rashid has an excellent record against Buttler, not so against Samson. Will be a battle to watch out for.</p>",
+    "timestamp": 1712764525781,
+    "commText": "<p><b>RR innings progression</b> \\nOvers 1-6: 43/2 (RR: 7.16) \\nOvers 7-15: 91/0 (RR: 10.11) \\nOvers 16-20: 62/1 (RR: 12.40)</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -3035,129 +4075,9 @@
     }
   },
   {
-    "timestamp": 1712759657332,
-    "commText": "<p> Umesh Yadav to Samson, 1 run, 133.8kph short of length delivery on off, Samson rides the bounce and dabs it past the keeper </p>",
-    "overs": 5,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 9,
-      "ballsPlayed": 4,
-      "dotBalls": 1,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759610684,
-    "commText": "<p> Umesh Yadav to Samson, <b>FOUR</b>, back-to-back boundaries as Samson gets going straightaway! Length ball on middle, he hangs back in the crease and clips it beautifully through midwicket </p>",
-    "overs": 4.5,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 8,
-      "ballsPlayed": 3,
-      "dotBalls": 1,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 27,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759564848,
-    "commText": "<p> Umesh Yadav to Samson, <b>FOUR</b>, short and wide outside off, Samson goes back in the crease, gets on top of the bounce and cuts it superbly through point </p>",
-    "overs": 4.4,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 4,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759526210,
-    "commText": "<p> Umesh Yadav to Samson, no run, length ball on off, Samson gets forward and punches it to mid-on. The ball stayed low and struck him on the toe-end </p>",
-    "overs": 4.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759447501,
-    "commText": "<p><b>Sanju Samson, right handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8271,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759413830,
-    "commText": "<p><b>Jaiswal in this IPL</b> \\n10(6) vs LSG \\n5(7) vs DC \\n24(12) vs MI \\n0(1) vs RCB \\n24 (19) vs GT* \\n \\n- He has failed to survive the powerplay this season so far.</p>",
+    "timestamp": 1712764528741,
+    "commText": "<p>Welcome back. The players are out there. <b>RR have made their sub - Jaiswal out and Maharaj in</b>.</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -3179,762 +4099,9 @@
     }
   },
   {
-    "timestamp": 1712759413820,
-    "commText": "<p> Umesh Yadav to Jaiswal, <b>out</b> Caught by Wade!! Gone this time. Length ball around off, Jaiswal bends across to scoop and gets it very high on the bat. As a result, he doesn't get the desired elevation and Wade takes a superb jumping catch. Jaiswal's lean run this season continues. <b>Jaiswal c Wade b Umesh Yadav 24(19) [4s-5]</b> </p>",
-    "overs": 4.2,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 24,
-      "ballsPlayed": 19,
-      "dotBalls": 11,
-      "batFours": 5,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759410525,
-    "commText": "<p> Umesh Yadav to Jaiswal, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 24,
-      "ballsPlayed": 18,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759365501,
-    "commText": "<p><b>RR's opening stand this IPL</b> \\n13 (12) vs LSG \\n9 (11) vs DC \\n10 (6) vs MI \\n0 (2) vs RCB \\n32 (26) vs GT*</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759365491,
-    "commText": "<p> Umesh Yadav to Jaiswal, <b>FOUR</b>, there he goes! Back of a length just outside off, Jaiswal shuffles across, pulls hard and hoists it over midwicket. May have got it slightly high on the bat, but clears the infield easily </p>",
-    "overs": 4.1,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 24,
-      "ballsPlayed": 18,
-      "dotBalls": 10,
-      "batFours": 5,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759311387,
-    "commText": "<p>Steady start from the Royals so far. They'll look to go big in these last couple of overs in the powerplay.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759308387,
-    "commText": "<p> Spencer Johnson to Buttler, 2 runs, 137.7kph back of a length delivery on middle, Buttler hangs back and clips it through midwicket for a couple of runs </p>",
-    "overs": 4,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 2258,
-      "batRuns": 8,
-      "ballsPlayed": 7,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759264254,
-    "commText": "<p> Spencer Johnson to Jaiswal, 1 run, 144.2kph full delivery on off, Jaiswal looks to go hard on the drive and mistimes it to mid-off </p>",
-    "overs": 3.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 20,
-      "ballsPlayed": 17,
-      "dotBalls": 10,
-      "batFours": 4,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 11,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759230817,
-    "commText": "<p> Spencer Johnson to Buttler, 1 run, length ball just outside off, Buttler goes for a scoop but doesn't connect. Gets hit on the thigh pad </p>",
-    "overs": 3.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2258,
-      "batRuns": 6,
-      "ballsPlayed": 6,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759179851,
-    "commText": "<p> Spencer Johnson to Jaiswal, 1 run, back of a length delivery just outside off, Jaiswal is cramped for room as he looks to cut and ends up chopping it off a thick under-edge into the off-side </p>",
-    "overs": 3.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 19,
-      "ballsPlayed": 16,
-      "dotBalls": 10,
-      "batFours": 4,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759135329,
-    "commText": "<p> Spencer Johnson to Buttler, 1 run, 139kph length ball on middle, Buttler gets forward and knocks it to mid-off for a quick single </p>",
-    "overs": 3.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2258,
-      "batRuns": 5,
-      "ballsPlayed": 5,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759104117,
-    "commText": "<p> Spencer Johnson to Buttler, no run, 140.4kph overpitched outside off, Buttler drives well but straight to cover </p>",
-    "overs": 3.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2258,
-      "batRuns": 4,
-      "ballsPlayed": 4,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712759040864,
-    "commText": "<p> Umesh Yadav to Jaiswal, <b>FOUR</b>, more width, and it disappears to the boundary again! Length ball slanted away, Jaiswal throws his bat at it and slaps it hard through extra cover </p>",
-    "overs": 3,
-    "events": [
-      "OVER_BREAK",
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 18,
-      "ballsPlayed": 15,
-      "dotBalls": 10,
-      "batFours": 4,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758992559,
-    "commText": "<p> Umesh Yadav to Jaiswal, <b>FOUR</b>, this time he finds the gap! Back of a length outside off, width on offer for Jaiswal who frees his arms and slashes it through the covers </p>",
-    "overs": 2.5,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 14,
-      "ballsPlayed": 14,
-      "dotBalls": 10,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 11,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758952361,
-    "commText": "<p> Umesh Yadav to Jaiswal, no run, more frustration for Jaiswal as he finds the fielder. Back of a length delivery straying on leg stump, Jaiswal looks to capitalise and plays the pull shot. But it's straight to short fine </p>",
-    "overs": 2.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 10,
-      "ballsPlayed": 13,
-      "dotBalls": 10,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758910757,
-    "commText": "<p>Highest opening stand for RR this IPL season</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758910747,
-    "commText": "<p> Umesh Yadav to Jaiswal, no run, length ball on middle and leg, 140.3kph, Jaiswal hangs back and clips it to mid-on </p>",
-    "overs": 2.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 10,
-      "ballsPlayed": 12,
-      "dotBalls": 9,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758861801,
-    "commText": "<p>Despite the rain we had earlier, there hasn't been much movement for the pacers with the new ball</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758858801,
-    "commText": "<p> Umesh Yadav to Jaiswal, no run, back of a length on off, Jaiswal blocks from the crease </p>",
-    "overs": 2.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 10,
-      "ballsPlayed": 11,
-      "dotBalls": 8,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758788419,
-    "commText": "<p> Umesh Yadav to Buttler, 1 run, 139.5kph length ball on off, Buttler gets half-forward looking to push down the ground and drags it off the inside half wide of mid-on </p>",
-    "overs": 2.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2258,
-      "batRuns": 4,
-      "ballsPlayed": 3,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758711695,
-    "commText": "<p> Spencer Johnson to Jaiswal, <b>FOUR</b>, again not much room as he looks to cut, but this time he cracks it away past backward point! Back of a length just outside off, was perhaps even tighter than the previous one, but Jaiswal got hold of it nicely </p>",
-    "overs": 2,
-    "events": [
-      "OVER_BREAK",
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 10,
-      "ballsPlayed": 10,
-      "dotBalls": 7,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758675190,
-    "commText": "<p> Spencer Johnson to Jaiswal, no run, 137.4kph back of a length delivery just outside off, Jaiswal looks to cut but is cramped for room. Beaten! </p>",
-    "overs": 1.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 6,
-      "ballsPlayed": 9,
-      "dotBalls": 7,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758639014,
-    "commText": "<p> Spencer Johnson to Jaiswal, no run, driven nicely but straight to point. Fuller than a length just outside off, not much movement, and Jaiswal hits it sweetly off the front foot </p>",
-    "overs": 1.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 6,
-      "ballsPlayed": 8,
-      "dotBalls": 6,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758604927,
-    "commText": "<p> Spencer Johnson to Jaiswal, no run, length ball wide of off, Jaiswal slashes hard but misses </p>",
-    "overs": 1.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 6,
-      "ballsPlayed": 7,
-      "dotBalls": 5,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758555838,
-    "commText": "<p> Spencer Johnson to Buttler, 1 run, fuller than a length outside off, angling away, Buttler opens the face and runs it to deep third </p>",
-    "overs": 1.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2258,
-      "batRuns": 3,
-      "ballsPlayed": 2,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758525762,
-    "commText": "<p> Spencer Johnson to Buttler, 2 runs, 139.3kph length ball across off stump, Buttler hangs back and taps it into the off-side. Finds the gap at cover and gets a couple of runs </p>",
-    "overs": 1.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2258,
-      "batRuns": 2,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13143,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758488944,
-    "commText": "<p><b>Spencer Johnson, left-arm fast medium, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 2258,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758436506,
-    "commText": "<p> Umesh Yadav to Jaiswal, 2 runs, <b>almost chopped on!</b> Length ball slanted away outside off, Jaiswal goes cross-batted as he looks to flay it through the off-side and gets a thick under-edge. It wasn't far from crashing into the stumps </p>",
-    "overs": 1,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 6,
-      "ballsPlayed": 6,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758391244,
-    "commText": "<p> Umesh Yadav to Jaiswal, <b>FOUR</b>, cracking shot off the back foot! Back of a length outside off, Jaiswal stays in the crease and punches it beautifully through the covers </p>",
-    "overs": 0.5,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 4,
-      "ballsPlayed": 5,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758357192,
-    "commText": "<p> Umesh Yadav to Jaiswal, no run, full outside off, Jaiswal looks to drive and mistimes it to cover </p>",
-    "overs": 0.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 0,
-      "ballsPlayed": 4,
-      "dotBalls": 4,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758320625,
-    "commText": "<p> Umesh Yadav to Jaiswal, no run, back of a length on middle, Jaiswal defends from the crease. Looks like he wants to give himself a bit more time at the start, rather than being aggressive from the first ball </p>",
-    "overs": 0.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 0,
-      "ballsPlayed": 3,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758287434,
-    "commText": "<p> Umesh Yadav to Jaiswal, no run, back of a length on middle, hint of inswing, Jaiswal hangs back and punches gently into the on-side </p>",
-    "overs": 0.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 0,
-      "ballsPlayed": 2,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758263515,
-    "commText": "<p> Umesh Yadav to Jaiswal, no run, starts with a wayward delivery that's well wide outside off. Jaiswal leaves it alone. Was close to being called a wide </p>",
-    "overs": 0.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 13940,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 1858,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712758255411,
-    "commText": "<p><b>Jaiswal and Buttler are at the crease. Jaiswal is on strike. Umesh Yadav will open the attack</b></p>",
+    "timestamp": 1712764531741,
+    "commText": "<p><b>GT's sub - Shahrukh Khan in</b>. Here we go. Boult to start off. A wide slip in.</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

@@ -1,0 +1,406 @@
+{
+  "matchId": "91713",
+  "innings": {
+    "first": {
+      "teamId": 65,
+      "oversBowled": 19.6,
+      "overs": 0,
+      "score": 214,
+      "wickets": 5,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "batters": [
+        {
+          "id": 13914,
+          "batRuns": 46,
+          "ballsPlayed": 27,
+          "dotBalls": 8,
+          "batFours": 5,
+          "batSixes": 2,
+          "fallOfWicket": {
+            "overs": 9.1,
+            "teamScore": 97,
+            "teamWickets": 1,
+            "dismissalType": "caught",
+            "bowlerId": 10225,
+            "helpers": [
+              13509
+            ]
+          }
+        },
+        {
+          "id": 14254,
+          "batRuns": 71,
+          "ballsPlayed": 45,
+          "dotBalls": 18,
+          "batFours": 7,
+          "batSixes": 4,
+          "fallOfWicket": {
+            "overs": 14.2,
+            "teamScore": 151,
+            "teamWickets": 2,
+            "dismissalType": "caught",
+            "bowlerId": 13931,
+            "helpers": [
+              10209
+            ]
+          }
+        },
+        {
+          "id": 2244,
+          "batRuns": 49,
+          "ballsPlayed": 24,
+          "dotBalls": 5,
+          "batFours": 3,
+          "batSixes": 4,
+          "fallOfWicket": {
+            "overs": 17.2,
+            "teamScore": 181,
+            "teamWickets": 4,
+            "dismissalType": "caught",
+            "bowlerId": 8095,
+            "helpers": [
+              14628
+            ]
+          }
+        },
+        {
+          "id": 10919,
+          "batRuns": 2,
+          "ballsPlayed": 4,
+          "dotBalls": 2,
+          "batFours": 0,
+          "batSixes": 0,
+          "fallOfWicket": {
+            "overs": 16.0,
+            "teamScore": 174,
+            "teamWickets": 3,
+            "dismissalType": "run-out",
+            "helpers": [
+              14701,
+              10209
+            ]
+          }
+        },
+        {
+          "id": 10214,
+          "batRuns": 32,
+          "ballsPlayed": 15,
+          "dotBalls": 2,
+          "batFours": 2,
+          "batSixes": 2,
+          "isStriker": false
+        },
+        {
+          "id": 13497,
+          "batRuns": 2,
+          "ballsPlayed": 3,
+          "dotBalls": 1,
+          "batFours": 0,
+          "batSixes": 0,
+          "fallOfWicket": {
+            "overs": 18.1,
+            "teamScore": 187,
+            "teamWickets": 5,
+            "dismissalType": "caught",
+            "bowlerId": 10225,
+            "helpers": [
+              13509
+            ]
+          }
+        },
+        {
+          "id": 41295,
+          "batRuns": 2,
+          "ballsPlayed": 3,
+          "dotBalls": 1,
+          "batFours": 0,
+          "batSixes": 0
+        }
+      ],
+      "bowlers": [
+        {
+          "id": 1726,
+          "bowlOvers": 4.0,
+          "bowlMaidens": 0,
+          "bowlRuns": 36,
+          "bowlWickets": 0,
+          "bowlNoBalls": 0,
+          "bowlWides": 0
+        },
+        {
+          "id": 8095,
+          "bowlOvers": 4.0,
+          "bowlMaidens": 0,
+          "bowlRuns": 36,
+          "bowlWickets": 1,
+          "bowlNoBalls": 0,
+          "bowlWides": 0
+        },
+        {
+          "id": 10225,
+          "bowlOvers": 4.0,
+          "bowlMaidens": 0,
+          "bowlRuns": 33,
+          "bowlWickets": 2,
+          "bowlNoBalls": 0,
+          "bowlWides": 2,
+          "isNonStriker": true
+        },
+        {
+          "id": 13931,
+          "bowlOvers": 4.0,
+          "bowlMaidens": 0,
+          "bowlRuns": 37,
+          "bowlWickets": 1,
+          "bowlNoBalls": 0,
+          "bowlWides": 0
+        },
+        {
+          "id": 14606,
+          "bowlOvers": 1.0,
+          "bowlMaidens": 0,
+          "bowlRuns": 13,
+          "bowlWickets": 0,
+          "bowlNoBalls": 0,
+          "bowlWides": 0
+        },
+        {
+          "id": 14701,
+          "bowlOvers": 3.0,
+          "bowlMaidens": 0,
+          "bowlRuns": 54,
+          "bowlWickets": 0,
+          "bowlNoBalls": 1,
+          "bowlWides": 2,
+          "isStriker": true
+        }
+      ],
+      "extras": {
+        "nos": 1,
+        "wides": 4,
+        "legByes": 5,
+        "byes": 0,
+        "penalties": 0
+      }
+    },
+    "second": {
+      "teamId": 255,
+      "oversBowled": 19.1,
+      "overs": 0,
+      "score": 215,
+      "wickets": 6,
+      "isDeclared": false,
+      "isFollowOn": false,
+      "batters": [
+        {
+          "id": 8497,
+          "batRuns": 0,
+          "ballsPlayed": 1,
+          "dotBalls": 1,
+          "batFours": 0,
+          "batSixes": 0,
+          "fallOfWicket": {
+            "overs": 0.1,
+            "teamScore": 0,
+            "teamWickets": 1,
+            "dismissalType": "bowled",
+            "bowlerId": 14254,
+            "helpers": []
+          }
+        },
+        {
+          "id": 12086,
+          "batRuns": 66,
+          "ballsPlayed": 28,
+          "dotBalls": 7,
+          "batFours": 5,
+          "batSixes": 6,
+          "fallOfWicket": {
+            "overs": 10.1,
+            "teamScore": 129,
+            "teamWickets": 3,
+            "dismissalType": "caught",
+            "bowlerId": 14254,
+            "helpers": [
+              14254
+            ]
+          }
+        },
+        {
+          "id": 9012,
+          "batRuns": 33,
+          "ballsPlayed": 18,
+          "dotBalls": 8,
+          "batFours": 4,
+          "batSixes": 2,
+          "fallOfWicket": {
+            "overs": 4.6,
+            "teamScore": 72,
+            "teamWickets": 2,
+            "dismissalType": "caught",
+            "bowlerId": 8175,
+            "helpers": [
+              14254
+            ]
+          }
+        },
+        {
+          "id": 14701,
+          "batRuns": 37,
+          "ballsPlayed": 25,
+          "dotBalls": 7,
+          "batFours": 1,
+          "batSixes": 3,
+          "fallOfWicket": {
+            "overs": 13.6,
+            "teamScore": 176,
+            "teamWickets": 4,
+            "dismissalType": "caught",
+            "bowlerId": 8175,
+            "helpers": [
+              14254
+            ]
+          }
+        },
+        {
+          "id": 10209,
+          "batRuns": 42,
+          "ballsPlayed": 26,
+          "dotBalls": 6,
+          "batFours": 3,
+          "batSixes": 2,
+          "fallOfWicket": {
+            "overs": 18.2,
+            "teamScore": 208,
+            "teamWickets": 6,
+            "dismissalType": "bowled",
+            "bowlerId": 14452,
+            "helpers": []
+          }
+        },
+        {
+          "id": 14606,
+          "batRuns": 3,
+          "ballsPlayed": 6,
+          "dotBalls": 3,
+          "batFours": 0,
+          "batSixes": 0,
+          "fallOfWicket": {
+            "overs": 16.5,
+            "teamScore": 197,
+            "teamWickets": 5,
+            "dismissalType": "caught",
+            "bowlerId": 14254,
+            "helpers": [
+              14254
+            ]
+          }
+        },
+        {
+          "id": 14628,
+          "batRuns": 11,
+          "ballsPlayed": 8,
+          "dotBalls": 2,
+          "batFours": 0,
+          "batSixes": 1
+        },
+        {
+          "id": 13509,
+          "batRuns": 6,
+          "ballsPlayed": 4,
+          "dotBalls": 1,
+          "batFours": 1,
+          "batSixes": 0,
+          "isStriker": true
+        }
+      ],
+      "bowlers": [
+        {
+          "id": 13217,
+          "bowlOvers": 4.0,
+          "bowlMaidens": 0,
+          "bowlRuns": 37,
+          "bowlWickets": 2,
+          "bowlNoBalls": 0,
+          "bowlWides": 1
+        },
+        {
+          "id": 8616,
+          "bowlOvers": 3.0,
+          "bowlMaidens": 0,
+          "bowlRuns": 35,
+          "bowlWickets": 0,
+          "bowlNoBalls": 0,
+          "bowlWides": 1
+        },
+        {
+          "id": 8175,
+          "bowlOvers": 4.0,
+          "bowlMaidens": 0,
+          "bowlRuns": 49,
+          "bowlWickets": 2,
+          "bowlNoBalls": 1,
+          "bowlWides": 2
+        },
+        {
+          "id": 12087,
+          "bowlOvers": 4.0,
+          "bowlMaidens": 0,
+          "bowlRuns": 43,
+          "bowlWickets": 0,
+          "bowlNoBalls": 0,
+          "bowlWides": 1
+        },
+        {
+          "id": 14452,
+          "bowlOvers": 3.0,
+          "bowlMaidens": 0,
+          "bowlRuns": 36,
+          "bowlWickets": 1,
+          "bowlNoBalls": 0,
+          "bowlWides": 5,
+          "isNonStriker": true
+        },
+        {
+          "id": 10919,
+          "bowlOvers": 1.0,
+          "bowlMaidens": 0,
+          "bowlRuns": 5,
+          "bowlWickets": 1,
+          "bowlNoBalls": 0,
+          "bowlWides": 0
+        },
+        {
+          "id": 13914,
+          "bowlOvers": 0.1,
+          "bowlMaidens": 0,
+          "bowlRuns": 4,
+          "bowlWickets": 0,
+          "bowlNoBalls": 0,
+          "bowlWides": 0,
+          "isStriker": true
+        }
+      ],
+      "extras": {
+        "nos": 1,
+        "wides": 10,
+        "legByes": 6,
+        "byes": 0,
+        "penalties": 0
+      }
+    }
+  },
+  "state": "complete",
+  "status": "",
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 65
+  },
+  "results": {
+    "resultType": "win",
+    "winByRuns": false,
+    "winByInnings": false,
+    "winningMargin": 4
+  }
+}

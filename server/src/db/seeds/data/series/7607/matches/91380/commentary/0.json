@@ -1,398 +1,8 @@
 [
   {
-    "timestamp": 1712584596021,
-    "commText": "<p>Right then, the players are out in the middle. The CSK players are gathered in a huddle and the two KKR openers follow them.. Tushar to charge in with the new ball as he has a slip in place. Let's play!</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712583832943,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712583758005,
-    "commText": "<p><b>Kolkata Knight Riders Subs:</b> Suyash Sharma, Anukul Roy, Manish Pandey, Rahmanullah Gurbaz, Sakib Hussain</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712583635691,
-    "commText": "<p><b>Chennai Super Kings Subs:</b> Shivam Dube, Moeen Ali, Shaik Rasheed, Mitchell Santner, Nishant Sindhu</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712583374000,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712583372315,
-    "commText": "<p><b>Kolkata Knight Riders</b> (Playing XI): Philip Salt(w), Sunil Narine, Venkatesh Iyer, Shreyas Iyer(c), Angkrish Raghuvanshi, Andre Russell, Rinku Singh, Ramandeep Singh, Mitchell Starc, Vaibhav Arora, Varun Chakaravarthy</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712583307570,
-    "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Ruturaj Gaikwad(c), Rachin Ravindra, Ajinkya Rahane, Daryl Mitchell, Sameer Rizvi, Ravindra Jadeja, MS Dhoni(w), Shardul Thakur, Mustafizur Rahman, Tushar Deshpande, Maheesh Theekshana</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712583199259,
-    "commText": "<p><b>Shreyas Iyer:</b> We would have bowled first. Think the attitude and approch irrespective of the situation, appreciate that about the players. We have assessed the conditions and adapted well. Everyone has stepped up and played fearless cricket. Everyone is stepping up at the right time. It's (head to head record) history, that was a different team and different situation. Our character is going to define how we are going to play here. We just need to keep things simple, that's better for us. Our focus is on the present. We are sticking to the same team.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712583087577,
-    "commText": "<p><b>Ruturaj Gaikwad:</b> Good toss to win. It looks humid, expecting dew tonight, so we will bowl first. Hasn't dented our confidence, we have lost by small margins. Everyone is confident in our group, but we have had forced changes. Definitely looking forward to getting a win in this game. They are playing a good brand of cricket, we want to keep things simple and want to focus on ourselves. Pathirana is not available, Mustafizur is back. Deepak has a niggle so he misses out, Shardul comes in and Rizvi comes back.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712583073840,
-    "commText": "<p><b>Chennai Super Kings have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712582982063,
-    "commText": "<p>Right then, it's toss time..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712582916352,
-    "commText": "<p><b>Russell:</b> We've been doing well so far. We plan to take every game as it comes, not thinking too far ahead. KKR means so much. Seeing these same guys four times a year, four leagues now, it really means a lot. To be consistent with one franchise is always good. They've showed a lot of trust and confidence in me. I don't think anyone can compete with Dre Russ when it comes to hitting the biggest sixes. I just need one good length ball, and it's over. Rinku is a big competition - he's a pocket rocket. But I know my bat speed, and if I make good contact - 115 meters easy. Playing this game for so long, I try to focus on the opponent. Which bowler they have, what they like to do. I watch a lot of cricket. I do my homework before I play against any team. I watch what a bowler tends to do when he's under pressure, what he does to start the over. On the day it's about reacting to whatever you get, but you know you already did your homework. Gautam and Chandu sir have been very good with us, making sure we have what we want.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712582242030,
-    "commText": "<p><b>Rachin Ravindra:</b> Playing for Chennai is very special, they have an amazing fan base, amazing cricketers in the dressing room. Has been a pretty cool experience so far with two wins and two losses, hopefully we can be a little better today. You always want to make an impact, that's what T20 cricket is all about. Sometimes you succeed, sometimes you fail. Hopefully I get the team off to a good start. This has been a pretty good wicket, nice and skiddy. There's a lot of experience in the dressing room, get to be there and soak it all in. I have spent time with Moeen Ali, he is a great man to learn from, with batting and some spin. Always nice to play at Chepauk, amazing atmosphere, always good to be playing in front of the home crowd. It's a also a wicket we know quite well, you just got to go out there and back your game plan. Sometimes the wicket can take a little bit hold, sometimes a bit of turn, we are willing to adapt to that. Always ready, will do whatever the skipper says.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712581653912,
-    "commText": "<p><b>Pitch and ground dimensions:</b> 65m and 66m square boundaries respectively, 80m down the ground. The pitch is rock hard, so the batters will have a great time here and the bowlers can expect some bounce. The spinners might extract some bounce as well. Just a couple of cracks on the surface, but overall a good batting wicket, reckons <b>Graeme Swann.</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712580839723,
-    "commText": "<p>Chennai Super Kings started off with a couple of wins, however, the men in yellow have struggled in away games, like most of the teams this season. Coming back to their home venue will be the ideal scenario for them to get back to winning ways. CSK batters have chipped in with handy contributions in most of their matches so far but none have been able to play a big innings. Ruturaj Gaikwad did it for them in the past, but the CSK skipper has looked vulnerable against left-arm pacers. He'll have to overcome the Mitchell Starc threat at the Chepauk tonight. The two games played yesterday were rather one-sided and dull, but both the teams playing today have some quality all-rounders, hence this contest should prove to be an exciting one. Daryl Mitchell, Shivam Dube, Andre Russell, Mitchell Starc, Rinku Singh - quite a few stars in action tonight. Which one of them will shine the brightest? We shall find out soon, for now stay around for the toss and teams..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712580736651,
-    "commText": "<p><b>18:25 Local Time, 12:55 GMT, 18:25 IST:</b> Three matches, three wins. Two of them thoroughly dominating. KKR\u2019s IPL 2024 campaign started with a close win against the Sunrisers but they were clinical against RCB at the Chinnaswamy. Against the Delhi Capitals they were even better, in fact outstanding. The ploy to open with Sunil Narine has proved to be a masterstroke once again, but expecting him to deliver every time is a bit too much. If he clicks again as an opener, it\u2019s good for the Knight Riders, and if he doesn\u2019t, his mystery spin is always going to be a threat. His alliance with Varun Chakravarthy can trouble the opposition batters on most of the days, especially on pitches conducive to spin.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712498713855,
-    "commText": "<p><b>Preview</b> \\n \\nAfter a gap of almost two weeks, Chennai Super Kings are set to return to the MA Chidambaram Stadium, the venue where they registered their two wins. The time on the road hasn't been as fruitful for the defending champions, having lost their last two games, in Visakhapatnam and Hyderabad respectively. \\n \\nTouring them for their challenge on Monday are Kolkata Knight Riders, the Shreyas Iyer-led side which is yet to be beaten this season. The resurgence of Sunil Narine the batter as an opener has played a big part in KKR's dominance over the last couple of games, and they would hope for the pinch-hitter to hurt CSK as well. \\n \\nEven though it's a venue which has predominantly helped the slower bowlers, that's not how it has panned out so far this season, with a total in excess of 170 being chased down comfortably in the first game and the hosts posting 200-plus in the second. Even if the pitch used against KKR plays to the strength of the spinners, the visitors wouldn't be complaining. The team sitting atop the points table will want to hold onto their spot with a fourth win in four games, even as CSK aim to make a happy return home. \\n \\n<b>Head to head:</b> CSK have dominated against KKR, with a 18-10 record. In Chepauk, it goes to 7-3 \\n \\n<b>When:</b> Chennai Super Kings vs Kolkata Knight Riders, April 8, 2024, 7:30 PM IST \\n \\n<b>Where:</b> MA Chidambaram Stadium, Chennai \\n \\n<b>What to expect:</b> The matches at the venue have been high-scoring so far, and dew hasn't played much part. There could be some change in the third game of the season. \\n \\n<b>Team Watch</b> \\n \\n<b>Chennai Super Kings</b> \\n \\n<b>Injury/Unavailability:</b> Mustafizur Rahman's return from the US is imminent but the bowling coach Eric Simmons is not sure about the availability for tomorrow. About Pathirana, Simmons said his absence in the previous fixture was CSK being conservative and that there's not too much concern. \\n \\n<b>Matchups & Strategy:</b> Rinku Singh's ability to smash big runs in the death overs notwithstanding, the Sri Lankan duo of Matheesha Pathirana and Maheesh Theekshana have been incredibly effective in keeping the southpaw in check, combining to concede only 35 runs in 33 balls eventhough they have never been able to dismiss him. Should Pathirana make it to the XI, he'd be useful at the backend. \\n \\n<b>Probable XI:</b> Rachin Ravindra, Ruturaj Gaikwad, Ajinkya Rahane, Shivam Dube, Daryl Mitchell, Ravindra Jadeja, Sameer Rizvi/Mitchell Santner, MS Dhoni, Deepak Chahar, Tushar Deshpande, Maheesh Theekshana [Impact Substitute: Mukesh Choudhary] \\n \\n<b>Kolkata Knight Riders</b> \\n \\n<b>Injury/Unavailability:</b> \\n \\n<b>Matchups & Strategy:</b> Rachin Ravindra has shown signs of struggle against the moving ball outside off, and that is an area KKR would look to exploit against the CSK opener. \\n \\n<b>Probable XI:</b> Sunil Narine, Phil Salt, Angkrish Raghuvanshi, Shreyas Iyer, Venkatesh Iyer, Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Harshit Rana, Varun Chakravarthy [Impact Substitute: Suyash Sharma] \\n \\n<b>Did you know?</b> \\n \\n- CSK have lost only 8 out of 34 games played in Chepauk since 2013 \\n \\n- In 74 balls of face-off in the IPL, MS Dhoni has scored only 39 runs against Sunil Narine, which includes a solitary boundary \\n \\n<b>What they said:</b> \\n \\n\"I think his work-ethic. I think his strongest suit is his ability to work hard. Lot of people talk about skill as something that's really important but what really matters is the willingness to work hard. Because that is the sort of talent that not everyone possesses.\" - Abhishek Nayar on <b>Angkrish Raghavanshi</b> \\n \\n\"It's a long tournament. We wanted to be conservative about our decision making around him (Pathirana).\" - CSK bowling <b>Eric Simons</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712498713845,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1712498611078,
+    "commText": "<p><b>Chennai Super Kings</b> Squad: Rachin Ravindra, Ruturaj Gaikwad(c), Ajinkya Rahane, Shivam Dube, Ravindra Jadeja, Daryl Mitchell, MS Dhoni(w), Moeen Ali, Deepak Chahar, Tushar Deshpande, Maheesh Theekshana, Mukesh Choudhary, Shardul Thakur, Shaik Rasheed, Mitchell Santner, Sameer Rizvi, Devon Conway, Mustafizur Rahman, Ajay Jadav Mandal, Prashant Solanki, Simarjeet Singh, RS Hangargekar, Matheesha Pathirana, Nishant Sindhu, Aravelly Avanish</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -416,6 +26,7 @@
   {
     "timestamp": 1712498712556,
     "commText": "<p><b>Kolkata Knight Riders</b> Squad: Philip Salt(w), Sunil Narine, Angkrish Raghuvanshi, Andre Russell, Shreyas Iyer(c), Rinku Singh, Venkatesh Iyer, Ramandeep Singh, Mitchell Starc, Harshit Rana, Varun Chakaravarthy, Vaibhav Arora, Anukul Roy, Suyash Sharma, Manish Pandey, Rahmanullah Gurbaz, Dushmantha Chameera, Srikar Bharat, Nitish Rana, Chetan Sakariya, Sherfane Rutherford, Sakib Hussain, Allah Ghazanfar</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -437,8 +48,417 @@
     }
   },
   {
-    "timestamp": 1712498611078,
-    "commText": "<p><b>Chennai Super Kings</b> Squad: Rachin Ravindra, Ruturaj Gaikwad(c), Ajinkya Rahane, Shivam Dube, Ravindra Jadeja, Daryl Mitchell, MS Dhoni(w), Moeen Ali, Deepak Chahar, Tushar Deshpande, Maheesh Theekshana, Mukesh Choudhary, Shardul Thakur, Shaik Rasheed, Mitchell Santner, Sameer Rizvi, Devon Conway, Mustafizur Rahman, Ajay Jadav Mandal, Prashant Solanki, Simarjeet Singh, RS Hangargekar, Matheesha Pathirana, Nishant Sindhu, Aravelly Avanish</p>",
+    "timestamp": 1712498713845,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712498713855,
+    "commText": "<p><b>Preview</b> \\n \\nAfter a gap of almost two weeks, Chennai Super Kings are set to return to the MA Chidambaram Stadium, the venue where they registered their two wins. The time on the road hasn't been as fruitful for the defending champions, having lost their last two games, in Visakhapatnam and Hyderabad respectively. \\n \\nTouring them for their challenge on Monday are Kolkata Knight Riders, the Shreyas Iyer-led side which is yet to be beaten this season. The resurgence of Sunil Narine the batter as an opener has played a big part in KKR's dominance over the last couple of games, and they would hope for the pinch-hitter to hurt CSK as well. \\n \\nEven though it's a venue which has predominantly helped the slower bowlers, that's not how it has panned out so far this season, with a total in excess of 170 being chased down comfortably in the first game and the hosts posting 200-plus in the second. Even if the pitch used against KKR plays to the strength of the spinners, the visitors wouldn't be complaining. The team sitting atop the points table will want to hold onto their spot with a fourth win in four games, even as CSK aim to make a happy return home. \\n \\n<b>Head to head:</b> CSK have dominated against KKR, with a 18-10 record. In Chepauk, it goes to 7-3 \\n \\n<b>When:</b> Chennai Super Kings vs Kolkata Knight Riders, April 8, 2024, 7:30 PM IST \\n \\n<b>Where:</b> MA Chidambaram Stadium, Chennai \\n \\n<b>What to expect:</b> The matches at the venue have been high-scoring so far, and dew hasn't played much part. There could be some change in the third game of the season. \\n \\n<b>Team Watch</b> \\n \\n<b>Chennai Super Kings</b> \\n \\n<b>Injury/Unavailability:</b> Mustafizur Rahman's return from the US is imminent but the bowling coach Eric Simmons is not sure about the availability for tomorrow. About Pathirana, Simmons said his absence in the previous fixture was CSK being conservative and that there's not too much concern. \\n \\n<b>Matchups & Strategy:</b> Rinku Singh's ability to smash big runs in the death overs notwithstanding, the Sri Lankan duo of Matheesha Pathirana and Maheesh Theekshana have been incredibly effective in keeping the southpaw in check, combining to concede only 35 runs in 33 balls eventhough they have never been able to dismiss him. Should Pathirana make it to the XI, he'd be useful at the backend. \\n \\n<b>Probable XI:</b> Rachin Ravindra, Ruturaj Gaikwad, Ajinkya Rahane, Shivam Dube, Daryl Mitchell, Ravindra Jadeja, Sameer Rizvi/Mitchell Santner, MS Dhoni, Deepak Chahar, Tushar Deshpande, Maheesh Theekshana [Impact Substitute: Mukesh Choudhary] \\n \\n<b>Kolkata Knight Riders</b> \\n \\n<b>Injury/Unavailability:</b> \\n \\n<b>Matchups & Strategy:</b> Rachin Ravindra has shown signs of struggle against the moving ball outside off, and that is an area KKR would look to exploit against the CSK opener. \\n \\n<b>Probable XI:</b> Sunil Narine, Phil Salt, Angkrish Raghuvanshi, Shreyas Iyer, Venkatesh Iyer, Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Harshit Rana, Varun Chakravarthy [Impact Substitute: Suyash Sharma] \\n \\n<b>Did you know?</b> \\n \\n- CSK have lost only 8 out of 34 games played in Chepauk since 2013 \\n \\n- In 74 balls of face-off in the IPL, MS Dhoni has scored only 39 runs against Sunil Narine, which includes a solitary boundary \\n \\n<b>What they said:</b> \\n \\n\"I think his work-ethic. I think his strongest suit is his ability to work hard. Lot of people talk about skill as something that's really important but what really matters is the willingness to work hard. Because that is the sort of talent that not everyone possesses.\" - Abhishek Nayar on <b>Angkrish Raghavanshi</b> \\n \\n\"It's a long tournament. We wanted to be conservative about our decision making around him (Pathirana).\" - CSK bowling <b>Eric Simons</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712580736651,
+    "commText": "<p><b>18:25 Local Time, 12:55 GMT, 18:25 IST:</b> Three matches, three wins. Two of them thoroughly dominating. KKR\u2019s IPL 2024 campaign started with a close win against the Sunrisers but they were clinical against RCB at the Chinnaswamy. Against the Delhi Capitals they were even better, in fact outstanding. The ploy to open with Sunil Narine has proved to be a masterstroke once again, but expecting him to deliver every time is a bit too much. If he clicks again as an opener, it\u2019s good for the Knight Riders, and if he doesn\u2019t, his mystery spin is always going to be a threat. His alliance with Varun Chakravarthy can trouble the opposition batters on most of the days, especially on pitches conducive to spin.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712580839723,
+    "commText": "<p>Chennai Super Kings started off with a couple of wins, however, the men in yellow have struggled in away games, like most of the teams this season. Coming back to their home venue will be the ideal scenario for them to get back to winning ways. CSK batters have chipped in with handy contributions in most of their matches so far but none have been able to play a big innings. Ruturaj Gaikwad did it for them in the past, but the CSK skipper has looked vulnerable against left-arm pacers. He'll have to overcome the Mitchell Starc threat at the Chepauk tonight. The two games played yesterday were rather one-sided and dull, but both the teams playing today have some quality all-rounders, hence this contest should prove to be an exciting one. Daryl Mitchell, Shivam Dube, Andre Russell, Mitchell Starc, Rinku Singh - quite a few stars in action tonight. Which one of them will shine the brightest? We shall find out soon, for now stay around for the toss and teams..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712581653912,
+    "commText": "<p><b>Pitch and ground dimensions:</b> 65m and 66m square boundaries respectively, 80m down the ground. The pitch is rock hard, so the batters will have a great time here and the bowlers can expect some bounce. The spinners might extract some bounce as well. Just a couple of cracks on the surface, but overall a good batting wicket, reckons <b>Graeme Swann.</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712582242030,
+    "commText": "<p><b>Rachin Ravindra:</b> Playing for Chennai is very special, they have an amazing fan base, amazing cricketers in the dressing room. Has been a pretty cool experience so far with two wins and two losses, hopefully we can be a little better today. You always want to make an impact, that's what T20 cricket is all about. Sometimes you succeed, sometimes you fail. Hopefully I get the team off to a good start. This has been a pretty good wicket, nice and skiddy. There's a lot of experience in the dressing room, get to be there and soak it all in. I have spent time with Moeen Ali, he is a great man to learn from, with batting and some spin. Always nice to play at Chepauk, amazing atmosphere, always good to be playing in front of the home crowd. It's a also a wicket we know quite well, you just got to go out there and back your game plan. Sometimes the wicket can take a little bit hold, sometimes a bit of turn, we are willing to adapt to that. Always ready, will do whatever the skipper says.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712582916352,
+    "commText": "<p><b>Russell:</b> We've been doing well so far. We plan to take every game as it comes, not thinking too far ahead. KKR means so much. Seeing these same guys four times a year, four leagues now, it really means a lot. To be consistent with one franchise is always good. They've showed a lot of trust and confidence in me. I don't think anyone can compete with Dre Russ when it comes to hitting the biggest sixes. I just need one good length ball, and it's over. Rinku is a big competition - he's a pocket rocket. But I know my bat speed, and if I make good contact - 115 meters easy. Playing this game for so long, I try to focus on the opponent. Which bowler they have, what they like to do. I watch a lot of cricket. I do my homework before I play against any team. I watch what a bowler tends to do when he's under pressure, what he does to start the over. On the day it's about reacting to whatever you get, but you know you already did your homework. Gautam and Chandu sir have been very good with us, making sure we have what we want.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712582982063,
+    "commText": "<p>Right then, it's toss time..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712583073840,
+    "commText": "<p><b>Chennai Super Kings have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712583087577,
+    "commText": "<p><b>Ruturaj Gaikwad:</b> Good toss to win. It looks humid, expecting dew tonight, so we will bowl first. Hasn't dented our confidence, we have lost by small margins. Everyone is confident in our group, but we have had forced changes. Definitely looking forward to getting a win in this game. They are playing a good brand of cricket, we want to keep things simple and want to focus on ourselves. Pathirana is not available, Mustafizur is back. Deepak has a niggle so he misses out, Shardul comes in and Rizvi comes back.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712583199259,
+    "commText": "<p><b>Shreyas Iyer:</b> We would have bowled first. Think the attitude and approch irrespective of the situation, appreciate that about the players. We have assessed the conditions and adapted well. Everyone has stepped up and played fearless cricket. Everyone is stepping up at the right time. It's (head to head record) history, that was a different team and different situation. Our character is going to define how we are going to play here. We just need to keep things simple, that's better for us. Our focus is on the present. We are sticking to the same team.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712583307570,
+    "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Ruturaj Gaikwad(c), Rachin Ravindra, Ajinkya Rahane, Daryl Mitchell, Sameer Rizvi, Ravindra Jadeja, MS Dhoni(w), Shardul Thakur, Mustafizur Rahman, Tushar Deshpande, Maheesh Theekshana</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712583372315,
+    "commText": "<p><b>Kolkata Knight Riders</b> (Playing XI): Philip Salt(w), Sunil Narine, Venkatesh Iyer, Shreyas Iyer(c), Angkrish Raghuvanshi, Andre Russell, Rinku Singh, Ramandeep Singh, Mitchell Starc, Vaibhav Arora, Varun Chakaravarthy</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712583374000,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712583635691,
+    "commText": "<p><b>Chennai Super Kings Subs:</b> Shivam Dube, Moeen Ali, Shaik Rasheed, Mitchell Santner, Nishant Sindhu</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712583758005,
+    "commText": "<p><b>Kolkata Knight Riders Subs:</b> Suyash Sharma, Anukul Roy, Manish Pandey, Rahmanullah Gurbaz, Sakib Hussain</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712583832943,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712584596021,
+    "commText": "<p>Right then, the players are out in the middle. The CSK players are gathered in a huddle and the two KKR openers follow them.. Tushar to charge in with the new ball as he has a slip in place. Let's play!</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

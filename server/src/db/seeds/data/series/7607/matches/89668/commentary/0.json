@@ -1,421 +1,8 @@
 [
   {
-    "timestamp": 1711274234220,
-    "commText": "<p>The players are out in the middle - it's a hot afternoon in Jaipur and the endurance will be tested. <b>KL Rahul has taken the gloves</b>, we did hear reports of him being asked not to keep, at least for the first few games. The timer is up and Mohsin Khan steams in, a slip in place</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711273963609,
-    "commText": "<p>We've retained our pre-toss XI for Match 4 of the Indian Premier League. Have a look at our Fantasy Handbook before you lock in your team</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711273556262,
-    "commText": "<p>KL Rahul has been listed to open for LSG, that's an interesting team sheet considering the pre-tournament talk of him going down the order. It'll be interesting to see LSG's approach when they come out for the chase..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711273354204,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711273315380,
-    "commText": "<p><b>Lucknow Super Giants Subs: </b>Deepak Hooda, Mayank Yadav, Amit Mishra, Prerak Mankad, K Gowtham</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711273259477,
-    "commText": "<p><b>Rajasthan Royals Subs:</b> Nandre Burger, Rovman Powell, Tanush Kotian, Shubham Dube, Kuldeep Sen</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711273093260,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711273090721,
-    "commText": "<p><b>Lucknow Super Giants</b> (Playing XI): KL Rahul(c/w), Quinton de Kock, Devdutt Padikkal, Ayush Badoni, Marcus Stoinis, Nicholas Pooran, Krunal Pandya, Ravi Bishnoi, Mohsin Khan, Naveen-ul-Haq, Yash Thakur</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711273037537,
-    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Shimron Hetmyer, Dhruv Jurel, Ravichandran Ashwin, Sandeep Sharma, Avesh Khan, Trent Boult, Yuzvendra Chahal</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711272875274,
-    "commText": "<p><b>KL Rahul</b> - We would have batted first as well, but the wicket does look good. I'm happy to be back on the field, injury has become my best friend over the last couple of years, but it makes you hungry and perform much better when you're back. QdK, Pooran, Stoinis and Naveen-ul-Haq are our four overseas options. The focus is on this game for us at the moment.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711272859538,
-    "commText": "<p><b>Sanju Samson</b> - We would\u00a0like to bat first today. Looks like a good batting wicket, we were ok to do both, but we've a different combination today. Coming back to Jaipur gives positive vibes in the dressing room. Riyan Parag will be our number 4, Jos, Hetty, Boult are there - Powell could come in as an impact player.\u00a0</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711272676913,
-    "commText": "<p><b>Rajasthan Royals have won the toss and have opted to bat</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711271929249,
-    "commText": "<p>Devdutt Padikkal has been given his LSG cap in the team huddle. With KL going to the middle-order, he should be opening in all probability</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711271890011,
-    "commText": "<p><b>Quinton de Kock</b> - I think he's trying to keep everyone relaxed and calm, his demeanour has been chilled and he's kept everyone cool and calm. To be honest, I'm not too sure, I'm not part of the brain trust, you'll need to ask the big dogs in the team management. I don't know the reason (on why KL will not take the gloves), but we've been told he'll not keep for the first few games</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711271890001,
-    "commText": "<p><b>Yashasvi Jaiswal, speaking to the host broadcaster</b> - I just want to try and give my team a good start. I'll just\u00a0try and play the way I usually do. Very excited to be playing in Jaipur, we've had a lot of fans here and we'll hope to give them a good game, anything\u00a0can happen in a game of cricket, but we'll try our best. I will just execute my process and enjoy my batting</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711270624787,
-    "commText": "<p>We have a 62m and a 70m square boundary, the straight boundary is at 79m. The pitch looks brown and doesn't have a lot of grass on it. The cracks are moving which suggests that it's very dry. Spinners will\u00a0play a big role, it's important to get off to a good start in the first 6 overs, reckon <b>Samuel Badree and Matthew Hayden</b>, in their pitch report</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711270000373,
-    "commText": "<p>Both teams, despite having contrasting fortunes in the last edition, have a lot in common for 2024. Both teams have the core intact and didn't fish for too many players at the auction ahead of this year's IPL. Buttler will still be the batting core around which the other Royals will look to revolve. KL Rahul will be at the forefront for Lucknow and he'll bat in the middle-order and without the gloves. Devdutt Padikkal was traded in and he could be LSG's opener this season. Ravi Ashwin and Yuzvendra Chahal will lead the bowling affairs at Rajasthan and Naveen-ul-Haq and Ravi Bishnoi will look to do the same for Lucknow.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711269905841,
-    "commText": "<p><b>14:15 Local Time, 08:45 GMT, 14:15 IST:</b> If blow hot blow cold had a definition, Rajasthan Royals would be an apt fit for that. Lucknow on the other hand would be defined by the adage 'So Near Yet So Far'. Rajasthan made the finals in 2022 but their batters had cold feet and they messed up a golden chance after their initial triumph in 2008. Lucknow in both their seasons have made the play-offs but have come a cropper in the final stages. But that's in the past. Welcome to 2024. Welcome to the 4th game of IPL 2024.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711190318478,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1711190138376,
+    "commText": "<p><b>Lucknow Super Giants</b> Squad: Devdutt Padikkal, Quinton de Kock, Deepak Hooda, KL Rahul(w/c), Nicholas Pooran, Marcus Stoinis, Krunal Pandya, Ravi Bishnoi, Mohsin Khan, Naveen-ul-Haq, Shivam Mavi, Amit Mishra, Shamar Joseph, David Willey, Kyle Mayers, Ashton Turner, Krishnappa Gowtham, Prerak Mankad, Yash Thakur, Manimaran Siddharth, Ayush Badoni, Yudhvir Singh Charak, Arshad Khan, Mayank Yadav, Arshin Kulkarni</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -439,6 +26,7 @@
   {
     "timestamp": 1711190317046,
     "commText": "<p><b>Rajasthan Royals</b> Squad: Jos Buttler, Yashasvi Jaiswal, Sanju Samson(w/c), Shimron Hetmyer, Dhruv Jurel, Rovman Powell, Riyan Parag, Shubham Dubey, Ravichandran Ashwin, Avesh Khan, Trent Boult, Yuzvendra Chahal, Sandeep Sharma, Navdeep Saini, Tom Kohler-Cadmore, Prasidh Krishna, Tanush Kotian, Nandre Burger, Kuldeep Sen, Donovan Ferreira, Abid Mushtaq, Kunal Singh Rathore</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -460,8 +48,441 @@
     }
   },
   {
-    "timestamp": 1711190138376,
-    "commText": "<p><b>Lucknow Super Giants</b> Squad: Devdutt Padikkal, Quinton de Kock, Deepak Hooda, KL Rahul(w/c), Nicholas Pooran, Marcus Stoinis, Krunal Pandya, Ravi Bishnoi, Mohsin Khan, Naveen-ul-Haq, Shivam Mavi, Amit Mishra, Shamar Joseph, David Willey, Kyle Mayers, Ashton Turner, Krishnappa Gowtham, Prerak Mankad, Yash Thakur, Manimaran Siddharth, Ayush Badoni, Yudhvir Singh Charak, Arshad Khan, Mayank Yadav, Arshin Kulkarni</p>",
+    "timestamp": 1711190318478,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711269905841,
+    "commText": "<p><b>14:15 Local Time, 08:45 GMT, 14:15 IST:</b> If blow hot blow cold had a definition, Rajasthan Royals would be an apt fit for that. Lucknow on the other hand would be defined by the adage 'So Near Yet So Far'. Rajasthan made the finals in 2022 but their batters had cold feet and they messed up a golden chance after their initial triumph in 2008. Lucknow in both their seasons have made the play-offs but have come a cropper in the final stages. But that's in the past. Welcome to 2024. Welcome to the 4th game of IPL 2024.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711270000373,
+    "commText": "<p>Both teams, despite having contrasting fortunes in the last edition, have a lot in common for 2024. Both teams have the core intact and didn't fish for too many players at the auction ahead of this year's IPL. Buttler will still be the batting core around which the other Royals will look to revolve. KL Rahul will be at the forefront for Lucknow and he'll bat in the middle-order and without the gloves. Devdutt Padikkal was traded in and he could be LSG's opener this season. Ravi Ashwin and Yuzvendra Chahal will lead the bowling affairs at Rajasthan and Naveen-ul-Haq and Ravi Bishnoi will look to do the same for Lucknow.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711270624787,
+    "commText": "<p>We have a 62m and a 70m square boundary, the straight boundary is at 79m. The pitch looks brown and doesn't have a lot of grass on it. The cracks are moving which suggests that it's very dry. Spinners will\u00a0play a big role, it's important to get off to a good start in the first 6 overs, reckon <b>Samuel Badree and Matthew Hayden</b>, in their pitch report</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711271890001,
+    "commText": "<p><b>Yashasvi Jaiswal, speaking to the host broadcaster</b> - I just want to try and give my team a good start. I'll just\u00a0try and play the way I usually do. Very excited to be playing in Jaipur, we've had a lot of fans here and we'll hope to give them a good game, anything\u00a0can happen in a game of cricket, but we'll try our best. I will just execute my process and enjoy my batting</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711271890011,
+    "commText": "<p><b>Quinton de Kock</b> - I think he's trying to keep everyone relaxed and calm, his demeanour has been chilled and he's kept everyone cool and calm. To be honest, I'm not too sure, I'm not part of the brain trust, you'll need to ask the big dogs in the team management. I don't know the reason (on why KL will not take the gloves), but we've been told he'll not keep for the first few games</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711271929249,
+    "commText": "<p>Devdutt Padikkal has been given his LSG cap in the team huddle. With KL going to the middle-order, he should be opening in all probability</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711272676913,
+    "commText": "<p><b>Rajasthan Royals have won the toss and have opted to bat</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711272859538,
+    "commText": "<p><b>Sanju Samson</b> - We would\u00a0like to bat first today. Looks like a good batting wicket, we were ok to do both, but we've a different combination today. Coming back to Jaipur gives positive vibes in the dressing room. Riyan Parag will be our number 4, Jos, Hetty, Boult are there - Powell could come in as an impact player.\u00a0</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711272875274,
+    "commText": "<p><b>KL Rahul</b> - We would have batted first as well, but the wicket does look good. I'm happy to be back on the field, injury has become my best friend over the last couple of years, but it makes you hungry and perform much better when you're back. QdK, Pooran, Stoinis and Naveen-ul-Haq are our four overseas options. The focus is on this game for us at the moment.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711273037537,
+    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Shimron Hetmyer, Dhruv Jurel, Ravichandran Ashwin, Sandeep Sharma, Avesh Khan, Trent Boult, Yuzvendra Chahal</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711273090721,
+    "commText": "<p><b>Lucknow Super Giants</b> (Playing XI): KL Rahul(c/w), Quinton de Kock, Devdutt Padikkal, Ayush Badoni, Marcus Stoinis, Nicholas Pooran, Krunal Pandya, Ravi Bishnoi, Mohsin Khan, Naveen-ul-Haq, Yash Thakur</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711273093260,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711273259477,
+    "commText": "<p><b>Rajasthan Royals Subs:</b> Nandre Burger, Rovman Powell, Tanush Kotian, Shubham Dube, Kuldeep Sen</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711273315380,
+    "commText": "<p><b>Lucknow Super Giants Subs: </b>Deepak Hooda, Mayank Yadav, Amit Mishra, Prerak Mankad, K Gowtham</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711273354204,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711273556262,
+    "commText": "<p>KL Rahul has been listed to open for LSG, that's an interesting team sheet considering the pre-tournament talk of him going down the order. It'll be interesting to see LSG's approach when they come out for the chase..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711273963609,
+    "commText": "<p>We've retained our pre-toss XI for Match 4 of the Indian Premier League. Have a look at our Fantasy Handbook before you lock in your team</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711274234220,
+    "commText": "<p>The players are out in the middle - it's a hot afternoon in Jaipur and the endurance will be tested. <b>KL Rahul has taken the gloves</b>, we did hear reports of him being asked not to keep, at least for the first few games. The timer is up and Mohsin Khan steams in, a slip in place</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

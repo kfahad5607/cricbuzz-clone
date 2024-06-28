@@ -1,398 +1,8 @@
 [
   {
-    "timestamp": 1713016647957,
-    "commText": "<p>The players are out in the middle. Some final words from Sam Curran before the Kings disperse. A new opening combination for them with Atharva Taide opening with Jonny Bairstow - Trent Boult with the new ball, a slip in place</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713015758328,
-    "commText": "<p><b>Here are the impact subs for both teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713015740608,
-    "commText": "<p><b>Rajasthan Impact Subs: </b>Yashasvi Jaiswal, Tom Kohler-Cadmore, Shubham Dubey, Navdeep Saini, Abid Mushtaq</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713015695047,
-    "commText": "<p><b>Punjab Kings Impact Subs:</b> Rahul Chahar, Ashutosh Sharma, Vidhwath Kaverappa, Harpreet Singh Bhatia, Nathan Ellis</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713015684904,
-    "commText": "<p>Plenty of forced changes in both teams and we've been forced into making changes in our expert XI as well. Yashasvi Jaiswal could be RR's impact player and Punjab Kings do have several options to come off the bench. Have a look at our team before finalising your fantasy picks</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713015674760,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713015672768,
-    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Rovman Powell, Tanush Kotian, Keshav Maharaj, Trent Boult, Avesh Khan, Kuldeep Sen, Yuzvendra Chahal</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713015511926,
-    "commText": "<p><b>Punjab Kings</b> (Playing XI): Jonny Bairstow, Atharva Taide, Prabhsimran Singh, Sam Curran(c), Liam Livingstone, Jitesh Sharma(w), Shashank Singh, Harpreet Brar, Harshal Patel, Arshdeep Singh, Kagiso Rabada</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713015268881,
-    "commText": "<p><b>Sam Curran</b> - Shikhar picked up a niggle, that's why I'm here. We would have bowled first as well, but we'll now have to put the runs on the board. The balance has been good, we'd have liked to win a few more games, but the middle-order looks good, especially Shashank and Ashutosh. We've got exciting players and plenty of quality. We've Atharva Taide coming in for Shikhar tonight, Livingstone is back as well</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713015244879,
-    "commText": "<p><b>Sanju Samson </b>- We'll bowl first, it looks like a decent wicket to bowl first. We've made a target to not think about the goal, focus on the process, work on building the team and we're doing well. A lot of challenges outside as well, we've many players missing from tonight's game. 90% of the game was good - Jos isn't 100%, Ash bhai is having a niggle, so Rovman and Tanush Kotian come into the XI</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713015067334,
-    "commText": "<p><b>Rajasthan Royals have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713014865050,
-    "commText": "<p><b>Breaking News</b>: No Shikhar Dhawan at the toss for Punjab Kings, Sam Curran is walking out tonight. That's a bit strange considering that Jitesh Sharma is the designated vice-captain</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713013732782,
-    "commText": "<p><b>Shimron Hetmyer: </b>(Talk after the last game) It's just about not reflecting too much on it. We know what we did wrong, not really wrong, we know where they (GT) excelled a little bit better than us in the last couple of overs. We really thought that we were doing pretty fine for the first 16 overs and then mainly in the last four overs is where they really went ahead in the game. Just for us to continue to do the good things we have been doing so far. Not to dwell too much on the past, I actually forgot about that (previous season) until I kept hearing it on the TV. Just push that aside and think about one game at a time, focus on what we can control, which is going out and playing our best cricket. (On facing just 25 balls this season) I actually keep telling them (other batters) to keep continuing to do the good job they are doing so I don't have to go and waste energy, I just go and field and do the best that I can in the field. So fat it's been fantastic to sit inside and watch the guys do their jobs. Riyan has been a revelation for us so far, hope that he continues. The skipper - he's just doing what he does. And all the other guys have made runs as well, they have been doing a fantastic job. Myself, I am just inside, just looking on and trying my best to do what I need to do in training and just making sure that if I do get the opportunity, I am all ready to go.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713013589367,
-    "commText": "<p><b>Harshal Patel</b> - Coming into the game and the camp we had before the season started, the takeaway was that length ball was the hardest to hit here. There is a bit of bounce, so you can't simply hit across the line. So the chat has been to bowl hard lengths at this venue. The game is changing, the addition of impact sub is allowing batting depth to 7,8 and even 9. It means you're not bowling to a tailender any longer even if you take wickets regularly, it does make a huge difference when there are two proper batters batting at 7 and 8. The batters upfront are not afraid of playing their shots and that's the reason you've high scores this season. Bowling in the death hasn't been easy for anyone, for me, the important thing is to assess the condition and pick wickets in the middle overs, it allows things to become slightly easier going into the death overs. It's about sequencing for me, every bowler bowling in the death overs has the skills, but you'll have to back your type of bowling in the death overs and that's where our focus is always.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713013190300,
-    "commText": "<p>Only two matches so far at this venue and we are playing on pitch number 4 today. 75m straight\u00a0boundary, while the square boundaries are at 64m and 67m respectively. There is a tinge of green grass, 100% black soil, so water retention is higher. Some seam movement for the seamers who should dominate here. You'll need to bowl in that good length and the line should be around\u00a0off or just outside off. There is a little bit of dew factor, so you would want to bowl first, but you can win by batting first as well. 180 should be a par score on this wicket, reckons <b>Daren Ganga</b>, in his pitch report</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713012619952,
-    "commText": "<p><b>18:20 Local Time, 12:50 GMT, 18:20 IST:</b> We're back in Mullanpur as the hosts take on table toppers Rajasthan Royals in what should be another cracking game of T20 cricket. These two teams have had quite an eventful past - high-scoring chases, close contests and a bit of controversy as well. As things stand, the Royals are well placed, but they'd want to get back to winning ways after having suffered their first defeat of the season to the Gujarat Titans, they will look to get their campaign back on track. On the other hand, the Kings came agonisingly close to beating the Sunrisers after another Shashank Singh - Ashutosh Sharma near heist. Can they take the confidence from that game and secure another win at home tonight?</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712930810183,
-    "commText": "<p><b>Preview</b> <b>by Purnima Malhotra</b> \\n \\n Not so long ago, Rajasthan Royals were the leading wicket-takers in PowerPlays in IPL 2024 with nine scalps, Trent Boult leading the charge for them with five of those strikes. They've gone two games without a breakthrough in that phase since, and in pace-friendly conditions at Mullanpur the onus will be on the quicks again to get their campaign back on track when they take on an unpredictable Punjab Kings on Saturday. \\n \\nIt was at this point in the last edition that RR's campaign lost steam. They had started off IPL 2023 similarly with a resounding 4-1 scoreline in their first-five games but went on to lose six of the last nine to fail to make it in the top-four. At the beginning of what would be a long away leg now - RR are on the road for their next six out of seven matches - the current table-toppers would be hoping it's just a mere coincidence, and their last-ball defeat to GT two nights ago only a minor blip. \\n \\nIncidentally, Kings are more desperate for those two points to resuscitate their campaign. They've lost three of their first five games, are placed eighth, and have had a mixed bag at their new home where there's been considerable movement for the pacers under lights. Their narrow two-run defeat against SRH earlier this week, though, was due to the minimal returns from some of the biggest batting attractions in their first-choice XI that left too much to accomplish for the finishers for a second successive game. \\n \\nPrabhsimran Singh, who has been consistently backed as the Impact Sub, opener Jonny Bairstow and power-hitter Jitesh Sharma have not lived up to the billing thus far, where as Shikhar Dhawan and Sam Curran only have a couple of notable knocks to their name before their form tapered off. While the opening woes are alike for both sides - the middle-overs phase is where RR have been saved by the purple patch of their captain Sanju Samson, also in the race for that World Cup keeper's slot alongside Jitesh, and their new no. 4, Riyan Parag. Punjab's top-three have collectively produced only one 50+ score between them. \\n \\nHowever, the silver lining to this has been the emergence of Shashank Singh and Ashutosh Sharma as finishers par excellence, successfully chasing down the 200-run target in Ahmedabad and only narrowly missing out on producing an encore for the home crowd the very next game. \\n \\nBowling wise, however, the last outing saw a few amends despite conceding far too many for their liking in the middle-overs phase. Arshdeep Singh's four-fer was a shot in the arm for Punjab who have struggled for consistency throughout their first-choice bowling attack. By bowling out Harshal Patel (2/30) before death, who had been expensive until the last game, the hosts were also able to minimise the leakage at the backend even as Kagiso Rabada and Harpreet Brar had a rare off day. The RR openers might have struggled to put up a show (barring one century knock from Jos Buttler) resulting in dimal Powerplay numbers, but they have absolutely bossed the other two phases with run-rates of 9.33 through the middle-overs that shoots up to 12.3 at death, and therein lies the biggest challenge for PBKS tomorrow. \\n \\n<b>When</b>: Punjab Kings vs Rajasthan Royals, Match 27 on April 13 at 19:30 hours \\n \\n<b>Where:</b> Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh \\n \\n<b>What to expect:</b> The newly inaugurated stadium has seen pace-friendly surfaces. In the two games here - one afternoon and one night - quicks have been more successful, claiming 23 wickets as opposed to just four for spinners. Chasing has been the preferred choice here, albeit with mixed results. \\n \\n<b>Head to Head:</b> RR lead 15-11 in their 26 meetings with PBKS. They've also had the wood over Punjab in this decade, winning five of the seven games since IPL 2020. \\n \\n<b>Teams Watch</b> \\n \\n<b>Punjab Kings</b> \\n \\n<b>Injuries/Unavailability:</b> Liam Livingstone spent considerable time batting against the spinners, almost in a six-hitting contest with Jos Buttler in the parallel nets, in the pre-match optional training session. However, PBKS maintained that the final call on his return to the XI will be taken closer to the game. \\n \\n<b>Tactics & Matchups:</b> Yashasvi Jaiswal hasn't exactly fired in IPL 2024 yet, and there's a concerning pattern already. The young RR opener has lost his wicket to left-arm pacers thrice this year in five games and averages a miserly 11.33 against them. PBKS' Arshdeep Singh too boasts of a stellar record against the opener, having dismissed him twice in 15 balls in their nascent IPL rivalry. \\n \\n<b>Probable XI:</b> Shikhar Dhawan (C), Jonny Bairstow, Prabsimran Singh, Sam Curran, Sikandar Raza/Liam Livingstone, Jitesh Sharma (wk), Shashank Singh, Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada [Impact sub: Arshdeep Singh] \\n \\n<b>Rajasthan Royals</b> \\n \\n<b>Injuries/Unavailability:</b> An update on Nandre Burger and Sandeep Sharma's match-fitness is still awaited from the RR medical team. \\n \\n<b>Tactics & Matchups:</b> It wouldn't entirely be a surprise if RR throw the new ball to Yuzvendra Chahal, who has had the wood over both the Punjab openers in IPL. Chahal has dismissed Shikhar Dhawan and Jonny Bairstow thrice each with the Englishman recording particularly poor numbers - an average of just 8.7 and strike-rate of 92.9. \\n \\n<b>Probable XI:</b> Yashasvi Jaiswal, Jos Buttler, Sanju Samson (C, wk), Riyan Parag, Shimron Hetmyer, Dhruv Jurel, R Ashwin, Trent Boult, Avesh Khan, Kuldeep Sen, Yuzvendra Chahal [Impact sub: Keshav Maharaj/Nandre Burger] \\n \\n<b>Did you know?</b> \\n \\n- <b>Yuzvendra Chahal</b> needs just three wickets more to become the first bowler in IPL history to bag 200 scalps \\n \\n- <b>Jos Buttler</b> needs 65 more to complete 500 runs vs PBKS \\n \\n- Across his T20 career, Ashutosh holds the record for the second fastest 50 in all T20s and the fastest by an Indian batter (off just 11 balls) and has a career SR of 197.95 \\n \\n<b>What they said:</b> \\n \\n\"He's in a positive mindset. We want him to take wickets for us. The other night he started well. His mindset is very positive, he is a wicket-taker for us. On the night, someone's not going to perform [as well] but I felt the other night he was on song for us, he started well. He hit the intensity, and I won't be worried about him\" - <b>Charl Langeveldt,</b> PBKS bowling coach, on Rabada's off game \\n \\n\"Winning at home is very crucial in terms of reaching the next stage of qualification and I think we've done that relatively well. There's still a lot more cricket to go... But also, having said that, winning at home you also still need to make sure you get the results on the road. But I think with the quick turnarounds and stuff, it's just about being mentally fresh and recovered and doing your analysis work. I think the beauty of it is the amount of local talent that we have within our squad and being exposed to various conditions. Hopefully we can rely on that knowledge and combat teams in their own home conditions\" - Keshav Maharaj, on RR's long away leg</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712930810173,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1712930644908,
+    "commText": "<p><b>Punjab Kings</b> Squad: Shikhar Dhawan(c), Jonny Bairstow, Prabhsimran Singh, Sam Curran, Sikandar Raza, Shashank Singh, Jitesh Sharma(w), Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada, Arshdeep Singh, Nathan Ellis, Tanay Thyagarajan, Rahul Chahar, Rishi Dhawan, Vidhwath Kaverappa, Rilee Rossouw, Harpreet Singh Bhatia, Chris Woakes, Liam Livingstone, Atharva Taide, Shivam Singh, Prince Choudhary, Vishwanath Singh</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -416,6 +26,7 @@
   {
     "timestamp": 1712930805701,
     "commText": "<p><b>Rajasthan Royals</b> Squad: Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Shimron Hetmyer, Dhruv Jurel, Ravichandran Ashwin, Trent Boult, Avesh Khan, Kuldeep Sen, Yuzvendra Chahal, Keshav Maharaj, Rovman Powell, Tanush Kotian, Shubham Dubey, Navdeep Saini, Nandre Burger, Abid Mushtaq, Sandeep Sharma, Tom Kohler-Cadmore, Donovan Ferreira, Kunal Singh Rathore</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -437,8 +48,417 @@
     }
   },
   {
-    "timestamp": 1712930644908,
-    "commText": "<p><b>Punjab Kings</b> Squad: Shikhar Dhawan(c), Jonny Bairstow, Prabhsimran Singh, Sam Curran, Sikandar Raza, Shashank Singh, Jitesh Sharma(w), Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada, Arshdeep Singh, Nathan Ellis, Tanay Thyagarajan, Rahul Chahar, Rishi Dhawan, Vidhwath Kaverappa, Rilee Rossouw, Harpreet Singh Bhatia, Chris Woakes, Liam Livingstone, Atharva Taide, Shivam Singh, Prince Choudhary, Vishwanath Singh</p>",
+    "timestamp": 1712930810173,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712930810183,
+    "commText": "<p><b>Preview</b> <b>by Purnima Malhotra</b> \\n \\n Not so long ago, Rajasthan Royals were the leading wicket-takers in PowerPlays in IPL 2024 with nine scalps, Trent Boult leading the charge for them with five of those strikes. They've gone two games without a breakthrough in that phase since, and in pace-friendly conditions at Mullanpur the onus will be on the quicks again to get their campaign back on track when they take on an unpredictable Punjab Kings on Saturday. \\n \\nIt was at this point in the last edition that RR's campaign lost steam. They had started off IPL 2023 similarly with a resounding 4-1 scoreline in their first-five games but went on to lose six of the last nine to fail to make it in the top-four. At the beginning of what would be a long away leg now - RR are on the road for their next six out of seven matches - the current table-toppers would be hoping it's just a mere coincidence, and their last-ball defeat to GT two nights ago only a minor blip. \\n \\nIncidentally, Kings are more desperate for those two points to resuscitate their campaign. They've lost three of their first five games, are placed eighth, and have had a mixed bag at their new home where there's been considerable movement for the pacers under lights. Their narrow two-run defeat against SRH earlier this week, though, was due to the minimal returns from some of the biggest batting attractions in their first-choice XI that left too much to accomplish for the finishers for a second successive game. \\n \\nPrabhsimran Singh, who has been consistently backed as the Impact Sub, opener Jonny Bairstow and power-hitter Jitesh Sharma have not lived up to the billing thus far, where as Shikhar Dhawan and Sam Curran only have a couple of notable knocks to their name before their form tapered off. While the opening woes are alike for both sides - the middle-overs phase is where RR have been saved by the purple patch of their captain Sanju Samson, also in the race for that World Cup keeper's slot alongside Jitesh, and their new no. 4, Riyan Parag. Punjab's top-three have collectively produced only one 50+ score between them. \\n \\nHowever, the silver lining to this has been the emergence of Shashank Singh and Ashutosh Sharma as finishers par excellence, successfully chasing down the 200-run target in Ahmedabad and only narrowly missing out on producing an encore for the home crowd the very next game. \\n \\nBowling wise, however, the last outing saw a few amends despite conceding far too many for their liking in the middle-overs phase. Arshdeep Singh's four-fer was a shot in the arm for Punjab who have struggled for consistency throughout their first-choice bowling attack. By bowling out Harshal Patel (2/30) before death, who had been expensive until the last game, the hosts were also able to minimise the leakage at the backend even as Kagiso Rabada and Harpreet Brar had a rare off day. The RR openers might have struggled to put up a show (barring one century knock from Jos Buttler) resulting in dimal Powerplay numbers, but they have absolutely bossed the other two phases with run-rates of 9.33 through the middle-overs that shoots up to 12.3 at death, and therein lies the biggest challenge for PBKS tomorrow. \\n \\n<b>When</b>: Punjab Kings vs Rajasthan Royals, Match 27 on April 13 at 19:30 hours \\n \\n<b>Where:</b> Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh \\n \\n<b>What to expect:</b> The newly inaugurated stadium has seen pace-friendly surfaces. In the two games here - one afternoon and one night - quicks have been more successful, claiming 23 wickets as opposed to just four for spinners. Chasing has been the preferred choice here, albeit with mixed results. \\n \\n<b>Head to Head:</b> RR lead 15-11 in their 26 meetings with PBKS. They've also had the wood over Punjab in this decade, winning five of the seven games since IPL 2020. \\n \\n<b>Teams Watch</b> \\n \\n<b>Punjab Kings</b> \\n \\n<b>Injuries/Unavailability:</b> Liam Livingstone spent considerable time batting against the spinners, almost in a six-hitting contest with Jos Buttler in the parallel nets, in the pre-match optional training session. However, PBKS maintained that the final call on his return to the XI will be taken closer to the game. \\n \\n<b>Tactics & Matchups:</b> Yashasvi Jaiswal hasn't exactly fired in IPL 2024 yet, and there's a concerning pattern already. The young RR opener has lost his wicket to left-arm pacers thrice this year in five games and averages a miserly 11.33 against them. PBKS' Arshdeep Singh too boasts of a stellar record against the opener, having dismissed him twice in 15 balls in their nascent IPL rivalry. \\n \\n<b>Probable XI:</b> Shikhar Dhawan (C), Jonny Bairstow, Prabsimran Singh, Sam Curran, Sikandar Raza/Liam Livingstone, Jitesh Sharma (wk), Shashank Singh, Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada [Impact sub: Arshdeep Singh] \\n \\n<b>Rajasthan Royals</b> \\n \\n<b>Injuries/Unavailability:</b> An update on Nandre Burger and Sandeep Sharma's match-fitness is still awaited from the RR medical team. \\n \\n<b>Tactics & Matchups:</b> It wouldn't entirely be a surprise if RR throw the new ball to Yuzvendra Chahal, who has had the wood over both the Punjab openers in IPL. Chahal has dismissed Shikhar Dhawan and Jonny Bairstow thrice each with the Englishman recording particularly poor numbers - an average of just 8.7 and strike-rate of 92.9. \\n \\n<b>Probable XI:</b> Yashasvi Jaiswal, Jos Buttler, Sanju Samson (C, wk), Riyan Parag, Shimron Hetmyer, Dhruv Jurel, R Ashwin, Trent Boult, Avesh Khan, Kuldeep Sen, Yuzvendra Chahal [Impact sub: Keshav Maharaj/Nandre Burger] \\n \\n<b>Did you know?</b> \\n \\n- <b>Yuzvendra Chahal</b> needs just three wickets more to become the first bowler in IPL history to bag 200 scalps \\n \\n- <b>Jos Buttler</b> needs 65 more to complete 500 runs vs PBKS \\n \\n- Across his T20 career, Ashutosh holds the record for the second fastest 50 in all T20s and the fastest by an Indian batter (off just 11 balls) and has a career SR of 197.95 \\n \\n<b>What they said:</b> \\n \\n\"He's in a positive mindset. We want him to take wickets for us. The other night he started well. His mindset is very positive, he is a wicket-taker for us. On the night, someone's not going to perform [as well] but I felt the other night he was on song for us, he started well. He hit the intensity, and I won't be worried about him\" - <b>Charl Langeveldt,</b> PBKS bowling coach, on Rabada's off game \\n \\n\"Winning at home is very crucial in terms of reaching the next stage of qualification and I think we've done that relatively well. There's still a lot more cricket to go... But also, having said that, winning at home you also still need to make sure you get the results on the road. But I think with the quick turnarounds and stuff, it's just about being mentally fresh and recovered and doing your analysis work. I think the beauty of it is the amount of local talent that we have within our squad and being exposed to various conditions. Hopefully we can rely on that knowledge and combat teams in their own home conditions\" - Keshav Maharaj, on RR's long away leg</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713012619952,
+    "commText": "<p><b>18:20 Local Time, 12:50 GMT, 18:20 IST:</b> We're back in Mullanpur as the hosts take on table toppers Rajasthan Royals in what should be another cracking game of T20 cricket. These two teams have had quite an eventful past - high-scoring chases, close contests and a bit of controversy as well. As things stand, the Royals are well placed, but they'd want to get back to winning ways after having suffered their first defeat of the season to the Gujarat Titans, they will look to get their campaign back on track. On the other hand, the Kings came agonisingly close to beating the Sunrisers after another Shashank Singh - Ashutosh Sharma near heist. Can they take the confidence from that game and secure another win at home tonight?</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713013190300,
+    "commText": "<p>Only two matches so far at this venue and we are playing on pitch number 4 today. 75m straight\u00a0boundary, while the square boundaries are at 64m and 67m respectively. There is a tinge of green grass, 100% black soil, so water retention is higher. Some seam movement for the seamers who should dominate here. You'll need to bowl in that good length and the line should be around\u00a0off or just outside off. There is a little bit of dew factor, so you would want to bowl first, but you can win by batting first as well. 180 should be a par score on this wicket, reckons <b>Daren Ganga</b>, in his pitch report</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713013589367,
+    "commText": "<p><b>Harshal Patel</b> - Coming into the game and the camp we had before the season started, the takeaway was that length ball was the hardest to hit here. There is a bit of bounce, so you can't simply hit across the line. So the chat has been to bowl hard lengths at this venue. The game is changing, the addition of impact sub is allowing batting depth to 7,8 and even 9. It means you're not bowling to a tailender any longer even if you take wickets regularly, it does make a huge difference when there are two proper batters batting at 7 and 8. The batters upfront are not afraid of playing their shots and that's the reason you've high scores this season. Bowling in the death hasn't been easy for anyone, for me, the important thing is to assess the condition and pick wickets in the middle overs, it allows things to become slightly easier going into the death overs. It's about sequencing for me, every bowler bowling in the death overs has the skills, but you'll have to back your type of bowling in the death overs and that's where our focus is always.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713013732782,
+    "commText": "<p><b>Shimron Hetmyer: </b>(Talk after the last game) It's just about not reflecting too much on it. We know what we did wrong, not really wrong, we know where they (GT) excelled a little bit better than us in the last couple of overs. We really thought that we were doing pretty fine for the first 16 overs and then mainly in the last four overs is where they really went ahead in the game. Just for us to continue to do the good things we have been doing so far. Not to dwell too much on the past, I actually forgot about that (previous season) until I kept hearing it on the TV. Just push that aside and think about one game at a time, focus on what we can control, which is going out and playing our best cricket. (On facing just 25 balls this season) I actually keep telling them (other batters) to keep continuing to do the good job they are doing so I don't have to go and waste energy, I just go and field and do the best that I can in the field. So fat it's been fantastic to sit inside and watch the guys do their jobs. Riyan has been a revelation for us so far, hope that he continues. The skipper - he's just doing what he does. And all the other guys have made runs as well, they have been doing a fantastic job. Myself, I am just inside, just looking on and trying my best to do what I need to do in training and just making sure that if I do get the opportunity, I am all ready to go.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713014865050,
+    "commText": "<p><b>Breaking News</b>: No Shikhar Dhawan at the toss for Punjab Kings, Sam Curran is walking out tonight. That's a bit strange considering that Jitesh Sharma is the designated vice-captain</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713015067334,
+    "commText": "<p><b>Rajasthan Royals have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713015244879,
+    "commText": "<p><b>Sanju Samson </b>- We'll bowl first, it looks like a decent wicket to bowl first. We've made a target to not think about the goal, focus on the process, work on building the team and we're doing well. A lot of challenges outside as well, we've many players missing from tonight's game. 90% of the game was good - Jos isn't 100%, Ash bhai is having a niggle, so Rovman and Tanush Kotian come into the XI</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713015268881,
+    "commText": "<p><b>Sam Curran</b> - Shikhar picked up a niggle, that's why I'm here. We would have bowled first as well, but we'll now have to put the runs on the board. The balance has been good, we'd have liked to win a few more games, but the middle-order looks good, especially Shashank and Ashutosh. We've got exciting players and plenty of quality. We've Atharva Taide coming in for Shikhar tonight, Livingstone is back as well</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713015511926,
+    "commText": "<p><b>Punjab Kings</b> (Playing XI): Jonny Bairstow, Atharva Taide, Prabhsimran Singh, Sam Curran(c), Liam Livingstone, Jitesh Sharma(w), Shashank Singh, Harpreet Brar, Harshal Patel, Arshdeep Singh, Kagiso Rabada</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713015672768,
+    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Rovman Powell, Tanush Kotian, Keshav Maharaj, Trent Boult, Avesh Khan, Kuldeep Sen, Yuzvendra Chahal</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713015674760,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713015684904,
+    "commText": "<p>Plenty of forced changes in both teams and we've been forced into making changes in our expert XI as well. Yashasvi Jaiswal could be RR's impact player and Punjab Kings do have several options to come off the bench. Have a look at our team before finalising your fantasy picks</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713015695047,
+    "commText": "<p><b>Punjab Kings Impact Subs:</b> Rahul Chahar, Ashutosh Sharma, Vidhwath Kaverappa, Harpreet Singh Bhatia, Nathan Ellis</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713015740608,
+    "commText": "<p><b>Rajasthan Impact Subs: </b>Yashasvi Jaiswal, Tom Kohler-Cadmore, Shubham Dubey, Navdeep Saini, Abid Mushtaq</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713015758328,
+    "commText": "<p><b>Here are the impact subs for both teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713016647957,
+    "commText": "<p>The players are out in the middle. Some final words from Sam Curran before the Kings disperse. A new opening combination for them with Atharva Taide opening with Jonny Bairstow - Trent Boult with the new ball, a slip in place</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

@@ -1,398 +1,8 @@
 [
   {
-    "timestamp": 1715176679901,
-    "commText": "<p>The players are out in the middle and we're ready for Match 57. Bhuvneshwar Kumar with the new ball, a slip in place</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715176481901,
-    "commText": "<p>We've made changes to our pre-toss expert XI. Have a look before you finalize your perfect fantasy XI</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715176221767,
-    "commText": "<p><b>Changes for SRH: IN :</b> Vijaykanth Viyaskant and Sanvir Singh. OUT - Mayank Agarwal and Marco Jansen</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715176166867,
-    "commText": "<p><b>Changes for LSG - IN :</b> de Kock, Krishanappa Gowtham. OUT: Mohsin Khan and Ashton Turner</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715175633951,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715175528478,
-    "commText": "<p><b>Lucknow Super Giants Impact Subs:</b> Manimaran Siddharth, Yudhvir Singh, Devdutt Padikkal, Ashton Turner, Amit Mishra</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715175484349,
-    "commText": "<p><b>Sunrisers Hyderabad Impact Subs:</b> Glenn Phillips, Umran Malik, Abhishek Sharma, ,Mayank Agarwal, Washington Sundar</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715175476765,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715175475406,
-    "commText": "<p><b>Lucknow Super Giants</b> (Playing XI): Quinton de Kock, KL Rahul(w/c), Marcus Stoinis, Nicholas Pooran, Ayush Badoni, Deepak Hooda, Krunal Pandya, Krishnappa Gowtham, Yash Thakur, Ravi Bishnoi, Naveen-ul-Haq</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715175394390,
-    "commText": "<p><b>Sunrisers Hyderabad</b> (Playing XI): Travis Head, Nitish Reddy, Heinrich Klaasen(w), Abdul Samad, Shahbaz Ahmed, Sanvir Singh, Pat Cummins(c), Bhuvneshwar Kumar, Jaydev Unadkat, Vijayakanth Viyaskanth, T Natarajan</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715175168012,
-    "commText": "<p><b>Pat Cummins:</b> Thank You (for the birthday wishes). My body feels 31. We would have batted as well. But we have won both ways here and hence not too upset. Hard to know (a good score) as it has been pretty high scoring. It is pretty tough (to qualify for the playoffs) and you have to keep winning till the end, we have not nailed it in the last couple of games and it is time to change that. We have a couple of changes - Sanvir comes in for Agarwal and Viyaskanth makes his debut and replaces Marco.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715174775599,
-    "commText": "<p><b>KL Rahul:</b> We will bat first. That (the pitch) plus a couple of games that have been played here. It is hard to complete forget how important this game is for both the sides, but we have played enough cricket. We will focus one thing at a time, first bat well and put the runs on the board. Playing at home becomes a difference, but we play so much cricket that we know how the conditions will be. Quinton comes in, Mohsin misses out and there are a few other changes.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715174675516,
-    "commText": "<p><b>Lucknow Super Giants have won the toss and have opted to bat</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715174575432,
-    "commText": "<p><b>Krunal Pandya:</b> Tough loss last time around. We arrived day before and yesterday\u2019s practice got washed out because of the rain, so it is more about mental preparedness than skill because we\u2019ve played enough games now. We just need to rectify our mistakes and keep doing the right things that we have been doing in the entire tournament. They (SRH) are a good side, specially with the batting they come really hard so as bowlers we need to ensure we are on top of the game. In the T20 format, you just have to win the small battles and once you do that, you get the desired result. It has been tough but I feel I have bowled really well, though I haven\u2019t bowled 4 overs consistently. My role has been simple, I try to make sure to contain the batters and try to force them into mistakes. There is a lot of fearless batting this year, obviously the impact player rule has made a big \u2018impact\u2019. It changes the batters mindset. If you have an impact player at 8 and you are batting at 4-5, your mindset completely changes because suddenly there are 3-4 more batters coming in. As everything else in cricket has evolved, batsmanship has also evolved so you just need to be on top of the game as a bowler.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715090954571,
-    "commText": "<p><b>Pitch and Conditions:</b> \"We are in Hyderabad and once more we are on pitch number 2 where 277 was scored. It has its own stardom. Boundary dimensions - there's some good news for the bowlers as it is the centre pitch, 60-odd meters on either side and a pitch that the spinners won't mind bowling. It feels like walking into a clay oven today. (The pitch) Extremely hard, really dry and you can feel the heat, still hot to touch. It has opened up tiny little cracks. I would be surprised if it is a record breaking total type this evening. It is probably a 200 wicket, very fast outfield and not a lot of dew. The fast bowlers will use their cutters especially in the middle phase of the match. I believe whoever wins the toss would look to set the total,\" reckon Matthew Hayden and Sanjay Manjrekar.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715090954561,
-    "commText": "<p><b>18:30 Local Time, 13:00 GMT:</b> It's getting to crunch time for the two teams in action today - Sunrisers Hyderabad and Lucknow Super Giants. They're two of the four teams stuck on 12 points on the table and both have three games in hand, making this encounter all the more important. The Sunrisers have lost a bit of steam in the last few games; losing 3 of their 4 games and the lone victory was also by 1-run margin. But they are back playing at home and that will boost their morale. The Super Giants suffered a big loss in their previous game to KKR and will have to put it behind them quickly. They have been inconsistent right through; winning a couple, losing a couple and now will hope that wave changes to winning again. The pitch report should be out next followed by toss and team news. Stay tuned..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715090954541,
-    "commText": "<p><b>Preview:</b> \\n \\nIt's that time of the season where every sub-plot in a game is scrutinized, because every result will have a significant impact not just on the teams involved in that game but also on the tournament in general. As we head into the final leg of IPL 2024, Kolkata Knight Riders and Rajasthan Royals are the only teams who look to be sitting with any degree of comfort. The other two spots are still up for grabs, with Chennai Super Kings, Sunrisers Hyderabad and Lucknow Super Giants among the frontrunners to claim them. \\n \\nWednesday's clash between SRH and LSG in Hyderabad is potentially a straight shootout as the winner shall gain a significant edge in the playoffs race, particularly with CSK boasting of a vastly superior net run rate at this point. All three teams have six wins and five losses apiece from their 11 games, and there isn't a lot to choose between the net run rates of SRH and LSG. All this points towards a potential high-voltage clash that could have a lot riding on it. Not surprisingly, both sides have endured a similar graph in terms of performances. \\n \\nSRH started the season with a bang, winning five of their first seven games and seemed to have gotten a head start to the playoffs race. Their refreshing high-intent approach with the bat blew teams away, leading to record-breaking totals and made them a side that nobody wanted to bowl at. However, the home side have just one win from their last four games, and that also was a very narrow one-run win against Rajasthan Royals at home. While Travis Head continues to motor along, the form of his opening partner Abhishek Sharma and middle-order enforcer Heinrich Klaasen appears to have dwindled. \\n \\nSRH were also forced to drop the out-of-form Aiden Markram for all-rounder Marco Jansen but that is another move which hasn't worked. The batting has tapered off a bit, particularly on relatively testing surfaces and Pat Cummins' men need to step it up before things go out of hand. While the batting has stagnated a bit, the bowling unit has certainly warmed up to the task led by Cummins himself with great support from Bhuvneshwar Kumar and T Natarajan. If SRH can rediscover their batting mojo, they could be hard to stop, especially at Hyderabad. \\n \\nLucknow Super Giants also began the season well, notching up three victories in their first four games but have struggled for consistency thereafter with alternate wins and losses. KL Rahul's side haven't had a winless drought as such but they have also suffered from lack of winning momentum which is crucial in the T20 format. The skipper himself hasn't really fired on a regular basis and while he is in the Orange Cap race once again, the opening batter hasn't had the impact that one would expect of him. Injuries have forced changes in LSG's bowling combinations as well with rookie speedgun Mayank Yadav lasting barely lasting three games. \\n \\nMohsin Khan also suffered an injury early on but has come back towards the latter half of the season. The problem for LSG has been the lack of sync in performances between the batting and bowling departments. When one part of their game has clicked, the other hasn't and their most recent clash against KKR saw them being blown away across all facets of the game. They do have a strong all-round side with all bases covered, so it should be about translating the squad potential into consistent on-field performances. \\n \\nIn such a high-stakes encounter, small margins may well decide the outcome of the game. There are several possible sub-plots in this fixture but how LSG's wily bowling fares against SRH's batting will be the main event. \\n \\n<b>When:</b> Wednesday, May 8 at 19:30 IST \\n \\n<b>Where:</b> Rajiv Gandhi International Stadium, Hyderabad \\n \\n<b>What to expect:</b> Surfaces at this venue have been extremely good for batting in recent times, starting from the ODI World Cup late last year to the ongoing IPL season. Average score batting first this season has been a shade above 212 with the 200-run mark breached thrice in the four games. \\n \\n<b>Head to head:</b> SRH 0-3 LSG. The visitors chased down 183 to win last year's fixture at this venue. \\n \\n<b>Team watch:</b> \\n \\n<b>Sunrisers Hyderabad</b> \\n \\n<b>Injuries and availability:</b> SRH don't have any concerns with respect to fitness and availability. \\n \\n<b>Tactics and matchups:</b> \\n \\nPat Cummins has been outstanding in the middle overs this season. The SRH captain may have only picked six wickets during this phase (overs 7-15) but has an exceptional economy rate of 7.39 across 18 overs bowled - a tremendous stat considering the high-scoring season that this year has been. Cummins' role will be pivotal against LSG's enforcers in Marcus Stoinis, Nicholas Pooran and Deepak Hooda. SRH will be tempted to bring in Glenn Phillips who has been due to get a game for some time now. Marco Jansen will be the one to make way in such a scenario with Jaydev Unadkat expected to slot back in. There could also be a temptation to unleash the x-factor of Umran Malik. \\n \\n<b>Probable XI:</b> Travis Head, Abhishek Sharma, Mayank Agarwal, Nitish Reddy, Heinrich Klaasen(wk), Glenn Phillips, Abdul Samad, Shahbaz Ahmed, Pat Cummins, Bhuvneshwar Kumar, Jaydev Unadkat/Umran Malik. [Impact sub: T Natarajan] \\n \\n<b>Lucknow Super Giants</b> \\n \\n<b>Injuries/Availability:</b> Apart from Mayank Yadav who is unlikely to play a part in the season finale, LSG have no concerns with injuries. \\n \\n<b>Tactics and matchups:</b> \\n \\nMohsin Khan has been devastating against left-hand batters with seven wickets from 54 deliveries at an economy of 8.14. The left-arm seamer has also been potent with the new ball with five wickets in the PowerPlay and an economy of just 8.14. So, LSG will hope he can tie down SRH's dynamic left-left opening pair of Travis Head and Abhishek Sharma. LSG will ponder about bringing back Quinton de Kock into their line-up, which could see Ashton Turner sitting out. \\n \\n<b>Probable XI:</b> KL Rahul(c), Quinton de Kock, Marcus Stoinis, Nicholas Pooran, Deepak Hooda, Ayush Badoni, Krunal Pandya, Ravi Bishnoi, Mohsin Khan, Naveen-ul-Haq, Yash Thakur. [Impact player - Arshin Kulkarni] \\n \\n<b>Did you know?</b> \\n \\n- Nitish Reddy has been an under-rated middle overs enforcer for SRH, striking at 164.4 during this phase (overs 7-15) with eight fours and 11 sixes. \\n \\n- Marcus Stoinis has demolished pace this season, averaging 105 against them at an impressive strike rate of 161.54 with 23 fours and eight sixes. \\n \\n<b>What they said:</b> \\n \\n\"It's pretty clear for us, if you want to get to the top four, you got to win all the games. That will give us a little bit of freedom to go out there and be a little bit more fearless, little bit brave to take on the game.\" - <b>KL Rahul</b> wants LSG to show more intent \\n \\n\"We like playing at home, we'll wait and see what's ahead of us. Hopefully a few more fireworks.\" - <b>Pat Cummins</b> hopes that the SRH template at Hyderabad gets them back in the zone</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715090954531,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1715090766661,
+    "commText": "<p><b>Lucknow Super Giants</b> Squad: KL Rahul(w/c), Arshin Kulkarni, Marcus Stoinis, Deepak Hooda, Nicholas Pooran, Ayush Badoni, Ashton Turner, Krunal Pandya, Yudhvir Singh Charak, Ravi Bishnoi, Naveen-ul-Haq, Yash Thakur, Mohsin Khan, Manimaran Siddharth, Krishnappa Gowtham, Devdutt Padikkal, Amit Mishra, Kyle Mayers, Quinton de Kock, Matt Henry, Prerak Mankad, Arshad Khan, Shamar Joseph</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -416,6 +26,7 @@
   {
     "timestamp": 1715090953033,
     "commText": "<p><b>Sunrisers Hyderabad</b> Squad: Travis Head, Abhishek Sharma, Mayank Agarwal, Nitish Reddy, Heinrich Klaasen(w), Abdul Samad, Shahbaz Ahmed, Marco Jansen, Pat Cummins(c), Bhuvneshwar Kumar, T Natarajan, Sanvir Singh, Mayank Markande, Glenn Phillips, Jaydev Unadkat, Umran Malik, Aiden Markram, Rahul Tripathi, Washington Sundar, Anmolpreet Singh, Upendra Yadav, Jhatavedh Subramanyan, Vijayakanth Viyaskanth, Fazalhaq Farooqi, Akash Maharaj Singh</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -437,8 +48,417 @@
     }
   },
   {
-    "timestamp": 1715090766661,
-    "commText": "<p><b>Lucknow Super Giants</b> Squad: KL Rahul(w/c), Arshin Kulkarni, Marcus Stoinis, Deepak Hooda, Nicholas Pooran, Ayush Badoni, Ashton Turner, Krunal Pandya, Yudhvir Singh Charak, Ravi Bishnoi, Naveen-ul-Haq, Yash Thakur, Mohsin Khan, Manimaran Siddharth, Krishnappa Gowtham, Devdutt Padikkal, Amit Mishra, Kyle Mayers, Quinton de Kock, Matt Henry, Prerak Mankad, Arshad Khan, Shamar Joseph</p>",
+    "timestamp": 1715090954531,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715090954541,
+    "commText": "<p><b>Preview:</b> \\n \\nIt's that time of the season where every sub-plot in a game is scrutinized, because every result will have a significant impact not just on the teams involved in that game but also on the tournament in general. As we head into the final leg of IPL 2024, Kolkata Knight Riders and Rajasthan Royals are the only teams who look to be sitting with any degree of comfort. The other two spots are still up for grabs, with Chennai Super Kings, Sunrisers Hyderabad and Lucknow Super Giants among the frontrunners to claim them. \\n \\nWednesday's clash between SRH and LSG in Hyderabad is potentially a straight shootout as the winner shall gain a significant edge in the playoffs race, particularly with CSK boasting of a vastly superior net run rate at this point. All three teams have six wins and five losses apiece from their 11 games, and there isn't a lot to choose between the net run rates of SRH and LSG. All this points towards a potential high-voltage clash that could have a lot riding on it. Not surprisingly, both sides have endured a similar graph in terms of performances. \\n \\nSRH started the season with a bang, winning five of their first seven games and seemed to have gotten a head start to the playoffs race. Their refreshing high-intent approach with the bat blew teams away, leading to record-breaking totals and made them a side that nobody wanted to bowl at. However, the home side have just one win from their last four games, and that also was a very narrow one-run win against Rajasthan Royals at home. While Travis Head continues to motor along, the form of his opening partner Abhishek Sharma and middle-order enforcer Heinrich Klaasen appears to have dwindled. \\n \\nSRH were also forced to drop the out-of-form Aiden Markram for all-rounder Marco Jansen but that is another move which hasn't worked. The batting has tapered off a bit, particularly on relatively testing surfaces and Pat Cummins' men need to step it up before things go out of hand. While the batting has stagnated a bit, the bowling unit has certainly warmed up to the task led by Cummins himself with great support from Bhuvneshwar Kumar and T Natarajan. If SRH can rediscover their batting mojo, they could be hard to stop, especially at Hyderabad. \\n \\nLucknow Super Giants also began the season well, notching up three victories in their first four games but have struggled for consistency thereafter with alternate wins and losses. KL Rahul's side haven't had a winless drought as such but they have also suffered from lack of winning momentum which is crucial in the T20 format. The skipper himself hasn't really fired on a regular basis and while he is in the Orange Cap race once again, the opening batter hasn't had the impact that one would expect of him. Injuries have forced changes in LSG's bowling combinations as well with rookie speedgun Mayank Yadav lasting barely lasting three games. \\n \\nMohsin Khan also suffered an injury early on but has come back towards the latter half of the season. The problem for LSG has been the lack of sync in performances between the batting and bowling departments. When one part of their game has clicked, the other hasn't and their most recent clash against KKR saw them being blown away across all facets of the game. They do have a strong all-round side with all bases covered, so it should be about translating the squad potential into consistent on-field performances. \\n \\nIn such a high-stakes encounter, small margins may well decide the outcome of the game. There are several possible sub-plots in this fixture but how LSG's wily bowling fares against SRH's batting will be the main event. \\n \\n<b>When:</b> Wednesday, May 8 at 19:30 IST \\n \\n<b>Where:</b> Rajiv Gandhi International Stadium, Hyderabad \\n \\n<b>What to expect:</b> Surfaces at this venue have been extremely good for batting in recent times, starting from the ODI World Cup late last year to the ongoing IPL season. Average score batting first this season has been a shade above 212 with the 200-run mark breached thrice in the four games. \\n \\n<b>Head to head:</b> SRH 0-3 LSG. The visitors chased down 183 to win last year's fixture at this venue. \\n \\n<b>Team watch:</b> \\n \\n<b>Sunrisers Hyderabad</b> \\n \\n<b>Injuries and availability:</b> SRH don't have any concerns with respect to fitness and availability. \\n \\n<b>Tactics and matchups:</b> \\n \\nPat Cummins has been outstanding in the middle overs this season. The SRH captain may have only picked six wickets during this phase (overs 7-15) but has an exceptional economy rate of 7.39 across 18 overs bowled - a tremendous stat considering the high-scoring season that this year has been. Cummins' role will be pivotal against LSG's enforcers in Marcus Stoinis, Nicholas Pooran and Deepak Hooda. SRH will be tempted to bring in Glenn Phillips who has been due to get a game for some time now. Marco Jansen will be the one to make way in such a scenario with Jaydev Unadkat expected to slot back in. There could also be a temptation to unleash the x-factor of Umran Malik. \\n \\n<b>Probable XI:</b> Travis Head, Abhishek Sharma, Mayank Agarwal, Nitish Reddy, Heinrich Klaasen(wk), Glenn Phillips, Abdul Samad, Shahbaz Ahmed, Pat Cummins, Bhuvneshwar Kumar, Jaydev Unadkat/Umran Malik. [Impact sub: T Natarajan] \\n \\n<b>Lucknow Super Giants</b> \\n \\n<b>Injuries/Availability:</b> Apart from Mayank Yadav who is unlikely to play a part in the season finale, LSG have no concerns with injuries. \\n \\n<b>Tactics and matchups:</b> \\n \\nMohsin Khan has been devastating against left-hand batters with seven wickets from 54 deliveries at an economy of 8.14. The left-arm seamer has also been potent with the new ball with five wickets in the PowerPlay and an economy of just 8.14. So, LSG will hope he can tie down SRH's dynamic left-left opening pair of Travis Head and Abhishek Sharma. LSG will ponder about bringing back Quinton de Kock into their line-up, which could see Ashton Turner sitting out. \\n \\n<b>Probable XI:</b> KL Rahul(c), Quinton de Kock, Marcus Stoinis, Nicholas Pooran, Deepak Hooda, Ayush Badoni, Krunal Pandya, Ravi Bishnoi, Mohsin Khan, Naveen-ul-Haq, Yash Thakur. [Impact player - Arshin Kulkarni] \\n \\n<b>Did you know?</b> \\n \\n- Nitish Reddy has been an under-rated middle overs enforcer for SRH, striking at 164.4 during this phase (overs 7-15) with eight fours and 11 sixes. \\n \\n- Marcus Stoinis has demolished pace this season, averaging 105 against them at an impressive strike rate of 161.54 with 23 fours and eight sixes. \\n \\n<b>What they said:</b> \\n \\n\"It's pretty clear for us, if you want to get to the top four, you got to win all the games. That will give us a little bit of freedom to go out there and be a little bit more fearless, little bit brave to take on the game.\" - <b>KL Rahul</b> wants LSG to show more intent \\n \\n\"We like playing at home, we'll wait and see what's ahead of us. Hopefully a few more fireworks.\" - <b>Pat Cummins</b> hopes that the SRH template at Hyderabad gets them back in the zone</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715090954561,
+    "commText": "<p><b>18:30 Local Time, 13:00 GMT:</b> It's getting to crunch time for the two teams in action today - Sunrisers Hyderabad and Lucknow Super Giants. They're two of the four teams stuck on 12 points on the table and both have three games in hand, making this encounter all the more important. The Sunrisers have lost a bit of steam in the last few games; losing 3 of their 4 games and the lone victory was also by 1-run margin. But they are back playing at home and that will boost their morale. The Super Giants suffered a big loss in their previous game to KKR and will have to put it behind them quickly. They have been inconsistent right through; winning a couple, losing a couple and now will hope that wave changes to winning again. The pitch report should be out next followed by toss and team news. Stay tuned..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715090954571,
+    "commText": "<p><b>Pitch and Conditions:</b> \"We are in Hyderabad and once more we are on pitch number 2 where 277 was scored. It has its own stardom. Boundary dimensions - there's some good news for the bowlers as it is the centre pitch, 60-odd meters on either side and a pitch that the spinners won't mind bowling. It feels like walking into a clay oven today. (The pitch) Extremely hard, really dry and you can feel the heat, still hot to touch. It has opened up tiny little cracks. I would be surprised if it is a record breaking total type this evening. It is probably a 200 wicket, very fast outfield and not a lot of dew. The fast bowlers will use their cutters especially in the middle phase of the match. I believe whoever wins the toss would look to set the total,\" reckon Matthew Hayden and Sanjay Manjrekar.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715174575432,
+    "commText": "<p><b>Krunal Pandya:</b> Tough loss last time around. We arrived day before and yesterday\u2019s practice got washed out because of the rain, so it is more about mental preparedness than skill because we\u2019ve played enough games now. We just need to rectify our mistakes and keep doing the right things that we have been doing in the entire tournament. They (SRH) are a good side, specially with the batting they come really hard so as bowlers we need to ensure we are on top of the game. In the T20 format, you just have to win the small battles and once you do that, you get the desired result. It has been tough but I feel I have bowled really well, though I haven\u2019t bowled 4 overs consistently. My role has been simple, I try to make sure to contain the batters and try to force them into mistakes. There is a lot of fearless batting this year, obviously the impact player rule has made a big \u2018impact\u2019. It changes the batters mindset. If you have an impact player at 8 and you are batting at 4-5, your mindset completely changes because suddenly there are 3-4 more batters coming in. As everything else in cricket has evolved, batsmanship has also evolved so you just need to be on top of the game as a bowler.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715174675516,
+    "commText": "<p><b>Lucknow Super Giants have won the toss and have opted to bat</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715174775599,
+    "commText": "<p><b>KL Rahul:</b> We will bat first. That (the pitch) plus a couple of games that have been played here. It is hard to complete forget how important this game is for both the sides, but we have played enough cricket. We will focus one thing at a time, first bat well and put the runs on the board. Playing at home becomes a difference, but we play so much cricket that we know how the conditions will be. Quinton comes in, Mohsin misses out and there are a few other changes.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715175168012,
+    "commText": "<p><b>Pat Cummins:</b> Thank You (for the birthday wishes). My body feels 31. We would have batted as well. But we have won both ways here and hence not too upset. Hard to know (a good score) as it has been pretty high scoring. It is pretty tough (to qualify for the playoffs) and you have to keep winning till the end, we have not nailed it in the last couple of games and it is time to change that. We have a couple of changes - Sanvir comes in for Agarwal and Viyaskanth makes his debut and replaces Marco.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715175394390,
+    "commText": "<p><b>Sunrisers Hyderabad</b> (Playing XI): Travis Head, Nitish Reddy, Heinrich Klaasen(w), Abdul Samad, Shahbaz Ahmed, Sanvir Singh, Pat Cummins(c), Bhuvneshwar Kumar, Jaydev Unadkat, Vijayakanth Viyaskanth, T Natarajan</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715175475406,
+    "commText": "<p><b>Lucknow Super Giants</b> (Playing XI): Quinton de Kock, KL Rahul(w/c), Marcus Stoinis, Nicholas Pooran, Ayush Badoni, Deepak Hooda, Krunal Pandya, Krishnappa Gowtham, Yash Thakur, Ravi Bishnoi, Naveen-ul-Haq</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715175476765,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715175484349,
+    "commText": "<p><b>Sunrisers Hyderabad Impact Subs:</b> Glenn Phillips, Umran Malik, Abhishek Sharma, ,Mayank Agarwal, Washington Sundar</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715175528478,
+    "commText": "<p><b>Lucknow Super Giants Impact Subs:</b> Manimaran Siddharth, Yudhvir Singh, Devdutt Padikkal, Ashton Turner, Amit Mishra</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715175633951,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715176166867,
+    "commText": "<p><b>Changes for LSG - IN :</b> de Kock, Krishanappa Gowtham. OUT: Mohsin Khan and Ashton Turner</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715176221767,
+    "commText": "<p><b>Changes for SRH: IN :</b> Vijaykanth Viyaskant and Sanvir Singh. OUT - Mayank Agarwal and Marco Jansen</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715176481901,
+    "commText": "<p>We've made changes to our pre-toss expert XI. Have a look before you finalize your perfect fantasy XI</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715176679901,
+    "commText": "<p>The players are out in the middle and we're ready for Match 57. Bhuvneshwar Kumar with the new ball, a slip in place</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

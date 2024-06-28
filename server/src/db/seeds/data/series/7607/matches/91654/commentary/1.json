@@ -1,7 +1,8 @@
 [
   {
-    "timestamp": 1715448139094,
-    "commText": "<p>Right we're back for the chase! Rohit Sharma comes in as an impact sub as expected and Tushara goes out. For KKR, Rana has been subbed out for Vaibhav Arora. Here we go</p>",
+    "timestamp": 1715442417283,
+    "commText": "<p><b>Philip Salt and Narine are at the crease. Philip Salt is on strike. N Thushara will open the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -23,224 +24,111 @@
     }
   },
   {
-    "timestamp": 1715448136135,
-    "commText": "<p><b>Most dismissals as a wicketkeeper for MI in the IPL</b> \\n48 - Ishan Kishan \\n47 - Quinton de Kock \\n28 - Parthiv Patel \\n21 - Dinesh Karthik</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715448136125,
-    "commText": "<p><b>20 or more wickets in an IPL season most often</b> \\n5 - Yuzvendra Chahal \\n4 - Jasprit Bumrah \\n4 - Lasith Malinga</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715448136115,
-    "commText": "<p><b>Rinku Singh vs Jasprit Bumrah in the IPL</b> \\nRuns: 10 \\nBalls: 14 \\nDismissals: 3 \\nAvg: 3.33 \\nSR: 71.42</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715448136105,
-    "commText": "<p><b>Piyush Chawla in IPL 2024</b> \\nFirst seven matches: 4 wickets at 51.75, SR:31.5, ER: 9.86 \\nLast three matches: 6 wickets at 12.66, SR: 10, ER: 7.6</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715448136094,
-    "commText": "<p><b>22:52 Local Time, 17:22 GMT, 22:52 IST:</b> A very closely fought contest so far. After putting KKR into bat, MI got off to a dream start. Salt holed out in the very first over and Bumrah bowled a scorching inswinging yorker to get rid of Narine first ball. Shreyas Iyer ended up getting bowled round his legs not too long thereafter and KKR were in strife. That's when Venky Iyer stood up to the task. He made a free-flowing 42 before a nice partnership between Nitish Rana and Andre Russell got KKR back on track. Rinku Singh and Ramandeep Singh made some vital contributions down the order as well as KKR got to 157. It's a total that's probably just on par, should be a riveting chase coming up.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715448133094,
-    "commText": "<p> Bumrah to Ramandeep Singh, <b>SIX</b>, <b>that's a great way to finish!</b> A rare miss from Bumrah as he serves up a slot-ball, Ramandeep Singh was deep in his crease and he lofted it clean over long-on </p>",
-    "overs": 16,
+    "timestamp": 1715442430972,
+    "commText": "<p> N Thushara to Philip Salt, <b>SIX</b>, how did that go over long-off? Seemed like Salt didn't intent to hit it there initially. It was a fullish gentle outie outside off stump, Salt swung straight, seemed like it flew off the outer half of the bat. Had great height on it and good distance too. Off the mark with a bang </p>",
+    "ballNbr": 1,
+    "overs": 0.1,
     "events": [
-      "OVER_BREAK",
       "SIX"
     ],
     "batsmanStriker": {
-      "id": 12337,
-      "batRuns": 17,
-      "ballsPlayed": 8,
-      "dotBalls": 0,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 4,
-      "bowlMaidens": 0,
-      "bowlRuns": 39,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715448093196,
-    "commText": "<p> Bumrah to Starc, 1 run, full on leg-stump from round the wicket again, flicked away to deep square leg, just one </p>",
-    "overs": 15.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7710,
-      "batRuns": 2,
-      "ballsPlayed": 2,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 3.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 33,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715448051454,
-    "commText": "<p> Bumrah to Ramandeep Singh, 1 run, full and straight on middle, pushed down the ground to long-on </p>",
-    "overs": 15.4,
-    "events": [
-      "TEAM_HUNDRED"
-    ],
-    "batsmanStriker": {
-      "id": 12337,
-      "batRuns": 11,
-      "ballsPlayed": 7,
-      "dotBalls": 0,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 3.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 32,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715448022591,
-    "commText": "<p> Bumrah to Starc, 1 run, low full-toss from round the wicket, Starc knocks it towards cover for one </p>",
-    "overs": 15.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7710,
-      "batRuns": 1,
+      "id": 10479,
+      "batRuns": 6,
       "ballsPlayed": 1,
       "dotBalls": 0,
       "batFours": 0,
-      "batSixes": 0
+      "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 3.3,
+      "id": 18509,
+      "bowlOvers": 0.1,
       "bowlMaidens": 0,
-      "bowlRuns": 31,
-      "bowlWickets": 2,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715448014744,
-    "commText": "<p><b>Mitchell Starc, left handed bat, comes to the crease</b></p>",
+    "timestamp": 1715442470851,
+    "commText": "<p> N Thushara to Philip Salt, no run, <b>beaten</b>! Thushara gets the outswinger spot on this time. Starts straight and takes it past Salt's bat and this was much closer to the off stump </p>",
+    "ballNbr": 2,
+    "overs": 0.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 6,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715442509700,
+    "commText": "<p> N Thushara to Philip Salt, no run, now nails the leg stump outie yorker, Salt manages to dig it out </p>",
+    "ballNbr": 3,
+    "overs": 0.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 6,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715442553057,
+    "commText": "<p> N Thushara to Philip Salt, no run, oh very good of MI to have a man very straight at mid-wicket. They had a square leg too. That extra fielder has saved this four. Salt belted this flick as he picked the full delivery early, but hit it straight to the man </p>",
+    "ballNbr": 4,
+    "overs": 0.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10479,
+      "batRuns": 6,
+      "ballsPlayed": 4,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715442634780,
+    "commText": "<p> N Thushara to Philip Salt, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 7710,
+      "id": 0,
       "batRuns": 0,
       "ballsPlayed": 0,
       "dotBalls": 0,
@@ -248,7 +136,7 @@
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 18509,
+      "id": 0,
       "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
@@ -258,106 +146,39 @@
     }
   },
   {
-    "timestamp": 1715447940641,
-    "commText": "<p> Bumrah to Rinku Singh, <b>out</b> Caught by Ishan Kishan!! <b>Edged and gone!</b> Full and just outside off, was pace off and Rinku Singh had a big slog at this, got a thick edge and Ishan Kishan did the rest. Yet another wicket for the ever-impressive Bumrah. <b>Rinku Singh c Ishan Kishan b Bumrah 20(12) [6s-2]</b> </p>",
-    "overs": 15.2,
+    "timestamp": 1715442638419,
+    "commText": "<p> N Thushara to Philip Salt, <b>out</b> Caught by Anshul Kamboj!! He's slogged at it again and perished this time. Poor ploy to play completely across the line to a bowler who is looking to sling the outswinger away. Big top edge that goes really high. This time this doesn't have enough legs and tell you what, that was a really good grab by PC though he didn't have to move much just because of the hang time on this. Early blow from MI. <b>Philip Salt c Anshul Kamboj b N Thushara 6(5) [6s-1]</b> </p>",
+    "ballNbr": 5,
+    "overs": 0.5,
     "events": [
       "WICKET"
     ],
     "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 20,
-      "ballsPlayed": 12,
-      "dotBalls": 3,
+      "id": 10479,
+      "batRuns": 6,
+      "ballsPlayed": 5,
+      "dotBalls": 4,
       "batFours": 0,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 3.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 30,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715447939694,
-    "commText": "<p> Bumrah to Rinku Singh, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 20,
-      "ballsPlayed": 11,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
+      "batSixes": 1
     },
     "bowlerStriker": {
       "id": 18509,
-      "bowlOvers": 0,
+      "bowlOvers": 0.5,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715447882443,
-    "commText": "<p> Bumrah to Ramandeep Singh, 1 run, nails the yorker on middle, Ramandeep Singh clips it to square leg and they pinch a quick single </p>",
-    "overs": 15.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12337,
-      "batRuns": 10,
-      "ballsPlayed": 6,
-      "dotBalls": 0,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 3.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 30,
+      "bowlRuns": 6,
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715447786779,
-    "commText": "<p><b>Jasprit Bumrah [3.0-0-29-1] is back into the attack</b></p>",
+    "timestamp": 1715442691545,
+    "commText": "<p><b>Venkatesh Iyer, left handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 12337,
-      "batRuns": 9,
-      "ballsPlayed": 5,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715447717281,
-    "commText": "<p>Final over coming up</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
+      "id": 10917,
       "batRuns": 0,
       "ballsPlayed": 0,
       "dotBalls": 0,
@@ -375,60 +196,40 @@
     }
   },
   {
-    "timestamp": 1715447714281,
-    "commText": "<p> N Thushara to Rinku Singh, 2 runs, attempted yorker ends up being a low full-toss, Rinku Singh manages to get under it and shovels it out towards wide long-on, not the best of timing and David is able to keep that in, two more added, good over from Thushara </p>",
-    "overs": 15,
+    "timestamp": 1715442696332,
+    "commText": "<p> N Thushara to Venkatesh Iyer, <b>FOUR</b>, oh off the mark in style. Tell him he's playing MI and see how the runs flow. Definitely not jinxing him here though. Full delivery, Venky creams it through cover-point </p>",
+    "ballNbr": 6,
+    "overs": 1,
     "events": [
-      "OVER_BREAK"
+      "OVER_BREAK",
+      "FOUR"
     ],
     "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 20,
-      "ballsPlayed": 11,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 31,
-      "bowlWickets": 1,
-      "bowlWides": 2,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715447666980,
-    "commText": "<p> N Thushara to Ramandeep Singh, 1 run, wide yorker outside off, Ramandeep Singh carves it out to third man </p>",
-    "overs": 14.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12337,
-      "batRuns": 9,
-      "ballsPlayed": 5,
+      "id": 10917,
+      "batRuns": 4,
+      "ballsPlayed": 1,
       "dotBalls": 0,
       "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
       "id": 18509,
-      "bowlOvers": 2.5,
+      "bowlOvers": 1,
       "bowlMaidens": 0,
-      "bowlRuns": 29,
+      "bowlRuns": 10,
       "bowlWickets": 1,
-      "bowlWides": 2,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715447587547,
-    "commText": "<p>MI review for wide, they won't get it overturned</p>",
+    "timestamp": 1715442763085,
+    "commText": "<p><b>Jasprit Bumrah, right-arm fast, comes into the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
+      "id": 2276,
       "batRuns": 0,
       "ballsPlayed": 0,
       "dotBalls": 0,
@@ -436,7 +237,7 @@
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 0,
+      "id": 18509,
       "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
@@ -446,150 +247,207 @@
     }
   },
   {
-    "timestamp": 1715447584547,
-    "commText": "<p> N Thushara to Ramandeep Singh, <b>wide</b>, length delivery wide outside off, just past the tramline </p>",
-    "overs": 14.5,
-    "events": [
-      "UDRS"
-    ],
+    "timestamp": 1715442765693,
+    "commText": "<p> Bumrah to Narine, <b>THATS OUT!!</b> Bowled!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
     "batsmanStriker": {
-      "id": 12337,
-      "batRuns": 8,
-      "ballsPlayed": 4,
+      "id": 2276,
+      "batRuns": 0,
+      "ballsPlayed": 0,
       "dotBalls": 0,
-      "batFours": 1,
+      "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
       "id": 18509,
-      "bowlOvers": 2.4,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 1,
-      "bowlWides": 2,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715447548967,
-    "commText": "<p> N Thushara to Ramandeep Singh, <b>FOUR</b>, <b>in the air and four!</b> Full and wide outside off, was pace off, Ramandeep Singh stepped right across his stumps and reached out looking to slog this, he got a top-edge and it flew to the long-leg ropes, no one out there </p>",
-    "overs": 14.4,
+    "timestamp": 1715442769878,
+    "commText": "<p>Bumrah to Narine, <b>out</b> Bowled!! Ohh we have a brainfade from Narine. This is as similar as the Glenn Maxwell leave in the BBL a few years ago. It's no surprise that Bumrah was going to either target the helmet or the toes. Bumrah chose the latter. This was angled away and it tricked Narine into thinking it was going to miss the stumps. Did Narine not know that Bumrah has developed a late inswinger? Ask Keaton Jennings maybe. Narine just left it and the stumps brushed the base of off stump to ignite the poles. Narine looks stunned. <b>Narine b Bumrah 0(1)</b></p>",
+    "ballNbr": 7,
+    "overs": 1.1,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 2276,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715442877967,
+    "commText": "<p><b>Shreyas Iyer, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715442880050,
+    "commText": "<p> Bumrah to Shreyas Iyer, no run, outside off stump, Shreyas ignores </p>",
+    "ballNbr": 8,
+    "overs": 1.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715442908317,
+    "commText": "<p> Bumrah to Shreyas Iyer, <b>FOUR</b>, edgeddd but wide of the lone slip fielder. Third man puts in a very good dive but this fast outfield and short boundary doesn't help him. Races off the ricochet for four. Bumrah is getting nice away shape and he troubled him with a length ball </p>",
+    "ballNbr": 9,
+    "overs": 1.3,
     "events": [
       "FOUR"
     ],
     "batsmanStriker": {
-      "id": 12337,
-      "batRuns": 8,
-      "ballsPlayed": 4,
-      "dotBalls": 0,
+      "id": 9428,
+      "batRuns": 4,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
       "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 2.4,
+      "id": 9311,
+      "bowlOvers": 0.3,
       "bowlMaidens": 0,
-      "bowlRuns": 27,
+      "bowlRuns": 4,
       "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715447500576,
-    "commText": "<p> N Thushara to Rinku Singh, 1 run, brilliant yorker again, tails away just a touch as Rinku Singh squeezes it out to point, just one </p>",
-    "overs": 14.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 18,
-      "ballsPlayed": 10,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715447459094,
-    "commText": "<p> N Thushara to Ramandeep Singh, 1 run, nails the yorker outside off, Ramandeep Singh stays deep in his crease and carves it out to deep backward point </p>",
-    "overs": 14.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12337,
-      "batRuns": 4,
-      "ballsPlayed": 3,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715447413561,
-    "commText": "<p> N Thushara to Rinku Singh, 1 run, very full on off-stump, knocked out towards cover for one </p>",
-    "overs": 14.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 17,
-      "ballsPlayed": 9,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715447406721,
-    "commText": "<p><b>Nuwan Thushara [2.0-0-20-1] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 16,
-      "ballsPlayed": 8,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715447326044,
-    "commText": "<p>Tushara in for his last over</p>",
+    "timestamp": 1715442945217,
+    "commText": "<p> Bumrah to Shreyas Iyer, no run, covers the line and manages to defend </p>",
+    "ballNbr": 10,
+    "overs": 1.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 4,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443023530,
+    "commText": "<p> Bumrah to Shreyas Iyer, leg byes, 1 run, the inswinger this time, Shreyas misses the glance, ball rolls to square leg off the pad </p>",
+    "ballNbr": 11,
+    "overs": 1.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 4,
+      "ballsPlayed": 4,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443034734,
+    "commText": "<p> Bumrah to Venkatesh Iyer, no run, well played! The inswinger to the LHB, Venky held his bat inside the line with soft hands and the outside edge didn't carry to slip </p>",
+    "ballNbr": 12,
+    "overs": 2,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 4,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443034744,
+    "commText": "<p><b>Most ducks in the IPL</b> \\n17 - Dinesh Karthik \\n17 - Glenn Maxwell \\n17 - Rohit Sharma \\n16 - Piyush Chawla \\n16 - Sunil Narine</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -611,2015 +469,393 @@
     }
   },
   {
-    "timestamp": 1715447323044,
-    "commText": "<p> Hardik Pandya to Rinku Singh, 1 run, length delivery on off-stump, Rinku Singh shuffles across looking to lap it fine, doesn't hit it cleanly and finds the man at short fine-leg </p>",
-    "overs": 14,
-    "events": [
-      "OVER_BREAK"
-    ],
+    "timestamp": 1715443034754,
+    "commText": "<p><b>Most ducks in Men\u2019s T20 cricket</b> \\n44 - Sunil Narine \\n43 - Alex Hales \\n42 - Rashid Khan \\n32 - Paul Stirling \\n31 - Glenn Maxwell \\n31 - Jason Roy</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
     "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 16,
-      "ballsPlayed": 8,
-      "dotBalls": 2,
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
       "batFours": 0,
-      "batSixes": 2
+      "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 3,
+      "id": 0,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
-      "bowlRuns": 32,
+      "bowlRuns": 0,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715447282761,
-    "commText": "<p> Hardik Pandya to Rinku Singh, <b>SIX</b>, <b>that's been sent into orbit!</b> Full and on the pads, a juicy half-volley and Rinku Singh got under it before depositing it over deep square leg, went high and far </p>",
-    "overs": 13.5,
+    "timestamp": 1715443117576,
+    "commText": "<p><b>Anshul Kamboj, right-arm fast medium, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 4,
+      "ballsPlayed": 4,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443131115,
+    "commText": "<p> Anshul Kamboj to Shreyas Iyer, no run, length delivery, Shreyas taps it towards point </p>",
+    "ballNbr": 13,
+    "overs": 2.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 4,
+      "ballsPlayed": 5,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14598,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443166281,
+    "commText": "<p> Anshul Kamboj to Shreyas Iyer, 1 run, short of length delivery, Shreyas works it to square leg off the inside edge </p>",
+    "ballNbr": 14,
+    "overs": 2.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 5,
+      "ballsPlayed": 6,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14598,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443203795,
+    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, <b>SIX</b>, great response! Seems like he is batting on a different pitch and the bowling. Just stepped out and belted this lofted drive back towards the sightscreen </p>",
+    "ballNbr": 15,
+    "overs": 2.3,
     "events": [
       "SIX"
     ],
     "batsmanStriker": {
-      "id": 10896,
+      "id": 10917,
+      "batRuns": 10,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 14598,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443258615,
+    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, 1 run, short of length delivery, Venkatesh taps it to point </p>",
+    "ballNbr": 16,
+    "overs": 2.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 11,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 14598,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443261615,
+    "commText": "<p>With the revised conditions, one bowler can bowl 4 overs and the max the rest can bowl is 3 overs. You would assume Bumrah would go the full quota</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443297936,
+    "commText": "<p> Anshul Kamboj to Shreyas Iyer, <b>wide</b>, short of length delivery down leg </p>",
+    "ballNbr": 17,
+    "overs": 2.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 5,
+      "ballsPlayed": 6,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14598,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443300936,
+    "commText": "<p>Big appeal for LBW. If there's no edge it's plumb. Hardik suggests bat</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443353872,
+    "commText": "<p> Anshul Kamboj to Shreyas Iyer, 1 run, fullish delivery nipping back in, Shreyas swings and gets an <b>inside edge onto back pad</b>. Good spot from the ump and the MI captain. Bowler was confident for the review </p>",
+    "ballNbr": 17,
+    "overs": 2.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 6,
+      "ballsPlayed": 7,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14598,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443376275,
+    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, no run, short of length delivery, Venkatesh manages to defend off the back foot </p>",
+    "ballNbr": 18,
+    "overs": 3,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 11,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 14598,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443433661,
+    "commText": "<p> Bumrah to Shreyas Iyer, no run, totally squared him up! Short of a length delivery nipping away, Shreyas pokes inside the line in his defence and almost nicks off </p>",
+    "ballNbr": 19,
+    "overs": 3.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 6,
+      "ballsPlayed": 8,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443470927,
+    "commText": "<p> Bumrah to Shreyas Iyer, 1 run, now Shreyas moves to the off-side to cover for the outie and then he taps it to backward point. Seems like Venky wanted the run and Shreyas wasn't sure. So he pauses midway. Since the throw went to the keeper's end he turned back to have a good sight of the action and oh dear, the throw has hit Venky and <b>Venky is absolutely limping in pain</b> and is down on the floor. But it seems like a cramp initially because the ball only hit a muscle and wouldn't pain as much. Could have been cramps before impact and the physio is rushing for service </p>",
+    "ballNbr": 20,
+    "overs": 3.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9428,
+      "batRuns": 7,
+      "ballsPlayed": 9,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443726319,
+    "commText": "<p> Bumrah to Venkatesh Iyer, <b>FOUR</b>, edgeddd and SKY palms it over for a four at slip. Very tough chance though. Bumrah came round the wicket for a full outie, Venky steps out and has a big go, thick edge flies over the cordon and SKY did well to get his fingertips on it </p>",
+    "ballNbr": 21,
+    "overs": 3.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
       "batRuns": 15,
-      "ballsPlayed": 7,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 31,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715447238266,
-    "commText": "<p> Hardik Pandya to Rinku Singh, no run, length delivery slanting across outside off, was pace off and Rinku Singh missed an attempted cut </p>",
-    "overs": 13.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 9,
       "ballsPlayed": 6,
       "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 25,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715447202014,
-    "commText": "<p> Hardik Pandya to Ramandeep Singh, 1 run, Hardik Pandya goes for the yorker on off-stump, gets it right and Ramandeep Singh clips it towards long-on for one </p>",
-    "overs": 13.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12337,
-      "batRuns": 3,
-      "ballsPlayed": 2,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 25,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715447158034,
-    "commText": "<p> Hardik Pandya to Ramandeep Singh, 2 runs, length delivery on off-stump, Ramandeep Singh taps it gently towards mid-wicket and they charge back for two, great running </p>",
-    "overs": 13.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12337,
-      "batRuns": 2,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715447120831,
-    "commText": "<p> Hardik Pandya to Rinku Singh, 1 run, length delivery outside off, Rinku hangs back and eases it down to third man </p>",
-    "overs": 13.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 9,
-      "ballsPlayed": 5,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715447117721,
-    "commText": "<p><b>Hardik Pandya [2.0-0-21-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 8,
-      "ballsPlayed": 4,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715447100398,
-    "commText": "<p><b>Ramandeep Singh, right handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 8,
-      "ballsPlayed": 4,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446885021,
-    "commText": "<p><b>Timeout.</b> KKR losing wickets here when they need some impetus. Just 3 overs left and they'll want to get to at least 160. MI have been pretty good with ball and in the field today.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446882021,
-    "commText": "<p> Chawla to Russell, <b>out</b> Caught by Anshul Kamboj!! <b>Kamboj holds on to a steepler!</b> Pretty clever bowling from Chawla, he went for a seam-up bouncer, it only got about hip-high but it was bowled at 117kph, just enough to rush Russell as he pressed back looking to pull it away, it took the top half of the bat and went a mile in the air before going down to Kamboj at deep square leg. Great catch that, he settled himself and looked totally comfortable taking it. Another blow at just the right time for MI. <b>Russell c Anshul Kamboj b Chawla 24(14) [4s-2 6s-2]</b> </p>",
-    "overs": 13,
-    "events": [
-      "OVER_BREAK",
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 24,
-      "ballsPlayed": 14,
-      "dotBalls": 6,
       "batFours": 2,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 2,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446881293,
-    "commText": "<p> Chawla to Russell, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 24,
-      "ballsPlayed": 13,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
+      "batSixes": 1
     },
     "bowlerStriker": {
       "id": 9311,
-      "bowlOvers": 0,
+      "bowlOvers": 1.3,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446842962,
-    "commText": "<p> Chawla to Rinku Singh, 1 run, length delivery on off-stump, Rinku Singh presses back and cuts it away to deep point </p>",
-    "overs": 12.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 8,
-      "ballsPlayed": 4,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
+      "bowlRuns": 9,
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715446809238,
-    "commText": "<p> Chawla to Russell, 1 run, very full on leg-stump, not giving him enough room to free his arms, went for a slog and mistimed it towards wide long-on </p>",
-    "overs": 12.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 24,
-      "ballsPlayed": 13,
-      "dotBalls": 5,
-      "batFours": 2,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 27,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446760534,
-    "commText": "<p> Chawla to Rinku Singh, 1 run, flatter and quicker outside off, Rinku Singh hangs back and waits for it before steering it towards short third man </p>",
-    "overs": 12.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 7,
-      "ballsPlayed": 3,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 26,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446717246,
-    "commText": "<p> Chawla to Rinku Singh, <b>SIX</b>,<b> he's smoked this out of the ground!</b> Floated up full on off-stump, Rinku Singh skips down the track and gets to the pitch of it before smashing it a long way over cow corner </p>",
-    "overs": 12.2,
+    "timestamp": 1715443766529,
+    "commText": "<p> Bumrah to Venkatesh Iyer, <b>SIX</b>, whipped over mid-wicket. Bumrah overpitching on the pads and Venky happily flicks this powerfully over the boundary for a maximum. Venky doing a brilliant job of maximizing the PP </p>",
+    "ballNbr": 22,
+    "overs": 3.4,
     "events": [
       "SIX"
     ],
     "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 6,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 25,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446695959,
-    "commText": "<p> Chawla to Rinku Singh, no run, very full on middle, Rinku Singh makes room and steers it towards point </p>",
-    "overs": 12.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10896,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446686079,
-    "commText": "<p><b>Rinku Singh, left handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 23,
-      "ballsPlayed": 12,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446634113,
-    "commText": "<p><b>Highlights (Overs 6-12):</b> \\n-- Hardik bowls a tight over 1st over after the powerplay \\n-- Kamboj concedes 9 off his 3rd over \\n-- Hardik goes for 2 fours and a six in his 2nd over \\n-- Piyush Chawla gets rid of Venky Iyer off his 1st ball \\n-- Russell and Rana rebuild with a 35-run stand \\n-- Rana uses DRS to overturn (off Bumrah) a lbw call (pitched outside leg) on 29 \\n-- Tilak Varma direct hit catches Rana short of his crease 2 balls later</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446634103,
-    "commText": "<p> Bumrah to Nitish Rana, <b>out</b> Nitish Rana Run Out!! <b>Brilliant throw and it finds Nitish Rana short!</b> There was just a moment of hesitation in the running there and that's enough for Tilak Verma to find Nitish Rana short. Was a very full delivery just outside leg, Nitish Rana made a lot of room and steered it into the off-side towards point before taking off for a run, he was just a shade slow and a direct-hit at the non-striker's end found just an inch short. <b>Nitish Rana run out (Tilak Varma) 33(23) [4s-4 6s-1]</b> </p>",
-    "overs": 12,
-    "events": [
-      "OVER_BREAK",
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 33,
-      "ballsPlayed": 23,
-      "dotBalls": 8,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 29,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446631260,
-    "commText": "<p> Bumrah to Nitish Rana, <b>THATS OUT!!</b> Run Out!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446535431,
-    "commText": "<p> Bumrah to Nitish Rana, <b>FOUR</b>, <b>great shot!</b> A low full-toss on middle, Nitish Rana stayed deep in his crease and shoveled it away through mid-wicket with a flick, good timing and it races away from the man chasing it </p>",
-    "overs": 11.5,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 33,
-      "ballsPlayed": 22,
-      "dotBalls": 7,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 29,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446499901,
-    "commText": "<p> Bumrah to Nitish Rana, no run, <b>the review saves him!</b> A seering yorker, it was honing into middle-stump and Nitish Rana shuffled across a step looking to clip it into the leg-side, hit him on the front-pad and it looked quite plumb, ball-tracker shows that it was just about <b>pitching outside leg though!</b> </p>",
-    "overs": 11.4,
-    "events": [
-      "UDRS"
-    ],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 29,
-      "ballsPlayed": 21,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 25,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446386390,
-    "commText": "<p><b>KKR review.</b> Nitish Rana has been given out LBW, this looks very out</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446380390,
-    "commText": "<p> Bumrah to Nitish Rana, <b>FOUR</b>,<b> that's a great shot!</b> Length delivery on middle, Nitish Rana saw that mid-off was in the ring so he backed away to make some room before slapping it up and over that man, not great timing but he had enough to clear the ring </p>",
-    "overs": 11.3,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 29,
-      "ballsPlayed": 20,
-      "dotBalls": 6,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 25,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446338553,
-    "commText": "<p> Bumrah to Russell, 1 run, back of a length and angling into the body, went wide of the crease there and caught Russell in an awkward position as he tucked it into the leg-side, hurried him with some pace too </p>",
-    "overs": 11.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 23,
-      "ballsPlayed": 12,
-      "dotBalls": 5,
-      "batFours": 2,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446284879,
-    "commText": "<p> Bumrah to Nitish Rana, 1 run, good length delivery on the pads, Nitish Rana shuffles inside the line and pulls it down to long leg </p>",
-    "overs": 11.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 25,
-      "ballsPlayed": 19,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446279180,
-    "commText": "<p><b>Jasprit Bumrah [2.0-0-19-1] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 24,
-      "ballsPlayed": 18,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446216420,
-    "commText": "<p> Chawla to Russell, no run, outstanding from the bowler, the batter and the fielder. Firstly PC saw Russ rushing down the track and bowled it so short into the wicket. He fired it as well. Russ still managed to middl the cut shot. Ball was travelling but Tilak flew to his left and saved four </p>",
-    "overs": 11,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 22,
-      "ballsPlayed": 11,
-      "dotBalls": 5,
-      "batFours": 2,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446177350,
-    "commText": "<p> Chawla to Nitish Rana, 1 run, advances and looks to go over cover, but gets an inside edge that rolls towards mid-wicket </p>",
-    "overs": 10.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 24,
-      "ballsPlayed": 18,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446129136,
-    "commText": "<p> Chawla to Russell, 1 run, leggie forcing Russell to go back and tap to cover-point </p>",
-    "overs": 10.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 22,
-      "ballsPlayed": 10,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 18,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446060096,
-    "commText": "<p>They have a mid-off that's very straight to Russ</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446057096,
-    "commText": "<p> Chawla to Russell, <b>FOUR</b>, Chawla errs too full with the leggie. Russ moves his leg out of the way to give him a free swing down the ground and lofts it nicely over the bowler's head </p>",
-    "overs": 10.3,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 7736,
+      "id": 10917,
       "batRuns": 21,
-      "ballsPlayed": 9,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715446026895,
-    "commText": "<p> Chawla to Nitish Rana, 1 run, oh Rana was shaping up for a big hit, but Chawla outsmarted him with a very quick short delivery, Rana slices it over the infield to deep point </p>",
-    "overs": 10.2,
-    "events": [
-      "TEAM_HUNDRED"
-    ],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 23,
-      "ballsPlayed": 17,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445959023,
-    "commText": "<p> Chawla to Nitish Rana, 2 runs, slogged in the air, doesn't carry to deep square leg. Rana is home in time before Ishan ignited the stumps collecting the throw </p>",
-    "overs": 10.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 22,
-      "ballsPlayed": 16,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445896862,
-    "commText": "<p> N Thushara to Russell, no run, oh runout attempt at the bowler's end but Rana escapes. Short slower delivery, Russ slapped it hard off the back foot, extra-cover dives to the left to stop. Rana wanted the run but Russell sent him back. Throw wasn't on target and Rana had time to get back </p>",
-    "overs": 10,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 17,
-      "ballsPlayed": 8,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445839566,
-    "commText": "<p> N Thushara to Russell, <b>SIX</b>, you might have as many fielders on the off-side but if you don't stop him from getting under the ball then nothing matters. Thushara missed the wide yorker an offered length, Russ slices it over cover-point for a maximum </p>",
-    "overs": 9.5,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 17,
       "ballsPlayed": 7,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445798739,
-    "commText": "<p> N Thushara to Nitish Rana, 1 run, off pace outside off stump, Nitish looks to hit hard, slices it to off the outside edge to third man who does well to put the body behind the line to stop the boundary </p>",
-    "overs": 9.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 20,
-      "ballsPlayed": 15,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 14,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445759509,
-    "commText": "<p> N Thushara to Nitish Rana, no run, <b>beaten</b>! Full slower delivery outside off stump, Nitish shapes up for a reverse scoop but misses </p>",
-    "overs": 9.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 19,
-      "ballsPlayed": 14,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445714658,
-    "commText": "<p>Hardik moves a leg-side fielder towards backward point</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445711658,
-    "commText": "<p> N Thushara to Russell, 1 run, wide yorker outside off stump, Russell smackes it to long-off </p>",
-    "overs": 9.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 11,
-      "ballsPlayed": 6,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445657631,
-    "commText": "<p>Just long-on and deep square and they have packed the off-side for Russ</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445654631,
-    "commText": "<p> N Thushara to Nitish Rana, 1 run, oh hit on the bounce! Fullish slower delivery outside off stump, Rana drives and slices it. Doesn't carry to the sweeper </p>",
-    "overs": 9.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 19,
-      "ballsPlayed": 13,
-      "dotBalls": 5,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445616064,
-    "commText": "<p> N Thushara to Nitish Rana, <b>wide</b>, tries the yorker but sprays way outside off stump </p>",
-    "overs": 9.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 18,
-      "ballsPlayed": 12,
-      "dotBalls": 5,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 11,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445595416,
-    "commText": "<p><b>Nuwan Thushara [1.0-0-10-1] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 18,
-      "ballsPlayed": 12,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445518196,
-    "commText": "<p><b>Venkatesh Iyer vs MI</b> \\n53(30), Abu Dhabi, 2021 \\n50*(41), Pune, 2022 \\n43(24), Mumbai DYP, 2022 \\n104(51), Mumbai WS, 2023 \\n70(52), Mumbai WS, 2024 \\n42(21), Kolkata, 2024 \\n<b>Total: </b>362 runs at 72.40, <b>SR:</b> 165.29</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445518186,
-    "commText": "<p> Chawla to Russell, <b>FOUR</b>, wow! Dre Russ has played a neat cover drive off a spinner. How often have to see that? Usually it's power than grace. But this was respecting the ball and the bowler and still outsmarting him with a purist cricket shot. Fullish leggie outside off stump, Russ leans into the drive and gets it to the left of cover </p>",
-    "overs": 9,
-    "events": [
-      "OVER_BREAK",
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 10,
-      "ballsPlayed": 5,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445488945,
-    "commText": "<p> Chawla to Russell, no run, brilliantly bowled teasing googly on the stumps, Russell respects with a forward defence </p>",
-    "overs": 8.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 6,
-      "ballsPlayed": 4,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445465910,
-    "commText": "<p> Chawla to Russell, no run, oh <b>he squares him up</b> with a big leggie. Russell did well to react off the pitch and defend that sharp turner off the back foot </p>",
-    "overs": 8.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 6,
-      "ballsPlayed": 3,
       "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445415274,
-    "commText": "<p> Chawla to Russell, <b>SIX</b>, he does but just overpitched that and Dre Russ gets under it and murders the ball over long-on. Was heading towards middle and off but the length helped the batter there. Will he be brave enough for a googly again on a length? </p>",
-    "overs": 8.3,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 6,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445394951,
-    "commText": "<p>Slip in. Will he bowl the googly</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445391951,
-    "commText": "<p> Chawla to Russell, no run, fairly straighter delivery, Russell defends off the front foot </p>",
-    "overs": 8.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445388203,
-    "commText": "<p><b>Andre Russell, right handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 7736,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445297969,
-    "commText": "<p> Chawla to Venkatesh Iyer, <b>out</b> Caught by Suryakumar Yadav!! This is a big wicket. PC strikes first ball. The googly outside off stump, Venky advances and gets too close to the pitch of the ball and hits it hard, flat and straight to long-off. Excellent innings comes to an end. <b>Venkatesh Iyer c Suryakumar Yadav b Chawla 42(21) [4s-6 6s-2]</b> </p>",
-    "overs": 8.1,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 42,
-      "ballsPlayed": 21,
-      "dotBalls": 8,
-      "batFours": 6,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 466,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445296277,
-    "commText": "<p> Chawla to Venkatesh Iyer, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445289084,
-    "commText": "<p><b>Piyush Chawla, right-arm leg break, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 42,
-      "ballsPlayed": 20,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445224541,
-    "commText": "<p> Hardik Pandya to Nitish Rana, no run, moves too far across the stumps and misses the ball. Hardik appeal for LBW but was missing off. Nitish tried to whip it over backward square leg and missed the ball </p>",
-    "overs": 8,
-    "events": [
-      "OVER_BREAK",
-      "HIGHSCORING_OVER"
-    ],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 18,
-      "ballsPlayed": 12,
-      "dotBalls": 5,
       "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445161728,
-    "commText": "<p> Hardik Pandya to Nitish Rana, <b>SIX</b>, he's nailed the slog! Hardik Pandya not disguising the slower ball and paying the price. Sat up and smacked it out of sight over mid-wicket for a maximum. This is the over KKR needed to up their rate </p>",
-    "overs": 7.5,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 18,
-      "ballsPlayed": 11,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445120514,
-    "commText": "<p> Hardik Pandya to Nitish Rana, <b>FOUR</b>, class shot! Short of a length delivery angling away, Nitish stays low and plays very late to cut this past backward point and beat third man to the left </p>",
-    "overs": 7.4,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 12,
-      "ballsPlayed": 10,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715445081989,
-    "commText": "<p> Hardik Pandya to Venkatesh Iyer, 1 run, short of length delivery, Venky pushes it to mid-off </p>",
-    "overs": 7.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 42,
-      "ballsPlayed": 20,
-      "dotBalls": 7,
-      "batFours": 6,
       "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 11,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444943791,
-    "commText": "<p>Pause in play. Do we have another intruder? Nah, looks like it was Venky's bat that cracked had to be replaced</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444940791,
-    "commText": "<p> Hardik Pandya to Venkatesh Iyer, <b>FOUR</b>, in the airrrr and just wide of deep mid-wicket. Short of a length delivery on the leg stump, mistimed pull, deep square leg runs to the right but can't cut it off. That seemed have gone into the covers and would have picked up some moisture. Yes, Hardik is wiping the ball </p>",
-    "overs": 7.2,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 41,
-      "ballsPlayed": 19,
-      "dotBalls": 7,
-      "batFours": 6,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444889885,
-    "commText": "<p> Hardik Pandya to Nitish Rana, 1 run, inside edge onto pad, ball rolls past the stumps, he looks at his partner and then takes off for a well judged run. Short of a length delivery from Hardik, ball nipped back in to trouble Nitish on the dab to third man </p>",
-    "overs": 7.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 8,
-      "ballsPlayed": 9,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444693368,
-    "commText": "<p><b>Timeout</b>. Very good spell from Anshul Kamboj. Wise of Hardik to bowl him out when Anshul was nipping it around nicely. Venky has single-handedly kept KKR afloat. But they need at least 160 to challenge MI. Bumrah and Thushara have two each. Hardik is a handful in these conditions. Dre Russ holds the key here.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444690368,
-    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, no run, he runs down the pitch for a big swing but the bowler digs this into the pitch and beats the bat </p>",
-    "overs": 7,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 37,
-      "ballsPlayed": 18,
-      "dotBalls": 7,
-      "batFours": 5,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444668073,
-    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, 2 runs, short of length delivery, Venky pulls wide of mid-wicket, sliding save and looks like Venky is again limping. Is it cramp or hammie? </p>",
-    "overs": 6.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 37,
-      "ballsPlayed": 17,
-      "dotBalls": 6,
-      "batFours": 5,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444610415,
-    "commText": "<p> Anshul Kamboj to Nitish Rana, 1 run, short of length delivery on the leg stump, Nitish knocks it to short mid-wicket </p>",
-    "overs": 6.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 7,
-      "ballsPlayed": 8,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444569106,
-    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, 1 run, short of length delivery, Venky pushes it towards cover </p>",
-    "overs": 6.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 35,
-      "ballsPlayed": 16,
-      "dotBalls": 6,
-      "batFours": 5,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444527634,
-    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, <b>FOUR</b>, top edge over Ishan Kishan! No chance for the keeper. Good short delivery, Venkatesh went deep in the crease and got rushed on the pull, top edge escapes over the keeper and he was so close to stepping on the stumps </p>",
-    "overs": 6.2,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 34,
-      "ballsPlayed": 15,
-      "dotBalls": 6,
-      "batFours": 5,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444490497,
-    "commText": "<p> Anshul Kamboj to Nitish Rana, 1 run, shortish delivery, Nitish pulls uppishly to deep square leg </p>",
-    "overs": 6.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 6,
-      "ballsPlayed": 7,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444410088,
-    "commText": "<p> Hardik Pandya to Venkatesh Iyer, no run, <b>past the outside edge again</b>. Short of a length delivery outside off stump, Venky looks to slash hard and misses. Good comeback despite that boundary by Hardik </p>",
-    "overs": 6,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 30,
-      "ballsPlayed": 14,
-      "dotBalls": 6,
-      "batFours": 4,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444379070,
-    "commText": "<p> Hardik Pandya to Venkatesh Iyer, no run, <b>rash shot</b>! Advances and has a wild hack at this short of length delivery. Ball flies past the bat as Hardik Pandya shortened his length </p>",
-    "overs": 5.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 30,
-      "ballsPlayed": 13,
-      "dotBalls": 5,
-      "batFours": 4,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444344458,
-    "commText": "<p> Hardik Pandya to Venkatesh Iyer, <b>FOUR</b>, poor line from Hardik Pandya. Short of a length down leg to a set batter, Venky happily helps it away to the fine leg fence </p>",
-    "overs": 5.4,
-    "events": [
-      "TEAM_FIFTY",
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 30,
-      "ballsPlayed": 12,
-      "dotBalls": 4,
-      "batFours": 4,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444322779,
-    "commText": "<p> Hardik Pandya to Nitish Rana, leg byes, 1 run, Nitish livid with himself that he's missed the glance twice this over. Short of a length delivery, ball rolls off the pad to square leg </p>",
-    "overs": 5.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 5,
-      "ballsPlayed": 6,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444284178,
-    "commText": "<p> Hardik Pandya to Venkatesh Iyer, 1 run, manages to knock it to short-cover </p>",
-    "overs": 5.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 26,
-      "ballsPlayed": 11,
-      "dotBalls": 4,
-      "batFours": 3,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444255260,
-    "commText": "<p> Hardik Pandya to Nitish Rana, leg byes, 1 run, short of length delivery down leg, Nitish looks to glance, ball rolls to mid-wicket off the thigh pad </p>",
-    "overs": 5.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 5,
-      "ballsPlayed": 5,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 9647,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444242708,
-    "commText": "<p><b>Hardik Pandya, right-arm fast medium, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 5,
-      "ballsPlayed": 4,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444165449,
-    "commText": "<p><b>Highlights (Overs 1-5):</b> \\n-- Salt hits a six 1st ball, but gets out off the 5th ball \\n-- Bumrah cleans up Narine with his 1st ball \\n-- Anshul Kamboj concedes 10 off his 1st over \\n-- Bumrah goes for 15 off his 2nd over \\n-- Kamboj gets the big wicket off Shreyas Iyer in the last over of the powerplay</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444165439,
-    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, no run, <b>beaten</b>! Again the ball nips away from short of length to trouble the batter. Venky has a smile on his face as he acknowledges the delivery from the bowler </p>",
-    "overs": 5,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 25,
-      "ballsPlayed": 10,
-      "dotBalls": 4,
-      "batFours": 3,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444120156,
-    "commText": "<p> Anshul Kamboj to Nitish Rana, 1 run, nudged to mid-wicket </p>",
-    "overs": 4.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 5,
-      "ballsPlayed": 4,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444073081,
-    "commText": "<p> Anshul Kamboj to Nitish Rana, <b>FOUR</b>, nicely leans into the punch-drive and sends it along the ground through cover for a boundary. He's away on return </p>",
-    "overs": 4.4,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 4,
-      "ballsPlayed": 3,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 14,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715444031930,
-    "commText": "<p> Anshul Kamboj to Nitish Rana, no run, short of length delivery, Nitish manages to defend </p>",
-    "overs": 4.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 0,
-      "ballsPlayed": 2,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715443997172,
-    "commText": "<p> Anshul Kamboj to Nitish Rana, no run, oh <b>almost the outside edge</b>! Short of a length delivery nipping away, Nitish plays inside the line and misses </p>",
-    "overs": 4.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715443988905,
-    "commText": "<p><b>Nitish Rana, left handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9204,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
     },
     "bowlerStriker": {
       "id": 9311,
-      "bowlOvers": 0,
+      "bowlOvers": 1.4,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715443885790,
-    "commText": "<p> Anshul Kamboj to Shreyas Iyer, <b>out</b> Bowled!! Oh bowled him around his legs! Steve Smith, you have company! This ball is nipping around and Shreyas moved across to access the leg side. Was a short of length delivery that nipped into the right-hander. He played the line but the movement did him in. Leg stump was visible and the ball kissed the outside half on the way to the boundary. MI have early wickets against KKR again. But can they do it better than last time? <b>Shreyas Iyer b Anshul Kamboj 7(10) [4s-1]</b> </p>",
-    "overs": 4.1,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 7,
-      "ballsPlayed": 10,
-      "dotBalls": 6,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715443884191,
-    "commText": "<p> Anshul Kamboj to Shreyas Iyer, <b>THATS OUT!!</b> Bowled!! </p>",
-    "overs": 0,
+    "timestamp": 1715443803317,
+    "commText": "<p> Bumrah to Venkatesh Iyer, no run, <b>beaten</b>! Short of a length delivery nips away to trouble Venky on the defence. Had him poking there </p>",
+    "ballNbr": 23,
+    "overs": 3.5,
     "events": [],
     "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 7,
-      "ballsPlayed": 9,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
+      "id": 10917,
+      "batRuns": 21,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 2
     },
     "bowlerStriker": {
       "id": 9311,
-      "bowlOvers": 0,
+      "bowlOvers": 1.5,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
@@ -2627,6 +863,7 @@
   {
     "timestamp": 1715443836423,
     "commText": "<p> Bumrah to Venkatesh Iyer, <b>FOUR</b>, and he's counterattacking in style! Again puts on a bold face and jumps out of the crease for a thump over mid-on and he middles it pretty well. He's taken Bumrah for 14 in that 15-run over </p>",
+    "ballNbr": 24,
     "overs": 4,
     "events": [
       "OVER_BREAK",
@@ -2652,175 +889,207 @@
     }
   },
   {
-    "timestamp": 1715443803317,
-    "commText": "<p> Bumrah to Venkatesh Iyer, no run, <b>beaten</b>! Short of a length delivery nips away to trouble Venky on the defence. Had him poking there </p>",
-    "overs": 3.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 21,
-      "ballsPlayed": 8,
-      "dotBalls": 3,
-      "batFours": 2,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715443766529,
-    "commText": "<p> Bumrah to Venkatesh Iyer, <b>SIX</b>, whipped over mid-wicket. Bumrah overpitching on the pads and Venky happily flicks this powerfully over the boundary for a maximum. Venky doing a brilliant job of maximizing the PP </p>",
-    "overs": 3.4,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 21,
-      "ballsPlayed": 7,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715443726319,
-    "commText": "<p> Bumrah to Venkatesh Iyer, <b>FOUR</b>, edgeddd and SKY palms it over for a four at slip. Very tough chance though. Bumrah came round the wicket for a full outie, Venky steps out and has a big go, thick edge flies over the cordon and SKY did well to get his fingertips on it </p>",
-    "overs": 3.3,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 15,
-      "ballsPlayed": 6,
-      "dotBalls": 2,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715443470927,
-    "commText": "<p> Bumrah to Shreyas Iyer, 1 run, now Shreyas moves to the off-side to cover for the outie and then he taps it to backward point. Seems like Venky wanted the run and Shreyas wasn't sure. So he pauses midway. Since the throw went to the keeper's end he turned back to have a good sight of the action and oh dear, the throw has hit Venky and <b>Venky is absolutely limping in pain</b> and is down on the floor. But it seems like a cramp initially because the ball only hit a muscle and wouldn't pain as much. Could have been cramps before impact and the physio is rushing for service </p>",
-    "overs": 3.2,
+    "timestamp": 1715443884191,
+    "commText": "<p> Anshul Kamboj to Shreyas Iyer, <b>THATS OUT!!</b> Bowled!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
       "id": 9428,
       "batRuns": 7,
       "ballsPlayed": 9,
-      "dotBalls": 5,
-      "batFours": 1,
+      "dotBalls": 0,
+      "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
       "id": 9311,
-      "bowlOvers": 1.2,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 1,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715443433661,
-    "commText": "<p> Bumrah to Shreyas Iyer, no run, totally squared him up! Short of a length delivery nipping away, Shreyas pokes inside the line in his defence and almost nicks off </p>",
-    "overs": 3.1,
-    "events": [],
+    "timestamp": 1715443885790,
+    "commText": "<p> Anshul Kamboj to Shreyas Iyer, <b>out</b> Bowled!! Oh bowled him around his legs! Steve Smith, you have company! This ball is nipping around and Shreyas moved across to access the leg side. Was a short of length delivery that nipped into the right-hander. He played the line but the movement did him in. Leg stump was visible and the ball kissed the outside half on the way to the boundary. MI have early wickets against KKR again. But can they do it better than last time? <b>Shreyas Iyer b Anshul Kamboj 7(10) [4s-1]</b> </p>",
+    "ballNbr": 25,
+    "overs": 4.1,
+    "events": [
+      "WICKET"
+    ],
     "batsmanStriker": {
       "id": 9428,
-      "batRuns": 6,
-      "ballsPlayed": 8,
-      "dotBalls": 5,
+      "batRuns": 7,
+      "ballsPlayed": 10,
+      "dotBalls": 6,
       "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 9311,
+      "id": 14598,
       "bowlOvers": 1.1,
       "bowlMaidens": 0,
-      "bowlRuns": 4,
+      "bowlRuns": 10,
       "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715443988905,
+    "commText": "<p><b>Nitish Rana, left handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715443376275,
-    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, no run, short of length delivery, Venkatesh manages to defend off the back foot </p>",
-    "overs": 3,
+    "timestamp": 1715443997172,
+    "commText": "<p> Anshul Kamboj to Nitish Rana, no run, oh <b>almost the outside edge</b>! Short of a length delivery nipping away, Nitish plays inside the line and misses </p>",
+    "ballNbr": 26,
+    "overs": 4.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14598,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715444031930,
+    "commText": "<p> Anshul Kamboj to Nitish Rana, no run, short of length delivery, Nitish manages to defend </p>",
+    "ballNbr": 27,
+    "overs": 4.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 0,
+      "ballsPlayed": 2,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14598,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715444073081,
+    "commText": "<p> Anshul Kamboj to Nitish Rana, <b>FOUR</b>, nicely leans into the punch-drive and sends it along the ground through cover for a boundary. He's away on return </p>",
+    "ballNbr": 28,
+    "overs": 4.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 4,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14598,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715444120156,
+    "commText": "<p> Anshul Kamboj to Nitish Rana, 1 run, nudged to mid-wicket </p>",
+    "ballNbr": 29,
+    "overs": 4.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 5,
+      "ballsPlayed": 4,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 14598,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715444165439,
+    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, no run, <b>beaten</b>! Again the ball nips away from short of length to trouble the batter. Venky has a smile on his face as he acknowledges the delivery from the bowler </p>",
+    "ballNbr": 30,
+    "overs": 5,
     "events": [
       "OVER_BREAK"
     ],
     "batsmanStriker": {
       "id": 10917,
-      "batRuns": 11,
-      "ballsPlayed": 5,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715443353872,
-    "commText": "<p> Anshul Kamboj to Shreyas Iyer, 1 run, fullish delivery nipping back in, Shreyas swings and gets an <b>inside edge onto back pad</b>. Good spot from the ump and the MI captain. Bowler was confident for the review </p>",
-    "overs": 2.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 6,
-      "ballsPlayed": 7,
+      "batRuns": 25,
+      "ballsPlayed": 10,
       "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
+      "batFours": 3,
+      "batSixes": 2
     },
     "bowlerStriker": {
       "id": 14598,
-      "bowlOvers": 0.5,
+      "bowlOvers": 2,
       "bowlMaidens": 0,
-      "bowlRuns": 10,
-      "bowlWickets": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715443300936,
-    "commText": "<p>Big appeal for LBW. If there's no edge it's plumb. Hardik suggests bat</p>",
+    "timestamp": 1715444165449,
+    "commText": "<p><b>Highlights (Overs 1-5):</b> \\n-- Salt hits a six 1st ball, but gets out off the 5th ball \\n-- Bumrah cleans up Narine with his 1st ball \\n-- Anshul Kamboj concedes 10 off his 1st over \\n-- Bumrah goes for 15 off his 2nd over \\n-- Kamboj gets the big wicket off Shreyas Iyer in the last over of the powerplay</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -2842,114 +1111,69 @@
     }
   },
   {
-    "timestamp": 1715443297936,
-    "commText": "<p> Anshul Kamboj to Shreyas Iyer, <b>wide</b>, short of length delivery down leg </p>",
-    "overs": 2.5,
+    "timestamp": 1715444242708,
+    "commText": "<p><b>Hardik Pandya, right-arm fast medium, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 9428,
+      "id": 9204,
       "batRuns": 5,
-      "ballsPlayed": 6,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715443261615,
-    "commText": "<p>With the revised conditions, one bowler can bowl 4 overs and the max the rest can bowl is 3 overs. You would assume Bumrah would go the full quota</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715443258615,
-    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, 1 run, short of length delivery, Venkatesh taps it to point </p>",
-    "overs": 2.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 11,
       "ballsPlayed": 4,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715443203795,
-    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, <b>SIX</b>, great response! Seems like he is batting on a different pitch and the bowling. Just stepped out and belted this lofted drive back towards the sightscreen </p>",
-    "overs": 2.3,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 10,
-      "ballsPlayed": 3,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 14598,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715443166281,
-    "commText": "<p> Anshul Kamboj to Shreyas Iyer, 1 run, short of length delivery, Shreyas works it to square leg off the inside edge </p>",
-    "overs": 2.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 5,
-      "ballsPlayed": 6,
-      "dotBalls": 4,
-      "batFours": 1,
+      "dotBalls": 0,
+      "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
       "id": 14598,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715444255260,
+    "commText": "<p> Hardik Pandya to Nitish Rana, leg byes, 1 run, short of length delivery down leg, Nitish looks to glance, ball rolls to mid-wicket off the thigh pad </p>",
+    "ballNbr": 31,
+    "overs": 5.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 5,
+      "ballsPlayed": 5,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715444284178,
+    "commText": "<p> Hardik Pandya to Venkatesh Iyer, 1 run, manages to knock it to short-cover </p>",
+    "ballNbr": 32,
+    "overs": 5.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 26,
+      "ballsPlayed": 11,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9647,
       "bowlOvers": 0.2,
       "bowlMaidens": 0,
       "bowlRuns": 1,
@@ -2959,200 +1183,561 @@
     }
   },
   {
-    "timestamp": 1715443131115,
-    "commText": "<p> Anshul Kamboj to Shreyas Iyer, no run, length delivery, Shreyas taps it towards point </p>",
-    "overs": 2.1,
+    "timestamp": 1715444322779,
+    "commText": "<p> Hardik Pandya to Nitish Rana, leg byes, 1 run, Nitish livid with himself that he's missed the glance twice this over. Short of a length delivery, ball rolls off the pad to square leg </p>",
+    "ballNbr": 33,
+    "overs": 5.3,
     "events": [],
     "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 4,
-      "ballsPlayed": 5,
+      "id": 9204,
+      "batRuns": 5,
+      "ballsPlayed": 6,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715444344458,
+    "commText": "<p> Hardik Pandya to Venkatesh Iyer, <b>FOUR</b>, poor line from Hardik Pandya. Short of a length down leg to a set batter, Venky happily helps it away to the fine leg fence </p>",
+    "ballNbr": 34,
+    "overs": 5.4,
+    "events": [
+      "TEAM_FIFTY",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 30,
+      "ballsPlayed": 12,
+      "dotBalls": 4,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715444379070,
+    "commText": "<p> Hardik Pandya to Venkatesh Iyer, no run, <b>rash shot</b>! Advances and has a wild hack at this short of length delivery. Ball flies past the bat as Hardik Pandya shortened his length </p>",
+    "ballNbr": 35,
+    "overs": 5.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 30,
+      "ballsPlayed": 13,
+      "dotBalls": 5,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715444410088,
+    "commText": "<p> Hardik Pandya to Venkatesh Iyer, no run, <b>past the outside edge again</b>. Short of a length delivery outside off stump, Venky looks to slash hard and misses. Good comeback despite that boundary by Hardik </p>",
+    "ballNbr": 36,
+    "overs": 6,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 30,
+      "ballsPlayed": 14,
+      "dotBalls": 6,
+      "batFours": 4,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715444490497,
+    "commText": "<p> Anshul Kamboj to Nitish Rana, 1 run, shortish delivery, Nitish pulls uppishly to deep square leg </p>",
+    "ballNbr": 37,
+    "overs": 6.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 6,
+      "ballsPlayed": 7,
       "dotBalls": 4,
       "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
       "id": 14598,
-      "bowlOvers": 0.1,
+      "bowlOvers": 2.1,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 1,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715443117576,
-    "commText": "<p><b>Anshul Kamboj, right-arm fast medium, comes into the attack</b></p>",
-    "overs": 0,
+    "timestamp": 1715444527634,
+    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, <b>FOUR</b>, top edge over Ishan Kishan! No chance for the keeper. Good short delivery, Venkatesh went deep in the crease and got rushed on the pull, top edge escapes over the keeper and he was so close to stepping on the stumps </p>",
+    "ballNbr": 38,
+    "overs": 6.2,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 34,
+      "ballsPlayed": 15,
+      "dotBalls": 6,
+      "batFours": 5,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 14598,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715444569106,
+    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, 1 run, short of length delivery, Venky pushes it towards cover </p>",
+    "ballNbr": 39,
+    "overs": 6.3,
     "events": [],
     "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 4,
-      "ballsPlayed": 4,
-      "dotBalls": 0,
-      "batFours": 0,
+      "id": 10917,
+      "batRuns": 35,
+      "ballsPlayed": 16,
+      "dotBalls": 6,
+      "batFours": 5,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 14598,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715444610415,
+    "commText": "<p> Anshul Kamboj to Nitish Rana, 1 run, short of length delivery on the leg stump, Nitish knocks it to short mid-wicket </p>",
+    "ballNbr": 40,
+    "overs": 6.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 7,
+      "ballsPlayed": 8,
+      "dotBalls": 4,
+      "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 0,
+      "id": 14598,
+      "bowlOvers": 2.4,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 1,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715443034754,
-    "commText": "<p><b>Most ducks in Men\u2019s T20 cricket</b> \\n44 - Sunil Narine \\n43 - Alex Hales \\n42 - Rashid Khan \\n32 - Paul Stirling \\n31 - Glenn Maxwell \\n31 - Jason Roy</p>",
-    "overs": 0,
+    "timestamp": 1715444668073,
+    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, 2 runs, short of length delivery, Venky pulls wide of mid-wicket, sliding save and looks like Venky is again limping. Is it cramp or hammie? </p>",
+    "ballNbr": 41,
+    "overs": 6.5,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
+      "id": 10917,
+      "batRuns": 37,
+      "ballsPlayed": 17,
+      "dotBalls": 6,
+      "batFours": 5,
+      "batSixes": 2
     },
     "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
+      "id": 14598,
+      "bowlOvers": 2.5,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715443034744,
-    "commText": "<p><b>Most ducks in the IPL</b> \\n17 - Dinesh Karthik \\n17 - Glenn Maxwell \\n17 - Rohit Sharma \\n16 - Piyush Chawla \\n16 - Sunil Narine</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1715443034734,
-    "commText": "<p> Bumrah to Venkatesh Iyer, no run, well played! The inswinger to the LHB, Venky held his bat inside the line with soft hands and the outside edge didn't carry to slip </p>",
-    "overs": 2,
+    "timestamp": 1715444690368,
+    "commText": "<p> Anshul Kamboj to Venkatesh Iyer, no run, he runs down the pitch for a big swing but the bowler digs this into the pitch and beats the bat </p>",
+    "ballNbr": 42,
+    "overs": 7,
     "events": [
       "OVER_BREAK"
     ],
     "batsmanStriker": {
       "id": 10917,
-      "batRuns": 4,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
+      "batRuns": 37,
+      "ballsPlayed": 18,
+      "dotBalls": 7,
+      "batFours": 5,
+      "batSixes": 2
     },
     "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 1,
+      "id": 14598,
+      "bowlOvers": 3,
       "bowlMaidens": 0,
-      "bowlRuns": 4,
+      "bowlRuns": 24,
       "bowlWickets": 1,
-      "bowlWides": 0,
+      "bowlWides": 1,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715443023530,
-    "commText": "<p> Bumrah to Shreyas Iyer, leg byes, 1 run, the inswinger this time, Shreyas misses the glance, ball rolls to square leg off the pad </p>",
-    "overs": 1.5,
+    "timestamp": 1715444693368,
+    "commText": "<p><b>Timeout</b>. Very good spell from Anshul Kamboj. Wise of Hardik to bowl him out when Anshul was nipping it around nicely. Venky has single-handedly kept KKR afloat. But they need at least 160 to challenge MI. Bumrah and Thushara have two each. Hardik is a handful in these conditions. Dre Russ holds the key here.</p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 4,
-      "ballsPlayed": 4,
-      "dotBalls": 3,
-      "batFours": 1,
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 0.5,
+      "id": 0,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715442945217,
-    "commText": "<p> Bumrah to Shreyas Iyer, no run, covers the line and manages to defend </p>",
-    "overs": 1.4,
+    "timestamp": 1715444889885,
+    "commText": "<p> Hardik Pandya to Nitish Rana, 1 run, inside edge onto pad, ball rolls past the stumps, he looks at his partner and then takes off for a well judged run. Short of a length delivery from Hardik, ball nipped back in to trouble Nitish on the dab to third man </p>",
+    "ballNbr": 43,
+    "overs": 7.1,
     "events": [],
     "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 4,
-      "ballsPlayed": 3,
-      "dotBalls": 2,
+      "id": 9204,
+      "batRuns": 8,
+      "ballsPlayed": 9,
+      "dotBalls": 4,
       "batFours": 1,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 0.4,
+      "id": 9647,
+      "bowlOvers": 1.1,
       "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 1,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715442908317,
-    "commText": "<p> Bumrah to Shreyas Iyer, <b>FOUR</b>, edgeddd but wide of the lone slip fielder. Third man puts in a very good dive but this fast outfield and short boundary doesn't help him. Races off the ricochet for four. Bumrah is getting nice away shape and he troubled him with a length ball </p>",
-    "overs": 1.3,
+    "timestamp": 1715444940791,
+    "commText": "<p> Hardik Pandya to Venkatesh Iyer, <b>FOUR</b>, in the airrrr and just wide of deep mid-wicket. Short of a length delivery on the leg stump, mistimed pull, deep square leg runs to the right but can't cut it off. That seemed have gone into the covers and would have picked up some moisture. Yes, Hardik is wiping the ball </p>",
+    "ballNbr": 44,
+    "overs": 7.2,
     "events": [
       "FOUR"
     ],
     "batsmanStriker": {
-      "id": 9428,
-      "batRuns": 4,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 1,
+      "id": 10917,
+      "batRuns": 41,
+      "ballsPlayed": 19,
+      "dotBalls": 7,
+      "batFours": 6,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715444943791,
+    "commText": "<p>Pause in play. Do we have another intruder? Nah, looks like it was Venky's bat that cracked had to be replaced</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 0.3,
+      "id": 0,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
-      "bowlRuns": 4,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445081989,
+    "commText": "<p> Hardik Pandya to Venkatesh Iyer, 1 run, short of length delivery, Venky pushes it to mid-off </p>",
+    "ballNbr": 45,
+    "overs": 7.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 42,
+      "ballsPlayed": 20,
+      "dotBalls": 7,
+      "batFours": 6,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 11,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445120514,
+    "commText": "<p> Hardik Pandya to Nitish Rana, <b>FOUR</b>, class shot! Short of a length delivery angling away, Nitish stays low and plays very late to cut this past backward point and beat third man to the left </p>",
+    "ballNbr": 46,
+    "overs": 7.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 12,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445161728,
+    "commText": "<p> Hardik Pandya to Nitish Rana, <b>SIX</b>, he's nailed the slog! Hardik Pandya not disguising the slower ball and paying the price. Sat up and smacked it out of sight over mid-wicket for a maximum. This is the over KKR needed to up their rate </p>",
+    "ballNbr": 47,
+    "overs": 7.5,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 18,
+      "ballsPlayed": 11,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445224541,
+    "commText": "<p> Hardik Pandya to Nitish Rana, no run, moves too far across the stumps and misses the ball. Hardik appeal for LBW but was missing off. Nitish tried to whip it over backward square leg and missed the ball </p>",
+    "ballNbr": 48,
+    "overs": 8,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 18,
+      "ballsPlayed": 12,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445289084,
+    "commText": "<p><b>Piyush Chawla, right-arm leg break, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 42,
+      "ballsPlayed": 20,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445296277,
+    "commText": "<p> Chawla to Venkatesh Iyer, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445297969,
+    "commText": "<p> Chawla to Venkatesh Iyer, <b>out</b> Caught by Suryakumar Yadav!! This is a big wicket. PC strikes first ball. The googly outside off stump, Venky advances and gets too close to the pitch of the ball and hits it hard, flat and straight to long-off. Excellent innings comes to an end. <b>Venkatesh Iyer c Suryakumar Yadav b Chawla 42(21) [4s-6 6s-2]</b> </p>",
+    "ballNbr": 49,
+    "overs": 8.1,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 10917,
+      "batRuns": 42,
+      "ballsPlayed": 21,
+      "dotBalls": 8,
+      "batFours": 6,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715442880050,
-    "commText": "<p> Bumrah to Shreyas Iyer, no run, outside off stump, Shreyas ignores </p>",
-    "overs": 1.2,
+    "timestamp": 1715445388203,
+    "commText": "<p><b>Andre Russell, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 9428,
+      "id": 7736,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445391951,
+    "commText": "<p> Chawla to Russell, no run, fairly straighter delivery, Russell defends off the front foot </p>",
+    "ballNbr": 50,
+    "overs": 8.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7736,
       "batRuns": 0,
       "ballsPlayed": 1,
       "dotBalls": 1,
@@ -3160,7 +1745,7 @@
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 9311,
+      "id": 466,
       "bowlOvers": 0.2,
       "bowlMaidens": 0,
       "bowlRuns": 0,
@@ -3170,12 +1755,13 @@
     }
   },
   {
-    "timestamp": 1715442877967,
-    "commText": "<p><b>Shreyas Iyer, right handed bat, comes to the crease</b></p>",
+    "timestamp": 1715445394951,
+    "commText": "<p>Slip in. Will he bowl the googly</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 9428,
+      "id": 0,
       "batRuns": 0,
       "ballsPlayed": 0,
       "dotBalls": 0,
@@ -3183,7 +1769,7 @@
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 18509,
+      "id": 0,
       "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
@@ -3193,94 +1779,98 @@
     }
   },
   {
-    "timestamp": 1715442769878,
-    "commText": "<p>Bumrah to Narine, <b>out</b> Bowled!! Ohh we have a brainfade from Narine. This is as similar as the Glenn Maxwell leave in the BBL a few years ago. It's no surprise that Bumrah was going to either target the helmet or the toes. Bumrah chose the latter. This was angled away and it tricked Narine into thinking it was going to miss the stumps. Did Narine not know that Bumrah has developed a late inswinger? Ask Keaton Jennings maybe. Narine just left it and the stumps brushed the base of off stump to ignite the poles. Narine looks stunned. <b>Narine b Bumrah 0(1)</b></p>",
-    "overs": 1.1,
+    "timestamp": 1715445415274,
+    "commText": "<p> Chawla to Russell, <b>SIX</b>, he does but just overpitched that and Dre Russ gets under it and murders the ball over long-on. Was heading towards middle and off but the length helped the batter there. Will he be brave enough for a googly again on a length? </p>",
+    "ballNbr": 51,
+    "overs": 8.3,
     "events": [
-      "WICKET"
+      "SIX"
     ],
     "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 0,
-      "ballsPlayed": 1,
+      "id": 7736,
+      "batRuns": 6,
+      "ballsPlayed": 2,
       "dotBalls": 1,
       "batFours": 0,
-      "batSixes": 0
+      "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 9311,
-      "bowlOvers": 0.1,
+      "id": 466,
+      "bowlOvers": 0.3,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
+      "bowlRuns": 6,
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715442765693,
-    "commText": "<p> Bumrah to Narine, <b>THATS OUT!!</b> Bowled!! </p>",
-    "overs": 0,
+    "timestamp": 1715445465910,
+    "commText": "<p> Chawla to Russell, no run, oh <b>he squares him up</b> with a big leggie. Russell did well to react off the pitch and defend that sharp turner off the back foot </p>",
+    "ballNbr": 52,
+    "overs": 8.4,
     "events": [],
     "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
+      "id": 7736,
+      "batRuns": 6,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
       "batFours": 0,
-      "batSixes": 0
+      "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 0,
+      "id": 466,
+      "bowlOvers": 0.4,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715442763085,
-    "commText": "<p><b>Jasprit Bumrah, right-arm fast, comes into the attack</b></p>",
-    "overs": 0,
+    "timestamp": 1715445488945,
+    "commText": "<p> Chawla to Russell, no run, brilliantly bowled teasing googly on the stumps, Russell respects with a forward defence </p>",
+    "ballNbr": 53,
+    "overs": 8.5,
     "events": [],
     "batsmanStriker": {
-      "id": 2276,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
+      "id": 7736,
+      "batRuns": 6,
+      "ballsPlayed": 4,
+      "dotBalls": 3,
       "batFours": 0,
-      "batSixes": 0
+      "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 0,
+      "id": 466,
+      "bowlOvers": 0.5,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715442696332,
-    "commText": "<p> N Thushara to Venkatesh Iyer, <b>FOUR</b>, oh off the mark in style. Tell him he's playing MI and see how the runs flow. Definitely not jinxing him here though. Full delivery, Venky creams it through cover-point </p>",
-    "overs": 1,
+    "timestamp": 1715445518186,
+    "commText": "<p> Chawla to Russell, <b>FOUR</b>, wow! Dre Russ has played a neat cover drive off a spinner. How often have to see that? Usually it's power than grace. But this was respecting the ball and the bowler and still outsmarting him with a purist cricket shot. Fullish leggie outside off stump, Russ leans into the drive and gets it to the left of cover </p>",
+    "ballNbr": 54,
+    "overs": 9,
     "events": [
       "OVER_BREAK",
       "FOUR"
     ],
     "batsmanStriker": {
-      "id": 10917,
-      "batRuns": 4,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
+      "id": 7736,
+      "batRuns": 10,
+      "ballsPlayed": 5,
+      "dotBalls": 3,
       "batFours": 1,
-      "batSixes": 0
+      "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 18509,
+      "id": 466,
       "bowlOvers": 1,
       "bowlMaidens": 0,
       "bowlRuns": 10,
@@ -3290,12 +1880,13 @@
     }
   },
   {
-    "timestamp": 1715442691545,
-    "commText": "<p><b>Venkatesh Iyer, left handed bat, comes to the crease</b></p>",
+    "timestamp": 1715445518196,
+    "commText": "<p><b>Venkatesh Iyer vs MI</b> \\n53(30), Abu Dhabi, 2021 \\n50*(41), Pune, 2022 \\n43(24), Mumbai DYP, 2022 \\n104(51), Mumbai WS, 2023 \\n70(52), Mumbai WS, 2024 \\n42(21), Kolkata, 2024 \\n<b>Total: </b>362 runs at 72.40, <b>SR:</b> 165.29</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 10917,
+      "id": 0,
       "batRuns": 0,
       "ballsPlayed": 0,
       "dotBalls": 0,
@@ -3313,33 +1904,329 @@
     }
   },
   {
-    "timestamp": 1715442638419,
-    "commText": "<p> N Thushara to Philip Salt, <b>out</b> Caught by Anshul Kamboj!! He's slogged at it again and perished this time. Poor ploy to play completely across the line to a bowler who is looking to sling the outswinger away. Big top edge that goes really high. This time this doesn't have enough legs and tell you what, that was a really good grab by PC though he didn't have to move much just because of the hang time on this. Early blow from MI. <b>Philip Salt c Anshul Kamboj b N Thushara 6(5) [6s-1]</b> </p>",
-    "overs": 0.5,
-    "events": [
-      "WICKET"
-    ],
+    "timestamp": 1715445595416,
+    "commText": "<p><b>Nuwan Thushara [1.0-0-10-1] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
     "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 6,
-      "ballsPlayed": 5,
-      "dotBalls": 4,
+      "id": 9204,
+      "batRuns": 18,
+      "ballsPlayed": 12,
+      "dotBalls": 0,
       "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445616064,
+    "commText": "<p> N Thushara to Nitish Rana, <b>wide</b>, tries the yorker but sprays way outside off stump </p>",
+    "ballNbr": 55,
+    "overs": 9.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 18,
+      "ballsPlayed": 12,
+      "dotBalls": 5,
+      "batFours": 2,
       "batSixes": 1
     },
     "bowlerStriker": {
       "id": 18509,
-      "bowlOvers": 0.5,
+      "bowlOvers": 1,
       "bowlMaidens": 0,
-      "bowlRuns": 6,
+      "bowlRuns": 11,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445654631,
+    "commText": "<p> N Thushara to Nitish Rana, 1 run, oh hit on the bounce! Fullish slower delivery outside off stump, Rana drives and slices it. Doesn't carry to the sweeper </p>",
+    "ballNbr": 55,
+    "overs": 9.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 19,
+      "ballsPlayed": 13,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445657631,
+    "commText": "<p>Just long-on and deep square and they have packed the off-side for Russ</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445711658,
+    "commText": "<p> N Thushara to Russell, 1 run, wide yorker outside off stump, Russell smackes it to long-off </p>",
+    "ballNbr": 56,
+    "overs": 9.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7736,
+      "batRuns": 11,
+      "ballsPlayed": 6,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445714658,
+    "commText": "<p>Hardik moves a leg-side fielder towards backward point</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445759509,
+    "commText": "<p> N Thushara to Nitish Rana, no run, <b>beaten</b>! Full slower delivery outside off stump, Nitish shapes up for a reverse scoop but misses </p>",
+    "ballNbr": 57,
+    "overs": 9.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 19,
+      "ballsPlayed": 14,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445798739,
+    "commText": "<p> N Thushara to Nitish Rana, 1 run, off pace outside off stump, Nitish looks to hit hard, slices it to off the outside edge to third man who does well to put the body behind the line to stop the boundary </p>",
+    "ballNbr": 58,
+    "overs": 9.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 20,
+      "ballsPlayed": 15,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445839566,
+    "commText": "<p> N Thushara to Russell, <b>SIX</b>, you might have as many fielders on the off-side but if you don't stop him from getting under the ball then nothing matters. Thushara missed the wide yorker an offered length, Russ slices it over cover-point for a maximum </p>",
+    "ballNbr": 59,
+    "overs": 9.5,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 7736,
+      "batRuns": 17,
+      "ballsPlayed": 7,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445896862,
+    "commText": "<p> N Thushara to Russell, no run, oh runout attempt at the bowler's end but Rana escapes. Short slower delivery, Russ slapped it hard off the back foot, extra-cover dives to the left to stop. Rana wanted the run but Russell sent him back. Throw wasn't on target and Rana had time to get back </p>",
+    "ballNbr": 60,
+    "overs": 10,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 7736,
+      "batRuns": 17,
+      "ballsPlayed": 8,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715445959023,
+    "commText": "<p> Chawla to Nitish Rana, 2 runs, slogged in the air, doesn't carry to deep square leg. Rana is home in time before Ishan ignited the stumps collecting the throw </p>",
+    "ballNbr": 61,
+    "overs": 10.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 22,
+      "ballsPlayed": 16,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715442634780,
-    "commText": "<p> N Thushara to Philip Salt, <b>THATS OUT!!</b> Caught!! </p>",
+    "timestamp": 1715446026895,
+    "commText": "<p> Chawla to Nitish Rana, 1 run, oh Rana was shaping up for a big hit, but Chawla outsmarted him with a very quick short delivery, Rana slices it over the infield to deep point </p>",
+    "ballNbr": 62,
+    "overs": 10.2,
+    "events": [
+      "TEAM_HUNDRED"
+    ],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 23,
+      "ballsPlayed": 17,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446057096,
+    "commText": "<p> Chawla to Russell, <b>FOUR</b>, Chawla errs too full with the leggie. Russ moves his leg out of the way to give him a free swing down the ground and lofts it nicely over the bowler's head </p>",
+    "ballNbr": 63,
+    "overs": 10.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 7736,
+      "batRuns": 21,
+      "ballsPlayed": 9,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446060096,
+    "commText": "<p>They have a mid-off that's very straight to Russ</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -3361,58 +2248,386 @@
     }
   },
   {
-    "timestamp": 1715442553057,
-    "commText": "<p> N Thushara to Philip Salt, no run, oh very good of MI to have a man very straight at mid-wicket. They had a square leg too. That extra fielder has saved this four. Salt belted this flick as he picked the full delivery early, but hit it straight to the man </p>",
-    "overs": 0.4,
+    "timestamp": 1715446129136,
+    "commText": "<p> Chawla to Russell, 1 run, leggie forcing Russell to go back and tap to cover-point </p>",
+    "ballNbr": 64,
+    "overs": 10.4,
     "events": [],
     "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 6,
-      "ballsPlayed": 4,
-      "dotBalls": 3,
-      "batFours": 0,
+      "id": 7736,
+      "batRuns": 22,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446177350,
+    "commText": "<p> Chawla to Nitish Rana, 1 run, advances and looks to go over cover, but gets an inside edge that rolls towards mid-wicket </p>",
+    "ballNbr": 65,
+    "overs": 10.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 24,
+      "ballsPlayed": 18,
+      "dotBalls": 6,
+      "batFours": 2,
       "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 0.4,
+      "id": 466,
+      "bowlOvers": 1.5,
       "bowlMaidens": 0,
-      "bowlRuns": 6,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446216420,
+    "commText": "<p> Chawla to Russell, no run, outstanding from the bowler, the batter and the fielder. Firstly PC saw Russ rushing down the track and bowled it so short into the wicket. He fired it as well. Russ still managed to middl the cut shot. Ball was travelling but Tilak flew to his left and saved four </p>",
+    "ballNbr": 66,
+    "overs": 11,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 7736,
+      "batRuns": 22,
+      "ballsPlayed": 11,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446279180,
+    "commText": "<p><b>Jasprit Bumrah [2.0-0-19-1] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 24,
+      "ballsPlayed": 18,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715442509700,
-    "commText": "<p> N Thushara to Philip Salt, no run, now nails the leg stump outie yorker, Salt manages to dig it out </p>",
-    "overs": 0.3,
+    "timestamp": 1715446284879,
+    "commText": "<p> Bumrah to Nitish Rana, 1 run, good length delivery on the pads, Nitish Rana shuffles inside the line and pulls it down to long leg </p>",
+    "ballNbr": 67,
+    "overs": 11.1,
     "events": [],
     "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 6,
-      "ballsPlayed": 3,
-      "dotBalls": 2,
-      "batFours": 0,
+      "id": 9204,
+      "batRuns": 25,
+      "ballsPlayed": 19,
+      "dotBalls": 6,
+      "batFours": 2,
       "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 0.3,
+      "id": 9311,
+      "bowlOvers": 2.1,
       "bowlMaidens": 0,
-      "bowlRuns": 6,
+      "bowlRuns": 20,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446338553,
+    "commText": "<p> Bumrah to Russell, 1 run, back of a length and angling into the body, went wide of the crease there and caught Russell in an awkward position as he tucked it into the leg-side, hurried him with some pace too </p>",
+    "ballNbr": 68,
+    "overs": 11.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7736,
+      "batRuns": 23,
+      "ballsPlayed": 12,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446380390,
+    "commText": "<p> Bumrah to Nitish Rana, <b>FOUR</b>,<b> that's a great shot!</b> Length delivery on middle, Nitish Rana saw that mid-off was in the ring so he backed away to make some room before slapping it up and over that man, not great timing but he had enough to clear the ring </p>",
+    "ballNbr": 69,
+    "overs": 11.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 29,
+      "ballsPlayed": 20,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446386390,
+    "commText": "<p><b>KKR review.</b> Nitish Rana has been given out LBW, this looks very out</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715442470851,
-    "commText": "<p> N Thushara to Philip Salt, no run, <b>beaten</b>! Thushara gets the outswinger spot on this time. Starts straight and takes it past Salt's bat and this was much closer to the off stump </p>",
-    "overs": 0.2,
+    "timestamp": 1715446499901,
+    "commText": "<p> Bumrah to Nitish Rana, no run, <b>the review saves him!</b> A seering yorker, it was honing into middle-stump and Nitish Rana shuffled across a step looking to clip it into the leg-side, hit him on the front-pad and it looked quite plumb, ball-tracker shows that it was just about <b>pitching outside leg though!</b> </p>",
+    "ballNbr": 70,
+    "overs": 11.4,
+    "events": [
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 29,
+      "ballsPlayed": 21,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446535431,
+    "commText": "<p> Bumrah to Nitish Rana, <b>FOUR</b>, <b>great shot!</b> A low full-toss on middle, Nitish Rana stayed deep in his crease and shoveled it away through mid-wicket with a flick, good timing and it races away from the man chasing it </p>",
+    "ballNbr": 71,
+    "overs": 11.5,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 33,
+      "ballsPlayed": 22,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 29,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446631260,
+    "commText": "<p> Bumrah to Nitish Rana, <b>THATS OUT!!</b> Run Out!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 10479,
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446634103,
+    "commText": "<p> Bumrah to Nitish Rana, <b>out</b> Nitish Rana Run Out!! <b>Brilliant throw and it finds Nitish Rana short!</b> There was just a moment of hesitation in the running there and that's enough for Tilak Verma to find Nitish Rana short. Was a very full delivery just outside leg, Nitish Rana made a lot of room and steered it into the off-side towards point before taking off for a run, he was just a shade slow and a direct-hit at the non-striker's end found just an inch short. <b>Nitish Rana run out (Tilak Varma) 33(23) [4s-4 6s-1]</b> </p>",
+    "ballNbr": 72,
+    "overs": 12,
+    "events": [
+      "OVER_BREAK",
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 9204,
+      "batRuns": 33,
+      "ballsPlayed": 23,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 29,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446634113,
+    "commText": "<p><b>Highlights (Overs 6-12):</b> \\n-- Hardik bowls a tight over 1st over after the powerplay \\n-- Kamboj concedes 9 off his 3rd over \\n-- Hardik goes for 2 fours and a six in his 2nd over \\n-- Piyush Chawla gets rid of Venky Iyer off his 1st ball \\n-- Russell and Rana rebuild with a 35-run stand \\n-- Rana uses DRS to overturn (off Bumrah) a lbw call (pitched outside leg) on 29 \\n-- Tilak Varma direct hit catches Rana short of his crease 2 balls later</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446686079,
+    "commText": "<p><b>Rinku Singh, left handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7736,
+      "batRuns": 23,
+      "ballsPlayed": 12,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446695959,
+    "commText": "<p> Chawla to Rinku Singh, no run, very full on middle, Rinku Singh makes room and steers it towards point </p>",
+    "ballNbr": 73,
+    "overs": 12.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446717246,
+    "commText": "<p> Chawla to Rinku Singh, <b>SIX</b>,<b> he's smoked this out of the ground!</b> Floated up full on off-stump, Rinku Singh skips down the track and gets to the pitch of it before smashing it a long way over cow corner </p>",
+    "ballNbr": 74,
+    "overs": 12.2,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10896,
       "batRuns": 6,
       "ballsPlayed": 2,
       "dotBalls": 1,
@@ -3420,43 +2635,975 @@
       "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 0.2,
+      "id": 466,
+      "bowlOvers": 2.2,
       "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715442430972,
-    "commText": "<p> N Thushara to Philip Salt, <b>SIX</b>, how did that go over long-off? Seemed like Salt didn't intent to hit it there initially. It was a fullish gentle outie outside off stump, Salt swung straight, seemed like it flew off the outer half of the bat. Had great height on it and good distance too. Off the mark with a bang </p>",
-    "overs": 0.1,
-    "events": [
-      "SIX"
-    ],
+    "timestamp": 1715446760534,
+    "commText": "<p> Chawla to Rinku Singh, 1 run, flatter and quicker outside off, Rinku Singh hangs back and waits for it before steering it towards short third man </p>",
+    "ballNbr": 75,
+    "overs": 12.3,
+    "events": [],
     "batsmanStriker": {
-      "id": 10479,
-      "batRuns": 6,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
+      "id": 10896,
+      "batRuns": 7,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
       "batFours": 0,
       "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 18509,
-      "bowlOvers": 0.1,
+      "id": 466,
+      "bowlOvers": 2.3,
       "bowlMaidens": 0,
-      "bowlRuns": 6,
+      "bowlRuns": 26,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446809238,
+    "commText": "<p> Chawla to Russell, 1 run, very full on leg-stump, not giving him enough room to free his arms, went for a slog and mistimed it towards wide long-on </p>",
+    "ballNbr": 76,
+    "overs": 12.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7736,
+      "batRuns": 24,
+      "ballsPlayed": 13,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446842962,
+    "commText": "<p> Chawla to Rinku Singh, 1 run, length delivery on off-stump, Rinku Singh presses back and cuts it away to deep point </p>",
+    "ballNbr": 77,
+    "overs": 12.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 8,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446881293,
+    "commText": "<p> Chawla to Russell, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7736,
+      "batRuns": 24,
+      "ballsPlayed": 13,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1715442417283,
-    "commText": "<p><b>Philip Salt and Narine are at the crease. Philip Salt is on strike. N Thushara will open the attack</b></p>",
+    "timestamp": 1715446882021,
+    "commText": "<p> Chawla to Russell, <b>out</b> Caught by Anshul Kamboj!! <b>Kamboj holds on to a steepler!</b> Pretty clever bowling from Chawla, he went for a seam-up bouncer, it only got about hip-high but it was bowled at 117kph, just enough to rush Russell as he pressed back looking to pull it away, it took the top half of the bat and went a mile in the air before going down to Kamboj at deep square leg. Great catch that, he settled himself and looked totally comfortable taking it. Another blow at just the right time for MI. <b>Russell c Anshul Kamboj b Chawla 24(14) [4s-2 6s-2]</b> </p>",
+    "ballNbr": 78,
+    "overs": 13,
+    "events": [
+      "OVER_BREAK",
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 7736,
+      "batRuns": 24,
+      "ballsPlayed": 14,
+      "dotBalls": 6,
+      "batFours": 2,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715446885021,
+    "commText": "<p><b>Timeout.</b> KKR losing wickets here when they need some impetus. Just 3 overs left and they'll want to get to at least 160. MI have been pretty good with ball and in the field today.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447100398,
+    "commText": "<p><b>Ramandeep Singh, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 8,
+      "ballsPlayed": 4,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447117721,
+    "commText": "<p><b>Hardik Pandya [2.0-0-21-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 8,
+      "ballsPlayed": 4,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 466,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447120831,
+    "commText": "<p> Hardik Pandya to Rinku Singh, 1 run, length delivery outside off, Rinku hangs back and eases it down to third man </p>",
+    "ballNbr": 79,
+    "overs": 13.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 9,
+      "ballsPlayed": 5,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447158034,
+    "commText": "<p> Hardik Pandya to Ramandeep Singh, 2 runs, length delivery on off-stump, Ramandeep Singh taps it gently towards mid-wicket and they charge back for two, great running </p>",
+    "ballNbr": 80,
+    "overs": 13.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12337,
+      "batRuns": 2,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447202014,
+    "commText": "<p> Hardik Pandya to Ramandeep Singh, 1 run, Hardik Pandya goes for the yorker on off-stump, gets it right and Ramandeep Singh clips it towards long-on for one </p>",
+    "ballNbr": 81,
+    "overs": 13.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12337,
+      "batRuns": 3,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447238266,
+    "commText": "<p> Hardik Pandya to Rinku Singh, no run, length delivery slanting across outside off, was pace off and Rinku Singh missed an attempted cut </p>",
+    "ballNbr": 82,
+    "overs": 13.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 9,
+      "ballsPlayed": 6,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447282761,
+    "commText": "<p> Hardik Pandya to Rinku Singh, <b>SIX</b>, <b>that's been sent into orbit!</b> Full and on the pads, a juicy half-volley and Rinku Singh got under it before depositing it over deep square leg, went high and far </p>",
+    "ballNbr": 83,
+    "overs": 13.5,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 15,
+      "ballsPlayed": 7,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447323044,
+    "commText": "<p> Hardik Pandya to Rinku Singh, 1 run, length delivery on off-stump, Rinku Singh shuffles across looking to lap it fine, doesn't hit it cleanly and finds the man at short fine-leg </p>",
+    "ballNbr": 84,
+    "overs": 14,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 16,
+      "ballsPlayed": 8,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447326044,
+    "commText": "<p>Tushara in for his last over</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447406721,
+    "commText": "<p><b>Nuwan Thushara [2.0-0-20-1] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 16,
+      "ballsPlayed": 8,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9647,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447413561,
+    "commText": "<p> N Thushara to Rinku Singh, 1 run, very full on off-stump, knocked out towards cover for one </p>",
+    "ballNbr": 85,
+    "overs": 14.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 17,
+      "ballsPlayed": 9,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447459094,
+    "commText": "<p> N Thushara to Ramandeep Singh, 1 run, nails the yorker outside off, Ramandeep Singh stays deep in his crease and carves it out to deep backward point </p>",
+    "ballNbr": 86,
+    "overs": 14.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12337,
+      "batRuns": 4,
+      "ballsPlayed": 3,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447500576,
+    "commText": "<p> N Thushara to Rinku Singh, 1 run, brilliant yorker again, tails away just a touch as Rinku Singh squeezes it out to point, just one </p>",
+    "ballNbr": 87,
+    "overs": 14.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 18,
+      "ballsPlayed": 10,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447548967,
+    "commText": "<p> N Thushara to Ramandeep Singh, <b>FOUR</b>, <b>in the air and four!</b> Full and wide outside off, was pace off, Ramandeep Singh stepped right across his stumps and reached out looking to slog this, he got a top-edge and it flew to the long-leg ropes, no one out there </p>",
+    "ballNbr": 88,
+    "overs": 14.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 12337,
+      "batRuns": 8,
+      "ballsPlayed": 4,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447584547,
+    "commText": "<p> N Thushara to Ramandeep Singh, <b>wide</b>, length delivery wide outside off, just past the tramline </p>",
+    "ballNbr": 89,
+    "overs": 14.5,
+    "events": [
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 12337,
+      "batRuns": 8,
+      "ballsPlayed": 4,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447587547,
+    "commText": "<p>MI review for wide, they won't get it overturned</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447666980,
+    "commText": "<p> N Thushara to Ramandeep Singh, 1 run, wide yorker outside off, Ramandeep Singh carves it out to third man </p>",
+    "ballNbr": 89,
+    "overs": 14.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12337,
+      "batRuns": 9,
+      "ballsPlayed": 5,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 29,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447714281,
+    "commText": "<p> N Thushara to Rinku Singh, 2 runs, attempted yorker ends up being a low full-toss, Rinku Singh manages to get under it and shovels it out towards wide long-on, not the best of timing and David is able to keep that in, two more added, good over from Thushara </p>",
+    "ballNbr": 90,
+    "overs": 15,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 20,
+      "ballsPlayed": 11,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 1,
+      "bowlWides": 2,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447717281,
+    "commText": "<p>Final over coming up</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447786779,
+    "commText": "<p><b>Jasprit Bumrah [3.0-0-29-1] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12337,
+      "batRuns": 9,
+      "ballsPlayed": 5,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447882443,
+    "commText": "<p> Bumrah to Ramandeep Singh, 1 run, nails the yorker on middle, Ramandeep Singh clips it to square leg and they pinch a quick single </p>",
+    "ballNbr": 91,
+    "overs": 15.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12337,
+      "batRuns": 10,
+      "ballsPlayed": 6,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 30,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447939694,
+    "commText": "<p> Bumrah to Rinku Singh, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 20,
+      "ballsPlayed": 11,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715447940641,
+    "commText": "<p> Bumrah to Rinku Singh, <b>out</b> Caught by Ishan Kishan!! <b>Edged and gone!</b> Full and just outside off, was pace off and Rinku Singh had a big slog at this, got a thick edge and Ishan Kishan did the rest. Yet another wicket for the ever-impressive Bumrah. <b>Rinku Singh c Ishan Kishan b Bumrah 20(12) [6s-2]</b> </p>",
+    "ballNbr": 92,
+    "overs": 15.2,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 10896,
+      "batRuns": 20,
+      "ballsPlayed": 12,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 2
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 30,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715448014744,
+    "commText": "<p><b>Mitchell Starc, left handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7710,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18509,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715448022591,
+    "commText": "<p> Bumrah to Starc, 1 run, low full-toss from round the wicket, Starc knocks it towards cover for one </p>",
+    "ballNbr": 93,
+    "overs": 15.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7710,
+      "batRuns": 1,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 31,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715448051454,
+    "commText": "<p> Bumrah to Ramandeep Singh, 1 run, full and straight on middle, pushed down the ground to long-on </p>",
+    "ballNbr": 94,
+    "overs": 15.4,
+    "events": [
+      "TEAM_HUNDRED"
+    ],
+    "batsmanStriker": {
+      "id": 12337,
+      "batRuns": 11,
+      "ballsPlayed": 7,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715448093196,
+    "commText": "<p> Bumrah to Starc, 1 run, full on leg-stump from round the wicket again, flicked away to deep square leg, just one </p>",
+    "ballNbr": 95,
+    "overs": 15.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 7710,
+      "batRuns": 2,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 33,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715448133094,
+    "commText": "<p> Bumrah to Ramandeep Singh, <b>SIX</b>, <b>that's a great way to finish!</b> A rare miss from Bumrah as he serves up a slot-ball, Ramandeep Singh was deep in his crease and he lofted it clean over long-on </p>",
+    "ballNbr": 96,
+    "overs": 16,
+    "events": [
+      "OVER_BREAK",
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 12337,
+      "batRuns": 17,
+      "ballsPlayed": 8,
+      "dotBalls": 0,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 9311,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 39,
+      "bowlWickets": 2,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715448136094,
+    "commText": "<p><b>22:52 Local Time, 17:22 GMT, 22:52 IST:</b> A very closely fought contest so far. After putting KKR into bat, MI got off to a dream start. Salt holed out in the very first over and Bumrah bowled a scorching inswinging yorker to get rid of Narine first ball. Shreyas Iyer ended up getting bowled round his legs not too long thereafter and KKR were in strife. That's when Venky Iyer stood up to the task. He made a free-flowing 42 before a nice partnership between Nitish Rana and Andre Russell got KKR back on track. Rinku Singh and Ramandeep Singh made some vital contributions down the order as well as KKR got to 157. It's a total that's probably just on par, should be a riveting chase coming up.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715448136105,
+    "commText": "<p><b>Piyush Chawla in IPL 2024</b> \\nFirst seven matches: 4 wickets at 51.75, SR:31.5, ER: 9.86 \\nLast three matches: 6 wickets at 12.66, SR: 10, ER: 7.6</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715448136115,
+    "commText": "<p><b>Rinku Singh vs Jasprit Bumrah in the IPL</b> \\nRuns: 10 \\nBalls: 14 \\nDismissals: 3 \\nAvg: 3.33 \\nSR: 71.42</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715448136125,
+    "commText": "<p><b>20 or more wickets in an IPL season most often</b> \\n5 - Yuzvendra Chahal \\n4 - Jasprit Bumrah \\n4 - Lasith Malinga</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715448136135,
+    "commText": "<p><b>Most dismissals as a wicketkeeper for MI in the IPL</b> \\n48 - Ishan Kishan \\n47 - Quinton de Kock \\n28 - Parthiv Patel \\n21 - Dinesh Karthik</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1715448139094,
+    "commText": "<p>Right we're back for the chase! Rohit Sharma comes in as an impact sub as expected and Tushara goes out. For KKR, Rana has been subbed out for Vaibhav Arora. Here we go</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

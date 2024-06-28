@@ -1,421 +1,8 @@
 [
   {
-    "timestamp": 1711979932835,
-    "commText": "<p>Right then, the players are out in the middle. The two openers are ready to roll as Wankhede is set to witness the first game of the season. A couple of slips in place. Here we go!</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711979303059,
-    "commText": "<p>We have made a few changes to our Fantasy Handbook, do check them out before locking your teams..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711978920909,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711978830628,
-    "commText": "<p><b>Rajasthan Royals Subs:</b> Rovman Powell, Tanush Kotian, Kuldeep Sen, Shubham Dubey, Abid Mushtaq</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711978762235,
-    "commText": "<p><b>Mumbai Indians Subs:</b> Dewald Brevis, Nuwan Thushara, Romario Shepherd, Nehal Wadhera, Shams Mulani</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711978643793,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711978642116,
-    "commText": "<p><b>Mumbai Indians</b> (Playing XI): Ishan Kishan(w), Rohit Sharma, Naman Dhir, Tilak Varma, Hardik Pandya(c), Tim David, Gerald Coetzee, Piyush Chawla, Akash Madhwal, Jasprit Bumrah, Kwena Maphaka</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711978619453,
-    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Nandre Burger, Yuzvendra Chahal</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711978310088,
-    "commText": "<p><b>Hardik Pandya:</b> We were planning to bowl first. It's quite exciting to be a part of this game. We always look forward to the future, need to follow the process. Looking forward to playing a brand of cricket everyone enjoys. Playing the same team.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711978283826,
-    "commText": "<p><b>Sanju Samson:</b> We want to bowl first. The wicket looks fresh, it's the first game of the season, will get help for the fast bowlers. We would like to keep on doing the same things. Sandeep misses out, he is not fit. Burger comes in.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711978260897,
-    "commText": "<p><b>Rajasthan Royals have won the toss and have opted to field</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711978189332,
-    "commText": "<p>Right then, the two captains are out in the middle. It's <b>toss time..</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711977517984,
-    "commText": "<p><b>Pitch and ground dimensions:</b> It's pitch number 7. 63m and 65m square boundaries respectively, 74m down the ground. This surface wasn't used last year, the two tracks adjacent to it were used. If you bat first, you need to score big here. It's a red soil pitch, looks great and has a generous covering of grass. You are going to see a lot of runs. Spinners won't be effective, reckons <b>Brian Lara.</b> A lot of runs were scored at this venue last year, could well be the same case this season.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711977480986,
-    "commText": "<p><b>Naman Dhir:</b> Have been given clear instructions by the management to play my shots, but at the same time dont want to be careless. There is a thin line between careless and fearless. I was born in Ambala, Haryana but when I was about 5 years old, we moved to Punjab. I've played all my cricket from there, have been in the Ranji circuit for the last 2-3 years and very happy to now get a chance in the IPL. We had a Sher-e-Punjab T20 tournament, and after that tournament I got a call from Rahul Sanghvi (MI scout). He told me that the team are scouting me and looking to pick me. I didn't have a great SMAT in 2023, but still got picked. Very grateful to MI for this opportunity.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711977443987,
-    "commText": "<p><b>Dhruv Jurel:</b> Feeling good, did well in the Tests, the transition is different from red-ball to white-ball cricket, but that's what you expect as a professional. The confidence gained playing for India has helped me, I want to contribute and help my team win. We have played well in the 2 matches, someone or the other is contributing for the team, either with the ball or with the bat.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711976809169,
-    "commText": "<p>Mumbai Indians lost plenty of followers on their social media platforms when Hardik Pandya replaced Rohit Sharma as Mumbai's captain a few months back, and the Mumbai fans haven't shown any mercy to their new skipper since the start of the tournament either. They have trolled Hardik at Ahmedabad and Hyderabad, and the crowd at the Wankhede can be even more brutal, given the history of IPL at this particular venue. Even Virat Kohli has been booed here in the past. Hopefully this backlash doesn't dent Hardik's confidence going forward. Can he put up a better performance and earn the trust of MI fans? Only time has all the answers. For now stay around for the toss and teams..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711976419141,
-    "commText": "<p><b>18:30 Local Time, 13:00 GMT, 18:30 IST:</b> Rajasthan - 2 out of 2 wins. Mumbai - 2 out of 2 losses. Mumbai Indians have once again lived up to their tag of being traditional slow starters in the IPL. They lost against Gujarat Titans in Ahmedabad and were manhandled by the Sunrisers batters in their following game in Hyderabad. Hello and welcome to the 14th clash of the season folks! It\u2019s the first game of IPL 2024 at the Wankhede and Mumbai Indians are desperate to open their account. No better place than in front of their home crowd, isn\u2019t it? Amongst the sea of blue will be a team in pink - the Rajasthan Royals looking forward to keeping their winning streak alive. With two clinical victories, the Royals are only one of the two teams yet to be beaten in the competition.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711894172818,
-    "commText": "<p><b>Preview by Vijay Tagore:</b> \\n \\n A telling piece of statistic that aptly captures Hardik Pandya's widely debated captaincy is the frequency of him opening the bowling. In 92 IPL games prior to assuming the leadership role, he opened the attack just six times. Since taking over the reins in 2022, he has opened the bowling on 17 occasions out of 33 matches, including in the first two games of IPL 2024. \\n \\nThis oddity is underscored by a recent decision of calling upon Jasprit Bumrah for his second over in 13th of Sunrisers Hyderabad's innings. It was in this game that Mumbai Indians conceded the highest IPL total of 277 for 3. It would seem that the team's bowling strategy is going haystack despite IPL veteran like Lasith Malinga among the support staff. For the record, MI have the worst economy rate among the 10 teams since the start of IPL 2023. \\n \\n\"Yeah, that day the things were a little different. But at that particular time, what your captain, what the team feels is the best for the team, he was doing that. Most of the times we have seen Jasprit pulling one odd over in the power play and then one in the middle and a couple of overs in the death. Most of the bowlers, not only from our team, even from the other team, all went for runs. So the game was like that. The surface was like that,\" Piyush Chawla, the MI spinner, said defending the bowling changes. \\n \\nAmidst the questionable bowling changes, certain batting calls have also raised eyebrows. For instance, the choice to shield Tim David by Tilak Varma from facing Rashid Khan in the first match seemed unconventional, much like Pandya's decision to bat at No. 7 in the same game, ostensibly to evade facing Rashid Khan, a notion suggested by Irfan Pathan, Pandya's Baroda mate. \\n \\nNo wonder then that Mumbai are without a win from two games but then MI losing initial games is nothing new. They have been here and done that. They have the wherewithal to bounce back, more so when they are playing four games on the bounce at home. But they certainly need to review their strategies - bowling in particular -- when they take on Rajasthan Royals at the Wankhede on Monday night. \\n \\nThe visitors have had a blazing start to the season with all wings of the side working. The captaincy of Sanju Samson has been very sagacious while the team's investment on Riyan Parag is paying off. The R Ashwin-Yuzvendra Chahal combination has started well while Avesh Khan and Sandeep Sharma, the two Indian pacers, have done well too. Trent Boult, well, has been Trent Boult. \\n \\nThe only concern for the Royals may be the form of Jos Buttler who, interestingly, got five ducks last year, the most for anyone in a single edition, and managed only scores of 11(9) and 11(16) in this season so far. Given his quality and experience, the team management will persist with the English captain for now but at some stage during the season, they could unleash Tom Kohler-Cadmore. \\n \\n<b>When:</b> Mumbai Indians vs Rajasthan Royals, IPL 2024, March 29, 19:30 IST \\n \\n<b>Where:</b> Wankhede Stadium, Mumbai \\n \\n<b>What to expect:</b> Five of the seven matches at the Wankhede last year were won by the chasing side, effectively forcing the captain winning the toss to bowl first. It should be a high-scoring game and the venue has seen some big run-chases. It can't be any different on Monday night. \\n \\n<b>Head to Head:</b> MI 15 - 12 RR. At the Wankhede, MI have a 5-3 edge. Last year RR came close to beating MI at the venue but they failed to defend 212/7, with Tim David showcasing his finishing prowess. \\n \\n<b>Team Watch</b> \\n \\n<b>Mumbai Indians</b> \\n \\n<b>Injury and availability:</b> Barring Suryakumar Yadav, who is undergoing rehab at the NCA, all other players are available. \\n \\n<b>Tactics and Match-ups:</b> MI will want to use Jasprit Bumrah in the PowerPlay for early breakthroughs and it is unlikely there will be too many changes to the XI. \\n \\n<b>Probable XI:</b> Ishan Kishan (wk), Rohit Sharma, Naman Dhir, Tilak Varma, Hardik Pandya (c), Tim David, Gerald Coetzee, Shams Mulani, Piyush Chawla, Jasprit Bumrah, Kwena Maphaka \\n \\n<b>Rajasthan Royals</b> \\n \\n<b>Injury and availability:</b> There is no reported injury and all players available. \\n \\n<b>Probable XI:</b> Yashasvi Jaiswal, Jos Buttler, Sanju Samson (c & wk), Riyan Parag, Shimron Hetmyer, Dhruv Jurel, Ravichandran Ashwin, Trent Boult, Yuzvendra Chahal, Sandeep Sharma, Avesh Khan. \\n \\n<b>Tactics and match-ups:</b> It's unlikely the Royals will tamper with their winning formula. They would be expected to attack Rohit Sharma and Ishan Kishan through Trent Boult, who is known to provide early breakthroughs. \\n \\n<b>Did you know?</b> \\n \\n- Of all the venues that hosted at least five matches in IPL 2023, Wankhede had the joint-highest average first-innings score (198), alongside Mohali. \\n \\n- After bagging the Orange Cap in RR's runners-up finish in 2022, Buttler recorded five ducks last year, the most for anyone in a single edition, and has registered scores of 11(9) and 11(16) in his two IPL 2024 outings so far. \\n \\n- Hardik's tenure as MI's captain has started with back-to-back defeats, and he now returns to Wankhede where he has played 35 out of his 125 IPL matches. \\n \\n<b>What they said:</b> \\n \\n\"Everyone is different, Rohit has a different way of leading the side, Hardik has a different way. As we all know, Hardik is one of the successful captains coming from GT where they made two finals in two years.\" <b>- Piyush Chawla</b> \\n \\n\"I think this tournament and T20 cricket is all about momentum. You always want to win every game, but it is about playing good cricket and getting on a roll. We've had a good start to the season equally. Last year we had a good start to the tournament and things didn't quite go the way we wanted.\" <b>- Trent Boult</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1711894172808,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1711894059692,
+    "commText": "<p><b>Mumbai Indians</b> Squad: Rohit Sharma, Ishan Kishan(w), Naman Dhir, Tilak Varma, Hardik Pandya(c), Tim David, Romario Shepherd, Shams Mulani, Gerald Coetzee, Piyush Chawla, Jasprit Bumrah, Kwena Maphaka, Mohammad Nabi, Suryakumar Yadav, Shreyas Gopal, Luke Wood, Vishnu Vinod, Arjun Tendulkar, Nehal Wadhera, Kumar Kartikeya, Shivalik Sharma, Anshul Kamboj, Akash Madhwal, Nuwan Thushara, Dewald Brevis</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -439,6 +26,7 @@
   {
     "timestamp": 1711894171817,
     "commText": "<p><b>Rajasthan Royals</b> Squad: Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Ravichandran Ashwin, Dhruv Jurel, Shimron Hetmyer, Trent Boult, Yuzvendra Chahal, Sandeep Sharma, Avesh Khan, Nandre Burger, Navdeep Saini, Keshav Maharaj, Tom Kohler-Cadmore, Rovman Powell, Tanush Kotian, Kuldeep Sen, Donovan Ferreira, Abid Mushtaq, Shubham Dubey, Kunal Singh Rathore</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -460,8 +48,441 @@
     }
   },
   {
-    "timestamp": 1711894059692,
-    "commText": "<p><b>Mumbai Indians</b> Squad: Rohit Sharma, Ishan Kishan(w), Naman Dhir, Tilak Varma, Hardik Pandya(c), Tim David, Romario Shepherd, Shams Mulani, Gerald Coetzee, Piyush Chawla, Jasprit Bumrah, Kwena Maphaka, Mohammad Nabi, Suryakumar Yadav, Shreyas Gopal, Luke Wood, Vishnu Vinod, Arjun Tendulkar, Nehal Wadhera, Kumar Kartikeya, Shivalik Sharma, Anshul Kamboj, Akash Madhwal, Nuwan Thushara, Dewald Brevis</p>",
+    "timestamp": 1711894172808,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711894172818,
+    "commText": "<p><b>Preview by Vijay Tagore:</b> \\n \\n A telling piece of statistic that aptly captures Hardik Pandya's widely debated captaincy is the frequency of him opening the bowling. In 92 IPL games prior to assuming the leadership role, he opened the attack just six times. Since taking over the reins in 2022, he has opened the bowling on 17 occasions out of 33 matches, including in the first two games of IPL 2024. \\n \\nThis oddity is underscored by a recent decision of calling upon Jasprit Bumrah for his second over in 13th of Sunrisers Hyderabad's innings. It was in this game that Mumbai Indians conceded the highest IPL total of 277 for 3. It would seem that the team's bowling strategy is going haystack despite IPL veteran like Lasith Malinga among the support staff. For the record, MI have the worst economy rate among the 10 teams since the start of IPL 2023. \\n \\n\"Yeah, that day the things were a little different. But at that particular time, what your captain, what the team feels is the best for the team, he was doing that. Most of the times we have seen Jasprit pulling one odd over in the power play and then one in the middle and a couple of overs in the death. Most of the bowlers, not only from our team, even from the other team, all went for runs. So the game was like that. The surface was like that,\" Piyush Chawla, the MI spinner, said defending the bowling changes. \\n \\nAmidst the questionable bowling changes, certain batting calls have also raised eyebrows. For instance, the choice to shield Tim David by Tilak Varma from facing Rashid Khan in the first match seemed unconventional, much like Pandya's decision to bat at No. 7 in the same game, ostensibly to evade facing Rashid Khan, a notion suggested by Irfan Pathan, Pandya's Baroda mate. \\n \\nNo wonder then that Mumbai are without a win from two games but then MI losing initial games is nothing new. They have been here and done that. They have the wherewithal to bounce back, more so when they are playing four games on the bounce at home. But they certainly need to review their strategies - bowling in particular -- when they take on Rajasthan Royals at the Wankhede on Monday night. \\n \\nThe visitors have had a blazing start to the season with all wings of the side working. The captaincy of Sanju Samson has been very sagacious while the team's investment on Riyan Parag is paying off. The R Ashwin-Yuzvendra Chahal combination has started well while Avesh Khan and Sandeep Sharma, the two Indian pacers, have done well too. Trent Boult, well, has been Trent Boult. \\n \\nThe only concern for the Royals may be the form of Jos Buttler who, interestingly, got five ducks last year, the most for anyone in a single edition, and managed only scores of 11(9) and 11(16) in this season so far. Given his quality and experience, the team management will persist with the English captain for now but at some stage during the season, they could unleash Tom Kohler-Cadmore. \\n \\n<b>When:</b> Mumbai Indians vs Rajasthan Royals, IPL 2024, March 29, 19:30 IST \\n \\n<b>Where:</b> Wankhede Stadium, Mumbai \\n \\n<b>What to expect:</b> Five of the seven matches at the Wankhede last year were won by the chasing side, effectively forcing the captain winning the toss to bowl first. It should be a high-scoring game and the venue has seen some big run-chases. It can't be any different on Monday night. \\n \\n<b>Head to Head:</b> MI 15 - 12 RR. At the Wankhede, MI have a 5-3 edge. Last year RR came close to beating MI at the venue but they failed to defend 212/7, with Tim David showcasing his finishing prowess. \\n \\n<b>Team Watch</b> \\n \\n<b>Mumbai Indians</b> \\n \\n<b>Injury and availability:</b> Barring Suryakumar Yadav, who is undergoing rehab at the NCA, all other players are available. \\n \\n<b>Tactics and Match-ups:</b> MI will want to use Jasprit Bumrah in the PowerPlay for early breakthroughs and it is unlikely there will be too many changes to the XI. \\n \\n<b>Probable XI:</b> Ishan Kishan (wk), Rohit Sharma, Naman Dhir, Tilak Varma, Hardik Pandya (c), Tim David, Gerald Coetzee, Shams Mulani, Piyush Chawla, Jasprit Bumrah, Kwena Maphaka \\n \\n<b>Rajasthan Royals</b> \\n \\n<b>Injury and availability:</b> There is no reported injury and all players available. \\n \\n<b>Probable XI:</b> Yashasvi Jaiswal, Jos Buttler, Sanju Samson (c & wk), Riyan Parag, Shimron Hetmyer, Dhruv Jurel, Ravichandran Ashwin, Trent Boult, Yuzvendra Chahal, Sandeep Sharma, Avesh Khan. \\n \\n<b>Tactics and match-ups:</b> It's unlikely the Royals will tamper with their winning formula. They would be expected to attack Rohit Sharma and Ishan Kishan through Trent Boult, who is known to provide early breakthroughs. \\n \\n<b>Did you know?</b> \\n \\n- Of all the venues that hosted at least five matches in IPL 2023, Wankhede had the joint-highest average first-innings score (198), alongside Mohali. \\n \\n- After bagging the Orange Cap in RR's runners-up finish in 2022, Buttler recorded five ducks last year, the most for anyone in a single edition, and has registered scores of 11(9) and 11(16) in his two IPL 2024 outings so far. \\n \\n- Hardik's tenure as MI's captain has started with back-to-back defeats, and he now returns to Wankhede where he has played 35 out of his 125 IPL matches. \\n \\n<b>What they said:</b> \\n \\n\"Everyone is different, Rohit has a different way of leading the side, Hardik has a different way. As we all know, Hardik is one of the successful captains coming from GT where they made two finals in two years.\" <b>- Piyush Chawla</b> \\n \\n\"I think this tournament and T20 cricket is all about momentum. You always want to win every game, but it is about playing good cricket and getting on a roll. We've had a good start to the season equally. Last year we had a good start to the tournament and things didn't quite go the way we wanted.\" <b>- Trent Boult</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711976419141,
+    "commText": "<p><b>18:30 Local Time, 13:00 GMT, 18:30 IST:</b> Rajasthan - 2 out of 2 wins. Mumbai - 2 out of 2 losses. Mumbai Indians have once again lived up to their tag of being traditional slow starters in the IPL. They lost against Gujarat Titans in Ahmedabad and were manhandled by the Sunrisers batters in their following game in Hyderabad. Hello and welcome to the 14th clash of the season folks! It\u2019s the first game of IPL 2024 at the Wankhede and Mumbai Indians are desperate to open their account. No better place than in front of their home crowd, isn\u2019t it? Amongst the sea of blue will be a team in pink - the Rajasthan Royals looking forward to keeping their winning streak alive. With two clinical victories, the Royals are only one of the two teams yet to be beaten in the competition.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711976809169,
+    "commText": "<p>Mumbai Indians lost plenty of followers on their social media platforms when Hardik Pandya replaced Rohit Sharma as Mumbai's captain a few months back, and the Mumbai fans haven't shown any mercy to their new skipper since the start of the tournament either. They have trolled Hardik at Ahmedabad and Hyderabad, and the crowd at the Wankhede can be even more brutal, given the history of IPL at this particular venue. Even Virat Kohli has been booed here in the past. Hopefully this backlash doesn't dent Hardik's confidence going forward. Can he put up a better performance and earn the trust of MI fans? Only time has all the answers. For now stay around for the toss and teams..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711977443987,
+    "commText": "<p><b>Dhruv Jurel:</b> Feeling good, did well in the Tests, the transition is different from red-ball to white-ball cricket, but that's what you expect as a professional. The confidence gained playing for India has helped me, I want to contribute and help my team win. We have played well in the 2 matches, someone or the other is contributing for the team, either with the ball or with the bat.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711977480986,
+    "commText": "<p><b>Naman Dhir:</b> Have been given clear instructions by the management to play my shots, but at the same time dont want to be careless. There is a thin line between careless and fearless. I was born in Ambala, Haryana but when I was about 5 years old, we moved to Punjab. I've played all my cricket from there, have been in the Ranji circuit for the last 2-3 years and very happy to now get a chance in the IPL. We had a Sher-e-Punjab T20 tournament, and after that tournament I got a call from Rahul Sanghvi (MI scout). He told me that the team are scouting me and looking to pick me. I didn't have a great SMAT in 2023, but still got picked. Very grateful to MI for this opportunity.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711977517984,
+    "commText": "<p><b>Pitch and ground dimensions:</b> It's pitch number 7. 63m and 65m square boundaries respectively, 74m down the ground. This surface wasn't used last year, the two tracks adjacent to it were used. If you bat first, you need to score big here. It's a red soil pitch, looks great and has a generous covering of grass. You are going to see a lot of runs. Spinners won't be effective, reckons <b>Brian Lara.</b> A lot of runs were scored at this venue last year, could well be the same case this season.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711978189332,
+    "commText": "<p>Right then, the two captains are out in the middle. It's <b>toss time..</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711978260897,
+    "commText": "<p><b>Rajasthan Royals have won the toss and have opted to field</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711978283826,
+    "commText": "<p><b>Sanju Samson:</b> We want to bowl first. The wicket looks fresh, it's the first game of the season, will get help for the fast bowlers. We would like to keep on doing the same things. Sandeep misses out, he is not fit. Burger comes in.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711978310088,
+    "commText": "<p><b>Hardik Pandya:</b> We were planning to bowl first. It's quite exciting to be a part of this game. We always look forward to the future, need to follow the process. Looking forward to playing a brand of cricket everyone enjoys. Playing the same team.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711978619453,
+    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Nandre Burger, Yuzvendra Chahal</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711978642116,
+    "commText": "<p><b>Mumbai Indians</b> (Playing XI): Ishan Kishan(w), Rohit Sharma, Naman Dhir, Tilak Varma, Hardik Pandya(c), Tim David, Gerald Coetzee, Piyush Chawla, Akash Madhwal, Jasprit Bumrah, Kwena Maphaka</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711978643793,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711978762235,
+    "commText": "<p><b>Mumbai Indians Subs:</b> Dewald Brevis, Nuwan Thushara, Romario Shepherd, Nehal Wadhera, Shams Mulani</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711978830628,
+    "commText": "<p><b>Rajasthan Royals Subs:</b> Rovman Powell, Tanush Kotian, Kuldeep Sen, Shubham Dubey, Abid Mushtaq</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711978920909,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711979303059,
+    "commText": "<p>We have made a few changes to our Fantasy Handbook, do check them out before locking your teams..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1711979932835,
+    "commText": "<p>Right then, the players are out in the middle. The two openers are ready to roll as Wankhede is set to witness the first game of the season. A couple of slips in place. Here we go!</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

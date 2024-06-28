@@ -1,6 +1,6 @@
 import { Schema, model } from "mongoose";
 import { DBIdType, DBIdUniqueType, PositiveNumberType } from "../schemaTypes";
-import { DISMISSAL_TYPES_VALUES } from "../../../helpers/constants";
+import { DISMISSAL_TYPES_VALUES, MATCH_RESULT_TYPES_VALUES, MATCH_STATES, MATCH_STATES_VALUES, TOSS_DECISIONS_VALUES } from "../../../helpers/constants";
 import { MatchData as MatchDataType } from "../../../types/matchData";
 
 export const batterSchemaObj = {
@@ -94,6 +94,39 @@ const matchDataSchema = new Schema<MatchDataType>({
     default: {},
     required: true,
   },
+  state: {
+    type: String,
+    enum: MATCH_STATES_VALUES,
+    default: MATCH_STATES.PREVIEW
+  }, 
+  status: {
+    type: String,
+    maxlength: 200,
+    default: ""
+  }, 
+  tossResults: new Schema({
+    tossWinnerId: {...DBIdType, required: false}, 
+    decision: {
+      type: String,
+      enum: TOSS_DECISIONS_VALUES
+    }, 
+  }), 
+  results: new Schema({
+    resultType: {
+      type: String,
+      enum: MATCH_RESULT_TYPES_VALUES
+    },
+    winByInnings: {
+      type: Boolean,
+      default: false
+    },
+    winByRuns: {
+      type: Boolean,
+      default: false
+    }, 
+    winningMargin: PositiveNumberType, 
+    winningTeamId: {...DBIdType, required: false}, 
+  }),
 });
 
 const MatchData = model<MatchDataType>("MatchData", matchDataSchema);

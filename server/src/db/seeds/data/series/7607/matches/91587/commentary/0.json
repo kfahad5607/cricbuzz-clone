@@ -1,329 +1,8 @@
 [
   {
-    "timestamp": 1714658277320,
-    "commText": "<p>The RR players in a huddle with Sanju Samson doing the talking. In walk the dangerous SRH openers. Boult has the new ball in his hand. This should be fun. A wide slip and short cover in place. Here we go...</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714657409474,
-    "commText": "<p><b>Yuzvendra Chahal:</b> For the WC (you can congratulate me for that). We play IPL, domestic cricket to get into the Indian team and that's my biggest achievement. I think I played there (West Indies and USA) last July, but when I was out of the Indian team; I played domestic T20s and cricket keeps going on. SRH are playing well especially all their batters from the top to number 7, it will be a challenge here. I have played 40-45 matches at the Chinnaswamy, so the fear is not there (of getting hit) and if you bowl your best ball, it will be enough for any batter. They say it is a batters game but this is a team game, you reach the top when 7-8 players do well in every game.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714657118947,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714657115035,
-    "commText": "<p><b>Rajasthan Royals Impact Subs: </b>Jos Buttler, Tom Kohler-Cadmore, Shubham Dubey, Navdeep Saini, Tanush Kotian</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714657058066,
-    "commText": "<p><b>Sunrisers Hyderabad Impact Subs: </b>Umran Malik, Mayank Markande, Aiden Markram, Sanvir Singh, Jaydev Unadkat</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714657002381,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714657001196,
-    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Rovman Powell, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Yuzvendra Chahal, Sandeep Sharma</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714656973468,
-    "commText": "<p><b>Sunrisers Hyderabad</b> (Playing XI): Travis Head, Abhishek Sharma, Anmolpreet Singh, Heinrich Klaasen(w), Nitish Reddy, Abdul Samad, Shahbaz Ahmed, Marco Jansen, Pat Cummins(c), Bhuvneshwar Kumar, T Natarajan</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714656704065,
-    "commText": "<p><b>Sanju Samson:</b> We also wanted to bat looking at the conditions. It does suit the team, we have done both well this season. The momentum\u00a0is the key in this tournament. Lot of things have been working well. To recognise what is working well, we just want to stick with that.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714656656037,
-    "commText": "<p><b>Pat Cummins:</b> We are gonna have a bat. The games we have won, we batted first. That's probably our strength. Looks like a good wicket.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714656646734,
-    "commText": "<p><b>Sunrisers Hyderabad have won the toss and have opted to bat</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714655010996,
-    "commText": "<p><b>Pitch Report | Graeme Swann and Sunil Gavaskar:</b> \"It's a lovely evening, it's not too hot, it's not too sweaty, very good to play cricket. Dimensions - 61m and 64m square, pockets - around 70m, behind square - only 60m, straight down the ground - 73m. This is such a good pitch to bat on. There's going to be very little help for the spinners. The quicker bowlers, because it's a harder pitch, might be able to get a little more carry but this is a pitch where you can expect a lot of runs. What we have seen from the Hyderabad team is they have taken the initiative just about every time from the first ball. If they get going, this is their home pitch, if they bat first, you can be pretty certain that you'll get a score of 250 unless Rajasthan Royals pull out some magic tricks. This is a fresh pitch, never been used before.\"</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714654823027,
-    "commText": "<p><b>18:30 Local Time, 13:00 GMT, 18:30 IST:</b> Teams with eight wins progressed to the playoffs in the last two editions. Rajasthan Royals already have won eight and they still have five more round-robin matches left. Sitting pretty at the top of the points table, they'll be certainly eyeing a top-two finish. There hasn't been an overreliance on any particular individual and different players have put their hand up at different instances. They have all their bases covered and every player seems to know his role in the team. That's a sign of a great side. They are up against a team that has crossed 250 thrice this season. Hyderabad has suffered back-to-back big defeats, both while chasing, but expect the 2016 IPL champions to continue to play an aggressive brand of cricket, especially with the bat.Can their bowlers, who have been under the pump, step up tonight? I0$ promises to be a fascinating duel. Plenty more mini-battles to look forward to as well. Let's hope we are treated to a thriller. Stick around, toss and team updates coming up shortly....</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714572515946,
-    "commText": "<p><b>Preview</b> \\n \\nSlip ups are quite common in the IPL, and Rajasthan Royals know that too well, having messed up a good position in the previous season which resulted in them not making the playoffs cut. They had won five out of their first eight games before losing their way in the latter half of the competition in 2023. But they have learnt their lessons and are riding high with eight wins in nine games in 2024, and have a foot in the playoffs door. Their opponents on Thursday are sailing in a similar boat RR found themselves in last season. \\n \\nSunrisers Hyderabad, who have set a new benchmark for batting in T20 cricket, were looking formidable with their brand of cricket which had earned them five wins in seven games. But successive losses against Royal Challengers Bengaluru and Chennai Super Kings, both by big margins and both while chasing, have rocked their smooth-sailing boat. And they will be hoping to avoid the situation that the Royals ended up in last year. \\n \\nHaving been used to flamboyant starts from the opening duo of Travis Head and Abhishek Sharma, Sunrisers have struggled to cover ground whenever the openers haven't clicked. That, along with Heinrich Klaasen's low scores in the last few outings and Aiden Markram not being in the best touch, have exposed a few chinks in SRH's batting armour as they fell well short in 200-plus run-chases in their last two games. Skipper Pat Cummins has also been expensive in his last two outings, while Bhuvneshwar Kumar has not been penetrative enough, adding to SRH's problems. With the business end of the tournament coming soon, they need to pull their socks up with the other teams looking to catch up. \\n \\nA loss sandwiched between four successive wins on either side, things have been going well for the Royals this season. Their openers have struck centuries, the captain Sanju Samson has been delivering consistently with the bat - which has even earned him a spot in the Indian squad for the T20 World Cup - and Dhruv Jurel has also found form scoring a half-century in their win against Lucknow Super Giants. The bowlers have also been on the mark, with Sandeep Sharma being the stand-out in the last couple of games. If anything, they'll be hoping for a few wickets for Yuzvendra Chahal, who also made the T20 World Cup cut, to help the legspinner regain his confidence having had a few expensive outings. \\n \\n<b>When: </b>Thursday, May 2 at 19:30 IST \\n \\n<b>Where: </b>Rajiv Gandhi International Stadium, Hyderabad \\n \\n<b>What to expect: </b>Hyderabad hosted its first game of this season at the end of March when the hosts posted a massive 277 and Mumbai Indians gave them a scare before eventually finishing with 246. The game against CSK in early April saw the visiting side post 165 which SRH chased down in 18.1 overs. In the last game played here, SRH came unstuck chasing 206 as they finished with 171. It has largely been batters vs batters this season and Hyderabad is also a venue that has supported this trend. But there has been some help for the spinners in the recent matches played here, and could bring the likes of Chahal and R Ashwin into play. \\n \\n<b>Head to head:</b> 9 - 9 \\n \\n<b>Teams watch</b> \\n \\n<b>Sunrisers Hyderabad</b> \\n \\n<b>Injury/Availability: </b>SRH currently do not have any injury concerns. \\n \\n<b>Tactics & Matchups: </b>Bhuvneshwar, despite his lean patch in this IPL, has got a good record against Jos Buttler, having dismissed him six times in 91 deliveries in T20 cricket. Bhuvneshwar has also accounted for Samson three times in the IPL and SRH will be banking on the experienced pacer against the RR top order. T Nararajan is a good option against Riyan Parag as the left-arm seamer has dismissed the batter twice in 15 deliveries. \\n \\n<b>Probable XI: </b>Abhishek Sharma, Travis Head, Aiden Markram, Heinrich Klaasen (wk), Nitish Reddy, Abdul Samad, Shahbaz Ahmed, Pat Cummins (c), Bhuvneshwar Kumar, Jaydev Unadkat, T Natarajan. [Impact sub: Anmolpreet Singh/Mayank Markande] \\n \\n<b>Rajasthan Royals</b> \\n \\n<b>Injury/Availability: </b>No reported fitness concerns in the RR camp. \\n \\n<b>Tactics & Matchups: </b>Although he has dismissed him three times in T20 cricket, RR will be wary of using Chahal against Klaasen as the batter has struck 93 runs at a strike rate of 226.82 off the legspinner. Meanwhile, they could look to target Travis Head with spin, although that would be a gamble considering there will be Abhishek at the other end who is known to take apart the spinners. An over of Sandeep, with his change of pace, could be productive early on. \\n \\n<b>Probable XI: </b>Yashasvi Jaiswal, Jos Buttler, Sanju Samson (c & wk), Riyan Parag, Shimron Hetmyer, Dhruv Jurel, Ravichandran Ashwin, Trent Boult, Avesh Khan, Sandeep Sharma, Yuzvendra Chahal. [Impact sub: Rovman Powell] \\n \\n<b>Did you know? </b> \\n \\n- Rajasthan Royals have won six out of six chasing in this IPL. Their only loss came against Gujarat Titans while batting first. Meanwhile, Sunrisers Hyderabad have only lost one game out of five batting first. Their defeat also came against the Titans \\n \\n- Among the batters from both teams, Sanju Samson has the highest average in Hyderabad in the IPL - 71.75. His 287 runs at a strike rate of 147.17 is only behind Klaasen's 351 runs, which have come at an average of 58.5 and a strike rate of 191.8 \\n \\n- Sanju Samson has scored 791 runs in 21 innings, at an average of 49.43, against Sunrisers Hyderabad, most for a player against this team. Virat Kohli is second with 762 runs in 23 innings against SRH \\n \\n<b>What they said: </b> \\n \\n\"To be honest, I don't think we have that many (bowling) options. It's not Test cricket where the ball is swinging around or there's much sideways movement, there's not much in the wickets. A lot of the time, the best way to get a wicket is to try and defend. Batters are getting better and better at hitting the ball out of the stadium, and getting confident to do that in the eighth over. So the challenge is only as bowlers but I think if we do have a big total like we've had - 270, 260 - you feel you can make a big impact as a bowler by going for nine an over, and that can be match-winning\" - <b>Pat Cummins</b>, SRH skipper.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1714572515936,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1714572415014,
+    "commText": "<p><b>Sunrisers Hyderabad</b> Squad: Travis Head, Abhishek Sharma, Aiden Markram, Heinrich Klaasen(w), Nitish Reddy, Abdul Samad, Shahbaz Ahmed, Pat Cummins(c), Bhuvneshwar Kumar, Jaydev Unadkat, T Natarajan, Anmolpreet Singh, Washington Sundar, Glenn Phillips, Umran Malik, Mayank Markande, Rahul Tripathi, Mayank Agarwal, Upendra Yadav, Jhatavedh Subramanyan, Sanvir Singh, Vijayakanth Viyaskanth, Fazalhaq Farooqi, Marco Jansen, Akash Maharaj Singh</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -347,6 +26,7 @@
   {
     "timestamp": 1714572514167,
     "commText": "<p><b>Rajasthan Royals</b> Squad: Yashasvi Jaiswal, Jos Buttler, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Rovman Powell, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Yuzvendra Chahal, Sandeep Sharma, Tom Kohler-Cadmore, Shubham Dubey, Tanush Kotian, Navdeep Saini, Keshav Maharaj, Nandre Burger, Kuldeep Sen, Donovan Ferreira, Abid Mushtaq, Kunal Singh Rathore</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -368,8 +48,345 @@
     }
   },
   {
-    "timestamp": 1714572415014,
-    "commText": "<p><b>Sunrisers Hyderabad</b> Squad: Travis Head, Abhishek Sharma, Aiden Markram, Heinrich Klaasen(w), Nitish Reddy, Abdul Samad, Shahbaz Ahmed, Pat Cummins(c), Bhuvneshwar Kumar, Jaydev Unadkat, T Natarajan, Anmolpreet Singh, Washington Sundar, Glenn Phillips, Umran Malik, Mayank Markande, Rahul Tripathi, Mayank Agarwal, Upendra Yadav, Jhatavedh Subramanyan, Sanvir Singh, Vijayakanth Viyaskanth, Fazalhaq Farooqi, Marco Jansen, Akash Maharaj Singh</p>",
+    "timestamp": 1714572515936,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714572515946,
+    "commText": "<p><b>Preview</b> \\n \\nSlip ups are quite common in the IPL, and Rajasthan Royals know that too well, having messed up a good position in the previous season which resulted in them not making the playoffs cut. They had won five out of their first eight games before losing their way in the latter half of the competition in 2023. But they have learnt their lessons and are riding high with eight wins in nine games in 2024, and have a foot in the playoffs door. Their opponents on Thursday are sailing in a similar boat RR found themselves in last season. \\n \\nSunrisers Hyderabad, who have set a new benchmark for batting in T20 cricket, were looking formidable with their brand of cricket which had earned them five wins in seven games. But successive losses against Royal Challengers Bengaluru and Chennai Super Kings, both by big margins and both while chasing, have rocked their smooth-sailing boat. And they will be hoping to avoid the situation that the Royals ended up in last year. \\n \\nHaving been used to flamboyant starts from the opening duo of Travis Head and Abhishek Sharma, Sunrisers have struggled to cover ground whenever the openers haven't clicked. That, along with Heinrich Klaasen's low scores in the last few outings and Aiden Markram not being in the best touch, have exposed a few chinks in SRH's batting armour as they fell well short in 200-plus run-chases in their last two games. Skipper Pat Cummins has also been expensive in his last two outings, while Bhuvneshwar Kumar has not been penetrative enough, adding to SRH's problems. With the business end of the tournament coming soon, they need to pull their socks up with the other teams looking to catch up. \\n \\nA loss sandwiched between four successive wins on either side, things have been going well for the Royals this season. Their openers have struck centuries, the captain Sanju Samson has been delivering consistently with the bat - which has even earned him a spot in the Indian squad for the T20 World Cup - and Dhruv Jurel has also found form scoring a half-century in their win against Lucknow Super Giants. The bowlers have also been on the mark, with Sandeep Sharma being the stand-out in the last couple of games. If anything, they'll be hoping for a few wickets for Yuzvendra Chahal, who also made the T20 World Cup cut, to help the legspinner regain his confidence having had a few expensive outings. \\n \\n<b>When: </b>Thursday, May 2 at 19:30 IST \\n \\n<b>Where: </b>Rajiv Gandhi International Stadium, Hyderabad \\n \\n<b>What to expect: </b>Hyderabad hosted its first game of this season at the end of March when the hosts posted a massive 277 and Mumbai Indians gave them a scare before eventually finishing with 246. The game against CSK in early April saw the visiting side post 165 which SRH chased down in 18.1 overs. In the last game played here, SRH came unstuck chasing 206 as they finished with 171. It has largely been batters vs batters this season and Hyderabad is also a venue that has supported this trend. But there has been some help for the spinners in the recent matches played here, and could bring the likes of Chahal and R Ashwin into play. \\n \\n<b>Head to head:</b> 9 - 9 \\n \\n<b>Teams watch</b> \\n \\n<b>Sunrisers Hyderabad</b> \\n \\n<b>Injury/Availability: </b>SRH currently do not have any injury concerns. \\n \\n<b>Tactics & Matchups: </b>Bhuvneshwar, despite his lean patch in this IPL, has got a good record against Jos Buttler, having dismissed him six times in 91 deliveries in T20 cricket. Bhuvneshwar has also accounted for Samson three times in the IPL and SRH will be banking on the experienced pacer against the RR top order. T Nararajan is a good option against Riyan Parag as the left-arm seamer has dismissed the batter twice in 15 deliveries. \\n \\n<b>Probable XI: </b>Abhishek Sharma, Travis Head, Aiden Markram, Heinrich Klaasen (wk), Nitish Reddy, Abdul Samad, Shahbaz Ahmed, Pat Cummins (c), Bhuvneshwar Kumar, Jaydev Unadkat, T Natarajan. [Impact sub: Anmolpreet Singh/Mayank Markande] \\n \\n<b>Rajasthan Royals</b> \\n \\n<b>Injury/Availability: </b>No reported fitness concerns in the RR camp. \\n \\n<b>Tactics & Matchups: </b>Although he has dismissed him three times in T20 cricket, RR will be wary of using Chahal against Klaasen as the batter has struck 93 runs at a strike rate of 226.82 off the legspinner. Meanwhile, they could look to target Travis Head with spin, although that would be a gamble considering there will be Abhishek at the other end who is known to take apart the spinners. An over of Sandeep, with his change of pace, could be productive early on. \\n \\n<b>Probable XI: </b>Yashasvi Jaiswal, Jos Buttler, Sanju Samson (c & wk), Riyan Parag, Shimron Hetmyer, Dhruv Jurel, Ravichandran Ashwin, Trent Boult, Avesh Khan, Sandeep Sharma, Yuzvendra Chahal. [Impact sub: Rovman Powell] \\n \\n<b>Did you know? </b> \\n \\n- Rajasthan Royals have won six out of six chasing in this IPL. Their only loss came against Gujarat Titans while batting first. Meanwhile, Sunrisers Hyderabad have only lost one game out of five batting first. Their defeat also came against the Titans \\n \\n- Among the batters from both teams, Sanju Samson has the highest average in Hyderabad in the IPL - 71.75. His 287 runs at a strike rate of 147.17 is only behind Klaasen's 351 runs, which have come at an average of 58.5 and a strike rate of 191.8 \\n \\n- Sanju Samson has scored 791 runs in 21 innings, at an average of 49.43, against Sunrisers Hyderabad, most for a player against this team. Virat Kohli is second with 762 runs in 23 innings against SRH \\n \\n<b>What they said: </b> \\n \\n\"To be honest, I don't think we have that many (bowling) options. It's not Test cricket where the ball is swinging around or there's much sideways movement, there's not much in the wickets. A lot of the time, the best way to get a wicket is to try and defend. Batters are getting better and better at hitting the ball out of the stadium, and getting confident to do that in the eighth over. So the challenge is only as bowlers but I think if we do have a big total like we've had - 270, 260 - you feel you can make a big impact as a bowler by going for nine an over, and that can be match-winning\" - <b>Pat Cummins</b>, SRH skipper.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714654823027,
+    "commText": "<p><b>18:30 Local Time, 13:00 GMT, 18:30 IST:</b> Teams with eight wins progressed to the playoffs in the last two editions. Rajasthan Royals already have won eight and they still have five more round-robin matches left. Sitting pretty at the top of the points table, they'll be certainly eyeing a top-two finish. There hasn't been an overreliance on any particular individual and different players have put their hand up at different instances. They have all their bases covered and every player seems to know his role in the team. That's a sign of a great side. They are up against a team that has crossed 250 thrice this season. Hyderabad has suffered back-to-back big defeats, both while chasing, but expect the 2016 IPL champions to continue to play an aggressive brand of cricket, especially with the bat.Can their bowlers, who have been under the pump, step up tonight? I0$ promises to be a fascinating duel. Plenty more mini-battles to look forward to as well. Let's hope we are treated to a thriller. Stick around, toss and team updates coming up shortly....</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714655010996,
+    "commText": "<p><b>Pitch Report | Graeme Swann and Sunil Gavaskar:</b> \"It's a lovely evening, it's not too hot, it's not too sweaty, very good to play cricket. Dimensions - 61m and 64m square, pockets - around 70m, behind square - only 60m, straight down the ground - 73m. This is such a good pitch to bat on. There's going to be very little help for the spinners. The quicker bowlers, because it's a harder pitch, might be able to get a little more carry but this is a pitch where you can expect a lot of runs. What we have seen from the Hyderabad team is they have taken the initiative just about every time from the first ball. If they get going, this is their home pitch, if they bat first, you can be pretty certain that you'll get a score of 250 unless Rajasthan Royals pull out some magic tricks. This is a fresh pitch, never been used before.\"</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714656646734,
+    "commText": "<p><b>Sunrisers Hyderabad have won the toss and have opted to bat</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714656656037,
+    "commText": "<p><b>Pat Cummins:</b> We are gonna have a bat. The games we have won, we batted first. That's probably our strength. Looks like a good wicket.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714656704065,
+    "commText": "<p><b>Sanju Samson:</b> We also wanted to bat looking at the conditions. It does suit the team, we have done both well this season. The momentum\u00a0is the key in this tournament. Lot of things have been working well. To recognise what is working well, we just want to stick with that.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714656973468,
+    "commText": "<p><b>Sunrisers Hyderabad</b> (Playing XI): Travis Head, Abhishek Sharma, Anmolpreet Singh, Heinrich Klaasen(w), Nitish Reddy, Abdul Samad, Shahbaz Ahmed, Marco Jansen, Pat Cummins(c), Bhuvneshwar Kumar, T Natarajan</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714657001196,
+    "commText": "<p><b>Rajasthan Royals</b> (Playing XI): Yashasvi Jaiswal, Sanju Samson(w/c), Riyan Parag, Dhruv Jurel, Rovman Powell, Shimron Hetmyer, Ravichandran Ashwin, Trent Boult, Avesh Khan, Yuzvendra Chahal, Sandeep Sharma</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714657002381,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714657058066,
+    "commText": "<p><b>Sunrisers Hyderabad Impact Subs: </b>Umran Malik, Mayank Markande, Aiden Markram, Sanvir Singh, Jaydev Unadkat</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714657115035,
+    "commText": "<p><b>Rajasthan Royals Impact Subs: </b>Jos Buttler, Tom Kohler-Cadmore, Shubham Dubey, Navdeep Saini, Tanush Kotian</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714657118947,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714657409474,
+    "commText": "<p><b>Yuzvendra Chahal:</b> For the WC (you can congratulate me for that). We play IPL, domestic cricket to get into the Indian team and that's my biggest achievement. I think I played there (West Indies and USA) last July, but when I was out of the Indian team; I played domestic T20s and cricket keeps going on. SRH are playing well especially all their batters from the top to number 7, it will be a challenge here. I have played 40-45 matches at the Chinnaswamy, so the fear is not there (of getting hit) and if you bowl your best ball, it will be enough for any batter. They say it is a batters game but this is a team game, you reach the top when 7-8 players do well in every game.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1714658277320,
+    "commText": "<p>The RR players in a huddle with Sanju Samson doing the talking. In walk the dangerous SRH openers. Boult has the new ball in his hand. This should be fun. A wide slip and short cover in place. Here we go...</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

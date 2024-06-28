@@ -1,398 +1,8 @@
 [
   {
-    "timestamp": 1712498383074,
-    "commText": "<p>Right then, the players are out in the middle and we are ready for live action. Umesh has a slip in place for de Kock and here we go!</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712498096553,
-    "commText": "<p>Looks like a good batting surface with a tinge of grass.. Mayank Yadav will definitely get some purchase from this wicket provided there's no dew in the second innings. His pace is enough to rattle the batters though. Spencer Johnson and Umesh Yadav will also enjoy bowling with the new ball. Should prove to be an interesting contest.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712497369171,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712497341829,
-    "commText": "<p><b>Lucknow Super Giants Subs:</b> Manimaran Siddharth, Deepak Hooda, Amit Mishra, Yudhvir Singh Charak, Arshad Khan</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712497215734,
-    "commText": "<p><b>Gujarat Titans Subs:</b> Kane Williamson, Abhinav Manohar, Matthew Wade, Manav Suthar, Jayant Yadav</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712497054212,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712497051456,
-    "commText": "<p><b>Lucknow Super Giants</b> (Playing XI): Quinton de Kock, KL Rahul(w/c), Devdutt Padikkal, Marcus Stoinis, Nicholas Pooran, Ayush Badoni, Krunal Pandya, Ravi Bishnoi, Yash Thakur, Naveen-ul-Haq, Mayank Yadav</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712497017735,
-    "commText": "<p><b>Gujarat Titans</b> (Playing XI): Shubman Gill(c), Sharath BR(w), Sai Sudharsan, Vijay Shankar, Rahul Tewatia, Rashid Khan, Noor Ahmad, Umesh Yadav, Spencer Johnson, Darshan Nalkande, Mohit Sharma</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712496779242,
-    "commText": "<p><b>Shubman Gill:</b> We would have bowled first, so happy. We were top on the game for 33 overs of the match, the last 7 overs didn't go in our favour. We have a couple of changes. Saha misses out due to a back spasm and BR Sharath makes his debut for us. Spencer comes back in for Omarzai. We got to forget what has happened in the previous match.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712496680329,
-    "commText": "<p><b>KL Rahul:</b> We are going to bat first. Looks like a good wicket, we batted first in the last two games, defended pretty well. They have a better record against us, but they have been a better team and had success in the previous two seasons. We are playing with the same team. It's still his (Mayank Yadav's) first season, a few injuries have been hard on his body. For a 21 old boy he's very professional. It's important for us to manage him. We have some good fast bowlers and we have Morne and others to look after him.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712496651502,
-    "commText": "<p><b>Lucknow Super Giants have won the toss and have opted to bat</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712496517728,
-    "commText": "<p>The two captains are out in the middle as the toss is not far away..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712495305924,
-    "commText": "<p><b>Nicholas Pooran:</b> (On the surface) It's definitely different this year, there's more bounce on the wicket and more batting-friendly, looking forward to that as batsmen. (Ideal batting position) It doesn't really matter what's the right position. In the last eight years, I have batted all different numbers and have had enough experience. Whatever situation, whatever number the team required me to bat, I know I have the game to perform that role. It's a long tournament, losing is a part of the game but that loss in the first game showed us what we needed to fix as a group. The guys really bounced back in the next two games. Today we have another opportunity to try to be consistent as a group and try to get the results we want. (How many LSG players are signing up to face Mayank Yadav in the nets?) Not much, definitely not much.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712495169514,
-    "commText": "<p><b>Pitch and ground dimensions:</b> It's 75m straight down the ground, 66m square boundaries. The surface today looks very hard, not a lot of friction will be created because of the hardness. Will be better for batting when the ball is hard, batting might get little tough as the ball gets softer. Dew won't come into play reckons <b>Daren Ganga.</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712494615217,
-    "commText": "<p>On the other hand, Gujarat Titans have won a couple of matches, while they\u2019ve lost two games out of the four played. Shubman played a pivotal innings as the Titans posted 199/4 against Punjab Kings, however, it was overshadowed by Shashank Singh\u2019s spectacular knock that came in a winning cause. Rashid Khan has looked mediocre, but Mohit Sharma has impressed once again. His wily variations have deceived batters, and the Titans would want him to fire against a dangerous batting line-up like that of LSG. If you compare the two teams, LSG are slightly stronger than Gujarat on paper, however, the KL Rahul led side is yet to register a victory against the Titans. There\u2019s always a first time though. Might well be Lucknow\u2019s night. Stay around for the toss and teams..</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712494419736,
-    "commText": "<p><b>18:25 Local Time, 12:55 GMT, 18:25 IST:</b> After losing their first match of the season against Rajasthan Royals, Lucknow Super Giants have bounced back in an emphatic way as they have beaten Punjab Kings and Royal Challengers Bangalore respectively. Pace sensation Mayank Yadav has bowled exceptionally well and played a pivotal role in LSG\u2019s two wins. He has regularly clicked the 150 kph mark and rattled the opposition batters with pace and accuracy. Also, Quinton de Kock and Nicholas Pooran have been severely punitive against opposition bowlers as the Giants have posted daunting totals in their previous two matches. KL Rahul has gotten off to a few starts, but hasn\u2019t converted them into substantial scores. Given his track record in the IPL, it won\u2019t be a surprise if the LSG skipper starts converting those starts into formidable scores very soon.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712412484795,
-    "commText": "<p><b>Preview:</b> \\n \\nWhile Hardik Pandya and his return to Mumbai Indians was understandably the centre of attraction, Shubman Gill's promotion to Gujarat Titans' captaincy went under the radar a bit. The 24-year-old had the enviable job of taking forward a franchise that had won a title and finished runners-up in its two editions thus far. Early results indicate a mixed bag for Gill and GT - two wins and as many losses from four games. There has also been a pattern to the games with wins and losses coming alternatively. \\n \\nStill smarting under their shock defeat to Punjab Kings, the Titans will want to create a winning momentum sooner rather than later. And the challenge begins with facing Lucknow Super Giants at the latter's den. GT do have a balanced side with all bases covered but whether they are making full use of their resources is debatable. Particularly in the batting department. The bowling also has been a touch patchy with only Mohit Sharma and Noor Ahmad really turning it on with the ball. The Titans will want all departments to click at the earliest. \\n \\nLSG are brimming with confidence after registering two wins on the trot. They were downed in their tournament opener at Jaipur but the home climes of Lucknow gave KL Rahul's men just the tonic they needed to bounce back, following which they took down RCB at the M Chinnaswamy Stadium in Bengaluru. Unassumingly, LSG are brimming with confidence, with Mayank Yadav's electric pace adding an extra dimension to what was already a potentially dangerous side. \\n \\nLucknow's strength comes from their constructional brilliance when it comes to their squad. They have solid and powerful batters while the bowling department is extremely potent. Even before Mayank stormed into the spotlight, LSG's bowling was razor-sharp and their stellar record batting first is a fair reflection of this. With Mayank into the mix, LSG's stocks have risen and in home conditions, it will give Rahul's side a strong buffer when they take on the fanciest of oppositions. Still early days but both sides will be desperate to get across the line for different reasons. \\n \\n<b>When:</b> Sunday, April 7, 19:30 IST \\n \\n<b>Where:</b> Lucknow Super Giants vs Gujarat Titans, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow \\n \\n<b>What to expect:</b> Contrary to last season when the average first innings total at the venue was just 148, the opening game this year suggests better returns for the batters. The relaid surfaces suggest more pace and bounce, also allowing the pacers to stay in the game longer. Batters should get more value for their shots. \\n \\n<b>Head to Head:</b> GT have proven to be a bogey team for LSG as the latter has never won in the four encounters between the two teams. \\n \\n<b>Team watch:</b> \\n \\n<b>Lucknow Super Giants</b> \\n \\n<b>Injuries/Availability:</b> Mohsin Khan is recovering swiftly from a sore back and hamstring concerns that he had during the PBKS game but might not be rushed back just yet. \\n \\nTactics and Matchups:Nicholas Pooran has been the form batter for LSG with 146 runs from the three games at an impressive strike rate of 175.9. Against spin, that strike rate goes up to 188, as he has amassed 51 runs off the 27 balls faced. The West Indies batter has a strike rate of 143.93 during the middle overs (7-15) and his battle against the likes of Rashid Khan and Noor Ahmad will be pivotal to LSG's fortunes in the game. LSG don't have much reason to change their playing XI although Ayush Badoni's lack of form is in the spotlight. Deepak Hooda could come in but the management could give the youngster a longer rope. \\n \\n<b>Probable XI:</b> KL Rahul(c/wk), Quinton de Kock, Devdutt Padikkal, Nicholas Pooran, Marcus Stoinis, Ayush Badoni/Deepak Hooda, Krunal Pandya, Ravi Bishnoi, Yash Thakur, Naveen-ul-Haq, Mayank Yadav. [Impact sub: Manimaran Siddharth]. \\n \\n<b>Gujarat Titans</b> \\n \\n<b>Injuries/availability:</b> David Miller missed the PBKS game with a niggle but should slot back into the XI for this game \\n \\nMohit Sharma has not only been GT's standout bowler this season with seven wickets in four games but also has been his team's second-highest wicket-taker against LSG (six wickets in two games), narrowly behind Rashid Khan. However, Mohit Sharma's economy rate of 7.00 and strike rate of 6.57 comfortably puts him above the Afghanistan leg spinner in terms of impact. Mohit will primarily be in charge of the middle overs and slog overs, and his battle against LSG's power-hitters could be a massive sub-plot in the context of this game. GT might be tempted to make a change in the batting department with Vijay Shankar's lukewarm returns. They do have options in the form of Abhinav Manohar and Shahrukh Khan if they want to add more firepower to the middle order. \\n \\n<b>Probable XI:</b> Shubman Gill (c), Wriddhiman Saha (wk), Kane Williamson/David Miller, Sai Sudharsan, Abhinav Manohar/Shahrukh Khan, Rahul Tewatia, Azmatullah Omarzai, Rashid Khan, Noor Ahmad, Umesh Yadav, Darshan Nalkande \\n \\n<b>Did you know?</b> \\n \\nNicholas Pooran hasn't scored a single boundary in the 28 deliveries that he has faced against Rashid Khan and Noor Ahmad combined and has been dismissed thrice as well. \\n \\n<b>What they said</b> \\n \\n\"People who you haven't seen will come and play knocks like these and that's the beauty of IPL.\" - <b>Shubman Gill</b> after his side became the victim of Shashank Singh's route to fame \\n \\n\"Enjoying seeing him bowl from probably 20 yards behind the stumps, that's where I'd like to be when he's bowling\" - <b>KL Rahul</b> is full of praise for his side's wonderkid Mayank Yadav</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712412484785,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1712412362933,
+    "commText": "<p><b>Gujarat Titans</b> Squad: Wriddhiman Saha(w), Shubman Gill(c), Kane Williamson, Sai Sudharsan, Vijay Shankar, Rahul Tewatia, Azmatullah Omarzai, Rashid Khan, Noor Ahmad, Umesh Yadav, Darshan Nalkande, Mohit Sharma, Sharath BR, Sandeep Warrier, Abhinav Manohar, Manav Suthar, Ravisrinivasan Sai Kishore, Matthew Wade, David Miller, Jayant Yadav, Shahrukh Khan, Joshua Little, Kartik Tyagi, Spencer Johnson, Sushant Mishra</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -416,6 +26,7 @@
   {
     "timestamp": 1712412483392,
     "commText": "<p><b>Lucknow Super Giants</b> Squad: Quinton de Kock, KL Rahul(w/c), Devdutt Padikkal, Marcus Stoinis, Nicholas Pooran, Ayush Badoni, Krunal Pandya, Ravi Bishnoi, Yash Thakur, Naveen-ul-Haq, Mayank Yadav, Manimaran Siddharth, Shamar Joseph, Deepak Hooda, Amit Mishra, Krishnappa Gowtham, Ashton Turner, Prerak Mankad, Kyle Mayers, Matt Henry, Mohsin Khan, Yudhvir Singh Charak, Arshad Khan, Arshin Kulkarni</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -437,8 +48,417 @@
     }
   },
   {
-    "timestamp": 1712412362933,
-    "commText": "<p><b>Gujarat Titans</b> Squad: Wriddhiman Saha(w), Shubman Gill(c), Kane Williamson, Sai Sudharsan, Vijay Shankar, Rahul Tewatia, Azmatullah Omarzai, Rashid Khan, Noor Ahmad, Umesh Yadav, Darshan Nalkande, Mohit Sharma, Sharath BR, Sandeep Warrier, Abhinav Manohar, Manav Suthar, Ravisrinivasan Sai Kishore, Matthew Wade, David Miller, Jayant Yadav, Shahrukh Khan, Joshua Little, Kartik Tyagi, Spencer Johnson, Sushant Mishra</p>",
+    "timestamp": 1712412484785,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712412484795,
+    "commText": "<p><b>Preview:</b> \\n \\nWhile Hardik Pandya and his return to Mumbai Indians was understandably the centre of attraction, Shubman Gill's promotion to Gujarat Titans' captaincy went under the radar a bit. The 24-year-old had the enviable job of taking forward a franchise that had won a title and finished runners-up in its two editions thus far. Early results indicate a mixed bag for Gill and GT - two wins and as many losses from four games. There has also been a pattern to the games with wins and losses coming alternatively. \\n \\nStill smarting under their shock defeat to Punjab Kings, the Titans will want to create a winning momentum sooner rather than later. And the challenge begins with facing Lucknow Super Giants at the latter's den. GT do have a balanced side with all bases covered but whether they are making full use of their resources is debatable. Particularly in the batting department. The bowling also has been a touch patchy with only Mohit Sharma and Noor Ahmad really turning it on with the ball. The Titans will want all departments to click at the earliest. \\n \\nLSG are brimming with confidence after registering two wins on the trot. They were downed in their tournament opener at Jaipur but the home climes of Lucknow gave KL Rahul's men just the tonic they needed to bounce back, following which they took down RCB at the M Chinnaswamy Stadium in Bengaluru. Unassumingly, LSG are brimming with confidence, with Mayank Yadav's electric pace adding an extra dimension to what was already a potentially dangerous side. \\n \\nLucknow's strength comes from their constructional brilliance when it comes to their squad. They have solid and powerful batters while the bowling department is extremely potent. Even before Mayank stormed into the spotlight, LSG's bowling was razor-sharp and their stellar record batting first is a fair reflection of this. With Mayank into the mix, LSG's stocks have risen and in home conditions, it will give Rahul's side a strong buffer when they take on the fanciest of oppositions. Still early days but both sides will be desperate to get across the line for different reasons. \\n \\n<b>When:</b> Sunday, April 7, 19:30 IST \\n \\n<b>Where:</b> Lucknow Super Giants vs Gujarat Titans, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow \\n \\n<b>What to expect:</b> Contrary to last season when the average first innings total at the venue was just 148, the opening game this year suggests better returns for the batters. The relaid surfaces suggest more pace and bounce, also allowing the pacers to stay in the game longer. Batters should get more value for their shots. \\n \\n<b>Head to Head:</b> GT have proven to be a bogey team for LSG as the latter has never won in the four encounters between the two teams. \\n \\n<b>Team watch:</b> \\n \\n<b>Lucknow Super Giants</b> \\n \\n<b>Injuries/Availability:</b> Mohsin Khan is recovering swiftly from a sore back and hamstring concerns that he had during the PBKS game but might not be rushed back just yet. \\n \\nTactics and Matchups:Nicholas Pooran has been the form batter for LSG with 146 runs from the three games at an impressive strike rate of 175.9. Against spin, that strike rate goes up to 188, as he has amassed 51 runs off the 27 balls faced. The West Indies batter has a strike rate of 143.93 during the middle overs (7-15) and his battle against the likes of Rashid Khan and Noor Ahmad will be pivotal to LSG's fortunes in the game. LSG don't have much reason to change their playing XI although Ayush Badoni's lack of form is in the spotlight. Deepak Hooda could come in but the management could give the youngster a longer rope. \\n \\n<b>Probable XI:</b> KL Rahul(c/wk), Quinton de Kock, Devdutt Padikkal, Nicholas Pooran, Marcus Stoinis, Ayush Badoni/Deepak Hooda, Krunal Pandya, Ravi Bishnoi, Yash Thakur, Naveen-ul-Haq, Mayank Yadav. [Impact sub: Manimaran Siddharth]. \\n \\n<b>Gujarat Titans</b> \\n \\n<b>Injuries/availability:</b> David Miller missed the PBKS game with a niggle but should slot back into the XI for this game \\n \\nMohit Sharma has not only been GT's standout bowler this season with seven wickets in four games but also has been his team's second-highest wicket-taker against LSG (six wickets in two games), narrowly behind Rashid Khan. However, Mohit Sharma's economy rate of 7.00 and strike rate of 6.57 comfortably puts him above the Afghanistan leg spinner in terms of impact. Mohit will primarily be in charge of the middle overs and slog overs, and his battle against LSG's power-hitters could be a massive sub-plot in the context of this game. GT might be tempted to make a change in the batting department with Vijay Shankar's lukewarm returns. They do have options in the form of Abhinav Manohar and Shahrukh Khan if they want to add more firepower to the middle order. \\n \\n<b>Probable XI:</b> Shubman Gill (c), Wriddhiman Saha (wk), Kane Williamson/David Miller, Sai Sudharsan, Abhinav Manohar/Shahrukh Khan, Rahul Tewatia, Azmatullah Omarzai, Rashid Khan, Noor Ahmad, Umesh Yadav, Darshan Nalkande \\n \\n<b>Did you know?</b> \\n \\nNicholas Pooran hasn't scored a single boundary in the 28 deliveries that he has faced against Rashid Khan and Noor Ahmad combined and has been dismissed thrice as well. \\n \\n<b>What they said</b> \\n \\n\"People who you haven't seen will come and play knocks like these and that's the beauty of IPL.\" - <b>Shubman Gill</b> after his side became the victim of Shashank Singh's route to fame \\n \\n\"Enjoying seeing him bowl from probably 20 yards behind the stumps, that's where I'd like to be when he's bowling\" - <b>KL Rahul</b> is full of praise for his side's wonderkid Mayank Yadav</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712494419736,
+    "commText": "<p><b>18:25 Local Time, 12:55 GMT, 18:25 IST:</b> After losing their first match of the season against Rajasthan Royals, Lucknow Super Giants have bounced back in an emphatic way as they have beaten Punjab Kings and Royal Challengers Bangalore respectively. Pace sensation Mayank Yadav has bowled exceptionally well and played a pivotal role in LSG\u2019s two wins. He has regularly clicked the 150 kph mark and rattled the opposition batters with pace and accuracy. Also, Quinton de Kock and Nicholas Pooran have been severely punitive against opposition bowlers as the Giants have posted daunting totals in their previous two matches. KL Rahul has gotten off to a few starts, but hasn\u2019t converted them into substantial scores. Given his track record in the IPL, it won\u2019t be a surprise if the LSG skipper starts converting those starts into formidable scores very soon.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712494615217,
+    "commText": "<p>On the other hand, Gujarat Titans have won a couple of matches, while they\u2019ve lost two games out of the four played. Shubman played a pivotal innings as the Titans posted 199/4 against Punjab Kings, however, it was overshadowed by Shashank Singh\u2019s spectacular knock that came in a winning cause. Rashid Khan has looked mediocre, but Mohit Sharma has impressed once again. His wily variations have deceived batters, and the Titans would want him to fire against a dangerous batting line-up like that of LSG. If you compare the two teams, LSG are slightly stronger than Gujarat on paper, however, the KL Rahul led side is yet to register a victory against the Titans. There\u2019s always a first time though. Might well be Lucknow\u2019s night. Stay around for the toss and teams..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712495169514,
+    "commText": "<p><b>Pitch and ground dimensions:</b> It's 75m straight down the ground, 66m square boundaries. The surface today looks very hard, not a lot of friction will be created because of the hardness. Will be better for batting when the ball is hard, batting might get little tough as the ball gets softer. Dew won't come into play reckons <b>Daren Ganga.</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712495305924,
+    "commText": "<p><b>Nicholas Pooran:</b> (On the surface) It's definitely different this year, there's more bounce on the wicket and more batting-friendly, looking forward to that as batsmen. (Ideal batting position) It doesn't really matter what's the right position. In the last eight years, I have batted all different numbers and have had enough experience. Whatever situation, whatever number the team required me to bat, I know I have the game to perform that role. It's a long tournament, losing is a part of the game but that loss in the first game showed us what we needed to fix as a group. The guys really bounced back in the next two games. Today we have another opportunity to try to be consistent as a group and try to get the results we want. (How many LSG players are signing up to face Mayank Yadav in the nets?) Not much, definitely not much.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712496517728,
+    "commText": "<p>The two captains are out in the middle as the toss is not far away..</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712496651502,
+    "commText": "<p><b>Lucknow Super Giants have won the toss and have opted to bat</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712496680329,
+    "commText": "<p><b>KL Rahul:</b> We are going to bat first. Looks like a good wicket, we batted first in the last two games, defended pretty well. They have a better record against us, but they have been a better team and had success in the previous two seasons. We are playing with the same team. It's still his (Mayank Yadav's) first season, a few injuries have been hard on his body. For a 21 old boy he's very professional. It's important for us to manage him. We have some good fast bowlers and we have Morne and others to look after him.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712496779242,
+    "commText": "<p><b>Shubman Gill:</b> We would have bowled first, so happy. We were top on the game for 33 overs of the match, the last 7 overs didn't go in our favour. We have a couple of changes. Saha misses out due to a back spasm and BR Sharath makes his debut for us. Spencer comes back in for Omarzai. We got to forget what has happened in the previous match.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712497017735,
+    "commText": "<p><b>Gujarat Titans</b> (Playing XI): Shubman Gill(c), Sharath BR(w), Sai Sudharsan, Vijay Shankar, Rahul Tewatia, Rashid Khan, Noor Ahmad, Umesh Yadav, Spencer Johnson, Darshan Nalkande, Mohit Sharma</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712497051456,
+    "commText": "<p><b>Lucknow Super Giants</b> (Playing XI): Quinton de Kock, KL Rahul(w/c), Devdutt Padikkal, Marcus Stoinis, Nicholas Pooran, Ayush Badoni, Krunal Pandya, Ravi Bishnoi, Yash Thakur, Naveen-ul-Haq, Mayank Yadav</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712497054212,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712497215734,
+    "commText": "<p><b>Gujarat Titans Subs:</b> Kane Williamson, Abhinav Manohar, Matthew Wade, Manav Suthar, Jayant Yadav</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712497341829,
+    "commText": "<p><b>Lucknow Super Giants Subs:</b> Manimaran Siddharth, Deepak Hooda, Amit Mishra, Yudhvir Singh Charak, Arshad Khan</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712497369171,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712498096553,
+    "commText": "<p>Looks like a good batting surface with a tinge of grass.. Mayank Yadav will definitely get some purchase from this wicket provided there's no dew in the second innings. His pace is enough to rattle the batters though. Spencer Johnson and Umesh Yadav will also enjoy bowling with the new ball. Should prove to be an interesting contest.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712498383074,
+    "commText": "<p>Right then, the players are out in the middle and we are ready for live action. Umesh has a slip in place for de Kock and here we go!</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

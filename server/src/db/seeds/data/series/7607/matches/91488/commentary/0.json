@@ -1,398 +1,8 @@
 [
   {
-    "timestamp": 1713707984065,
-    "commText": "<p>Out come the players. Omarzai to take the new ball. GT will look to attack on PBKS's weankess of losing wickets in the PP. We are ready to roll</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713707509212,
-    "commText": "<p>We've made a few changes to our Fantasy Handbook lineup based on toss and team combinations</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713706841346,
-    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713706816244,
-    "commText": "<p><b>Gujarat Titans Impact Subs:</b> Sai Sudharsan, Sharath BR, Manav Suthar, Darshan Nalkande, Vijay Shankar</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713706756267,
-    "commText": "<p><b>Punjab Kings Impact Subs:</b> Rahul Chahar, Vidhwath Kaverappa, Atharva Taide, Harpreet Singh Bhatia, Shivam Singh</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713706622271,
-    "commText": "<p><b>Teams:</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713706620317,
-    "commText": "<p><b>Gujarat Titans</b> (Playing XI): Wriddhiman Saha(w), Shubman Gill(c), David Miller, Azmatullah Omarzai, Shahrukh Khan, Rahul Tewatia, Rashid Khan, Ravisrinivasan Sai Kishore, Noor Ahmad, Sandeep Warrier, Mohit Sharma</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713706545497,
-    "commText": "<p><b>Punjab Kings</b> (Playing XI): Sam Curran(c), Prabhsimran Singh, Rilee Rossouw, Liam Livingstone, Shashank Singh, Jitesh Sharma(w), Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada, Arshdeep Singh</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713706318133,
-    "commText": "<p><b>Shubman Gill:</b> I would have bowled first anyway, looks like it's the same wicket as the last match here. Every game becomes important for us. We have had some niggles (on not being able to settle into a combination). This game Omarzai is back, he had a niggle earlier. He comes in place of Spencer. If we can keep them to around 170 we will be happy.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713706242178,
-    "commText": "<p><b>Sam Curran</b>: We are gonna bat first. Third time we have used this pitch, excited to put pressure on the Gujarat bowlers first up and put a good score on the board. Any team can beat anyone. We know if we turn up with right plans and attitude we can win. It's about our overseas players taking more responsibility and helping the Indian players. Shikhar is still not alright, <b>same team</b>.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713706228754,
-    "commText": "<p><b>Punjab Kings have won the toss and have opted to bat</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713706215330,
-    "commText": "<p>It's still Sam Curran at the toss!</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713622234438,
-    "commText": "<p><b>Pitch Report | Samuel Badree and Simon Katich:</b> \"Dimensions - 70m and 63m square, 72m down the ground. Expect the bowlers to be defending towards that bigger side. All four matches this season have gone all the way here at this venue ending in the final over. We've had some thrillers. Heavy bias for the fast bowlers - 47 wickets, just nine to the spinners. The big reason is the pace and bounce in this wicket. We've seen good carry, we've also seen a little bit of extra swing here at this venue. That's played a part particularly with the new ball. Teams haven't quite known how to attack the first ten overs. Last game here, Mumbai laid the foundation with the experience of Sharma and Surya in the first ten, reaped the rewards in the back ten, they were able to get to 192 which I think is about par on this wicket. The average first innings total here is 174, but I think it's better than that. Today we are seeing quite a bare patch at this end and also at the far end. So it might be a little bit drier but generally it's even coverage of grass, comes onto the bat. The big thing is that Punjab have struggled. Their top three has been the worst in terms of output in this comp, that's the reason why the average score is lower than it should be. We might not get to see necessarily the best batting on this surface.\"</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713622234428,
-    "commText": "<p>The Titans meanwhile started so well but have had questionable team combos of late with right personnel either not getting the nod or role. Their last game against the Capitals was one to forget and one the captain wanted to be dumped behind quickly. It's Mullanpur, Punjab - actual return to home for their own skipper too. Can they get their act right tonight and join the mid-table muddle?</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713622234418,
-    "commText": "<p>Shashank Singh and Ashutosh Sharma have taken the IPL by storm with their audacious play. Those two have instilled belief from unthinkable scenarios. It all started in the game against the Titans\u00a0in Ahmedabad - another game they looked down and out but won to stun the big home crowd in Ahmedabad. The fact that despite the top-order and most of the middle-order firing and yet pushing the opposition real hard is what makes no team take them lightly.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713622234408,
-    "commText": "<p>Good evening folks! It's an important game for both sides to get out of their slumber. more so for Punjab Kings because the Gujarat Titans have extra two points at hand. But the points table will not tell you the real story about the Kings. They have staged some mega comebacks and almost pulled off heists in their last three losses.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713622234388,
-    "commText": "<p><b>Preview by Purnima Malhotra</b> \\n \\nAfter a hat-trick of defeats at their new home, Punjab Kings would be looking to wrap up the Mullanpur leg with a win against an inconsistent Gujarat Titans on Sunday (April 21) night. \\n \\nAll of Punjab's three defeats - since Shashank Singh and Ashutosh Sharma combined to stun Titans in Ahmedabad in the reverse fixture - have been last-over losses, giving an illusion of form and/or control. Unfortunately, Punjab have lacked both, and the close contests have largely been down to the nerveless hitting of the aforementioned pair. Of the 1172 runs scored by PBKS batters this season, 343 have been scored by Shashank and Ashutosh (29.26%) despite having largely batted at No. 6, 7 or 8. \\n \\nThe likes of Prabhsimran Singh and Jitesh Sharma have flopped consistently. Sam Curran has only half-century knock and four single-digit scores in seven games while Liam Livingstone also hasn't spent much time in the middle. In the injury-forced absence of their regular skipper Shikhar Dhawan, Punjab went on to drop out-of-form Jonny Bairstow as well giving out a rather unsettled vibe despite having not chopped much this season. \\n \\nTitans have similar top-order woes with their new captain, Shubman Gill, being the only half-centurion in the top-five and some semblance of consistency from Sai Sudharsan. Titans and Punjab, in fact occupy the last -two spots respectively among all teams in terms of contributions from their top-five. However unlike ninth-placed GT, PBKS lead the charts when it comes to the batting returns of their no. 6 to 8 - an average of 39.75 with two half-centuries, one each for Shashank and Ashutosh. \\n \\nAfter folding for a miserly 89 in their last outing, despite the return of injured David Miller, GT consequently they slipped to eighth in the points table. Despite having two more points than their Sunday opponents, Titans have blown hot and cold with no back-to-back wins to boast of. Both teams will be desperate for a turnaround as they kick off the second half of their frail campaigns in this battle of equals. \\n \\n<b>When: </b>PBKS vs GT, Match 37 on April 21 at 19:30 hours \\n \\n<b>Where: </b>Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh \\n \\n<b>What to expect: </b>Jasprit Bumrah and Gerald Coetzee's PowerPlay success reiterated the fact that pacers have enjoyed this wicket far more than spinners in IPL 2024 with 47 wickets in four games going to the quicks. Chasing has been the captain's preferred choice, although teams batting second have a success rate of 50 per cent only at this venue. \\n \\n<b>Head to head: </b>2-all. Interestingly, each of the four matches between these two sides have been won by the chasing team, with three of them going right down to the wire. \\n \\n<b>Teams Watch </b> \\n \\n<b>Punjab Kings</b> \\n \\n<b>Injuries/Availability: </b>Dhawan is still unavailable due to his shoulder injury, and did not come for the team's pre-match training session. His absence will likely continue to be a lifeline for a woefully out-of-form Prabhsimran Singh, who bats in top order. Alternatively, they could swap him for left-handed Atharva Taide, who was given one chance and then dropped immediately in a \"tactical call\". \\n \\n<b>Tactics & Matchups: </b>Wriddhiman Saha only averages 16.4 in PowerPlays in IPL 2024 and has been dismissed five times in this phase. Moreover, Kagiso Rabada has great success against Saha in IPL, dismissing the batter four times albeit he's batted against the South African at a strike-rate of 150. \\n \\n<b>Probable XI: </b>Prabhsimran Singh/Atharva Taide, Rilee Rossouw, Sam Curran (C), Liam Livingstone, Shashank Singh, Jitesh Sharma (wk), Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada, Arshdeep Singh [Impact sub: Harpreet Bhatia] \\n \\n<b>Gujarat Titans</b> \\n \\n<b>Injuries/Availability: </b>No injuries to report in the Titans' camp. \\n \\n<b>Tactics & Matchups: </b>Livingstone vs Rashid Khan is an interesting sub-plot in this contest. While the destructive English bater boasts of a mighty impressive strike-rate of 172+ against the spinner, Rashid has dismissed him four times in T20 cricket. \\n \\n<b>Probable XI: </b>Shubman Gill (c), Wriddhiman Saha (wk), Sai Sudharsan, Abhinav Manohar, David Miller, Rahul Tewatia, Rashid Khan, Mohit Sharma, Noor Ahmad/Azmatullah Omarzai, Spencer Johnson, Sandeep Warrier [Impact sub: Shahrukh Khan/Sai Kishore] \\n \\n<b>Did you know? </b> \\n \\n- Shubman Gill needs 14 rums to complete 500 against Punjab \\n \\n- Sam Curran has picked up seven wickets in eight overshe's bowled at death in IPL 2024 \\n \\n- David Miller has a staggering average of 61.10, and strike-rate 142.75, while chasing since IPL 2021</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1713622234378,
-    "commText": "<p><b>Squads:</b></p>",
+    "timestamp": 1713622074267,
+    "commText": "<p><b>Punjab Kings</b> Squad: Sam Curran(c), Prabhsimran Singh, Rilee Rossouw, Liam Livingstone, Harpreet Singh Bhatia, Shashank Singh, Jitesh Sharma(w), Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada, Arshdeep Singh, Rahul Chahar, Shivam Singh, Rishi Dhawan, Vidhwath Kaverappa, Atharva Taide, Jonny Bairstow, Nathan Ellis, Tanay Thyagarajan, Shikhar Dhawan, Chris Woakes, Sikandar Raza, Prince Choudhary, Vishwanath Singh</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -416,6 +26,7 @@
   {
     "timestamp": 1713622174567,
     "commText": "<p><b>Gujarat Titans</b> Squad: Wriddhiman Saha(w), Shubman Gill(c), Sai Sudharsan, David Miller, Abhinav Manohar, Rahul Tewatia, Shahrukh Khan, Rashid Khan, Mohit Sharma, Noor Ahmad, Spencer Johnson, Sandeep Warrier, Sharath BR, Darshan Nalkande, Ravisrinivasan Sai Kishore, Manav Suthar, Matthew Wade, Vijay Shankar, Umesh Yadav, Kane Williamson, Jayant Yadav, Joshua Little, Kartik Tyagi, Azmatullah Omarzai, Sushant Mishra</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -437,8 +48,417 @@
     }
   },
   {
-    "timestamp": 1713622074267,
-    "commText": "<p><b>Punjab Kings</b> Squad: Sam Curran(c), Prabhsimran Singh, Rilee Rossouw, Liam Livingstone, Harpreet Singh Bhatia, Shashank Singh, Jitesh Sharma(w), Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada, Arshdeep Singh, Rahul Chahar, Shivam Singh, Rishi Dhawan, Vidhwath Kaverappa, Atharva Taide, Jonny Bairstow, Nathan Ellis, Tanay Thyagarajan, Shikhar Dhawan, Chris Woakes, Sikandar Raza, Prince Choudhary, Vishwanath Singh</p>",
+    "timestamp": 1713622234378,
+    "commText": "<p><b>Squads:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713622234388,
+    "commText": "<p><b>Preview by Purnima Malhotra</b> \\n \\nAfter a hat-trick of defeats at their new home, Punjab Kings would be looking to wrap up the Mullanpur leg with a win against an inconsistent Gujarat Titans on Sunday (April 21) night. \\n \\nAll of Punjab's three defeats - since Shashank Singh and Ashutosh Sharma combined to stun Titans in Ahmedabad in the reverse fixture - have been last-over losses, giving an illusion of form and/or control. Unfortunately, Punjab have lacked both, and the close contests have largely been down to the nerveless hitting of the aforementioned pair. Of the 1172 runs scored by PBKS batters this season, 343 have been scored by Shashank and Ashutosh (29.26%) despite having largely batted at No. 6, 7 or 8. \\n \\nThe likes of Prabhsimran Singh and Jitesh Sharma have flopped consistently. Sam Curran has only half-century knock and four single-digit scores in seven games while Liam Livingstone also hasn't spent much time in the middle. In the injury-forced absence of their regular skipper Shikhar Dhawan, Punjab went on to drop out-of-form Jonny Bairstow as well giving out a rather unsettled vibe despite having not chopped much this season. \\n \\nTitans have similar top-order woes with their new captain, Shubman Gill, being the only half-centurion in the top-five and some semblance of consistency from Sai Sudharsan. Titans and Punjab, in fact occupy the last -two spots respectively among all teams in terms of contributions from their top-five. However unlike ninth-placed GT, PBKS lead the charts when it comes to the batting returns of their no. 6 to 8 - an average of 39.75 with two half-centuries, one each for Shashank and Ashutosh. \\n \\nAfter folding for a miserly 89 in their last outing, despite the return of injured David Miller, GT consequently they slipped to eighth in the points table. Despite having two more points than their Sunday opponents, Titans have blown hot and cold with no back-to-back wins to boast of. Both teams will be desperate for a turnaround as they kick off the second half of their frail campaigns in this battle of equals. \\n \\n<b>When: </b>PBKS vs GT, Match 37 on April 21 at 19:30 hours \\n \\n<b>Where: </b>Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh \\n \\n<b>What to expect: </b>Jasprit Bumrah and Gerald Coetzee's PowerPlay success reiterated the fact that pacers have enjoyed this wicket far more than spinners in IPL 2024 with 47 wickets in four games going to the quicks. Chasing has been the captain's preferred choice, although teams batting second have a success rate of 50 per cent only at this venue. \\n \\n<b>Head to head: </b>2-all. Interestingly, each of the four matches between these two sides have been won by the chasing team, with three of them going right down to the wire. \\n \\n<b>Teams Watch </b> \\n \\n<b>Punjab Kings</b> \\n \\n<b>Injuries/Availability: </b>Dhawan is still unavailable due to his shoulder injury, and did not come for the team's pre-match training session. His absence will likely continue to be a lifeline for a woefully out-of-form Prabhsimran Singh, who bats in top order. Alternatively, they could swap him for left-handed Atharva Taide, who was given one chance and then dropped immediately in a \"tactical call\". \\n \\n<b>Tactics & Matchups: </b>Wriddhiman Saha only averages 16.4 in PowerPlays in IPL 2024 and has been dismissed five times in this phase. Moreover, Kagiso Rabada has great success against Saha in IPL, dismissing the batter four times albeit he's batted against the South African at a strike-rate of 150. \\n \\n<b>Probable XI: </b>Prabhsimran Singh/Atharva Taide, Rilee Rossouw, Sam Curran (C), Liam Livingstone, Shashank Singh, Jitesh Sharma (wk), Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada, Arshdeep Singh [Impact sub: Harpreet Bhatia] \\n \\n<b>Gujarat Titans</b> \\n \\n<b>Injuries/Availability: </b>No injuries to report in the Titans' camp. \\n \\n<b>Tactics & Matchups: </b>Livingstone vs Rashid Khan is an interesting sub-plot in this contest. While the destructive English bater boasts of a mighty impressive strike-rate of 172+ against the spinner, Rashid has dismissed him four times in T20 cricket. \\n \\n<b>Probable XI: </b>Shubman Gill (c), Wriddhiman Saha (wk), Sai Sudharsan, Abhinav Manohar, David Miller, Rahul Tewatia, Rashid Khan, Mohit Sharma, Noor Ahmad/Azmatullah Omarzai, Spencer Johnson, Sandeep Warrier [Impact sub: Shahrukh Khan/Sai Kishore] \\n \\n<b>Did you know? </b> \\n \\n- Shubman Gill needs 14 rums to complete 500 against Punjab \\n \\n- Sam Curran has picked up seven wickets in eight overshe's bowled at death in IPL 2024 \\n \\n- David Miller has a staggering average of 61.10, and strike-rate 142.75, while chasing since IPL 2021</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713622234408,
+    "commText": "<p>Good evening folks! It's an important game for both sides to get out of their slumber. more so for Punjab Kings because the Gujarat Titans have extra two points at hand. But the points table will not tell you the real story about the Kings. They have staged some mega comebacks and almost pulled off heists in their last three losses.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713622234418,
+    "commText": "<p>Shashank Singh and Ashutosh Sharma have taken the IPL by storm with their audacious play. Those two have instilled belief from unthinkable scenarios. It all started in the game against the Titans\u00a0in Ahmedabad - another game they looked down and out but won to stun the big home crowd in Ahmedabad. The fact that despite the top-order and most of the middle-order firing and yet pushing the opposition real hard is what makes no team take them lightly.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713622234428,
+    "commText": "<p>The Titans meanwhile started so well but have had questionable team combos of late with right personnel either not getting the nod or role. Their last game against the Capitals was one to forget and one the captain wanted to be dumped behind quickly. It's Mullanpur, Punjab - actual return to home for their own skipper too. Can they get their act right tonight and join the mid-table muddle?</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713622234438,
+    "commText": "<p><b>Pitch Report | Samuel Badree and Simon Katich:</b> \"Dimensions - 70m and 63m square, 72m down the ground. Expect the bowlers to be defending towards that bigger side. All four matches this season have gone all the way here at this venue ending in the final over. We've had some thrillers. Heavy bias for the fast bowlers - 47 wickets, just nine to the spinners. The big reason is the pace and bounce in this wicket. We've seen good carry, we've also seen a little bit of extra swing here at this venue. That's played a part particularly with the new ball. Teams haven't quite known how to attack the first ten overs. Last game here, Mumbai laid the foundation with the experience of Sharma and Surya in the first ten, reaped the rewards in the back ten, they were able to get to 192 which I think is about par on this wicket. The average first innings total here is 174, but I think it's better than that. Today we are seeing quite a bare patch at this end and also at the far end. So it might be a little bit drier but generally it's even coverage of grass, comes onto the bat. The big thing is that Punjab have struggled. Their top three has been the worst in terms of output in this comp, that's the reason why the average score is lower than it should be. We might not get to see necessarily the best batting on this surface.\"</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713706215330,
+    "commText": "<p>It's still Sam Curran at the toss!</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713706228754,
+    "commText": "<p><b>Punjab Kings have won the toss and have opted to bat</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713706242178,
+    "commText": "<p><b>Sam Curran</b>: We are gonna bat first. Third time we have used this pitch, excited to put pressure on the Gujarat bowlers first up and put a good score on the board. Any team can beat anyone. We know if we turn up with right plans and attitude we can win. It's about our overseas players taking more responsibility and helping the Indian players. Shikhar is still not alright, <b>same team</b>.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713706318133,
+    "commText": "<p><b>Shubman Gill:</b> I would have bowled first anyway, looks like it's the same wicket as the last match here. Every game becomes important for us. We have had some niggles (on not being able to settle into a combination). This game Omarzai is back, he had a niggle earlier. He comes in place of Spencer. If we can keep them to around 170 we will be happy.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713706545497,
+    "commText": "<p><b>Punjab Kings</b> (Playing XI): Sam Curran(c), Prabhsimran Singh, Rilee Rossouw, Liam Livingstone, Shashank Singh, Jitesh Sharma(w), Ashutosh Sharma, Harpreet Brar, Harshal Patel, Kagiso Rabada, Arshdeep Singh</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713706620317,
+    "commText": "<p><b>Gujarat Titans</b> (Playing XI): Wriddhiman Saha(w), Shubman Gill(c), David Miller, Azmatullah Omarzai, Shahrukh Khan, Rahul Tewatia, Rashid Khan, Ravisrinivasan Sai Kishore, Noor Ahmad, Sandeep Warrier, Mohit Sharma</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713706622271,
+    "commText": "<p><b>Teams:</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713706756267,
+    "commText": "<p><b>Punjab Kings Impact Subs:</b> Rahul Chahar, Vidhwath Kaverappa, Atharva Taide, Harpreet Singh Bhatia, Shivam Singh</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713706816244,
+    "commText": "<p><b>Gujarat Titans Impact Subs:</b> Sai Sudharsan, Sharath BR, Manav Suthar, Darshan Nalkande, Vijay Shankar</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713706841346,
+    "commText": "<p><b>Here are the Impact substitutes for both the teams</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713707509212,
+    "commText": "<p>We've made a few changes to our Fantasy Handbook lineup based on toss and team combinations</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1713707984065,
+    "commText": "<p>Out come the players. Omarzai to take the new ball. GT will look to attack on PBKS's weankess of losing wickets in the PP. We are ready to roll</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {

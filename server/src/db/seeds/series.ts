@@ -138,11 +138,11 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     // validate
     MatchData.parse(matchData);
 
-    const tossResults = infoData.tossResults;
+    const tossResults = matchData.tossResults;
     if (tossResults.tossWinnerId)
       tossResults.tossWinnerId = teamIdsMap[tossResults.tossWinnerId];
 
-    const matchResults = infoData.results;
+    const matchResults = matchData.results;
     if (matchResults.winningTeamId)
       matchResults.winningTeamId = teamIdsMap[matchResults.winningTeamId];
 
@@ -156,10 +156,11 @@ const seedMatch = async (seriesId: number, matchId: number) => {
       series: seriesIdsMap[infoData.series],
       venue: venueIdsMap[infoData.venue],
       startTime: new Date(infoData.startTime),
-      state: infoData.state,
-      status: "",
-      tossResults: tossResults,
-      results: matchResults,
+      completeTime: new Date(infoData.completeTime),
+      // state: infoData.state,
+      // status: "",
+      // tossResults: tossResults,
+      // results: matchResults,
     };
 
     const insertedMatch = await db

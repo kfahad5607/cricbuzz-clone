@@ -1,7 +1,8 @@
 [
   {
-    "timestamp": 1712338895317,
-    "commText": "<p>CSK were short of answers today, be it in the batting where, despite all the firepower they posess, they just couldn't break free against some smart use of cutters on a sluggish pitch. Or be it the bowling which was taken apart in the powerplay. Abhishek Sharma and Travis Head started it off, and Markram backed it up with an excellent fifty as he maneuvered the spinners brilliantly. So SRH join CSK with two wins. That's all we have from here. It's a goodbye from Sagar Chawla on behalf of Vinod Kumar, Pradeep Krishnamurthy and Abhinav Guha. Goodnight!</p>",
+    "timestamp": 1712332499668,
+    "commText": "<p><b>Head and Abhishek Sharma are at the crease. Head is on strike. Chahar will open the attack</b></p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -23,276 +24,22 @@
     }
   },
   {
-    "timestamp": 1712338744234,
-    "commText": "<p>Stats round-up by <b>Roshan Gede</b></p>",
-    "overs": 0,
+    "timestamp": 1712332510584,
+    "commText": "<p> Chahar to Head, no run, fuller length ball around off, a hint of inswing, Head leans ahead and strokes it to extra cover </p>",
+    "ballNbr": 1,
+    "overs": 0.1,
     "events": [],
     "batsmanStriker": {
-      "id": 0,
+      "id": 8497,
       "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
       "batFours": 0,
       "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712338744224,
-    "commText": "<p><b>Best batting strike-rates in IPL 2024 (min. 50 balls faced)</b> \\n217.56 - Abhishek Sharma (SRH) \\n206.15 - Sunil Narine (KKR) \\n203.44 - Heinrich Klaasen (SRH) \\n180.64 - Travis Head (SRH) \\n175.90 - Nicholas Pooran (LSG)</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712338744214,
-    "commText": "<p><b>SRH\u2019s run-chase</b> \\nOvers 1-9: 101/1 (RR: 11.22) \\nOvers: 10-15: 34/2 (RR: 5.66) \\nOvers 16-18.1: 31/1 (RR: 9.8)</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712338744204,
-    "commText": "<p><b>CSK spinners in IPL 2024</b> \\nFirst three matches: 1/115 from 14 overs, ER: 8.21 \\nToday: 3/83 from 12 overs, ER: 6.92</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712338744194,
-    "commText": "<p><b>Abhishek Sharma | POTM:</b> In the bowling we felt it's a bit slow wicket. We knew if we take the powerplay on, we can go with the flow after that. We had a chance to prepare well before this IPL. Big scores do matter (individual scores), but I went with the flow today. Special thanks to Yuvi paaji, Brian Lara and my dad for this.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712338628851,
-    "commText": "<p><b>Cummins | SRH captain:</b> Different soil. Slowed up a little bit as the game went on. Shivam was hitting it well against the spin. Thought we'll take chance with off-cutters. First thing is always to get the points. Wouldn't want to be bowling to him (Abhishek) and Trav Head at the top. Crowd was crazy tonight. When MS walked out, it was as loud as I've ever heard.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712338347423,
-    "commText": "<p><b>Aiden Markram:</b> Not too bad, not equivalent what it was against Mumbai, as the ball got softer and older, it wasn\u2019t easy, we saw it when we bowled. When we batted, we wanted to attack in the first ten overs and then take it from there. Not too much to be honest, I don\u2019t want to think too much, see ball and hit ball. I think when you get on tricky wickets, you have to still value the batter who is in. On good wickets, you are allowed to play freely and that is where the Impact player rule comes in handy. (Whether you are a batting team or a bowling team?) I\u2019m not too sure but I will go with batting (chuckles).</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712338347413,
-    "commText": "<p><b>Ruturaj Gaikwad | CSK captain:</b> I think to be honest, it was a slow pitch, They bowled well in the back-end, kept the game in control and didn't allow us to capitalize. I thought we did well in the beginning (of the match), but they came back well later. It was a black soil pitch, so we expected the pitch to be slower, but it became slower and slower, and they used the boundary size well. We conceded too many in the batting PP, one dropped catch and one expensive over. Still, to take them to the 19th over was a great effort. I thought anything around 170-175 would've been a good total for us. There was a bit of dew towards the end, but Moeen got the ball to spin even in the 15th-16th over. So I don't think the pitch changed a lot during the course of the game.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712338071711,
-    "commText": "<p>Unlike the top three from SRH, CSK's batters struggled barring Shivam Dube who smashed 45 off 24 balls to inject some momentum in the middle overs. However, once he was dismissed, CSK scored just 46 off the last 6.2 overs with Rahane, Jadeja and Mitchell struggling to find the boundary as the older ball got harder to hit. SRH could've faced a similar difficulty if not for that early blast. Hang around, we'll have the presentations soon.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337701748,
-    "commText": "<p><b>22:51 Local Time, 17:21 GMT, 22:51 IST:</b> Back to back losses on the road for the defending champions. On a pitch where their batting firepower was stifled due to the sluggish nature of the track, they had to face the full wrath of the hosts who came out blazing in the powerplay knowing that it'll get difficult later on. Abhishek Sharma, Travis Head and Aiden Markram came out swinging to smash 78 off the first six overs, and the game was all but sealed right there. CSK did pull things back through a wonderful spell from Moeen Ali, but it was too little too late.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337561992,
-    "commText": "<p> Chahar to Nitish Reddy, <b>SIX</b>, Nitish Reddy finishes it off! Full at the stumps, probably a slower one and he picks the bones out of it, launching it straight back down the ground. <b>SRH get the better of CSK</b> in front of a sea of yellow in Hyderabad </p>",
-    "overs": 18.1,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 14701,
-      "batRuns": 14,
-      "ballsPlayed": 8,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 1
     },
     "bowlerStriker": {
       "id": 7836,
-      "bowlOvers": 3.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 32,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337555477,
-    "commText": "<p><b>Deepak Chahar [3.0-0-26-1] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14701,
-      "batRuns": 8,
-      "ballsPlayed": 7,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11307,
-      "bowlOvers": 0,
+      "bowlOvers": 0.1,
       "bowlMaidens": 0,
       "bowlRuns": 0,
       "bowlWickets": 0,
@@ -301,331 +48,24 @@
     }
   },
   {
-    "timestamp": 1712337489097,
-    "commText": "<p> Tushar Deshpande to Klaasen, no run,<b> tough chance goes down!</b> Very full outside off, Klaasen shuffles across and drills it straight back to Deshpande. He does well to get both hands on it in followthrough but fails to hold on </p>",
-    "overs": 18,
+    "timestamp": 1712332550476,
+    "commText": "<p> Chahar to Head, no run, <b>dropped! </b> Moeen Ali the man. A back of a length ball slanting across Head. He goes for a flashy cut shot and edges it off the bottom half of the bat towards first slip. Ali is not in a good position as he tries to catch it with hard hands but the ball pops out. He is standing quite close but that's not an excuse to drop this. Wasn't a difficult catch </p>",
+    "ballNbr": 2,
+    "overs": 0.2,
     "events": [
-      "OVER_BREAK",
       "DROPPED"
     ],
     "batsmanStriker": {
-      "id": 10209,
-      "batRuns": 10,
-      "ballsPlayed": 11,
-      "dotBalls": 5,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11307,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337444140,
-    "commText": "<p> Tushar Deshpande to Klaasen, 2 runs, slower short ball outside off, Klaasen mistimes the pull but gets it in the gap wide of long-on. He's back for two more </p>",
-    "overs": 17.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10209,
-      "batRuns": 10,
-      "ballsPlayed": 10,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11307,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337403110,
-    "commText": "<p> Tushar Deshpande to Klaasen, <b>FOUR</b>, fuller than a length outside off, Klaasen goes after it and launches it over extra cover. Struck it nice and clean </p>",
-    "overs": 17.4,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 10209,
-      "batRuns": 8,
-      "ballsPlayed": 9,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11307,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 18,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337371686,
-    "commText": "<p> Tushar Deshpande to Klaasen, byes, 2 runs, slower short ball outside off, Klaasen is completely deceived on the pull and Dhoni is completely beaten as well. Choudhary does really well to make a diving stop as he runs across from deep third </p>",
-    "overs": 17.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10209,
-      "batRuns": 4,
-      "ballsPlayed": 8,
-      "dotBalls": 4,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11307,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 14,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337323060,
-    "commText": "<p> Tushar Deshpande to Nitish Reddy, 1 run, slower short ball outside off, Reddy pulls it to deep midwicket </p>",
-    "overs": 17.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14701,
-      "batRuns": 8,
-      "ballsPlayed": 7,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11307,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 14,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337289019,
-    "commText": "<p> Tushar Deshpande to Nitish Reddy, no run, good length ball on off, 139.7kph, Reddy defends forward </p>",
-    "overs": 17.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14701,
-      "batRuns": 7,
-      "ballsPlayed": 6,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11307,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337261276,
-    "commText": "<p><b>Tushar Deshpande [1.0-0-13-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14701,
-      "batRuns": 7,
-      "ballsPlayed": 5,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337205838,
-    "commText": "<p> Jadeja to Nitish Reddy, 1 run, full ball on middle, Reddy drives to long-off </p>",
-    "overs": 17,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 14701,
-      "batRuns": 7,
-      "ballsPlayed": 5,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 4,
-      "bowlMaidens": 0,
-      "bowlRuns": 30,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337185097,
-    "commText": "<p> Jadeja to Klaasen, 1 run, length ball fired in just outside off, Klaasen hangs back and cuts through cover </p>",
-    "overs": 16.5,
-    "events": [
-      "TEAM_HUNDRED"
-    ],
-    "batsmanStriker": {
-      "id": 10209,
-      "batRuns": 4,
-      "ballsPlayed": 7,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 3.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 29,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337152778,
-    "commText": "<p> Jadeja to Nitish Reddy, 1 run, flat on middle, Reddy punches it to long-on </p>",
-    "overs": 16.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14701,
-      "batRuns": 6,
-      "ballsPlayed": 4,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 3.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 28,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337140531,
-    "commText": "<p> Jadeja to Nitish Reddy, <b>FOUR</b>, another SRH batter goes for the reverse-sweep and he pulls it off! Fired in full outside off, Reddy gets into position and whacks it behind backward point </p>",
-    "overs": 16.3,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 14701,
-      "batRuns": 5,
-      "ballsPlayed": 3,
-      "dotBalls": 1,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 3.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 27,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337107792,
-    "commText": "<p> Jadeja to Nitish Reddy, no run, fuller than a length on off, Nitish Reddy hangs back and defends to point </p>",
-    "overs": 16.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14701,
-      "batRuns": 1,
+      "id": 8497,
+      "batRuns": 0,
       "ballsPlayed": 2,
-      "dotBalls": 1,
+      "dotBalls": 2,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 3.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337080582,
-    "commText": "<p> Jadeja to Klaasen, 1 run, flat length ball just outside off, Klaasen cuts to deep point </p>",
-    "overs": 16.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10209,
-      "batRuns": 3,
-      "ballsPlayed": 6,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 3.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712337076329,
-    "commText": "<p><b>Ravindra Jadeja [3.0-0-22-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10209,
-      "batRuns": 2,
-      "ballsPlayed": 5,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 0,
+      "id": 7836,
+      "bowlOvers": 0.2,
       "bowlMaidens": 0,
       "bowlRuns": 0,
       "bowlWickets": 0,
@@ -634,274 +74,13 @@
     }
   },
   {
-    "timestamp": 1712337024591,
-    "commText": "<p> Moeen Ali to Klaasen, 1 run, length ball on off, Klaasen punches it to long-on </p>",
-    "overs": 16,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10209,
-      "batRuns": 2,
-      "ballsPlayed": 5,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 2,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336985152,
-    "commText": "<p> Moeen Ali to Nitish Reddy, 1 run, slightly short outside off, and Nitish Reddy is off to a confident start as he cuts nicely to deep point </p>",
-    "overs": 15.5,
+    "timestamp": 1712332591689,
+    "commText": "<p> Chahar to Head, 1 run, good length ball shaping away from Head. He places it to deep backward point to get off the mark </p>",
+    "ballNbr": 3,
+    "overs": 0.3,
     "events": [],
     "batsmanStriker": {
-      "id": 14701,
-      "batRuns": 1,
-      "ballsPlayed": 1,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 2,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336808889,
-    "commText": "<p><b>Nitish Reddy, right handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14701,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11177,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336767569,
-    "commText": "<p>Timeout! SRH should still get these runs with ease, but CSK have just made them wobble a bit. Moeen is in the middle of a lovely spell. Unlike Jadeja and Theekshana, he's not bowling darts and is tossing the ball up. Pitch is helping him.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336764569,
-    "commText": "<p> Moeen Ali to Shahbaz Ahmed, <b>out</b> Lbw!! This looks close as well as Shahbaz is hit on the pad after missing the reverse-sweep. Only thing to check is whether it's pitching outside leg. Don't think there's any bat involved. Shahbaz might be in trouble here. Tossed up from round the wicket, drifts in, pitches on leg stump and straightens. He misses the reverse-sweep and is hit dead in front. Taking a long time to build ball tracking, but it's finally here and there's three reds. <b>Shahbaz Ahmed lbw b Moeen Ali 18(19) [6s-1]</b> </p>",
-    "overs": 15.4,
-    "events": [
-      "WICKET",
-      "UDRS"
-    ],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 18,
-      "ballsPlayed": 19,
-      "dotBalls": 8,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 2,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336762734,
-    "commText": "<p> Moeen Ali to Shahbaz Ahmed, <b>THATS OUT!!</b> Lbw!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 18,
-      "ballsPlayed": 18,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11177,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336564008,
-    "commText": "<p>This looks close as well as Shahbaz is hit on the pad after missing the reverse-sweep. Only thing to check is whether it's pitching outside leg. Don't think there's any bat involved. Shahbaz might be in trouble here.</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336561008,
-    "commText": "<p> Moeen Ali to Shahbaz Ahmed, <b>SIX</b>, 89kph length ball darted in on off, Shahbaz makes room and swings hard again. This time he makes contact and sends it sailing over long-on </p>",
-    "overs": 15.3,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 18,
-      "ballsPlayed": 18,
-      "dotBalls": 7,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336538822,
-    "commText": "<p> Moeen Ali to Shahbaz Ahmed, no run, length ball on off, Shahbaz makes room looking to slog but it turns away and beats the edge </p>",
-    "overs": 15.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 12,
-      "ballsPlayed": 17,
-      "dotBalls": 7,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336518872,
-    "commText": "<p> Moeen Ali to Shahbaz Ahmed, no run, length ball on middle and leg, Shahbaz goes for a reverse-sweep and mistimes it to backward point </p>",
-    "overs": 15.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 12,
-      "ballsPlayed": 16,
-      "dotBalls": 6,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336450193,
-    "commText": "<p> Ravindra to Klaasen, no run, 97.6kph length ball on middle, Klaasen gets forward and punches it gently down the pitch </p>",
-    "overs": 15,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 10209,
-      "batRuns": 1,
-      "ballsPlayed": 4,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11177,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336416770,
-    "commText": "<p> Ravindra to Klaasen, no run, 94.7kph length ball just outside off, Klaasen looks to slog but the ball stays a bit lower than he expects and sneaks through to Dhoni </p>",
-    "overs": 14.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10209,
+      "id": 8497,
       "batRuns": 1,
       "ballsPlayed": 3,
       "dotBalls": 2,
@@ -909,45 +88,47 @@
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 11177,
-      "bowlOvers": 0.5,
+      "id": 7836,
+      "bowlOvers": 0.3,
       "bowlMaidens": 0,
-      "bowlRuns": 3,
+      "bowlRuns": 1,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712336397581,
-    "commText": "<p> Ravindra to Shahbaz Ahmed, 1 run, clipped to deep midwicket </p>",
-    "overs": 14.4,
+    "timestamp": 1712332664217,
+    "commText": "<p> Chahar to Abhishek Sharma, no run, a nippy bouncer around off, Abhishek Sharma drops his wrists and sways away from the line to let it through </p>",
+    "ballNbr": 4,
+    "overs": 0.4,
     "events": [],
     "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 12,
-      "ballsPlayed": 15,
-      "dotBalls": 5,
+      "id": 12086,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 11177,
+      "id": 7836,
       "bowlOvers": 0.4,
       "bowlMaidens": 0,
-      "bowlRuns": 3,
+      "bowlRuns": 1,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712336360288,
-    "commText": "<p> Ravindra to Klaasen, 1 run, 96.5kph full ball on off, Klaasen drives to long-off </p>",
-    "overs": 14.3,
+    "timestamp": 1712332691691,
+    "commText": "<p> Chahar to Abhishek Sharma, 1 run, 131.1kph good length ball swinging away from Abhishek Sharma and he punches it through covers for a run </p>",
+    "ballNbr": 5,
+    "overs": 0.5,
     "events": [],
     "batsmanStriker": {
-      "id": 10209,
+      "id": 12086,
       "batRuns": 1,
       "ballsPlayed": 2,
       "dotBalls": 1,
@@ -955,8 +136,8 @@
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 11177,
-      "bowlOvers": 0.3,
+      "id": 7836,
+      "bowlOvers": 0.5,
       "bowlMaidens": 0,
       "bowlRuns": 2,
       "bowlWickets": 0,
@@ -965,196 +146,36 @@
     }
   },
   {
-    "timestamp": 1712336342499,
-    "commText": "<p> Ravindra to Klaasen, no run, length ball on off, Klaasen punches it back to Rachin </p>",
-    "overs": 14.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 10209,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11177,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336310056,
-    "commText": "<p>Big roar from the crowd as Klaasen comes on strike. No wonder he's a fan favourite</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336307056,
-    "commText": "<p> Ravindra to Shahbaz Ahmed, 1 run, tossed up outside off, driven to long-off </p>",
-    "overs": 14.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 11,
-      "ballsPlayed": 14,
-      "dotBalls": 5,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11177,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336301956,
-    "commText": "<p><b>Rachin Ravindra, Left arm orthodox, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 10,
-      "ballsPlayed": 13,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336251096,
-    "commText": "<p><b>Heinrich Klaasen, right handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 10,
-      "ballsPlayed": 13,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336216709,
-    "commText": "<p><b>Highlights (Overs 7-14) \u2013 54/2</b> \\n-- Jadeja begins with a tight 6-run over \\n-- Theekshana backs it up with another miserly over \\n-- Markram hits a maximum in Jadeja\u2019s second over \\n-- Head falls to Theekshana after a bright start \\n-- Spinners bowl in tandem and slow things down \\n-- Theekshana bowls out with decent figures \\n-- Markram scores a 35-ball fifty \\n-- Moeen Ali traps Markram in front and he also takes a review with him</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336216699,
-    "commText": "<p> Moeen Ali to Markram, <b>out</b> Lbw!! Markram is given out LBW, and he goes for the review. He tries to go for a reverse-sweep, misses it completely and is hit right in front. Three reds on ball-tracking. So that's the end of his lovely knock. Moeen has bowled well so far. Again tosses it up outside off, lands on a length and turns in to beat Markram on the reverse-sweep. Hits him in front of off stump and would've crashed into leg. <b>Markram lbw b Moeen Ali 50(36) [4s-4 6s-1]</b> </p>",
-    "overs": 14,
+    "timestamp": 1712332732856,
+    "commText": "<p> Chahar to Head, <b>SIX</b>, <b>Head rubs salt into the wounds of CSK!</b> A short ball well wide of Head. He rises with the bounce and upper cuts it over deep backward point for a maximum. Good bat flow there and he got the desired result </p>",
+    "ballNbr": 6,
+    "overs": 1,
     "events": [
       "OVER_BREAK",
-      "WICKET",
-      "UDRS"
+      "SIX"
     ],
     "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 50,
-      "ballsPlayed": 36,
-      "dotBalls": 10,
-      "batFours": 4,
+      "id": 8497,
+      "batRuns": 7,
+      "ballsPlayed": 4,
+      "dotBalls": 2,
+      "batFours": 0,
       "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 2,
+      "id": 7836,
+      "bowlOvers": 1,
       "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 1,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336214860,
-    "commText": "<p> Moeen Ali to Markram, <b>THATS OUT!!</b> Lbw!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 50,
-      "ballsPlayed": 35,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
+      "bowlRuns": 8,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712336109538,
-    "commText": "<p>Markram is given out LBW, and he goes for the review. He tries to go for a reverse-sweep, misses it completely and is hit right in front. Three reds on ball-tracking.</p>",
+    "timestamp": 1712332735856,
+    "commText": "<p>A false start for Mukesh as he stops in his delivery stride</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -1176,2200 +197,209 @@
     }
   },
   {
-    "timestamp": 1712336106538,
-    "commText": "<p> Moeen Ali to Shahbaz Ahmed, 1 run, tossed up outside off, driven to long-off </p>",
-    "overs": 13.5,
+    "timestamp": 1712332795356,
+    "commText": "<p><b>Mukesh Choudhary, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 10,
-      "ballsPlayed": 13,
-      "dotBalls": 5,
+      "id": 12086,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 1.5,
+      "id": 7836,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
-      "bowlRuns": 15,
+      "bowlRuns": 0,
       "bowlWickets": 0,
-      "bowlWides": 1,
+      "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712336071635,
-    "commText": "<p> Moeen Ali to Shahbaz Ahmed, 2 runs, tossed up on off, Shahbaz dances down and lofts it with the turn over extra cover. Didn't go hard, was just a chip </p>",
-    "overs": 13.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 9,
-      "ballsPlayed": 12,
-      "dotBalls": 5,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 14,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712336036834,
-    "commText": "<p> Moeen Ali to Shahbaz Ahmed, 2 runs, clipped off the pads through square leg, and he's back for two </p>",
-    "overs": 13.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 7,
-      "ballsPlayed": 11,
-      "dotBalls": 5,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335997571,
-    "commText": "<p> Moeen Ali to Markram, 1 run, 87kph length ball turning in sharply on off, Markram hangs back and bunts it to long-on. Brilliant <b>fifty</b> from him! Has looked really good since the moment he came into bat. Bodes well for SRH going forward </p>",
-    "overs": 13.2,
+    "timestamp": 1712332824072,
+    "commText": "<p> Mukesh Choudhary to Abhishek Sharma, <b>FOUR</b>, lovely shot! A bit of away swing from off but it's too full, Abhishek Sharma takes full toll and lifts it down the ground nonchalantly to find the fence </p>",
+    "ballNbr": 7,
+    "overs": 1.1,
     "events": [
-      "FIFTY"
+      "FOUR"
     ],
     "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 50,
-      "ballsPlayed": 35,
-      "dotBalls": 9,
-      "batFours": 4,
+      "id": 12086,
+      "batRuns": 5,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13184,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712332857428,
+    "commText": "<p> Mukesh Choudhary to Abhishek Sharma, no run, a length ball at 136.5 clicks seaming in from off, Abhishek Sharma punches it towards mid-on </p>",
+    "ballNbr": 8,
+    "overs": 1.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 12086,
+      "batRuns": 5,
+      "ballsPlayed": 4,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 13184,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712332860428,
+    "commText": "<p>Chants of Dhoni Dhoni in the crowd</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712332894862,
+    "commText": "<p> Mukesh Choudhary to Abhishek Sharma, <b>SIX</b>, a poor ball and duly punished! A short ball down leg, a hit-me ball and Abhishek Sharma says thank you very much. He swivels across and hooks it over fine leg for a big maximum </p>",
+    "ballNbr": 9,
+    "overs": 1.3,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 12086,
+      "batRuns": 11,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 1,
       "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 1.2,
+      "id": 13184,
+      "bowlOvers": 0.3,
       "bowlMaidens": 0,
       "bowlRuns": 10,
       "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335968941,
-    "commText": "<p> Moeen Ali to Markram, 2 runs, length ball on off, turning in, Markram hangs back and clips it through midwicket </p>",
-    "overs": 13.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 49,
-      "ballsPlayed": 34,
-      "dotBalls": 9,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 9,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335953006,
-    "commText": "<p> Moeen Ali to Markram, <b>wide</b>, tossed up, turning down leg, Markram misses </p>",
-    "overs": 13.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 47,
-      "ballsPlayed": 33,
-      "dotBalls": 9,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 1,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335851953,
-    "commText": "<p> Theekshana to Markram, 1 run, carrom ball on off, length delivery, Markram punches off the back foot through point </p>",
-    "overs": 13,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 47,
-      "ballsPlayed": 33,
-      "dotBalls": 9,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 4,
-      "bowlMaidens": 0,
-      "bowlRuns": 27,
-      "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712335826301,
-    "commText": "<p> Theekshana to Markram, no run, short outside off, half-tracker, and Markram misses out. He loses shape looking to cut hard, and chops it off an under-edge into the pitch </p>",
-    "overs": 12.5,
+    "timestamp": 1712332935732,
+    "commText": "<p> Mukesh Choudhary to Abhishek Sharma, no run, a good length ball on off, Abhishek Sharma punches it on the up towards mid-off </p>",
+    "ballNbr": 10,
+    "overs": 1.4,
     "events": [],
     "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 46,
-      "ballsPlayed": 32,
-      "dotBalls": 9,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 3.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 26,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335797458,
-    "commText": "<p> Theekshana to Markram, 2 runs, flat carrom ball just outside off, back of a length, Markram goes back and cuts through backward point for two more </p>",
-    "overs": 12.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 46,
-      "ballsPlayed": 31,
-      "dotBalls": 8,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 3.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 26,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335765456,
-    "commText": "<p> Theekshana to Shahbaz Ahmed, 1 run, length ball darted in on off, Shahbaz hangs back and punches to long-off </p>",
-    "overs": 12.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 5,
-      "ballsPlayed": 10,
-      "dotBalls": 5,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 3.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 24,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335736980,
-    "commText": "<p> Theekshana to Markram, 1 run, length ball on middle, Markram makes room and punches to long-off </p>",
-    "overs": 12.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 44,
-      "ballsPlayed": 30,
-      "dotBalls": 8,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 3.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335719594,
-    "commText": "<p> Theekshana to Markram, no run, flat length ball on off, Markram punches it back down the pitch </p>",
-    "overs": 12.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 43,
-      "ballsPlayed": 29,
-      "dotBalls": 8,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 3.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335715576,
-    "commText": "<p><b>Maheesh Theekshana [3.0-0-22-1] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 43,
-      "ballsPlayed": 28,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335657597,
-    "commText": "<p> Moeen Ali to Markram, 1 run, 92kph, length ball turning in on middle, holds in the pitch slightly and Markram is early through the shot. But he manages to punch it to long-off </p>",
-    "overs": 12,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 43,
-      "ballsPlayed": 28,
-      "dotBalls": 7,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335626640,
-    "commText": "<p> Moeen Ali to Markram, 2 runs, slightly short outside off, Markram makes room and slaps it wide of long-off. Good stop in the deep from RIzvi as he dives across to cut it off </p>",
-    "overs": 11.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 42,
-      "ballsPlayed": 27,
-      "dotBalls": 7,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335596899,
-    "commText": "<p> Moeen Ali to Shahbaz Ahmed, 1 run, 84.8kph, tossed up on off, Shahbaz gets forward and punches it to long-off </p>",
-    "overs": 11.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 4,
-      "ballsPlayed": 9,
-      "dotBalls": 5,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335574478,
-    "commText": "<p> Moeen Ali to Markram, 1 run, 88.8kph, back of a length on middle, Markram goes back and punches it to the left of Moeen. He gets a hand to it but fails to cut it off </p>",
-    "overs": 11.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 40,
-      "ballsPlayed": 26,
-      "dotBalls": 7,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335547530,
-    "commText": "<p> Moeen Ali to Shahbaz Ahmed, 1 run, tossed up, drifting in on middle and leg, Shahbaz gets low and sweeps to deep backward square </p>",
-    "overs": 11.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 3,
-      "ballsPlayed": 8,
-      "dotBalls": 5,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335535004,
-    "commText": "<p> Moeen Ali to Shahbaz Ahmed, no run, length ball just outside off, hint of turn, Shahbaz steers it to backward point </p>",
-    "overs": 11.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 2,
-      "ballsPlayed": 7,
-      "dotBalls": 5,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 6692,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335531020,
-    "commText": "<p><b>Moeen Ali, right-arm off break, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 2,
+      "id": 12086,
+      "batRuns": 11,
       "ballsPlayed": 6,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335471326,
-    "commText": "<p> Jadeja to Markram, 2 runs, flat outside off, back of a length, Markram cuts nicely through backward point and takes two </p>",
-    "overs": 11,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 39,
-      "ballsPlayed": 25,
-      "dotBalls": 7,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335448910,
-    "commText": "<p> Jadeja to Shahbaz Ahmed, 1 run, length ball fired in on off, Shahbaz plays late and dabs it behind point </p>",
-    "overs": 10.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 2,
-      "ballsPlayed": 6,
-      "dotBalls": 4,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 20,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335424678,
-    "commText": "<p> Jadeja to Shahbaz Ahmed, no run, full ball fired in on off, Shahbaz looks to slog but hits it straight to midwicket. He's been sent in to take down the left-arm spinner from the looks of it </p>",
-    "overs": 10.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 1,
-      "ballsPlayed": 5,
-      "dotBalls": 4,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335409438,
-    "commText": "<p> Jadeja to Shahbaz Ahmed, no run, length ball on middle, Shahbaz turns it to midwicket </p>",
-    "overs": 10.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 1,
-      "ballsPlayed": 4,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335390376,
-    "commText": "<p> Jadeja to Markram, 1 run, flat length ball on off, Markram punches it from the crease to long-off </p>",
-    "overs": 10.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 37,
-      "ballsPlayed": 24,
-      "dotBalls": 7,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335371090,
-    "commText": "<p> Jadeja to Shahbaz Ahmed, 1 run, full ball on off, Shahbaz looks to slog but gets an inside edge onto pad </p>",
-    "overs": 10.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 1,
-      "ballsPlayed": 3,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 18,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335346631,
-    "commText": "<p><b>Travis Head in IPL 2024</b> \\nvs pace: 99(46), one dismissal, SR: 215.21, 4s/6s: 15/4 \\nvs spin: 13(16), two dismissals: SR: 81.25 (no boundaries)</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335346621,
-    "commText": "<p> Theekshana to Shahbaz Ahmed, leg byes, 1 run, Shahbaz misses a low full toss and is hit straight on the pad. CSK go up in appeal, umpire turns it down, and <b>they go for the review</b>. Impact might be outside leg stump here. Oh the impact is umpire's call. Anyway, it'll remain not out. CSK retain the review </p>",
-    "overs": 10,
-    "events": [
-      "OVER_BREAK",
-      "UDRS"
-    ],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 0,
-      "ballsPlayed": 2,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335236924,
-    "commText": "<p>Shahbaz misses a low full toss and is hit straight on the pad. CSK go up in appeal, umpire turns it down, and they go for the review. Impact might be outside leg stump here. Oh the impact is umpire's call. Anyway, it'll remain not out</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335230924,
-    "commText": "<p> Theekshana to Shahbaz Ahmed, no run, length ball fired in on middle, Shahbaz gets forward and defends </p>",
-    "overs": 9.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335226961,
-    "commText": "<p><b>Shahbaz Ahmed, left handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 14606,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335157806,
-    "commText": "<p> Theekshana to Head, <b>out</b> Caught by Ravindra!! Head sinks to his knees in disbelief. Plays the sweep pretty well but it goes straight to deep backward square. Length ball fired into the pads, he gets low and hits it in the air. Ravindra makes no mistake in the deep. End of another brilliant partnership. <b>Head c Ravindra b Theekshana 31(24) [4s-3 6s-1]</b> </p>",
-    "overs": 9.4,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 31,
-      "ballsPlayed": 24,
-      "dotBalls": 9,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335154548,
-    "commText": "<p> Theekshana to Head, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 31,
-      "ballsPlayed": 23,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335105850,
-    "commText": "<p> Theekshana to Head, no run, short outside off, Head misses out and cuts it straight to extra cover </p>",
-    "overs": 9.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 31,
-      "ballsPlayed": 23,
-      "dotBalls": 8,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335077080,
-    "commText": "<p> Theekshana to Markram, 1 run, flat length ball on off, Markram punches it nicely to deep point </p>",
-    "overs": 9.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 36,
-      "ballsPlayed": 23,
-      "dotBalls": 7,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 22,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712335044456,
-    "commText": "<p> Theekshana to Markram, <b>FOUR</b>, Markram is striking it beautifully out there! Full ball fired in on off at 100kph, he clears the front leg and hammers it through extra cover </p>",
-    "overs": 9.1,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 35,
-      "ballsPlayed": 22,
-      "dotBalls": 7,
-      "batFours": 4,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 21,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334983718,
-    "commText": "<p> Jadeja to Markram, 1 run, sliding into the pads, back of a length, Markram clips it through midwicket. SRH are cruising along </p>",
-    "overs": 9,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 31,
-      "ballsPlayed": 21,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334961200,
-    "commText": "<p> Jadeja to Markram, 2 runs, punched wide of long-off, and there's a misfield. Markram is back for two </p>",
-    "overs": 8.5,
-    "events": [
-      "TEAM_HUNDRED"
-    ],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 30,
-      "ballsPlayed": 20,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334924123,
-    "commText": "<p> Jadeja to Markram, <b>SIX</b>, this has been struck so cleanly! Wow! Not all that full on middle, but Markram doesn't care. He clears the front leg, hits through the line and launches it over long-on </p>",
-    "overs": 8.4,
-    "events": [
-      "SIX",
-      "PARTNERSHIP"
-    ],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 28,
-      "ballsPlayed": 19,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 14,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334902316,
-    "commText": "<p> Jadeja to Markram, no run, length ball darted in on off, Markram leans back to cut but is late on it. The toe-end saves him. It goes right off the bottom of his bat to short third </p>",
-    "overs": 8.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 22,
-      "ballsPlayed": 18,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334882582,
-    "commText": "<p> Jadeja to Head, 1 run, 101.3kph length ball sliding away outside off, Head cuts it to sweeper cover </p>",
-    "overs": 8.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 31,
-      "ballsPlayed": 22,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334854196,
-    "commText": "<p> Jadeja to Markram, 1 run, 95kph, fuller than a length on off, Markram clears the front leg and wants to go inside-out over extea cover. But he miscues it off the inside half to long-on </p>",
-    "overs": 8.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 22,
-      "ballsPlayed": 17,
-      "dotBalls": 6,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334795823,
-    "commText": "<p> Theekshana to Markram, 1 run, 100.4kph length ball on off, Markram leans back, makes room and punches to deep point </p>",
-    "overs": 8,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 21,
-      "ballsPlayed": 16,
-      "dotBalls": 6,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334769210,
-    "commText": "<p> Theekshana to Head, 1 run, 99.2kph length ball on leg stump, turning back in, Head punches it to long-on </p>",
-    "overs": 7.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 30,
-      "ballsPlayed": 21,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 16,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334740608,
-    "commText": "<p> Theekshana to Head, 2 runs, 104.3kph length ball just outside off, Head cuts nicely through backward point and jogs back for two </p>",
-    "overs": 7.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 29,
-      "ballsPlayed": 20,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 15,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334713887,
-    "commText": "<p> Theekshana to Markram, 1 run, length ball on middle and leg, 97.7kph, Markram punches it off the back foot to long-on </p>",
-    "overs": 7.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 20,
-      "ballsPlayed": 15,
-      "dotBalls": 6,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334693576,
-    "commText": "<p> Theekshana to Markram, no run, flat length delivery on off, carrom ball, Markram hangs back and punches to extra cover </p>",
-    "overs": 7.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 19,
-      "ballsPlayed": 14,
-      "dotBalls": 6,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 1.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334671588,
-    "commText": "<p> Theekshana to Head, 1 run, length ball on off, turning back in, Head hangs back and punches it to long-off </p>",
-    "overs": 7.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 27,
-      "ballsPlayed": 19,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 1.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334665628,
-    "commText": "<p><b>Maheesh Theekshana [1.0-0-11-0] is back into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 26,
-      "ballsPlayed": 18,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334606426,
-    "commText": "<p> Jadeja to Markram, no run, darted in on off, back of a length, Markram hangs back and punches to extra cover </p>",
-    "overs": 7,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 19,
-      "ballsPlayed": 13,
-      "dotBalls": 5,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334586041,
-    "commText": "<p> Jadeja to Markram, 2 runs, darted in just outside off, and that's enough for Markram to make some room and cut through backward point. He times it well and gets back for two </p>",
-    "overs": 6.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 19,
-      "ballsPlayed": 12,
-      "dotBalls": 4,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 6,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334560640,
-    "commText": "<p> Jadeja to Head, 1 run, 99.3kph, back of a length on leg stump, Head makes room and cuts to deep point </p>",
-    "overs": 6.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 26,
-      "ballsPlayed": 18,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334541939,
-    "commText": "<p> Jadeja to Markram, 1 run, length ball on middle, darted in at 96kph, Markram hangs back and punches to long-off </p>",
-    "overs": 6.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 17,
-      "ballsPlayed": 11,
-      "dotBalls": 4,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 3,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334521034,
-    "commText": "<p> Jadeja to Head, 1 run, flat on middle and off, 99.3kph, Head makes room and flat-bats it to long-off </p>",
-    "overs": 6.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 25,
-      "ballsPlayed": 17,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334497365,
-    "commText": "<p> Jadeja to Markram, 1 run, slightly short outside off, Markram cuts to deep point </p>",
-    "overs": 6.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 16,
-      "ballsPlayed": 10,
-      "dotBalls": 4,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 587,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334475850,
-    "commText": "<p>Jadeja into the attack straightaway after powerplay</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334473411,
-    "commText": "<p><b>Ravindra Jadeja, Left arm orthodox, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 15,
-      "ballsPlayed": 9,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11307,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334291245,
-    "commText": "<p><b>Highest powerplay scores for SRH in the IPL</b> \\n81/1 vs MI, Hyderabad, 2024 \\n79/0 vs KKR, Hyderabad, 2017 \\n78/1 vs CSK, Hyderabad, 2024 \\n77/0 vs PBKS, Hyderabad, 2019 \\n77/0 vs DC, Dubai, 2020</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334291235,
-    "commText": "<p><b>Powerplay summary</b> \\n-- SRH come out all guns blazing \\n-- Head dropped on 0 off Chahar (0.2) \\n-- Abhishek smashes 27 off Choudhary's first over \\n-- Chahar removes Abhishek for 37 off 12 balls (2.4) \\n-- Head, Markram continue to bat aggressively</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334291225,
-    "commText": "<p><b>Time for the strategic break! </b> This has been an absolute display of power-hitting from the SRH batters to boss the powerplay. Abhishek Sharma took his side off to a flier. Although he departed against the run of play, he made a real impact. Head and Markram have taken over and have continued to score runs freely. Only wickets can stop this carnage. Perhaps, the dropped chance of Head might well come back to haunt CSK</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334288225,
-    "commText": "<p> Tushar Deshpande to Markram, 1 run, 118.6kph off-pace fuller length ball on middle and off, Markram strokes it towards mid-on for a brisk single </p>",
-    "overs": 6,
-    "events": [
-      "OVER_BREAK",
-      "HIGHSCORING_OVER"
-    ],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 15,
-      "ballsPlayed": 9,
-      "dotBalls": 4,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11307,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 13,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334244079,
-    "commText": "<p> Tushar Deshpande to Markram, <b>FOUR</b>, brilliant shot! Markram makes some room to the in-angler and smashes it past the right side of mid-on to pick up another boundary </p>",
-    "overs": 5.5,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 14,
-      "ballsPlayed": 8,
-      "dotBalls": 4,
-      "batFours": 3,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 11307,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 12,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334202859,
-    "commText": "<p>Tushar Deshpande to Head, byes, 1 run, that's the way to bowl on this surface! 125.8kph slower shortish ball following a backing away Head. He tries to upper cut but is beaten for lack of pace. The keeper fumbles and a bye results</p>",
-    "overs": 5.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 24,
-      "ballsPlayed": 16,
-      "dotBalls": 7,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 11307,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334158772,
-    "commText": "<p> Tushar Deshpande to Head, <b>FOUR</b>, hit with authority! Tushar Deshpande switches to round the wicket and bowls a slot ball, Head clears his front leg and smashes it over mid-off for a one-bounce boundary </p>",
-    "overs": 5.3,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 24,
-      "ballsPlayed": 15,
-      "dotBalls": 6,
-      "batFours": 3,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 11307,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 8,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334123982,
-    "commText": "<p> Tushar Deshpande to Head, no run, skiddy back of a length ball outside off, Head punches it towards extra cover where Rizvi fumbles a bit but no harm done </p>",
-    "overs": 5.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 20,
-      "ballsPlayed": 14,
-      "dotBalls": 6,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 11307,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334081675,
-    "commText": "<p> Tushar Deshpande to Head, <b>FOUR</b>, Head greets Tushar Deshpande with a boundary! A back of a length ball angling across Head. He flat-bats it. Mid-off moves to his left but the ball goes past him in a flash </p>",
-    "overs": 5.1,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 20,
-      "ballsPlayed": 13,
-      "dotBalls": 5,
-      "batFours": 2,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 11307,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 4,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334069489,
-    "commText": "<p><b>Tushar Deshpande, right-arm medium, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 16,
-      "ballsPlayed": 12,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712334008611,
-    "commText": "<p> Chahar to Head, 1 run, 120.4kph slower good length ball shaping in, Head makes room and mishits it through mid-wicket. The batters search for the second run but it's not on </p>",
-    "overs": 5,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 16,
-      "ballsPlayed": 12,
-      "dotBalls": 5,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 3,
-      "bowlMaidens": 0,
-      "bowlRuns": 26,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333966739,
-    "commText": "<p> Chahar to Head, no run, good length ball slanting towards the pads, Head flicks it towards short fine </p>",
-    "overs": 4.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 15,
-      "ballsPlayed": 11,
-      "dotBalls": 5,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 2.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 25,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333918162,
-    "commText": "<p> Chahar to Head, no run, dug into the surface as Head makes room. He plays it with an open face towards the right of Theekshana at short third and he dives to make a good stop </p>",
-    "overs": 4.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 15,
-      "ballsPlayed": 10,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 2.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 25,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333878295,
-    "commText": "<p> Chahar to Head, no run, 133kph back of a length ball angling in, Head looks to pull it across but misses. CSK are making the mistake of not bowling many slower balls on a slowish surface </p>",
-    "overs": 4.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 15,
-      "ballsPlayed": 9,
       "dotBalls": 3,
       "batFours": 1,
       "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 2.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 25,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333842448,
-    "commText": "<p><b>Highest SR in an IPL innings for SRH (min. 10 balls faced)</b> \\n340 - 34*(10) - Rashid Khan vs KKR, Kolkata, 2018 Eliminator \\n308.33 - 37(12) - Abhishek Sharma vs CSK, Hyderabad, 2024 \\n285.71 - 40(14) - Washington Sundar vs RR, Pune, 2022 \\n273.91 - 63(23) - Abhishek Sharma vs MI, Hyderabad, 2024</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333842438,
-    "commText": "<p> Chahar to Head, 2 runs, back of a length ball angling in towards leg-stump, Head works it nicely through wide mid-wicket. Rachin in the deep moves to his right in the deep to cut it off </p>",
-    "overs": 4.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 15,
-      "ballsPlayed": 8,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 2.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 25,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333788207,
-    "commText": "<p> Chahar to Head, <b>FOUR</b>, the runs keep flowing! Head makes room and the back of a length ball angles in. He lifts it over covers and the ball races away to the fence </p>",
-    "overs": 4.1,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 13,
-      "ballsPlayed": 7,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 2.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333699228,
-    "commText": "<p>Oh, Chahar stopped before delivering the ball. He was keeping an eye on Markram but he didn't leave his crease</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333696228,
-    "commText": "<p> Theekshana to Markram, <b>FOUR</b>, Markram doesn't miss out on the loosener! He backs away and gets a friendly full-toss in his arc. He drills it past extra cover for another boundary. 11 off the over </p>",
-    "overs": 4,
-    "events": [
-      "OVER_BREAK",
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 10,
-      "ballsPlayed": 7,
-      "dotBalls": 4,
-      "batFours": 2,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 1,
-      "bowlMaidens": 0,
-      "bowlRuns": 11,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333675113,
-    "commText": "<p><b>Abhishek Sharma vs Deepak Chahar in the IPL</b> \\nRuns: 16 \\nBalls: 8 \\nDismissals: 2</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333675103,
-    "commText": "<p> Theekshana to Markram, no run, on a back of a length on off, punched to mid-off </p>",
-    "overs": 3.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 6,
-      "ballsPlayed": 6,
-      "dotBalls": 4,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333649790,
-    "commText": "<p> Theekshana to Markram, 2 runs, full ball drifting towards the leg-stump, Markram goes for the slog sweep but mistimes it over short fine. Safe shot though and he comes back for the second run </p>",
-    "overs": 3.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 6,
-      "ballsPlayed": 5,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 7,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333611774,
-    "commText": "<p> Theekshana to Markram, <b>FOUR</b>, shot! Markram uses his feet, gets close to the pitch of the ball, and hits it past the left side of mid-off to get the desired result </p>",
-    "overs": 3.3,
-    "events": [
-      "TEAM_FIFTY",
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 4,
-      "ballsPlayed": 4,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 5,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333588638,
-    "commText": "<p> Theekshana to Markram, no run, the carrom ball at a quicker pace on middle and leg, Markram hangs back and keeps it out </p>",
-    "overs": 3.2,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 0,
-      "ballsPlayed": 3,
-      "dotBalls": 3,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 0.2,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333558203,
-    "commText": "<p>A slip in place for Theekshana</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333555203,
-    "commText": "<p> Theekshana to Head, 1 run, turns in from a back of a length on off, Head chops it past extra cover </p>",
-    "overs": 3.1,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 9,
-      "ballsPlayed": 6,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 1
-    },
-    "bowlerStriker": {
-      "id": 18504,
-      "bowlOvers": 0.1,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333550453,
-    "commText": "<p><b>Maheesh Theekshana, right-arm off break, comes into the attack</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 8,
-      "ballsPlayed": 5,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333484990,
-    "commText": "<p> Chahar to Markram, no run, 135.7kph back of a length ball outside off, Markram mistimes his punch to covers </p>",
-    "overs": 3,
-    "events": [
-      "OVER_BREAK"
-    ],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 0,
-      "ballsPlayed": 2,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 2,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333456775,
-    "commText": "<p> Chahar to Markram, no run, shortish delivery outside off, Markram cuts it straight to backward point </p>",
-    "overs": 2.5,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 1.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333450192,
-    "commText": "<p><b>Aiden Markram, right handed bat, comes to the crease</b></p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 9582,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
     },
     "bowlerStriker": {
       "id": 13184,
-      "bowlOvers": 0,
+      "bowlOvers": 0.4,
       "bowlMaidens": 0,
-      "bowlRuns": 0,
+      "bowlRuns": 10,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712333359060,
-    "commText": "<p>Chahar to Abhishek Sharma, <b>out</b> Caught by Jadeja!! <b>The fireworks from Abhishek Sharma comes to an end!</b> Jadeja is one of the best fielders going around and he made it look easy. A fuller length ball wide outside off, makes Abhishek reach out to it. He slices it uppishly towards deep backward point. Jadeja moves to his right, judges it to perfection and gets low to reverse cup it. A quickfire knock from Abhishek Sharma which can turn out to be the real impact. <b>Abhishek Sharma c Jadeja b Chahar 37(12) [4s-3 6s-4]</b></p>",
-    "overs": 2.4,
-    "events": [
-      "WICKET"
-    ],
-    "batsmanStriker": {
-      "id": 12086,
-      "batRuns": 37,
-      "ballsPlayed": 12,
-      "dotBalls": 4,
-      "batFours": 3,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 1.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 1,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333355680,
-    "commText": "<p> Chahar to Abhishek Sharma, <b>THATS OUT!!</b> Caught!! </p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12086,
-      "batRuns": 37,
-      "ballsPlayed": 11,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 13184,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333279572,
-    "commText": "<p>Slip has gone out</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333276572,
-    "commText": "<p> Chahar to Abhishek Sharma, <b>FOUR</b>, Chahar switches to round the wicket but he still gets smashed! Abhishek Sharma backs away and Chahar bowls a shortish ball. Enough space to free his arms and slaps it over cover-point for a boundary. <b>Abhishek Sharma has raced to 37 off 11 balls</b> </p>",
-    "overs": 2.3,
-    "events": [
-      "FOUR"
-    ],
-    "batsmanStriker": {
-      "id": 12086,
-      "batRuns": 37,
-      "ballsPlayed": 11,
-      "dotBalls": 3,
-      "batFours": 3,
-      "batSixes": 4
-    },
-    "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 1.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 19,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712333187759,
-    "commText": "<p> Chahar to Abhishek Sharma, <b>SIX</b>, <b>Abhishek Sharma is timing them like a dream! </b> A 135kph shortish ball on off, Abhishek Sharma stands tall and pulls it with aplomb over deep backward square leg for a <b>86m</b> maximum. Ominous signs for CSK </p>",
-    "overs": 2.2,
+    "timestamp": 1712333016981,
+    "commText": "<p> Mukesh Choudhary to Abhishek Sharma, <b>no ball</b>, <b>SIX</b>, delightful! A full ball in the slot for Abhishek Sharma and it swings into his arc, Abhishek Sharma brings his bottom hand into play and whips it over deep mid-wicket for a biggie. To make matters worse, Mukesh Choudhary has overstepped. <b>Free Hit coming up...</b> </p>",
+    "ballNbr": 11,
+    "overs": 1.5,
     "events": [
       "SIX"
     ],
     "batsmanStriker": {
       "id": 12086,
-      "batRuns": 33,
-      "ballsPlayed": 10,
+      "batRuns": 17,
+      "ballsPlayed": 7,
       "dotBalls": 3,
-      "batFours": 2,
-      "batSixes": 4
+      "batFours": 1,
+      "batSixes": 2
     },
     "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 1.2,
+      "id": 13184,
+      "bowlOvers": 0.4,
       "bowlMaidens": 0,
-      "bowlRuns": 15,
+      "bowlRuns": 17,
       "bowlWickets": 0,
       "bowlWides": 0,
-      "bowlNoBalls": 0
+      "bowlNoBalls": 1
     }
   },
   {
-    "timestamp": 1712333143767,
-    "commText": "<p> Chahar to Head, 1 run, good length ball shaping towards leg-stump, Head swipes it to deep backward square leg and there's protection there </p>",
-    "overs": 2.1,
-    "events": [],
+    "timestamp": 1712333031438,
+    "commText": "<p> Mukesh Choudhary to Abhishek Sharma, <b>SIX</b>, crunched! A full-toss on off, Abhishek Sharma hits it over long-off and clears the fence </p>",
+    "ballNbr": 11,
+    "overs": 1.5,
+    "events": [
+      "SIX"
+    ],
     "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 8,
-      "ballsPlayed": 5,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 1
+      "id": 12086,
+      "batRuns": 23,
+      "ballsPlayed": 8,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 3
     },
     "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 1.1,
+      "id": 13184,
+      "bowlOvers": 0.5,
       "bowlMaidens": 0,
-      "bowlRuns": 9,
+      "bowlRuns": 23,
       "bowlWickets": 0,
       "bowlWides": 0,
-      "bowlNoBalls": 0
+      "bowlNoBalls": 1
     }
   },
   {
     "timestamp": 1712333079676,
     "commText": "<p> Mukesh Choudhary to Abhishek Sharma, <b>FOUR</b>, <b>27 off the over! </b> Abhishek Sharma has teared into Mukesh Choudhary. Slightly overpitched around off, Abhishek Sharma plays a lofted stroke over long-off to find the fence.<b> Just the start SRH were searching for</b> </p>",
+    "ballNbr": 12,
     "overs": 2,
     "events": [
       "OVER_BREAK",
@@ -3395,106 +425,85 @@
     }
   },
   {
-    "timestamp": 1712333031438,
-    "commText": "<p> Mukesh Choudhary to Abhishek Sharma, <b>SIX</b>, crunched! A full-toss on off, Abhishek Sharma hits it over long-off and clears the fence </p>",
-    "overs": 1.5,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 12086,
-      "batRuns": 23,
-      "ballsPlayed": 8,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 3
-    },
-    "bowlerStriker": {
-      "id": 13184,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 23,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1712333016981,
-    "commText": "<p> Mukesh Choudhary to Abhishek Sharma, <b>no ball</b>, <b>SIX</b>, delightful! A full ball in the slot for Abhishek Sharma and it swings into his arc, Abhishek Sharma brings his bottom hand into play and whips it over deep mid-wicket for a biggie. To make matters worse, Mukesh Choudhary has overstepped. <b>Free Hit coming up...</b> </p>",
-    "overs": 1.5,
-    "events": [
-      "SIX"
-    ],
-    "batsmanStriker": {
-      "id": 12086,
-      "batRuns": 17,
-      "ballsPlayed": 7,
-      "dotBalls": 3,
-      "batFours": 1,
-      "batSixes": 2
-    },
-    "bowlerStriker": {
-      "id": 13184,
-      "bowlOvers": 0.4,
-      "bowlMaidens": 0,
-      "bowlRuns": 17,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 1
-    }
-  },
-  {
-    "timestamp": 1712332935732,
-    "commText": "<p> Mukesh Choudhary to Abhishek Sharma, no run, a good length ball on off, Abhishek Sharma punches it on the up towards mid-off </p>",
-    "overs": 1.4,
+    "timestamp": 1712333143767,
+    "commText": "<p> Chahar to Head, 1 run, good length ball shaping towards leg-stump, Head swipes it to deep backward square leg and there's protection there </p>",
+    "ballNbr": 13,
+    "overs": 2.1,
     "events": [],
     "batsmanStriker": {
-      "id": 12086,
-      "batRuns": 11,
-      "ballsPlayed": 6,
-      "dotBalls": 3,
-      "batFours": 1,
+      "id": 8497,
+      "batRuns": 8,
+      "ballsPlayed": 5,
+      "dotBalls": 2,
+      "batFours": 0,
       "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 13184,
-      "bowlOvers": 0.4,
+      "id": 7836,
+      "bowlOvers": 1.1,
       "bowlMaidens": 0,
-      "bowlRuns": 10,
+      "bowlRuns": 9,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712332894862,
-    "commText": "<p> Mukesh Choudhary to Abhishek Sharma, <b>SIX</b>, a poor ball and duly punished! A short ball down leg, a hit-me ball and Abhishek Sharma says thank you very much. He swivels across and hooks it over fine leg for a big maximum </p>",
-    "overs": 1.3,
+    "timestamp": 1712333187759,
+    "commText": "<p> Chahar to Abhishek Sharma, <b>SIX</b>, <b>Abhishek Sharma is timing them like a dream! </b> A 135kph shortish ball on off, Abhishek Sharma stands tall and pulls it with aplomb over deep backward square leg for a <b>86m</b> maximum. Ominous signs for CSK </p>",
+    "ballNbr": 14,
+    "overs": 2.2,
     "events": [
       "SIX"
     ],
     "batsmanStriker": {
       "id": 12086,
-      "batRuns": 11,
-      "ballsPlayed": 5,
-      "dotBalls": 2,
-      "batFours": 1,
-      "batSixes": 1
+      "batRuns": 33,
+      "ballsPlayed": 10,
+      "dotBalls": 3,
+      "batFours": 2,
+      "batSixes": 4
     },
     "bowlerStriker": {
-      "id": 13184,
-      "bowlOvers": 0.3,
+      "id": 7836,
+      "bowlOvers": 1.2,
       "bowlMaidens": 0,
-      "bowlRuns": 10,
+      "bowlRuns": 15,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712332860428,
-    "commText": "<p>Chants of Dhoni Dhoni in the crowd</p>",
+    "timestamp": 1712333276572,
+    "commText": "<p> Chahar to Abhishek Sharma, <b>FOUR</b>, Chahar switches to round the wicket but he still gets smashed! Abhishek Sharma backs away and Chahar bowls a shortish ball. Enough space to free his arms and slaps it over cover-point for a boundary. <b>Abhishek Sharma has raced to 37 off 11 balls</b> </p>",
+    "ballNbr": 15,
+    "overs": 2.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 12086,
+      "batRuns": 37,
+      "ballsPlayed": 11,
+      "dotBalls": 3,
+      "batFours": 3,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 7836,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333279572,
+    "commText": "<p>Slip has gone out</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
@@ -3516,45 +525,589 @@
     }
   },
   {
-    "timestamp": 1712332857428,
-    "commText": "<p> Mukesh Choudhary to Abhishek Sharma, no run, a length ball at 136.5 clicks seaming in from off, Abhishek Sharma punches it towards mid-on </p>",
-    "overs": 1.2,
+    "timestamp": 1712333355680,
+    "commText": "<p> Chahar to Abhishek Sharma, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
     "events": [],
     "batsmanStriker": {
       "id": 12086,
-      "batRuns": 5,
-      "ballsPlayed": 4,
-      "dotBalls": 2,
-      "batFours": 1,
+      "batRuns": 37,
+      "ballsPlayed": 11,
+      "dotBalls": 0,
+      "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
       "id": 13184,
-      "bowlOvers": 0.2,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
-      "bowlRuns": 4,
+      "bowlRuns": 0,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712332824072,
-    "commText": "<p> Mukesh Choudhary to Abhishek Sharma, <b>FOUR</b>, lovely shot! A bit of away swing from off but it's too full, Abhishek Sharma takes full toll and lifts it down the ground nonchalantly to find the fence </p>",
-    "overs": 1.1,
+    "timestamp": 1712333359060,
+    "commText": "<p>Chahar to Abhishek Sharma, <b>out</b> Caught by Jadeja!! <b>The fireworks from Abhishek Sharma comes to an end!</b> Jadeja is one of the best fielders going around and he made it look easy. A fuller length ball wide outside off, makes Abhishek reach out to it. He slices it uppishly towards deep backward point. Jadeja moves to his right, judges it to perfection and gets low to reverse cup it. A quickfire knock from Abhishek Sharma which can turn out to be the real impact. <b>Abhishek Sharma c Jadeja b Chahar 37(12) [4s-3 6s-4]</b></p>",
+    "ballNbr": 16,
+    "overs": 2.4,
     "events": [
-      "FOUR"
+      "WICKET"
     ],
     "batsmanStriker": {
       "id": 12086,
-      "batRuns": 5,
-      "ballsPlayed": 3,
-      "dotBalls": 1,
-      "batFours": 1,
+      "batRuns": 37,
+      "ballsPlayed": 12,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 4
+    },
+    "bowlerStriker": {
+      "id": 7836,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333450192,
+    "commText": "<p><b>Aiden Markram, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
       "id": 13184,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333456775,
+    "commText": "<p> Chahar to Markram, no run, shortish delivery outside off, Markram cuts it straight to backward point </p>",
+    "ballNbr": 17,
+    "overs": 2.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7836,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333484990,
+    "commText": "<p> Chahar to Markram, no run, 135.7kph back of a length ball outside off, Markram mistimes his punch to covers </p>",
+    "ballNbr": 18,
+    "overs": 3,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 0,
+      "ballsPlayed": 2,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7836,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333550453,
+    "commText": "<p><b>Maheesh Theekshana, right-arm off break, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 8,
+      "ballsPlayed": 5,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7836,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333555203,
+    "commText": "<p> Theekshana to Head, 1 run, turns in from a back of a length on off, Head chops it past extra cover </p>",
+    "ballNbr": 19,
+    "overs": 3.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 9,
+      "ballsPlayed": 6,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333558203,
+    "commText": "<p>A slip in place for Theekshana</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333588638,
+    "commText": "<p> Theekshana to Markram, no run, the carrom ball at a quicker pace on middle and leg, Markram hangs back and keeps it out </p>",
+    "ballNbr": 20,
+    "overs": 3.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 0,
+      "ballsPlayed": 3,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333611774,
+    "commText": "<p> Theekshana to Markram, <b>FOUR</b>, shot! Markram uses his feet, gets close to the pitch of the ball, and hits it past the left side of mid-off to get the desired result </p>",
+    "ballNbr": 21,
+    "overs": 3.3,
+    "events": [
+      "TEAM_FIFTY",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 4,
+      "ballsPlayed": 4,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333649790,
+    "commText": "<p> Theekshana to Markram, 2 runs, full ball drifting towards the leg-stump, Markram goes for the slog sweep but mistimes it over short fine. Safe shot though and he comes back for the second run </p>",
+    "ballNbr": 22,
+    "overs": 3.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 6,
+      "ballsPlayed": 5,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333675103,
+    "commText": "<p> Theekshana to Markram, no run, on a back of a length on off, punched to mid-off </p>",
+    "ballNbr": 23,
+    "overs": 3.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 6,
+      "ballsPlayed": 6,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333675113,
+    "commText": "<p><b>Abhishek Sharma vs Deepak Chahar in the IPL</b> \\nRuns: 16 \\nBalls: 8 \\nDismissals: 2</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333696228,
+    "commText": "<p> Theekshana to Markram, <b>FOUR</b>, Markram doesn't miss out on the loosener! He backs away and gets a friendly full-toss in his arc. He drills it past extra cover for another boundary. 11 off the over </p>",
+    "ballNbr": 24,
+    "overs": 4,
+    "events": [
+      "OVER_BREAK",
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 10,
+      "ballsPlayed": 7,
+      "dotBalls": 4,
+      "batFours": 2,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 11,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333699228,
+    "commText": "<p>Oh, Chahar stopped before delivering the ball. He was keeping an eye on Markram but he didn't leave his crease</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333788207,
+    "commText": "<p> Chahar to Head, <b>FOUR</b>, the runs keep flowing! Head makes room and the back of a length ball angles in. He lifts it over covers and the ball races away to the fence </p>",
+    "ballNbr": 25,
+    "overs": 4.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 13,
+      "ballsPlayed": 7,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7836,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333842438,
+    "commText": "<p> Chahar to Head, 2 runs, back of a length ball angling in towards leg-stump, Head works it nicely through wide mid-wicket. Rachin in the deep moves to his right in the deep to cut it off </p>",
+    "ballNbr": 26,
+    "overs": 4.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 15,
+      "ballsPlayed": 8,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7836,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333842448,
+    "commText": "<p><b>Highest SR in an IPL innings for SRH (min. 10 balls faced)</b> \\n340 - 34*(10) - Rashid Khan vs KKR, Kolkata, 2018 Eliminator \\n308.33 - 37(12) - Abhishek Sharma vs CSK, Hyderabad, 2024 \\n285.71 - 40(14) - Washington Sundar vs RR, Pune, 2022 \\n273.91 - 63(23) - Abhishek Sharma vs MI, Hyderabad, 2024</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333878295,
+    "commText": "<p> Chahar to Head, no run, 133kph back of a length ball angling in, Head looks to pull it across but misses. CSK are making the mistake of not bowling many slower balls on a slowish surface </p>",
+    "ballNbr": 27,
+    "overs": 4.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 15,
+      "ballsPlayed": 9,
+      "dotBalls": 3,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7836,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333918162,
+    "commText": "<p> Chahar to Head, no run, dug into the surface as Head makes room. He plays it with an open face towards the right of Theekshana at short third and he dives to make a good stop </p>",
+    "ballNbr": 28,
+    "overs": 4.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 15,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7836,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712333966739,
+    "commText": "<p> Chahar to Head, no run, good length ball slanting towards the pads, Head flicks it towards short fine </p>",
+    "ballNbr": 29,
+    "overs": 4.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 15,
+      "ballsPlayed": 11,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7836,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 25,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334008611,
+    "commText": "<p> Chahar to Head, 1 run, 120.4kph slower good length ball shaping in, Head makes room and mishits it through mid-wicket. The batters search for the second run but it's not on </p>",
+    "ballNbr": 30,
+    "overs": 5,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 16,
+      "ballsPlayed": 12,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7836,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 26,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334069489,
+    "commText": "<p><b>Tushar Deshpande, right-arm medium, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 16,
+      "ballsPlayed": 12,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 7836,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334081675,
+    "commText": "<p> Tushar Deshpande to Head, <b>FOUR</b>, Head greets Tushar Deshpande with a boundary! A back of a length ball angling across Head. He flat-bats it. Mid-off moves to his left but the ball goes past him in a flash </p>",
+    "ballNbr": 31,
+    "overs": 5.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 20,
+      "ballsPlayed": 13,
+      "dotBalls": 5,
+      "batFours": 2,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 11307,
       "bowlOvers": 0.1,
       "bowlMaidens": 0,
       "bowlRuns": 4,
@@ -3564,70 +1117,48 @@
     }
   },
   {
-    "timestamp": 1712332795356,
-    "commText": "<p><b>Mukesh Choudhary, comes into the attack</b></p>",
-    "overs": 0,
+    "timestamp": 1712334123982,
+    "commText": "<p> Tushar Deshpande to Head, no run, skiddy back of a length ball outside off, Head punches it towards extra cover where Rizvi fumbles a bit but no harm done </p>",
+    "ballNbr": 32,
+    "overs": 5.2,
     "events": [],
-    "batsmanStriker": {
-      "id": 12086,
-      "batRuns": 1,
-      "ballsPlayed": 2,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712332735856,
-    "commText": "<p>A false start for Mukesh as he stops in his delivery stride</p>",
-    "overs": 0,
-    "events": [],
-    "batsmanStriker": {
-      "id": 0,
-      "batRuns": 0,
-      "ballsPlayed": 0,
-      "dotBalls": 0,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 0,
-      "bowlOvers": 0,
-      "bowlMaidens": 0,
-      "bowlRuns": 0,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712332732856,
-    "commText": "<p> Chahar to Head, <b>SIX</b>, <b>Head rubs salt into the wounds of CSK!</b> A short ball well wide of Head. He rises with the bounce and upper cuts it over deep backward point for a maximum. Good bat flow there and he got the desired result </p>",
-    "overs": 1,
-    "events": [
-      "OVER_BREAK",
-      "SIX"
-    ],
     "batsmanStriker": {
       "id": 8497,
-      "batRuns": 7,
-      "ballsPlayed": 4,
-      "dotBalls": 2,
-      "batFours": 0,
+      "batRuns": 20,
+      "ballsPlayed": 14,
+      "dotBalls": 6,
+      "batFours": 2,
       "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 1,
+      "id": 11307,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334158772,
+    "commText": "<p> Tushar Deshpande to Head, <b>FOUR</b>, hit with authority! Tushar Deshpande switches to round the wicket and bowls a slot ball, Head clears his front leg and smashes it over mid-off for a one-bounce boundary </p>",
+    "ballNbr": 33,
+    "overs": 5.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 24,
+      "ballsPlayed": 15,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 11307,
+      "bowlOvers": 0.3,
       "bowlMaidens": 0,
       "bowlRuns": 8,
       "bowlWickets": 0,
@@ -3636,92 +1167,99 @@
     }
   },
   {
-    "timestamp": 1712332691691,
-    "commText": "<p> Chahar to Abhishek Sharma, 1 run, 131.1kph good length ball swinging away from Abhishek Sharma and he punches it through covers for a run </p>",
-    "overs": 0.5,
+    "timestamp": 1712334202859,
+    "commText": "<p>Tushar Deshpande to Head, byes, 1 run, that's the way to bowl on this surface! 125.8kph slower shortish ball following a backing away Head. He tries to upper cut but is beaten for lack of pace. The keeper fumbles and a bye results</p>",
+    "ballNbr": 34,
+    "overs": 5.4,
     "events": [],
     "batsmanStriker": {
-      "id": 12086,
-      "batRuns": 1,
-      "ballsPlayed": 2,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
+      "id": 8497,
+      "batRuns": 24,
+      "ballsPlayed": 16,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
     },
     "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 0.5,
-      "bowlMaidens": 0,
-      "bowlRuns": 2,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712332664217,
-    "commText": "<p> Chahar to Abhishek Sharma, no run, a nippy bouncer around off, Abhishek Sharma drops his wrists and sways away from the line to let it through </p>",
-    "overs": 0.4,
-    "events": [],
-    "batsmanStriker": {
-      "id": 12086,
-      "batRuns": 0,
-      "ballsPlayed": 1,
-      "dotBalls": 1,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7836,
+      "id": 11307,
       "bowlOvers": 0.4,
       "bowlMaidens": 0,
-      "bowlRuns": 1,
+      "bowlRuns": 8,
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
     }
   },
   {
-    "timestamp": 1712332591689,
-    "commText": "<p> Chahar to Head, 1 run, good length ball shaping away from Head. He places it to deep backward point to get off the mark </p>",
-    "overs": 0.3,
-    "events": [],
-    "batsmanStriker": {
-      "id": 8497,
-      "batRuns": 1,
-      "ballsPlayed": 3,
-      "dotBalls": 2,
-      "batFours": 0,
-      "batSixes": 0
-    },
-    "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 0.3,
-      "bowlMaidens": 0,
-      "bowlRuns": 1,
-      "bowlWickets": 0,
-      "bowlWides": 0,
-      "bowlNoBalls": 0
-    }
-  },
-  {
-    "timestamp": 1712332550476,
-    "commText": "<p> Chahar to Head, no run, <b>dropped! </b> Moeen Ali the man. A back of a length ball slanting across Head. He goes for a flashy cut shot and edges it off the bottom half of the bat towards first slip. Ali is not in a good position as he tries to catch it with hard hands but the ball pops out. He is standing quite close but that's not an excuse to drop this. Wasn't a difficult catch </p>",
-    "overs": 0.2,
+    "timestamp": 1712334244079,
+    "commText": "<p> Tushar Deshpande to Markram, <b>FOUR</b>, brilliant shot! Markram makes some room to the in-angler and smashes it past the right side of mid-on to pick up another boundary </p>",
+    "ballNbr": 35,
+    "overs": 5.5,
     "events": [
-      "DROPPED"
+      "FOUR"
     ],
     "batsmanStriker": {
-      "id": 8497,
+      "id": 9582,
+      "batRuns": 14,
+      "ballsPlayed": 8,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11307,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334288225,
+    "commText": "<p> Tushar Deshpande to Markram, 1 run, 118.6kph off-pace fuller length ball on middle and off, Markram strokes it towards mid-on for a brisk single </p>",
+    "ballNbr": 36,
+    "overs": 6,
+    "events": [
+      "OVER_BREAK",
+      "HIGHSCORING_OVER"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 15,
+      "ballsPlayed": 9,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11307,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334291225,
+    "commText": "<p><b>Time for the strategic break! </b> This has been an absolute display of power-hitting from the SRH batters to boss the powerplay. Abhishek Sharma took his side off to a flier. Although he departed against the run of play, he made a real impact. Head and Markram have taken over and have continued to score runs freely. Only wickets can stop this carnage. Perhaps, the dropped chance of Head might well come back to haunt CSK</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
       "batRuns": 0,
-      "ballsPlayed": 2,
-      "dotBalls": 2,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
       "batFours": 0,
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 7836,
-      "bowlOvers": 0.2,
+      "id": 0,
+      "bowlOvers": 0,
       "bowlMaidens": 0,
       "bowlRuns": 0,
       "bowlWickets": 0,
@@ -3730,12 +1268,724 @@
     }
   },
   {
-    "timestamp": 1712332510584,
-    "commText": "<p> Chahar to Head, no run, fuller length ball around off, a hint of inswing, Head leans ahead and strokes it to extra cover </p>",
-    "overs": 0.1,
+    "timestamp": 1712334291235,
+    "commText": "<p><b>Powerplay summary</b> \\n-- SRH come out all guns blazing \\n-- Head dropped on 0 off Chahar (0.2) \\n-- Abhishek smashes 27 off Choudhary's first over \\n-- Chahar removes Abhishek for 37 off 12 balls (2.4) \\n-- Head, Markram continue to bat aggressively</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334291245,
+    "commText": "<p><b>Highest powerplay scores for SRH in the IPL</b> \\n81/1 vs MI, Hyderabad, 2024 \\n79/0 vs KKR, Hyderabad, 2017 \\n78/1 vs CSK, Hyderabad, 2024 \\n77/0 vs PBKS, Hyderabad, 2019 \\n77/0 vs DC, Dubai, 2020</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334473411,
+    "commText": "<p><b>Ravindra Jadeja, Left arm orthodox, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 15,
+      "ballsPlayed": 9,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11307,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334475850,
+    "commText": "<p>Jadeja into the attack straightaway after powerplay</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334497365,
+    "commText": "<p> Jadeja to Markram, 1 run, slightly short outside off, Markram cuts to deep point </p>",
+    "ballNbr": 37,
+    "overs": 6.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 16,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334521034,
+    "commText": "<p> Jadeja to Head, 1 run, flat on middle and off, 99.3kph, Head makes room and flat-bats it to long-off </p>",
+    "ballNbr": 38,
+    "overs": 6.2,
     "events": [],
     "batsmanStriker": {
       "id": 8497,
+      "batRuns": 25,
+      "ballsPlayed": 17,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334541939,
+    "commText": "<p> Jadeja to Markram, 1 run, length ball on middle, darted in at 96kph, Markram hangs back and punches to long-off </p>",
+    "ballNbr": 39,
+    "overs": 6.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 17,
+      "ballsPlayed": 11,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334560640,
+    "commText": "<p> Jadeja to Head, 1 run, 99.3kph, back of a length on leg stump, Head makes room and cuts to deep point </p>",
+    "ballNbr": 40,
+    "overs": 6.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 26,
+      "ballsPlayed": 18,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 4,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334586041,
+    "commText": "<p> Jadeja to Markram, 2 runs, darted in just outside off, and that's enough for Markram to make some room and cut through backward point. He times it well and gets back for two </p>",
+    "ballNbr": 41,
+    "overs": 6.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 19,
+      "ballsPlayed": 12,
+      "dotBalls": 4,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334606426,
+    "commText": "<p> Jadeja to Markram, no run, darted in on off, back of a length, Markram hangs back and punches to extra cover </p>",
+    "ballNbr": 42,
+    "overs": 7,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 19,
+      "ballsPlayed": 13,
+      "dotBalls": 5,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334665628,
+    "commText": "<p><b>Maheesh Theekshana [1.0-0-11-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 26,
+      "ballsPlayed": 18,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334671588,
+    "commText": "<p> Theekshana to Head, 1 run, length ball on off, turning back in, Head hangs back and punches it to long-off </p>",
+    "ballNbr": 43,
+    "overs": 7.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 27,
+      "ballsPlayed": 19,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334693576,
+    "commText": "<p> Theekshana to Markram, no run, flat length delivery on off, carrom ball, Markram hangs back and punches to extra cover </p>",
+    "ballNbr": 44,
+    "overs": 7.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 19,
+      "ballsPlayed": 14,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334713887,
+    "commText": "<p> Theekshana to Markram, 1 run, length ball on middle and leg, 97.7kph, Markram punches it off the back foot to long-on </p>",
+    "ballNbr": 45,
+    "overs": 7.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 20,
+      "ballsPlayed": 15,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334740608,
+    "commText": "<p> Theekshana to Head, 2 runs, 104.3kph length ball just outside off, Head cuts nicely through backward point and jogs back for two </p>",
+    "ballNbr": 46,
+    "overs": 7.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 29,
+      "ballsPlayed": 20,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334769210,
+    "commText": "<p> Theekshana to Head, 1 run, 99.2kph length ball on leg stump, turning back in, Head punches it to long-on </p>",
+    "ballNbr": 47,
+    "overs": 7.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 30,
+      "ballsPlayed": 21,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334795823,
+    "commText": "<p> Theekshana to Markram, 1 run, 100.4kph length ball on off, Markram leans back, makes room and punches to deep point </p>",
+    "ballNbr": 48,
+    "overs": 8,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 21,
+      "ballsPlayed": 16,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334854196,
+    "commText": "<p> Jadeja to Markram, 1 run, 95kph, fuller than a length on off, Markram clears the front leg and wants to go inside-out over extea cover. But he miscues it off the inside half to long-on </p>",
+    "ballNbr": 49,
+    "overs": 8.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 22,
+      "ballsPlayed": 17,
+      "dotBalls": 6,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334882582,
+    "commText": "<p> Jadeja to Head, 1 run, 101.3kph length ball sliding away outside off, Head cuts it to sweeper cover </p>",
+    "ballNbr": 50,
+    "overs": 8.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 31,
+      "ballsPlayed": 22,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334902316,
+    "commText": "<p> Jadeja to Markram, no run, length ball darted in on off, Markram leans back to cut but is late on it. The toe-end saves him. It goes right off the bottom of his bat to short third </p>",
+    "ballNbr": 51,
+    "overs": 8.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 22,
+      "ballsPlayed": 18,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 8,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334924123,
+    "commText": "<p> Jadeja to Markram, <b>SIX</b>, this has been struck so cleanly! Wow! Not all that full on middle, but Markram doesn't care. He clears the front leg, hits through the line and launches it over long-on </p>",
+    "ballNbr": 52,
+    "overs": 8.4,
+    "events": [
+      "SIX",
+      "PARTNERSHIP"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 28,
+      "ballsPlayed": 19,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334961200,
+    "commText": "<p> Jadeja to Markram, 2 runs, punched wide of long-off, and there's a misfield. Markram is back for two </p>",
+    "ballNbr": 53,
+    "overs": 8.5,
+    "events": [
+      "TEAM_HUNDRED"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 30,
+      "ballsPlayed": 20,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 16,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712334983718,
+    "commText": "<p> Jadeja to Markram, 1 run, sliding into the pads, back of a length, Markram clips it through midwicket. SRH are cruising along </p>",
+    "ballNbr": 54,
+    "overs": 9,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 31,
+      "ballsPlayed": 21,
+      "dotBalls": 7,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 17,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335044456,
+    "commText": "<p> Theekshana to Markram, <b>FOUR</b>, Markram is striking it beautifully out there! Full ball fired in on off at 100kph, he clears the front leg and hammers it through extra cover </p>",
+    "ballNbr": 55,
+    "overs": 9.1,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 35,
+      "ballsPlayed": 22,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335077080,
+    "commText": "<p> Theekshana to Markram, 1 run, flat length ball on off, Markram punches it nicely to deep point </p>",
+    "ballNbr": 56,
+    "overs": 9.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 36,
+      "ballsPlayed": 23,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335105850,
+    "commText": "<p> Theekshana to Head, no run, short outside off, Head misses out and cuts it straight to extra cover </p>",
+    "ballNbr": 57,
+    "overs": 9.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 31,
+      "ballsPlayed": 23,
+      "dotBalls": 8,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335154548,
+    "commText": "<p> Theekshana to Head, <b>THATS OUT!!</b> Caught!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 31,
+      "ballsPlayed": 23,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335157806,
+    "commText": "<p> Theekshana to Head, <b>out</b> Caught by Ravindra!! Head sinks to his knees in disbelief. Plays the sweep pretty well but it goes straight to deep backward square. Length ball fired into the pads, he gets low and hits it in the air. Ravindra makes no mistake in the deep. End of another brilliant partnership. <b>Head c Ravindra b Theekshana 31(24) [4s-3 6s-1]</b> </p>",
+    "ballNbr": 58,
+    "overs": 9.4,
+    "events": [
+      "WICKET"
+    ],
+    "batsmanStriker": {
+      "id": 8497,
+      "batRuns": 31,
+      "ballsPlayed": 24,
+      "dotBalls": 9,
+      "batFours": 3,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335226961,
+    "commText": "<p><b>Shahbaz Ahmed, left handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335230924,
+    "commText": "<p> Theekshana to Shahbaz Ahmed, no run, length ball fired in on middle, Shahbaz gets forward and defends </p>",
+    "ballNbr": 59,
+    "overs": 9.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
       "batRuns": 0,
       "ballsPlayed": 1,
       "dotBalls": 1,
@@ -3743,7 +1993,276 @@
       "batSixes": 0
     },
     "bowlerStriker": {
-      "id": 7836,
+      "id": 18504,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335236924,
+    "commText": "<p>Shahbaz misses a low full toss and is hit straight on the pad. CSK go up in appeal, umpire turns it down, and they go for the review. Impact might be outside leg stump here. Oh the impact is umpire's call. Anyway, it'll remain not out</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335346621,
+    "commText": "<p> Theekshana to Shahbaz Ahmed, leg byes, 1 run, Shahbaz misses a low full toss and is hit straight on the pad. CSK go up in appeal, umpire turns it down, and <b>they go for the review</b>. Impact might be outside leg stump here. Oh the impact is umpire's call. Anyway, it'll remain not out. CSK retain the review </p>",
+    "ballNbr": 60,
+    "overs": 10,
+    "events": [
+      "OVER_BREAK",
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 0,
+      "ballsPlayed": 2,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335346631,
+    "commText": "<p><b>Travis Head in IPL 2024</b> \\nvs pace: 99(46), one dismissal, SR: 215.21, 4s/6s: 15/4 \\nvs spin: 13(16), two dismissals: SR: 81.25 (no boundaries)</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335371090,
+    "commText": "<p> Jadeja to Shahbaz Ahmed, 1 run, full ball on off, Shahbaz looks to slog but gets an inside edge onto pad </p>",
+    "ballNbr": 61,
+    "overs": 10.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 1,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335390376,
+    "commText": "<p> Jadeja to Markram, 1 run, flat length ball on off, Markram punches it from the crease to long-off </p>",
+    "ballNbr": 62,
+    "overs": 10.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 37,
+      "ballsPlayed": 24,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335409438,
+    "commText": "<p> Jadeja to Shahbaz Ahmed, no run, length ball on middle, Shahbaz turns it to midwicket </p>",
+    "ballNbr": 63,
+    "overs": 10.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 1,
+      "ballsPlayed": 4,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335424678,
+    "commText": "<p> Jadeja to Shahbaz Ahmed, no run, full ball fired in on off, Shahbaz looks to slog but hits it straight to midwicket. He's been sent in to take down the left-arm spinner from the looks of it </p>",
+    "ballNbr": 64,
+    "overs": 10.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 1,
+      "ballsPlayed": 5,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 19,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335448910,
+    "commText": "<p> Jadeja to Shahbaz Ahmed, 1 run, length ball fired in on off, Shahbaz plays late and dabs it behind point </p>",
+    "ballNbr": 65,
+    "overs": 10.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 2,
+      "ballsPlayed": 6,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335471326,
+    "commText": "<p> Jadeja to Markram, 2 runs, flat outside off, back of a length, Markram cuts nicely through backward point and takes two </p>",
+    "ballNbr": 66,
+    "overs": 11,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 39,
+      "ballsPlayed": 25,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335531020,
+    "commText": "<p><b>Moeen Ali, right-arm off break, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 2,
+      "ballsPlayed": 6,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335535004,
+    "commText": "<p> Moeen Ali to Shahbaz Ahmed, no run, length ball just outside off, hint of turn, Shahbaz steers it to backward point </p>",
+    "ballNbr": 67,
+    "overs": 11.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 2,
+      "ballsPlayed": 7,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 6692,
       "bowlOvers": 0.1,
       "bowlMaidens": 0,
       "bowlRuns": 0,
@@ -3753,8 +2272,1649 @@
     }
   },
   {
-    "timestamp": 1712332499668,
-    "commText": "<p><b>Head and Abhishek Sharma are at the crease. Head is on strike. Chahar will open the attack</b></p>",
+    "timestamp": 1712335547530,
+    "commText": "<p> Moeen Ali to Shahbaz Ahmed, 1 run, tossed up, drifting in on middle and leg, Shahbaz gets low and sweeps to deep backward square </p>",
+    "ballNbr": 68,
+    "overs": 11.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 3,
+      "ballsPlayed": 8,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335574478,
+    "commText": "<p> Moeen Ali to Markram, 1 run, 88.8kph, back of a length on middle, Markram goes back and punches it to the left of Moeen. He gets a hand to it but fails to cut it off </p>",
+    "ballNbr": 69,
+    "overs": 11.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 40,
+      "ballsPlayed": 26,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335596899,
+    "commText": "<p> Moeen Ali to Shahbaz Ahmed, 1 run, 84.8kph, tossed up on off, Shahbaz gets forward and punches it to long-off </p>",
+    "ballNbr": 70,
+    "overs": 11.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 4,
+      "ballsPlayed": 9,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335626640,
+    "commText": "<p> Moeen Ali to Markram, 2 runs, slightly short outside off, Markram makes room and slaps it wide of long-off. Good stop in the deep from RIzvi as he dives across to cut it off </p>",
+    "ballNbr": 71,
+    "overs": 11.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 42,
+      "ballsPlayed": 27,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 5,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335657597,
+    "commText": "<p> Moeen Ali to Markram, 1 run, 92kph, length ball turning in on middle, holds in the pitch slightly and Markram is early through the shot. But he manages to punch it to long-off </p>",
+    "ballNbr": 72,
+    "overs": 12,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 43,
+      "ballsPlayed": 28,
+      "dotBalls": 7,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 6,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335715576,
+    "commText": "<p><b>Maheesh Theekshana [3.0-0-22-1] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 43,
+      "ballsPlayed": 28,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335719594,
+    "commText": "<p> Theekshana to Markram, no run, flat length ball on off, Markram punches it back down the pitch </p>",
+    "ballNbr": 73,
+    "overs": 12.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 43,
+      "ballsPlayed": 29,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335736980,
+    "commText": "<p> Theekshana to Markram, 1 run, length ball on middle, Markram makes room and punches to long-off </p>",
+    "ballNbr": 74,
+    "overs": 12.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 44,
+      "ballsPlayed": 30,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335765456,
+    "commText": "<p> Theekshana to Shahbaz Ahmed, 1 run, length ball darted in on off, Shahbaz hangs back and punches to long-off </p>",
+    "ballNbr": 75,
+    "overs": 12.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 5,
+      "ballsPlayed": 10,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 24,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335797458,
+    "commText": "<p> Theekshana to Markram, 2 runs, flat carrom ball just outside off, back of a length, Markram goes back and cuts through backward point for two more </p>",
+    "ballNbr": 76,
+    "overs": 12.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 46,
+      "ballsPlayed": 31,
+      "dotBalls": 8,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 26,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335826301,
+    "commText": "<p> Theekshana to Markram, no run, short outside off, half-tracker, and Markram misses out. He loses shape looking to cut hard, and chops it off an under-edge into the pitch </p>",
+    "ballNbr": 77,
+    "overs": 12.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 46,
+      "ballsPlayed": 32,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 26,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335851953,
+    "commText": "<p> Theekshana to Markram, 1 run, carrom ball on off, length delivery, Markram punches off the back foot through point </p>",
+    "ballNbr": 78,
+    "overs": 13,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 47,
+      "ballsPlayed": 33,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335953006,
+    "commText": "<p> Moeen Ali to Markram, <b>wide</b>, tossed up, turning down leg, Markram misses </p>",
+    "ballNbr": 79,
+    "overs": 13.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 47,
+      "ballsPlayed": 33,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 7,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335968941,
+    "commText": "<p> Moeen Ali to Markram, 2 runs, length ball on off, turning in, Markram hangs back and clips it through midwicket </p>",
+    "ballNbr": 79,
+    "overs": 13.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 49,
+      "ballsPlayed": 34,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 9,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712335997571,
+    "commText": "<p> Moeen Ali to Markram, 1 run, 87kph length ball turning in sharply on off, Markram hangs back and bunts it to long-on. Brilliant <b>fifty</b> from him! Has looked really good since the moment he came into bat. Bodes well for SRH going forward </p>",
+    "ballNbr": 80,
+    "overs": 13.2,
+    "events": [
+      "FIFTY"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 50,
+      "ballsPlayed": 35,
+      "dotBalls": 9,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 10,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336036834,
+    "commText": "<p> Moeen Ali to Shahbaz Ahmed, 2 runs, clipped off the pads through square leg, and he's back for two </p>",
+    "ballNbr": 81,
+    "overs": 13.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 7,
+      "ballsPlayed": 11,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 12,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336071635,
+    "commText": "<p> Moeen Ali to Shahbaz Ahmed, 2 runs, tossed up on off, Shahbaz dances down and lofts it with the turn over extra cover. Didn't go hard, was just a chip </p>",
+    "ballNbr": 82,
+    "overs": 13.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 9,
+      "ballsPlayed": 12,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336106538,
+    "commText": "<p> Moeen Ali to Shahbaz Ahmed, 1 run, tossed up outside off, driven to long-off </p>",
+    "ballNbr": 83,
+    "overs": 13.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 10,
+      "ballsPlayed": 13,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 0,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336109538,
+    "commText": "<p>Markram is given out LBW, and he goes for the review. He tries to go for a reverse-sweep, misses it completely and is hit right in front. Three reds on ball-tracking.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336214860,
+    "commText": "<p> Moeen Ali to Markram, <b>THATS OUT!!</b> Lbw!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 50,
+      "ballsPlayed": 35,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 18504,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336216699,
+    "commText": "<p> Moeen Ali to Markram, <b>out</b> Lbw!! Markram is given out LBW, and he goes for the review. He tries to go for a reverse-sweep, misses it completely and is hit right in front. Three reds on ball-tracking. So that's the end of his lovely knock. Moeen has bowled well so far. Again tosses it up outside off, lands on a length and turns in to beat Markram on the reverse-sweep. Hits him in front of off stump and would've crashed into leg. <b>Markram lbw b Moeen Ali 50(36) [4s-4 6s-1]</b> </p>",
+    "ballNbr": 84,
+    "overs": 14,
+    "events": [
+      "OVER_BREAK",
+      "WICKET",
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 9582,
+      "batRuns": 50,
+      "ballsPlayed": 36,
+      "dotBalls": 10,
+      "batFours": 4,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336216709,
+    "commText": "<p><b>Highlights (Overs 7-14) \u2013 54/2</b> \\n-- Jadeja begins with a tight 6-run over \\n-- Theekshana backs it up with another miserly over \\n-- Markram hits a maximum in Jadeja\u2019s second over \\n-- Head falls to Theekshana after a bright start \\n-- Spinners bowl in tandem and slow things down \\n-- Theekshana bowls out with decent figures \\n-- Markram scores a 35-ball fifty \\n-- Moeen Ali traps Markram in front and he also takes a review with him</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336251096,
+    "commText": "<p><b>Heinrich Klaasen, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 10,
+      "ballsPlayed": 13,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336301956,
+    "commText": "<p><b>Rachin Ravindra, Left arm orthodox, comes into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 10,
+      "ballsPlayed": 13,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336307056,
+    "commText": "<p> Ravindra to Shahbaz Ahmed, 1 run, tossed up outside off, driven to long-off </p>",
+    "ballNbr": 85,
+    "overs": 14.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 11,
+      "ballsPlayed": 14,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11177,
+      "bowlOvers": 0.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336310056,
+    "commText": "<p>Big roar from the crowd as Klaasen comes on strike. No wonder he's a fan favourite</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336342499,
+    "commText": "<p> Ravindra to Klaasen, no run, length ball on off, Klaasen punches it back to Rachin </p>",
+    "ballNbr": 86,
+    "overs": 14.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10209,
+      "batRuns": 0,
+      "ballsPlayed": 1,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11177,
+      "bowlOvers": 0.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 1,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336360288,
+    "commText": "<p> Ravindra to Klaasen, 1 run, 96.5kph full ball on off, Klaasen drives to long-off </p>",
+    "ballNbr": 87,
+    "overs": 14.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10209,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11177,
+      "bowlOvers": 0.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 2,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336397581,
+    "commText": "<p> Ravindra to Shahbaz Ahmed, 1 run, clipped to deep midwicket </p>",
+    "ballNbr": 88,
+    "overs": 14.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 12,
+      "ballsPlayed": 15,
+      "dotBalls": 5,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11177,
+      "bowlOvers": 0.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336416770,
+    "commText": "<p> Ravindra to Klaasen, no run, 94.7kph length ball just outside off, Klaasen looks to slog but the ball stays a bit lower than he expects and sneaks through to Dhoni </p>",
+    "ballNbr": 89,
+    "overs": 14.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10209,
+      "batRuns": 1,
+      "ballsPlayed": 3,
+      "dotBalls": 2,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11177,
+      "bowlOvers": 0.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336450193,
+    "commText": "<p> Ravindra to Klaasen, no run, 97.6kph length ball on middle, Klaasen gets forward and punches it gently down the pitch </p>",
+    "ballNbr": 90,
+    "overs": 15,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10209,
+      "batRuns": 1,
+      "ballsPlayed": 4,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11177,
+      "bowlOvers": 1,
+      "bowlMaidens": 0,
+      "bowlRuns": 3,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336518872,
+    "commText": "<p> Moeen Ali to Shahbaz Ahmed, no run, length ball on middle and leg, Shahbaz goes for a reverse-sweep and mistimes it to backward point </p>",
+    "ballNbr": 91,
+    "overs": 15.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 12,
+      "ballsPlayed": 16,
+      "dotBalls": 6,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 2.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336538822,
+    "commText": "<p> Moeen Ali to Shahbaz Ahmed, no run, length ball on off, Shahbaz makes room looking to slog but it turns away and beats the edge </p>",
+    "ballNbr": 92,
+    "overs": 15.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 12,
+      "ballsPlayed": 17,
+      "dotBalls": 7,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 2.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 15,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336561008,
+    "commText": "<p> Moeen Ali to Shahbaz Ahmed, <b>SIX</b>, 89kph length ball darted in on off, Shahbaz makes room and swings hard again. This time he makes contact and sends it sailing over long-on </p>",
+    "ballNbr": 93,
+    "overs": 15.3,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 18,
+      "ballsPlayed": 18,
+      "dotBalls": 7,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 2.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 1,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336564008,
+    "commText": "<p>This looks close as well as Shahbaz is hit on the pad after missing the reverse-sweep. Only thing to check is whether it's pitching outside leg. Don't think there's any bat involved. Shahbaz might be in trouble here.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336762734,
+    "commText": "<p> Moeen Ali to Shahbaz Ahmed, <b>THATS OUT!!</b> Lbw!! </p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 18,
+      "ballsPlayed": 18,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11177,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336764569,
+    "commText": "<p> Moeen Ali to Shahbaz Ahmed, <b>out</b> Lbw!! This looks close as well as Shahbaz is hit on the pad after missing the reverse-sweep. Only thing to check is whether it's pitching outside leg. Don't think there's any bat involved. Shahbaz might be in trouble here. Tossed up from round the wicket, drifts in, pitches on leg stump and straightens. He misses the reverse-sweep and is hit dead in front. Taking a long time to build ball tracking, but it's finally here and there's three reds. <b>Shahbaz Ahmed lbw b Moeen Ali 18(19) [6s-1]</b> </p>",
+    "ballNbr": 94,
+    "overs": 15.4,
+    "events": [
+      "WICKET",
+      "UDRS"
+    ],
+    "batsmanStriker": {
+      "id": 14606,
+      "batRuns": 18,
+      "ballsPlayed": 19,
+      "dotBalls": 8,
+      "batFours": 0,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 2.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 21,
+      "bowlWickets": 2,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336767569,
+    "commText": "<p>Timeout! SRH should still get these runs with ease, but CSK have just made them wobble a bit. Moeen is in the middle of a lovely spell. Unlike Jadeja and Theekshana, he's not bowling darts and is tossing the ball up. Pitch is helping him.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336808889,
+    "commText": "<p><b>Nitish Reddy, right handed bat, comes to the crease</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14701,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11177,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712336985152,
+    "commText": "<p> Moeen Ali to Nitish Reddy, 1 run, slightly short outside off, and Nitish Reddy is off to a confident start as he cuts nicely to deep point </p>",
+    "ballNbr": 95,
+    "overs": 15.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14701,
+      "batRuns": 1,
+      "ballsPlayed": 1,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 2.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 22,
+      "bowlWickets": 2,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337024591,
+    "commText": "<p> Moeen Ali to Klaasen, 1 run, length ball on off, Klaasen punches it to long-on </p>",
+    "ballNbr": 96,
+    "overs": 16,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 10209,
+      "batRuns": 2,
+      "ballsPlayed": 5,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 3,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 2,
+      "bowlWides": 1,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337076329,
+    "commText": "<p><b>Ravindra Jadeja [3.0-0-22-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10209,
+      "batRuns": 2,
+      "ballsPlayed": 5,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 6692,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337080582,
+    "commText": "<p> Jadeja to Klaasen, 1 run, flat length ball just outside off, Klaasen cuts to deep point </p>",
+    "ballNbr": 97,
+    "overs": 16.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10209,
+      "batRuns": 3,
+      "ballsPlayed": 6,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337107792,
+    "commText": "<p> Jadeja to Nitish Reddy, no run, fuller than a length on off, Nitish Reddy hangs back and defends to point </p>",
+    "ballNbr": 98,
+    "overs": 16.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14701,
+      "batRuns": 1,
+      "ballsPlayed": 2,
+      "dotBalls": 1,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 3.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 23,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337140531,
+    "commText": "<p> Jadeja to Nitish Reddy, <b>FOUR</b>, another SRH batter goes for the reverse-sweep and he pulls it off! Fired in full outside off, Reddy gets into position and whacks it behind backward point </p>",
+    "ballNbr": 99,
+    "overs": 16.3,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 14701,
+      "batRuns": 5,
+      "ballsPlayed": 3,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 3.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 27,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337152778,
+    "commText": "<p> Jadeja to Nitish Reddy, 1 run, flat on middle, Reddy punches it to long-on </p>",
+    "ballNbr": 100,
+    "overs": 16.4,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14701,
+      "batRuns": 6,
+      "ballsPlayed": 4,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 3.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 28,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337185097,
+    "commText": "<p> Jadeja to Klaasen, 1 run, length ball fired in just outside off, Klaasen hangs back and cuts through cover </p>",
+    "ballNbr": 101,
+    "overs": 16.5,
+    "events": [
+      "TEAM_HUNDRED"
+    ],
+    "batsmanStriker": {
+      "id": 10209,
+      "batRuns": 4,
+      "ballsPlayed": 7,
+      "dotBalls": 3,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 3.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 29,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337205838,
+    "commText": "<p> Jadeja to Nitish Reddy, 1 run, full ball on middle, Reddy drives to long-off </p>",
+    "ballNbr": 102,
+    "overs": 17,
+    "events": [
+      "OVER_BREAK"
+    ],
+    "batsmanStriker": {
+      "id": 14701,
+      "batRuns": 7,
+      "ballsPlayed": 5,
+      "dotBalls": 1,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 4,
+      "bowlMaidens": 0,
+      "bowlRuns": 30,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337261276,
+    "commText": "<p><b>Tushar Deshpande [1.0-0-13-0] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14701,
+      "batRuns": 7,
+      "ballsPlayed": 5,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 587,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337289019,
+    "commText": "<p> Tushar Deshpande to Nitish Reddy, no run, good length ball on off, 139.7kph, Reddy defends forward </p>",
+    "ballNbr": 103,
+    "overs": 17.1,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14701,
+      "batRuns": 7,
+      "ballsPlayed": 6,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11307,
+      "bowlOvers": 1.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 13,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337323060,
+    "commText": "<p> Tushar Deshpande to Nitish Reddy, 1 run, slower short ball outside off, Reddy pulls it to deep midwicket </p>",
+    "ballNbr": 104,
+    "overs": 17.2,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14701,
+      "batRuns": 8,
+      "ballsPlayed": 7,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11307,
+      "bowlOvers": 1.2,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337371686,
+    "commText": "<p> Tushar Deshpande to Klaasen, byes, 2 runs, slower short ball outside off, Klaasen is completely deceived on the pull and Dhoni is completely beaten as well. Choudhary does really well to make a diving stop as he runs across from deep third </p>",
+    "ballNbr": 105,
+    "overs": 17.3,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10209,
+      "batRuns": 4,
+      "ballsPlayed": 8,
+      "dotBalls": 4,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11307,
+      "bowlOvers": 1.3,
+      "bowlMaidens": 0,
+      "bowlRuns": 14,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337403110,
+    "commText": "<p> Tushar Deshpande to Klaasen, <b>FOUR</b>, fuller than a length outside off, Klaasen goes after it and launches it over extra cover. Struck it nice and clean </p>",
+    "ballNbr": 106,
+    "overs": 17.4,
+    "events": [
+      "FOUR"
+    ],
+    "batsmanStriker": {
+      "id": 10209,
+      "batRuns": 8,
+      "ballsPlayed": 9,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11307,
+      "bowlOvers": 1.4,
+      "bowlMaidens": 0,
+      "bowlRuns": 18,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337444140,
+    "commText": "<p> Tushar Deshpande to Klaasen, 2 runs, slower short ball outside off, Klaasen mistimes the pull but gets it in the gap wide of long-on. He's back for two more </p>",
+    "ballNbr": 107,
+    "overs": 17.5,
+    "events": [],
+    "batsmanStriker": {
+      "id": 10209,
+      "batRuns": 10,
+      "ballsPlayed": 10,
+      "dotBalls": 4,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11307,
+      "bowlOvers": 1.5,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337489097,
+    "commText": "<p> Tushar Deshpande to Klaasen, no run,<b> tough chance goes down!</b> Very full outside off, Klaasen shuffles across and drills it straight back to Deshpande. He does well to get both hands on it in followthrough but fails to hold on </p>",
+    "ballNbr": 108,
+    "overs": 18,
+    "events": [
+      "OVER_BREAK",
+      "DROPPED"
+    ],
+    "batsmanStriker": {
+      "id": 10209,
+      "batRuns": 10,
+      "ballsPlayed": 11,
+      "dotBalls": 5,
+      "batFours": 1,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11307,
+      "bowlOvers": 2,
+      "bowlMaidens": 0,
+      "bowlRuns": 20,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337555477,
+    "commText": "<p><b>Deepak Chahar [3.0-0-26-1] is back into the attack</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 14701,
+      "batRuns": 8,
+      "ballsPlayed": 7,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 11307,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337561992,
+    "commText": "<p> Chahar to Nitish Reddy, <b>SIX</b>, Nitish Reddy finishes it off! Full at the stumps, probably a slower one and he picks the bones out of it, launching it straight back down the ground. <b>SRH get the better of CSK</b> in front of a sea of yellow in Hyderabad </p>",
+    "ballNbr": 109,
+    "overs": 18.1,
+    "events": [
+      "SIX"
+    ],
+    "batsmanStriker": {
+      "id": 14701,
+      "batRuns": 14,
+      "ballsPlayed": 8,
+      "dotBalls": 2,
+      "batFours": 1,
+      "batSixes": 1
+    },
+    "bowlerStriker": {
+      "id": 7836,
+      "bowlOvers": 3.1,
+      "bowlMaidens": 0,
+      "bowlRuns": 32,
+      "bowlWickets": 1,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712337701748,
+    "commText": "<p><b>22:51 Local Time, 17:21 GMT, 22:51 IST:</b> Back to back losses on the road for the defending champions. On a pitch where their batting firepower was stifled due to the sluggish nature of the track, they had to face the full wrath of the hosts who came out blazing in the powerplay knowing that it'll get difficult later on. Abhishek Sharma, Travis Head and Aiden Markram came out swinging to smash 78 off the first six overs, and the game was all but sealed right there. CSK did pull things back through a wonderful spell from Moeen Ali, but it was too little too late.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712338071711,
+    "commText": "<p>Unlike the top three from SRH, CSK's batters struggled barring Shivam Dube who smashed 45 off 24 balls to inject some momentum in the middle overs. However, once he was dismissed, CSK scored just 46 off the last 6.2 overs with Rahane, Jadeja and Mitchell struggling to find the boundary as the older ball got harder to hit. SRH could've faced a similar difficulty if not for that early blast. Hang around, we'll have the presentations soon.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712338347413,
+    "commText": "<p><b>Ruturaj Gaikwad | CSK captain:</b> I think to be honest, it was a slow pitch, They bowled well in the back-end, kept the game in control and didn't allow us to capitalize. I thought we did well in the beginning (of the match), but they came back well later. It was a black soil pitch, so we expected the pitch to be slower, but it became slower and slower, and they used the boundary size well. We conceded too many in the batting PP, one dropped catch and one expensive over. Still, to take them to the 19th over was a great effort. I thought anything around 170-175 would've been a good total for us. There was a bit of dew towards the end, but Moeen got the ball to spin even in the 15th-16th over. So I don't think the pitch changed a lot during the course of the game.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712338347423,
+    "commText": "<p><b>Aiden Markram:</b> Not too bad, not equivalent what it was against Mumbai, as the ball got softer and older, it wasn\u2019t easy, we saw it when we bowled. When we batted, we wanted to attack in the first ten overs and then take it from there. Not too much to be honest, I don\u2019t want to think too much, see ball and hit ball. I think when you get on tricky wickets, you have to still value the batter who is in. On good wickets, you are allowed to play freely and that is where the Impact player rule comes in handy. (Whether you are a batting team or a bowling team?) I\u2019m not too sure but I will go with batting (chuckles).</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712338628851,
+    "commText": "<p><b>Cummins | SRH captain:</b> Different soil. Slowed up a little bit as the game went on. Shivam was hitting it well against the spin. Thought we'll take chance with off-cutters. First thing is always to get the points. Wouldn't want to be bowling to him (Abhishek) and Trav Head at the top. Crowd was crazy tonight. When MS walked out, it was as loud as I've ever heard.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712338744194,
+    "commText": "<p><b>Abhishek Sharma | POTM:</b> In the bowling we felt it's a bit slow wicket. We knew if we take the powerplay on, we can go with the flow after that. We had a chance to prepare well before this IPL. Big scores do matter (individual scores), but I went with the flow today. Special thanks to Yuvi paaji, Brian Lara and my dad for this.</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712338744204,
+    "commText": "<p><b>CSK spinners in IPL 2024</b> \\nFirst three matches: 1/115 from 14 overs, ER: 8.21 \\nToday: 3/83 from 12 overs, ER: 6.92</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712338744214,
+    "commText": "<p><b>SRH\u2019s run-chase</b> \\nOvers 1-9: 101/1 (RR: 11.22) \\nOvers: 10-15: 34/2 (RR: 5.66) \\nOvers 16-18.1: 31/1 (RR: 9.8)</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712338744224,
+    "commText": "<p><b>Best batting strike-rates in IPL 2024 (min. 50 balls faced)</b> \\n217.56 - Abhishek Sharma (SRH) \\n206.15 - Sunil Narine (KKR) \\n203.44 - Heinrich Klaasen (SRH) \\n180.64 - Travis Head (SRH) \\n175.90 - Nicholas Pooran (LSG)</p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712338744234,
+    "commText": "<p>Stats round-up by <b>Roshan Gede</b></p>",
+    "ballNbr": 0,
+    "overs": 0,
+    "events": [],
+    "batsmanStriker": {
+      "id": 0,
+      "batRuns": 0,
+      "ballsPlayed": 0,
+      "dotBalls": 0,
+      "batFours": 0,
+      "batSixes": 0
+    },
+    "bowlerStriker": {
+      "id": 0,
+      "bowlOvers": 0,
+      "bowlMaidens": 0,
+      "bowlRuns": 0,
+      "bowlWickets": 0,
+      "bowlWides": 0,
+      "bowlNoBalls": 0
+    }
+  },
+  {
+    "timestamp": 1712338895317,
+    "commText": "<p>CSK were short of answers today, be it in the batting where, despite all the firepower they posess, they just couldn't break free against some smart use of cutters on a sluggish pitch. Or be it the bowling which was taken apart in the powerplay. Abhishek Sharma and Travis Head started it off, and Markram backed it up with an excellent fifty as he maneuvered the spinners brilliantly. So SRH join CSK with two wins. That's all we have from here. It's a goodbye from Sagar Chawla on behalf of Vinod Kumar, Pradeep Krishnamurthy and Abhinav Guha. Goodnight!</p>",
+    "ballNbr": 0,
     "overs": 0,
     "events": [],
     "batsmanStriker": {
