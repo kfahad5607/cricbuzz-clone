@@ -1,6 +1,6 @@
 import re
 from bs4 import BeautifulSoup
-from utils import (ball_num_to_overs, extract_number, format_comm_text, format_date, get_json_content, sleep, get_param_from_url, get_html_content, slugify)
+from utils import (BALLS_IN_OVER, ball_num_to_overs, extract_number, format_comm_text, format_date, get_json_content, sleep, get_param_from_url, get_html_content, slugify)
 from utils.file import (get_file_data, set_file_data)
 
 BASE_URL = 'https://www.cricbuzz.com'
@@ -399,6 +399,19 @@ def get_match_data(match_id, match_number=None):
                 lookup_data = squads['awayTeam']['players'] 
             
             batters_data = []
+
+            last_commentary_ball = None  
+            last_bowler_ids = []      
+            for i in range(len(commentary_list) - 1, -1, -1):
+                commentary = commentary_list[i]
+                if not last_commentary_ball and commentary['ballNbr'] != 0:
+                    last_commentary_ball = commentary
+
+                bowler_id =  commentary['bowlerStriker']['id']
+                if bowler_id > 0 and bowler_id not in last_bowler_ids:
+                    last_bowler_ids.append(bowler_id)
+                    if len(last_bowler_ids) == 2:
+                        break
             
             for batter_el in batters_el:
                 player_el_items = batter_el.select('.cb-col')
@@ -419,7 +432,8 @@ def get_match_data(match_id, match_number=None):
                 sixes = sixes_el.string.strip()
 
                 dotBalls = 0
-                for commentary in commentary_list:
+                for i in range(len(commentary_list) - 1, -1, -1):
+                    commentary = commentary_list[i]
                     if batter_id == commentary['batsmanStriker']['id']:
                         dotBalls = commentary['batsmanStriker']['dotBalls']
                         break
@@ -449,6 +463,9 @@ def get_match_data(match_id, match_number=None):
                     fall_of_wickets_data['helpers'] = list(map(lambda helper: get_player_id_by_name(helper, lookup_data), helpers))
     
                     data['fallOfWicket'] = fall_of_wickets_data
+                elif last_commentary_ball['batsmanStriker']['id'] == batter_id:
+                    is_last_over_ball = (last_commentary_ball['ballNbr'] % BALLS_IN_OVER) == 0
+                    data['isStriker'] = not is_last_over_ball
 
                 batters_data.append(data)
 
@@ -460,7 +477,7 @@ def get_match_data(match_id, match_number=None):
                 player_el_items = bowler_el.select('.cb-col')
                 player_name_el = player_el_items[0]
                 player_name_el = player_name_el.find('a')
-                bowler_id = get_param_from_url(url=player_name_el.attrs['href'], pos=2)
+                bowler_id = int(get_param_from_url(url=player_name_el.attrs['href'], pos=2))
 
                 overs_el = player_el_items[1]
                 overs = overs_el.string.strip()
@@ -481,7 +498,7 @@ def get_match_data(match_id, match_number=None):
                 wides = wides_el.string.strip()
 
                 data = {
-                    'id': int(bowler_id),
+                    'id': bowler_id,
                     'bowlOvers': float(overs),
                     'bowlMaidens': int(maidens),
                     'bowlRuns': int(runs),
@@ -489,6 +506,11 @@ def get_match_data(match_id, match_number=None):
                     'bowlNoBalls': int(no_balls),
                     'bowlWides': int(wides),
                 }
+
+                if last_bowler_ids[0] == bowler_id:
+                    data['isStriker'] = True
+                elif last_bowler_ids[1] == bowler_id:
+                    data['isNonStriker'] = True
 
                 bowlers_data.append(data)
 
@@ -674,6 +696,7 @@ def get_commentary(match_id, innings_id):
             commentary_item = {}
             commentary_item['timestamp'] = commentary['timestamp']
             commentary_item['commText'] = format_comm_text(commentary['commText'], formats=commentary['commentaryFormats'])
+            commentary_item['ballNbr'] = commentary['ballNbr']
             commentary_item['overs'] = ball_num_to_overs(commentary['ballNbr'])
             commentary_item['events'] = events
             commentary_item['batsmanStriker'] = batsman_striker
@@ -731,7 +754,6 @@ def main():
             get_series_matches(series_id=series_id)
             sleep(5)
         
-
     except Exception as e:
         print("ERROR in main ==> ", e.args)
 
