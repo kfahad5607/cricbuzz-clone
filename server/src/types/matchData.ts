@@ -99,7 +99,7 @@ export const MatchData = z.object({
     fourth: ScorecardInnings.optional(),
   }),
   state: z.enum(MATCH_STATES_VALUES).default(MATCH_STATES.PREVIEW),
-  status: z.string().max(200).default("").optional(),
+  status: z.string().max(200).default(""),
   tossResults: MatchTossResults.default({}),
   results: MatchResults.default({ winByInnings: false, winByRuns: false }),
 });

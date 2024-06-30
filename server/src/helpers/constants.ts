@@ -21,7 +21,7 @@ export const MATCH_TYPES_VALUES = [
 export const MATCH_STATES = {
   PREVIEW: "preview",
   DELAY: "abandon",
-  COMPLETE: "draw",
+  COMPLETE: "complete",
   ABANDON: "tie",
 } as const;
 

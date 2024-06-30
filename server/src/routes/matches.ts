@@ -19,6 +19,7 @@ import {
   addInningsCommentary,
   getFullCommentary,
   getCommentary,
+  getCommentaryPagination,
 } from "../controllers/matches";
 import { validateRequest } from "../middlewares";
 import {
@@ -197,6 +198,18 @@ router.get(
     }),
   }),
   getFullCommentary
+);
+
+router.get(
+  "/:id/commentary-pagination/:inningsType/:timestamp",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+      inningsType: "CommentaryInningsType",
+      timestamp: "TimestampParam",
+    }),
+  }),
+  getCommentaryPagination
 );
 
 router.get(

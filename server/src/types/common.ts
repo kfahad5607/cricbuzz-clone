@@ -30,9 +30,12 @@ const InningsIdParam = z
     }
   });
 
+const TimestampParam = z.coerce.number().positive();
+
 export type DatabaseIntIdParam = z.infer<typeof DatabaseIntIdParam>;
 export type InningsIdParam = z.infer<typeof InningsIdParam>;
 export type DatabaseIntId = number;
+export type TimestampParam = string;
 
 // utility functions
 const VALIDATION_SCHEMAS = {
@@ -40,6 +43,7 @@ const VALIDATION_SCHEMAS = {
   InningsIdParam,
   ScorecardInningsType,
   CommentaryInningsType,
+  TimestampParam,
 } as const;
 
 type VALIDATION_SCHEMAS = {
@@ -47,6 +51,7 @@ type VALIDATION_SCHEMAS = {
   InningsIdParam: InningsIdParam;
   ScorecardInningsType: ScorecardInningsType;
   CommentaryInningsType: CommentaryInningsType;
+  TimestampParam: TimestampParam;
 };
 
 type ValidationSchemas = typeof VALIDATION_SCHEMAS;

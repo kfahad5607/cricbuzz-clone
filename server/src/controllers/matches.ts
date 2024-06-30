@@ -15,6 +15,7 @@ import {
 import {
   DatabaseIntId,
   Match,
+  MatchData as MatchDataType,
   MatchCard,
   MatchOptional,
   MatchSquad,
@@ -26,6 +27,8 @@ import {
   TeamSquad,
   UpdateDocType,
   getValidationType,
+  ScorecardBatter,
+  ScorecardBowler,
 } from "../types";
 import {
   SCORECARD_INNINGS_TYPES,
@@ -36,7 +39,7 @@ import {
   ScorecardInningsEntry,
 } from "../types";
 import Commentary from "../db/mongo/schema/commentary";
-import { CommentaryInningsEntry } from "../types/commentary";
+import { CommentaryInningsEntry, CommentaryItem } from "../types/commentary";
 
 // tables
 const matchesTable = tables.matches;
@@ -488,6 +491,225 @@ export async function getFullCommentary(
   }
 }
 
+async function getCommentaryData(
+  matchId: number,
+  inningsIdx: number,
+  timestamp?: number
+): Promise<{
+  lastFetchedInnings: CommentaryInningsType;
+  commentaryList: CommentaryItem[];
+}> {
+  const COMMENTARY_ITEMS_COUNT = 20;
+  const COMMENTARY_ITEMS_MIN_COUNT = 10;
+
+  let commentaryListFilter: unknown = {
+    $lastN: {
+      input: "$lastInning.commentaryList",
+      n: COMMENTARY_ITEMS_COUNT,
+    },
+  };
+
+  if (timestamp) {
+    commentaryListFilter = {
+      $lastN: {
+        input: {
+          $filter: {
+            input: "$lastInning.commentaryList",
+            as: "item",
+            cond: {
+              $lte: ["$$item.timestamp", timestamp],
+            },
+          },
+        },
+        n: COMMENTARY_ITEMS_COUNT,
+      },
+    };
+  }
+
+  const results = await Commentary.aggregate<{
+    totalInnings: number;
+    commentaryList: CommentaryItem[] | null;
+  }>([
+    { $match: { matchId } },
+    {
+      $project: {
+        lastInning: { $arrayElemAt: ["$innings", inningsIdx] },
+        totalInnings: {
+          $size: "$innings",
+        },
+      },
+    },
+    {
+      $project: {
+        totalInnings: 1,
+        commentaryList: { $reverseArray: commentaryListFilter },
+      },
+    },
+  ]);
+
+  if (results.length === 0)
+    return {
+      lastFetchedInnings: COMMENTARY_INNINGS_TYPES[0],
+      commentaryList: [],
+    };
+
+  if (inningsIdx === -1) inningsIdx = results[0].totalInnings - 1;
+  let lastFetchedInnings = COMMENTARY_INNINGS_TYPES[inningsIdx];
+
+  if (!results[0].commentaryList) results[0].commentaryList = [];
+
+  if (results[0].commentaryList.length < COMMENTARY_ITEMS_MIN_COUNT) {
+    inningsIdx--;
+
+    if (inningsIdx > -1) {
+      const newResults = await getCommentaryData(matchId, inningsIdx);
+      results[0].commentaryList = results[0].commentaryList.concat(
+        newResults.commentaryList
+      );
+      lastFetchedInnings = newResults.lastFetchedInnings;
+    }
+  }
+
+  return {
+    lastFetchedInnings,
+    commentaryList: results[0].commentaryList,
+  };
+}
+
+async function getMatchData(matchId: number) {
+  const matchDataResult = await MatchData.aggregate<
+    Pick<MatchDataType, "results" | "tossResults" | "state" | "status"> & {
+      innings: ScorecardInnings[];
+      batsmanStriker?: ScorecardBatter;
+      batsmanNonStriker?: ScorecardBatter;
+      bowlerStriker: ScorecardBowler;
+      bowlerNonStriker?: ScorecardBowler;
+    }
+  >([
+    { $match: { matchId } },
+    {
+      $project: {
+        results: 1,
+        tossResults: 1,
+        state: 1,
+        status: 1,
+        inningsArray: {
+          $map: {
+            input: { $objectToArray: "$innings" },
+            as: "inning",
+            in: "$$inning.v",
+          },
+        },
+      },
+    },
+    {
+      $addFields: {
+        results: "$results",
+        tossResults: "$tossResults",
+        state: "$state",
+        status: "$status",
+        lastInnings: {
+          $let: {
+            vars: {
+              lastInnings: {
+                $arrayElemAt: ["$inningsArray", -1],
+              },
+            },
+            in: {
+              currentBatters: {
+                $filter: {
+                  input: "$$lastInnings.batters",
+                  as: "batter",
+                  cond: {
+                    $not: { $ifNull: ["$$batter.fallOfWicket", false] },
+                  },
+                },
+              },
+              currentBowlers: {
+                $sortArray: {
+                  input: {
+                    $filter: {
+                      input: "$$lastInnings.bowlers",
+                      as: "bowler",
+                      cond: {
+                        $or: [
+                          { $eq: ["$$bowler.isStriker", true] },
+                          { $eq: ["$$bowler.isNonStriker", true] },
+                        ],
+                      },
+                    },
+                  },
+                  sortBy: { isStriker: -1 },
+                },
+              },
+            },
+          },
+        },
+        inningsArray: {
+          $map: {
+            input: "$inningsArray",
+            as: "inning",
+            in: {
+              teamId: "$$inning.teamId",
+              overs: "$$inning.overs",
+              oversBowled: "$$inning.oversBowled",
+              score: "$$inning.score",
+              wickets: "$$inning.wickets",
+              isDeclared: "$$inning.isDeclared",
+              isFollowOn: "$$inning.isFollowOn",
+              extras: "$$inning.extras",
+            },
+          },
+        },
+      },
+    },
+    {
+      $project: {
+        results: 1,
+        tossResults: 1,
+        state: 1,
+        status: 1,
+        innings: "$inningsArray",
+        batsmanStriker: {
+          $arrayElemAt: [
+            {
+              $filter: {
+                input: "$lastInnings.currentBatters",
+                as: "batter",
+                cond: { $eq: ["$$batter.isStriker", true] },
+              },
+            },
+            0,
+          ],
+        },
+        batsmanNonStriker: {
+          $arrayElemAt: [
+            {
+              $filter: {
+                input: "$lastInnings.currentBatters",
+                as: "batter",
+                cond: {
+                  $eq: [
+                    { $ifNull: ["$$batter.isStriker", undefined] },
+                    undefined,
+                  ],
+                },
+              },
+            },
+            0,
+          ],
+        },
+        bowlerStriker: { $arrayElemAt: ["$lastInnings.currentBowlers", 0] },
+        bowlerNonStriker: {
+          $arrayElemAt: ["$lastInnings.currentBowlers", 1],
+        },
+      },
+    },
+  ]);
+
+  return matchDataResult[0];
+}
+
 export async function getCommentary(
   req: Request<
     getValidationType<{
@@ -499,145 +721,55 @@ export async function getCommentary(
 ) {
   try {
     const matchId = parseInt(req.params.id);
+    const inningsIdx = -1;
 
-    const commentaryResult = await Commentary.aggregate([
-      { $match: { matchId } },
-      {
-        $project: {
-          lastInning: { $arrayElemAt: ["$innings", -1] },
-        },
-      },
-      {
-        $project: {
-          commentaryList: {
-            $slice: ["$lastInning.commentaryList", -20],
-          },
-        },
-      },
-    ]);
+    const commentaryResult = await getCommentaryData(matchId, inningsIdx);
+    const matchDataResult = await getMatchData(matchId);
 
-    const matchDataResult = await MatchData.aggregate([
-      { $match: { matchId } },
-      {
-        $project: {
-          inningsArray: {
-            $map: {
-              input: { $objectToArray: "$innings" },
-              as: "inning",
-              in: "$$inning.v",
-            },
-          },
-        },
-      },
-      {
-        $addFields: {
-          lastInnings: {
-            $let: {
-              vars: {
-                lastInnings: {
-                  $arrayElemAt: ["$inningsArray", -1],
-                },
-              },
-              in: {
-                currentBatters: {
-                  $filter: {
-                    input: "$$lastInnings.batters",
-                    as: "batter",
-                    cond: {
-                      $not: { $ifNull: ["$$batter.fallOfWicket", false] },
-                    },
-                  },
-                },
-                currentBowlers: {
-                  $sortArray: {
-                    input: {
-                      $filter: {
-                        input: "$$lastInnings.bowlers",
-                        as: "bowler",
-                        cond: {
-                          $or: [
-                            { $eq: ["$$bowler.isStriker", true] },
-                            { $eq: ["$$bowler.isNonStriker", true] },
-                          ],
-                        },
-                      },
-                    },
-                    sortBy: { isStriker: -1 },
-                  },
-                },
-              },
-            },
-          },
-          inningsArray: {
-            $map: {
-              input: "$inningsArray",
-              as: "inning",
-              in: {
-                teamId: "$$inning.teamId",
-                overs: "$$inning.overs",
-                oversBowled: "$$inning.oversBowled",
-                score: "$$inning.score",
-                wickets: "$$inning.wickets",
-                isDeclared: "$$inning.isDeclared",
-                isFollowOn: "$$inning.isFollowOn",
-                extras: "$$inning.extras",
-              },
-            },
-          },
-        },
-      },
-      {
-        $project: {
-          innings: "$inningsArray",
-          batsmanStriker: {
-            $arrayElemAt: [
-              {
-                $filter: {
-                  input: "$lastInnings.currentBatters",
-                  as: "batter",
-                  cond: { $eq: ["$$batter.isStriker", true] },
-                },
-              },
-              0,
-            ],
-          },
-          batsmanNonStriker: {
-            $arrayElemAt: [
-              {
-                $filter: {
-                  input: "$lastInnings.currentBatters",
-                  as: "batter",
-                  cond: {
-                    $eq: [
-                      { $ifNull: ["$$batter.isStriker", undefined] },
-                      undefined,
-                    ],
-                  },
-                },
-              },
-              0,
-            ],
-          },
-          bowlerStriker: { $arrayElemAt: ["$lastInnings.currentBowlers", 0] },
-          bowlerNonStriker: {
-            $arrayElemAt: ["$lastInnings.currentBowlers", 1],
-          },
-        },
-      },
-    ]);
-
-    // things to get
-    // batsmanStriker, batsmanNonStriker # last innings
-    // bowlerStriker, bowlerNonStriker # last innings
-    // inningsScoreList # all innings
-    // match state, tossResults, results
-
-    if (commentaryResult.length === 0 || matchDataResult.length === 0) {
+    if (commentaryResult.commentaryList.length === 0 || !matchDataResult) {
       res.status(404);
       throw new Error(`No commentary found.`);
     }
 
-    res.status(200).json({ ...commentaryResult[0], ...matchDataResult[0] });
+    res.status(200).json({
+      ...matchDataResult,
+      ...commentaryResult,
+    });
+  } catch (err) {
+    next(err);
+  }
+}
+
+export async function getCommentaryPagination(
+  req: Request<
+    getValidationType<{
+      id: "DatabaseIntIdParam";
+      inningsType: "CommentaryInningsType";
+      timestamp: "TimestampParam";
+    }>
+  >,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+    const inningsType = req.params.inningsType;
+    const timestamp = parseInt(req.params.timestamp);
+    const inningsIdx = COMMENTARY_INNINGS_TYPES.indexOf(inningsType);
+
+    const commentaryResult = await getCommentaryData(
+      matchId,
+      inningsIdx,
+      timestamp
+    );
+    const matchDataResult = await getMatchData(matchId);
+
+    if (commentaryResult.commentaryList.length === 0 || !matchDataResult) {
+      res.status(404);
+      throw new Error(`No commentary found.`);
+    }
+
+    res.status(200).json({ ...matchDataResult, ...commentaryResult });
   } catch (err) {
     next(err);
   }
