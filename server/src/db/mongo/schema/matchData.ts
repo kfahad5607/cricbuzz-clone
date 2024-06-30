@@ -1,7 +1,13 @@
 import { Schema, model } from "mongoose";
 import { DBIdType, DBIdUniqueType, PositiveNumberType } from "../schemaTypes";
-import { DISMISSAL_TYPES_VALUES, MATCH_RESULT_TYPES_VALUES, MATCH_STATES, MATCH_STATES_VALUES, TOSS_DECISIONS_VALUES } from "../../../helpers/constants";
-import { MatchData as MatchDataType } from "../../../types/matchData";
+import {
+  DISMISSAL_TYPES_VALUES,
+  MATCH_RESULT_TYPES_VALUES,
+  MATCH_STATES,
+  MATCH_STATES_VALUES,
+  TOSS_DECISIONS_VALUES,
+} from "../../../helpers/constants";
+import { MatchData as MatchDataType } from "../../../types";
 
 export const batterSchemaObj = {
   id: DBIdType,
@@ -97,36 +103,42 @@ const matchDataSchema = new Schema<MatchDataType>({
   state: {
     type: String,
     enum: MATCH_STATES_VALUES,
-    default: MATCH_STATES.PREVIEW
-  }, 
+    default: MATCH_STATES.PREVIEW,
+  },
   status: {
     type: String,
     maxlength: 200,
-    default: ""
-  }, 
-  tossResults: new Schema({
-    tossWinnerId: {...DBIdType, required: false}, 
-    decision: {
-      type: String,
-      enum: TOSS_DECISIONS_VALUES
-    }, 
-  }), 
-  results: new Schema({
-    resultType: {
-      type: String,
-      enum: MATCH_RESULT_TYPES_VALUES
+    default: "",
+  },
+  tossResults: new Schema(
+    {
+      tossWinnerId: { ...DBIdType, required: false },
+      decision: {
+        type: String,
+        enum: TOSS_DECISIONS_VALUES,
+      },
     },
-    winByInnings: {
-      type: Boolean,
-      default: false
+    { _id: false }
+  ),
+  results: new Schema(
+    {
+      resultType: {
+        type: String,
+        enum: MATCH_RESULT_TYPES_VALUES,
+      },
+      winByInnings: {
+        type: Boolean,
+        default: false,
+      },
+      winByRuns: {
+        type: Boolean,
+        default: false,
+      },
+      winningMargin: PositiveNumberType,
+      winningTeamId: { ...DBIdType, required: false },
     },
-    winByRuns: {
-      type: Boolean,
-      default: false
-    }, 
-    winningMargin: PositiveNumberType, 
-    winningTeamId: {...DBIdType, required: false}, 
-  }),
+    { _id: false }
+  ),
 });
 
 const MatchData = model<MatchDataType>("MatchData", matchDataSchema);

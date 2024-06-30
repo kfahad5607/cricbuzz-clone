@@ -2,6 +2,7 @@ import { Schema, model } from "mongoose";
 import { DBIdType, DBIdUniqueType, PositiveNumberType } from "../schemaTypes";
 import { BALL_EVENTS } from "../constants";
 import { batterSchemaObj, bowlerSchemaObj } from "./matchData";
+import { Commentary as CommentaryType } from "../../../types";
 
 const commentaryItemSchema = new Schema(
   {
@@ -13,11 +14,11 @@ const commentaryItemSchema = new Schema(
     commText: { type: String, required: true },
     events: [{ type: String, enum: BALL_EVENTS }],
     batsmanStriker: {
-      type: new Schema(batterSchemaObj, {_id: false}),
+      type: new Schema(batterSchemaObj, { _id: false }),
       required: true,
     },
     bowlerStriker: {
-      type:new Schema(bowlerSchemaObj, {_id: false}), 
+      type: new Schema(bowlerSchemaObj, { _id: false }),
       required: true,
     },
   },
@@ -26,7 +27,7 @@ const commentaryItemSchema = new Schema(
   }
 );
 
-const commentarySchema = new Schema({
+const commentarySchema = new Schema<CommentaryType>({
   matchId: DBIdUniqueType,
   innings: [
     new Schema(
@@ -41,6 +42,6 @@ const commentarySchema = new Schema({
   ],
 });
 
-const Commentary = model("Commentary", commentarySchema);
+const Commentary = model<CommentaryType>("Commentary", commentarySchema);
 
 export default Commentary;
