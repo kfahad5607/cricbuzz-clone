@@ -1,7 +1,7 @@
 interface Props {
   children: string;
   className?: string;
-  color?: "red" | "yellow";
+  color?: "red" | "yellow" | "blue";
   size?: "sm" | "lg";
 }
 
@@ -15,6 +15,7 @@ const MatchStatus = ({
 
   if (color === "red") classNames += "text-red-600";
   else if (color === "yellow") classNames += "text-yellow-700";
+  else if (color === "blue") classNames += "text-blue-700";
 
   if (size === "sm") classNames += " text-xs";
   else if (size === "lg") classNames += " text-sm";

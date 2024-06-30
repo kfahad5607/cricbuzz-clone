@@ -1,4 +1,17 @@
-import { DISMISSAL_TYPES_VALUES } from "../utils/constants";
+import {
+  DISMISSAL_TYPES_VALUES,
+  MATCH_RESULT_TYPES_VALUES,
+  TOSS_DECISIONS_VALUES,
+} from "../utils/constants";
+import { COMMENTARY_INNINGS_TYPES } from "./commentary";
+
+// const
+export const SCORECARD_INNINGS_TYPES = [
+  "first",
+  "second",
+  "third",
+  "fourth",
+] as const;
 
 type fallOfWicket = {
   dismissalType: (typeof DISMISSAL_TYPES_VALUES)[number];
@@ -50,3 +63,18 @@ export type BaseScorecardInnings = {
   isFollowOn?: boolean;
   extras: extraBall;
 };
+
+export type MatchTossResults = {
+  tossWinnerId?: number;
+  decision: (typeof TOSS_DECISIONS_VALUES)[number];
+};
+
+export type MatchResults = {
+  resultType?: (typeof MATCH_RESULT_TYPES_VALUES)[number];
+  winByInnings: boolean;
+  winByRuns: boolean;
+  winningMargin?: number;
+  winningTeamId?: number;
+};
+
+export type CommentaryInningsType = (typeof COMMENTARY_INNINGS_TYPES)[number];

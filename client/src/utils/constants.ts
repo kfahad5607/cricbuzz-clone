@@ -24,7 +24,8 @@ export const MATCH_TYPES_VALUES = [
 export const MATCH_STATES = {
   PREVIEW: "preview",
   DELAY: "abandon",
-  COMPLETE: "draw",
+  // COMPLETE: "draw",
+  COMPLETE: "complete",
   ABANDON: "tie",
 } as const;
 
@@ -34,6 +35,16 @@ export const MATCH_STATES_VALUES = [
   "complete",
   "abandon",
 ] as const;
+
+export const MATCH_RESULT_TYPES_VALUES = [
+  "win",
+  "abandon",
+  "draw",
+  "tie",
+  "no-result",
+] as const;
+
+export const TOSS_DECISIONS_VALUES = ["bat", "bowl"] as const;
 
 export const DISMISSAL_TYPES_VALUES = [
   "bowled",

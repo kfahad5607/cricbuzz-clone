@@ -1,11 +1,21 @@
-import { BALL_EVENTS } from "../utils/constants";
+import { BALL_EVENTS, MATCH_STATES_VALUES } from "../utils/constants";
 import {
   BaseScorecardInnings,
+  CommentaryInningsType,
+  MatchResults,
+  MatchTossResults,
+  SCORECARD_INNINGS_TYPES,
   ScorecardBatter,
   ScorecardBowler,
-} from "./scorecard";
+} from "./matchData";
 
-type MatchCommentaryItem = {
+// const
+export const COMMENTARY_INNINGS_TYPES = [
+  "preview",
+  ...SCORECARD_INNINGS_TYPES,
+] as const;
+
+export type CommentaryItem = {
   timestamp: number;
   overs: number;
   commText: string;
@@ -15,10 +25,17 @@ type MatchCommentaryItem = {
 };
 
 export type CommentaryData = {
-  commentaryList: MatchCommentaryItem[];
+  commentaryList: CommentaryItem[];
+  lastFetchedInnings: CommentaryInningsType;
   innings: BaseScorecardInnings[];
   batsmanStriker: ScorecardBatter;
   batsmanNonStriker?: ScorecardBatter;
   bowlerStriker: ScorecardBowler;
   bowlerNonStriker: ScorecardBowler;
+  state: (typeof MATCH_STATES_VALUES)[number];
+  status: string;
+  tossResults: MatchTossResults;
+  results: MatchResults;
 };
+
+export type ScorecardInningsType = (typeof SCORECARD_INNINGS_TYPES)[number];

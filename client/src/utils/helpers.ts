@@ -19,6 +19,30 @@ export const oversToballNum = (overs: number): number => {
   return wholeOvers * BALLS_IN_OVER + balls;
 };
 
-export const formatOvers = (overs: number): number => {
-  return ballNumToOvers(oversToballNum(overs));
+export const formatOversToFloat = (overs: number): number => {
+  const oversArr = overs.toString().split(".");
+  let wholeOvers = parseInt(oversArr[0]);
+  let balls = oversArr[1] ? Number(oversArr[1]) : 0;
+
+  if (balls === 0) {
+    balls = BALLS_IN_OVER;
+    wholeOvers--;
+  }
+  balls = balls / 10;
+
+  return wholeOvers + balls;
+};
+
+export const formatOversToInt = (overs: number): number => {
+  const oversArr = overs.toString().split(".");
+  let wholeOvers = parseInt(oversArr[0]);
+  let balls = oversArr[1] ? Number(oversArr[1]) : 0;
+
+  if (balls === BALLS_IN_OVER) {
+    wholeOvers++;
+    balls = 0;
+  }
+  balls = balls / 10;
+
+  return wholeOvers + balls;
 };

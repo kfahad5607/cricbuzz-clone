@@ -1,11 +1,16 @@
 import { useParams } from "react-router-dom";
 import { Column, RowData } from "../entities/table";
-import useMatchCommentary from "../hooks/useMatchCommentary";
+import {
+  useLatestCommentary,
+  useOlderCommentary,
+} from "../hooks/useMatchCommentary";
 import Commentary from "./Commentary";
 import MatchStatus from "./MatchStatus";
 import PlayerLink from "./PlayerLink";
-import Table from "./Table";
-import { formatOvers } from "../utils/helpers";
+import { formatOversToInt } from "../utils/helpers";
+import { MATCH_STATES } from "../utils/constants";
+import { getTeamById } from "../utils/query";
+import Spinner from "./elements/Spinner";
 
 const battersColumns: Column[] = [
   {
@@ -78,14 +83,24 @@ const battersData: RowData[] = [
 ];
 
 const CommentaryTab = () => {
-  const { matchId } = useParams();
-  const { data, error, isLoading } = useMatchCommentary(parseInt(matchId!));
+  const params = useParams();
+  const matchId = parseInt(params.matchId!);
+
+  const { data, error, isLoading } = useLatestCommentary(matchId);
+  const { isRefetching, refetch } = useOlderCommentary(matchId);
+
+  const handleLoadMore = async () => {
+    refetch();
+  };
 
   if (isLoading)
     return <div className="text-center mx-2 my-3 text-xl">Loading...</div>;
 
-  if (error) return <h3>{"Something went wrong " + error.message}</h3>;
+  if (error && !data) return <h3>{"Something went wrong " + error.message}</h3>;
   if (!data) return <h3>{"Unable to get match commentary"}</h3>;
+
+  const teamOne = getTeamById(data.innings[0].teamId, matchId);
+  const teamTwo = getTeamById(data.innings[1].teamId, matchId);
 
   return (
     <div>
@@ -93,33 +108,55 @@ const CommentaryTab = () => {
       <div>
         {/* Summary */}
         <div>
-          <div className="text-gray-500 mb-2">
-            {data.innings[0].teamId} {data.innings[0].score}/
-            {data.innings[0].wickets} (
-            {formatOvers(data.innings[0].oversBowled)})
-          </div>
-          <div className="flex items-end">
-            <div className="font-bold text-xl leading-5">BAN 41/1 (5.5)</div>
-            <div className="flex text-xs text-gray-700 leading-3 ml-2">
+          {data.state === MATCH_STATES.COMPLETE && (
+            <>
+              {/* <div className="text-gray-500 mb-2">
+                <span className="uppercase">{teamOne?.shortName}</span>{" "}
+                {data.innings[0].score}/{data.innings[0].wickets} (
+                {formatOvers(data.innings[0].oversBowled)})
+              </div> */}
               <div>
-                <span className="font-bold">CRR:</span> 7.03
+                <div className="font-bold text-xl leading-5 text-gray-500 mb-2.5">
+                  <span className="uppercase">{teamOne?.shortName}</span>{" "}
+                  {data.innings[0].score}/{data.innings[0].wickets} (
+                  {formatOversToInt(data.innings[0].oversBowled)})
+                </div>
+                <div className="font-bold text-xl leading-5">
+                  <span className="uppercase">{teamTwo?.shortName}</span>{" "}
+                  {data.innings[1].score}/{data.innings[1].wickets} (
+                  {formatOversToInt(data.innings[1].oversBowled)})
+                </div>
               </div>
-              <div className="ml-1">
-                <span className="font-bold">REQ:</span> 6.92
+
+              <div className="mt-5">
+                <MatchStatus color="blue">
+                  Chennai Super Kings won by 6 wkts
+                </MatchStatus>
               </div>
-            </div>
-          </div>
-          <div className="mt-2">
-            <MatchStatus>Lorem ipsum dolor sit amet consectetur.</MatchStatus>
-          </div>
+            </>
+          )}
         </div>
         {/* scoreboard */}
         <div className="mt-2">
-          <Table data={battersData} columns={battersColumns} />
+          {/* <Table data={battersData} columns={battersColumns} /> */}
           <div className="w-full py-3.5 my-4 border-y border-slate-60"></div>
           {/* Commentary */}
           <div className="mt-2">
-            <Commentary />
+            <Commentary commentaryList={data.commentaryList} />
+            <div
+              onClick={handleLoadMore}
+              className="mt-2 p-1.5 text-sm text-center text-gray-950 rounded border border-slate-300 cursor-pointer hover:bg-gray-200"
+            >
+              {isRefetching ? (
+                <div className="flex justify-center">
+                  <Spinner />
+                </div>
+              ) : error ? (
+                error.message
+              ) : (
+                "Load More Commentary"
+              )}
+            </div>
           </div>
         </div>
       </div>
