@@ -496,43 +496,41 @@ async function getCommentaryData(
   inningsIdx: number,
   timestamp?: number
 ): Promise<{
-  lastFetchedInnings: CommentaryInningsType;
   commentaryList: CommentaryItem[];
+  lastFetchedInnings: CommentaryInningsType;
+  hasMore: boolean;
 }> {
   const COMMENTARY_ITEMS_COUNT = 20;
   const COMMENTARY_ITEMS_MIN_COUNT = 10;
 
   let commentaryListFilter: unknown = {
-    $lastN: {
-      input: "$lastInning.commentaryList",
-      n: COMMENTARY_ITEMS_COUNT,
+    $getField: {
+      input: { $arrayElemAt: ["$innings", inningsIdx] },
+      field: "commentaryList",
     },
   };
 
   if (timestamp) {
     commentaryListFilter = {
-      $lastN: {
-        input: {
-          $filter: {
-            input: "$lastInning.commentaryList",
-            as: "item",
-            cond: {
-              $lte: ["$$item.timestamp", timestamp],
-            },
-          },
+      $filter: {
+        input: commentaryListFilter,
+        as: "item",
+        cond: {
+          $lte: ["$$item.timestamp", timestamp],
         },
-        n: COMMENTARY_ITEMS_COUNT,
       },
     };
   }
 
   const results = await Commentary.aggregate<{
-    totalInnings: number;
     commentaryList: CommentaryItem[] | null;
+    totalInnings: number;
+    totalRemainingItems: number;
   }>([
     { $match: { matchId } },
     {
       $project: {
+        commentaryList: commentaryListFilter,
         lastInning: { $arrayElemAt: ["$innings", inningsIdx] },
         totalInnings: {
           $size: "$innings",
@@ -542,7 +540,17 @@ async function getCommentaryData(
     {
       $project: {
         totalInnings: 1,
-        commentaryList: { $reverseArray: commentaryListFilter },
+        totalRemainingItems: {
+          $size: "$commentaryList",
+        },
+        commentaryList: {
+          $reverseArray: {
+            $lastN: {
+              input: "$commentaryList",
+              n: COMMENTARY_ITEMS_COUNT,
+            },
+          },
+        },
       },
     },
   ]);
@@ -550,13 +558,24 @@ async function getCommentaryData(
   if (results.length === 0)
     return {
       lastFetchedInnings: COMMENTARY_INNINGS_TYPES[0],
+      hasMore: false,
       commentaryList: [],
     };
 
-  if (inningsIdx === -1) inningsIdx = results[0].totalInnings - 1;
-  let lastFetchedInnings = COMMENTARY_INNINGS_TYPES[inningsIdx];
-
   if (!results[0].commentaryList) results[0].commentaryList = [];
+  if (inningsIdx === -1) inningsIdx = results[0].totalInnings - 1;
+  let lastFetchedInnings: CommentaryInningsType | undefined =
+    COMMENTARY_INNINGS_TYPES[inningsIdx];
+  let hasMore =
+    inningsIdx > 0 ||
+    results[0].totalRemainingItems > results[0].commentaryList.length;
+
+  console.log(
+    "results[0] ",
+    results[0].totalRemainingItems,
+    results[0].commentaryList.length,
+    inningsIdx
+  );
 
   if (results[0].commentaryList.length < COMMENTARY_ITEMS_MIN_COUNT) {
     inningsIdx--;
@@ -567,12 +586,14 @@ async function getCommentaryData(
         newResults.commentaryList
       );
       lastFetchedInnings = newResults.lastFetchedInnings;
+      hasMore = newResults.hasMore;
     }
   }
 
   return {
-    lastFetchedInnings,
     commentaryList: results[0].commentaryList,
+    lastFetchedInnings,
+    hasMore,
   };
 }
 
