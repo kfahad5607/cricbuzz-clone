@@ -1,15 +1,16 @@
+import { useState } from "react";
 import { useParams } from "react-router-dom";
 import { Column, RowData } from "../entities/table";
 import {
   useLatestCommentary,
   useOlderCommentary,
 } from "../hooks/useMatchCommentary";
+import { MATCH_STATES } from "../utils/constants";
+import { formatOversToInt } from "../utils/helpers";
+import { getTeamById } from "../utils/query";
 import Commentary from "./Commentary";
 import MatchStatus from "./MatchStatus";
 import PlayerLink from "./PlayerLink";
-import { formatOversToInt } from "../utils/helpers";
-import { MATCH_STATES } from "../utils/constants";
-import { getTeamById } from "../utils/query";
 import Spinner from "./elements/Spinner";
 
 const battersColumns: Column[] = [
@@ -87,10 +88,13 @@ const CommentaryTab = () => {
   const matchId = parseInt(params.matchId!);
 
   const { data, error, isLoading } = useLatestCommentary(matchId);
-  const { isRefetching, refetch } = useOlderCommentary(matchId);
+  const { refetch } = useOlderCommentary(matchId);
+  const [isLoadingOldData, setIsLoadingOldData] = useState(false);
 
   const handleLoadMore = async () => {
-    refetch();
+    setIsLoadingOldData(true);
+    await refetch();
+    setIsLoadingOldData(false);
   };
 
   if (isLoading)
@@ -143,20 +147,22 @@ const CommentaryTab = () => {
           {/* Commentary */}
           <div className="mt-2">
             <Commentary commentaryList={data.commentaryList} />
-            <div
-              onClick={handleLoadMore}
-              className="mt-2 p-1.5 text-sm text-center text-gray-950 rounded border border-slate-300 cursor-pointer hover:bg-gray-200"
-            >
-              {isRefetching ? (
-                <div className="flex justify-center">
-                  <Spinner />
-                </div>
-              ) : error ? (
-                error.message
-              ) : (
-                "Load More Commentary"
-              )}
-            </div>
+            {data.hasMore && (
+              <div
+                onClick={handleLoadMore}
+                className="mt-2 p-1.5 text-sm text-center text-gray-950 rounded border border-slate-300 cursor-pointer hover:bg-gray-200"
+              >
+                {isLoadingOldData ? (
+                  <div className="flex justify-center">
+                    <Spinner />
+                  </div>
+                ) : error ? (
+                  error.message
+                ) : (
+                  "Load More Commentary"
+                )}
+              </div>
+            )}
           </div>
         </div>
       </div>

@@ -50,6 +50,7 @@ const getLatestCommentary = async (
       existingData.commentaryList
     );
     response.data.lastFetchedInnings = existingData.lastFetchedInnings;
+    response.data.hasMore = existingData.hasMore;
   }
 
   return response.data;

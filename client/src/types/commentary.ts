@@ -27,6 +27,7 @@ export type CommentaryItem = {
 export type CommentaryData = {
   commentaryList: CommentaryItem[];
   lastFetchedInnings: CommentaryInningsType;
+  hasMore: boolean;
   innings: BaseScorecardInnings[];
   batsmanStriker: ScorecardBatter;
   batsmanNonStriker?: ScorecardBatter;
