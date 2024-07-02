@@ -4,7 +4,7 @@
     "first": {
       "teamId": 64,
       "oversBowled": 19.6,
-      "overs": 0,
+      "overs": 20,
       "score": 196,
       "wickets": 3,
       "isDeclared": false,
@@ -142,7 +142,7 @@
     "second": {
       "teamId": 971,
       "oversBowled": 19.6,
-      "overs": 0,
+      "overs": 20,
       "score": 199,
       "wickets": 7,
       "isDeclared": false,
@@ -350,7 +350,7 @@
     }
   },
   "state": "complete",
-  "status": "",
+  "status": "Gujarat Titans won by 3 wkts",
   "tossResults": {
     "decision": "bowl",
     "tossWinnerId": 971

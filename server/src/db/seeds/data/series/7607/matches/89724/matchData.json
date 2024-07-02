@@ -4,7 +4,7 @@
     "first": {
       "teamId": 61,
       "oversBowled": 19.6,
-      "overs": 0,
+      "overs": 20,
       "score": 191,
       "wickets": 5,
       "isDeclared": false,
@@ -174,7 +174,7 @@
     "second": {
       "teamId": 58,
       "oversBowled": 19.6,
-      "overs": 0,
+      "overs": 20,
       "score": 171,
       "wickets": 6,
       "isDeclared": false,
@@ -381,7 +381,7 @@
     }
   },
   "state": "complete",
-  "status": "",
+  "status": "Delhi Capitals won by 20 runs",
   "tossResults": {
     "decision": "bat",
     "tossWinnerId": 61

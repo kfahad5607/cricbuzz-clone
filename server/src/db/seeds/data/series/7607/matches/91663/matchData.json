@@ -4,7 +4,7 @@
     "first": {
       "teamId": 64,
       "oversBowled": 19.6,
-      "overs": 0,
+      "overs": 20,
       "score": 141,
       "wickets": 5,
       "isDeclared": false,
@@ -178,7 +178,7 @@
     "second": {
       "teamId": 58,
       "oversBowled": 18.2,
-      "overs": 0,
+      "overs": 20,
       "score": 145,
       "wickets": 5,
       "isDeclared": false,
@@ -353,7 +353,7 @@
     }
   },
   "state": "complete",
-  "status": "",
+  "status": "Chennai Super Kings won by 5 wkts",
   "tossResults": {
     "decision": "bat",
     "tossWinnerId": 64

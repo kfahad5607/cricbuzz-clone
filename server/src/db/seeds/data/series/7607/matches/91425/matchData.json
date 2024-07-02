@@ -4,7 +4,7 @@
     "first": {
       "teamId": 58,
       "oversBowled": 19.6,
-      "overs": 0,
+      "overs": 20,
       "score": 206,
       "wickets": 4,
       "isDeclared": false,
@@ -178,7 +178,7 @@
     "second": {
       "teamId": 62,
       "oversBowled": 19.6,
-      "overs": 0,
+      "overs": 20,
       "score": 186,
       "wickets": 6,
       "isDeclared": false,
@@ -367,7 +367,7 @@
     }
   },
   "state": "complete",
-  "status": "",
+  "status": "Chennai Super Kings won by 20 runs",
   "tossResults": {
     "decision": "bowl",
     "tossWinnerId": 62

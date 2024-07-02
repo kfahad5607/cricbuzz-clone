@@ -4,7 +4,7 @@
     "first": {
       "teamId": 62,
       "oversBowled": 19.6,
-      "overs": 0,
+      "overs": 20,
       "score": 144,
       "wickets": 7,
       "isDeclared": false,
@@ -218,7 +218,7 @@
     "second": {
       "teamId": 966,
       "oversBowled": 19.2,
-      "overs": 0,
+      "overs": 20,
       "score": 145,
       "wickets": 6,
       "isDeclared": false,
@@ -414,7 +414,7 @@
     }
   },
   "state": "complete",
-  "status": "",
+  "status": "Lucknow Super Giants won by 4 wkts",
   "tossResults": {
     "decision": "bowl",
     "tossWinnerId": 966

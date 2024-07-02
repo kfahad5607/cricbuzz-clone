@@ -4,7 +4,7 @@
     "first": {
       "teamId": 65,
       "oversBowled": 19.6,
-      "overs": 0,
+      "overs": 20,
       "score": 176,
       "wickets": 6,
       "isDeclared": false,
@@ -205,7 +205,7 @@
     "second": {
       "teamId": 59,
       "oversBowled": 19.2,
-      "overs": 0,
+      "overs": 20,
       "score": 178,
       "wickets": 6,
       "isDeclared": false,
@@ -399,7 +399,7 @@
     }
   },
   "state": "complete",
-  "status": "",
+  "status": "Royal Challengers Bengaluru won by 4 wkts",
   "tossResults": {
     "decision": "bowl",
     "tossWinnerId": 59

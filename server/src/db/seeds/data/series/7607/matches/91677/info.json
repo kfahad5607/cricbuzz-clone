@@ -17,5 +17,6 @@
     "winByInnings": false
   },
   "inningsScoreList": [],
-  "state": "abandon"
+  "state": "abandon",
+  "status": ""
 }

@@ -4,7 +4,7 @@
     "first": {
       "teamId": 63,
       "oversBowled": 19.6,
-      "overs": 0,
+      "overs": 20,
       "score": 208,
       "wickets": 7,
       "isDeclared": false,
@@ -222,7 +222,7 @@
     "second": {
       "teamId": 255,
       "oversBowled": 19.6,
-      "overs": 0,
+      "overs": 20,
       "score": 204,
       "wickets": 7,
       "isDeclared": false,
@@ -440,7 +440,7 @@
     }
   },
   "state": "complete",
-  "status": "",
+  "status": "Kolkata Knight Riders won by 4 runs",
   "tossResults": {
     "decision": "bowl",
     "tossWinnerId": 255

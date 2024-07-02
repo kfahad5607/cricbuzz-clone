@@ -4,7 +4,7 @@
     "first": {
       "teamId": 58,
       "oversBowled": 19.6,
-      "overs": 0,
+      "overs": 20,
       "score": 162,
       "wickets": 7,
       "isDeclared": false,
@@ -206,7 +206,7 @@
     "second": {
       "teamId": 65,
       "oversBowled": 17.5,
-      "overs": 0,
+      "overs": 20,
       "score": 163,
       "wickets": 3,
       "isDeclared": false,
@@ -359,7 +359,7 @@
     }
   },
   "state": "complete",
-  "status": "",
+  "status": "Punjab Kings won by 7 wkts",
   "tossResults": {
     "decision": "bowl",
     "tossWinnerId": 65

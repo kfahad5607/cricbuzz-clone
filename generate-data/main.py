@@ -281,7 +281,8 @@ def get_match_info(match_id, match_number=None):
 
         if json_content:
             match_details = json_content['matchDetails']['matchHeader']
-            match_score_details = json_content['matchDetails']['miniscore']['matchScoreDetails']
+            match_mini_score = json_content['matchDetails']['miniscore']
+            match_score_details = match_mini_score['matchScoreDetails']
 
             match_info = {
                 'id': match_id,
@@ -324,6 +325,7 @@ def get_match_info(match_id, match_number=None):
  
             match_info['inningsScoreList'] = sorted(match_score_details['inningsScoreList'], key=lambda a: a['inningsId'])
             match_info['state'] = slugify(match_details['state'])
+            match_info['status'] = match_mini_score['status']
 
             set_file_data(file_path=f"series/{match_info['series']}/matches/{match_id}/info.json", data=match_info)
 
@@ -333,6 +335,12 @@ def get_match_info(match_id, match_number=None):
 
 def get_match_data(match_id, match_number=None):
     try:
+        OVERS_MAP = {
+            "t20": 20,
+            "odi": 50,
+            "test": 0
+        }
+
         url = f"{BASE_URL}/live-cricket-scorecard/{match_id}/match-slug"
         html_content = get_html_content(url=url)
         soup = BeautifulSoup(html_content, 'html.parser')
@@ -517,7 +525,7 @@ def get_match_data(match_id, match_number=None):
             innings_data[INNINGS_ID_MAP[innings_id]] = {
                 'teamId': bat_team_id,
                 'oversBowled': current_innings['overs'],
-                'overs': 0,
+                'overs': OVERS_MAP[match_info['matchFormat']],
                 'score': current_innings['score'],
                 'wickets': current_innings['wickets'],
                 'isDeclared': current_innings['isDeclared'],
@@ -531,7 +539,7 @@ def get_match_data(match_id, match_number=None):
             'matchId': match_info['id'],
             'innings': innings_data,
             'state': match_info['state'],
-            'status': '',
+            'status': match_info['status'],
             'tossResults': match_info['tossResults'],
             'results': match_info['results'],
         }

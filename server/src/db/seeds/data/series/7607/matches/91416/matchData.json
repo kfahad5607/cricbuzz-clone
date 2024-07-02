@@ -4,7 +4,7 @@
     "first": {
       "teamId": 65,
       "oversBowled": 19.6,
-      "overs": 0,
+      "overs": 20,
       "score": 147,
       "wickets": 8,
       "isDeclared": false,
@@ -223,7 +223,7 @@
     "second": {
       "teamId": 64,
       "oversBowled": 19.5,
-      "overs": 0,
+      "overs": 20,
       "score": 152,
       "wickets": 7,
       "isDeclared": false,
@@ -437,7 +437,7 @@
     }
   },
   "state": "complete",
-  "status": "",
+  "status": "Rajasthan Royals won by 3 wkts",
   "tossResults": {
     "decision": "bowl",
     "tossWinnerId": 64

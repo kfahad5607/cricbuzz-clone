@@ -4,7 +4,7 @@
     "first": {
       "teamId": 255,
       "oversBowled": 19.6,
-      "overs": 0,
+      "overs": 20,
       "score": 266,
       "wickets": 7,
       "isDeclared": false,
@@ -221,7 +221,7 @@
     "second": {
       "teamId": 61,
       "oversBowled": 19.1,
-      "overs": 0,
+      "overs": 20,
       "score": 199,
       "wickets": 10,
       "isDeclared": false,
@@ -487,7 +487,7 @@
     }
   },
   "state": "complete",
-  "status": "",
+  "status": "Sunrisers Hyderabad won by 67 runs",
   "tossResults": {
     "decision": "bowl",
     "tossWinnerId": 61
