@@ -1,5 +1,10 @@
 import { BALLS_IN_OVER } from "./constants";
 
+const roundNumbers = (num: number, decimalPlaces: number = 2) => {
+  const factor = Math.pow(10, decimalPlaces);
+  return Math.round((num + Number.EPSILON) * factor) / factor;
+};
+
 export const ballNumToOvers = (ballNum: number): number => {
   const rem = ballNum % BALLS_IN_OVER;
 
@@ -45,4 +50,11 @@ export const formatOversToInt = (overs: number): number => {
   balls = balls / 10;
 
   return wholeOvers + balls;
+};
+
+export const getRunRate = (runs: number, balls: number) => {
+  if (balls < 1) return 0;
+
+  const runRate = (runs * BALLS_IN_OVER) / balls;
+  return roundNumbers(runRate);
 };

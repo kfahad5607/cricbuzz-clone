@@ -33,7 +33,7 @@ type VenueMatchInfo = {
   city: string;
 };
 
-type TeamMatchInfo = {
+export type TeamMatchInfo = {
   id: number;
   name: string;
   slug: string;

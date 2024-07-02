@@ -1,7 +1,9 @@
+export type StatusColor = "yellow" | "red" | "blue";
+
 interface Props {
   children: string;
   className?: string;
-  color?: "red" | "yellow" | "blue";
+  color?: StatusColor;
   size?: "sm" | "lg";
 }
 

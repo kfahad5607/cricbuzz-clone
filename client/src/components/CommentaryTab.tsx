@@ -6,12 +6,14 @@ import {
   useOlderCommentary,
 } from "../hooks/useMatchCommentary";
 import { MATCH_STATES } from "../utils/constants";
-import { formatOversToInt } from "../utils/helpers";
+import { formatOversToInt, getRunRate, oversToballNum } from "../utils/helpers";
 import { getTeamById } from "../utils/query";
 import Commentary from "./Commentary";
-import MatchStatus from "./MatchStatus";
+import MatchStatus, { StatusColor } from "./MatchStatus";
 import PlayerLink from "./PlayerLink";
 import Spinner from "./elements/Spinner";
+import { CommentaryData } from "../types/commentary";
+import { TeamMatchInfo } from "../types/matches";
 
 const battersColumns: Column[] = [
   {
@@ -83,6 +85,132 @@ const battersData: RowData[] = [
   },
 ];
 
+interface Props {
+  data: CommentaryData;
+}
+
+const MatchScoreHeader = ({ data }: Props) => {
+  const params = useParams();
+  const matchId = parseInt(params.matchId!);
+
+  const teams: Record<number, TeamMatchInfo> = {};
+
+  data.innings.forEach((i) => {
+    const team = getTeamById(i.teamId, matchId);
+    if (team) teams[i.teamId] = team;
+  });
+
+  let header = null;
+
+  if (data.state === MATCH_STATES.PREVIEW) {
+    header = (
+      <div>
+        <div className="flex items-baseline font-semibold mb-6">
+          <div className="text-4xl">20:47</div>
+          <div className="text-lg ml-1">30</div>
+        </div>
+        <div className="flex justify-between items-end">
+          <div>
+            <div className="text-sm text-gray-600">START TIME</div>
+            <div className="font-medium text-xl">7:30 PM</div>
+          </div>
+          <div className="font-medium text-xl">
+            2:00 PM <span className="text-sm text-gray-500">GMT</span>
+          </div>{" "}
+          <div className="font-medium text-xl">
+            7:30 PM <span className="text-sm text-gray-500">LOCAL</span>
+          </div>
+        </div>
+      </div>
+    );
+  } else if (data.innings.length === 1) {
+    header = (
+      <div className="flex items-end">
+        <div className="font-bold text-xl leading-5">
+          <span className="uppercase">
+            {teams[data.innings[0].teamId]?.shortName}
+          </span>{" "}
+          {data.innings[0].score}/{data.innings[0].wickets} (
+          {formatOversToInt(data.innings[0].oversBowled)})
+        </div>
+
+        {data.state !== MATCH_STATES.COMPLETE && (
+          <div className="flex text-xs text-gray-700 leading-3 ml-2">
+            <div>
+              <span className="font-bold">CRR:</span>{" "}
+              {getRunRate(
+                data.innings[0].score,
+                oversToballNum(data.innings[0].oversBowled)
+              )}
+            </div>
+          </div>
+        )}
+      </div>
+    );
+  } else if (data.innings.length === 2) {
+    const classNames =
+      data.state === MATCH_STATES.COMPLETE
+        ? "text-gray-500 font-medium mb-2"
+        : "font-bold text-xl leading-5 mb-2.5";
+
+    header = (
+      <div>
+        <div className={`"text-gray-500 ${classNames}`}>
+          <span className="uppercase">
+            {teams[data.innings[0].teamId]?.shortName}
+          </span>{" "}
+          {data.innings[0].score}/{data.innings[0].wickets} (
+          {formatOversToInt(data.innings[0].oversBowled)})
+        </div>
+        <div className="flex items-end">
+          <div className="font-bold text-xl leading-5">
+            <span className="uppercase">
+              {teams[data.innings[1].teamId]?.shortName}
+            </span>{" "}
+            {data.innings[1].score}/{data.innings[1].wickets} (
+            {formatOversToInt(data.innings[1].oversBowled)})
+          </div>
+          {data.state === MATCH_STATES.COMPLETE && (
+            <div className="flex text-xs text-gray-700 leading-3 ml-2">
+              <div>
+                <span className="font-bold">CRR:</span>{" "}
+                {getRunRate(
+                  data.innings[0].score,
+                  oversToballNum(data.innings[0].oversBowled)
+                )}
+              </div>
+              <div className="ml-1">
+                <span className="font-bold">REQ:</span>{" "}
+                {getRunRate(
+                  data.innings[0].score - data.innings[1].score + 1,
+                  oversToballNum(
+                    data.innings[1].overs - data.innings[1].oversBowled
+                  )
+                )}
+              </div>
+            </div>
+          )}
+        </div>
+      </div>
+    );
+  }
+
+  let statusColor: StatusColor = "red";
+  if (data.state === MATCH_STATES.COMPLETE) statusColor = "blue";
+  else if (data.state === MATCH_STATES.PREVIEW) statusColor = "yellow";
+
+  return (
+    <div>
+      {header}
+      {data.status && (
+        <div className="mt-4">
+          <MatchStatus color={statusColor}>{data.status}</MatchStatus>
+        </div>
+      )}
+    </div>
+  );
+};
+
 const CommentaryTab = () => {
   const params = useParams();
   const matchId = parseInt(params.matchId!);
@@ -103,43 +231,12 @@ const CommentaryTab = () => {
   if (error && !data) return <h3>{"Something went wrong " + error.message}</h3>;
   if (!data) return <h3>{"Unable to get match commentary"}</h3>;
 
-  const teamOne = getTeamById(data.innings[0].teamId, matchId);
-  const teamTwo = getTeamById(data.innings[1].teamId, matchId);
-
   return (
     <div>
       {/* Header */}
       <div>
         {/* Summary */}
-        <div>
-          {data.state === MATCH_STATES.COMPLETE && (
-            <>
-              {/* <div className="text-gray-500 mb-2">
-                <span className="uppercase">{teamOne?.shortName}</span>{" "}
-                {data.innings[0].score}/{data.innings[0].wickets} (
-                {formatOvers(data.innings[0].oversBowled)})
-              </div> */}
-              <div>
-                <div className="font-bold text-xl leading-5 text-gray-500 mb-2.5">
-                  <span className="uppercase">{teamOne?.shortName}</span>{" "}
-                  {data.innings[0].score}/{data.innings[0].wickets} (
-                  {formatOversToInt(data.innings[0].oversBowled)})
-                </div>
-                <div className="font-bold text-xl leading-5">
-                  <span className="uppercase">{teamTwo?.shortName}</span>{" "}
-                  {data.innings[1].score}/{data.innings[1].wickets} (
-                  {formatOversToInt(data.innings[1].oversBowled)})
-                </div>
-              </div>
-
-              <div className="mt-5">
-                <MatchStatus color="blue">
-                  Chennai Super Kings won by 6 wkts
-                </MatchStatus>
-              </div>
-            </>
-          )}
-        </div>
+        <MatchScoreHeader data={data} />
         {/* scoreboard */}
         <div className="mt-2">
           {/* <Table data={battersData} columns={battersColumns} /> */}
