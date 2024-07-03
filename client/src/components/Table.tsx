@@ -1,8 +1,8 @@
-import { CellValue, Column, RowData } from "../entities/table";
+import { CellValue, Column } from "../entities/table";
 
-interface Props {
-  columns: Column[];
-  data: RowData[];
+interface Props<TItem> {
+  columns: Column<TItem>[];
+  data: TItem[];
   rowStripes?: boolean;
 }
 
@@ -10,10 +10,10 @@ const BASE_CELL_CLASS = "first:ps-3 last:pe-3 px-1.5 py-1.5";
 
 const defaultColumnRender = (val: CellValue) => <>{val}</>;
 
-const getRenderer = (column: Column): Column["render"] =>
+const getRenderer = <TItem,>(column: Column<TItem>): Column<TItem>["render"] =>
   column.render || defaultColumnRender;
 
-const Table = ({ columns, data, rowStripes = false }: Props) => {
+const Table = <TItem,>({ columns, data, rowStripes = false }: Props<TItem>) => {
   return (
     <div className="text-sm">
       {/* Head */}
@@ -47,7 +47,11 @@ const Table = ({ columns, data, rowStripes = false }: Props) => {
                 key={columnIdx}
                 className={`${BASE_CELL_CLASS} ${column.classNames}`}
               >
-                {getRenderer(column)!(row[column.dataKey], row, columnIdx)}
+                {getRenderer<TItem>(column)!(
+                  row[column.dataKey],
+                  row,
+                  columnIdx
+                )}
               </div>
             ))}
           </div>

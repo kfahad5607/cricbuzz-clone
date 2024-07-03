@@ -58,3 +58,11 @@ export const getRunRate = (runs: number, balls: number) => {
   const runRate = (runs * BALLS_IN_OVER) / balls;
   return roundNumbers(runRate);
 };
+
+export const getStrikeRate = (runs: number, balls: number) => {
+  return roundNumbers((runs * 100) / balls);
+};
+
+export const getEconomyRate = (runs: number, overs: number) => {
+  return roundNumbers((runs * BALLS_IN_OVER) / oversToballNum(overs));
+};

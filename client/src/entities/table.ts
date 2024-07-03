@@ -7,9 +7,9 @@ export interface RowData {
   [key: string | number]: CellValue;
 }
 
-export interface Column {
+export interface Column<TItem> {
   title: string;
   classNames: string;
-  dataKey: string;
-  render?: (val: CellValue, record?: RowData, index?: number) => ReactNode;
+  dataKey: keyof TItem;
+  render?: (val: CellValue, record: TItem, index: number) => ReactNode;
 }

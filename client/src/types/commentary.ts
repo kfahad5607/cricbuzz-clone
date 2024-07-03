@@ -29,7 +29,7 @@ export type CommentaryData = {
   lastFetchedInnings: CommentaryInningsType;
   hasMore: boolean;
   innings: BaseScorecardInnings[];
-  batsmanStriker: ScorecardBatter;
+  batsmanStriker?: ScorecardBatter;
   batsmanNonStriker?: ScorecardBatter;
   bowlerStriker: ScorecardBowler;
   bowlerNonStriker: ScorecardBowler;

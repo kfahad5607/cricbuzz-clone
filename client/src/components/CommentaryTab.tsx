@@ -1,12 +1,18 @@
 import { useState } from "react";
 import { useParams } from "react-router-dom";
-import { Column, RowData } from "../entities/table";
+import { Column } from "../entities/table";
 import {
   useLatestCommentary,
   useOlderCommentary,
 } from "../hooks/useMatchCommentary";
 import { MATCH_STATES } from "../utils/constants";
-import { formatOversToInt, getRunRate, oversToballNum } from "../utils/helpers";
+import {
+  formatOversToInt,
+  getEconomyRate,
+  getRunRate,
+  getStrikeRate,
+  oversToballNum,
+} from "../utils/helpers";
 import { getTeamById } from "../utils/query";
 import Commentary from "./Commentary";
 import MatchStatus, { StatusColor } from "./MatchStatus";
@@ -14,31 +20,22 @@ import PlayerLink from "./PlayerLink";
 import Spinner from "./elements/Spinner";
 import { CommentaryData } from "../types/commentary";
 import { TeamMatchInfo } from "../types/matches";
+import Table from "./Table";
+import { ScorecardBatter, ScorecardBowler } from "../types/matchData";
 
-const battersColumns: Column[] = [
+const battersColumns: Column<ScorecardBatter>[] = [
   {
     title: "Batter",
     classNames: "w-full",
-    dataKey: "player",
-    render: (val, record) => {
-      let designation = "";
-      if (record?.isCaptain) designation = "c";
-      if (record?.isKeeper) {
-        designation = designation ? designation + " & wk" : "wk";
-      }
-
-      let playerName = `${val} ${designation && `(${designation})`}`;
-
-      return <PlayerLink name={playerName} />;
+    dataKey: "id",
+    render: (val) => {
+      return <PlayerLink name={val} />;
     },
   },
   {
     title: "R",
     classNames: "w-12",
-    dataKey: "runsScored",
-    render: (val) => {
-      return <div className="font-bold"> {val}</div>;
-    },
+    dataKey: "batRuns",
   },
   {
     title: "B",
@@ -48,40 +45,59 @@ const battersColumns: Column[] = [
   {
     title: "4s",
     classNames: "w-12",
-    dataKey: "fours",
+    dataKey: "batFours",
   },
   {
     title: "6s",
     classNames: "w-12",
-    dataKey: "sixes",
+    dataKey: "batSixes",
   },
   {
     title: "SR",
     classNames: "w-16",
-    dataKey: "sr",
+    dataKey: "id",
+    render: (val, record) => {
+      return getStrikeRate(record.batRuns, record.ballsPlayed);
+    },
   },
 ];
 
-const battersData: RowData[] = [
+const bowlersColumns: Column<ScorecardBowler>[] = [
   {
-    player: "KL Rahul",
-    dismissal: "c T Natarajan b Cummins",
-    runsScored: 29,
-    ballsPlayed: 33,
-    fours: 1,
-    sixes: 1,
-    sr: 87.88,
-    isCaptain: true,
-    isKeeper: true,
+    title: "Bowler",
+    classNames: "w-full",
+    dataKey: "id",
+    render: (val) => {
+      return <PlayerLink name={val} />;
+    },
   },
   {
-    player: "Quinton de Kock",
-    dismissal: "c Nitish Reddy b Bhuvneshwar",
-    runsScored: 29,
-    ballsPlayed: 33,
-    fours: 1,
-    sixes: 1,
-    sr: 87.88,
+    title: "O",
+    classNames: "w-12",
+    dataKey: "bowlOvers",
+  },
+  {
+    title: "M",
+    classNames: "w-12",
+    dataKey: "bowlMaidens",
+  },
+  {
+    title: "R",
+    classNames: "w-12",
+    dataKey: "bowlRuns",
+  },
+  {
+    title: "W",
+    classNames: "w-12",
+    dataKey: "bowlWickets",
+  },
+  {
+    title: "ECO",
+    classNames: "w-16",
+    dataKey: "id",
+    render: (val, record) => {
+      return getEconomyRate(record.bowlRuns, record.bowlOvers);
+    },
   },
 ];
 
@@ -99,6 +115,14 @@ const MatchScoreHeader = ({ data }: Props) => {
     const team = getTeamById(i.teamId, matchId);
     if (team) teams[i.teamId] = team;
   });
+
+  const batters: ScorecardBatter[] = [];
+  if (data.batsmanStriker) batters.push(data.batsmanStriker);
+  if (data.batsmanNonStriker) batters.push(data.batsmanNonStriker);
+
+  const bowlers: ScorecardBowler[] = [];
+  if (data.bowlerStriker) bowlers.push(data.bowlerStriker);
+  if (data.bowlerNonStriker) bowlers.push(data.bowlerNonStriker);
 
   let header = null;
 
@@ -207,6 +231,10 @@ const MatchScoreHeader = ({ data }: Props) => {
           <MatchStatus color={statusColor}>{data.status}</MatchStatus>
         </div>
       )}
+      <div className="mt-3">
+        <Table data={batters} columns={battersColumns} />
+        <Table data={bowlers} columns={bowlersColumns} />
+      </div>
     </div>
   );
 };

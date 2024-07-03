@@ -30,7 +30,7 @@ export type ScorecardBatter = {
   batFours: number;
   batSixes: number;
   isStriker?: boolean;
-  fallOfWicket: fallOfWicket;
+  fallOfWicket?: fallOfWicket;
 };
 
 export type ScorecardBowler = {
