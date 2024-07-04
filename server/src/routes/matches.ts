@@ -15,7 +15,7 @@ import {
   getAllInningsScore,
   deleteInningsScore,
   getMatchPlayers,
-  getMatchScore,
+  getMatchScorecard,
   addInningsCommentary,
   getFullCommentary,
   getCommentary,
@@ -82,13 +82,13 @@ router.delete(
 );
 
 router.get(
-  "/:id/score",
+  "/:id/scorecard",
   validateRequest({
     params: getValidationSchema({
       id: "DatabaseIntIdParam",
     }),
   }),
-  getMatchScore
+  getMatchScorecard
 );
 
 router.patch(

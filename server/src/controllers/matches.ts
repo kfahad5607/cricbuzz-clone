@@ -188,8 +188,6 @@ export async function getAllInningsScore(
   try {
     const matchId = parseInt(req.params.id);
 
-    console.log("getAllInningsScore ", matchId);
-
     const matchData = await MatchData.findOne(
       {
         matchId,
@@ -569,13 +567,6 @@ async function getCommentaryData(
   let hasMore =
     inningsIdx > 0 ||
     results[0].totalRemainingItems > results[0].commentaryList.length;
-
-  console.log(
-    "results[0] ",
-    results[0].totalRemainingItems,
-    results[0].commentaryList.length,
-    inningsIdx
-  );
 
   if (results[0].commentaryList.length < COMMENTARY_ITEMS_MIN_COUNT) {
     inningsIdx--;
@@ -1156,7 +1147,7 @@ export async function getMatchInfo(
   }
 }
 
-export async function getMatchScore(
+export async function getMatchScorecard(
   req: Request<getValidationType<{ id: "DatabaseIntIdParam" }>>,
   res: Response,
   next: NextFunction
@@ -1164,128 +1155,31 @@ export async function getMatchScore(
   try {
     const matchId = parseInt(req.params.id);
 
-    const matchData = await db.query.matches.findFirst({
-      columns: {
-        id: true,
-        description: true,
-        matchFormat: true,
-        startTime: true,
-        completeTime: true,
+    const matchData = await MatchData.aggregate([
+      {
+        $match: { matchId },
       },
-      with: {
-        series: {
-          columns: {
-            description: false,
-          },
-        },
-        venue: {
-          columns: {
-            country: false,
-          },
-        },
-        homeTeam: {
-          columns: {
-            id: true,
-            name: true,
-            shortName: true,
-          },
-        },
-        awayTeam: {
-          columns: {
-            id: true,
-            name: true,
-            shortName: true,
-          },
-        },
-      },
-    });
-
-    if (!matchData) {
-      res.status(404);
-      throw new Error(`Match with ID '${matchId}' does not exist.`);
-    }
-
-    const matchSquads: MatchSquad<MatchSquadPlayer>[] =
-      await MatchSquads.aggregate([
-        { $match: { matchId } },
-        {
-          $project: {
-            teams: {
-              $map: {
-                input: "$teams",
-                as: "team",
-                in: {
-                  teamId: "$$team.teamId",
-                  players: {
-                    $filter: {
-                      input: "$$team.players",
-                      as: "player",
-                      cond: {
-                        $or: [
-                          { $eq: ["$$player.isPlaying", true] },
-                          { $eq: ["$$player.isInSubs", true] },
-                        ],
-                      },
-                    },
-                  },
-                },
-              },
+      {
+        $project: {
+          state: 1,
+          status: 1,
+          innings: {
+            $map: {
+              input: { $objectToArray: "$innings" },
+              as: "inning",
+              in: "$$inning.v",
             },
           },
         },
-      ]);
+      },
+    ]);
 
-    if (matchSquads.length === 0) {
-      res.status(400);
-      throw new Error("Match squad does not exist.");
+    if (matchData.length === 0) {
+      res.status(404);
+      throw new Error(`No match found.`);
     }
 
-    const playerIds: DatabaseIntId[] = [];
-    matchSquads[0].teams.forEach((team) => {
-      team.players.map((player) => playerIds.push(player.playerId));
-    });
-
-    const playersData = await db
-      .select({
-        id: playersTable.id,
-        name: playersTable.name,
-        shortName: playersTable.shortName,
-        roleInfo: playersTable.roleInfo,
-      })
-      .from(playersTable)
-      .where(inArray(playersTable.id, playerIds));
-
-    let playersInfoMap: { [key: DatabaseIntId]: PlayerOptional } = {};
-    playersInfoMap = playersData.reduce((acc, val) => {
-      acc[val.id] = val;
-      return acc;
-    }, playersInfoMap);
-
-    const squads: TeamSquad<MatchSquadPlayerWithInfo>[] =
-      matchSquads[0].teams.map(
-        (team): { teamId: number; players: MatchSquadPlayerWithInfo[] } => {
-          team.players = team.players.map(
-            (player): MatchSquadPlayerWithInfo => {
-              let playerWithInfo: MatchSquadPlayerWithInfo = {
-                ...player,
-                ...playersInfoMap[player.playerId],
-              };
-              return playerWithInfo;
-            }
-          );
-
-          return team;
-        }
-      );
-
-    const matchDataWithSquads: typeof matchData & {
-      squads: TeamSquad<MatchSquadPlayerWithInfo>[];
-    } = {
-      ...matchData,
-      squads,
-    };
-
-    res.status(200).json(matchDataWithSquads);
+    res.status(200).json(matchData[0]);
   } catch (err) {
     next(err);
   }
