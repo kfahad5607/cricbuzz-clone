@@ -4,7 +4,7 @@ import { Column } from "../entities/table";
 import {
   useLatestCommentary,
   useOlderCommentary,
-} from "../hooks/useMatchCommentary";
+} from "../hooks/useCommentary";
 import { MATCH_STATES } from "../utils/constants";
 import {
   formatOversToInt,

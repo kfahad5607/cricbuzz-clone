@@ -1,9 +1,9 @@
 import {
   DISMISSAL_TYPES_VALUES,
   MATCH_RESULT_TYPES_VALUES,
+  MATCH_STATES_VALUES,
   TOSS_DECISIONS_VALUES,
 } from "../utils/constants";
-import { COMMENTARY_INNINGS_TYPES } from "./commentary";
 
 // const
 export const SCORECARD_INNINGS_TYPES = [
@@ -13,7 +13,7 @@ export const SCORECARD_INNINGS_TYPES = [
   "fourth",
 ] as const;
 
-type fallOfWicket = {
+export type fallOfWicket = {
   dismissalType: (typeof DISMISSAL_TYPES_VALUES)[number];
   overs: number;
   teamScore: number;
@@ -64,6 +64,11 @@ export type BaseScorecardInnings = {
   extras: extraBall;
 };
 
+export type ScorecardInnings = BaseScorecardInnings & {
+  batters: ScorecardBatter[];
+  bowlers: ScorecardBowler[];
+};
+
 export type MatchTossResults = {
   tossWinnerId?: number;
   decision: (typeof TOSS_DECISIONS_VALUES)[number];
@@ -77,4 +82,10 @@ export type MatchResults = {
   winningTeamId?: number;
 };
 
-export type CommentaryInningsType = (typeof COMMENTARY_INNINGS_TYPES)[number];
+export type ScorecardData = {
+  innings: ScorecardInnings[];
+  state: (typeof MATCH_STATES_VALUES)[number];
+  status: string;
+};
+
+export type ScorecardInningsTypes = (typeof SCORECARD_INNINGS_TYPES)[number];

@@ -11,5 +11,5 @@ export interface Column<TItem> {
   title: string;
   classNames: string;
   dataKey: keyof TItem;
-  render?: (val: CellValue, record: TItem, index: number) => ReactNode;
+  render?: (val: any, record: TItem, index: number) => ReactNode;
 }

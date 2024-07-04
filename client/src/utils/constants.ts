@@ -46,12 +46,26 @@ export const MATCH_RESULT_TYPES_VALUES = [
 
 export const TOSS_DECISIONS_VALUES = ["bat", "bowl"] as const;
 
+export const DISMISSAL_TYPES = {
+  BOWLED: "bowled",
+  CAUGHT: "caught",
+  LBW: "lbw",
+  STUMPED: "stumped",
+  RUN_OUT: "run-out",
+  RETIRED: "retired",
+  HIT_THE_BALL_TWICE: "hit-the-ball-twice",
+  HIT_WICKET: "hit-wicket",
+  OBSTRUCT_FIELD: "obstruct-field",
+  HANDLED_BALL: "handled-ball",
+  TIMED_OUT: "timed-out",
+} as const;
+
 export const DISMISSAL_TYPES_VALUES = [
   "bowled",
   "caught",
   "lbw",
-  "run-out",
   "stumped",
+  "run-out",
   "retired",
   "hit-the-ball-twice",
   "hit-wicket",

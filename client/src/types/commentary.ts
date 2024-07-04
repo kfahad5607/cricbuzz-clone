@@ -1,7 +1,6 @@
 import { BALL_EVENTS, MATCH_STATES_VALUES } from "../utils/constants";
 import {
   BaseScorecardInnings,
-  CommentaryInningsType,
   MatchResults,
   MatchTossResults,
   SCORECARD_INNINGS_TYPES,
@@ -26,7 +25,7 @@ export type CommentaryItem = {
 
 export type CommentaryData = {
   commentaryList: CommentaryItem[];
-  lastFetchedInnings: CommentaryInningsType;
+  lastFetchedInnings: CommentaryInningsTypes;
   hasMore: boolean;
   innings: BaseScorecardInnings[];
   batsmanStriker?: ScorecardBatter;
@@ -39,4 +38,4 @@ export type CommentaryData = {
   results: MatchResults;
 };
 
-export type ScorecardInningsType = (typeof SCORECARD_INNINGS_TYPES)[number];
+export type CommentaryInningsTypes = (typeof COMMENTARY_INNINGS_TYPES)[number];
