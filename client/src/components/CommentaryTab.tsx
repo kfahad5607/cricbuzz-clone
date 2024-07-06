@@ -7,8 +7,8 @@ import {
 } from "../hooks/useCommentary";
 import { CommentaryData } from "../types/commentary";
 import {
-  ScorecardBatterWithName,
-  ScorecardBowlerWithName,
+  ScorecardBatterWithInfo,
+  ScorecardBowlerWithInfo,
 } from "../types/matchData";
 import { MATCH_STATES } from "../utils/constants";
 import {
@@ -24,7 +24,7 @@ import PlayerLink from "./PlayerLink";
 import Table from "./Table";
 import Spinner from "./elements/Spinner";
 
-const batterColumns: Column<ScorecardBatterWithName>[] = [
+const batterColumns: Column<ScorecardBatterWithInfo>[] = [
   {
     title: "Batter",
     classNames: "w-full",
@@ -63,7 +63,7 @@ const batterColumns: Column<ScorecardBatterWithName>[] = [
   },
 ];
 
-const bowlerColumns: Column<ScorecardBowlerWithName>[] = [
+const bowlerColumns: Column<ScorecardBowlerWithInfo>[] = [
   {
     title: "Bowler",
     classNames: "w-full",
@@ -107,11 +107,11 @@ interface Props {
 }
 
 const MatchScoreHeader = ({ data }: Props) => {
-  const batters: ScorecardBatterWithName[] = [];
+  const batters: ScorecardBatterWithInfo[] = [];
   if (data.batsmanStriker) batters.push(data.batsmanStriker);
   if (data.batsmanNonStriker) batters.push(data.batsmanNonStriker);
 
-  const bowlers: ScorecardBowlerWithName[] = [];
+  const bowlers: ScorecardBowlerWithInfo[] = [];
   if (data.bowlerStriker) bowlers.push(data.bowlerStriker);
   if (data.bowlerNonStriker) bowlers.push(data.bowlerNonStriker);
 

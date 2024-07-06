@@ -60,9 +60,11 @@ export const getRunRate = (runs: number, balls: number) => {
 };
 
 export const getStrikeRate = (runs: number, balls: number) => {
-  return roundNumbers((runs * 100) / balls);
+  return roundNumbers((runs * 100) / balls).toFixed(2);
 };
 
 export const getEconomyRate = (runs: number, overs: number) => {
-  return roundNumbers((runs * BALLS_IN_OVER) / oversToballNum(overs));
+  return roundNumbers((runs * BALLS_IN_OVER) / oversToballNum(overs)).toFixed(
+    2
+  );
 };

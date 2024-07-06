@@ -12,7 +12,7 @@ import type {
 } from "../types/commentary";
 import type { MatchInfo } from "../types/matches";
 import {
-  addPlayerName,
+  addPlayerInfo,
   addPlayerNamesToFow,
   getPlayersMap,
   matchInfoQueryKeys,
@@ -74,7 +74,7 @@ const getLatestCommentary = async (
 
   const batsmanStriker = data.batsmanStriker
     ? {
-        ...addPlayerName(data.batsmanStriker, playersMap),
+        ...addPlayerInfo(data.batsmanStriker, playersMap),
         fallOfWicket: addPlayerNamesToFow(
           data.batsmanStriker.fallOfWicket,
           playersMap
@@ -84,7 +84,7 @@ const getLatestCommentary = async (
 
   const batsmanNonStriker = data.batsmanNonStriker
     ? {
-        ...addPlayerName(data.batsmanNonStriker, playersMap),
+        ...addPlayerInfo(data.batsmanNonStriker, playersMap),
         fallOfWicket: addPlayerNamesToFow(
           data.batsmanNonStriker.fallOfWicket,
           playersMap
@@ -93,11 +93,11 @@ const getLatestCommentary = async (
     : undefined;
 
   const bowlerStriker = data.bowlerStriker
-    ? addPlayerName(data.bowlerStriker, playersMap)
+    ? addPlayerInfo(data.bowlerStriker, playersMap)
     : undefined;
 
   const bowlerNonStriker = data.bowlerNonStriker
-    ? addPlayerName(data.bowlerNonStriker, playersMap)
+    ? addPlayerInfo(data.bowlerNonStriker, playersMap)
     : undefined;
 
   const innings = data.innings.map((inningsItem) => {

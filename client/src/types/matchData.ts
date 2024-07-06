@@ -43,10 +43,13 @@ export type ScorecardBatter = {
   fallOfWicket?: fallOfWicket;
 };
 
-export type ScorecardBatterWithName = Omit<ScorecardBatter, "fallOfWicket"> &
-  BasicMatchSquadPlayer & {
+export type ScorecardBatterWithInfo = Omit<ScorecardBatter, "fallOfWicket"> &
+  Pick<
+    MatchSquadPlayer,
+    "id" | "name" | "shortName" | "isCaptain" | "isKeeper"
+  > & {
     fallOfWicket?: fallOfWicketWithPlayerInfo;
-  };
+  } & {};
 
 export type DidNotBatBatter = MatchSquadPlayer;
 
@@ -62,7 +65,7 @@ export type ScorecardBowler = {
   isNonStriker?: boolean;
 };
 
-export type ScorecardBowlerWithName = ScorecardBowler & BasicMatchSquadPlayer;
+export type ScorecardBowlerWithInfo = ScorecardBowler & BasicMatchSquadPlayer;
 
 type extraBall = {
   nos: number;
@@ -91,9 +94,9 @@ export type ScorecardInningsRaw = BaseScorecardInnings & {
 export type ScorecardInnings = Omit<BaseScorecardInnings, "teamId"> & {
   team: TeamMatchInfo;
 } & {
-  batters: ScorecardBatterWithName[];
+  batters: ScorecardBatterWithInfo[];
   didNotBatBatters: DidNotBatBatter[];
-  bowlers: ScorecardBowlerWithName[];
+  bowlers: ScorecardBowlerWithInfo[];
 };
 
 export type MatchTossResults = {

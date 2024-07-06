@@ -5,9 +5,9 @@ import {
   MatchTossResults,
   SCORECARD_INNINGS_TYPES,
   ScorecardBatter,
-  ScorecardBatterWithName,
+  ScorecardBatterWithInfo,
   ScorecardBowler,
-  ScorecardBowlerWithName,
+  ScorecardBowlerWithInfo,
 } from "./matchData";
 import { TeamMatchInfo } from "./matches";
 
@@ -49,10 +49,10 @@ export type CommentaryData = Omit<
   | "bowlerNonStriker"
   | "innings"
 > & {
-  batsmanStriker?: ScorecardBatterWithName;
-  batsmanNonStriker?: ScorecardBatterWithName;
-  bowlerStriker?: ScorecardBowlerWithName;
-  bowlerNonStriker?: ScorecardBowlerWithName;
+  batsmanStriker?: ScorecardBatterWithInfo;
+  batsmanNonStriker?: ScorecardBatterWithInfo;
+  bowlerStriker?: ScorecardBowlerWithInfo;
+  bowlerNonStriker?: ScorecardBowlerWithInfo;
 } & {
   innings: (Omit<BaseScorecardInnings, "teamId"> & { team: TeamMatchInfo })[];
 };

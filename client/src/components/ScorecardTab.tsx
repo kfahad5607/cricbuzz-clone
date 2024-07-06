@@ -4,28 +4,40 @@ import { Column } from "../entities/table";
 import useScorecard from "../hooks/useScorecard";
 import {
   fallOfWicketWithPlayerInfo,
-  ScorecardBatterWithName,
-  ScorecardBowlerWithName,
+  ScorecardBatterWithInfo,
+  ScorecardBowlerWithInfo,
   ScorecardInnings as ScorecardInningsType,
 } from "../types/matchData";
 import { DISMISSAL_TYPES } from "../utils/constants";
-import { getEconomyRate, getStrikeRate } from "../utils/helpers";
+import {
+  formatOversToInt,
+  getEconomyRate,
+  getStrikeRate,
+} from "../utils/helpers";
 import MatchStatus from "./MatchStatus";
 import PlayerLink from "./PlayerLink";
 import Table from "./Table";
 
-const batterColumns: Column<ScorecardBatterWithName>[] = [
+const batterColumns: Column<ScorecardBatterWithInfo>[] = [
   {
     title: "Batter",
-    classNames: "w-full",
+    classNames: "w-1/5 mr-2",
     dataKey: "shortName",
-    render: (val) => {
-      return <PlayerLink name={val} />;
+    render: (val, record) => {
+      let designation = "";
+      if (record.isCaptain) designation = "c";
+      if (record.isKeeper) {
+        designation = designation ? designation + " & wk" : "wk";
+      }
+
+      const name = `${val}${designation && ` (${designation})`}`;
+
+      return <PlayerLink name={name} />;
     },
   },
   {
     title: "",
-    classNames: "w-2/6",
+    classNames: "grow",
     dataKey: "fallOfWicket",
     render: (val) => {
       let statement = "not out";
@@ -84,27 +96,27 @@ const batterColumns: Column<ScorecardBatterWithName>[] = [
   },
   {
     title: "R",
-    classNames: "w-12",
+    classNames: "w-12 text-right",
     dataKey: "batRuns",
   },
   {
     title: "B",
-    classNames: "w-12",
+    classNames: "w-12 text-right",
     dataKey: "ballsPlayed",
   },
   {
     title: "4s",
-    classNames: "w-12",
+    classNames: "w-12 text-right",
     dataKey: "batFours",
   },
   {
     title: "6s",
-    classNames: "w-12",
+    classNames: "w-12 text-right",
     dataKey: "batSixes",
   },
   {
     title: "SR",
-    classNames: "w-16",
+    classNames: "w-1/12 ml-2 pr-4 text-right",
     dataKey: "id",
     render: (val, record) => {
       return getStrikeRate(record.batRuns, record.ballsPlayed);
@@ -113,15 +125,14 @@ const batterColumns: Column<ScorecardBatterWithName>[] = [
 ];
 
 const fallOfWicketsColumns: Column<{
-  batters: ScorecardBatterWithName[];
+  batters: ScorecardBatterWithInfo[];
 }>[] = [
   {
     title: "Fall of Wickets",
     classNames: "w-full",
     dataKey: "batters",
     render: (val) => {
-      console.log("val is ", val);
-      const _val = val as ScorecardBatterWithName[];
+      const _val = val as ScorecardBatterWithInfo[];
 
       return _val.map((batter, itemIdx) => {
         const fallOfWicket = batter.fallOfWicket;
@@ -142,10 +153,10 @@ const fallOfWicketsColumns: Column<{
   },
 ];
 
-const bowlerColumns: Column<ScorecardBowlerWithName>[] = [
+const bowlerColumns: Column<ScorecardBowlerWithInfo>[] = [
   {
     title: "Bowler",
-    classNames: "w-full",
+    classNames: "grow",
     dataKey: "shortName",
     render: (val) => {
       return <PlayerLink name={val} />;
@@ -153,37 +164,37 @@ const bowlerColumns: Column<ScorecardBowlerWithName>[] = [
   },
   {
     title: "O",
-    classNames: "w-12",
+    classNames: "w-12 text-right",
     dataKey: "bowlOvers",
   },
   {
     title: "M",
-    classNames: "w-12",
+    classNames: "w-12 text-right",
     dataKey: "bowlMaidens",
   },
   {
     title: "R",
-    classNames: "w-12",
+    classNames: "w-12 text-right",
     dataKey: "bowlRuns",
   },
   {
     title: "W",
-    classNames: "w-12",
+    classNames: "w-12 text-right",
     dataKey: "bowlWickets",
   },
   {
     title: "NB",
-    classNames: "w-12",
+    classNames: "w-12 text-right",
     dataKey: "bowlNoBalls",
   },
   {
     title: "WD",
-    classNames: "w-12",
+    classNames: "w-12 text-right",
     dataKey: "bowlWides",
   },
   {
     title: "ECO",
-    classNames: "w-16",
+    classNames: "w-1/12 ml-2 pr-4 text-right",
     dataKey: "id",
     render: (val, record) => {
       return getEconomyRate(record.bowlRuns, record.bowlOvers);
@@ -201,12 +212,14 @@ const ScorecardInnings = ({ innings }: ScorecardInningsProps) => {
     .filter((batter) => Boolean(batter.fallOfWicket))
     .sort((a, b) => a.fallOfWicket!.teamWickets - b.fallOfWicket!.teamWickets);
 
+  const oversBowled = formatOversToInt(innings.oversBowled);
+
   return (
     <div>
       <div className="flex justify-between bg-gray-600 text-white text-sm px-2 py-2">
         <div>{innings.team.name} Innings</div>
         <div>
-          {innings.score}-{innings.wickets} ({innings.oversBowled} Ov)
+          {innings.score}-{innings.wickets} ({oversBowled} Ov)
         </div>
       </div>
       {/* Scorecard table */}
@@ -228,7 +241,7 @@ const ScorecardInnings = ({ innings }: ScorecardInningsProps) => {
         <div className="mr-5 flex-grow">Total</div>
         <div className="font-bold mr-1">{innings.score}</div>
         <div className="w-1/3 pr-8">
-          ({innings.wickets} wkts, {innings.oversBowled} Ov)
+          ({innings.wickets} wkts, {oversBowled} Ov)
         </div>
       </div>
       {/* total ends */}
@@ -237,12 +250,21 @@ const ScorecardInnings = ({ innings }: ScorecardInningsProps) => {
       <div className="flex justify-between border-t text-sm px-3 py-1.5">
         <div className="mr-5 min-w-fit">Yet to Bat</div>
         <div>
-          {didNotBatBatters.map((batter, batterIdx) => (
-            <Fragment key={batter.id}>
-              <PlayerLink name={batter.name} />
-              {batterIdx + 1 !== didNotBatBatters.length && ", "}
-            </Fragment>
-          ))}
+          {didNotBatBatters.map((batter, batterIdx) => {
+            let designation = "";
+            if (batter.isCaptain) designation = "c";
+            if (batter.isKeeper) {
+              designation = designation ? designation + " & wk" : "wk";
+            }
+            const name = `${batter.name}${designation && ` (${designation})`}`;
+
+            return (
+              <Fragment key={batter.id}>
+                <PlayerLink name={name} />
+                {batterIdx + 1 !== didNotBatBatters.length && ", "}
+              </Fragment>
+            );
+          })}
         </div>
       </div>
       {/* remaining batters ends */}

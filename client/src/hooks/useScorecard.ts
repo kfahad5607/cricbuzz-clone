@@ -9,7 +9,7 @@ import type { ScorecardData, ScorecardDataRaw } from "../types/matchData";
 import type { MatchInfo } from "../types/matches";
 import type { MatchSquadPlayer } from "../types/players";
 import {
-  addPlayerName,
+  addPlayerInfo,
   addPlayerNamesToFow,
   getPlayersMap,
   matchInfoQueryKeys,
@@ -66,12 +66,12 @@ const getScorecardData = async (
 
     const battersWithName = inningsItem.batters.map((batter) => {
       return {
-        ...addPlayerName(batter, playersMap),
+        ...addPlayerInfo(batter, playersMap),
         fallOfWicket: addPlayerNamesToFow(batter.fallOfWicket, playersMap),
       };
     });
     const bowlersWithName = inningsItem.bowlers.map((bowler) => {
-      return addPlayerName(bowler, playersMap);
+      return addPlayerInfo(bowler, playersMap);
     });
 
     return {

@@ -41,7 +41,10 @@ export const getPlayersMap = (
   players: TeamSquadPlayers,
   playersMap: Record<
     number,
-    Pick<MatchSquadPlayer, "id" | "name" | "shortName">
+    Pick<
+      MatchSquadPlayer,
+      "id" | "name" | "shortName" | "isCaptain" | "isKeeper"
+    >
   > = {}
 ) => {
   const playerKeys: (keyof TeamSquadPlayers)[] = [
@@ -56,6 +59,8 @@ export const getPlayersMap = (
         id: player.id,
         name: player.name,
         shortName: player.shortName,
+        isCaptain: player.isCaptain,
+        isKeeper: player.isKeeper,
       };
     });
   });
@@ -75,7 +80,7 @@ export const addPlayerNamesToFow = (
   return { ...fow, helpers, bowler };
 };
 
-export const addPlayerName = <
+export const addPlayerInfo = <
   TPlayer extends Pick<BasicMatchSquadPlayer, "id">
 >(
   player: TPlayer,
