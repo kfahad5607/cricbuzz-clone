@@ -1061,44 +1061,18 @@ export async function getMatchInfo(
       throw new Error(`Match with ID '${matchId}' does not exist.`);
     }
 
-    const matchSquads: MatchSquad<MatchSquadPlayer>[] =
-      await MatchSquads.aggregate([
-        { $match: { matchId } },
-        {
-          $project: {
-            teams: {
-              $map: {
-                input: "$teams",
-                as: "team",
-                in: {
-                  teamId: "$$team.teamId",
-                  players: {
-                    $filter: {
-                      input: "$$team.players",
-                      as: "player",
-                      cond: {
-                        $or: [
-                          { $eq: ["$$player.isPlaying", true] },
-                          { $eq: ["$$player.isInSubs", true] },
-                        ],
-                      },
-                    },
-                  },
-                },
-              },
-            },
-          },
-        },
-      ]);
+    const matchSquad = await MatchSquads.findOne<MatchSquad<MatchSquadPlayer>>({
+      matchId,
+    }).lean();
 
-    if (matchSquads.length === 0) {
+    if (!matchSquad) {
       res.status(400);
       throw new Error("Match squad does not exist.");
     }
 
     const playerIds: DatabaseIntId[] = [];
-    matchSquads[0].teams.forEach((team) => {
-      team.players.map((player) => playerIds.push(player.playerId));
+    matchSquad.teams.forEach((team) => {
+      team.players.map((player) => playerIds.push(player.id));
     });
 
     const playersData = await db
@@ -1117,22 +1091,20 @@ export async function getMatchInfo(
       return acc;
     }, playersInfoMap);
 
-    const squads: TeamSquad<MatchSquadPlayerWithInfo>[] =
-      matchSquads[0].teams.map(
-        (team): { teamId: number; players: MatchSquadPlayerWithInfo[] } => {
-          team.players = team.players.map(
-            (player): MatchSquadPlayerWithInfo => {
-              let playerWithInfo: MatchSquadPlayerWithInfo = {
-                ...player,
-                ...playersInfoMap[player.playerId],
-              };
-              return playerWithInfo;
-            }
-          );
+    const squads: TeamSquad<MatchSquadPlayerWithInfo>[] = matchSquad.teams.map(
+      (team): { teamId: number; players: MatchSquadPlayerWithInfo[] } => {
+        team.players = team.players.map((player): MatchSquadPlayerWithInfo => {
+          let playerWithInfo: MatchSquadPlayerWithInfo = {
+            ...player,
+            ...playersInfoMap[player.id],
+          };
 
-          return team;
-        }
-      );
+          return playerWithInfo;
+        });
+
+        return team;
+      }
+    );
 
     const matchDataWithSquads: typeof matchData & {
       squads: TeamSquad<MatchSquadPlayerWithInfo>[];
@@ -1191,6 +1163,7 @@ export async function addMatchPlayer(
       id: "DatabaseIntIdParam";
       teamId: "DatabaseIntIdParam";
     }>,
+    {},
     MatchSquadPlayer
   >,
   res: Response,
@@ -1200,7 +1173,7 @@ export async function addMatchPlayer(
     const matchId = parseInt(req.params.id);
     const teamId = parseInt(req.params.teamId);
     const player = req.body;
-    const { playerId } = player;
+    const { id: playerId } = player;
 
     // verify if player exists
     const playerExists = await db
@@ -1223,10 +1196,7 @@ export async function addMatchPlayer(
         },
       },
       {
-        arrayFilters: [
-          { "team.teamId": teamId },
-          { "player.playerId": player.playerId },
-        ],
+        arrayFilters: [{ "team.teamId": teamId }, { "player.id": playerId }],
       }
     );
 
@@ -1275,7 +1245,7 @@ export async function removeMatchPlayer(
       {
         $pull: {
           "teams.$.players": {
-            playerId,
+            id: playerId,
           },
         },
       }
@@ -1303,7 +1273,7 @@ export async function updateMatchPlayer(
     const matchId = parseInt(req.params.id);
     const teamId = parseInt(req.params.teamId);
     const player = req.body;
-    const { playerId } = player;
+    const { id: playerId } = player;
 
     type UpdateMatchSquadPlayerType = UpdateDocType<
       MatchSquadPlayerOptional,
@@ -1324,10 +1294,7 @@ export async function updateMatchPlayer(
         $set: updateQuery,
       },
       {
-        arrayFilters: [
-          { "team.teamId": teamId },
-          { "player.playerId": playerId },
-        ],
+        arrayFilters: [{ "team.teamId": teamId }, { "player.id": playerId }],
       }
     );
 
@@ -1360,7 +1327,7 @@ export async function getMatchPlayers(
 
     const playerIds: DatabaseIntId[] = [];
     results.teams.forEach((team) => {
-      team.players.map((player) => playerIds.push(player.playerId));
+      team.players.map((player) => playerIds.push(player.id));
     });
 
     const playersData = await db
@@ -1384,7 +1351,7 @@ export async function getMatchPlayers(
         team.players = team.players.map((player): MatchSquadPlayerWithInfo => {
           let playerWithInfo: MatchSquadPlayerWithInfo = {
             ...player,
-            ...playersInfoMap[player.playerId],
+            ...playersInfoMap[player.id],
           };
           return playerWithInfo;
         });
