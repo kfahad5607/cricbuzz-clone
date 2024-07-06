@@ -1,4 +1,4 @@
-import { MatchSquadPlayer } from "../types/players";
+import type { MatchSquadPlayer } from "../types/players";
 import SquadPlayerListItem from "./SquadPlayerListItem";
 
 interface TeamSquad {

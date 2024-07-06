@@ -2,7 +2,7 @@ import { useParams } from "react-router-dom";
 import { Fragment } from "react/jsx-runtime";
 import { Column } from "../entities/table";
 import useScorecard from "../hooks/useScorecard";
-import {
+import type {
   fallOfWicketWithPlayerInfo,
   ScorecardBatterWithInfo,
   ScorecardBowlerWithInfo,

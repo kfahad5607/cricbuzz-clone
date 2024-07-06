@@ -92,7 +92,7 @@ export const addPlayerInfo = <
 
 const useMatchInfo = <TData = MatchInfo>(
   matchId: number,
-  select: SelectType<TData>
+  select?: SelectType<TData>
 ) =>
   useQuery<MatchInfo, Error, TData>({
     queryKey: matchInfoQueryKeys.matchInfo(matchId),

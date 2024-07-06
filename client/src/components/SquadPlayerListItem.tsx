@@ -1,4 +1,4 @@
-import { MatchSquadPlayer } from "../types/players";
+import type { MatchSquadPlayer } from "../types/players";
 import { PLAYER_ROLES_MAP } from "../utils/constants";
 import OverseasPlayerIcon from "./icons/OverseasPlayerIcon";
 import { SwapIcon } from "./icons/SwapIcon";

@@ -1,6 +1,5 @@
-import { CommentaryItem } from "../types/commentary";
+import type { CommentaryItem } from "../types/commentary";
 import { formatOversToFloat } from "../utils/helpers";
-import OverSummary from "./OverSummary";
 
 interface Props {
   commentaryList: CommentaryItem[];

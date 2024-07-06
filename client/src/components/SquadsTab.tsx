@@ -1,9 +1,7 @@
-import { useQuery } from "@tanstack/react-query";
 import { ReactNode, useRef } from "react";
 import { useParams } from "react-router-dom";
-import apiClient from "../services/api-client";
-import { TeamSquad } from "../types/matches";
-import { MatchSquadPlayer } from "../types/players";
+import useMatchInfo from "../hooks/useMatchInfo";
+import type { MatchSquadPlayer } from "../types/players";
 import SquadPlayerList from "./SquadPlayerList";
 import OverseasPlayerIcon from "./icons/OverseasPlayerIcon";
 import { SwapIcon } from "./icons/SwapIcon";
@@ -27,15 +25,11 @@ const legendsList: {
 ];
 
 const SquadsTab = () => {
-  const { matchId } = useParams();
+  const params = useParams();
+  const matchId = parseInt(params.matchId!);
   const showLegendsRef = useRef(false);
 
-  const { data, error, isLoading } = useQuery<TeamSquad[]>({
-    queryKey: ["matchSquadsPlayers", matchId],
-    queryFn: () =>
-      apiClient.get(`matches/${matchId}/players`).then((res) => res.data),
-    retry: 1,
-  });
+  const { data, error, isLoading } = useMatchInfo(matchId);
 
   if (isLoading)
     return <div className="text-center mx-2 my-3 text-xl">Loading...</div>;
@@ -53,10 +47,10 @@ const SquadsTab = () => {
       title: "Playing XI",
       teams: [
         {
-          players: [],
+          players: data.homeTeam.players.playingXi,
         },
         {
-          players: [],
+          players: data.awayTeam.players.playingXi,
         },
       ],
     },
@@ -64,10 +58,10 @@ const SquadsTab = () => {
       title: "Substitutes",
       teams: [
         {
-          players: [],
+          players: data.homeTeam.players.substitutes,
         },
         {
-          players: [],
+          players: data.awayTeam.players.substitutes,
         },
       ],
     },
@@ -75,33 +69,19 @@ const SquadsTab = () => {
       title: "Bench",
       teams: [
         {
-          players: [],
+          players: data.homeTeam.players.bench,
         },
         {
-          players: [],
+          players: data.awayTeam.players.bench,
         },
       ],
     },
   ];
 
-  data.forEach((team, teamIdx) => {
-    let _showLegends = false;
-    team.players.forEach((player) => {
-      if (player.isPlaying) squadLists[0].teams[teamIdx].players.push(player);
-      else if (player.isInSubs)
-        squadLists[1].teams[teamIdx].players.push(player);
-      else if (!player.isPlaying)
-        squadLists[2].teams[teamIdx].players.push(player);
-
-      _showLegends ||= !!(
-        player.isSubstitute ||
-        player.isSubstituted ||
-        player.isForeignPlayer
-      );
-    });
-
-    showLegendsRef.current = _showLegends;
-  });
+  showLegendsRef.current = Boolean(
+    data.homeTeam.players.substitutes.length +
+      data.awayTeam.players.substitutes.length
+  );
 
   return (
     <>

@@ -2,7 +2,7 @@ import dayjs from "dayjs";
 import slugify from "slugify";
 import teamOne from "../assets/images/team-1.webp";
 import teamTwo from "../assets/images/team-2.webp";
-import { MatchCard } from "../types/matches";
+import type { MatchCard } from "../types/matches";
 import { DATE_TIME_FORMAT } from "../utils/constants";
 import MatchStatus from "./MatchStatus";
 import { Link } from "react-router-dom";

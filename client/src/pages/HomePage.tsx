@@ -1,7 +1,7 @@
 import { useQuery } from "@tanstack/react-query";
 import MatchPreviewCard from "../components/MatchPreviewCard";
 import apiClient from "../services/api-client";
-import { MatchCard } from "../types/matches";
+import type { MatchCard } from "../types/matches";
 
 const HomePage = () => {
   const { data, isLoading, error } = useQuery<MatchCard[]>({

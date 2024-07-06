@@ -5,8 +5,8 @@ import {
   useLatestCommentary,
   useOlderCommentary,
 } from "../hooks/useCommentary";
-import { CommentaryData } from "../types/commentary";
-import {
+import type { CommentaryData } from "../types/commentary";
+import type {
   ScorecardBatterWithInfo,
   ScorecardBowlerWithInfo,
 } from "../types/matchData";
