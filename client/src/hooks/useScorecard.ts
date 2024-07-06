@@ -118,7 +118,18 @@ const getScorecardData = async (
     });
 
     return {
-      ...inningsItem,
+      overs: inningsItem.overs,
+      oversBowled: inningsItem.oversBowled,
+      score: inningsItem.score,
+      wickets: inningsItem.wickets,
+      isDeclared: inningsItem.isDeclared,
+      isFollowOn: inningsItem.isFollowOn,
+      extras: inningsItem.extras,
+      team: {
+        id: team.id,
+        name: team.name,
+        shortName: team.shortName,
+      },
       batters: battersWithName,
       bowlers: bowlersWithName,
       didNotBatBatters,

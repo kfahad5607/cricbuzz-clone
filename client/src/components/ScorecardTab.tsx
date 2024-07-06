@@ -204,7 +204,7 @@ const ScorecardInnings = ({ innings }: ScorecardInningsProps) => {
   return (
     <div>
       <div className="flex justify-between bg-gray-600 text-white text-sm px-2 py-2">
-        <div>{innings.teamId} Innings</div>
+        <div>{innings.team.name} Innings</div>
         <div>
           {innings.score}-{innings.wickets} ({innings.oversBowled} Ov)
         </div>

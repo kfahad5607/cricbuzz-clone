@@ -4,6 +4,7 @@ import {
   MATCH_STATES_VALUES,
   TOSS_DECISIONS_VALUES,
 } from "../utils/constants";
+import { TeamMatchInfo } from "./matches";
 import { BasicMatchSquadPlayer, MatchSquadPlayer } from "./players";
 
 // const
@@ -87,7 +88,9 @@ export type ScorecardInningsRaw = BaseScorecardInnings & {
   bowlers: ScorecardBowler[];
 };
 
-export type ScorecardInnings = BaseScorecardInnings & {
+export type ScorecardInnings = Omit<BaseScorecardInnings, "teamId"> & {
+  team: TeamMatchInfo;
+} & {
   batters: ScorecardBatterWithName[];
   didNotBatBatters: DidNotBatBatter[];
   bowlers: ScorecardBowlerWithName[];
