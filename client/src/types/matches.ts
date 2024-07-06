@@ -1,4 +1,4 @@
-import { MATCH_FORMATS_VALUES, MATCH_STATES_VALUES } from "../utils/constants";
+import { MATCH_FORMATS_VALUES } from "../utils/constants";
 import { MatchSquadPlayer } from "./players";
 
 export type MatchCard = {
@@ -40,18 +40,31 @@ export type TeamMatchInfo = {
   shortName: string;
 };
 
-export type MatchInfo = {
+export type TeamSquadPlayers = {
+  playingXi: MatchSquadPlayer[];
+  substitutes: MatchSquadPlayer[];
+  bench: MatchSquadPlayer[];
+};
+
+export type TeamMatchInfoWithPlayers = TeamMatchInfo & {
+  players: TeamSquadPlayers;
+};
+
+export type MatchInfoRaw = {
   id: number;
-  slug: string;
   description: string;
   matchFormat: (typeof MATCH_FORMATS_VALUES)[number];
   startTime: string;
-  status: (typeof MATCH_STATES_VALUES)[number];
   series: SeriesMatchInfo;
   venue: VenueMatchInfo;
   homeTeam: TeamMatchInfo;
   awayTeam: TeamMatchInfo;
   squads: TeamSquad[];
+};
+
+export type MatchInfo = Omit<MatchInfoRaw, "squads"> & {
+  homeTeam: TeamMatchInfoWithPlayers;
+  awayTeam: TeamMatchInfoWithPlayers;
 };
 
 export type TeamSquad = {

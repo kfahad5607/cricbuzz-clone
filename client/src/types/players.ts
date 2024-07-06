@@ -10,10 +10,13 @@ type PlayerRoleInfo = {
   bowlStyle: (typeof PLAYER_BOWL_STYLES_VALUES)[number];
 };
 
-export type MatchSquadPlayer = {
-  playerId: number;
+export type BasicMatchSquadPlayer = {
+  id: number;
   name: string;
   shortName: string;
+};
+
+export type MatchSquadPlayer = BasicMatchSquadPlayer & {
   slug: string;
   roleInfo: PlayerRoleInfo;
   isPlaying?: boolean;

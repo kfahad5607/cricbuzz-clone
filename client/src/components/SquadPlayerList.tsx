@@ -17,16 +17,12 @@ const SquadPlayerList = ({ title, teams }: Props) => {
       <div className="flex">
         <div className="w-1/2 border-r border-gray-300">
           {teams[0].players.map((player) => (
-            <SquadPlayerListItem key={player.playerId} player={player} />
+            <SquadPlayerListItem key={player.id} player={player} />
           ))}
         </div>
         <div className="w-1/2 border-l border-gray-300">
           {teams[1].players.map((player) => (
-            <SquadPlayerListItem
-              key={player.playerId}
-              player={player}
-              reversed
-            />
+            <SquadPlayerListItem key={player.id} player={player} reversed />
           ))}
         </div>
       </div>

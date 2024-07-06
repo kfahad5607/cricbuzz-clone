@@ -4,6 +4,7 @@ import {
   MATCH_STATES_VALUES,
   TOSS_DECISIONS_VALUES,
 } from "../utils/constants";
+import { BasicMatchSquadPlayer, MatchSquadPlayer } from "./players";
 
 // const
 export const SCORECARD_INNINGS_TYPES = [
@@ -22,6 +23,14 @@ export type fallOfWicket = {
   helpers: number[];
 };
 
+export type fallOfWicketWithPlayerInfo = Omit<
+  fallOfWicket,
+  "bowlerId" | "helpers"
+> & {
+  bowler?: BasicMatchSquadPlayer;
+  helpers: BasicMatchSquadPlayer[];
+};
+
 export type ScorecardBatter = {
   id: number;
   batRuns: number;
@@ -32,6 +41,13 @@ export type ScorecardBatter = {
   isStriker?: boolean;
   fallOfWicket?: fallOfWicket;
 };
+
+export type ScorecardBatterWithName = Omit<ScorecardBatter, "fallOfWicket"> &
+  BasicMatchSquadPlayer & {
+    fallOfWicket?: fallOfWicketWithPlayerInfo;
+  };
+
+export type DidNotBatBatter = MatchSquadPlayer;
 
 export type ScorecardBowler = {
   id: number;
@@ -44,6 +60,8 @@ export type ScorecardBowler = {
   isStriker?: boolean;
   isNonStriker?: boolean;
 };
+
+export type ScorecardBowlerWithName = ScorecardBowler & BasicMatchSquadPlayer;
 
 type extraBall = {
   nos: number;
@@ -64,9 +82,15 @@ export type BaseScorecardInnings = {
   extras: extraBall;
 };
 
-export type ScorecardInnings = BaseScorecardInnings & {
+export type ScorecardInningsRaw = BaseScorecardInnings & {
   batters: ScorecardBatter[];
   bowlers: ScorecardBowler[];
+};
+
+export type ScorecardInnings = BaseScorecardInnings & {
+  batters: ScorecardBatterWithName[];
+  didNotBatBatters: DidNotBatBatter[];
+  bowlers: ScorecardBowlerWithName[];
 };
 
 export type MatchTossResults = {
@@ -82,7 +106,13 @@ export type MatchResults = {
   winningTeamId?: number;
 };
 
-export type ScorecardData = {
+export type ScorecardDataRaw = {
+  innings: ScorecardInningsRaw[];
+  state: (typeof MATCH_STATES_VALUES)[number];
+  status: string;
+};
+
+export type ScorecardData = Omit<ScorecardDataRaw, "innings"> & {
   innings: ScorecardInnings[];
   state: (typeof MATCH_STATES_VALUES)[number];
   status: string;
