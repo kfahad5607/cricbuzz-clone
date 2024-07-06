@@ -5,7 +5,18 @@ import {
   useQueryClient,
 } from "@tanstack/react-query";
 import apiClient from "../services/api-client";
-import { CommentaryData, CommentaryItem } from "../types/commentary";
+import type {
+  CommentaryData,
+  CommentaryDataRaw,
+  CommentaryItem,
+} from "../types/commentary";
+import type { MatchInfo } from "../types/matches";
+import {
+  addPlayerName,
+  addPlayerNamesToFow,
+  getPlayersMap,
+  matchInfoQueryKeys,
+} from "./useMatchInfo";
 
 // types
 type QueryKeyMatch = ReturnType<typeof commentaryQueryKeys.match>;
@@ -36,7 +47,7 @@ const getLatestCommentary = async (
   queryClient: QueryClient
 ) => {
   const [, matchId] = context.queryKey;
-  const response = await apiClient.get<CommentaryData>(
+  const response = await apiClient.get<CommentaryDataRaw>(
     `matches/${matchId}/commentary`
   );
 
@@ -44,16 +55,81 @@ const getLatestCommentary = async (
     context.queryKey
   );
 
+  const matchInfo = await queryClient.ensureQueryData<MatchInfo>({
+    queryKey: matchInfoQueryKeys.matchInfo(matchId),
+  });
+
+  const data = response.data;
   if (existingData) {
-    response.data.commentaryList = mergeCommentaryLists(
-      response.data.commentaryList,
+    data.commentaryList = mergeCommentaryLists(
+      data.commentaryList,
       existingData.commentaryList
     );
-    response.data.lastFetchedInnings = existingData.lastFetchedInnings;
-    response.data.hasMore = existingData.hasMore;
+    data.lastFetchedInnings = existingData.lastFetchedInnings;
+    data.hasMore = existingData.hasMore;
   }
 
-  return response.data;
+  const playersMap = getPlayersMap(matchInfo.homeTeam.players);
+  getPlayersMap(matchInfo.awayTeam.players, playersMap);
+
+  const batsmanStriker = data.batsmanStriker
+    ? {
+        ...addPlayerName(data.batsmanStriker, playersMap),
+        fallOfWicket: addPlayerNamesToFow(
+          data.batsmanStriker.fallOfWicket,
+          playersMap
+        ),
+      }
+    : undefined;
+
+  const batsmanNonStriker = data.batsmanNonStriker
+    ? {
+        ...addPlayerName(data.batsmanNonStriker, playersMap),
+        fallOfWicket: addPlayerNamesToFow(
+          data.batsmanNonStriker.fallOfWicket,
+          playersMap
+        ),
+      }
+    : undefined;
+
+  const bowlerStriker = data.bowlerStriker
+    ? addPlayerName(data.bowlerStriker, playersMap)
+    : undefined;
+
+  const bowlerNonStriker = data.bowlerNonStriker
+    ? addPlayerName(data.bowlerNonStriker, playersMap)
+    : undefined;
+
+  const innings = data.innings.map((inningsItem) => {
+    const team =
+      inningsItem.teamId === matchInfo.homeTeam.id
+        ? matchInfo.homeTeam
+        : matchInfo.awayTeam;
+
+    return {
+      team: {
+        id: team.id,
+        name: team.name,
+        shortName: team.shortName,
+      },
+      overs: inningsItem.overs,
+      oversBowled: inningsItem.oversBowled,
+      score: inningsItem.score,
+      wickets: inningsItem.wickets,
+      isDeclared: inningsItem.isDeclared,
+      isFollowOn: inningsItem.isFollowOn,
+      extras: inningsItem.extras,
+    };
+  });
+
+  return {
+    ...data,
+    innings,
+    batsmanStriker,
+    batsmanNonStriker,
+    bowlerStriker,
+    bowlerNonStriker,
+  };
 };
 
 export const getOlderCommentary = async (
@@ -72,16 +148,16 @@ export const getOlderCommentary = async (
       .timestamp;
   const inningsType = existingData.lastFetchedInnings;
 
-  const response = await apiClient.get<CommentaryData>(
+  const response = await apiClient.get<CommentaryDataRaw>(
     `matches/${matchId}/commentary-pagination/${inningsType}/${timestamp}`
   );
 
-  response.data.commentaryList = mergeCommentaryLists(
+  existingData.commentaryList = mergeCommentaryLists(
     existingData.commentaryList,
     response.data.commentaryList
   );
 
-  return response.data;
+  return existingData;
 };
 
 export const useLatestCommentary = (matchId: number) => {

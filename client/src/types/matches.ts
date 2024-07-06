@@ -36,7 +36,6 @@ type VenueMatchInfo = {
 export type TeamMatchInfo = {
   id: number;
   name: string;
-  // slug: string;
   shortName: string;
 };
 

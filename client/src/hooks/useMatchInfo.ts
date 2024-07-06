@@ -1,11 +1,13 @@
 import { useQuery } from "@tanstack/react-query";
 import apiClient from "../services/api-client";
-import {
+import type {
   MatchInfo,
   MatchInfoRaw,
   TeamMatchInfoWithPlayers,
+  TeamSquadPlayers,
 } from "../types/matches";
-import { MatchSquadPlayer } from "../types/players";
+import type { BasicMatchSquadPlayer, MatchSquadPlayer } from "../types/players";
+import type { fallOfWicket } from "../types/matchData";
 
 type SelectType<TData> = (data: MatchInfo) => TData;
 
@@ -34,6 +36,54 @@ const transformPlayersList = (players: MatchSquadPlayer[]) => {
     bench,
   };
 };
+
+export const getPlayersMap = (
+  players: TeamSquadPlayers,
+  playersMap: Record<
+    number,
+    Pick<MatchSquadPlayer, "id" | "name" | "shortName">
+  > = {}
+) => {
+  const playerKeys: (keyof TeamSquadPlayers)[] = [
+    "playingXi",
+    "substitutes",
+    "bench",
+  ];
+
+  playerKeys.forEach((key) => {
+    players[key].forEach((player) => {
+      playersMap[player.id] = {
+        id: player.id,
+        name: player.name,
+        shortName: player.shortName,
+      };
+    });
+  });
+
+  return playersMap;
+};
+
+export const addPlayerNamesToFow = (
+  fow: fallOfWicket | undefined,
+  playersMap: ReturnType<typeof getPlayersMap>
+) => {
+  if (!fow) return undefined;
+
+  const bowler = fow.bowlerId ? playersMap[fow.bowlerId] : undefined;
+  const helpers = fow.helpers.map((helperId) => playersMap[helperId]);
+
+  return { ...fow, helpers, bowler };
+};
+
+export const addPlayerName = <
+  TPlayer extends Pick<BasicMatchSquadPlayer, "id">
+>(
+  player: TPlayer,
+  playersMap: ReturnType<typeof getPlayersMap>
+) => ({
+  ...player,
+  ...playersMap[player.id],
+});
 
 const useMatchInfo = <TData = MatchInfo>(
   matchId: number,

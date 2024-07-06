@@ -5,6 +5,11 @@ import {
   useLatestCommentary,
   useOlderCommentary,
 } from "../hooks/useCommentary";
+import { CommentaryData } from "../types/commentary";
+import {
+  ScorecardBatterWithName,
+  ScorecardBowlerWithName,
+} from "../types/matchData";
 import { MATCH_STATES } from "../utils/constants";
 import {
   formatOversToInt,
@@ -13,21 +18,17 @@ import {
   getStrikeRate,
   oversToballNum,
 } from "../utils/helpers";
-import { getTeamById } from "../utils/query";
 import Commentary from "./Commentary";
 import MatchStatus, { StatusColor } from "./MatchStatus";
 import PlayerLink from "./PlayerLink";
-import Spinner from "./elements/Spinner";
-import { CommentaryData } from "../types/commentary";
-import { TeamMatchInfo } from "../types/matches";
 import Table from "./Table";
-import { ScorecardBatter, ScorecardBowler } from "../types/matchData";
+import Spinner from "./elements/Spinner";
 
-const battersColumns: Column<ScorecardBatter>[] = [
+const batterColumns: Column<ScorecardBatterWithName>[] = [
   {
     title: "Batter",
     classNames: "w-full",
-    dataKey: "id",
+    dataKey: "name",
     render: (val) => {
       return <PlayerLink name={val} />;
     },
@@ -62,11 +63,11 @@ const battersColumns: Column<ScorecardBatter>[] = [
   },
 ];
 
-const bowlersColumns: Column<ScorecardBowler>[] = [
+const bowlerColumns: Column<ScorecardBowlerWithName>[] = [
   {
     title: "Bowler",
     classNames: "w-full",
-    dataKey: "id",
+    dataKey: "name",
     render: (val) => {
       return <PlayerLink name={val} />;
     },
@@ -106,21 +107,11 @@ interface Props {
 }
 
 const MatchScoreHeader = ({ data }: Props) => {
-  const params = useParams();
-  const matchId = parseInt(params.matchId!);
-
-  const teams: Record<number, TeamMatchInfo> = {};
-
-  data.innings.forEach((i) => {
-    const team = getTeamById(i.teamId, matchId);
-    if (team) teams[i.teamId] = team;
-  });
-
-  const batters: ScorecardBatter[] = [];
+  const batters: ScorecardBatterWithName[] = [];
   if (data.batsmanStriker) batters.push(data.batsmanStriker);
   if (data.batsmanNonStriker) batters.push(data.batsmanNonStriker);
 
-  const bowlers: ScorecardBowler[] = [];
+  const bowlers: ScorecardBowlerWithName[] = [];
   if (data.bowlerStriker) bowlers.push(data.bowlerStriker);
   if (data.bowlerNonStriker) bowlers.push(data.bowlerNonStriker);
 
@@ -151,9 +142,7 @@ const MatchScoreHeader = ({ data }: Props) => {
     header = (
       <div className="flex items-end">
         <div className="font-bold text-xl leading-5">
-          <span className="uppercase">
-            {teams[data.innings[0].teamId]?.shortName}
-          </span>{" "}
+          <span className="uppercase">{data.innings[0].team.shortName}</span>{" "}
           {data.innings[0].score}/{data.innings[0].wickets} (
           {formatOversToInt(data.innings[0].oversBowled)})
         </div>
@@ -180,17 +169,13 @@ const MatchScoreHeader = ({ data }: Props) => {
     header = (
       <div>
         <div className={`"text-gray-500 ${classNames}`}>
-          <span className="uppercase">
-            {teams[data.innings[0].teamId]?.shortName}
-          </span>{" "}
+          <span className="uppercase">{data.innings[0].team.shortName}</span>{" "}
           {data.innings[0].score}/{data.innings[0].wickets} (
           {formatOversToInt(data.innings[0].oversBowled)})
         </div>
         <div className="flex items-end">
           <div className="font-bold text-xl leading-5">
-            <span className="uppercase">
-              {teams[data.innings[1].teamId]?.shortName}
-            </span>{" "}
+            <span className="uppercase">{data.innings[1].team.shortName}</span>{" "}
             {data.innings[1].score}/{data.innings[1].wickets} (
             {formatOversToInt(data.innings[1].oversBowled)})
           </div>
@@ -232,8 +217,8 @@ const MatchScoreHeader = ({ data }: Props) => {
         </div>
       )}
       <div className="mt-3">
-        <Table data={batters} columns={battersColumns} />
-        <Table data={bowlers} columns={bowlersColumns} />
+        <Table data={batters} columns={batterColumns} />
+        <Table data={bowlers} columns={bowlerColumns} />
       </div>
     </div>
   );

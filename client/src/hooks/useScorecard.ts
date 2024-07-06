@@ -5,46 +5,21 @@ import {
   useQueryClient,
 } from "@tanstack/react-query";
 import apiClient from "../services/api-client";
+import type { ScorecardData, ScorecardDataRaw } from "../types/matchData";
+import type { MatchInfo } from "../types/matches";
+import type { MatchSquadPlayer } from "../types/players";
 import {
-  fallOfWicketWithPlayerInfo,
-  ScorecardData,
-  ScorecardDataRaw,
-} from "../types/matchData";
-import { MatchInfo, TeamSquadPlayers } from "../types/matches";
-import { MatchSquadPlayer } from "../types/players";
-import { matchInfoQueryKeys } from "./useMatchInfo";
+  addPlayerName,
+  addPlayerNamesToFow,
+  getPlayersMap,
+  matchInfoQueryKeys,
+} from "./useMatchInfo";
 
 // types
 type QueryKeyMatch = ReturnType<typeof queryKeys.match>;
 
 export const queryKeys = {
   match: (id: number) => ["scorecard", id] as const,
-};
-
-const getPlayersMap = (
-  players: TeamSquadPlayers,
-  playersMap: Record<
-    number,
-    Pick<MatchSquadPlayer, "id" | "name" | "shortName">
-  > = {}
-) => {
-  const playerKeys: (keyof TeamSquadPlayers)[] = [
-    "playingXi",
-    "substitutes",
-    "bench",
-  ];
-
-  playerKeys.forEach((key) => {
-    players[key].forEach((player) => {
-      playersMap[player.id] = {
-        id: player.id,
-        name: player.name,
-        shortName: player.shortName,
-      };
-    });
-  });
-
-  return playersMap;
 };
 
 const getScorecardData = async (
@@ -62,7 +37,6 @@ const getScorecardData = async (
   });
 
   const _data = res.data;
-
   const playersMap = getPlayersMap(matchInfo.homeTeam.players);
   getPlayersMap(matchInfo.awayTeam.players, playersMap);
 
@@ -91,30 +65,13 @@ const getScorecardData = async (
     });
 
     const battersWithName = inningsItem.batters.map((batter) => {
-      const fallOfWicket = batter.fallOfWicket;
-      let _fallOfWicket: fallOfWicketWithPlayerInfo | undefined = undefined;
-      if (fallOfWicket) {
-        const bowler = fallOfWicket.bowlerId
-          ? playersMap[fallOfWicket.bowlerId]
-          : undefined;
-        const helpers = fallOfWicket.helpers.map(
-          (helperId) => playersMap[helperId]
-        );
-
-        _fallOfWicket = { ...fallOfWicket, helpers, bowler };
-      }
-
       return {
-        ...batter,
-        ...playersMap[batter.id],
-        fallOfWicket: _fallOfWicket,
+        ...addPlayerName(batter, playersMap),
+        fallOfWicket: addPlayerNamesToFow(batter.fallOfWicket, playersMap),
       };
     });
     const bowlersWithName = inningsItem.bowlers.map((bowler) => {
-      return {
-        ...bowler,
-        ...playersMap[bowler.id],
-      };
+      return addPlayerName(bowler, playersMap);
     });
 
     return {
