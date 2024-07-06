@@ -4,7 +4,7 @@ import { MatchSquad, MatchSquadPlayer } from "../../../types";
 
 const squadPlayerSchema = new Schema(
   {
-    playerId: DBIdType,
+    id: DBIdType,
     isPlaying: Boolean,
     isInSubs: Boolean,
     isIncluded: Boolean,

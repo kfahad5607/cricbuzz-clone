@@ -44,7 +44,7 @@ export const PlayerWithId = Player.extend({
 });
 
 export const MatchSquadPlayer = z.object({
-  playerId: z.coerce.number().positive(),
+  id: z.coerce.number().positive(),
   isPlaying: z.boolean().optional(),
   isInSubs: z.boolean().optional(),
   isIncluded: z.boolean().optional(),
@@ -57,12 +57,12 @@ export const MatchSquadPlayer = z.object({
 });
 
 export const MatchSquadPlayerOptional = MatchSquadPlayer.partial({
-  playerId: true,
+  id: true,
 });
 export const MatchSquadPlayerWithInfo = MatchSquadPlayerOptional.merge(
   PlayerOptional
 ).required({
-  playerId: true,
+  id: true,
 });
 
 export type RoleInfo = z.infer<typeof RoleInfo>;

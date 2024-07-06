@@ -157,10 +157,6 @@ const seedMatch = async (seriesId: number, matchId: number) => {
       venue: venueIdsMap[infoData.venue],
       startTime: new Date(infoData.startTime),
       completeTime: new Date(infoData.completeTime),
-      // state: infoData.state,
-      // status: "",
-      // tossResults: tossResults,
-      // results: matchResults,
     };
 
     const insertedMatch = await db
@@ -174,12 +170,12 @@ const seedMatch = async (seriesId: number, matchId: number) => {
 
     homeTeamSquad.teamId = teamIdsMap[homeTeamSquad.teamId];
     homeTeamSquad.players.forEach((player) => {
-      player.playerId = playerIdsMap[player.playerId];
+      player.id = playerIdsMap[player.id];
     });
 
     awayTeamSquad.teamId = teamIdsMap[awayTeamSquad.teamId];
     awayTeamSquad.players.forEach((player) => {
-      player.playerId = playerIdsMap[player.playerId];
+      player.id = playerIdsMap[player.id];
     });
 
     const matchSquad: MatchSquad<MatchSquadPlayer> = {
@@ -198,6 +194,16 @@ const seedMatch = async (seriesId: number, matchId: number) => {
 
       currentInnings.batters.forEach((batter) => {
         batter.id = playerIdsMap[batter.id];
+
+        const fallOfWicket = batter.fallOfWicket;
+        if (fallOfWicket) {
+          if (fallOfWicket.bowlerId) {
+            fallOfWicket.bowlerId = playerIdsMap[fallOfWicket.bowlerId];
+          }
+          fallOfWicket.helpers = fallOfWicket.helpers.map(
+            (id) => playerIdsMap[id]
+          );
+        }
       });
 
       currentInnings.bowlers.forEach((bowler) => {
@@ -250,7 +256,7 @@ const seedMatch = async (seriesId: number, matchId: number) => {
   }
 };
 
-export const seedSeriesMatches = async (seriesId: number) => {
+const seedSeriesMatches = async (seriesId: number) => {
   try {
     const path = `${BASE_PATH}${seriesId}/matches`;
     const matchIds = await readDirectory(path);

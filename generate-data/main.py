@@ -173,7 +173,7 @@ def get_team_squad_players(team_player_els, attrs, team_type='homeTeam'):
             player_url = player.attrs['href']
             player_id = get_param_from_url(url=player_url, pos=2)
             player_data = {
-                'playerId': player_id,
+                'id': player_id,
             } 
 
             if player_id not in existing_data:
@@ -554,9 +554,9 @@ def get_player_id_by_name(name, lookup_data):
         _name = name.lower()
         for item in lookup_data:
             if _name in item['name']:
-                return int(item['playerId'])
+                return int(item['id'])
             elif _name.split(' ')[-1] in item['name']: # prone to incorrect data
-                return int(item['playerId'])
+                return int(item['id'])
         
     except Exception as e:
         print("ERROR in get_player_id_by_name", e.args)
