@@ -94,4 +94,26 @@ export type FullCommentaryData = Omit<
   tossResults: MatchTossResultsWithInfo;
 };
 
+export type HighlightsDataRaw = {
+  teamId: number;
+  currentInnings: ScorecardInningsTypes;
+  innings: {
+    teamId: TeamMatchInfo["id"];
+  }[];
+  commentaryList: CommentaryItem[];
+};
+
+export type HighlightsDataInnings = {
+  inningsType: ScorecardInningsTypes;
+  teamInningsNo: number;
+  team: TeamMatchInfo;
+};
+
+export type HighlightsData = Omit<HighlightsDataRaw, "innings"> & {
+  teamId: number;
+  currentInnings: ScorecardInningsTypes;
+  innings: HighlightsDataInnings[];
+  commentaryList: CommentaryItem[];
+};
+
 export type CommentaryInningsTypes = (typeof COMMENTARY_INNINGS_TYPES)[number];

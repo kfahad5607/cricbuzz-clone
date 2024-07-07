@@ -17,6 +17,10 @@ const tabs: TabLinkType[] = [
     link: "squads",
   },
   {
+    title: "Highlights",
+    link: "highlights",
+  },
+  {
     title: "Full Commentary",
     link: "full-commentary",
   },

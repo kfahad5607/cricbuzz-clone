@@ -6,6 +6,7 @@ import CommentaryTab from "./components/CommentaryTab";
 import ScorecardTab from "./components/ScorecardTab";
 import SquadsTab from "./components/SquadsTab";
 import FullCommentaryTab from "./components/FullCommentaryTab";
+import HighlightsTab from "./components/HighlightsTab";
 
 const router = createBrowserRouter([
   {
@@ -35,6 +36,10 @@ const router = createBrowserRouter([
           {
             path: "squads",
             element: <SquadsTab />,
+          },
+          {
+            path: "highlights",
+            element: <HighlightsTab />,
           },
           {
             path: "full-commentary",
