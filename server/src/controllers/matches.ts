@@ -445,6 +445,93 @@ export async function deleteInningsScore(
   }
 }
 
+export async function getHighlights(
+  req: Request<
+    getValidationType<{
+      id: "DatabaseIntIdParam";
+      inningsType: "ScorecardInningsType";
+    }>
+  >,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+    const inningsType = req.params.inningsType;
+    const inningsIndex = COMMENTARY_INNINGS_TYPES.indexOf(inningsType);
+
+    const result = await Commentary.aggregate([
+      {
+        $match: {
+          matchId,
+        },
+      },
+      {
+        $project: {
+          innings: { $arrayElemAt: ["$innings", inningsIndex] },
+        },
+      },
+      {
+        $project: {
+          innings: {
+            teamId: "$innings.teamId",
+            currentInnings: inningsType,
+            commentaryList: {
+              $reverseArray: {
+                $filter: {
+                  input: "$innings.commentaryList",
+                  as: "item",
+                  cond: { $ne: ["$$item.events", []] },
+                },
+              },
+            },
+          },
+        },
+      },
+    ]);
+
+    const matchDataResult = await MatchData.aggregate<
+      Pick<MatchDataType, "tossResults"> & {
+        innings: {
+          teamId: number;
+        }[];
+      }
+    >([
+      { $match: { matchId } },
+      {
+        $project: {
+          inningsArray: {
+            $map: {
+              input: { $objectToArray: "$innings" },
+              as: "inning",
+              in: {
+                teamId: "$$inning.v.teamId",
+              },
+            },
+          },
+        },
+      },
+      {
+        $project: {
+          innings: "$inningsArray",
+        },
+      },
+    ]);
+
+    if (!result[0] || !result[0].innings || matchDataResult.length === 0) {
+      res.status(404);
+      throw new Error(`No commentary found.`);
+    }
+
+    res.status(200).json({
+      ...result[0].innings,
+      ...matchDataResult[0],
+    });
+  } catch (err) {
+    next(err);
+  }
+}
+
 export async function getFullCommentary(
   req: Request<
     getValidationType<{

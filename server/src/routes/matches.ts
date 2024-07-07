@@ -20,6 +20,7 @@ import {
   getFullCommentary,
   getCommentary,
   getCommentaryPagination,
+  getHighlights,
 } from "../controllers/matches";
 import { validateRequest } from "../middlewares";
 import {
@@ -187,6 +188,17 @@ router.delete(
     }),
   }),
   deleteInningsScore
+);
+
+router.get(
+  "/:id/innings/:inningsType/highlights",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+      inningsType: "ScorecardInningsType",
+    }),
+  }),
+  getHighlights
 );
 
 router.get(
