@@ -22,7 +22,10 @@ import {
   getPlayersMap,
   matchInfoQueryKeys,
 } from "./useMatchInfo";
-import { SCORECARD_INNINGS_TYPES } from "../types/matchData";
+import {
+  MatchTossResultsWithInfo,
+  SCORECARD_INNINGS_TYPES,
+} from "../types/matchData";
 
 // types
 type QueryKeyMatch = ReturnType<typeof commentaryQueryKeys.match>;
@@ -221,8 +224,25 @@ const getFullCommentary = async (
     inningsType: COMMENTARY_INNINGS_TYPES[0],
   });
 
+  let tossResults = {} as MatchTossResultsWithInfo;
+  if (_data.tossResults.tossWinnerId) {
+    const team =
+      _data.tossResults.tossWinnerId === matchInfo.homeTeam.id
+        ? matchInfo.homeTeam
+        : matchInfo.awayTeam;
+    tossResults = {
+      decision: _data.tossResults.decision,
+      winnerTeam: {
+        id: team.id,
+        name: team.name,
+        shortName: team.shortName,
+      },
+    };
+  }
+
   return {
     ..._data,
+    tossResults,
     innings,
   };
 };

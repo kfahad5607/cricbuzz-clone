@@ -101,7 +101,12 @@ export type ScorecardInnings = Omit<BaseScorecardInnings, "teamId"> & {
 
 export type MatchTossResults = {
   tossWinnerId?: number;
-  decision: (typeof TOSS_DECISIONS_VALUES)[number];
+  decision?: (typeof TOSS_DECISIONS_VALUES)[number];
+};
+
+export type MatchTossResultsWithInfo = {
+  winnerTeam?: TeamMatchInfo;
+  decision?: MatchTossResults["decision"];
 };
 
 export type MatchResults = {

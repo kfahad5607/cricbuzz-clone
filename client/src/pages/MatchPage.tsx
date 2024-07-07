@@ -1,8 +1,7 @@
-import dayjs from "dayjs";
 import { useParams } from "react-router-dom";
 import TabWithLink, { TabLinkType } from "../components/tabs/TabWithLink";
 import useMatchInfo from "../hooks/useMatchInfo";
-import { DATE_TIME_FORMAT } from "../utils/constants";
+import { formatDateTime } from "../utils/helpers";
 
 const tabs: TabLinkType[] = [
   {
@@ -53,9 +52,7 @@ const MatchPage = () => {
           </div>
           <div className="text-sm text-gray-600 mr-5">
             <span className="font-bold">Date & Time:</span>
-            <span className="ml-1">
-              {dayjs(data.startTime).format(DATE_TIME_FORMAT)}
-            </span>
+            <span className="ml-1">{formatDateTime(data.startTime)}</span>
           </div>
         </div>
         <div className="mt-3">

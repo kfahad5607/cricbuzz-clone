@@ -1,8 +1,20 @@
-import { BALLS_IN_OVER } from "./constants";
+import dayjs from "dayjs";
+import utc from "dayjs/plugin/utc";
+import timezone from "dayjs/plugin/timezone";
+import advancedFormat from "dayjs/plugin/advancedFormat";
+import { BALLS_IN_OVER, DATE_TIME_FORMAT } from "./constants";
+
+dayjs.extend(advancedFormat);
+dayjs.extend(utc);
+dayjs.extend(timezone);
 
 const roundNumbers = (num: number, decimalPlaces: number = 2) => {
   const factor = Math.pow(10, decimalPlaces);
   return Math.round((num + Number.EPSILON) * factor) / factor;
+};
+
+export const formatDateTime = (dateTime: string, format = DATE_TIME_FORMAT) => {
+  return dayjs(dateTime).format(format);
 };
 
 export const getNumberWithOrdinal = (n: number) => {

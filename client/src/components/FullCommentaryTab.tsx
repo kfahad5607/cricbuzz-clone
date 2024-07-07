@@ -8,8 +8,11 @@ import {
   CommentaryInningsTypes,
   CommentaryItem,
 } from "../types/commentary";
-import { getNumberWithOrdinal } from "../utils/helpers";
-import { BALL_EVENTS } from "../utils/constants";
+import { formatDateTime, getNumberWithOrdinal } from "../utils/helpers";
+import { BALL_EVENTS, DATE_FORMAT, TIME_FORMAT } from "../utils/constants";
+import { type MatchInfo } from "../types/matches";
+import useMatchInfo from "../hooks/useMatchInfo";
+import { MatchTossResultsWithInfo } from "../types/matchData";
 
 type Filter = {
   id: number;
@@ -32,6 +35,11 @@ interface FilterProps {
   data: Filter;
   selectedFilter: SelectedFilter;
   onFilterClick: (filter: SelectedFilter) => void;
+}
+
+interface MatchInfoProps {
+  matchInfo: MatchInfo;
+  tossResults: MatchTossResultsWithInfo;
 }
 
 const filterCategories: Filter[] = [
@@ -151,6 +159,69 @@ const Filter = ({ data, selectedFilter, onFilterClick }: FilterProps) => {
   );
 };
 
+const MatchInfo = ({ matchInfo, tossResults }: MatchInfoProps) => {
+  const matchInfoRenderData = {
+    title: "Match Info",
+    items: [
+      {
+        title: "Match",
+        render: () => {
+          let val = `${matchInfo.homeTeam.shortName.toUpperCase()} v ${matchInfo.awayTeam.shortName.toUpperCase()}, ${
+            matchInfo.series.title
+          }`;
+
+          return val;
+        },
+      },
+      {
+        title: "Date",
+        render: () => {
+          return formatDateTime(matchInfo.startTime, DATE_FORMAT);
+        },
+      },
+      {
+        title: "Time",
+        render: () => {
+          return formatDateTime(matchInfo.startTime, TIME_FORMAT);
+        },
+      },
+      {
+        title: "Toss",
+        render: () => {
+          return (
+            <div className="capitalize">
+              {tossResults.winnerTeam?.name} ({tossResults.decision})
+            </div>
+          );
+        },
+      },
+      {
+        title: "Venue",
+        render: () => {
+          return `${matchInfo.venue.name}, ${matchInfo.venue.city}`;
+        },
+      },
+    ],
+  };
+
+  return (
+    <div>
+      <div className="bg-gray-700 text-white px-2.5 py-1.5">
+        {matchInfoRenderData.title}
+      </div>
+      {matchInfoRenderData.items.map((item, itemIdx) => (
+        <div
+          key={itemIdx}
+          className="last:border-b-0 border-b px-2.5 py-1.5 flex items-start text-sm"
+        >
+          <div className="font-semibold w-1/4 mr-2">{item.title}</div>
+          <div className="w-2/3">{item.render()}</div>
+        </div>
+      ))}
+    </div>
+  );
+};
+
 const FullCommentaryTab = () => {
   const params = useParams();
   const matchId = parseInt(params.matchId!);
@@ -165,12 +236,13 @@ const FullCommentaryTab = () => {
     matchId,
     currentInningsType
   );
+  const { data: matchInfo } = useMatchInfo(matchId);
 
   if (isLoading)
     return <div className="text-center mx-2 my-3 text-xl">Loading...</div>;
 
   if (error && !data) return <h3>{"Something went wrong " + error.message}</h3>;
-  if (!data) return <h3>{"Unable to get match commentary"}</h3>;
+  if (!data || !matchInfo) return <h3>{"Unable to get match commentary"}</h3>;
 
   const handleInningsClick = (inningsType: CommentaryInningsTypes) => {
     setCurrentInningsType(inningsType);
@@ -230,19 +302,21 @@ const FullCommentaryTab = () => {
         ))}
       </div>
       <div className="flex">
-        <div className="mr-6 w-1/5 shrink-0">
-          {/* filter starts */}
-          {filterCategories.map((category) =>
-            category.items.length > 0 ? (
-              <Filter
-                key={category.title}
-                data={category}
-                selectedFilter={selectedFilter}
-                onFilterClick={handleFilterClick}
-              />
-            ) : null
+        <div className="mr-6 w-1/4 shrink-0">
+          {currentInningsType === COMMENTARY_INNINGS_TYPES[0] ? (
+            <MatchInfo matchInfo={matchInfo} tossResults={data.tossResults} />
+          ) : (
+            filterCategories.map((category) =>
+              category.items.length > 0 ? (
+                <Filter
+                  key={category.id}
+                  data={category}
+                  selectedFilter={selectedFilter}
+                  onFilterClick={handleFilterClick}
+                />
+              ) : null
+            )
           )}
-          {/* filter ends */}
         </div>
         <div className="grow">
           {filteredCommentaryList.length === 0 ? (

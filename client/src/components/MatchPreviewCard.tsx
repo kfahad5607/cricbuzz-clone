@@ -1,11 +1,10 @@
-import dayjs from "dayjs";
+import { Link } from "react-router-dom";
 import slugify from "slugify";
 import teamOne from "../assets/images/team-1.webp";
 import teamTwo from "../assets/images/team-2.webp";
 import type { MatchCard } from "../types/matches";
-import { DATE_TIME_FORMAT } from "../utils/constants";
+import { formatDateTime } from "../utils/helpers";
 import MatchStatus from "./MatchStatus";
-import { Link } from "react-router-dom";
 
 interface Props {
   match: MatchCard;
@@ -64,7 +63,7 @@ const MatchPreviewCard = ({ match }: Props) => {
             </MatchStatus>
           ) : (
             <MatchStatus className="mt-2" color="yellow" size="sm">
-              {dayjs(match.startTime).format(DATE_TIME_FORMAT)}
+              {formatDateTime(match.startTime)}
             </MatchStatus>
           )}
         </Link>

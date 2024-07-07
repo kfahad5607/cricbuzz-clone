@@ -1,4 +1,6 @@
 export const BALLS_IN_OVER = 6;
+export const TIME_FORMAT = "hh:mm A";
+export const DATE_FORMAT = "MMM DD, YYYY";
 export const DATE_TIME_FORMAT = "dddd, DD MMM, hh:mm A";
 
 export const MATCH_FORMATS = {

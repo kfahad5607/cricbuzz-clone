@@ -3,6 +3,7 @@ import {
   BaseScorecardInnings,
   MatchResults,
   MatchTossResults,
+  MatchTossResultsWithInfo,
   SCORECARD_INNINGS_TYPES,
   ScorecardBatter,
   ScorecardBatterWithInfo,
@@ -85,8 +86,12 @@ export type CommentaryDataInnings =
       bowlers: BasicMatchSquadPlayer[];
     };
 
-export type FullCommentaryData = Omit<FullCommentaryDataRaw, "innings"> & {
+export type FullCommentaryData = Omit<
+  FullCommentaryDataRaw,
+  "innings" | "tossResults"
+> & {
   innings: CommentaryDataInnings[];
+  tossResults: MatchTossResultsWithInfo;
 };
 
 export type CommentaryInningsTypes = (typeof COMMENTARY_INNINGS_TYPES)[number];
