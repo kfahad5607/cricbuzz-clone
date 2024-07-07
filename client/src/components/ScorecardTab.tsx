@@ -294,7 +294,7 @@ const ScorecardTab = () => {
   if (!data) return <h3>{"Unable to get match commentary"}</h3>;
 
   return (
-    <div>
+    <div className="w-3/5">
       <div className="mb-2">
         <MatchStatus>{data.status}</MatchStatus>
       </div>

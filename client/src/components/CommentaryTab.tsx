@@ -245,38 +245,34 @@ const CommentaryTab = () => {
   if (!data) return <h3>{"Unable to get match commentary"}</h3>;
 
   return (
-    <div>
-      {/* Header */}
-      <div>
-        {/* Summary */}
-        <MatchScoreHeader data={data} />
-        {/* scoreboard */}
+    <div className="w-3/5">
+      {/* Summary */}
+      <MatchScoreHeader data={data} />
+      {/* scoreboard */}
+      <div className="mt-2">
+        {/* <Table data={battersData} columns={battersColumns} /> */}
+        <div className="w-full py-3.5 my-4 border-y border-slate-60"></div>
+        {/* Commentary */}
         <div className="mt-2">
-          {/* <Table data={battersData} columns={battersColumns} /> */}
-          <div className="w-full py-3.5 my-4 border-y border-slate-60"></div>
-          {/* Commentary */}
-          <div className="mt-2">
-            <Commentary commentaryList={data.commentaryList} />
-            {data.hasMore && (
-              <div
-                onClick={handleLoadMore}
-                className="mt-2 p-1.5 text-sm text-center text-gray-950 rounded border border-slate-300 cursor-pointer hover:bg-gray-200"
-              >
-                {isLoadingOldData ? (
-                  <div className="flex justify-center">
-                    <Spinner />
-                  </div>
-                ) : error ? (
-                  error.message
-                ) : (
-                  "Load More Commentary"
-                )}
-              </div>
-            )}
-          </div>
+          <Commentary commentaryList={data.commentaryList} />
+          {data.hasMore && (
+            <div
+              onClick={handleLoadMore}
+              className="mt-2 p-1.5 text-sm text-center text-gray-950 rounded border border-slate-300 cursor-pointer hover:bg-gray-200"
+            >
+              {isLoadingOldData ? (
+                <div className="flex justify-center">
+                  <Spinner />
+                </div>
+              ) : error ? (
+                error.message
+              ) : (
+                "Load More Commentary"
+              )}
+            </div>
+          )}
         </div>
       </div>
-      {/* Body */}
     </div>
   );
 };

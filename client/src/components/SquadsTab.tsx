@@ -84,7 +84,7 @@ const SquadsTab = () => {
   );
 
   return (
-    <>
+    <div className="w-3/5">
       <div className="bg-emerald-100 p-2.5 rounded-md flex justify-between">
         <div className="flex items-center gap-x-2">
           <div className="w-7 rounded overflow-hidden">
@@ -126,7 +126,7 @@ const SquadsTab = () => {
           ))}
         </div>
       )}
-    </>
+    </div>
   );
 };
 

@@ -35,10 +35,10 @@ const getScorecardData = async (
   const matchInfo = await queryClient.ensureQueryData<MatchInfo>({
     queryKey: matchInfoQueryKeys.matchInfo(matchId),
   });
-
-  const _data = res.data;
   const playersMap = getPlayersMap(matchInfo.homeTeam.players);
   getPlayersMap(matchInfo.awayTeam.players, playersMap);
+
+  const _data = res.data;
 
   const newInnings = _data.innings.map((inningsItem) => {
     const didNotBatBatters: MatchSquadPlayer[] = [];

@@ -17,6 +17,10 @@ const tabs: TabLinkType[] = [
     title: "Squads",
     link: "squads",
   },
+  {
+    title: "Full Commentary",
+    link: "full-commentary",
+  },
 ];
 
 const MatchPage = () => {

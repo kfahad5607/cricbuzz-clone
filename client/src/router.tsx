@@ -5,6 +5,7 @@ import MatchPage from "./pages/MatchPage";
 import CommentaryTab from "./components/CommentaryTab";
 import ScorecardTab from "./components/ScorecardTab";
 import SquadsTab from "./components/SquadsTab";
+import FullCommentaryTab from "./components/FullCommentaryTab";
 
 const router = createBrowserRouter([
   {
@@ -34,6 +35,10 @@ const router = createBrowserRouter([
           {
             path: "squads",
             element: <SquadsTab />,
+          },
+          {
+            path: "full-commentary",
+            element: <FullCommentaryTab />,
           },
         ],
       },

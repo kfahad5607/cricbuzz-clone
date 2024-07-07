@@ -5,6 +5,13 @@ const roundNumbers = (num: number, decimalPlaces: number = 2) => {
   return Math.round((num + Number.EPSILON) * factor) / factor;
 };
 
+export const getNumberWithOrdinal = (n: number) => {
+  const s = ["th", "st", "nd", "rd"];
+  const v = n % 100;
+
+  return n + (s[(v - 20) % 10] || s[v] || s[0]);
+};
+
 export const ballNumToOvers = (ballNum: number): number => {
   const rem = ballNum % BALLS_IN_OVER;
 

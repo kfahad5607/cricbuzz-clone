@@ -5,10 +5,15 @@ import {
   useQueryClient,
 } from "@tanstack/react-query";
 import apiClient from "../services/api-client";
-import type {
-  CommentaryData,
-  CommentaryDataRaw,
-  CommentaryItem,
+import {
+  COMMENTARY_INNINGS_TYPES,
+  type CommentaryDataInnings,
+  type CommentaryData,
+  type CommentaryDataRaw,
+  type CommentaryInningsTypes,
+  type CommentaryItem,
+  type FullCommentaryData,
+  type FullCommentaryDataRaw,
 } from "../types/commentary";
 import type { MatchInfo } from "../types/matches";
 import {
@@ -17,12 +22,16 @@ import {
   getPlayersMap,
   matchInfoQueryKeys,
 } from "./useMatchInfo";
+import { SCORECARD_INNINGS_TYPES } from "../types/matchData";
 
 // types
 type QueryKeyMatch = ReturnType<typeof commentaryQueryKeys.match>;
+type QueryKeyMatchFull = ReturnType<typeof commentaryQueryKeys.matchFull>;
 
 export const commentaryQueryKeys = {
   match: (id: number) => ["commentary", id] as const,
+  matchFull: (id: number, inningsType: CommentaryInningsTypes) =>
+    ["fullCommentary", id, inningsType] as const,
 };
 
 const mergeCommentaryLists = (
@@ -132,7 +141,7 @@ const getLatestCommentary = async (
   };
 };
 
-export const getOlderCommentary = async (
+const getOlderCommentary = async (
   context: QueryFunctionContext<QueryKeyMatch>,
   queryClient: QueryClient
 ) => {
@@ -160,6 +169,64 @@ export const getOlderCommentary = async (
   return existingData;
 };
 
+const getFullCommentary = async (
+  context: QueryFunctionContext<QueryKeyMatchFull>,
+  queryClient: QueryClient
+) => {
+  const [, matchId, inningsType] = context.queryKey;
+
+  const response = await apiClient.get<FullCommentaryDataRaw>(
+    `matches/${matchId}/innings/${inningsType}/full-commentary`
+  );
+  const _data = response.data;
+
+  const matchInfo = await queryClient.ensureQueryData<MatchInfo>({
+    queryKey: matchInfoQueryKeys.matchInfo(matchId),
+  });
+  const playersMap = getPlayersMap(matchInfo.homeTeam.players);
+  getPlayersMap(matchInfo.awayTeam.players, playersMap);
+
+  const inningsCountMap: Record<number, number> = {};
+  const innings: CommentaryDataInnings[] = _data.innings.map(
+    (inningsItem, inningsIdx) => {
+      const team =
+        inningsItem.teamId === matchInfo.homeTeam.id
+          ? matchInfo.homeTeam
+          : matchInfo.awayTeam;
+
+      inningsCountMap[team.id] = (inningsCountMap[team.id] || 0) + 1;
+
+      const batters = inningsItem.batters.map((batter) => {
+        return addPlayerInfo(batter, playersMap);
+      });
+      const bowlers = inningsItem.bowlers.map((bowler) => {
+        return addPlayerInfo(bowler, playersMap);
+      });
+
+      return {
+        inningsType: SCORECARD_INNINGS_TYPES[inningsIdx],
+        teamInningsNo: inningsCountMap[team.id],
+        batters,
+        bowlers,
+        team: {
+          id: team.id,
+          name: team.name,
+          shortName: team.shortName,
+        },
+      };
+    }
+  );
+
+  innings.unshift({
+    inningsType: COMMENTARY_INNINGS_TYPES[0],
+  });
+
+  return {
+    ..._data,
+    innings,
+  };
+};
+
 export const useLatestCommentary = (matchId: number) => {
   const queryClient = useQueryClient();
 
@@ -177,6 +244,25 @@ export const useOlderCommentary = (matchId: number) => {
   return useQuery<CommentaryData, Error, CommentaryData, QueryKeyMatch>({
     queryKey: commentaryQueryKeys.match(matchId),
     queryFn: (context) => getOlderCommentary(context, queryClient),
+    retry: 1,
+  });
+};
+
+export const useFullCommentary = (
+  matchId: number,
+  inningsType: CommentaryInningsTypes
+) => {
+  const queryClient = useQueryClient();
+
+  return useQuery<
+    FullCommentaryData,
+    Error,
+    FullCommentaryData,
+    QueryKeyMatchFull
+  >({
+    queryKey: commentaryQueryKeys.matchFull(matchId, inningsType),
+    queryFn: (context) => getFullCommentary(context, queryClient),
+    staleTime: 15 * 60 * 1000, // 15 minutes
     retry: 1,
   });
 };

@@ -74,7 +74,26 @@ export const DISMISSAL_TYPES_VALUES = [
   "timed-out",
 ] as const;
 
-export const BALL_EVENTS = [
+export const BALL_EVENTS = {
+  WICKET: "WICKET",
+  MAIDEN_OVER: "MAIDEN_OVER",
+  FOUR: "FOUR",
+  SIX: "SIX",
+  FIFTY: "FIFTY",
+  HUNDRED: "HUNDRED",
+  UDRS: "UDRS",
+  PARTNERSHIP: "PARTNERSHIP",
+  INJURY: "INJURY",
+  TEAM_FIFTY: "TEAM_FIFTY",
+  TEAM_HUNDRED: "TEAM_HUNDRED",
+  DROPPED: "DROPPED",
+  RUNOUT_MISS: "RUNOUT_MISS",
+  HIGHSCORING_OVER: "HIGHSCORING_OVER",
+  OVER_BREAK: "OVER_BREAK",
+  // OTHER: "OTHER",
+} as const;
+
+export const BALL_EVENTS_VALUES = [
   "WICKET",
   "MAIDEN_OVER",
   "FOUR",
@@ -90,7 +109,7 @@ export const BALL_EVENTS = [
   "RUNOUT_MISS",
   "HIGHSCORING_OVER",
   "OVER_BREAK",
-  "OTHER",
+  // "OTHER",
 ] as const;
 
 export const PLAYER_ROLES = {

@@ -1,4 +1,4 @@
-import { BALL_EVENTS, MATCH_STATES_VALUES } from "../utils/constants";
+import { BALL_EVENTS_VALUES, MATCH_STATES_VALUES } from "../utils/constants";
 import {
   BaseScorecardInnings,
   MatchResults,
@@ -8,8 +8,10 @@ import {
   ScorecardBatterWithInfo,
   ScorecardBowler,
   ScorecardBowlerWithInfo,
+  ScorecardInningsTypes,
 } from "./matchData";
 import { TeamMatchInfo } from "./matches";
+import { BasicMatchSquadPlayer } from "./players";
 
 // const
 export const COMMENTARY_INNINGS_TYPES = [
@@ -17,11 +19,13 @@ export const COMMENTARY_INNINGS_TYPES = [
   ...SCORECARD_INNINGS_TYPES,
 ] as const;
 
+export type BallEvents = (typeof BALL_EVENTS_VALUES)[number];
+
 export type CommentaryItem = {
   timestamp: number;
   overs: number;
   commText: string;
-  events: (typeof BALL_EVENTS)[number];
+  events: BallEvents[];
   batsmanStriker: Omit<ScorecardBatter, "isStriker">;
   bowlerStriker: Omit<ScorecardBowler, "isStriker" | "isNonStriker">;
 };
@@ -55,6 +59,34 @@ export type CommentaryData = Omit<
   bowlerNonStriker?: ScorecardBowlerWithInfo;
 } & {
   innings: (Omit<BaseScorecardInnings, "teamId"> & { team: TeamMatchInfo })[];
+};
+
+export type FullCommentaryDataRaw = {
+  teamId: number;
+  currentInnings: CommentaryInningsTypes;
+  innings: {
+    teamId: TeamMatchInfo["id"];
+    batters: Pick<ScorecardBatter, "id">[];
+    bowlers: Pick<ScorecardBatter, "id">[];
+  }[];
+  tossResults: MatchTossResults;
+  commentaryList: CommentaryItem[];
+};
+
+export type CommentaryDataInnings =
+  | {
+      inningsType: (typeof COMMENTARY_INNINGS_TYPES)[0];
+    }
+  | {
+      inningsType: ScorecardInningsTypes;
+      teamInningsNo: number;
+      team: TeamMatchInfo;
+      batters: BasicMatchSquadPlayer[];
+      bowlers: BasicMatchSquadPlayer[];
+    };
+
+export type FullCommentaryData = Omit<FullCommentaryDataRaw, "innings"> & {
+  innings: CommentaryDataInnings[];
 };
 
 export type CommentaryInningsTypes = (typeof COMMENTARY_INNINGS_TYPES)[number];
