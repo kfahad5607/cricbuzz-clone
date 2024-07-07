@@ -3,116 +3,116 @@
     "teamId": 64,
     "players": [
       {
-        "playerId": "13940",
+        "id": "13940",
         "name": "yashasvi jaiswal",
         "isPlaying": true,
         "isSubstituted": true
       },
       {
-        "playerId": "2258",
+        "id": "2258",
         "name": "jos buttler",
         "isPlaying": true,
         "isForeignPlayer": true
       },
       {
-        "playerId": "8271",
+        "id": "8271",
         "isCaptain": true,
         "isKeeper": true,
         "name": "sanju samson",
         "isPlaying": true
       },
       {
-        "playerId": "12305",
+        "id": "12305",
         "name": "riyan parag",
         "isPlaying": true
       },
       {
-        "playerId": "14691",
+        "id": "14691",
         "name": "dhruv jurel",
         "isPlaying": true
       },
       {
-        "playerId": "9789",
+        "id": "9789",
         "name": "shimron hetmyer",
         "isPlaying": true,
         "isForeignPlayer": true
       },
       {
-        "playerId": "1593",
+        "id": "1593",
         "name": "ravichandran ashwin",
         "isPlaying": true
       },
       {
-        "playerId": "8117",
+        "id": "8117",
         "name": "trent boult",
         "isPlaying": true,
         "isForeignPlayer": true
       },
       {
-        "playerId": "9781",
+        "id": "9781",
         "name": "avesh khan",
         "isPlaying": true
       },
       {
-        "playerId": "14336",
+        "id": "14336",
         "name": "kuldeep sen",
         "isPlaying": true
       },
       {
-        "playerId": "7910",
+        "id": "7910",
         "name": "yuzvendra chahal",
         "isPlaying": true
       },
       {
-        "playerId": "11445",
+        "id": "11445",
         "name": "rovman powell",
         "isInSubs": true,
         "isForeignPlayer": true
       },
       {
-        "playerId": "13216",
+        "id": "13216",
         "name": "tanush kotian",
         "isInSubs": true
       },
       {
-        "playerId": "19328",
+        "id": "19328",
         "name": "shubham dubey",
         "isInSubs": true
       },
       {
-        "playerId": "9720",
+        "id": "9720",
         "name": "keshav maharaj",
         "isInSubs": true,
         "isSubstitute": true,
         "isForeignPlayer": true
       },
       {
-        "playerId": "9715",
+        "id": "9715",
         "name": "navdeep saini",
         "isInSubs": true
       },
       {
-        "playerId": "13630",
+        "id": "13630",
         "name": "nandre burger"
       },
       {
-        "playerId": "15528",
+        "id": "15528",
         "name": "abid mushtaq"
       },
       {
-        "playerId": "8356",
+        "id": "8356",
         "name": "sandeep sharma"
       },
       {
-        "playerId": "10033",
+        "id": "10033",
         "name": "tom kohler-cadmore"
       },
       {
-        "playerId": "14798",
+        "id": "14798",
         "name": "donovan ferreira"
       },
       {
-        "playerId": "32854",
+        "id": "32854",
         "name": "kunal singh rathore"
       }
     ]
@@ -121,127 +121,127 @@
     "teamId": 971,
     "players": [
       {
-        "playerId": "11808",
+        "id": "11808",
         "isCaptain": true,
         "name": "shubman gill",
         "isPlaying": true
       },
       {
-        "playerId": "13866",
+        "id": "13866",
         "name": "sai sudharsan",
         "isPlaying": true
       },
       {
-        "playerId": "8204",
+        "id": "8204",
         "name": "vijay shankar",
         "isPlaying": true
       },
       {
-        "playerId": "10499",
+        "id": "10499",
         "name": "abhinav manohar",
         "isPlaying": true
       },
       {
-        "playerId": "1649",
+        "id": "1649",
         "isKeeper": true,
         "name": "matthew wade",
         "isPlaying": true,
         "isForeignPlayer": true
       },
       {
-        "playerId": "9693",
+        "id": "9693",
         "name": "rahul tewatia",
         "isPlaying": true
       },
       {
-        "playerId": "10738",
+        "id": "10738",
         "name": "rashid khan",
         "isPlaying": true,
         "isForeignPlayer": true
       },
       {
-        "playerId": "1858",
+        "id": "1858",
         "name": "umesh yadav",
         "isPlaying": true
       },
       {
-        "playerId": "13143",
+        "id": "13143",
         "name": "spencer johnson",
         "isPlaying": true,
         "isForeignPlayer": true
       },
       {
-        "playerId": "15452",
+        "id": "15452",
         "name": "noor ahmad",
         "isPlaying": true,
         "isForeignPlayer": true
       },
       {
-        "playerId": "8181",
+        "id": "8181",
         "name": "mohit sharma",
         "isPlaying": true,
         "isSubstituted": true
       },
       {
-        "playerId": "10520",
+        "id": "10520",
         "name": "sharath br",
         "isInSubs": true
       },
       {
-        "playerId": "10226",
+        "id": "10226",
         "name": "shahrukh khan",
         "isInSubs": true,
         "isSubstitute": true
       },
       {
-        "playerId": "12779",
+        "id": "12779",
         "name": "darshan nalkande",
         "isInSubs": true
       },
       {
-        "playerId": "11595",
+        "id": "11595",
         "name": "ravisrinivasan sai kishore",
         "isInSubs": true
       },
       {
-        "playerId": "14596",
+        "id": "14596",
         "name": "manav suthar",
         "isInSubs": true
       },
       {
-        "playerId": "6326",
+        "id": "6326",
         "name": "kane williamson"
       },
       {
-        "playerId": "8182",
+        "id": "8182",
         "name": "jayant yadav"
       },
       {
-        "playerId": "1465",
+        "id": "1465",
         "name": "wriddhiman saha"
       },
       {
-        "playerId": "6349",
+        "id": "6349",
         "name": "david miller"
       },
       {
-        "playerId": "8944",
+        "id": "8944",
         "name": "sandeep warrier"
       },
       {
-        "playerId": "11128",
+        "id": "11128",
         "name": "joshua little"
       },
       {
-        "playerId": "13136",
+        "id": "13136",
         "name": "kartik tyagi"
       },
       {
-        "playerId": "13214",
+        "id": "13214",
         "name": "azmatullah omarzai"
       },
       {
-        "playerId": "14706",
+        "id": "14706",
         "name": "sushant mishra"
       }
     ]

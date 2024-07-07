@@ -471,18 +471,94 @@ export async function getFullCommentary(
           innings: { $arrayElemAt: ["$innings", inningsIndex] },
         },
       },
+      {
+        $project: {
+          innings: {
+            teamId: "$innings.teamId",
+            currentInnings: inningsType,
+            commentaryList: {
+              $reverseArray: "$innings.commentaryList",
+            },
+          },
+        },
+      },
     ]);
 
-    if (!result[0] || !result[0].innings) {
+    const matchDataResult = await MatchData.aggregate<
+      Pick<MatchDataType, "tossResults"> & {
+        batters?: Pick<MatchSquadPlayer, "id">[];
+        bowlers?: Pick<MatchSquadPlayer, "id">[];
+        innings: {
+          teamId: number;
+          batters: Pick<MatchSquadPlayer, "id">[];
+          bowlers: Pick<MatchSquadPlayer, "id">[];
+        }[];
+      }
+    >([
+      { $match: { matchId } },
+      {
+        $project: {
+          tossResults: 1,
+          inningsArray: {
+            $map: {
+              input: { $objectToArray: "$innings" },
+              as: "inning",
+              in: {
+                teamId: "$$inning.v.teamId",
+                batters: [],
+                bowlers: [],
+              },
+            },
+          },
+          batters: {
+            $map: {
+              input: `$innings.${inningsType}.batters`,
+              as: "batter",
+              in: {
+                id: "$$batter.id",
+              },
+            },
+          },
+          bowlers: {
+            $map: {
+              input: `$innings.${inningsType}.bowlers`,
+              as: "bowler",
+              in: {
+                id: "$$bowler.id",
+              },
+            },
+          },
+        },
+      },
+      {
+        $project: {
+          tossResults: 1,
+          innings: "$inningsArray",
+          batters: 1,
+          bowlers: 1,
+        },
+      },
+    ]);
+
+    if (!result[0] || !result[0].innings || matchDataResult.length === 0) {
       res.status(404);
       throw new Error(`No commentary found.`);
     }
 
-    console.log("results ", result);
+    if (matchDataResult[0].batters) {
+      matchDataResult[0].innings[inningsIndex - 1].batters =
+        matchDataResult[0].batters;
+      delete matchDataResult[0].batters;
+    }
+    if (matchDataResult[0].bowlers) {
+      matchDataResult[0].innings[inningsIndex - 1].bowlers =
+        matchDataResult[0].bowlers;
+      delete matchDataResult[0].bowlers;
+    }
 
     res.status(200).json({
-      status: "success",
-      data: result[0].innings,
+      ...result[0].innings,
+      ...matchDataResult[0],
     });
   } catch (err) {
     next(err);

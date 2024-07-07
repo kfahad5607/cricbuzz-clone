@@ -190,7 +190,7 @@ router.delete(
 );
 
 router.get(
-  "/:id/innings/:inningsType/commentary",
+  "/:id/innings/:inningsType/full-commentary",
   validateRequest({
     params: getValidationSchema({
       id: "DatabaseIntIdParam",

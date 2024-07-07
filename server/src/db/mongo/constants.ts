@@ -14,5 +14,5 @@ export const BALL_EVENTS = [
   "RUNOUT_MISS",
   "HIGHSCORING_OVER",
   "OVER_BREAK",
-  "OTHER",
+  // "OTHER",
 ] as const;

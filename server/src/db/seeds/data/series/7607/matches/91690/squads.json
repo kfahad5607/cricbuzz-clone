@@ -3,105 +3,105 @@
     "teamId": 255,
     "players": [
       {
-        "playerId": "10209",
+        "id": "10209",
         "isKeeper": true,
         "name": "heinrich klaasen"
       },
       {
-        "playerId": "8095",
+        "id": "8095",
         "isCaptain": true,
         "name": "pat cummins"
       },
       {
-        "playerId": "12086",
+        "id": "12086",
         "name": "abhishek sharma"
       },
       {
-        "playerId": "8497",
+        "id": "8497",
         "name": "travis head"
       },
       {
-        "playerId": "14701",
+        "id": "14701",
         "name": "nitish reddy"
       },
       {
-        "playerId": "14628",
+        "id": "14628",
         "name": "abdul samad"
       },
       {
-        "playerId": "14606",
+        "id": "14606",
         "name": "shahbaz ahmed"
       },
       {
-        "playerId": "13509",
+        "id": "13509",
         "name": "sanvir singh"
       },
       {
-        "playerId": "1726",
+        "id": "1726",
         "name": "bhuvneshwar kumar"
       },
       {
-        "playerId": "6327",
+        "id": "6327",
         "name": "jaydev unadkat"
       },
       {
-        "playerId": "13931",
+        "id": "13931",
         "name": "vijayakanth viyaskanth"
       },
       {
-        "playerId": "10225",
+        "id": "10225",
         "name": "t natarajan"
       },
       {
-        "playerId": "19027",
+        "id": "19027",
         "name": "umran malik"
       },
       {
-        "playerId": "2195",
+        "id": "2195",
         "name": "mayank agarwal"
       },
       {
-        "playerId": "10693",
+        "id": "10693",
         "name": "glenn phillips"
       },
       {
-        "playerId": "10945",
+        "id": "10945",
         "name": "washington sundar"
       },
       {
-        "playerId": "9012",
+        "id": "9012",
         "name": "rahul tripathi"
       },
       {
-        "playerId": "9582",
+        "id": "9582",
         "name": "aiden markram"
       },
       {
-        "playerId": "10947",
+        "id": "10947",
         "name": "anmolpreet singh"
       },
       {
-        "playerId": "11965",
+        "id": "11965",
         "name": "upendra yadav"
       },
       {
-        "playerId": "12627",
+        "id": "12627",
         "name": "mayank markande"
       },
       {
-        "playerId": "12636",
+        "id": "12636",
         "name": "jhatavedh subramanyan"
       },
       {
-        "playerId": "14282",
+        "id": "14282",
         "name": "fazalhaq farooqi"
       },
       {
-        "playerId": "14565",
+        "id": "14565",
         "name": "marco jansen"
       },
       {
-        "playerId": "14696",
+        "id": "14696",
         "name": "akash maharaj singh"
       }
     ]
@@ -110,105 +110,105 @@
     "teamId": 971,
     "players": [
       {
-        "playerId": "11808",
+        "id": "11808",
         "isCaptain": true,
         "name": "shubman gill"
       },
       {
-        "playerId": "1649",
+        "id": "1649",
         "isKeeper": true,
         "name": "matthew wade"
       },
       {
-        "playerId": "13866",
+        "id": "13866",
         "name": "sai sudharsan"
       },
       {
-        "playerId": "6349",
+        "id": "6349",
         "name": "david miller"
       },
       {
-        "playerId": "10226",
+        "id": "10226",
         "name": "shahrukh khan"
       },
       {
-        "playerId": "9693",
+        "id": "9693",
         "name": "rahul tewatia"
       },
       {
-        "playerId": "10738",
+        "id": "10738",
         "name": "rashid khan"
       },
       {
-        "playerId": "15452",
+        "id": "15452",
         "name": "noor ahmad"
       },
       {
-        "playerId": "1858",
+        "id": "1858",
         "name": "umesh yadav"
       },
       {
-        "playerId": "8181",
+        "id": "8181",
         "name": "mohit sharma"
       },
       {
-        "playerId": "13136",
+        "id": "13136",
         "name": "kartik tyagi"
       },
       {
-        "playerId": "8944",
+        "id": "8944",
         "name": "sandeep warrier"
       },
       {
-        "playerId": "10499",
+        "id": "10499",
         "name": "abhinav manohar"
       },
       {
-        "playerId": "10520",
+        "id": "10520",
         "name": "sharath br"
       },
       {
-        "playerId": "12779",
+        "id": "12779",
         "name": "darshan nalkande"
       },
       {
-        "playerId": "8182",
+        "id": "8182",
         "name": "jayant yadav"
       },
       {
-        "playerId": "1465",
+        "id": "1465",
         "name": "wriddhiman saha"
       },
       {
-        "playerId": "6326",
+        "id": "6326",
         "name": "kane williamson"
       },
       {
-        "playerId": "8204",
+        "id": "8204",
         "name": "vijay shankar"
       },
       {
-        "playerId": "11128",
+        "id": "11128",
         "name": "joshua little"
       },
       {
-        "playerId": "11595",
+        "id": "11595",
         "name": "ravisrinivasan sai kishore"
       },
       {
-        "playerId": "13143",
+        "id": "13143",
         "name": "spencer johnson"
       },
       {
-        "playerId": "13214",
+        "id": "13214",
         "name": "azmatullah omarzai"
       },
       {
-        "playerId": "14596",
+        "id": "14596",
         "name": "manav suthar"
       },
       {
-        "playerId": "22141",
+        "id": "22141",
         "name": "gurnoor brar"
       }
     ]
