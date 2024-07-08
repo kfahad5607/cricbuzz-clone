@@ -3,7 +3,11 @@ import slugify from "slugify";
 import teamOne from "../assets/images/team-1.webp";
 import teamTwo from "../assets/images/team-2.webp";
 import type { MatchCard } from "../types/matches";
-import { formatDateTime } from "../utils/helpers";
+import {
+  formatDateTime,
+  formatOversToInt,
+  getStatusTextColor,
+} from "../utils/helpers";
 import MatchStatus from "./MatchStatus";
 
 interface Props {
@@ -23,7 +27,12 @@ const getMatchSlug = (data: MatchSlugInput): string => {
 };
 
 const MatchPreviewCard = ({ match }: Props) => {
-  const { series, homeTeam, awayTeam } = match;
+  const { series, homeTeam, awayTeam, innings } = match;
+
+  const [firstTeam, secondTeam] =
+    innings[0].teamId === homeTeam.id
+      ? [homeTeam, awayTeam]
+      : [awayTeam, homeTeam];
 
   return (
     <div className="w-72 flex-shrink-0 rounded overflow-hidden bg-white shadow">
@@ -41,31 +50,41 @@ const MatchPreviewCard = ({ match }: Props) => {
           </div>
           <div className="flex justify-between text-gray-500">
             <div className="flex items-center w-full">
-              <div title={homeTeam.name} className="w-5 mr-1">
+              <div title={firstTeam.name} className="w-5 mr-1">
                 <img className="block w-full" src={teamOne} alt="" />
               </div>
-              <div title={homeTeam.name}>{homeTeam.shortName}</div>
+              <div title={firstTeam.name} className="uppercase">
+                {firstTeam.shortName}
+              </div>
             </div>
-            <div className="w-full font-medium">159 (19.3)</div>
+            <div className="w-full font-medium">
+              {innings[0].score}-{innings[0].wickets} (
+              {formatOversToInt(innings[0].oversBowled)})
+            </div>
           </div>
           <div className="flex justify-between text-slate-900 mt-2">
             <div className="flex items-center w-full">
-              <div title={awayTeam.name} className="w-5 mr-1">
+              <div title={secondTeam.name} className="w-5 mr-1">
                 <img className="block w-full" src={teamTwo} alt="" />
               </div>
-              <div title={awayTeam.name}>{awayTeam.shortName}</div>
+              <div title={secondTeam.name} className="uppercase">
+                {secondTeam.shortName}
+              </div>
             </div>
-            <div className="w-full font-medium">63-1 (6)</div>
+            <div className="w-full font-medium">
+              {innings[1].score}-{innings[1].wickets} (
+              {formatOversToInt(innings[1].oversBowled)})
+            </div>
           </div>
-          {match.status ? (
-            <MatchStatus className="mt-2" size="sm">
-              {match.status}
+          {
+            <MatchStatus
+              className="mt-2"
+              size="sm"
+              color={getStatusTextColor(match.state)}
+            >
+              {match.status || formatDateTime(match.startTime)}
             </MatchStatus>
-          ) : (
-            <MatchStatus className="mt-2" color="yellow" size="sm">
-              {formatDateTime(match.startTime)}
-            </MatchStatus>
-          )}
+          }
         </Link>
       </div>
       <div className="bg-slate-200 px-1.5 py-2 text-gray-600 text-[0.7rem] text-right">

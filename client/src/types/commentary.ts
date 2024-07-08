@@ -1,7 +1,8 @@
-import { BALL_EVENTS_VALUES, MATCH_STATES_VALUES } from "../utils/constants";
+import { BALL_EVENTS_VALUES } from "../utils/constants";
 import {
   BaseScorecardInnings,
   MatchResults,
+  MatchState,
   MatchTossResults,
   MatchTossResultsWithInfo,
   SCORECARD_INNINGS_TYPES,
@@ -40,7 +41,7 @@ export type CommentaryDataRaw = {
   batsmanNonStriker?: ScorecardBatter;
   bowlerStriker?: ScorecardBowler;
   bowlerNonStriker?: ScorecardBowler;
-  state: (typeof MATCH_STATES_VALUES)[number];
+  state: MatchState;
   status: string;
   tossResults: MatchTossResults;
   results: MatchResults;

@@ -1,13 +1,8 @@
-import { useQuery } from "@tanstack/react-query";
 import MatchPreviewCard from "../components/MatchPreviewCard";
-import apiClient from "../services/api-client";
-import type { MatchCard } from "../types/matches";
+import { useCurrentMatches } from "../hooks/useMatches";
 
 const HomePage = () => {
-  const { data, isLoading, error } = useQuery<MatchCard[]>({
-    queryKey: ["currentMatches"],
-    queryFn: () => apiClient.get("matches/current").then((res) => res.data),
-  });
+  const { data, isLoading, error } = useCurrentMatches();
 
   if (isLoading) return <h3>Loading...</h3>;
 

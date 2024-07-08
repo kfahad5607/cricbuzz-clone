@@ -1,8 +1,10 @@
 import dayjs from "dayjs";
-import utc from "dayjs/plugin/utc";
-import timezone from "dayjs/plugin/timezone";
 import advancedFormat from "dayjs/plugin/advancedFormat";
-import { BALLS_IN_OVER, DATE_TIME_FORMAT } from "./constants";
+import timezone from "dayjs/plugin/timezone";
+import utc from "dayjs/plugin/utc";
+import { StatusColor } from "../components/MatchStatus";
+import { MatchState } from "../types/matchData";
+import { BALLS_IN_OVER, DATE_TIME_FORMAT, MATCH_STATES } from "./constants";
 
 dayjs.extend(advancedFormat);
 dayjs.extend(utc);
@@ -11,6 +13,14 @@ dayjs.extend(timezone);
 const roundNumbers = (num: number, decimalPlaces: number = 2) => {
   const factor = Math.pow(10, decimalPlaces);
   return Math.round((num + Number.EPSILON) * factor) / factor;
+};
+
+export const getStatusTextColor = (state: MatchState) => {
+  let statusColor: StatusColor = "red";
+  if (state === MATCH_STATES.COMPLETE) statusColor = "blue";
+  else if (state === MATCH_STATES.PREVIEW) statusColor = "yellow";
+
+  return statusColor;
 };
 
 export const formatDateTime = (dateTime: string, format = DATE_TIME_FORMAT) => {

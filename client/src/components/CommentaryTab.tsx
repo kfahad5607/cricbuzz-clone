@@ -15,11 +15,12 @@ import {
   formatOversToInt,
   getEconomyRate,
   getRunRate,
+  getStatusTextColor,
   getStrikeRate,
   oversToballNum,
 } from "../utils/helpers";
 import Commentary from "./Commentary";
-import MatchStatus, { StatusColor } from "./MatchStatus";
+import MatchStatus from "./MatchStatus";
 import PlayerLink from "./PlayerLink";
 import Table from "./Table";
 import Spinner from "./elements/Spinner";
@@ -204,16 +205,14 @@ const MatchScoreHeader = ({ data }: Props) => {
     );
   }
 
-  let statusColor: StatusColor = "red";
-  if (data.state === MATCH_STATES.COMPLETE) statusColor = "blue";
-  else if (data.state === MATCH_STATES.PREVIEW) statusColor = "yellow";
-
   return (
     <div>
       {header}
       {data.status && (
         <div className="mt-4">
-          <MatchStatus color={statusColor}>{data.status}</MatchStatus>
+          <MatchStatus color={getStatusTextColor(data.state)}>
+            {data.status}
+          </MatchStatus>
         </div>
       )}
       <div className="mt-3">
