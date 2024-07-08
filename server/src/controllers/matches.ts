@@ -1,10 +1,12 @@
-import { eq, inArray } from "drizzle-orm";
+import dayjs from "dayjs";
+import utc from "dayjs/plugin/utc";
+import { and, eq, gt, inArray, lt } from "drizzle-orm";
 import { NextFunction, Request, Response } from "express";
-import MatchSquads from "../db/mongo/schema/matchSquad";
+import Commentary from "../db/mongo/schema/commentary";
 import MatchData from "../db/mongo/schema/matchData";
+import MatchSquads from "../db/mongo/schema/matchSquad";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
-import { verifyMatchAndTeam } from "../helpers/matches";
 import {
   addScorecardBatter,
   addScorecardBowler,
@@ -12,11 +14,16 @@ import {
   batterHolderKeys,
   bowlerHolderKeys,
 } from "../helpers/matchData";
+import { verifyMatchAndTeam } from "../helpers/matches";
 import {
+  BaseScorecardInnings,
+  COMMENTARY_INNINGS_TYPES,
+  CommentaryInningsType,
   DatabaseIntId,
+  getValidationType,
   Match,
-  MatchData as MatchDataType,
   MatchCard,
+  MatchData as MatchDataType,
   MatchOptional,
   MatchSquad,
   MatchSquadPlayer,
@@ -24,22 +31,18 @@ import {
   MatchSquadPlayerWithInfo,
   MatchWithId,
   PlayerOptional,
-  TeamSquad,
-  UpdateDocType,
-  getValidationType,
+  SCORECARD_INNINGS_TYPES,
   ScorecardBatter,
   ScorecardBowler,
-} from "../types";
-import {
-  SCORECARD_INNINGS_TYPES,
-  COMMENTARY_INNINGS_TYPES,
-  ScorecardInningsType,
-  CommentaryInningsType,
   ScorecardInnings,
   ScorecardInningsEntry,
+  ScorecardInningsType,
+  TeamSquad,
+  UpdateDocType,
 } from "../types";
-import Commentary from "../db/mongo/schema/commentary";
 import { CommentaryInningsEntry, CommentaryItem } from "../types/commentary";
+
+dayjs.extend(utc);
 
 // tables
 const matchesTable = tables.matches;
@@ -1140,7 +1143,16 @@ export async function getCurrentMatches(
   next: NextFunction
 ) {
   try {
-    const results = await db.query.matches.findMany({
+    const currentTime = dayjs("2024-03-24").utc().startOf("day");
+    const fromTime = currentTime.subtract(4, "days").toDate();
+    const endTime = currentTime.add(5, "days").toDate();
+
+    const matches = await db.query.matches.findMany({
+      where: and(
+        gt(matchesTable.startTime, fromTime),
+        lt(matchesTable.startTime, endTime)
+      ),
+      limit: 20,
       columns: {
         id: true,
         description: true,
@@ -1156,12 +1168,14 @@ export async function getCurrentMatches(
         },
         homeTeam: {
           columns: {
+            id: true,
             name: true,
             shortName: true,
           },
         },
         awayTeam: {
           columns: {
+            id: true,
             name: true,
             shortName: true,
           },
@@ -1169,7 +1183,76 @@ export async function getCurrentMatches(
       },
     });
 
-    res.status(200).json(results);
+    const matchIds = matches.map((match) => match.id);
+
+    const getInningsKeys = (inningsType: ScorecardInningsType) => {
+      return {
+        teamId: `$innings.${inningsType}.teamId`,
+        score: `$innings.${inningsType}.score`,
+        wickets: `$innings.${inningsType}.wickets`,
+        oversBowled: `$innings.${inningsType}.oversBowled`,
+      };
+    };
+
+    const matchDataResults = await MatchData.aggregate<{
+      id: MatchDataType["matchId"];
+      state: MatchDataType["state"];
+      status: MatchDataType["status"];
+      innings: (
+        | Omit<
+            BaseScorecardInnings,
+            "overs" | "extras" | "isDeclared" | "isFollowOn"
+          >
+        | {}
+      )[];
+    }>([
+      {
+        $match: {
+          matchId: {
+            $in: matchIds,
+          },
+        },
+      },
+      {
+        $project: {
+          id: "$matchId",
+          status: 1,
+          state: 1,
+          innings: SCORECARD_INNINGS_TYPES.map((inningsType) =>
+            getInningsKeys(inningsType)
+          ),
+        },
+      },
+    ]);
+
+    const matchDataMap: Record<
+      number,
+      {
+        id: number;
+        status: string;
+        innings: Omit<
+          BaseScorecardInnings,
+          "overs" | "extras" | "isDeclared" | "isFollowOn"
+        >[];
+      }
+    > = {};
+    matchDataResults.forEach((matchData) => {
+      matchDataMap[matchData.id] = {
+        ...matchData,
+        innings: matchData.innings.filter(
+          (inningsItem) => "oversBowled" in inningsItem
+        ),
+      };
+    });
+
+    const matchwithDataResults = matches.map((match) => {
+      return {
+        ...match,
+        ...matchDataMap[match.id],
+      };
+    });
+
+    res.status(200).json(matchwithDataResults);
   } catch (err) {
     next(err);
   }
