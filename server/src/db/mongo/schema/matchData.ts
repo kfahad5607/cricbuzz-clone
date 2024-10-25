@@ -126,6 +126,7 @@ const matchDataSchema = new Schema<MatchDataType>({
         type: String,
         enum: MATCH_RESULT_TYPES_VALUES,
       },
+      // can these properties be a single boolean or string type?
       winByInnings: {
         type: Boolean,
         default: false,

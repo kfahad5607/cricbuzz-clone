@@ -31,6 +31,7 @@ import {
   MatchSquadPlayerWithInfo,
   MatchWithId,
   PlayerOptional,
+  PlayerWithId,
   SCORECARD_INNINGS_TYPES,
   ScorecardBatter,
   ScorecardBowler,
@@ -92,8 +93,6 @@ export async function createOne(
 ) {
   try {
     const newMatch: Match = req.body;
-
-    console.log("createOne ", newMatch);
 
     const results = await db
       .insert(matchesTable)
@@ -169,6 +168,12 @@ export async function deleteOne(
     const matchId = parseInt(req.params.id);
 
     await db.delete(matchesTable).where(eq(matchesTable.id, matchId));
+    await MatchData.deleteOne({
+      matchId,
+    });
+    await MatchSquads.deleteOne({
+      matchId,
+    });
 
     const results = await MatchSquads.deleteOne({ matchId });
 
@@ -275,6 +280,7 @@ export async function addInningsScore(
 
     const columnsToFetch = { [`innings.${inningsType}`]: 1 };
     if (prevInningsType) {
+      // Why do this?
       columnsToFetch[`innings.${prevInningsType}.teamId`] = 1;
     }
 
@@ -1149,6 +1155,7 @@ export async function getCurrentMatches(
 
     const matches = await db.query.matches.findMany({
       where: and(
+        // can we use between clause?
         gt(matchesTable.startTime, fromTime),
         lt(matchesTable.startTime, endTime)
       ),
@@ -1185,6 +1192,7 @@ export async function getCurrentMatches(
 
     const matchIds = matches.map((match) => match.id);
 
+    // can this be moved outside?
     const getInningsKeys = (inningsType: ScorecardInningsType) => {
       return {
         teamId: `$innings.${inningsType}.teamId`,
@@ -1240,6 +1248,7 @@ export async function getCurrentMatches(
       matchDataMap[matchData.id] = {
         ...matchData,
         innings: matchData.innings.filter(
+          // Why do we need this filter?
           (inningsItem) => "oversBowled" in inningsItem
         ),
       };
@@ -1274,6 +1283,7 @@ export async function getMatchInfo(
         startTime: true,
         completeTime: true,
       },
+      where: eq(matchesTable.id, matchId),
       with: {
         series: {
           columns: {
@@ -1321,15 +1331,18 @@ export async function getMatchInfo(
       team.players.map((player) => playerIds.push(player.id));
     });
 
-    const playersData = await db
-      .select({
-        id: playersTable.id,
-        name: playersTable.name,
-        shortName: playersTable.shortName,
-        roleInfo: playersTable.roleInfo,
-      })
-      .from(playersTable)
-      .where(inArray(playersTable.id, playerIds));
+    let playersData: Omit<PlayerWithId, "personalInfo" | "team">[] = [];
+    if (playerIds.length > 0) {
+      playersData = await db
+        .select({
+          id: playersTable.id,
+          name: playersTable.name,
+          shortName: playersTable.shortName,
+          roleInfo: playersTable.roleInfo,
+        })
+        .from(playersTable)
+        .where(inArray(playersTable.id, playerIds));
+    }
 
     let playersInfoMap: { [key: DatabaseIntId]: PlayerOptional } = {};
     playersInfoMap = playersData.reduce((acc, val) => {
@@ -1576,15 +1589,19 @@ export async function getMatchPlayers(
       team.players.map((player) => playerIds.push(player.id));
     });
 
-    const playersData = await db
-      .select({
-        id: playersTable.id,
-        name: playersTable.name,
-        shortName: playersTable.shortName,
-        roleInfo: playersTable.roleInfo,
-      })
-      .from(playersTable)
-      .where(inArray(playersTable.id, playerIds));
+    let playersData: Omit<PlayerWithId, "personalInfo" | "team">[] = [];
+
+    if (playerIds.length > 0) {
+      playersData = await db
+        .select({
+          id: playersTable.id,
+          name: playersTable.name,
+          shortName: playersTable.shortName,
+          roleInfo: playersTable.roleInfo,
+        })
+        .from(playersTable)
+        .where(inArray(playersTable.id, playerIds));
+    }
 
     let playersInfoMap: { [key: DatabaseIntId]: PlayerOptional } = {};
     playersInfoMap = playersData.reduce((acc, val) => {
