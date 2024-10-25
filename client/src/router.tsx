@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createBrowserRouter, Navigate } from "react-router-dom";
 import Layout from "./pages/Layout";
 import HomePage from "./pages/HomePage";
 import MatchPage from "./pages/MatchPage";
@@ -23,7 +23,7 @@ const router = createBrowserRouter([
         children: [
           {
             index: true,
-            element: <CommentaryTab />,
+            element: <Navigate to={"commentary"} replace={true} />,
           },
           {
             path: "commentary",
