@@ -873,10 +873,7 @@ async function getMatchData(matchId: number) {
                 input: "$lastInnings.currentBatters",
                 as: "batter",
                 cond: {
-                  $eq: [
-                    { $ifNull: ["$$batter.isStriker", undefined] },
-                    undefined,
-                  ],
+                  $eq: [{ $ifNull: ["$$batter.isStriker", false] }, false],
                 },
               },
             },
@@ -908,7 +905,7 @@ export async function getCommentary(
     const inningsIdx = -1;
 
     const commentaryResult = await getCommentaryData(matchId, inningsIdx);
-    const matchDataResult = await getMatchData(matchId);
+    const matchDataResult = await getMatchData(matchId);    
 
     if (commentaryResult.commentaryList.length === 0 || !matchDataResult) {
       res.status(404);

@@ -7,3 +7,5 @@ export const IdsMap = z.record(
 
 // inferred types
 export type IdsMap = z.infer<typeof IdsMap>;
+
+export type Entities = "venues" | "series" | "matches" | "teams" | "players";

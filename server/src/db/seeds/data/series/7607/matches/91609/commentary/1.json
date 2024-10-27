@@ -21,7 +21,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714903227205,
@@ -45,7 +46,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 1
   },
   {
     "timestamp": 1714903260245,
@@ -69,7 +71,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 2
   },
   {
     "timestamp": 1714903314625,
@@ -93,7 +96,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 3
   },
   {
     "timestamp": 1714903350998,
@@ -117,7 +121,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 5
   },
   {
     "timestamp": 1714903389778,
@@ -141,7 +146,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 6
   },
   {
     "timestamp": 1714903423875,
@@ -165,7 +171,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 6
   },
   {
     "timestamp": 1714903456942,
@@ -191,7 +198,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 6
   },
   {
     "timestamp": 1714903456952,
@@ -215,7 +223,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714903456962,
@@ -239,7 +248,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714903518523,
@@ -263,7 +273,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 6
   },
   {
     "timestamp": 1714903538783,
@@ -289,7 +300,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 10
   },
   {
     "timestamp": 1714903572177,
@@ -313,7 +325,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 10
   },
   {
     "timestamp": 1714903621977,
@@ -337,7 +350,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 11
   },
   {
     "timestamp": 1714903666956,
@@ -361,7 +375,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 12
   },
   {
     "timestamp": 1714903672956,
@@ -385,7 +400,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714903753457,
@@ -409,7 +425,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 12
   },
   {
     "timestamp": 1714903756787,
@@ -435,7 +452,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 12
   },
   {
     "timestamp": 1714903871745,
@@ -459,7 +477,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 12
   },
   {
     "timestamp": 1714903895605,
@@ -485,7 +504,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 13
   },
   {
     "timestamp": 1714903977931,
@@ -509,7 +529,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 16
   },
   {
     "timestamp": 1714904009625,
@@ -533,7 +554,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 17
   },
   {
     "timestamp": 1714904065409,
@@ -557,7 +579,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 18
   },
   {
     "timestamp": 1714904101550,
@@ -583,7 +606,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 22
   },
   {
     "timestamp": 1714904141704,
@@ -607,7 +631,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 22
   },
   {
     "timestamp": 1714904172886,
@@ -633,7 +658,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 22
   },
   {
     "timestamp": 1714904247440,
@@ -659,7 +685,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 26
   },
   {
     "timestamp": 1714904284976,
@@ -685,7 +712,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 32
   },
   {
     "timestamp": 1714904334590,
@@ -709,7 +737,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 32
   },
   {
     "timestamp": 1714904370933,
@@ -733,7 +762,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 32
   },
   {
     "timestamp": 1714904415727,
@@ -757,7 +787,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 33
   },
   {
     "timestamp": 1714904461553,
@@ -783,7 +814,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 34
   },
   {
     "timestamp": 1714904515432,
@@ -807,7 +839,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 34
   },
   {
     "timestamp": 1714904545089,
@@ -831,7 +864,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 35
   },
   {
     "timestamp": 1714904597905,
@@ -855,7 +889,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 37
   },
   {
     "timestamp": 1714904600905,
@@ -879,7 +914,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714904639598,
@@ -903,7 +939,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 38
   },
   {
     "timestamp": 1714904683671,
@@ -927,7 +964,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 39
   },
   {
     "timestamp": 1714904726171,
@@ -951,7 +989,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 41
   },
   {
     "timestamp": 1714904762448,
@@ -977,7 +1016,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 41
   },
   {
     "timestamp": 1714904805559,
@@ -1001,7 +1041,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 41
   },
   {
     "timestamp": 1714904840427,
@@ -1025,7 +1066,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 41
   },
   {
     "timestamp": 1714904853425,
@@ -1051,7 +1093,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 47
   },
   {
     "timestamp": 1714904884173,
@@ -1078,7 +1121,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 51
   },
   {
     "timestamp": 1714904922465,
@@ -1104,7 +1148,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 55
   },
   {
     "timestamp": 1714904950772,
@@ -1128,7 +1173,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 56
   },
   {
     "timestamp": 1714904989916,
@@ -1156,7 +1202,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 60
   },
   {
     "timestamp": 1714904989926,
@@ -1180,7 +1227,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714905071142,
@@ -1207,7 +1255,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 64
   },
   {
     "timestamp": 1714905110502,
@@ -1231,7 +1280,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 65
   },
   {
     "timestamp": 1714905146940,
@@ -1255,7 +1305,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 66
   },
   {
     "timestamp": 1714905191998,
@@ -1279,7 +1330,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 67
   },
   {
     "timestamp": 1714905220730,
@@ -1305,7 +1357,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 68
   },
   {
     "timestamp": 1714905260953,
@@ -1331,7 +1384,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 69
   },
   {
     "timestamp": 1714905263953,
@@ -1355,7 +1409,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714905440073,
@@ -1379,7 +1434,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 69
   },
   {
     "timestamp": 1714905472079,
@@ -1403,7 +1459,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 69
   },
   {
     "timestamp": 1714905475659,
@@ -1429,7 +1486,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 69
   },
   {
     "timestamp": 1714905508968,
@@ -1453,7 +1511,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 69
   },
   {
     "timestamp": 1714905577085,
@@ -1477,7 +1536,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 69
   },
   {
     "timestamp": 1714905580261,
@@ -1503,7 +1563,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 69
   },
   {
     "timestamp": 1714905583261,
@@ -1527,7 +1588,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714905651448,
@@ -1551,7 +1613,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 69
   },
   {
     "timestamp": 1714905714854,
@@ -1575,7 +1638,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 69
   },
   {
     "timestamp": 1714905731197,
@@ -1599,7 +1663,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 69
   },
   {
     "timestamp": 1714905757194,
@@ -1623,7 +1688,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 70
   },
   {
     "timestamp": 1714905803777,
@@ -1649,7 +1715,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 71
   },
   {
     "timestamp": 1714905847450,
@@ -1673,7 +1740,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 71
   },
   {
     "timestamp": 1714905888795,
@@ -1697,7 +1765,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 72
   },
   {
     "timestamp": 1714905939335,
@@ -1721,7 +1790,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 73
   },
   {
     "timestamp": 1714905976987,
@@ -1745,7 +1815,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 74
   },
   {
     "timestamp": 1714906009075,
@@ -1769,7 +1840,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 75
   },
   {
     "timestamp": 1714906012075,
@@ -1793,7 +1865,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714906120361,
@@ -1817,7 +1890,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 75
   },
   {
     "timestamp": 1714906123850,
@@ -1844,7 +1918,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 75
   },
   {
     "timestamp": 1714906181008,
@@ -1868,7 +1943,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 75
   },
   {
     "timestamp": 1714906228070,
@@ -1892,7 +1968,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 76
   },
   {
     "timestamp": 1714906260257,
@@ -1918,7 +1995,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 76
   },
   {
     "timestamp": 1714906326092,
@@ -1942,7 +2020,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 76
   },
   {
     "timestamp": 1714906344615,
@@ -1966,7 +2045,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 77
   },
   {
     "timestamp": 1714906384103,
@@ -1990,7 +2070,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 78
   },
   {
     "timestamp": 1714906409906,
@@ -2014,7 +2095,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 79
   },
   {
     "timestamp": 1714906430298,
@@ -2038,7 +2120,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 79
   },
   {
     "timestamp": 1714906454456,
@@ -2064,7 +2147,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 79
   },
   {
     "timestamp": 1714906511073,
@@ -2088,7 +2172,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 79
   },
   {
     "timestamp": 1714906543834,
@@ -2112,7 +2197,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 80
   },
   {
     "timestamp": 1714906592469,
@@ -2136,7 +2222,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 81
   },
   {
     "timestamp": 1714906623878,
@@ -2160,7 +2247,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 82
   },
   {
     "timestamp": 1714906662898,
@@ -2186,7 +2274,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 86
   },
   {
     "timestamp": 1714906715013,
@@ -2213,7 +2302,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 90
   },
   {
     "timestamp": 1714906781955,
@@ -2237,7 +2327,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 90
   },
   {
     "timestamp": 1714906819059,
@@ -2261,7 +2352,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 90
   },
   {
     "timestamp": 1714906848777,
@@ -2285,7 +2377,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 90
   },
   {
     "timestamp": 1714906879848,
@@ -2311,7 +2404,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 94
   },
   {
     "timestamp": 1714906919470,
@@ -2335,7 +2429,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 94
   },
   {
     "timestamp": 1714906950604,
@@ -2361,7 +2456,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 98
   },
   {
     "timestamp": 1714906995073,
@@ -2387,7 +2483,8 @@
       "bowlWickets": 0,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 99
   },
   {
     "timestamp": 1714907056324,
@@ -2411,7 +2508,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 99
   },
   {
     "timestamp": 1714907062762,
@@ -2435,7 +2533,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 99
   },
   {
     "timestamp": 1714907094427,
@@ -2461,7 +2560,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 100
   },
   {
     "timestamp": 1714907131988,
@@ -2485,7 +2585,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 101
   },
   {
     "timestamp": 1714907185326,
@@ -2509,7 +2610,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 101
   },
   {
     "timestamp": 1714907189755,
@@ -2535,7 +2637,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 101
   },
   {
     "timestamp": 1714907253961,
@@ -2559,7 +2662,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 101
   },
   {
     "timestamp": 1714907312663,
@@ -2583,7 +2687,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 102
   },
   {
     "timestamp": 1714907362294,
@@ -2609,7 +2714,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 103
   },
   {
     "timestamp": 1714907399868,
@@ -2633,7 +2739,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 103
   },
   {
     "timestamp": 1714907437573,
@@ -2657,7 +2764,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 104
   },
   {
     "timestamp": 1714907484533,
@@ -2681,7 +2789,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 105
   },
   {
     "timestamp": 1714907520248,
@@ -2705,7 +2814,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 105
   },
   {
     "timestamp": 1714907594290,
@@ -2729,7 +2839,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 108
   },
   {
     "timestamp": 1714907633305,
@@ -2753,7 +2864,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 108
   },
   {
     "timestamp": 1714907667859,
@@ -2779,7 +2891,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 109
   },
   {
     "timestamp": 1714907670859,
@@ -2803,7 +2916,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714907714334,
@@ -2827,7 +2941,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 109
   },
   {
     "timestamp": 1714907739040,
@@ -2851,7 +2966,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 109
   },
   {
     "timestamp": 1714907774693,
@@ -2877,7 +2993,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 113
   },
   {
     "timestamp": 1714907821429,
@@ -2901,7 +3018,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 114
   },
   {
     "timestamp": 1714907867682,
@@ -2925,7 +3043,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 115
   },
   {
     "timestamp": 1714907907945,
@@ -2949,7 +3068,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 116
   },
   {
     "timestamp": 1714907949372,
@@ -2975,7 +3095,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 117
   },
   {
     "timestamp": 1714907952372,
@@ -2999,7 +3120,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714907952382,
@@ -3023,7 +3145,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714908121031,
@@ -3047,7 +3170,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 117
   },
   {
     "timestamp": 1714908154576,
@@ -3071,7 +3195,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 118
   },
   {
     "timestamp": 1714908179727,
@@ -3095,7 +3220,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 119
   },
   {
     "timestamp": 1714908205418,
@@ -3119,7 +3245,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 120
   },
   {
     "timestamp": 1714908225190,
@@ -3143,7 +3270,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 121
   },
   {
     "timestamp": 1714908244912,
@@ -3167,7 +3295,8 @@
       "bowlWickets": 2,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 122
   },
   {
     "timestamp": 1714908273381,
@@ -3191,7 +3320,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 122
   },
   {
     "timestamp": 1714908276819,
@@ -3218,7 +3348,8 @@
       "bowlWickets": 3,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 122
   },
   {
     "timestamp": 1714908337734,
@@ -3242,7 +3373,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 122
   },
   {
     "timestamp": 1714908350467,
@@ -3266,7 +3398,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 122
   },
   {
     "timestamp": 1714908365780,
@@ -3290,7 +3423,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 123
   },
   {
     "timestamp": 1714908411864,
@@ -3316,7 +3450,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 127
   },
   {
     "timestamp": 1714908452417,
@@ -3343,7 +3478,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 133
   },
   {
     "timestamp": 1714908491544,
@@ -3367,7 +3503,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 134
   },
   {
     "timestamp": 1714908532609,
@@ -3391,7 +3528,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 135
   },
   {
     "timestamp": 1714908535609,
@@ -3415,7 +3553,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714908565287,
@@ -3442,7 +3581,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 136
   },
   {
     "timestamp": 1714908655542,
@@ -3468,7 +3608,8 @@
       "bowlWickets": 3,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 140
   },
   {
     "timestamp": 1714908690772,
@@ -3492,7 +3633,8 @@
       "bowlWickets": 3,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 141
   },
   {
     "timestamp": 1714908709682,
@@ -3518,7 +3660,8 @@
       "bowlWickets": 3,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 147
   },
   {
     "timestamp": 1714908741831,
@@ -3542,7 +3685,8 @@
       "bowlWickets": 3,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 148
   },
   {
     "timestamp": 1714908744831,
@@ -3566,7 +3710,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714908775355,
@@ -3590,7 +3735,8 @@
       "bowlWickets": 3,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 149
   },
   {
     "timestamp": 1714908789633,
@@ -3614,7 +3760,8 @@
       "bowlWickets": 3,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 149
   },
   {
     "timestamp": 1714908807420,
@@ -3640,7 +3787,8 @@
       "bowlWickets": 3,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 149
   },
   {
     "timestamp": 1714908882937,
@@ -3664,7 +3812,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 149
   },
   {
     "timestamp": 1714908889045,
@@ -3690,7 +3839,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 150
   },
   {
     "timestamp": 1714908923897,
@@ -3714,7 +3864,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 150
   },
   {
     "timestamp": 1714908926897,
@@ -3738,7 +3889,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714908955107,
@@ -3762,7 +3914,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 150
   },
   {
     "timestamp": 1714908988440,
@@ -3786,7 +3939,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 150
   },
   {
     "timestamp": 1714908991549,
@@ -3812,7 +3966,8 @@
       "bowlWickets": 2,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 150
   },
   {
     "timestamp": 1714908994549,
@@ -3836,7 +3991,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714909011263,
@@ -3860,7 +4016,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 150
   },
   {
     "timestamp": 1714909100670,
@@ -3884,7 +4041,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 150
   },
   {
     "timestamp": 1714909103907,
@@ -3910,7 +4068,8 @@
       "bowlWickets": 3,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 150
   },
   {
     "timestamp": 1714909187967,
@@ -3934,7 +4093,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 150
   },
   {
     "timestamp": 1714909203925,
@@ -3958,7 +4118,8 @@
       "bowlWickets": 3,
       "bowlWides": 2,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 151
   },
   {
     "timestamp": 1714909230495,
@@ -3984,7 +4145,8 @@
       "bowlWickets": 3,
       "bowlWides": 2,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 151
   },
   {
     "timestamp": 1714909276563,
@@ -4008,7 +4170,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 151
   },
   {
     "timestamp": 1714909287832,
@@ -4034,7 +4197,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 155
   },
   {
     "timestamp": 1714909328920,
@@ -4058,7 +4222,8 @@
       "bowlWickets": 1,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 157
   },
   {
     "timestamp": 1714909360559,
@@ -4082,7 +4247,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 158
   },
   {
     "timestamp": 1714909396719,
@@ -4108,7 +4274,8 @@
       "bowlWickets": 1,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 164
   },
   {
     "timestamp": 1714909442407,
@@ -4132,7 +4299,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 164
   },
   {
     "timestamp": 1714909446964,
@@ -4158,7 +4326,8 @@
       "bowlWickets": 2,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 164
   },
   {
     "timestamp": 1714909484860,
@@ -4182,7 +4351,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 164
   },
   {
     "timestamp": 1714909527489,
@@ -4206,7 +4376,8 @@
       "bowlWickets": 2,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 166
   },
   {
     "timestamp": 1714909572255,
@@ -4233,7 +4404,8 @@
       "bowlWickets": 2,
       "bowlWides": 1,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 167
   },
   {
     "timestamp": 1714909575255,
@@ -4257,7 +4429,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714909575265,
@@ -4281,7 +4454,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714909575275,
@@ -4305,7 +4479,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714909575285,
@@ -4329,7 +4504,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714909575295,
@@ -4353,7 +4529,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714909575305,
@@ -4377,7 +4554,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714909575315,
@@ -4401,7 +4579,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714909575325,
@@ -4425,7 +4604,8 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   },
   {
     "timestamp": 1714910593492,
@@ -4449,6 +4629,7 @@
       "bowlWickets": 0,
       "bowlWides": 0,
       "bowlNoBalls": 0
-    }
+    },
+    "batTeamScore": 0
   }
 ]

@@ -104,11 +104,14 @@ export const MatchData = z.object({
   results: MatchResults.default({ winByInnings: false, winByRuns: false }),
 });
 
+
 export const ScorecardInningsEntry = BaseScorecardInnings.extend({
-  batsmanStriker: ScorecardBatter,
-  batsmanNonStriker: ScorecardBatter.optional(),
-  bowlerStriker: ScorecardBowlerSchema,
-  bowlerNonStriker: ScorecardBowlerSchema.optional(),
+  batsmanStriker: z.union([ScorecardBatter, z.literal(null)]).optional(),
+  batsmanNonStriker: z.union([ScorecardBatter, z.literal(null)]).optional(),
+  bowlerStriker: z.union([ScorecardBowlerSchema, z.literal(null)]).optional(),
+  bowlerNonStriker: z
+    .union([ScorecardBowlerSchema, z.literal(null)])
+    .optional(),
   extras: extraBall,
 });
 

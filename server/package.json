@@ -10,11 +10,13 @@
     "generate": "drizzle-kit generate",
     "migrate": "drizzle-kit migrate",
     "studio": "drizzle-kit studio",
-    "seed": "ts-node ./src/db/seeds/index.ts"
+    "seed": "ts-node ./src/db/seeds/index.ts",
+    "matchPlay": "ts-node ./src/db/seeds/match-play.ts"
   },
   "author": "Fahad Khan",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.7.7",
     "cors": "^2.8.5",
     "dayjs": "^1.11.11",
     "dotenv": "^16.4.5",

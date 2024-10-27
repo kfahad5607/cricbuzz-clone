@@ -1,3 +1,4 @@
+import { mkdir } from "fs/promises";
 import * as z from "zod";
 import {
   CommentaryItem,
@@ -9,10 +10,11 @@ import {
 } from "../../types";
 import { MatchData } from "../../types/matchData";
 import Commentary from "../mongo/schema/commentary";
-import MatchSquads from "../mongo/schema/matchSquad";
 import MatchDataModel from "../mongo/schema/matchData";
+import MatchSquads from "../mongo/schema/matchSquad";
 import { db } from "../postgres";
 import * as tables from "../postgres/schema";
+import { getIdsMap } from "./helpers";
 import { BASE_DATA_PATH } from "./helpers/constants";
 import { readDirectory, readFileData, writeFileData } from "./helpers/file";
 import { IdsMap } from "./helpers/types";
@@ -36,8 +38,6 @@ const SeriesData = z.record(z.coerce.number().positive(), SeriesWithOptionalId);
 const CommentaryData = z.array(CommentaryItem);
 
 // types
-type Entities = "venues" | "series" | "teams" | "players";
-
 type InfoData = z.infer<typeof InfoData>;
 type SquadsData = z.infer<typeof SquadsData>;
 
@@ -46,26 +46,6 @@ type SeriesData = z.infer<typeof SeriesData>;
 
 // consts
 const BASE_PATH = BASE_DATA_PATH + "series/";
-
-const getIdsMap = async (entity: Entities): Promise<IdsMap> => {
-  try {
-    const idsMapContents = await readFileData(
-      `${BASE_DATA_PATH}${entity}/idsMap.json`
-    );
-
-    if (!idsMapContents)
-      throw new Error(`No ${entity} ids map data found to seed...`);
-
-    const idsMapData = JSON.parse(idsMapContents);
-    // validate
-    IdsMap.parse(idsMapData);
-
-    return idsMapData;
-  } catch (err) {
-    if (err instanceof Error) throw new Error(err.message);
-    throw new Error(String(err));
-  }
-};
 
 const getMatchCommentary = async (
   seriesId: number,
@@ -246,14 +226,21 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     };
 
     await MatchSquads.create(matchSquad);
+    // temp for testing
+    matchData.innings = {};
+    // temp for testing
     await MatchDataModel.create(matchData);
     await Commentary.create(commentaryData);
 
     console.log("Seeding match finished... ");
+
+    return insertedMatchId;
   } catch (err) {
     console.error("ERROR in seeding match ==> ", err);
     if (err instanceof Error) throw new Error(err.message);
   }
+
+  return 0;
 };
 
 const seedSeriesMatches = async (seriesId: number) => {
@@ -266,10 +253,23 @@ const seedSeriesMatches = async (seriesId: number) => {
       return;
     }
 
+    const matchIdsMap: IdsMap = {};
     for (let i = 0; i < matchIds.length; i++) {
       const matchId = parseInt(matchIds[i]);
-      await seedMatch(seriesId, matchId);
+      const insertedMatchId = await seedMatch(seriesId, matchId);
+
+      if (insertedMatchId) {
+        matchIdsMap[matchId] = insertedMatchId;
+      }
     }
+
+    await mkdir(`${BASE_DATA_PATH}matches`, {
+      recursive: true,
+    });
+    await writeFileData(
+      BASE_DATA_PATH + "matches/idsMap.json",
+      JSON.stringify(matchIdsMap, null, 2)
+    );
   } catch (err) {
     console.error("ERROR in seedSeriesMatches ", err);
     if (err instanceof Error) throw new Error(err.message);

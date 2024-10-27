@@ -1,3 +1,5 @@
+export const BALLS_IN_OVER = 6;
+
 export const MATCH_FORMATS = {
   TEST: "test",
   ODI: "odi",
