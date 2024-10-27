@@ -21,13 +21,14 @@ const CommentaryBatterSchema = ScorecardBatterSchema.omit({
 
 const CommentaryBowlerSchema = ScorecardBowlerSchema;
 
+// do we need to store the complete players object or just the ID will suffice
 export const CommentaryItem = z.object({
   timestamp: z.coerce.number(),
   overs: z.coerce.number().nonnegative(),
   commText: z.string(),
   events: z.array(z.enum(BALL_EVENTS)),
-  batsmanStriker: CommentaryBatterSchema,
-  bowlerStriker: CommentaryBowlerSchema,
+  batsmanStriker: CommentaryBatterSchema.optional(),
+  bowlerStriker: CommentaryBowlerSchema.optional(),
 });
 
 export const CommentaryInnings = z.object({
@@ -43,8 +44,8 @@ export const Commentary = z.object({
 export const CommentaryInningsEntry = z.object({
   commText: z.string().min(1),
   events: z.array(z.enum(BALL_EVENTS)),
-  ballStrikerKey: batterHolderKeysEnum,
-  scorecard: ScorecardInningsEntry,
+  // ballStrikerKey: batterHolderKeysEnum,
+  scorecard: ScorecardInningsEntry.optional(),
 });
 
 export const CommentaryInningsType = z.enum(COMMENTARY_INNINGS_TYPES);

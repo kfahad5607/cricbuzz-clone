@@ -295,7 +295,7 @@ export async function addInningsScore(
 
     if (!matchData) {
       // document does not exist
-      if (inningsType !== "first")
+      if (prevInningsType)
         throw new Error(
           `Cannot add score for '${inningsType}' innings before '${prevInningsType}' innings`
         );
@@ -372,6 +372,7 @@ export async function addInningsScore(
       if (!bowler) return;
 
       if (key === "bowlerStriker") {
+        // why need two flags for striker?
         bowler.isStriker = true;
         bowler.isNonStriker = false;
       } else if (key === "bowlerNonStriker") {
@@ -711,12 +712,14 @@ async function getCommentaryData(
       $project: {
         totalInnings: 1,
         totalRemainingItems: {
-          $size: "$commentaryList",
+          $size: {
+            $ifNull: ["$commentaryList", []],
+          },
         },
         commentaryList: {
           $reverseArray: {
             $lastN: {
-              input: "$commentaryList",
+              input: { $ifNull: ["$commentaryList", []] },
               n: COMMENTARY_ITEMS_COUNT,
             },
           },
@@ -905,7 +908,7 @@ export async function getCommentary(
     const inningsIdx = -1;
 
     const commentaryResult = await getCommentaryData(matchId, inningsIdx);
-    const matchDataResult = await getMatchData(matchId);    
+    const matchDataResult = await getMatchData(matchId);
 
     if (commentaryResult.commentaryList.length === 0 || !matchDataResult) {
       res.status(404);
@@ -976,17 +979,15 @@ export async function addInningsCommentary(
       COMMENTARY_INNINGS_TYPES[inningsIndex - 1];
     const commentaryEntry = req.body;
     const scorecardInningsEntry = commentaryEntry.scorecard;
-    const commentaryStriker =
-      scorecardInningsEntry[commentaryEntry.ballStrikerKey];
-    const teamId = scorecardInningsEntry.teamId;
+    const teamId = scorecardInningsEntry?.teamId || 0;
 
     const commentaryItem = {
       commText: commentaryEntry.commText,
       timestamp: new Date().getTime(),
-      overs: scorecardInningsEntry.oversBowled,
+      overs: scorecardInningsEntry?.oversBowled || 0,
       events: commentaryEntry.events,
-      batsmanStriker: commentaryStriker,
-      bowlerStriker: scorecardInningsEntry.bowlerStriker,
+      batsmanStriker: scorecardInningsEntry?.batsmanStriker,
+      bowlerStriker: scorecardInningsEntry?.bowlerStriker,
     };
 
     const matchDataColumnsToFetch = { [`innings.${inningsType}`]: 1 };
@@ -1000,7 +1001,7 @@ export async function addInningsCommentary(
       commentaryFilter[`innings.${inningsIndex - 1}`] = { $exists: true };
     }
 
-    if (inningsType !== "preview") {
+    if (scorecardInningsEntry && inningsType !== "preview") {
       let matchData = await MatchData.findOne(
         {
           matchId,
@@ -1057,7 +1058,7 @@ export async function addInningsCommentary(
         matchData.innings[inningsType];
       if (!innings) {
         matchData.innings[inningsType] = {
-          teamId: scorecardInningsEntry.teamId,
+          teamId,
           overs: 0,
           oversBowled: 0,
           score: 0,
@@ -1093,6 +1094,14 @@ export async function addInningsCommentary(
         let bowler = scorecardInningsEntry[key];
         if (!bowler) return;
 
+        if (key === "bowlerStriker") {
+          bowler.isStriker = true;
+          bowler.isNonStriker = false;
+        } else if (key === "bowlerNonStriker") {
+          bowler.isStriker = false;
+          bowler.isNonStriker = true;
+        }
+
         addScorecardBowler(innings!.bowlers, bowler);
       });
 
@@ -1112,14 +1121,16 @@ export async function addInningsCommentary(
       // commentary does not exist
 
       // validate match
-      await verifyMatchAndTeam(matchId, teamId);
+      if (teamId > 0) {
+        await verifyMatchAndTeam(matchId, teamId);
+      }
 
       if (prevInningsType)
         throw new Error(
           `Cannot add commentary for '${inningsType}' innings before '${prevInningsType}' innings.`
         );
 
-      const commentary = await Commentary.create({
+      await Commentary.create({
         matchId,
         innings: [
           {

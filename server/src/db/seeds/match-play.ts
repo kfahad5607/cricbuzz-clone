@@ -1,20 +1,20 @@
 import axios from "axios";
 import { mkdir } from "fs/promises";
 import * as z from "zod";
+import { oversToballNum } from "../../helpers";
 import {
+  CommentaryInningsEntry,
+  CommentaryInningsType,
   CommentaryItem,
   MatchData,
   ScorecardBatter,
   ScorecardBowler,
   ScorecardInnings,
-  ScorecardInningsEntry,
-  ScorecardInningsType,
 } from "../../types";
+import { getIdsMap } from "./helpers";
 import { BASE_DATA_PATH } from "./helpers/constants";
 import { readDirectory, readFileData, writeFileData } from "./helpers/file";
 import { IdsMap } from "./helpers/types";
-import { oversToballNum } from "../../helpers";
-import { getIdsMap } from "./helpers";
 
 // can these types be moved
 const CommentaryData = z.array(
@@ -28,6 +28,14 @@ type CommentaryData = z.infer<typeof CommentaryData>;
 const seriesId = 7607;
 const matchId = 89654;
 const baseMatchPath = `${BASE_DATA_PATH}series/${seriesId}/matches/${matchId}/`;
+
+const inningsIdMap: { [k: number]: CommentaryInningsType } = {
+  0: "preview",
+  1: "first",
+  2: "second",
+  3: "third",
+  4: "fourth",
+};
 
 const sleep = (ms: number) => {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -79,16 +87,16 @@ const rotateStrike = (
 };
 
 const sendRequest = async (
-  payload: ScorecardInningsEntry,
+  payload: CommentaryInningsEntry,
   matchId: number,
-  inningsType: ScorecardInningsType
+  inningsType: CommentaryInningsType
 ) => {
   const BASE_URL = "http://localhost:8000/";
   try {
     console.log(payload);
 
     const res = await axios.post(
-      `${BASE_URL}matches/${matchId}/innings/${inningsType}/score`,
+      `${BASE_URL}matches/${matchId}/innings/${inningsType}/commentary`,
       payload
     );
     console.log("res ", res.data);
@@ -97,13 +105,13 @@ const sendRequest = async (
   }
 };
 
-const playInnings = async (
+const generateInningsPayloads = async (
   inningsId: number,
-  innings: ScorecardInnings,
+  innings: ScorecardInnings | undefined,
   idsMap: { teams: IdsMap; players: IdsMap }
 ) => {
   try {
-    const payloadData: ScorecardInningsEntry[] = [];
+    const payloadData: CommentaryInningsEntry[] = [];
     const commentaryPath = `${baseMatchPath}commentary/${inningsId}.json`;
 
     const commentaryDataContents = await readFileData(commentaryPath);
@@ -115,6 +123,24 @@ const playInnings = async (
 
     const commentaryData: CommentaryData = JSON.parse(commentaryDataContents);
     CommentaryData.parse(commentaryData);
+
+    if (!innings) {
+      commentaryData.forEach((commentary) => {
+        const payload = {
+          teamId: 0,
+          commText: commentary.commText,
+          events: commentary.events,
+        };
+
+        payloadData.push(payload);
+      });
+
+      await writeFileData(
+        `${baseMatchPath}/payloads/${inningsId}.json`,
+        JSON.stringify(payloadData, null, 2)
+      );
+      return;
+    }
 
     const teamId = idsMap.teams[innings.teamId];
     const overs = innings.overs;
@@ -182,11 +208,12 @@ const playInnings = async (
     commentaryData.forEach((commentary) => {
       if (commentary.ballNbr === 0) return;
 
-      let batsmanStriker: ScorecardBatter = commentary.batsmanStriker;
+      let batsmanStriker: ScorecardBatter = commentary.batsmanStriker!;
       batsmanStriker.id = idsMap.players[batsmanStriker.id];
 
       let batsmanNonStriker: ScorecardBatter = lastBatsmanNonStriker;
-      let bowlerStriker: ScorecardBowler | undefined = commentary.bowlerStriker;
+      let bowlerStriker: ScorecardBowler | undefined =
+        commentary.bowlerStriker!;
       bowlerStriker.id = idsMap.players[bowlerStriker.id];
 
       let bowlerNonStriker: ScorecardBowler | undefined = lastBowlerNonStriker;
@@ -256,28 +283,26 @@ const playInnings = async (
       lastBowlerStriker = bowlerStriker;
       lastBowlerNonStriker = bowlerNonStriker;
 
-      // if (lastBatsmanStriker.fallOfWicket) {
-      //   lastBatsmanStriker = getNewBatsman(0);
-      // } else if (lastBatsmanNonStriker.fallOfWicket) {
-      //   lastBatsmanNonStriker = getNewBatsman(0);
-      // }
-
-      const payload: ScorecardInningsEntry = {
-        teamId,
-        overs,
-        oversBowled: commentary.overs,
-        score,
-        wickets,
-        extras: { ...extras },
-        batsmanStriker,
-        batsmanNonStriker,
+      const payload: CommentaryInningsEntry = {
+        commText: commentary.commText,
+        events: commentary.events,
+        scorecard: {
+          teamId,
+          overs,
+          oversBowled: commentary.overs,
+          score,
+          wickets,
+          extras: { ...extras },
+          batsmanStriker,
+          batsmanNonStriker,
+        },
       };
 
-      if (bowlerStriker !== undefined) {
-        payload.bowlerStriker = bowlerStriker;
+      if (bowlerStriker !== undefined && payload.scorecard) {
+        payload.scorecard.bowlerStriker = bowlerStriker;
       }
-      if (bowlerNonStriker !== undefined) {
-        payload.bowlerNonStriker = bowlerNonStriker;
+      if (bowlerNonStriker !== undefined && payload.scorecard) {
+        payload.scorecard.bowlerNonStriker = bowlerNonStriker;
       }
 
       lastScore = score;
@@ -300,24 +325,60 @@ const playInnings = async (
         battedSoFar.add(idsMap.players[nextBatter.id]);
         if (lastBatsmanStriker.fallOfWicket) {
           lastBatsmanStriker = getNewBatsman(idsMap.players[nextBatter.id]);
-          payloadData.push({
+
+          let _payload = {
             ...payload,
-            batsmanStriker: null,
-          });
-          payloadData.push({
+          };
+
+          if (_payload.scorecard) {
+            _payload.scorecard = {
+              ..._payload.scorecard,
+              batsmanStriker: null,
+            };
+          }
+
+          payloadData.push(_payload);
+
+          _payload = {
             ...payload,
-            batsmanStriker: lastBatsmanStriker,
-          });
+          };
+
+          if (_payload.scorecard) {
+            _payload.scorecard = {
+              ..._payload.scorecard,
+              batsmanStriker: lastBatsmanStriker,
+            };
+          }
+
+          payloadData.push(_payload);
         } else {
           lastBatsmanNonStriker = getNewBatsman(idsMap.players[nextBatter.id]);
-          payloadData.push({
+
+          let _payload = {
             ...payload,
-            batsmanNonStriker: null,
-          });
-          payloadData.push({
+          };
+
+          if (_payload.scorecard) {
+            _payload.scorecard = {
+              ..._payload.scorecard,
+              batsmanNonStriker: null,
+            };
+          }
+
+          payloadData.push(_payload);
+
+          _payload = {
             ...payload,
-            batsmanNonStriker: lastBatsmanNonStriker,
-          });
+          };
+
+          if (_payload.scorecard) {
+            _payload.scorecard = {
+              ..._payload.scorecard,
+              batsmanNonStriker: lastBatsmanNonStriker,
+            };
+          }
+
+          payloadData.push(_payload);
         }
       }
     });
@@ -331,7 +392,7 @@ const playInnings = async (
   }
 };
 
-const main = async () => {
+const generateMatchPayloads = async () => {
   try {
     const matchDataPath = `${baseMatchPath}matchData.json`;
     const matchDataContents = await readFileData(matchDataPath);
@@ -343,13 +404,6 @@ const main = async () => {
     const matchData: MatchData = JSON.parse(matchDataContents);
     MatchData.parse(matchData);
 
-    const inningsTypeMap = {
-      first: 1,
-      second: 2,
-      third: 3,
-      fourth: 4,
-    };
-
     // const seriesIdsMap = await getIdsMap("series");
     const teamIdsMap = await getIdsMap("teams");
     const playerIdsMap = await getIdsMap("players");
@@ -358,16 +412,25 @@ const main = async () => {
       recursive: true,
     });
 
-    for (const inningsType in matchData.innings) {
-      const _inningsType = inningsType as ScorecardInningsType;
-      await playInnings(
-        inningsTypeMap[_inningsType],
-        matchData.innings[_inningsType]!,
-        {
-          teams: teamIdsMap,
-          players: playerIdsMap,
-        }
-      );
+    const commentaryFiles = await readDirectory(`${baseMatchPath}commentary`);
+    if (!commentaryFiles) {
+      console.log("No commentary files found");
+      return;
+    }
+
+    console.log("commentaryFiles ", commentaryFiles);
+
+    for (let i = 0; i < commentaryFiles.length; i++) {
+      const _inningsType = inningsIdMap[i];
+      let innings =
+        _inningsType === "preview"
+          ? undefined
+          : matchData.innings[_inningsType];
+
+      await generateInningsPayloads(i, innings, {
+        teams: teamIdsMap,
+        players: playerIdsMap,
+      });
     }
   } catch (err) {
     console.error("ERR in match play ", err);
@@ -386,6 +449,7 @@ const playMatch = async () => {
       return;
     }
 
+    console.log("payloadFiless ", payloadFiles);
     for (let i = 0; i < payloadFiles.length; i++) {
       const payloadFile = payloadFiles[i];
       const payloadData = await readFileData(`${basePath}/${payloadFile}`);
@@ -394,10 +458,10 @@ const playMatch = async () => {
         console.log("No payload data found");
         return;
       }
-      const payloads: ScorecardInningsEntry[] = JSON.parse(payloadData);
+      const payloads: CommentaryInningsEntry[] = JSON.parse(payloadData);
 
       for (const payload of payloads) {
-        await sendRequest(payload, nativeMatchId, "first");
+        await sendRequest(payload, nativeMatchId, inningsIdMap[i]);
 
         console.log("Sleeping ");
         await sleep(3000);
@@ -406,8 +470,10 @@ const playMatch = async () => {
 
       console.log(typeof payloads);
     }
-  } catch (err) {}
+  } catch (err) {
+    console.log("ERR in playmatch ", err);
+  }
 };
 
-main();
-// playMatch();
+// generateMatchPayloads();
+playMatch();

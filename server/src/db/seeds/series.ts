@@ -207,11 +207,12 @@ const seedMatch = async (seriesId: number, matchId: number) => {
       );
 
       commentaryList.forEach((commentary) => {
-        const batterId = commentary.batsmanStriker.id;
-        const bowlerId = commentary.bowlerStriker.id;
+        const batterId = commentary.batsmanStriker!.id;
+        const bowlerId = commentary.bowlerStriker!.id;
 
-        if (batterId > 0) commentary.batsmanStriker.id = playerIdsMap[batterId];
-        if (bowlerId > 0) commentary.bowlerStriker.id = playerIdsMap[bowlerId];
+        if (batterId > 0)
+          commentary.batsmanStriker!.id = playerIdsMap[batterId];
+        if (bowlerId > 0) commentary.bowlerStriker!.id = playerIdsMap[bowlerId];
       });
 
       commentaryInnings.push({
@@ -230,6 +231,9 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     matchData.innings = {};
     // temp for testing
     await MatchDataModel.create(matchData);
+    // temp for testing
+    commentaryData.innings = [];
+    // temp for testing
     await Commentary.create(commentaryData);
 
     console.log("Seeding match finished... ");
