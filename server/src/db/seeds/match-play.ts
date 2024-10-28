@@ -10,6 +10,7 @@ import {
   ScorecardBatter,
   ScorecardBowler,
   ScorecardInnings,
+  ScorecardInningsEntry,
 } from "../../types";
 import { getIdsMap } from "./helpers";
 import { BASE_DATA_PATH } from "./helpers/constants";
@@ -24,6 +25,16 @@ const CommentaryData = z.array(
   })
 );
 type CommentaryData = z.infer<typeof CommentaryData>;
+
+type Payload =
+  | {
+      type: "commentary";
+      data: CommentaryInningsEntry;
+    }
+  | {
+      type: "scorecard";
+      data: ScorecardInningsEntry;
+    };
 
 const seriesId = 7607;
 const matchId = 89654;
@@ -87,18 +98,18 @@ const rotateStrike = (
 };
 
 const sendRequest = async (
-  payload: CommentaryInningsEntry,
+  payload: Payload,
   matchId: number,
   inningsType: CommentaryInningsType
 ) => {
   const BASE_URL = "http://localhost:8000/";
   try {
-    console.log(payload);
+    let url = `${BASE_URL}matches/${matchId}/innings/${inningsType}/commentary`;
+    if (payload.type === "scorecard") {
+      url = `${BASE_URL}matches/${matchId}/innings/${inningsType}/score`;
+    }
 
-    const res = await axios.post(
-      `${BASE_URL}matches/${matchId}/innings/${inningsType}/commentary`,
-      payload
-    );
+    const res = await axios.post<{}, any, Payload["data"]>(url, payload.data);
     console.log("res ", res.data);
   } catch (err) {
     console.error("ERR in sendRequest ", err);
@@ -111,7 +122,7 @@ const generateInningsPayloads = async (
   idsMap: { teams: IdsMap; players: IdsMap }
 ) => {
   try {
-    const payloadData: CommentaryInningsEntry[] = [];
+    const payloadData: Payload[] = [];
     const commentaryPath = `${baseMatchPath}commentary/${inningsId}.json`;
 
     const commentaryDataContents = await readFileData(commentaryPath);
@@ -126,10 +137,13 @@ const generateInningsPayloads = async (
 
     if (!innings) {
       commentaryData.forEach((commentary) => {
-        const payload = {
-          teamId: 0,
-          commText: commentary.commText,
-          events: commentary.events,
+        const payload: Payload = {
+          type: "commentary",
+          data: {
+            teamId: 0,
+            commText: commentary.commText,
+            events: commentary.events,
+          },
         };
 
         payloadData.push(payload);
@@ -206,7 +220,18 @@ const generateInningsPayloads = async (
     ]);
 
     commentaryData.forEach((commentary) => {
-      if (commentary.ballNbr === 0) return;
+      if (commentary.ballNbr === 0) {
+        payloadData.push({
+          type: "commentary",
+          data: {
+            teamId,
+            commText: commentary.commText,
+            events: commentary.events,
+          },
+        });
+
+        return;
+      }
 
       let batsmanStriker: ScorecardBatter = commentary.batsmanStriker!;
       batsmanStriker.id = idsMap.players[batsmanStriker.id];
@@ -283,26 +308,30 @@ const generateInningsPayloads = async (
       lastBowlerStriker = bowlerStriker;
       lastBowlerNonStriker = bowlerNonStriker;
 
-      const payload: CommentaryInningsEntry = {
-        commText: commentary.commText,
-        events: commentary.events,
-        scorecard: {
+      const payload: Payload = {
+        type: "commentary",
+        data: {
           teamId,
-          overs,
-          oversBowled: commentary.overs,
-          score,
-          wickets,
-          extras: { ...extras },
-          batsmanStriker,
-          batsmanNonStriker,
+          commText: commentary.commText,
+          events: commentary.events,
+          scorecard: {
+            teamId,
+            overs,
+            oversBowled: commentary.overs,
+            score,
+            wickets,
+            extras: { ...extras },
+            batsmanStriker,
+            batsmanNonStriker,
+          },
         },
       };
 
-      if (bowlerStriker !== undefined && payload.scorecard) {
-        payload.scorecard.bowlerStriker = bowlerStriker;
+      if (bowlerStriker !== undefined && payload.data.scorecard) {
+        payload.data.scorecard.bowlerStriker = bowlerStriker;
       }
-      if (bowlerNonStriker !== undefined && payload.scorecard) {
-        payload.scorecard.bowlerNonStriker = bowlerNonStriker;
+      if (bowlerNonStriker !== undefined && payload.data.scorecard) {
+        payload.data.scorecard.bowlerNonStriker = bowlerNonStriker;
       }
 
       lastScore = score;
@@ -326,57 +355,33 @@ const generateInningsPayloads = async (
         if (lastBatsmanStriker.fallOfWicket) {
           lastBatsmanStriker = getNewBatsman(idsMap.players[nextBatter.id]);
 
-          let _payload = {
-            ...payload,
+          let _payload: Payload = {
+            type: "scorecard",
+            data: { ...payload.data.scorecard!, batsmanStriker: null },
           };
-
-          if (_payload.scorecard) {
-            _payload.scorecard = {
-              ..._payload.scorecard,
-              batsmanStriker: null,
-            };
-          }
 
           payloadData.push(_payload);
 
-          _payload = {
-            ...payload,
+          _payload.data = {
+            ..._payload.data,
+            batsmanStriker: lastBatsmanStriker,
           };
-
-          if (_payload.scorecard) {
-            _payload.scorecard = {
-              ..._payload.scorecard,
-              batsmanStriker: lastBatsmanStriker,
-            };
-          }
 
           payloadData.push(_payload);
         } else {
           lastBatsmanNonStriker = getNewBatsman(idsMap.players[nextBatter.id]);
 
-          let _payload = {
-            ...payload,
+          let _payload: Payload = {
+            type: "scorecard",
+            data: { ...payload.data.scorecard!, batsmanNonStriker: null },
           };
-
-          if (_payload.scorecard) {
-            _payload.scorecard = {
-              ..._payload.scorecard,
-              batsmanNonStriker: null,
-            };
-          }
 
           payloadData.push(_payload);
 
-          _payload = {
-            ...payload,
+          _payload.data = {
+            ..._payload.data,
+            batsmanNonStriker: lastBatsmanNonStriker,
           };
-
-          if (_payload.scorecard) {
-            _payload.scorecard = {
-              ..._payload.scorecard,
-              batsmanNonStriker: lastBatsmanNonStriker,
-            };
-          }
 
           payloadData.push(_payload);
         }
@@ -418,8 +423,6 @@ const generateMatchPayloads = async () => {
       return;
     }
 
-    console.log("commentaryFiles ", commentaryFiles);
-
     for (let i = 0; i < commentaryFiles.length; i++) {
       const _inningsType = inningsIdMap[i];
       let innings =
@@ -458,13 +461,14 @@ const playMatch = async () => {
         console.log("No payload data found");
         return;
       }
-      const payloads: CommentaryInningsEntry[] = JSON.parse(payloadData);
+      const payloads: Payload[] = JSON.parse(payloadData);
 
+      await sleep(3000);
       for (const payload of payloads) {
         await sendRequest(payload, nativeMatchId, inningsIdMap[i]);
 
         console.log("Sleeping ");
-        await sleep(3000);
+        await sleep(1000);
         console.log("Slept ");
       }
 
@@ -475,5 +479,9 @@ const playMatch = async () => {
   }
 };
 
-// generateMatchPayloads();
-playMatch();
+const main = async () => {
+  await generateMatchPayloads();
+  await playMatch();
+};
+
+main();

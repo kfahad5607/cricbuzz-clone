@@ -42,9 +42,9 @@ export const Commentary = z.object({
 });
 
 export const CommentaryInningsEntry = z.object({
+  teamId: z.coerce.number().nonnegative(),
   commText: z.string().min(1),
   events: z.array(z.enum(BALL_EVENTS)),
-  // ballStrikerKey: batterHolderKeysEnum,
   scorecard: ScorecardInningsEntry.optional(),
 });
 

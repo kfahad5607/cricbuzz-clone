@@ -1,157 +1,250 @@
 [
   {
-    "teamId": 0,
-    "commText": "<p><b>Chennai Super Kings</b> Squad: Rachin Ravindra, Ruturaj Gaikwad(c), Ajinkya Rahane, Sameer Rizvi, Daryl Mitchell, Shivam Dube, Ravindra Jadeja, MS Dhoni(w), Shardul Thakur, Deepak Chahar, Maheesh Theekshana, Moeen Ali, Mustafizur Rahman, Mitchell Santner, Tushar Deshpande, Ajay Jadav Mandal, Prashant Solanki, Mukesh Choudhary, Simarjeet Singh, RS Hangargekar, Shaik Rasheed, Nishant Sindhu, Aravelly Avanish</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p><b>Chennai Super Kings</b> Squad: Rachin Ravindra, Ruturaj Gaikwad(c), Ajinkya Rahane, Sameer Rizvi, Daryl Mitchell, Shivam Dube, Ravindra Jadeja, MS Dhoni(w), Shardul Thakur, Deepak Chahar, Maheesh Theekshana, Moeen Ali, Mustafizur Rahman, Mitchell Santner, Tushar Deshpande, Ajay Jadav Mandal, Prashant Solanki, Mukesh Choudhary, Simarjeet Singh, RS Hangargekar, Shaik Rasheed, Nishant Sindhu, Aravelly Avanish</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p><b>Royal Challengers Bengaluru Squad: </b>Virat Kohli, Faf du Plessis(c), Rajat Patidar, Glenn Maxwell, Cameron Green, Mahipal Lomror, Dinesh Karthik(w), Alzarri Joseph, Karn Sharma, Mohammed Siraj, Akash Deep, Reece Topley, Tom Curran, Swapnil Singh, Vijaykumar Vyshak, Lockie Ferguson, Mayank Dagar, Will Jacks, Suyash Prabhudessai, Anuj Rawat, Manoj Bhandage, Yash Dayal, Saurav Chauhan, Rajan Kumar, Himanshu Sharma</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p><b>Royal Challengers Bengaluru Squad: </b>Virat Kohli, Faf du Plessis(c), Rajat Patidar, Glenn Maxwell, Cameron Green, Mahipal Lomror, Dinesh Karthik(w), Alzarri Joseph, Karn Sharma, Mohammed Siraj, Akash Deep, Reece Topley, Tom Curran, Swapnil Singh, Vijaykumar Vyshak, Lockie Ferguson, Mayank Dagar, Will Jacks, Suyash Prabhudessai, Anuj Rawat, Manoj Bhandage, Yash Dayal, Saurav Chauhan, Rajan Kumar, Himanshu Sharma</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p><b>Squads:</b></p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p><b>Squads:</b></p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p><b>18:00 Local Time, 12:31 GMT, 18:00 IST:</b> 295 days!! It has been 295 days since that nonchalant flick off his legs by Ravindra Jadeja made him an IPL immortal, as a team in yellow chased down a stiff target against the home side in Ahmedabad. 295 days have gone by quickly, the cricket calendar has come full circle and it is now time for the magic and madness of the Indian Premier League to commence once again. It is that time of the year again where groups of 11 blokes from 10 different teams running around a field with bat and ball give a vague sense of meaning and relevance to our lives. It is that time of the year where the collective mental state of cricket aficionados are dictated by the colour of the cloth of players representing different regions in the country.</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p><b>18:00 Local Time, 12:31 GMT, 18:00 IST:</b> 295 days!! It has been 295 days since that nonchalant flick off his legs by Ravindra Jadeja made him an IPL immortal, as a team in yellow chased down a stiff target against the home side in Ahmedabad. 295 days have gone by quickly, the cricket calendar has come full circle and it is now time for the magic and madness of the Indian Premier League to commence once again. It is that time of the year again where groups of 11 blokes from 10 different teams running around a field with bat and ball give a vague sense of meaning and relevance to our lives. It is that time of the year where the collective mental state of cricket aficionados are dictated by the colour of the cloth of players representing different regions in the country.</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>Just a while back, Rohit's India was serving the antithesis to Bazball and every Indian cricket fan was going gaga as a young Indian team overpowered England with elan. But you know that now can take a back seat. It is that time when an Indian team fan's loyalty is tested. It is about MS's yellow, Virat's red and gold or Rohit's blue! Every one in India has an opinion on cricket and all the tongues will be wagging more as modern day cricket's necessary evil is here! IPL 2024, the 17th edition is about to go on floors.</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>Just a while back, Rohit's India was serving the antithesis to Bazball and every Indian cricket fan was going gaga as a young Indian team overpowered England with elan. But you know that now can take a back seat. It is that time when an Indian team fan's loyalty is tested. It is about MS's yellow, Virat's red and gold or Rohit's blue! Every one in India has an opinion on cricket and all the tongues will be wagging more as modern day cricket's necessary evil is here! IPL 2024, the 17th edition is about to go on floors.</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>However, there is a bit of a baton passing as far as this edition is concerned. The poster boys - Virat, Rohit, MS - none would be leading their respective sides. Hardik Pandya made more noise off the field than India's loss at the WC final when he was announced as the skipper of MI for 2024 after being traded in from Gujarat. And Ruturaj Gaikwad just suddenly came and posed for the shutterbugs as the new skipper of CSK. Just like that! The yore has taken a back seat. Time for Gen Z to hog all the limelight. But count the old heads out at your own peril.</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>However, there is a bit of a baton passing as far as this edition is concerned. The poster boys - Virat, Rohit, MS - none would be leading their respective sides. Hardik Pandya made more noise off the field than India's loss at the WC final when he was announced as the skipper of MI for 2024 after being traded in from Gujarat. And Ruturaj Gaikwad just suddenly came and posed for the shutterbugs as the new skipper of CSK. Just like that! The yore has taken a back seat. Time for Gen Z to hog all the limelight. But count the old heads out at your own peril.</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>When Coldplay wrote I0$ they were probably referring to the Chepauk Stadium on a CSK matchday. And the yellow of CSK would be shining a bit brighter this year because they return home as champions. And so returns their Thala!! From ‘definitely not’ to ‘1 more season for the fans’, a certain MS Dhoni has re-emerged from cricketing hibernation to perhaps give the sporting world one last coveted glimpse this season. With his new look, long brown locks and even broader shoulders, Thala Dhoni is out there looking akin to an emperor, ready to galvanize his band of misfiring, has-been, ignored foot soldiers for One Last dance!!</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>When Coldplay wrote I0$ they were probably referring to the Chepauk Stadium on a CSK matchday. And the yellow of CSK would be shining a bit brighter this year because they return home as champions. And so returns their Thala!! From ‘definitely not’ to ‘1 more season for the fans’, a certain MS Dhoni has re-emerged from cricketing hibernation to perhaps give the sporting world one last coveted glimpse this season. With his new look, long brown locks and even broader shoulders, Thala Dhoni is out there looking akin to an emperor, ready to galvanize his band of misfiring, has-been, ignored foot soldiers for One Last dance!!</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>Predictably, not too many changes in the CSK roster because why change something when it ain’t broken? However, Ambati Rayudu has called it a day and Devon Conway’s maimed thumb will keep him out the bulk of the season. But Chennai have found two able deputies in Rachin Ravindra and Daryl Mitchell - both of whom were the standouts for New Zealand last year at the World Cup. They will also be aided by a returning Mukesh Choudhary who missed 2023 due to an injury, and ‘Lord’ Thakur who finds a home once again in Chepauk. CSK splashed the cash on the hard hitting Sameer Rizvi in the auction, and it would be interesting to see how a 20-year-old with a collective first class experience of 7 games slots into this setup.</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>Predictably, not too many changes in the CSK roster because why change something when it ain’t broken? However, Ambati Rayudu has called it a day and Devon Conway’s maimed thumb will keep him out the bulk of the season. But Chennai have found two able deputies in Rachin Ravindra and Daryl Mitchell - both of whom were the standouts for New Zealand last year at the World Cup. They will also be aided by a returning Mukesh Choudhary who missed 2023 due to an injury, and ‘Lord’ Thakur who finds a home once again in Chepauk. CSK splashed the cash on the hard hitting Sameer Rizvi in the auction, and it would be interesting to see how a 20-year-old with a collective first class experience of 7 games slots into this setup.</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>This year, along with the coveted return of MS Dhoni, the IPL will also see the return of Virat Kohli who is recharged and ready to go after his little paternity break. There have been a few murmurs of phasing out Virat from the T20 squad ahead of the World Cup, and CSK faithful would be hoping those whispers haven’t reached the ears of the former RCB captain, because an irate Kohli with a point to prove could be a bowler’s worst nightmare. The batting looks a lot stronger for Bangalore this season, with the top three of Kohli, Maxwell and Faf being bolstered by a returning Rajat Patidar and a traded-in Cam Green.</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>This year, along with the coveted return of MS Dhoni, the IPL will also see the return of Virat Kohli who is recharged and ready to go after his little paternity break. There have been a few murmurs of phasing out Virat from the T20 squad ahead of the World Cup, and CSK faithful would be hoping those whispers haven’t reached the ears of the former RCB captain, because an irate Kohli with a point to prove could be a bowler’s worst nightmare. The batting looks a lot stronger for Bangalore this season, with the top three of Kohli, Maxwell and Faf being bolstered by a returning Rajat Patidar and a traded-in Cam Green.</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>I0$ Because the management have gone pace heavy this year, buying fast bowlers by the bucketloads. Alzarri Joseph, Lockie Ferguson, Yash Dayal, Reece Topley, Tom Curran have all been roped in to add to a pace battery that already had Siraj, Akash Deep and Vyshak Vijaykumar. Wanindu Hasaranga and Josh Hazlewood - two proven International bowlers, have been offloaded to make space for these quicks, giving RCB a new look this season with the ball.</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>I0$ Because the management have gone pace heavy this year, buying fast bowlers by the bucketloads. Alzarri Joseph, Lockie Ferguson, Yash Dayal, Reece Topley, Tom Curran have all been roped in to add to a pace battery that already had Siraj, Akash Deep and Vyshak Vijaykumar. Wanindu Hasaranga and Josh Hazlewood - two proven International bowlers, have been offloaded to make space for these quicks, giving RCB a new look this season with the ball.</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>The RCB women won the Women’s Premier League earlier in the month. It was celebrated with great aplomb and throughout the night on the streets of Koramangala, Jayanagar all the way till Whitefield. Is that the little flip of the switch that this franchise needed? The motivation for the Men’s team to finally break the jinx? Time will tell…</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>The RCB women won the Women’s Premier League earlier in the month. It was celebrated with great aplomb and throughout the night on the streets of Koramangala, Jayanagar all the way till Whitefield. Is that the little flip of the switch that this franchise needed? The motivation for the Men’s team to finally break the jinx? Time will tell…</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>RCB haven’t historically traveled well to Chepauk, with their only win at this intimidating cauldron of a stadium coming in the inaugural season of the IPL. Chennai Super Kings have won the 7 games held at their home ground since then, which includes that drubbing in the 2019 IPL opener when they got the visitors all out for just 70 runs. CSK hold the ascendancy in the head-to-head record as well, winning 20 out of 31 clashes. Not a lot going in favour of RCB, specially when you also consider what tools they are getting to play in what has traditionally been a spin fortress. Nevertheless, trust the IPL to throw up a curveball right from Day 1!!</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>RCB haven’t historically traveled well to Chepauk, with their only win at this intimidating cauldron of a stadium coming in the inaugural season of the IPL. Chennai Super Kings have won the 7 games held at their home ground since then, which includes that drubbing in the 2019 IPL opener when they got the visitors all out for just 70 runs. CSK hold the ascendancy in the head-to-head record as well, winning 20 out of 31 clashes. Not a lot going in favour of RCB, specially when you also consider what tools they are getting to play in what has traditionally been a spin fortress. Nevertheless, trust the IPL to throw up a curveball right from Day 1!!</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p><b>What’s new this year?</b> Not much, to be honest. Still a 10-team IPL with the same number of games as last year. However, bowlers will be allowed two bouncers per over this season. The impact sub rule continues this year, and teams continue to get two referrals - which can be used to check wides and no balls.</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p><b>What’s new this year?</b> Not much, to be honest. Still a 10-team IPL with the same number of games as last year. However, bowlers will be allowed two bouncers per over this season. The impact sub rule continues this year, and teams continue to get two referrals - which can be used to check wides and no balls.</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>And the opening ceremony is now underway with a few dance performances celebrating the growth of India and the IPL. The stadium is already about 70-80% full, let the excitement build!! Meanwhile, the 'Have Your Say' section has been enabled on your website. We'd love to get some of your opinions. Which team looks the strongest? Will this be Dhoni's last season? What do you think about the captaincy changes this season? Give us your opinions, we'll publish the best ones...</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>And the opening ceremony is now underway with a few dance performances celebrating the growth of India and the IPL. The stadium is already about 70-80% full, let the excitement build!! Meanwhile, the 'Have Your Say' section has been enabled on your website. We'd love to get some of your opinions. Which team looks the strongest? Will this be Dhoni's last season? What do you think about the captaincy changes this season? Give us your opinions, we'll publish the best ones...</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>An expected sea of yellow in the crowd, but there are a few scattered red and black jerseys as well. We're already almost at full capacity. Chennai has turned up nice and early for their Thala and his team.</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>An expected sea of yellow in the crowd, but there are a few scattered red and black jerseys as well. We're already almost at full capacity. Chennai has turned up nice and early for their Thala and his team.</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p><b>Pitch Report:</b> The square boundaries are 65m and 66m respectively and the straight boundary is long at 80m. It looks a great wicket, but there are a few cracks and the looseness around the cracks is worrying, it could lead to some inconsistent bounce, but it's generally looking good. The ball will turn, there's some dampness and the spinners could use that. Dew could be a factor, the captain winning the toss would want to bowl first, reckon Kevin Pietersen and Brian Lara, in their pitch report.</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p><b>Pitch Report:</b> The square boundaries are 65m and 66m respectively and the straight boundary is long at 80m. It looks a great wicket, but there are a few cracks and the looseness around the cracks is worrying, it could lead to some inconsistent bounce, but it's generally looking good. The ball will turn, there's some dampness and the spinners could use that. Dew could be a factor, the captain winning the toss would want to bowl first, reckon Kevin Pietersen and Brian Lara, in their pitch report.</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>CSK's 'new' captain Ruturaj Gaikwad brings out the IPL trophy to the stage which has his opposition skipper and a bunch of dignitaries from the cricket world. RCB skipper Faf du Plessis gets a warm welcome from his former home. We're not too far away from the toss.I0$</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>CSK's 'new' captain Ruturaj Gaikwad brings out the IPL trophy to the stage which has his opposition skipper and a bunch of dignitaries from the cricket world. RCB skipper Faf du Plessis gets a warm welcome from his former home. We're not too far away from the toss.I0$</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>Our correspondent from the ground, Prakash, pings that Mayank Dagar and Karn Sharma have started warming-up on the RCB side of the practice pitches. Won't be a surprise to see both of them play today! He adds that Anuj Rawat has the keeping gloves, <b>no signs of DK in the practice area.</b></p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>Our correspondent from the ground, Prakash, pings that Mayank Dagar and Karn Sharma have started warming-up on the RCB side of the practice pitches. Won't be a surprise to see both of them play today! He adds that Anuj Rawat has the keeping gloves, <b>no signs of DK in the practice area.</b></p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>In case anyone is wondering, toss is at <b>7:40 PM</b> today, five minutes from now.</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>In case anyone is wondering, toss is at <b>7:40 PM</b> today, five minutes from now.</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>Captains out for the toss now...</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>Captains out for the toss now...</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p><b>Royal Challengers Bengaluru have won the toss and have opted to bat</b></p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p><b>Royal Challengers Bengaluru have won the toss and have opted to bat</b></p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p><b>Faf du Plessis:</b> We'll bat first. Looks a good wicket, conditions here are a bat first wicket. First time back here, great to see the Chennai fans again but I'm here with RCB and hopefully we can turn over a very good CSK team. Prep has been good, we need to turn up now. (On coach Andy Flower) A seasoned campaigner, brings that experience. (On auction) Really good, our bowling resources fit well. Got more backup. Hopefully, injuires don't bother us too much. (On team combination) Alzarri Joseph comes in tonight, got a few spinners in the middle. And since we are batting first, we'll see how it goes</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p><b>Faf du Plessis:</b> We'll bat first. Looks a good wicket, conditions here are a bat first wicket. First time back here, great to see the Chennai fans again but I'm here with RCB and hopefully we can turn over a very good CSK team. Prep has been good, we need to turn up now. (On coach Andy Flower) A seasoned campaigner, brings that experience. (On auction) Really good, our bowling resources fit well. Got more backup. Hopefully, injuires don't bother us too much. (On team combination) Alzarri Joseph comes in tonight, got a few spinners in the middle. And since we are batting first, we'll see how it goes</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p><b>Ruturaj Gaikwad:</b> Feel privledged. But I want to try and be in my shoes, not fill anybody's shoes. (On captaincy) <b>I got to know last week, but Mahi bhai hinted at it last year.</b> Everyone is experienced here, sadly we are missing Conway and Pathirana. We've got Rachin and Mitchell coming in though this year so they should fit in well. Looks like a good pitch, a hard surface that should hold up well for the second innings. Four overseas - Mitchell, Rachin, Fizz and Theekshana. The domestic player Sameer Rizvi is making his debut as well.</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p><b>Ruturaj Gaikwad:</b> Feel privledged. But I want to try and be in my shoes, not fill anybody's shoes. (On captaincy) <b>I got to know last week, but Mahi bhai hinted at it last year.</b> Everyone is experienced here, sadly we are missing Conway and Pathirana. We've got Rachin and Mitchell coming in though this year so they should fit in well. Looks like a good pitch, a hard surface that should hold up well for the second innings. Four overseas - Mitchell, Rachin, Fizz and Theekshana. The domestic player Sameer Rizvi is making his debut as well.</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p><b>Royal Challengers Bengaluru</b> (Playing XI): Faf du Plessis(c), Virat Kohli, Rajat Patidar, Glenn Maxwell, Cameron Green, Dinesh Karthik(w), Anuj Rawat, Karn Sharma, Alzarri Joseph, Mayank Dagar, Mohammed Siraj</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p><b>Royal Challengers Bengaluru</b> (Playing XI): Faf du Plessis(c), Virat Kohli, Rajat Patidar, Glenn Maxwell, Cameron Green, Dinesh Karthik(w), Anuj Rawat, Karn Sharma, Alzarri Joseph, Mayank Dagar, Mohammed Siraj</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Ruturaj Gaikwad(c), Rachin Ravindra, Ajinkya Rahane, Daryl Mitchell, Ravindra Jadeja, Sameer Rizvi, MS Dhoni(w), Deepak Chahar, Maheesh Theekshana, Mustafizur Rahman, Tushar Deshpande</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p><b>Chennai Super Kings</b> (Playing XI): Ruturaj Gaikwad(c), Rachin Ravindra, Ajinkya Rahane, Daryl Mitchell, Ravindra Jadeja, Sameer Rizvi, MS Dhoni(w), Deepak Chahar, Maheesh Theekshana, Mustafizur Rahman, Tushar Deshpande</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p><b>Teams:</b></p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p><b>Teams:</b></p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p><b>Chennai Super Kings Subs:</b> Shardul Thakur, Shivam Dube, Shaik Rasheed, Nishant Sindhu, Moeen Ali</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p><b>Chennai Super Kings Subs:</b> Shardul Thakur, Shivam Dube, Shaik Rasheed, Nishant Sindhu, Moeen Ali</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p><b>Royal Challengers Bengaluru Subs:</b> Yash Dayal, Akash, Prabhudessai, Swapnil, Vyshak</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p><b>Royal Challengers Bengaluru Subs:</b> Yash Dayal, Akash, Prabhudessai, Swapnil, Vyshak</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>We've made two changes to our #FantasyHandbook team after the Playing XI after the toss. Quickly check our updated team before it is too late...</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>We've made two changes to our #FantasyHandbook team after the Playing XI after the toss. Quickly check our updated team before it is too late...</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>Players line-up now for the national anthems, sung live by <b>Sonu Nigam. </b> And now time for the cricket...</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>Players line-up now for the national anthems, sung live by <b>Sonu Nigam. </b> And now time for the cricket...</p>",
+      "events": []
+    }
   },
   {
-    "teamId": 0,
-    "commText": "<p>The pair of Kohli and Faf are out in the middle. And so are the CSK players. However, it is only now that the umpires walk out. Deepak Chahar with the new ball, one slip in place. LET THE IPL BEGIN!!</p>",
-    "events": []
+    "type": "commentary",
+    "data": {
+      "teamId": 0,
+      "commText": "<p>The pair of Kohli and Faf are out in the middle. And so are the CSK players. However, it is only now that the umpires walk out. Deepak Chahar with the new ball, one slip in place. LET THE IPL BEGIN!!</p>",
+      "events": []
+    }
   }
 ]

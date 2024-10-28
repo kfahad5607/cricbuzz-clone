@@ -979,7 +979,11 @@ export async function addInningsCommentary(
       COMMENTARY_INNINGS_TYPES[inningsIndex - 1];
     const commentaryEntry = req.body;
     const scorecardInningsEntry = commentaryEntry.scorecard;
-    const teamId = scorecardInningsEntry?.teamId || 0;
+    const teamId = commentaryEntry.teamId;
+
+    if (inningsType !== "preview" && teamId === 0) {
+      throw new Error(`Invalid Team ID ${teamId}`);
+    }
 
     const commentaryItem = {
       commText: commentaryEntry.commText,
