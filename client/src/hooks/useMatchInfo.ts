@@ -1,5 +1,6 @@
 import { useQuery } from "@tanstack/react-query";
 import apiClient from "../services/api-client";
+import type { fallOfWicket } from "../types/matchData";
 import type {
   MatchInfo,
   MatchInfoRaw,
@@ -7,7 +8,6 @@ import type {
   TeamSquadPlayers,
 } from "../types/matches";
 import type { BasicMatchSquadPlayer, MatchSquadPlayer } from "../types/players";
-import type { fallOfWicket } from "../types/matchData";
 
 type SelectType<TData> = (data: MatchInfo) => TData;
 
@@ -89,6 +89,7 @@ export const addPlayerInfo = <
   ...player,
   ...playersMap[player.id],
 });
+
 
 const useMatchInfo = <TData = MatchInfo>(
   matchId: number,

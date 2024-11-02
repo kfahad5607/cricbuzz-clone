@@ -54,14 +54,18 @@ export const MATCH_RESULT_TYPES = {
   DRAW: "draw",
   TIE: "tie",
   NO_RESULT: "no-result",
-};
+} as const;
 
-export const MATCH_RESULT_TYPES_VALUES = [
-  "win",
+export const MATCH_OTHER_RESULT_TYPES_VALUES = [
   "abandon",
   "draw",
   "tie",
   "no-result",
+] as const;
+
+export const MATCH_RESULT_TYPES_VALUES = [
+  "win",
+  ...MATCH_OTHER_RESULT_TYPES_VALUES,
 ] as const;
 
 export const PLAYER_ROLES = {
@@ -105,7 +109,7 @@ export const PLAYER_BOWL_STYLES = {
   LEFT_ARM_OFFBREAK: "left-arm-offbreak",
   RIGHT_ARM_LEGBREAK: "right-arm-legbreak",
   LEFT_ARM_LEGBREAK: "left-arm-legbreak",
-};
+} as const;
 
 export const PLAYER_BOWL_STYLES_VALUES = [
   "right-arm-medium",

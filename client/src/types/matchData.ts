@@ -1,5 +1,6 @@
 import {
   DISMISSAL_TYPES_VALUES,
+  MATCH_OTHER_RESULT_TYPES_VALUES,
   MATCH_RESULT_TYPES_VALUES,
   MATCH_STATES_VALUES,
   TOSS_DECISIONS_VALUES,
@@ -100,22 +101,36 @@ export type ScorecardInnings = Omit<BaseScorecardInnings, "teamId"> & {
 };
 
 export type MatchTossResults = {
-  tossWinnerId?: number;
-  decision?: TossDecision;
+  tossWinnerId: number;
+  decision: TossDecision;
 };
 
 export type MatchTossResultsWithInfo = {
-  winnerTeam?: TeamMatchInfo;
-  decision?: MatchTossResults["decision"];
+  winnerTeam: TeamMatchInfo;
+  decision: MatchTossResults["decision"];
 };
 
-export type MatchResults = {
-  resultType?: MatchResultType;
+type MatchResultsWin = {
+  resultType: MatchResultWinType;
   winByInnings: boolean;
   winByRuns: boolean;
-  winningMargin?: number;
-  winningTeamId?: number;
+  winningMargin: number;
+  winningTeamId: number;
 };
+
+export type MatchResults =
+  | MatchResultsWin
+  | {
+      resultType: MatchOtherResultType;
+    };
+
+export type MatchResultsWithInfo =
+  | (Omit<MatchResultsWin, "winningTeamId"> & {
+      winningTeam: TeamMatchInfo;
+    })
+  | {
+      resultType: MatchOtherResultType;
+    };
 
 export type ScorecardDataRaw = {
   innings: ScorecardInningsRaw[];
@@ -129,7 +144,8 @@ export type ScorecardData = Omit<ScorecardDataRaw, "innings"> & {
   status: string;
 };
 
+type MatchResultWinType = (typeof MATCH_RESULT_TYPES_VALUES)[0];
+type MatchOtherResultType = (typeof MATCH_OTHER_RESULT_TYPES_VALUES)[number];
 export type TossDecision = (typeof TOSS_DECISIONS_VALUES)[number];
 export type MatchState = (typeof MATCH_STATES_VALUES)[number];
-export type MatchResultType = (typeof MATCH_RESULT_TYPES_VALUES)[number];
 export type ScorecardInningsTypes = (typeof SCORECARD_INNINGS_TYPES)[number];

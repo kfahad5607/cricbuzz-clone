@@ -1,7 +1,8 @@
 import * as z from "zod";
 import {
   DISMISSAL_TYPES_VALUES,
-  MATCH_RESULT_TYPES_VALUES,
+  MATCH_OTHER_RESULT_TYPES_VALUES,
+  MATCH_RESULT_TYPES,
   MATCH_STATES,
   MATCH_STATES_VALUES,
   TOSS_DECISIONS_VALUES,
@@ -16,13 +17,18 @@ export const SCORECARD_INNINGS_TYPES = [
 ] as const;
 
 // schemas
-export const MatchResults = z.object({
-  resultType: z.enum(MATCH_RESULT_TYPES_VALUES).optional(),
-  winByInnings: z.boolean().default(false),
-  winByRuns: z.boolean().default(false),
-  winningMargin: z.coerce.number().positive().optional(),
-  winningTeamId: z.coerce.number().positive().optional(),
-});
+export const MatchResults = z.discriminatedUnion("resultType", [
+  z.object({
+    resultType: z.literal(MATCH_RESULT_TYPES.WIN),
+    winByInnings: z.boolean(),
+    winByRuns: z.boolean(),
+    winningMargin: z.coerce.number().nonnegative(),
+    winningTeamId: z.coerce.number().positive(),
+  }),
+  z.object({
+    resultType: z.enum(MATCH_OTHER_RESULT_TYPES_VALUES),
+  }),
+]);
 
 export const MatchTossResults = z.object({
   tossWinnerId: z.coerce.number().positive(),
@@ -94,8 +100,8 @@ export const ScorecardInnings = BaseScorecardInnings.extend({
 export const BaseMatchData = z.object({
   state: z.enum(MATCH_STATES_VALUES),
   status: z.string().max(200),
-  tossResults: MatchTossResults,
-  results: MatchResults,
+  tossResults: MatchTossResults.optional(),
+  results: MatchResults.optional(),
 });
 
 export const BaseMatchDataPartial = BaseMatchData.partial();
@@ -110,8 +116,6 @@ export const MatchData = BaseMatchData.extend({
   }),
   state: z.enum(MATCH_STATES_VALUES).default(MATCH_STATES.PREVIEW),
   status: z.string().max(200).default(""),
-  tossResults: MatchTossResults.optional(),
-  results: MatchResults.default({ winByInnings: false, winByRuns: false }),
 });
 
 export const ScorecardInningsEntry = BaseScorecardInnings.extend({

@@ -130,13 +130,15 @@ const getStatusText = (data: CommentaryData) => {
   if (data.state === "innings-break") return "Innings Break";
   if (data.state === "preview") return "";
   if (data.state === "toss" || data.innings.length === 1)
-    return `${data.tossResults.tossWinnerId} opt to ${data.tossResults.decision}`;
-  if (data.state === "complete" && data.results.resultType) {
+    return `${data.tossResults?.winnerTeam.name} opt to ${data.tossResults?.decision}`;
+
+  if (data.state === "complete" && data.results?.resultType === "win") {
     const results = data.results;
     const marginType = results.winByRuns ? "runs" : "wkts";
 
-    return `${results.winningTeamId} won by ${results.winningMargin} ${marginType}`;
+    return `${results.winningTeam.name} won by ${results.winningMargin} ${marginType}`;
   }
+
   if (data.innings.length === 2) {
     const innings = data.innings[1];
     const target = data.innings[0].score - innings.score + 1;

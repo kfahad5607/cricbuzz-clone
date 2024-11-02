@@ -2,6 +2,7 @@ import { BALL_EVENTS_VALUES } from "../utils/constants";
 import {
   BaseScorecardInnings,
   MatchResults,
+  MatchResultsWithInfo,
   MatchState,
   MatchTossResults,
   MatchTossResultsWithInfo,
@@ -43,8 +44,8 @@ export type CommentaryDataRaw = {
   bowlerNonStriker?: ScorecardBowler;
   state: MatchState;
   status: string;
-  tossResults: MatchTossResults;
-  results: MatchResults;
+  tossResults?: MatchTossResults;
+  results?: MatchResults;
 };
 
 export type CommentaryData = Omit<
@@ -54,11 +55,15 @@ export type CommentaryData = Omit<
   | "bowlerStriker"
   | "bowlerNonStriker"
   | "innings"
+  | "tossResults"
+  | "results"
 > & {
   batsmanStriker?: ScorecardBatterWithInfo;
   batsmanNonStriker?: ScorecardBatterWithInfo;
   bowlerStriker?: ScorecardBowlerWithInfo;
   bowlerNonStriker?: ScorecardBowlerWithInfo;
+  tossResults?: MatchTossResultsWithInfo;
+  results?: MatchResultsWithInfo;
 } & {
   innings: (Omit<BaseScorecardInnings, "teamId"> & { team: TeamMatchInfo })[];
 };

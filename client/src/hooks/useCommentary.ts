@@ -15,7 +15,7 @@ import {
   type FullCommentaryData,
   type FullCommentaryDataRaw,
 } from "../types/commentary";
-import type { MatchInfo } from "../types/matches";
+import type { MatchInfo, TeamMatchInfo } from "../types/matches";
 import {
   addPlayerInfo,
   addPlayerNamesToFow,
@@ -23,6 +23,7 @@ import {
   matchInfoQueryKeys,
 } from "./useMatchInfo";
 import {
+  MatchResultsWithInfo,
   MatchTossResultsWithInfo,
   SCORECARD_INNINGS_TYPES,
 } from "../types/matchData";
@@ -35,6 +36,25 @@ export const commentaryQueryKeys = {
   match: (id: number) => ["commentary", id] as const,
   matchFull: (id: number, inningsType: CommentaryInningsTypes) =>
     ["fullCommentary", id, inningsType] as const,
+};
+
+const addTeamInfo = (
+  teamId: number,
+  teams: TeamMatchInfo[]
+): TeamMatchInfo | null => {
+  for (let i = 0; i < teams.length; i++) {
+    const team = teams[i];
+
+    if (team.id === teamId) {
+      return {
+        id: team.id,
+        name: team.name,
+        shortName: team.shortName,
+      };
+    }
+  }
+
+  return null;
 };
 
 const mergeCommentaryLists = (
@@ -134,8 +154,40 @@ const getLatestCommentary = async (
     };
   });
 
+  let results: MatchResultsWithInfo | undefined = undefined;
+  if (data.results && data.results.resultType === "win") {
+    const winningTeam = addTeamInfo(data.results.winningTeamId, [
+      matchInfo.homeTeam,
+      matchInfo.awayTeam,
+    ]);
+
+    if (!winningTeam) throw new Error("Invalid team ID");
+
+    results = {
+      ...data.results,
+      winningTeam,
+    };
+  }
+
+  let tossResults: MatchTossResultsWithInfo | undefined = undefined;
+  if (data.tossResults) {
+    const winnerTeam = addTeamInfo(data.tossResults.tossWinnerId, [
+      matchInfo.homeTeam,
+      matchInfo.awayTeam,
+    ]);
+
+    if (!winnerTeam) throw new Error("Invalid team ID");
+
+    tossResults = {
+      winnerTeam,
+      decision: data.tossResults.decision,
+    };
+  }
+
   return {
     ...data,
+    results,
+    tossResults,
     innings,
     batsmanStriker,
     batsmanNonStriker,

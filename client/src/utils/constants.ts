@@ -44,12 +44,16 @@ export const MATCH_STATES_VALUES = [
   "abandon",
 ] as const;
 
-export const MATCH_RESULT_TYPES_VALUES = [
-  "win",
+export const MATCH_OTHER_RESULT_TYPES_VALUES = [
   "abandon",
   "draw",
   "tie",
   "no-result",
+] as const;
+
+export const MATCH_RESULT_TYPES_VALUES = [
+  "win",
+  ...MATCH_OTHER_RESULT_TYPES_VALUES,
 ] as const;
 
 export const TOSS_DECISIONS_VALUES = ["bat", "bowl"] as const;
