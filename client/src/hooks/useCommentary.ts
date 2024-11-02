@@ -272,9 +272,11 @@ const getFullCommentary = async (
     }
   );
 
-  innings.unshift({
-    inningsType: COMMENTARY_INNINGS_TYPES[0],
-  });
+  if (_data.currentInnings !== "preview" || _data.commentaryList.length > 0) {
+    innings.unshift({
+      inningsType: COMMENTARY_INNINGS_TYPES[0],
+    });
+  }
 
   let tossResults = {} as MatchTossResultsWithInfo;
   if (_data.tossResults.tossWinnerId) {

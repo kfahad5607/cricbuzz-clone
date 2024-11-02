@@ -17,6 +17,7 @@ import {
   formatOversToInt,
   getEconomyRate,
   getRunRate,
+  getStatusText,
   getStatusTextColor,
   getStrikeRate,
   oversToballNum,
@@ -124,30 +125,6 @@ interface Props {
 
 const TIME_FORMAT = "hh:mm A";
 
-const getStatusText = (data: CommentaryData) => {
-  if (data.status) return data.status;
-
-  if (data.state === "innings-break") return "Innings Break";
-  if (data.state === "preview") return "";
-  if (data.state === "toss" || data.innings.length === 1)
-    return `${data.tossResults?.winnerTeam.name} opt to ${data.tossResults?.decision}`;
-
-  if (data.state === "complete" && data.results?.resultType === "win") {
-    const results = data.results;
-    const marginType = results.winByRuns ? "runs" : "wkts";
-
-    return `${results.winningTeam.name} won by ${results.winningMargin} ${marginType}`;
-  }
-  if (data.state === "abandon") {
-    return `Match abandoned`;
-  }
-
-  if (data.innings.length === 2) {
-    const innings = data.innings[1];
-    const target = data.innings[0].score - innings.score + 1;
-    return `${innings.team.name} need ${target} runs`;
-  }
-};
 
 const MatchScoreHeader = ({ data, matchInfo }: Props) => {
   const batters: ScorecardBatterWithInfo[] = [];

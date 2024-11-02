@@ -547,7 +547,7 @@ export async function getHighlights(
     const inningsType = req.params.inningsType;
     const inningsIndex = COMMENTARY_INNINGS_TYPES.indexOf(inningsType);
 
-    const result = await Commentary.aggregate([
+    let result = await Commentary.aggregate([
       {
         $match: {
           matchId,
@@ -605,9 +605,21 @@ export async function getHighlights(
       },
     ]);
 
-    if (!result[0] || !result[0].innings || matchDataResult.length === 0) {
+    if (matchDataResult.length === 0) {
       res.status(404);
       throw new Error(`No commentary found.`);
+    }
+
+    if (!result[0] || !result[0].innings) {
+      result = [
+        {
+          innings: {
+            teamId: 0,
+            currentInnings: inningsType,
+            commentaryList: [],
+          },
+        },
+      ];
     }
 
     if (!result[0].innings.commentaryList) {
@@ -638,7 +650,7 @@ export async function getFullCommentary(
     const inningsType = req.params.inningsType;
     const inningsIndex = COMMENTARY_INNINGS_TYPES.indexOf(inningsType);
 
-    const result = await Commentary.aggregate([
+    let result = await Commentary.aggregate([
       {
         $match: {
           matchId,
@@ -718,9 +730,24 @@ export async function getFullCommentary(
       },
     ]);
 
-    if (!result[0] || !result[0].innings || matchDataResult.length === 0) {
+    console.log("HERE ", result);
+    console.log("HERE 2 ", matchDataResult);
+
+    if (matchDataResult.length === 0) {
       res.status(404);
       throw new Error(`No commentary found.`);
+    }
+
+    if (!result[0] || !result[0].innings) {
+      result = [
+        {
+          innings: {
+            teamId: 0,
+            currentInnings: inningsType,
+            commentaryList: [],
+          },
+        },
+      ];
     }
 
     if (matchDataResult[0].batters) {
@@ -1535,6 +1562,7 @@ export async function getMatchScorecard(
           state: 1,
           status: 1,
           tossResults: 1,
+          results: 1,
           innings: {
             $map: {
               input: { $objectToArray: "$innings" },

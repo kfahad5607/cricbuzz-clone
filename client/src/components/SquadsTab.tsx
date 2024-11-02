@@ -37,6 +37,12 @@ const SquadsTab = () => {
   if (error) return <h3>{"Something went wrong " + error.message}</h3>;
   if (!data) return <h3>{"Unable to get squad list"}</h3>;
 
+  if (
+    data.homeTeam.players.playingXi.length === 0 ||
+    data.awayTeam.players.playingXi.length === 0
+  )
+    return <h3>The squads will appear once announced.</h3>;
+
   const squadLists: {
     title: string;
     teams: {

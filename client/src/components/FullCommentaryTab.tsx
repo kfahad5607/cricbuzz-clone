@@ -244,6 +244,9 @@ const FullCommentaryTab = () => {
   if (error && !data) return <h3>{"Something went wrong " + error.message}</h3>;
   if (!data || !matchInfo) return <h3>{"Unable to get match commentary"}</h3>;
 
+  if (data.innings.length === 0)
+    return <p>There are no full commentary for this match</p>;
+
   const handleInningsClick = (inningsType: CommentaryInningsTypes) => {
     setCurrentInningsType(inningsType);
     handleFilterClick(defaultSelectedFilter);
@@ -320,7 +323,7 @@ const FullCommentaryTab = () => {
         </div>
         <div className="grow">
           {filteredCommentaryList.length === 0 ? (
-            <p>There are no highlights of this category in this innings</p>
+            <p>There are no commentaries of this category in this innings.</p>
           ) : (
             <Commentary commentaryList={filteredCommentaryList} />
           )}

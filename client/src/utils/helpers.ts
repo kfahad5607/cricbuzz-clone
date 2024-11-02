@@ -2,11 +2,43 @@ import myDayjs from "../services/dayjs";
 import { StatusColor } from "../components/MatchStatus";
 import { MatchState } from "../types/matchData";
 import { BALLS_IN_OVER, DATE_TIME_FORMAT, MATCH_STATES } from "./constants";
+import { CommentaryData } from "../types/commentary";
 
 const roundNumbers = (num: number, decimalPlaces: number = 2) => {
   const factor = Math.pow(10, decimalPlaces);
   return Math.round((num + Number.EPSILON) * factor) / factor;
 };
+
+export const getStatusText = (
+  data: Pick<
+    CommentaryData,
+    "state" | "status" | "tossResults" | "results" | "innings"
+  >
+) => {
+  if (data.status) return data.status;
+
+  if (data.state === "innings-break") return "Innings Break";
+  if (data.state === "preview") return "";
+  if (data.state === "toss" || data.innings.length === 1)
+    return `${data.tossResults?.winnerTeam.name} opt to ${data.tossResults?.decision}`;
+
+  if (data.state === "complete" && data.results?.resultType === "win") {
+    const results = data.results;
+    const marginType = results.winByRuns ? "runs" : "wkts";
+
+    return `${results.winningTeam.name} won by ${results.winningMargin} ${marginType}`;
+  }
+  if (data.state === "abandon") {
+    return `Match abandoned`;
+  }
+
+  if (data.innings.length === 2) {
+    const innings = data.innings[1];
+    const target = data.innings[0].score - innings.score + 1;
+    return `${innings.team.name} need ${target} runs`;
+  }
+};
+
 
 export const getStatusTextColor = (state: MatchState) => {
   let statusColor: StatusColor = "red";

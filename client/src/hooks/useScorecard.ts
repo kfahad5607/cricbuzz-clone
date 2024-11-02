@@ -6,6 +6,7 @@ import {
 } from "@tanstack/react-query";
 import apiClient from "../services/api-client";
 import type {
+  MatchResultsWithInfo,
   MatchTossResultsWithInfo,
   ScorecardData,
   ScorecardDataRaw,
@@ -98,6 +99,21 @@ const getScorecardData = async (
     };
   });
 
+  let results: MatchResultsWithInfo | undefined = undefined;
+  if (_data.results && _data.results.resultType === "win") {
+    const winningTeam = addTeamInfo(_data.results.winningTeamId, [
+      matchInfo.homeTeam,
+      matchInfo.awayTeam,
+    ]);
+
+    if (!winningTeam) throw new Error("Invalid team ID");
+
+    results = {
+      ..._data.results,
+      winningTeam,
+    };
+  }
+
   let tossResults: MatchTossResultsWithInfo | undefined = undefined;
   if (_data.tossResults) {
     const winnerTeam = addTeamInfo(_data.tossResults.tossWinnerId, [
@@ -113,7 +129,7 @@ const getScorecardData = async (
     };
   }
 
-  return { ...res.data, tossResults, innings: newInnings };
+  return { ...res.data, tossResults, results, innings: newInnings };
 };
 
 const useScorecard = (matchId: number) => {

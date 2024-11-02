@@ -14,6 +14,8 @@ import {
   formatDateTime,
   formatOversToInt,
   getEconomyRate,
+  getStatusText,
+  getStatusTextColor,
   getStrikeRate,
 } from "../utils/helpers";
 import MatchStatus from "./MatchStatus";
@@ -307,11 +309,15 @@ const ScorecardTab = () => {
   if (!data) return <h3>{"Unable to get match commentary"}</h3>;
   if (!matchInfo) return <h3>{"Unable to get match info"}</h3>;
 
+  const matchStatus = getStatusText(data);
+
   return (
     <div className="w-3/5">
-      {data.status && (
+      {matchStatus && (
         <div className="mb-2">
-          <MatchStatus>{data.status}</MatchStatus>
+          <MatchStatus color={getStatusTextColor(data.state)}>
+            {matchStatus}
+          </MatchStatus>
         </div>
       )}
       {data.innings.length === 0 ? (
