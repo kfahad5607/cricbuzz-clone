@@ -1,4 +1,5 @@
 export const BALLS_IN_OVER = 6;
+export const WICKETS_PER_INNINGS = 10;
 
 export const MATCH_FORMATS = {
   TEST: "test",
@@ -22,7 +23,10 @@ export const MATCH_TYPES_VALUES = [
 
 export const MATCH_STATES = {
   PREVIEW: "preview",
-  DELAY: "abandon",
+  DELAY: "delay",
+  TOSS: "toss",
+  IN_PROGRESS: "in-progress",
+  INNINGS_BREAK: "innings-break",
   COMPLETE: "complete",
   ABANDON: "tie",
 } as const;
@@ -30,6 +34,9 @@ export const MATCH_STATES = {
 export const MATCH_STATES_VALUES = [
   "preview",
   "delay",
+  "toss",
+  "in-progress",
+  "innings-break",
   "complete",
   "abandon",
 ] as const;

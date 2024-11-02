@@ -6,6 +6,7 @@ import {
   getOne,
   getCurrentMatches,
   updateOne,
+  updateMatchData,
   addMatchPlayer,
   removeMatchPlayer,
   updateMatchPlayer,
@@ -24,13 +25,16 @@ import {
 } from "../controllers/matches";
 import { validateRequest } from "../middlewares";
 import {
-  MatchOptional,
+  MatchPartial,
   MatchSquadPlayer,
-  MatchSquadPlayerOptional,
+  MatchSquadPlayerPartial,
   Match,
   getValidationSchema,
 } from "../types";
-import { ScorecardInningsEntry } from "../types/matchData";
+import {
+  BaseMatchDataPartial,
+  ScorecardInningsEntry,
+} from "../types/matchData";
 import { CommentaryInningsEntry } from "../types/commentary";
 
 const router = express.Router();
@@ -99,7 +103,7 @@ router.patch(
       id: "DatabaseIntIdParam",
       teamId: "DatabaseIntIdParam",
     }),
-    body: MatchSquadPlayerOptional,
+    body: MatchSquadPlayerPartial,
   }),
   updateMatchPlayer
 );
@@ -131,9 +135,20 @@ router.patch(
     params: getValidationSchema({
       id: "DatabaseIntIdParam",
     }),
-    body: MatchOptional,
+    body: MatchPartial,
   }),
   updateOne
+);
+
+router.patch(
+  "/data/:id",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+    }),
+    body: BaseMatchDataPartial,
+  }),
+  updateMatchData
 );
 
 router.delete(

@@ -72,13 +72,13 @@ const scorecardInningsSchema = new Schema(
     overs: PositiveNumberType,
     oversBowled: PositiveNumberType,
     score: PositiveNumberType,
+    target: PositiveNumberType,
     wickets: PositiveNumberType,
     isDeclared: Boolean,
     isFollowOn: Boolean,
     batters: [scorecardBatterSchema],
     bowlers: [scorecardBowlerSchema],
     extras: extraBallSchema,
-    // add target
   },
   { _id: false }
 );

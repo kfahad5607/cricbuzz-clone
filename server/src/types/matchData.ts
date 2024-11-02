@@ -25,8 +25,8 @@ export const MatchResults = z.object({
 });
 
 export const MatchTossResults = z.object({
-  tossWinnerId: z.coerce.number().positive().optional(),
-  decision: z.enum(TOSS_DECISIONS_VALUES).optional(),
+  tossWinnerId: z.coerce.number().positive(),
+  decision: z.enum(TOSS_DECISIONS_VALUES),
 });
 
 export const ScorecardBatterSchema = z.object({
@@ -79,6 +79,7 @@ export const BaseScorecardInnings = z.object({
   overs: z.coerce.number().nonnegative().default(0),
   oversBowled: z.coerce.number().nonnegative().default(0),
   score: z.coerce.number().nonnegative().default(0),
+  target: z.coerce.number().positive().optional(),
   wickets: z.coerce.number().nonnegative().default(0),
   isDeclared: z.boolean().optional(),
   isFollowOn: z.boolean().optional(),
@@ -90,7 +91,16 @@ export const ScorecardInnings = BaseScorecardInnings.extend({
   bowlers: z.array(ScorecardBowler),
 });
 
-export const MatchData = z.object({
+export const BaseMatchData = z.object({
+  state: z.enum(MATCH_STATES_VALUES),
+  status: z.string().max(200),
+  tossResults: MatchTossResults,
+  results: MatchResults,
+});
+
+export const BaseMatchDataPartial = BaseMatchData.partial();
+
+export const MatchData = BaseMatchData.extend({
   matchId: z.coerce.number().positive(),
   innings: z.object({
     first: ScorecardInnings.optional(),
@@ -100,10 +110,9 @@ export const MatchData = z.object({
   }),
   state: z.enum(MATCH_STATES_VALUES).default(MATCH_STATES.PREVIEW),
   status: z.string().max(200).default(""),
-  tossResults: MatchTossResults.default({}),
+  tossResults: MatchTossResults.optional(),
   results: MatchResults.default({ winByInnings: false, winByRuns: false }),
 });
-
 
 export const ScorecardInningsEntry = BaseScorecardInnings.extend({
   batsmanStriker: ScorecardBatter.nullable().optional(),
@@ -118,6 +127,7 @@ export const ScorecardInningsType = z.enum(SCORECARD_INNINGS_TYPES);
 // infered types
 export type MatchResults = z.infer<typeof MatchResults>;
 export type MatchTossResults = z.infer<typeof MatchTossResults>;
+export type BaseMatchDataPartial = z.infer<typeof BaseMatchDataPartial>;
 export type MatchData = z.infer<typeof MatchData>;
 export type ScorecardBatter = z.infer<typeof ScorecardBatter>;
 export type ScorecardBowler = z.infer<typeof ScorecardBowler>;

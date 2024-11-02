@@ -16,6 +16,7 @@ import {
 } from "../helpers/matchData";
 import { verifyMatchAndTeam } from "../helpers/matches";
 import {
+  BaseMatchDataPartial,
   BaseScorecardInnings,
   COMMENTARY_INNINGS_TYPES,
   CommentaryInningsType,
@@ -24,13 +25,13 @@ import {
   Match,
   MatchCard,
   MatchData as MatchDataType,
-  MatchOptional,
+  MatchPartial,
   MatchSquad,
   MatchSquadPlayer,
-  MatchSquadPlayerOptional,
+  MatchSquadPlayerPartial,
   MatchSquadPlayerWithInfo,
   MatchWithId,
-  PlayerOptional,
+  PlayerPartial,
   PlayerWithId,
   SCORECARD_INNINGS_TYPES,
   ScorecardBatter,
@@ -42,6 +43,7 @@ import {
   UpdateDocType,
 } from "../types";
 import { CommentaryInningsEntry, CommentaryItem } from "../types/commentary";
+import { WICKETS_PER_INNINGS } from "../helpers/constants";
 
 dayjs.extend(utc);
 
@@ -119,7 +121,6 @@ export async function createOne(
     });
 
     const matchSquadResults = await matchSquad.save();
-    console.log("matchSquadResults ", matchSquadResults);
 
     const savedMatch = { ...newMatch, id: matchId };
 
@@ -133,14 +134,14 @@ export async function updateOne(
   req: Request<
     getValidationType<{ id: "DatabaseIntIdParam" }>,
     MatchWithId,
-    MatchOptional
+    MatchPartial
   >,
   res: Response,
   next: NextFunction
 ) {
   try {
     const id = parseInt(req.params.id);
-    const match = req.body!;
+    const match = req.body;
 
     const results = await db
       .update(matchesTable)
@@ -178,6 +179,48 @@ export async function deleteOne(
     const results = await MatchSquads.deleteOne({ matchId });
 
     res.status(204).end();
+  } catch (err) {
+    next(err);
+  }
+}
+
+export async function updateMatchData(
+  req: Request<
+    getValidationType<{ id: "DatabaseIntIdParam" }>,
+    MatchWithId,
+    BaseMatchDataPartial
+  >,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matchId = parseInt(req.params.id);
+    const matchData = req.body;
+
+    if (matchData.tossResults) {
+      matchData.state = "toss";
+    }
+
+    if (Object.keys(matchData).length > 0) {
+      const result = await MatchData.updateOne(
+        {
+          matchId,
+        },
+        {
+          $set: matchData,
+        }
+      );
+
+      if (result.matchedCount === 0) {
+        res.status(404);
+        throw new Error(`Match with id '${matchId}' not found.`);
+      }
+    }
+
+    res.status(200).json({
+      status: "success",
+      message: "Updated successfully!",
+    });
   } catch (err) {
     next(err);
   }
@@ -280,8 +323,8 @@ export async function addInningsScore(
 
     const columnsToFetch = { [`innings.${inningsType}`]: 1 };
     if (prevInningsType) {
-      // Why do this?
       columnsToFetch[`innings.${prevInningsType}.teamId`] = 1;
+      columnsToFetch[`innings.${prevInningsType}.score`] = 1;
     }
 
     let matchData = await MatchData.findOne(
@@ -352,12 +395,46 @@ export async function addInningsScore(
       };
 
       innings = matchData.innings[inningsType];
+
+      if (matchData.innings[prevInningsType]) {
+        innings.target = matchData.innings[prevInningsType].score + 1;
+      }
     }
 
     baseScorecardInningsKeys.forEach((key) => {
       let val = scorecardInningsEntry[key];
       if (val !== undefined) (innings![key] as typeof val) = val;
     });
+    matchData.state = "in-progress";
+    if (inningsType === "first" && innings.overs === innings.oversBowled) {
+      matchData.state = "innings-break";
+    } else if (inningsType === "second") {
+      if (innings.score >= (innings.target || 1)) {
+        matchData.results = {
+          resultType: "win",
+          winningMargin: WICKETS_PER_INNINGS - innings.wickets,
+          winningTeamId: innings.teamId,
+          winByRuns: false,
+          winByInnings: false,
+        };
+
+        matchData.state = "complete";
+      } else if (
+        innings.overs === innings.oversBowled ||
+        innings.wickets === WICKETS_PER_INNINGS
+      ) {
+        matchData.results = {
+          resultType: "win",
+          winningMargin:
+            matchData.innings[prevInningsType]!.score - innings.score,
+          winningTeamId: matchData.innings[prevInningsType]!.teamId,
+          winByRuns: true,
+          winByInnings: false,
+        };
+
+        matchData.state = "complete";
+      }
+    }
 
     batterHolderKeys.forEach((key) => {
       let batter = scorecardInningsEntry[key];
@@ -910,7 +987,7 @@ export async function getCommentary(
     const commentaryResult = await getCommentaryData(matchId, inningsIdx);
     const matchDataResult = await getMatchData(matchId);
 
-    if (commentaryResult.commentaryList.length === 0 || !matchDataResult) {
+    if (!matchDataResult) {
       res.status(404);
       throw new Error(`No commentary found.`);
     }
@@ -1000,8 +1077,10 @@ export async function addInningsCommentary(
     };
 
     if (prevInningsType) {
-      if (prevInningsType !== "preview")
+      if (prevInningsType !== "preview") {
         matchDataColumnsToFetch[`innings.${prevInningsType}.teamId`] = 1;
+        matchDataColumnsToFetch[`innings.${prevInningsType}.score`] = 1;
+      }
       commentaryFilter[`innings.${inningsIndex - 1}`] = { $exists: true };
     }
 
@@ -1079,12 +1158,52 @@ export async function addInningsCommentary(
         };
 
         innings = matchData.innings[inningsType];
+
+        if (
+          prevInningsType !== "preview" &&
+          matchData.innings[prevInningsType]
+        ) {
+          innings.target = matchData.innings[prevInningsType].score + 1;
+        }
       }
 
       baseScorecardInningsKeys.forEach((key) => {
         let val = scorecardInningsEntry[key];
         if (val !== undefined) (innings![key] as typeof val) = val;
       });
+
+      matchData.state = "in-progress";
+      if (inningsType === "first" && innings.overs === innings.oversBowled) {
+        matchData.state = "innings-break";
+      } else if (inningsType === "second") {
+        if (innings.score >= (innings.target || 1)) {
+          matchData.results = {
+            resultType: "win",
+            winningMargin: WICKETS_PER_INNINGS - innings.wickets,
+            winningTeamId: innings.teamId,
+            winByRuns: false,
+            winByInnings: false,
+          };
+
+          matchData.state = "complete";
+        } else if (
+          innings.overs === innings.oversBowled ||
+          innings.wickets === WICKETS_PER_INNINGS
+        ) {
+          if (prevInningsType !== "preview") {
+            matchData.results = {
+              resultType: "win",
+              winningMargin:
+                matchData.innings[prevInningsType]!.score - innings.score,
+              winningTeamId: matchData.innings[prevInningsType]!.teamId,
+              winByRuns: true,
+              winByInnings: false,
+            };
+          }
+
+          matchData.state = "complete";
+        }
+      }
 
       batterHolderKeys.forEach((key) => {
         let batter = scorecardInningsEntry[key];
@@ -1356,7 +1475,7 @@ export async function getMatchInfo(
         .where(inArray(playersTable.id, playerIds));
     }
 
-    let playersInfoMap: { [key: DatabaseIntId]: PlayerOptional } = {};
+    let playersInfoMap: { [key: DatabaseIntId]: PlayerPartial } = {};
     playersInfoMap = playersData.reduce((acc, val) => {
       acc[val.id] = val;
       return acc;
@@ -1535,7 +1654,7 @@ export async function updateMatchPlayer(
       teamId: "DatabaseIntIdParam";
     }>,
     {},
-    MatchSquadPlayerOptional
+    MatchSquadPlayerPartial
   >,
   res: Response,
   next: NextFunction
@@ -1547,7 +1666,7 @@ export async function updateMatchPlayer(
     const { id: playerId } = player;
 
     type UpdateMatchSquadPlayerType = UpdateDocType<
-      MatchSquadPlayerOptional,
+      MatchSquadPlayerPartial,
       "teams.$[team].players.$[player]."
     >;
 
@@ -1615,7 +1734,7 @@ export async function getMatchPlayers(
         .where(inArray(playersTable.id, playerIds));
     }
 
-    let playersInfoMap: { [key: DatabaseIntId]: PlayerOptional } = {};
+    let playersInfoMap: { [key: DatabaseIntId]: PlayerPartial } = {};
     playersInfoMap = playersData.reduce((acc, val) => {
       acc[val.id] = val;
       return acc;

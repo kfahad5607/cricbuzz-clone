@@ -15,11 +15,11 @@ const commentaryItemSchema = new Schema(
     events: [{ type: String, enum: BALL_EVENTS }],
     batsmanStriker: {
       type: new Schema(batterSchemaObj, { _id: false }),
-      required: true,
+      required: false,
     },
     bowlerStriker: {
       type: new Schema(bowlerSchemaObj, { _id: false }),
-      required: true,
+      required: false,
     },
   },
   {

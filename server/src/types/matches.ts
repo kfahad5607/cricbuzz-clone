@@ -23,7 +23,7 @@ export const Match = z.object({
   completeTime: z.coerce.date(),
 });
 
-export const MatchOptional = Match.partial();
+export const MatchPartial = Match.partial();
 
 export const MatchWithId = Match.extend({
   id: z.coerce.number().positive(),
@@ -41,7 +41,7 @@ export const MatchSquad = z.object({
 
 // infered types
 export type Match = z.infer<typeof Match>;
-export type MatchOptional = z.infer<typeof MatchOptional>;
+export type MatchPartial = z.infer<typeof MatchPartial>;
 export type MatchWithId = z.infer<typeof MatchWithId>;
 
 // manual types
