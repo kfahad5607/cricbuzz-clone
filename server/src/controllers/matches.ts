@@ -610,6 +610,10 @@ export async function getHighlights(
       throw new Error(`No commentary found.`);
     }
 
+    if (!result[0].innings.commentaryList) {
+      result[0].innings.commentaryList = [];
+    }
+
     res.status(200).json({
       ...result[0].innings,
       ...matchDataResult[0],
@@ -1452,49 +1456,54 @@ export async function getMatchInfo(
       matchId,
     }).lean();
 
-    if (!matchSquad) {
-      res.status(400);
-      throw new Error("Match squad does not exist.");
-    }
+    // if (!matchSquad) {
+    //   res.status(400);
+    //   throw new Error("Match squad does not exist.");
+    // }
 
-    const playerIds: DatabaseIntId[] = [];
-    matchSquad.teams.forEach((team) => {
-      team.players.map((player) => playerIds.push(player.id));
-    });
+    let squads: TeamSquad<MatchSquadPlayerWithInfo>[] = [];
+    if (matchSquad) {
+      const playerIds: DatabaseIntId[] = [];
+      matchSquad.teams.forEach((team) => {
+        team.players.map((player) => playerIds.push(player.id));
+      });
 
-    let playersData: Omit<PlayerWithId, "personalInfo" | "team">[] = [];
-    if (playerIds.length > 0) {
-      playersData = await db
-        .select({
-          id: playersTable.id,
-          name: playersTable.name,
-          shortName: playersTable.shortName,
-          roleInfo: playersTable.roleInfo,
-        })
-        .from(playersTable)
-        .where(inArray(playersTable.id, playerIds));
-    }
-
-    let playersInfoMap: { [key: DatabaseIntId]: PlayerPartial } = {};
-    playersInfoMap = playersData.reduce((acc, val) => {
-      acc[val.id] = val;
-      return acc;
-    }, playersInfoMap);
-
-    const squads: TeamSquad<MatchSquadPlayerWithInfo>[] = matchSquad.teams.map(
-      (team): { teamId: number; players: MatchSquadPlayerWithInfo[] } => {
-        team.players = team.players.map((player): MatchSquadPlayerWithInfo => {
-          let playerWithInfo: MatchSquadPlayerWithInfo = {
-            ...player,
-            ...playersInfoMap[player.id],
-          };
-
-          return playerWithInfo;
-        });
-
-        return team;
+      let playersData: Omit<PlayerWithId, "personalInfo" | "team">[] = [];
+      if (playerIds.length > 0) {
+        playersData = await db
+          .select({
+            id: playersTable.id,
+            name: playersTable.name,
+            shortName: playersTable.shortName,
+            roleInfo: playersTable.roleInfo,
+          })
+          .from(playersTable)
+          .where(inArray(playersTable.id, playerIds));
       }
-    );
+
+      let playersInfoMap: { [key: DatabaseIntId]: PlayerPartial } = {};
+      playersInfoMap = playersData.reduce((acc, val) => {
+        acc[val.id] = val;
+        return acc;
+      }, playersInfoMap);
+
+      squads = matchSquad.teams.map(
+        (team): { teamId: number; players: MatchSquadPlayerWithInfo[] } => {
+          team.players = team.players.map(
+            (player): MatchSquadPlayerWithInfo => {
+              let playerWithInfo: MatchSquadPlayerWithInfo = {
+                ...player,
+                ...playersInfoMap[player.id],
+              };
+
+              return playerWithInfo;
+            }
+          );
+
+          return team;
+        }
+      );
+    }
 
     const matchDataWithSquads: typeof matchData & {
       squads: TeamSquad<MatchSquadPlayerWithInfo>[];
@@ -1525,6 +1534,7 @@ export async function getMatchScorecard(
         $project: {
           state: 1,
           status: 1,
+          tossResults: 1,
           innings: {
             $map: {
               input: { $objectToArray: "$innings" },
