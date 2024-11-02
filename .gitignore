@@ -29,7 +29,9 @@ playground/
 
 # server
 server/src/db/**/migrations/
+server/src/db/seeds/**/payload-bookmark.json
 
 # generate-data
 venv/
 __pycache__/
+generate-data/data/series/

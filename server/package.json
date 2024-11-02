@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npx tsc",
     "start": "tsc && node dist/index.js",
-    "dev": "concurrently \"tsc --watch\" \"nodemon dist/index.js\"",
+    "dev": "concurrently \"tsc --watch\" \"nodemon --ignore src/db/seeds/ dist/index.js  \"",
     "generate": "drizzle-kit generate",
     "migrate": "drizzle-kit migrate",
     "studio": "drizzle-kit studio",
