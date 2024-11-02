@@ -1,6 +1,7 @@
 import { useParams } from "react-router-dom";
 import { Fragment } from "react/jsx-runtime";
 import { Column } from "../entities/table";
+import useMatchInfo from "../hooks/useMatchInfo";
 import useScorecard from "../hooks/useScorecard";
 import type {
   fallOfWicketWithPlayerInfo,
@@ -10,6 +11,7 @@ import type {
 } from "../types/matchData";
 import { DISMISSAL_TYPES } from "../utils/constants";
 import {
+  formatDateTime,
   formatOversToInt,
   getEconomyRate,
   getStrikeRate,
@@ -18,21 +20,25 @@ import MatchStatus from "./MatchStatus";
 import PlayerLink from "./PlayerLink";
 import Table from "./Table";
 
+const getPlayerName = (
+  player: Pick<ScorecardBatterWithInfo, "name" | "isCaptain" | "isKeeper">
+) => {
+  let designation = "";
+  if (player.isCaptain) designation = "c";
+  if (player.isKeeper) {
+    designation = designation ? designation + " & wk" : "wk";
+  }
+
+  return `${player.name}${designation && ` (${designation})`}`;
+};
+
 const batterColumns: Column<ScorecardBatterWithInfo>[] = [
   {
     title: "Batter",
     classNames: "w-1/5 mr-2",
     dataKey: "shortName",
     render: (val, record) => {
-      let designation = "";
-      if (record.isCaptain) designation = "c";
-      if (record.isKeeper) {
-        designation = designation ? designation + " & wk" : "wk";
-      }
-
-      const name = `${val}${designation && ` (${designation})`}`;
-
-      return <PlayerLink name={name} />;
+      return <PlayerLink name={getPlayerName(record)} />;
     },
   },
   {
@@ -215,7 +221,7 @@ const ScorecardInnings = ({ innings }: ScorecardInningsProps) => {
   const oversBowled = formatOversToInt(innings.oversBowled);
 
   return (
-    <div>
+    <div className="mb-2.5">
       <div className="flex justify-between bg-gray-600 text-white text-sm px-2 py-2">
         <div>{innings.team.name} Innings</div>
         <div>
@@ -285,22 +291,161 @@ const ScorecardTab = () => {
   const params = useParams();
   const matchId = parseInt(params.matchId!);
 
+  const {
+    data: matchInfo,
+    error: matchInfoErr,
+    isLoading: matchInfoLoading,
+  } = useMatchInfo(matchId);
   const { data, error, isLoading } = useScorecard(matchId);
 
-  if (isLoading)
+  if (isLoading || matchInfoLoading)
     return <div className="text-center mx-2 my-3 text-xl">Loading...</div>;
 
-  if (error && !data) return <h3>{"Something went wrong " + error.message}</h3>;
+  if (matchInfoErr)
+    return <h3>{"Something went wrong " + matchInfoErr.message}</h3>;
+  if (error) return <h3>{"Something went wrong " + error.message}</h3>;
   if (!data) return <h3>{"Unable to get match commentary"}</h3>;
+  if (!matchInfo) return <h3>{"Unable to get match info"}</h3>;
 
   return (
     <div className="w-3/5">
-      <div className="mb-2">
-        <MatchStatus>{data.status}</MatchStatus>
+      {data.status && (
+        <div className="mb-2">
+          <MatchStatus>{data.status}</MatchStatus>
+        </div>
+      )}
+      {data.innings.length === 0 ? (
+        <h3 className="mb-3">
+          The scorecard will appear once the match starts.
+        </h3>
+      ) : (
+        data.innings.map((inn, innIdx) => (
+          <ScorecardInnings key={innIdx} innings={inn} />
+        ))
+      )}
+
+      {/* Match Info */}
+      <div>
+        <div className="bg-gray-600 text-white text-sm px-2 py-2">
+          Match Info
+        </div>
+        <div className="text-sm">
+          <div className="flex justify-between px-2 py-2 border-b">
+            <div className="w-1/4 shrink-0">Match</div>
+            <div className="grow">
+              {matchInfo.homeTeam.shortName.toUpperCase()} vs{" "}
+              {matchInfo.awayTeam.shortName.toUpperCase()},{" "}
+              {matchInfo.description}, {matchInfo.series.title}
+            </div>
+          </div>
+          <div className="flex justify-between px-2 py-2 border-b">
+            <div className="w-1/4 shrink-0">Date</div>
+            <div className="grow">
+              {formatDateTime(matchInfo.startTime, "dddd, MMMM DD, YYYY")}
+            </div>
+          </div>
+          {data.tossResults && (
+            <div className="flex justify-between px-2 py-2 border-b">
+              <div className="w-1/4 shrink-0">Toss</div>
+              <div className="grow">
+                {data.tossResults.winnerTeam.name} won the toss and opt to{" "}
+                {data.tossResults.decision}
+              </div>
+            </div>
+          )}
+          <div className="flex justify-between px-2 py-2 border-b">
+            <div className="w-1/4 shrink-0">Time</div>
+            <div className="grow">
+              {formatDateTime(matchInfo.startTime, "hh:mm A")}
+            </div>
+          </div>
+          <div className="flex justify-between px-2 py-2">
+            <div className="w-1/4 shrink-0">Venue</div>
+            <div className="grow">
+              {matchInfo.venue.name},{" "}
+              <span className="capitalize">{matchInfo.venue.city}</span>
+            </div>
+          </div>
+          {matchInfo.awayTeam.players.playingXi.length > 0 && (
+            <Fragment>
+              <div className="flex justify-between px-2 pt-2.5 pb-1 border-t">
+                {matchInfo.homeTeam.name} Squad
+              </div>
+              <div className="flex justify-between px-2 py-1.5">
+                <div className="w-1/4 shrink-0">Playing</div>
+                <div className="grow">
+                  {matchInfo.homeTeam.players.playingXi.map(
+                    (player, playerIdx, playingXi) => (
+                      <Fragment key={player.id}>
+                        <PlayerLink
+                          name={getPlayerName(player)}
+                          className="text-black"
+                        />
+                        {playerIdx + 1 !== playingXi.length && ", "}
+                      </Fragment>
+                    )
+                  )}
+                </div>
+              </div>
+              <div className="flex justify-between px-2 pt-1.5 pb-2">
+                <div className="w-1/4 shrink-0">Bench</div>
+                <div className="grow">
+                  {matchInfo.homeTeam.players.substitutes
+                    .concat(matchInfo.homeTeam.players.bench)
+                    .map((player, playerIdx, playingXi) => (
+                      <Fragment key={player.id}>
+                        <PlayerLink
+                          name={getPlayerName(player)}
+                          className="text-black"
+                        />
+                        {playerIdx + 1 !== playingXi.length && ", "}
+                      </Fragment>
+                    ))}
+                </div>
+              </div>
+            </Fragment>
+          )}
+          {matchInfo.awayTeam.players.playingXi.length > 0 && (
+            <Fragment>
+              <div className="flex justify-between px-2 pt-2.5 pb-1 border-t">
+                {matchInfo.awayTeam.name} Squad
+              </div>
+              <div className="flex justify-between px-2 py-1.5">
+                <div className="w-1/4 shrink-0">Playing</div>
+                <div className="grow">
+                  {matchInfo.awayTeam.players.playingXi.map(
+                    (player, playerIdx, playingXi) => (
+                      <Fragment key={player.id}>
+                        <PlayerLink
+                          name={getPlayerName(player)}
+                          className="text-black"
+                        />
+                        {playerIdx + 1 !== playingXi.length && ", "}
+                      </Fragment>
+                    )
+                  )}
+                </div>
+              </div>
+              <div className="flex justify-between px-2 pt-1.5 pb-2">
+                <div className="w-1/4 shrink-0">Bench</div>
+                <div className="grow">
+                  {matchInfo.awayTeam.players.substitutes
+                    .concat(matchInfo.awayTeam.players.bench)
+                    .map((player, playerIdx, playingXi) => (
+                      <Fragment key={player.id}>
+                        <PlayerLink
+                          name={getPlayerName(player)}
+                          className="text-black"
+                        />
+                        {playerIdx + 1 !== playingXi.length && ", "}
+                      </Fragment>
+                    ))}
+                </div>
+              </div>
+            </Fragment>
+          )}
+        </div>
       </div>
-      {data.innings.map((inn, innIdx) => (
-        <ScorecardInnings key={innIdx} innings={inn} />
-      ))}
     </div>
   );
 };

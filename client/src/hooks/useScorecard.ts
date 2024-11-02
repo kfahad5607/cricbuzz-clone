@@ -5,7 +5,11 @@ import {
   useQueryClient,
 } from "@tanstack/react-query";
 import apiClient from "../services/api-client";
-import type { ScorecardData, ScorecardDataRaw } from "../types/matchData";
+import type {
+  MatchTossResultsWithInfo,
+  ScorecardData,
+  ScorecardDataRaw,
+} from "../types/matchData";
 import type { MatchInfo } from "../types/matches";
 import type { MatchSquadPlayer } from "../types/players";
 import {
@@ -14,6 +18,7 @@ import {
   getPlayersMap,
   matchInfoQueryKeys,
 } from "./useMatchInfo";
+import { addTeamInfo } from "./useCommentary";
 
 // types
 type QueryKeyMatch = ReturnType<typeof queryKeys.match>;
@@ -93,7 +98,22 @@ const getScorecardData = async (
     };
   });
 
-  return { ...res.data, innings: newInnings };
+  let tossResults: MatchTossResultsWithInfo | undefined = undefined;
+  if (_data.tossResults) {
+    const winnerTeam = addTeamInfo(_data.tossResults.tossWinnerId, [
+      matchInfo.homeTeam,
+      matchInfo.awayTeam,
+    ]);
+
+    if (!winnerTeam) throw new Error("Invalid team ID");
+
+    tossResults = {
+      winnerTeam,
+      decision: _data.tossResults.decision,
+    };
+  }
+
+  return { ...res.data, tossResults, innings: newInnings };
 };
 
 const useScorecard = (matchId: number) => {

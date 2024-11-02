@@ -19,7 +19,7 @@ export const getStatusTextColor = (state: MatchState) => {
 };
 
 export const formatDateTime = (dateTime: string, format = DATE_TIME_FORMAT) => {
-  return myDayjs(dateTime).format(format);
+  return myDayjs(dateTime).utc().local().format(format);
 };
 
 export const getNumberWithOrdinal = (n: number) => {

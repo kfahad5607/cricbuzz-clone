@@ -102,8 +102,21 @@ const useMatchInfo = <TData = MatchInfo>(
         const homeTeam = res.data.homeTeam as TeamMatchInfoWithPlayers;
         const awayTeam = res.data.awayTeam as TeamMatchInfoWithPlayers;
 
-        homeTeam.players = transformPlayersList(res.data.squads[0].players);
-        awayTeam.players = transformPlayersList(res.data.squads[1].players);
+        if (res.data.squads.length === 0) {
+          homeTeam.players = {
+            playingXi: [],
+            bench: [],
+            substitutes: [],
+          };
+          awayTeam.players = {
+            playingXi: [],
+            bench: [],
+            substitutes: [],
+          };
+        } else {
+          homeTeam.players = transformPlayersList(res.data.squads[0].players);
+          awayTeam.players = transformPlayersList(res.data.squads[1].players);
+        }
 
         const data = {
           id: res.data.id,

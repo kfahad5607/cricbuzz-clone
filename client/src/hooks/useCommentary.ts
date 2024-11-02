@@ -38,7 +38,7 @@ export const commentaryQueryKeys = {
     ["fullCommentary", id, inningsType] as const,
 };
 
-const addTeamInfo = (
+export const addTeamInfo = (
   teamId: number,
   teams: TeamMatchInfo[]
 ): TeamMatchInfo | null => {

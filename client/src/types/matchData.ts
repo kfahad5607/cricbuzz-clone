@@ -136,12 +136,17 @@ export type ScorecardDataRaw = {
   innings: ScorecardInningsRaw[];
   state: MatchState;
   status: string;
+  tossResults?: MatchTossResults;
 };
 
-export type ScorecardData = Omit<ScorecardDataRaw, "innings"> & {
+export type ScorecardData = Omit<
+  ScorecardDataRaw,
+  "innings" | "tossResults"
+> & {
   innings: ScorecardInnings[];
   state: MatchState;
   status: string;
+  tossResults?: MatchTossResultsWithInfo;
 };
 
 type MatchResultWinType = (typeof MATCH_RESULT_TYPES_VALUES)[0];
