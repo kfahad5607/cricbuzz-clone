@@ -1,14 +1,7 @@
-import dayjs from "dayjs";
-import advancedFormat from "dayjs/plugin/advancedFormat";
-import timezone from "dayjs/plugin/timezone";
-import utc from "dayjs/plugin/utc";
+import myDayjs from "../services/dayjs";
 import { StatusColor } from "../components/MatchStatus";
 import { MatchState } from "../types/matchData";
 import { BALLS_IN_OVER, DATE_TIME_FORMAT, MATCH_STATES } from "./constants";
-
-dayjs.extend(advancedFormat);
-dayjs.extend(utc);
-dayjs.extend(timezone);
 
 const roundNumbers = (num: number, decimalPlaces: number = 2) => {
   const factor = Math.pow(10, decimalPlaces);
@@ -18,13 +11,14 @@ const roundNumbers = (num: number, decimalPlaces: number = 2) => {
 export const getStatusTextColor = (state: MatchState) => {
   let statusColor: StatusColor = "red";
   if (state === MATCH_STATES.COMPLETE) statusColor = "blue";
-  else if (state === MATCH_STATES.PREVIEW) statusColor = "yellow";
+  else if (MATCH_STATES.PREVIEW === state || MATCH_STATES.TOSS === state)
+    statusColor = "yellow";
 
   return statusColor;
 };
 
 export const formatDateTime = (dateTime: string, format = DATE_TIME_FORMAT) => {
-  return dayjs(dateTime).format(format);
+  return myDayjs(dateTime).format(format);
 };
 
 export const getNumberWithOrdinal = (n: number) => {
@@ -89,10 +83,14 @@ export const getRunRate = (runs: number, balls: number) => {
 };
 
 export const getStrikeRate = (runs: number, balls: number) => {
+  if (balls === 0) return 0;
+
   return roundNumbers((runs * 100) / balls).toFixed(2);
 };
 
 export const getEconomyRate = (runs: number, overs: number) => {
+  if (overs === 0) return 0;
+
   return roundNumbers((runs * BALLS_IN_OVER) / oversToballNum(overs)).toFixed(
     2
   );
