@@ -21,6 +21,7 @@ import {
 import MatchStatus from "./MatchStatus";
 import PlayerLink from "./PlayerLink";
 import Table from "./Table";
+import { MatchInfo } from "../types/matches";
 
 const getPlayerName = (
   player: Pick<ScorecardBatterWithInfo, "name" | "isCaptain" | "isKeeper">
@@ -214,6 +215,10 @@ interface ScorecardInningsProps {
   innings: ScorecardInningsType;
 }
 
+interface TeamSquadProps {
+  team: MatchInfo["homeTeam"];
+}
+
 const ScorecardInnings = ({ innings }: ScorecardInningsProps) => {
   const { extras, batters, bowlers, didNotBatBatters } = innings;
   const fallOfWicketBatters = batters
@@ -286,6 +291,69 @@ const ScorecardInnings = ({ innings }: ScorecardInningsProps) => {
       <Table data={bowlers} columns={bowlerColumns} rowStripes />
       {/* Bowler ends */}
     </div>
+  );
+};
+
+const TeamSquad = ({ team }: TeamSquadProps) => {
+  if (team.players.playingXi.length + team.players.bench.length === 0)
+    return null;
+
+  return (
+    <Fragment>
+      <div className="flex justify-between px-2 pt-2.5 pb-1 border-t">
+        {team.name} Squad
+      </div>
+      {team.players.playingXi.length === 0 ? (
+        <div className="flex justify-between px-2 py-1.5">
+          <div className="grow">
+            {team.players.bench
+              .concat(team.players.substitutes)
+              .map((player, playerIdx, playingXi) => (
+                <Fragment key={player.id}>
+                  <PlayerLink
+                    name={getPlayerName(player)}
+                    className="text-black"
+                  />
+                  {playerIdx + 1 !== playingXi.length && ", "}
+                </Fragment>
+              ))}
+          </div>
+        </div>
+      ) : (
+        <Fragment>
+          <div className="flex justify-between px-2 py-1.5">
+            <div className="w-1/4 shrink-0">Playing</div>
+            <div className="grow">
+              {team.players.playingXi.map((player, playerIdx, playingXi) => (
+                <Fragment key={player.id}>
+                  <PlayerLink
+                    name={getPlayerName(player)}
+                    className="text-black"
+                  />
+                  {playerIdx + 1 !== playingXi.length && ", "}
+                </Fragment>
+              ))}
+            </div>
+          </div>
+          <div className="flex justify-between px-2 pt-1.5 pb-2">
+            <div className="w-1/4 shrink-0">Bench</div>
+            <div className="grow">
+              {team.players.substitutes
+                .concat(team.players.bench)
+                .map((player, playerIdx, playingXi) => (
+                  <Fragment key={player.id}>
+                    <PlayerLink
+                      name={getPlayerName(player)}
+                      className="text-black"
+                    />
+                    {playerIdx + 1 !== playingXi.length && ", "}
+                  </Fragment>
+                ))}
+            </div>
+          </div>
+        </Fragment>
+      )}
+    </Fragment>
   );
 };
 
@@ -372,84 +440,8 @@ const ScorecardTab = () => {
               <span className="capitalize">{matchInfo.venue.city}</span>
             </div>
           </div>
-          {matchInfo.awayTeam.players.playingXi.length > 0 && (
-            <Fragment>
-              <div className="flex justify-between px-2 pt-2.5 pb-1 border-t">
-                {matchInfo.homeTeam.name} Squad
-              </div>
-              <div className="flex justify-between px-2 py-1.5">
-                <div className="w-1/4 shrink-0">Playing</div>
-                <div className="grow">
-                  {matchInfo.homeTeam.players.playingXi.map(
-                    (player, playerIdx, playingXi) => (
-                      <Fragment key={player.id}>
-                        <PlayerLink
-                          name={getPlayerName(player)}
-                          className="text-black"
-                        />
-                        {playerIdx + 1 !== playingXi.length && ", "}
-                      </Fragment>
-                    )
-                  )}
-                </div>
-              </div>
-              <div className="flex justify-between px-2 pt-1.5 pb-2">
-                <div className="w-1/4 shrink-0">Bench</div>
-                <div className="grow">
-                  {matchInfo.homeTeam.players.substitutes
-                    .concat(matchInfo.homeTeam.players.bench)
-                    .map((player, playerIdx, playingXi) => (
-                      <Fragment key={player.id}>
-                        <PlayerLink
-                          name={getPlayerName(player)}
-                          className="text-black"
-                        />
-                        {playerIdx + 1 !== playingXi.length && ", "}
-                      </Fragment>
-                    ))}
-                </div>
-              </div>
-            </Fragment>
-          )}
-          {matchInfo.awayTeam.players.playingXi.length > 0 && (
-            <Fragment>
-              <div className="flex justify-between px-2 pt-2.5 pb-1 border-t">
-                {matchInfo.awayTeam.name} Squad
-              </div>
-              <div className="flex justify-between px-2 py-1.5">
-                <div className="w-1/4 shrink-0">Playing</div>
-                <div className="grow">
-                  {matchInfo.awayTeam.players.playingXi.map(
-                    (player, playerIdx, playingXi) => (
-                      <Fragment key={player.id}>
-                        <PlayerLink
-                          name={getPlayerName(player)}
-                          className="text-black"
-                        />
-                        {playerIdx + 1 !== playingXi.length && ", "}
-                      </Fragment>
-                    )
-                  )}
-                </div>
-              </div>
-              <div className="flex justify-between px-2 pt-1.5 pb-2">
-                <div className="w-1/4 shrink-0">Bench</div>
-                <div className="grow">
-                  {matchInfo.awayTeam.players.substitutes
-                    .concat(matchInfo.awayTeam.players.bench)
-                    .map((player, playerIdx, playingXi) => (
-                      <Fragment key={player.id}>
-                        <PlayerLink
-                          name={getPlayerName(player)}
-                          className="text-black"
-                        />
-                        {playerIdx + 1 !== playingXi.length && ", "}
-                      </Fragment>
-                    ))}
-                </div>
-              </div>
-            </Fragment>
-          )}
+          <TeamSquad team={matchInfo.homeTeam} />
+          <TeamSquad team={matchInfo.awayTeam} />
         </div>
       </div>
     </div>

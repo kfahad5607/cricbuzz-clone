@@ -38,12 +38,13 @@ const SquadsTab = () => {
   if (!data) return <h3>{"Unable to get squad list"}</h3>;
 
   if (
-    data.homeTeam.players.playingXi.length === 0 ||
-    data.awayTeam.players.playingXi.length === 0
+    data.homeTeam.players.playingXi.length +
+      data.homeTeam.players.bench.length ===
+    0
   )
     return <h3>The squads will appear once announced.</h3>;
 
-  const squadLists: {
+  let squadLists: {
     title: string;
     teams: {
       players: MatchSquadPlayer[];
@@ -83,6 +84,26 @@ const SquadsTab = () => {
       ],
     },
   ];
+
+  if (data.homeTeam.players.playingXi.length === 0) {
+    squadLists = [
+      {
+        title: "Squad",
+        teams: [
+          {
+            players: data.homeTeam.players.bench.concat(
+              data.homeTeam.players.substitutes
+            ),
+          },
+          {
+            players: data.awayTeam.players.bench.concat(
+              data.awayTeam.players.substitutes
+            ),
+          },
+        ],
+      },
+    ];
+  }
 
   showLegendsRef.current = Boolean(
     data.homeTeam.players.substitutes.length +
