@@ -1,4 +1,4 @@
-import { mkdir } from "fs/promises";
+import { mkdir, rm } from "fs/promises";
 import * as z from "zod";
 import {
   CommentaryItem,
@@ -9,7 +9,6 @@ import {
   TeamSquad,
 } from "../../types";
 import { MatchData } from "../../types/matchData";
-import Commentary from "../mongo/schema/commentary";
 import MatchDataModel from "../mongo/schema/matchData";
 import MatchSquads from "../mongo/schema/matchSquad";
 import { db } from "../postgres";
@@ -78,6 +77,10 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     console.log("Seeding match started...");
     const BASE_MATCH_PATH = `${BASE_PATH}${seriesId}/matches/${matchId}/`;
 
+    await rm(BASE_MATCH_PATH + "payload-bookmark.json", {
+      force: true,
+    });
+
     const venueIdsMap = await getIdsMap("venues");
     const seriesIdsMap = await getIdsMap("series");
     const teamIdsMap = await getIdsMap("teams");
@@ -118,13 +121,24 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     // validate
     MatchData.parse(matchData);
 
+    // temp
+    matchData.state = "preview";
+    matchData.status = "";
+
     const tossResults = matchData.tossResults;
-    if (tossResults.tossWinnerId)
+    if (tossResults)
       tossResults.tossWinnerId = teamIdsMap[tossResults.tossWinnerId];
 
-    const matchResults = matchData.results;
-    if (matchResults.winningTeamId)
-      matchResults.winningTeamId = teamIdsMap[matchResults.winningTeamId];
+    // temp
+    matchData.results = undefined;
+    // const matchResults = matchData.results;
+    // if (matchResults && matchResults.resultType === "win") {
+    //   matchResults.winningTeamId = teamIdsMap[matchResults.winningTeamId];
+    // }
+
+    // temp
+    infoData.startTime = new Date(new Date().getTime() + 5 * 60 * 1000);
+    infoData.completeTime = new Date(new Date().getTime() + 180 * 60 * 1000);
 
     const newMatch: Match = {
       description: infoData.description,
@@ -138,6 +152,14 @@ const seedMatch = async (seriesId: number, matchId: number) => {
       startTime: new Date(infoData.startTime),
       completeTime: new Date(infoData.completeTime),
     };
+
+    if (!newMatch.venue) {
+      throw new Error(`Missing venue ${infoData.venue}`);
+    }
+
+    // 1716732000000
+    // console.log("infoData.startTime ", infoData.startTime);
+    // console.log("newMatch.startTime ", newMatch.startTime);
 
     const insertedMatch = await db
       .insert(tables.matches)
@@ -234,7 +256,7 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     // temp for testing
     commentaryData.innings = [];
     // temp for testing
-    await Commentary.create(commentaryData);
+    // await Commentary.create(commentaryData);
 
     console.log("Seeding match finished... ");
 
@@ -257,7 +279,7 @@ const seedSeriesMatches = async (seriesId: number) => {
       return;
     }
 
-    const matchIdsMap: IdsMap = {};
+    const matchIdsMap = await getIdsMap("matches");
     for (let i = 0; i < matchIds.length; i++) {
       const matchId = parseInt(matchIds[i]);
       const insertedMatchId = await seedMatch(seriesId, matchId);

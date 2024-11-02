@@ -25,13 +25,13 @@ export const MATCH_TYPES_VALUES = [
 
 export const MATCH_STATES = {
   PREVIEW: "preview",
-  DELAY: "abandon",
+  DELAY: "delay",
   TOSS: "toss",
   IN_PROGRESS: "in-progress",
   INNINGS_BREAK: "innings-break",
   // COMPLETE: "draw",
   COMPLETE: "complete",
-  ABANDON: "tie",
+  ABANDON: "abandon",
 } as const;
 
 export const MATCH_STATES_VALUES = [

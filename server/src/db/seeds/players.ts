@@ -87,6 +87,14 @@ const seedPlayers = async () => {
       return acc;
     }, {} as TeamNameIdMap);
 
+    if (Object.keys(teamNameIdMap).length !== teamNames.length) {
+      for (const name in teamNameIdMap) {
+        teamsNameSet.delete(name);
+      }
+      console.log("teamsNameSet ", teamsNameSet);
+      throw new Error("Missing teams");
+    }
+
     const playersWithTeamId = mapTeamIds(players, teamNameIdMap);
 
     const insertedPlayers = await db

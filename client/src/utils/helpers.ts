@@ -10,7 +10,8 @@ const roundNumbers = (num: number, decimalPlaces: number = 2) => {
 
 export const getStatusTextColor = (state: MatchState) => {
   let statusColor: StatusColor = "red";
-  if (state === MATCH_STATES.COMPLETE) statusColor = "blue";
+  if (MATCH_STATES.COMPLETE === state || MATCH_STATES.ABANDON === state)
+    statusColor = "blue";
   else if (MATCH_STATES.PREVIEW === state || MATCH_STATES.TOSS === state)
     statusColor = "yellow";
 

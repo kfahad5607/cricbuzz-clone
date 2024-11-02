@@ -3,6 +3,7 @@ import { mkdir } from "fs/promises";
 import * as z from "zod";
 import { oversToballNum } from "../../helpers";
 import {
+  BaseMatchDataPartial,
   CommentaryInningsEntry,
   CommentaryInningsType,
   CommentaryItem,
@@ -36,14 +37,17 @@ type Payload =
       data: ScorecardInningsEntry;
     };
 
+type MatchDataPayload = BaseMatchDataPartial;
+
 type Bookmark = {
   file: number;
   itemIdx: number;
 };
 
-const seriesId = 7607;
-const matchId = 89654;
+const seriesId = 5945;
+const matchId = 66337;
 const baseMatchPath = `${BASE_DATA_PATH}series/${seriesId}/matches/${matchId}/`;
+const BASE_URL = "http://localhost:8000/";
 
 const inningsIdMap: { [k: number]: CommentaryInningsType } = {
   0: "preview",
@@ -102,12 +106,11 @@ const rotateStrike = (
   return isOddRun !== isLastBall;
 };
 
-const sendRequest = async (
+const sendPayload = async (
   payload: Payload,
   matchId: number,
   inningsType: CommentaryInningsType
 ) => {
-  const BASE_URL = "http://localhost:8000/";
   try {
     let url = `${BASE_URL}matches/${matchId}/innings/${inningsType}/commentary`;
     if (payload.type === "scorecard") {
@@ -118,7 +121,20 @@ const sendRequest = async (
 
     return res.status === 200;
   } catch (err) {
-    console.error("ERR in sendRequest ", err);
+    console.error("ERR in sendPayload ", err);
+  }
+
+  return false;
+};
+
+const updateMatchData = async (payload: MatchDataPayload, matchId: number) => {
+  try {
+    let url = `${BASE_URL}matches/data/${matchId}`;
+    const res = await axios.patch<{}, any, MatchDataPayload>(url, payload);
+
+    return res.status === 200;
+  } catch (err) {
+    console.error("ERR in updateMatchData ", err);
   }
 
   return false;
@@ -502,6 +518,39 @@ const writeBookmark = async (bookmark: Bookmark) => {
   }
 };
 
+const addToss = async (matchId: number) => {
+  const matchDataPath = `${baseMatchPath}matchData.json`;
+  const matchDataContents = await readFileData(matchDataPath);
+  if (!matchDataContents) {
+    console.log("No match data found");
+    return;
+  }
+
+  const matchData: MatchData = JSON.parse(matchDataContents);
+  MatchData.parse(matchData);
+
+  if (!matchData.tossResults) {
+    console.log("No Toss to add!");
+    return;
+  }
+
+  const teamIdsMap = await getIdsMap("teams");
+
+  matchData.tossResults.tossWinnerId =
+    teamIdsMap[matchData.tossResults.tossWinnerId];
+  const matchDataPayload: MatchDataPayload = {
+    tossResults: matchData.tossResults,
+  };
+  const isSuccess = await updateMatchData(matchDataPayload, matchId);
+
+  if (isSuccess) {
+    console.log("Toss Added successfully!");
+    await sleep(4000);
+  } else {
+    throw Error("Error adding toss!");
+  }
+};
+
 const playMatch = async () => {
   try {
     const basePath = `${baseMatchPath}payloads`;
@@ -527,11 +576,12 @@ const playMatch = async () => {
       }
       const payloads: Payload[] = JSON.parse(payloadData);
 
-      await sleep(3000);
-      let timeout = 1000;
+      await sleep(700);
+      let timeout = 100;
+      let tossAdded = false;
       for (let j = lastBookmark.itemIdx + 1; j < payloads.length; j++) {
         const payload = payloads[j];
-        const isSuccess = await sendRequest(
+        const isSuccess = await sendPayload(
           payload,
           nativeMatchId,
           inningsIdMap[i]
@@ -550,9 +600,17 @@ const playMatch = async () => {
           break;
         }
 
+        if (i === 0 && !tossAdded && j > payloads.length - 5) {
+          await addToss(nativeMatchId);
+          tossAdded = true;
+        }
+
         console.log("Sleeping ");
         await sleep(timeout);
         console.log("Slept ");
+      }
+
+      if (i === 0) {
       }
 
       console.log(`Ended innings ${i}`);

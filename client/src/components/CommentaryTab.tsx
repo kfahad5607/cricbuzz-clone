@@ -138,6 +138,9 @@ const getStatusText = (data: CommentaryData) => {
 
     return `${results.winningTeam.name} won by ${results.winningMargin} ${marginType}`;
   }
+  if (data.state === "abandon") {
+    return `Match abandoned`;
+  }
 
   if (data.innings.length === 2) {
     const innings = data.innings[1];
@@ -155,6 +158,7 @@ const MatchScoreHeader = ({ data, matchInfo }: Props) => {
   if (data.bowlerStriker) bowlers.push(data.bowlerStriker);
   if (data.bowlerNonStriker) bowlers.push(data.bowlerNonStriker);
 
+  const isMatchComplete = data.state === MATCH_STATES.COMPLETE;
   let header = null;
 
   if (data.innings.length === 1) {
@@ -166,7 +170,7 @@ const MatchScoreHeader = ({ data, matchInfo }: Props) => {
           {formatOversToInt(data.innings[0].oversBowled)})
         </div>
 
-        {data.state !== MATCH_STATES.COMPLETE && (
+        {!isMatchComplete && (
           <div className="flex text-xs text-gray-700 leading-3 ml-2">
             <div>
               <span className="font-bold">CRR:</span>{" "}
@@ -180,10 +184,9 @@ const MatchScoreHeader = ({ data, matchInfo }: Props) => {
       </div>
     );
   } else if (data.innings.length === 2) {
-    const classNames =
-      data.state === MATCH_STATES.COMPLETE
-        ? "text-gray-500 font-medium mb-2"
-        : "font-bold text-xl leading-5 mb-2.5";
+    const classNames = isMatchComplete
+      ? "text-gray-500 font-medium mb-2"
+      : "font-bold text-xl leading-5 mb-2.5";
 
     header = (
       <div>
@@ -198,23 +201,25 @@ const MatchScoreHeader = ({ data, matchInfo }: Props) => {
             {data.innings[1].score}/{data.innings[1].wickets} (
             {formatOversToInt(data.innings[1].oversBowled)})
           </div>
-          <div className="flex text-xs text-gray-700 leading-3 ml-2">
-            <div>
-              <span className="font-bold">CRR:</span>{" "}
-              {getRunRate(
-                data.innings[1].score,
-                oversToballNum(data.innings[1].oversBowled)
-              )}
-            </div>
-            <div className="ml-1">
-              <span className="font-bold">REQ:</span>{" "}
-              {getRunRate(
-                data.innings[0].score - data.innings[1].score + 1,
-                oversToballNum(data.innings[1].overs) -
+          {!isMatchComplete && (
+            <div className="flex text-xs text-gray-700 leading-3 ml-2">
+              <div>
+                <span className="font-bold">CRR:</span>{" "}
+                {getRunRate(
+                  data.innings[1].score,
                   oversToballNum(data.innings[1].oversBowled)
-              )}
+                )}
+              </div>
+              <div className="ml-1">
+                <span className="font-bold">REQ:</span>{" "}
+                {getRunRate(
+                  data.innings[0].score - data.innings[1].score + 1,
+                  oversToballNum(data.innings[1].overs) -
+                    oversToballNum(data.innings[1].oversBowled)
+                )}
+              </div>
             </div>
-          </div>
+          )}
         </div>
       </div>
     );
@@ -257,7 +262,7 @@ const MatchScoreHeader = ({ data, matchInfo }: Props) => {
           </MatchStatus>
         </div>
       )}
-      {batters.length > 0 && bowlers.length > 0 && (
+      {!isMatchComplete && batters.length > 0 && bowlers.length > 0 && (
         <div className="mt-3">
           <Table data={batters} columns={batterColumns} />
           <Table data={bowlers} columns={bowlerColumns} />

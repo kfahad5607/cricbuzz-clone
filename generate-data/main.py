@@ -20,6 +20,22 @@ INNINGS_ID_MAP = {
     4: 'fourth', 
 }
 
+KNOWN_BALL_EVENTS = { "WICKET",
+  "MAIDEN_OVER",
+  "FOUR",
+  "SIX",
+  "FIFTY",
+  "HUNDRED",
+  "UDRS",
+  "PARTNERSHIP",
+  "INJURY",
+  "TEAM_FIFTY",
+  "TEAM_HUNDRED",
+  "DROPPED",
+  "RUNOUT_MISS",
+  "HIGHSCORING_OVER",
+  "OVER_BREAK",}
+
 def get_series_venues(series_id):
     try:
         venues_file_path = 'venues/index.json'
@@ -40,7 +56,7 @@ def get_series_venues(series_id):
             if venue_data:
                 existing_venues[venue_data['id']] = venue_data
                 
-            sleep(1.5)
+            sleep(1)
         set_file_data(file_path=venues_file_path, data=existing_venues)
     except Exception as e:
         print("ERROR in get_series_venues ==> ", e.args)
@@ -152,8 +168,8 @@ def get_team_players(team_ids):
 
                 if data:
                     existing_data[data['id']] = data
-
                 sleep(2)
+
             sleep(5)
         
         set_file_data(file_path=data_file_path, data=existing_data)
@@ -290,7 +306,7 @@ def get_match_info(match_id, match_number=None):
         
             match_info['description'] = match_details['matchDescription']
             match_info['matchFormat'] = match_details['matchFormat'].lower()
-            match_info['matchType'] = match_details['matchType']
+            match_info['matchType'] = match_details['matchType'].lower()
             match_info['matchNumber'] = extract_number(match_details['matchDescription']) if match_number == None else match_number
             match_info['homeTeam'] = match_details['team1']['id']
             match_info['awayTeam'] = match_details['team2']['id']
@@ -309,16 +325,13 @@ def get_match_info(match_id, match_number=None):
 
             match_info['results'] = {
                 'resultType':  slugify(match_details['result']['resultType']),
-                'winByRuns':  match_details['result']['winByRuns'],
-                'winByInnings':  match_details['result']['winByInnings']
             }
-            winning_margin =  match_details['result'].get('winningMargin')
-            winning_team_id =  match_details['result'].get('winningTeamId')
 
-            if winning_margin:
-                match_info['results']['winningMargin'] = winning_margin
-            if winning_team_id:
-                match_info['results']['winningTeamId'] = winning_team_id
+            if match_info['results']['resultType'] == 'win':
+                match_info['results']['winByRuns'] = match_details['result']['winByRuns']
+                match_info['results']['winByInnings'] = match_details['result']['winByInnings']
+                match_info['results']['winningMargin'] = match_details['result']['winningMargin']
+                match_info['results']['winningTeamId'] = match_details['result']['winningteamId']
  
             match_info['inningsScoreList'] = sorted(match_score_details['inningsScoreList'], key=lambda a: a['inningsId'])
             match_info['state'] = slugify(match_details['state'])
@@ -546,6 +559,8 @@ def get_match_data(match_id, match_number=None):
         set_file_data(file_path=f"series/{match_info['series']}/matches/{match_id}/matchData.json", data=match_data)
 
     except Exception as e:
+        import traceback
+        print(traceback.format_exc())
         print("ERROR in get_match_scorecard ==> ", e.args)
 
 def get_player_id_by_name(name, lookup_data):
@@ -569,13 +584,13 @@ def get_dismissal_data(dismissal_string):
         'caught': r'c (?P<catcher>.+) b (?P<bowler>.+)',
         'bowled': r'b (?P<bowler>.+)',
         'run_out_dual': r'run out \((?P<player1>.+)/(?P<player2>.+)\)',
-        'run_out_single': r'run out \((?P<player>.+?)\)',
+        'run_out_single': r'run out \((?P<player>.+)\)',
         'stumped': r'st (?P<keeper>.+) b (?P<bowler>.+)',
         'lbw': r'lbw b (?P<bowler>.+)',
-        'hit_wicket': r'hit wicket b (?P<bowler>.+)',
+        'hit_wicket': r'hit (?:wicket|wkt) b (?P<bowler>.+)',
         'timed_out': r'timed out',
         'obstructed': r'obs',
-        'retired_out': r'retired out',
+        'retired_out': r'(?:retired|retd) out',
         'retired_hurt': r'retired hurt',
         'handled': r'handled'
     }
@@ -604,6 +619,7 @@ def get_dismissal_data(dismissal_string):
                     'bowler': bowler,
                 } 
             elif key == 'run_out_single':
+                print(f"{match.group('player')=}")
                 player = match.group('player').replace("(sub)", "").strip()
                 return {
                     'dismissalType': 'run-out',
@@ -696,7 +712,14 @@ def get_commentary(match_id, innings_id):
             }
             events = commentary['event'].replace('NONE', '').strip()
             if events:
-                events = [slugify(event, delimiter='_').upper() for event in events.split(",")]
+                _events = events.split(",")
+                events = []
+                for event in _events:
+                    _event = slugify(event, delimiter='_').upper()
+                    if _event in KNOWN_BALL_EVENTS:
+                        events.append(_event)
+                    else:
+                        print(f"Unkown ball event {event}")
             else:
                 events = []
 
@@ -747,8 +770,9 @@ def get_series_matches(series_id):
 
         for i, match_link in enumerate(match_links, 1):
             match_id = get_param_from_url(match_link.attrs['href'], pos=2)
-            get_match(match_id=match_id, match_number=i)
-            sleep(2)
+            if match_id == '72622':
+                get_match(match_id=match_id, match_number=i)
+                sleep(1)
 
     except Exception as e:
         print("ERROR in get_series_matches ==> ", e.args)
@@ -759,6 +783,7 @@ def main():
         series_data = get_file_data(f"series/index.json")
         series_ids = list(series_data.keys())
         for series_id in series_ids:
+            # get_series_venues(series_id=series_id)
             get_series_matches(series_id=series_id)
             sleep(5)
         
