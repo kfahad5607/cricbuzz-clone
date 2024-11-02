@@ -302,12 +302,9 @@ def get_match_info(match_id, match_number=None):
             toss_winner_id =  match_details['tossResults'].get('tossWinnerId')
             toss_decision =  match_details['tossResults'].get('decision')
             
-            match_info['tossResults'] = {}
-
-            if toss_decision:
+            if toss_decision and toss_winner_id:
+                match_info['tossResults'] = {}
                 match_info['tossResults']['decision'] = TOSS_DECISION_MAP[toss_decision.lower()]
-
-            if toss_winner_id:
                 match_info['tossResults']['tossWinnerId'] = toss_winner_id
 
             match_info['results'] = {
@@ -540,9 +537,11 @@ def get_match_data(match_id, match_number=None):
             'innings': innings_data,
             'state': match_info['state'],
             'status': match_info['status'],
-            'tossResults': match_info['tossResults'],
             'results': match_info['results'],
         }
+
+        if 'tossResults' in match_info:
+            match_data['tossResults'] =  match_info['tossResults']
 
         set_file_data(file_path=f"series/{match_info['series']}/matches/{match_id}/matchData.json", data=match_data)
 
@@ -709,6 +708,7 @@ def get_commentary(match_id, innings_id):
             commentary_item['events'] = events
             commentary_item['batsmanStriker'] = batsman_striker
             commentary_item['bowlerStriker'] = bowler_striker
+            commentary_item['batTeamScore'] = commentary['batTeamScore']
 
             commentary_data.append(commentary_item)
 
