@@ -36,6 +36,11 @@ type Payload =
       data: ScorecardInningsEntry;
     };
 
+type Bookmark = {
+  file: number;
+  itemIdx: number;
+};
+
 const seriesId = 7607;
 const matchId = 89654;
 const baseMatchPath = `${BASE_DATA_PATH}series/${seriesId}/matches/${matchId}/`;
@@ -110,10 +115,13 @@ const sendRequest = async (
     }
 
     const res = await axios.post<{}, any, Payload["data"]>(url, payload.data);
-    console.log("res ", res.data);
+
+    return res.status === 200;
   } catch (err) {
     console.error("ERR in sendRequest ", err);
   }
+
+  return false;
 };
 
 const generateInningsPayloads = async (
@@ -219,16 +227,34 @@ const generateInningsPayloads = async (
       lastBatsmanNonStrikerId,
     ]);
 
-    commentaryData.forEach((commentary) => {
+    let initScorecardPlayers = false;
+    commentaryData.forEach((commentary, commentaryIdx) => {
       if (commentary.ballNbr === 0) {
-        payloadData.push({
+        const basePayload: Payload = {
           type: "commentary",
           data: {
             teamId,
             commText: commentary.commText,
             events: commentary.events,
           },
-        });
+        };
+
+        if (!initScorecardPlayers) {
+          basePayload.data.scorecard = {
+            teamId,
+            overs,
+            oversBowled: commentary.overs,
+            score: lastScore,
+            wickets,
+            extras: { ...extras },
+            batsmanStriker: lastBatsmanStriker,
+            batsmanNonStriker: lastBatsmanNonStriker,
+            bowlerStriker: lastBowlerStriker,
+          };
+          initScorecardPlayers = true;
+        }
+
+        payloadData.push(basePayload);
 
         return;
       }
@@ -440,6 +466,42 @@ const generateMatchPayloads = async () => {
   }
 };
 
+const readBookmark = async (): Promise<Bookmark> => {
+  try {
+    const bookmark = await readFileData(
+      `${baseMatchPath}payload-bookmark.json`
+    );
+
+    if (!bookmark) {
+      throw new Error("Invalid bookmark");
+    }
+
+    return JSON.parse(bookmark);
+  } catch (err) {
+    if (err instanceof Error) {
+      console.error(err.message);
+    }
+  }
+
+  return {
+    file: 0,
+    itemIdx: -1,
+  };
+};
+
+const writeBookmark = async (bookmark: Bookmark) => {
+  try {
+    await writeFileData(
+      `${baseMatchPath}payload-bookmark.json`,
+      JSON.stringify(bookmark)
+    );
+  } catch (err) {
+    if (err instanceof Error) {
+      console.error(err.message);
+    }
+  }
+};
+
 const playMatch = async () => {
   try {
     const basePath = `${baseMatchPath}payloads`;
@@ -452,8 +514,10 @@ const playMatch = async () => {
       return;
     }
 
-    console.log("payloadFiless ", payloadFiles);
-    for (let i = 0; i < payloadFiles.length; i++) {
+    const lastBookmark = await readBookmark();
+    console.log("lastBookmark ", lastBookmark);
+
+    for (let i = lastBookmark.file; i < payloadFiles.length; i++) {
       const payloadFile = payloadFiles[i];
       const payloadData = await readFileData(`${basePath}/${payloadFile}`);
 
@@ -464,15 +528,36 @@ const playMatch = async () => {
       const payloads: Payload[] = JSON.parse(payloadData);
 
       await sleep(3000);
-      for (const payload of payloads) {
-        await sendRequest(payload, nativeMatchId, inningsIdMap[i]);
+      let timeout = 1000;
+      for (let j = lastBookmark.itemIdx + 1; j < payloads.length; j++) {
+        const payload = payloads[j];
+        const isSuccess = await sendRequest(
+          payload,
+          nativeMatchId,
+          inningsIdMap[i]
+        );
+        if (isSuccess) {
+          if (j === payloads.length - 1) {
+            lastBookmark.file = i + 1;
+            lastBookmark.itemIdx = -1;
+          } else {
+            lastBookmark.file = i;
+            lastBookmark.itemIdx = j;
+          }
+
+          writeBookmark(lastBookmark);
+        } else {
+          break;
+        }
 
         console.log("Sleeping ");
-        await sleep(1000);
+        await sleep(timeout);
         console.log("Slept ");
       }
 
-      console.log(typeof payloads);
+      console.log(`Ended innings ${i}`);
+      console.log("Sleeping for 6 seconds");
+      await sleep(6000);
     }
   } catch (err) {
     console.log("ERR in playmatch ", err);
