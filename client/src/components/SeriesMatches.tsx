@@ -63,7 +63,7 @@ const MatchDetails = ({ data }: MatchDetailsProps) => {
         {data.description}
       </div>
       <div className="text-slate-600 mb-0.5">
-        Narendra Modi Stadium, Ahmedabad
+        {data.venue.name}, <span className="capitalize">{data.venue.city}</span>
       </div>
       <div>
         {

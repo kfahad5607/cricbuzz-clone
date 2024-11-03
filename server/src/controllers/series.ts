@@ -1,19 +1,23 @@
-import { eq } from "drizzle-orm";
+import { eq, inArray, sql } from "drizzle-orm";
 import { NextFunction, Request, Response } from "express";
 import MatchData from "../db/mongo/schema/matchData";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import {
   BaseScorecardInnings,
+  DatabaseIntId,
   MatchData as MatchDataType,
   SCORECARD_INNINGS_TYPES,
   Series,
   SeriesMatchCard,
   SeriesOptional,
   SeriesWithId,
+  TeamWithId,
+  VenueWithId,
   getValidationType,
 } from "../types";
 import { getInningsKeys } from "./matches";
+import { set } from "mongoose";
 
 export async function getAll(
   req: Request,
@@ -47,6 +51,74 @@ export async function getOne(
     }
 
     res.status(200).json(results[0]);
+  } catch (err) {
+    next(err);
+  }
+}
+
+export async function getSeriesInfo(
+  req: Request<getValidationType<{ id: "DatabaseIntIdParam" }>>,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const seriesId = parseInt(req.params.id);
+
+    const seriesData = await db
+      .select({
+        title: tables.series.title,
+        totalMatches: sql<number>`CAST(COUNT(${tables.matches.id}) as int)`,
+        matchFormat: tables.matches.matchFormat,
+        startTime: sql<string>`MIN(${tables.matches.startTime})`,
+        endTime: sql<string>`MAX(${tables.matches.startTime})`,
+      })
+      .from(tables.series)
+      .innerJoin(tables.matches, eq(tables.matches.series, tables.series.id))
+      .where(eq(tables.series.id, seriesId))
+      .groupBy(tables.series.title, tables.matches.matchFormat)
+      .orderBy(sql<string>`MIN(${tables.matches.startTime})`);
+
+    if (seriesData.length === 0) {
+      res.status(404);
+      throw new Error(`Series with ID '${seriesId}' does not exist.`);
+    }
+
+    let startTime: Date | null = null;
+    let endTime: Date | null = null;
+
+    const matches = seriesData.map((item) => {
+      const _startTime = new Date(item.startTime);
+      const _endTime = new Date(item.endTime);
+
+      if (!startTime) {
+        startTime = _startTime;
+      }
+      if (!endTime) {
+        endTime = _endTime;
+      }
+
+      if (_startTime < startTime) {
+        startTime = _startTime;
+      }
+      if (_endTime > endTime) {
+        endTime = _endTime;
+      }
+
+      return {
+        format: item.matchFormat,
+        count: item.totalMatches,
+      };
+    });
+
+    const data = {
+      id: seriesId,
+      title: seriesData[0].title,
+      startTime,
+      endTime,
+      matches,
+    };
+
+    res.status(200).json(data);
   } catch (err) {
     next(err);
   }
@@ -137,26 +209,67 @@ export async function getSeriesMatches(
         matchFormat: true,
         startTime: true,
         completeTime: true,
+        homeTeam: true,
+        awayTeam: true,
+        venue: true,
       },
-      with: {
-        homeTeam: {
-          columns: {
-            id: true,
-            name: true,
-            shortName: true,
-          },
-        },
-        awayTeam: {
-          columns: {
-            id: true,
-            name: true,
-            shortName: true,
-          },
-        },
-      },
+      // with: {
+      //   homeTeam: {
+      //     columns: {
+      //       id: true,
+      //       name: true,
+      //       shortName: true,
+      //     },
+      //   },
+      //   awayTeam: {
+      //     columns: {
+      //       id: true,
+      //       name: true,
+      //       shortName: true,
+      //     },
+      //   },
+      // },
     });
 
-    const matchIds = matches.map((match) => match.id);
+    const matchIds: number[] = [];
+    const teamIds = new Set<number>();
+    const venueIds = new Set<number>();
+    matches.forEach((match) => {
+      matchIds.push(match.id);
+      teamIds.add(match.homeTeam);
+      teamIds.add(match.awayTeam);
+      venueIds.add(match.venue);
+    });
+
+    const teamsData = await db
+      .select({
+        id: tables.teams.id,
+        name: tables.teams.name,
+        shortName: tables.teams.shortName,
+      })
+      .from(tables.teams)
+      .where(inArray(tables.teams.id, Array.from(teamIds)));
+
+    const venuesData = await db
+      .select({
+        id: tables.venues.id,
+        name: tables.venues.name,
+        city: tables.venues.city,
+      })
+      .from(tables.venues)
+      .where(inArray(tables.venues.id, Array.from(venueIds)));
+
+    let teamsMap: { [key: DatabaseIntId]: TeamWithId } = {};
+    teamsMap = teamsData.reduce((acc, val) => {
+      acc[val.id] = val;
+      return acc;
+    }, teamsMap);
+
+    let venuesMap: { [key: DatabaseIntId]: Omit<VenueWithId, "country"> } = {};
+    venuesMap = venuesData.reduce((acc, val) => {
+      acc[val.id] = val;
+      return acc;
+    }, venuesMap);
 
     const matchDataResults = await MatchData.aggregate<{
       id: MatchDataType["matchId"];
@@ -218,6 +331,9 @@ export async function getSeriesMatches(
       return {
         ...match,
         ...matchDataMap[match.id],
+        homeTeam: teamsMap[match.homeTeam],
+        awayTeam: teamsMap[match.awayTeam],
+        venue: venuesMap[match.venue],
       };
     });
 

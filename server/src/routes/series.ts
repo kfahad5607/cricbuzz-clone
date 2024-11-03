@@ -6,6 +6,7 @@ import {
   getOne,
   updateOne,
   getSeriesMatches,
+  getSeriesInfo,
 } from "../controllers/series";
 import { validateRequest } from "../middlewares";
 import { Series, SeriesOptional, getValidationSchema } from "../types";
@@ -22,6 +23,16 @@ router.get(
     }),
   }),
   getOne
+);
+
+router.get(
+  "/:id/info",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+    }),
+  }),
+  getSeriesInfo
 );
 
 router.post(

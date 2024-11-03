@@ -9,6 +9,8 @@ import {
 } from "./matchData";
 import { MatchSquadPlayer } from "./players";
 
+export type MatchFormat = (typeof MATCH_FORMATS_VALUES)[number];
+
 export type MatchCardRaw = {
   id: number;
   description: string;
@@ -26,7 +28,10 @@ export type MatchCardRaw = {
   innings: Omit<BaseScorecardInnings, "extras" | "isDeclared" | "isFollowOn">[];
 };
 
-export type MatchCard = Omit<MatchCardRaw, "tossResults" | "results" | "innings"> & {
+export type MatchCard = Omit<
+  MatchCardRaw,
+  "tossResults" | "results" | "innings"
+> & {
   tossResults?: MatchTossResultsWithInfo;
   results?: MatchResultsWithInfo;
   innings: (Omit<
@@ -35,9 +40,13 @@ export type MatchCard = Omit<MatchCardRaw, "tossResults" | "results" | "innings"
   > & { team: TeamMatchInfo })[];
 };
 
-export type SeriesMatchCardRaw = Omit<MatchCardRaw, "series">;
+export type SeriesMatchCardRaw = Omit<MatchCardRaw, "series"> & {
+  venue: Omit<VenueMatchInfo, "slug">;
+};
 
-export type SeriesMatchCard = Omit<MatchCard, "series">;
+export type SeriesMatchCard = Omit<MatchCard, "series"> & {
+  venue: Omit<VenueMatchInfo, "slug">;
+};
 
 type SeriesMatchInfo = {
   id: number;
@@ -71,7 +80,7 @@ export type TeamMatchInfoWithPlayers = TeamMatchInfo & {
 export type MatchInfoRaw = {
   id: number;
   description: string;
-  matchFormat: (typeof MATCH_FORMATS_VALUES)[number];
+  matchFormat: MatchFormat;
   startTime: string;
   series: SeriesMatchInfo;
   venue: VenueMatchInfo;
