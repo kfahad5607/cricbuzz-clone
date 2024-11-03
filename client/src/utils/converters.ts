@@ -1,20 +1,26 @@
-import myDayjs from "../services/dayjs";
 import { StatusColor } from "../components/MatchStatus";
-import { MatchState } from "../types/matchData";
-import { BALLS_IN_OVER, DATE_TIME_FORMAT, MATCH_STATES } from "./constants";
-import { CommentaryData } from "../types/commentary";
+import myDayjs from "../services/dayjs";
+import {
+  MatchState,
+  MatchTossResultsWithInfo,
+  MatchResultsWithInfo,
+  BaseScorecardInnings,
+} from "../types/matchData";
+import { TeamMatchInfo } from "../types/matches";
+import { BALLS_IN_OVER, DATE_TIME_FORMAT } from "./constants";
+import { MATCH_STATES } from "./constants";
 
-const roundNumbers = (num: number, decimalPlaces: number = 2) => {
-  const factor = Math.pow(10, decimalPlaces);
-  return Math.round((num + Number.EPSILON) * factor) / factor;
+type MatchStatusData = {
+  state: MatchState;
+  status: string;
+  tossResults?: MatchTossResultsWithInfo;
+  results?: MatchResultsWithInfo;
+  innings: ({
+    team: TeamMatchInfo;
+  } & Pick<BaseScorecardInnings, "score">)[];
 };
 
-export const getStatusText = (
-  data: Pick<
-    CommentaryData,
-    "state" | "status" | "tossResults" | "results" | "innings"
-  >
-) => {
+export const getStatusText = (data: MatchStatusData) => {
   if (data.status) return data.status;
 
   if (data.state === "innings-break") return "Innings Break";
@@ -39,7 +45,6 @@ export const getStatusText = (
   }
 };
 
-
 export const getStatusTextColor = (state: MatchState) => {
   let statusColor: StatusColor = "red";
   if (MATCH_STATES.COMPLETE === state || MATCH_STATES.ABANDON === state)
@@ -48,6 +53,11 @@ export const getStatusTextColor = (state: MatchState) => {
     statusColor = "yellow";
 
   return statusColor;
+};
+
+const roundNumbers = (num: number, decimalPlaces: number = 2) => {
+  const factor = Math.pow(10, decimalPlaces);
+  return Math.round((num + Number.EPSILON) * factor) / factor;
 };
 
 export const formatDateTime = (dateTime: string, format = DATE_TIME_FORMAT) => {

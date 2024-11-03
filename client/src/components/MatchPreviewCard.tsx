@@ -1,4 +1,6 @@
+import clsx from "clsx";
 import { Link } from "react-router-dom";
+import { Fragment } from "react/jsx-runtime";
 import slugify from "slugify";
 import teamOne from "../assets/images/team-1.webp";
 import teamTwo from "../assets/images/team-2.webp";
@@ -6,8 +8,9 @@ import type { MatchCard } from "../types/matches";
 import {
   formatDateTime,
   formatOversToInt,
+  getStatusText,
   getStatusTextColor,
-} from "../utils/helpers";
+} from "../utils/converters";
 import MatchStatus from "./MatchStatus";
 
 interface Props {
@@ -29,10 +32,11 @@ const getMatchSlug = (data: MatchSlugInput): string => {
 const MatchPreviewCard = ({ match }: Props) => {
   const { series, homeTeam, awayTeam, innings } = match;
 
-  const [firstTeam, secondTeam] =
-    innings[0].teamId === homeTeam.id
-      ? [homeTeam, awayTeam]
-      : [awayTeam, homeTeam];
+  // const [firstTeam, secondTeam] =
+  //   innings[0].teamId === homeTeam.id
+  //     ? [homeTeam, awayTeam]
+  //     : [awayTeam, homeTeam];
+  const [firstTeam, secondTeam] = [homeTeam, awayTeam];
 
   return (
     <div className="w-72 flex-shrink-0 rounded overflow-hidden bg-white shadow">
@@ -48,41 +52,81 @@ const MatchPreviewCard = ({ match }: Props) => {
               {match.matchFormat}
             </div>
           </div>
-          <div className="flex justify-between text-gray-500">
-            <div className="flex items-center w-full">
-              <div title={firstTeam.name} className="w-5 mr-1">
-                <img className="block w-full" src={teamOne} alt="" />
+          {innings.length === 0 && (
+            <Fragment>
+              <div className="flex justify-between text-slate-900 text-sm">
+                <div className="flex items-center w-full">
+                  <div title={firstTeam.name} className="w-5 mr-1">
+                    <img className="block w-full" src={teamOne} alt="" />
+                  </div>
+                  <div title={firstTeam.name} className="capitalize">
+                    {firstTeam.name}
+                  </div>
+                </div>
               </div>
-              <div title={firstTeam.name} className="uppercase">
-                {firstTeam.shortName}
+              <div className="flex justify-between text-slate-900 text-sm mt-2">
+                <div className="flex items-center w-full">
+                  <div title={secondTeam.name} className="w-5 mr-1">
+                    <img className="block w-full" src={teamTwo} alt="" />
+                  </div>
+                  <div title={secondTeam.name} className="capitalize">
+                    {secondTeam.name}
+                  </div>
+                </div>
               </div>
-            </div>
-            <div className="w-full font-medium">
-              {innings[0].score}-{innings[0].wickets} (
-              {formatOversToInt(innings[0].oversBowled)})
-            </div>
-          </div>
-          <div className="flex justify-between text-slate-900 mt-2">
-            <div className="flex items-center w-full">
-              <div title={secondTeam.name} className="w-5 mr-1">
-                <img className="block w-full" src={teamTwo} alt="" />
+            </Fragment>
+          )}
+          {innings.length > 0 && (
+            <Fragment>
+              <div
+                className={clsx(
+                  "flex justify-between text-sm",
+                  innings.length === 1 ? "text-slate-900" : "text-slate-600"
+                )}
+              >
+                <div className="flex items-center w-full">
+                  <div title={firstTeam.name} className="w-5 mr-1">
+                    <img className="block w-full" src={teamOne} alt="" />
+                  </div>
+                  <div title={firstTeam.name} className="uppercase">
+                    {firstTeam.shortName}
+                  </div>
+                </div>
+                <div className="w-full font-medium">
+                  {innings[0].score}-{innings[0].wickets} (
+                  {formatOversToInt(innings[0].oversBowled)})
+                </div>
               </div>
-              <div title={secondTeam.name} className="uppercase">
-                {secondTeam.shortName}
+              <div
+                className={clsx(
+                  "flex justify-between text-sm  mt-2",
+                  innings.length === 2 ? "text-slate-900" : "text-slate-600"
+                )}
+              >
+                <div className="flex items-center w-full">
+                  <div title={secondTeam.name} className="w-5 mr-1">
+                    <img className="block w-full" src={teamTwo} alt="" />
+                  </div>
+                  <div title={secondTeam.name} className="uppercase">
+                    {secondTeam.shortName}
+                  </div>
+                </div>
+                {innings[1] && (
+                  <div className="w-full font-medium">
+                    {innings[1].score}-{innings[1].wickets} (
+                    {formatOversToInt(innings[1].oversBowled)})
+                  </div>
+                )}
               </div>
-            </div>
-            <div className="w-full font-medium">
-              {innings[1].score}-{innings[1].wickets} (
-              {formatOversToInt(innings[1].oversBowled)})
-            </div>
-          </div>
+            </Fragment>
+          )}
           {
             <MatchStatus
               className="mt-2"
               size="sm"
               color={getStatusTextColor(match.state)}
             >
-              {match.status || formatDateTime(match.startTime)}
+              {getStatusText(match) || formatDateTime(match.startTime)}
             </MatchStatus>
           }
         </Link>

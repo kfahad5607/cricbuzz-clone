@@ -13,7 +13,7 @@ import {
 } from "../types/commentary";
 import { SCORECARD_INNINGS_TYPES } from "../types/matchData";
 import type { MatchInfo } from "../types/matches";
-import { getPlayersMap, matchInfoQueryKeys } from "./useMatchInfo";
+import { getPlayersMap, matchInfoQueryKeys } from "../utils/queries";
 
 // types
 type QueryKeyMatch = ReturnType<typeof queryKeys.match>;

@@ -16,10 +16,10 @@ import type { MatchSquadPlayer } from "../types/players";
 import {
   addPlayerInfo,
   addPlayerNamesToFow,
+  addTeamInfo,
   getPlayersMap,
   matchInfoQueryKeys,
-} from "./useMatchInfo";
-import { addTeamInfo } from "./useCommentary";
+} from "../utils/queries";
 
 // types
 type QueryKeyMatch = ReturnType<typeof queryKeys.match>;

@@ -16,7 +16,7 @@ export const SCORECARD_INNINGS_TYPES = [
   "fourth",
 ] as const;
 
-export type fallOfWicket = {
+export type FallOfWicket = {
   dismissalType: (typeof DISMISSAL_TYPES_VALUES)[number];
   overs: number;
   teamScore: number;
@@ -25,8 +25,8 @@ export type fallOfWicket = {
   helpers: number[];
 };
 
-export type fallOfWicketWithPlayerInfo = Omit<
-  fallOfWicket,
+export type FallOfWicketWithPlayerInfo = Omit<
+  FallOfWicket,
   "bowlerId" | "helpers"
 > & {
   bowler?: BasicMatchSquadPlayer;
@@ -41,7 +41,7 @@ export type ScorecardBatter = {
   batFours: number;
   batSixes: number;
   isStriker?: boolean;
-  fallOfWicket?: fallOfWicket;
+  fallOfWicket?: FallOfWicket;
 };
 
 export type ScorecardBatterWithInfo = Omit<ScorecardBatter, "fallOfWicket"> &
@@ -49,7 +49,7 @@ export type ScorecardBatterWithInfo = Omit<ScorecardBatter, "fallOfWicket"> &
     MatchSquadPlayer,
     "id" | "name" | "shortName" | "isCaptain" | "isKeeper"
   > & {
-    fallOfWicket?: fallOfWicketWithPlayerInfo;
+    fallOfWicket?: FallOfWicketWithPlayerInfo;
   } & {};
 
 export type DidNotBatBatter = MatchSquadPlayer;

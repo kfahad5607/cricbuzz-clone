@@ -4,7 +4,7 @@ import { Column } from "../entities/table";
 import useMatchInfo from "../hooks/useMatchInfo";
 import useScorecard from "../hooks/useScorecard";
 import type {
-  fallOfWicketWithPlayerInfo,
+  FallOfWicketWithPlayerInfo,
   ScorecardBatterWithInfo,
   ScorecardBowlerWithInfo,
   ScorecardInnings as ScorecardInningsType,
@@ -17,7 +17,7 @@ import {
   getStatusText,
   getStatusTextColor,
   getStrikeRate,
-} from "../utils/helpers";
+} from "../utils/converters";
 import MatchStatus from "./MatchStatus";
 import PlayerLink from "./PlayerLink";
 import Table from "./Table";
@@ -51,7 +51,7 @@ const batterColumns: Column<ScorecardBatterWithInfo>[] = [
     render: (val) => {
       let statement = "not out";
       if (val) {
-        const _val = val as fallOfWicketWithPlayerInfo;
+        const _val = val as FallOfWicketWithPlayerInfo;
         const dismissal = _val.dismissalType;
 
         switch (dismissal) {

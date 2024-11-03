@@ -1316,12 +1316,13 @@ export async function getCurrentMatches(
     const endTime = currentTime.add(5, "days").toDate();
 
     const matches = await db.query.matches.findMany({
-      where: and(
-        // can we use between clause?
-        gt(matchesTable.startTime, fromTime),
-        lt(matchesTable.startTime, endTime)
-      ),
-      limit: 20,
+      // where: and(
+      //   // can we use between clause?
+      //   gt(matchesTable.startTime, fromTime),
+      //   lt(matchesTable.startTime, endTime)
+      // ),
+      offset: 5,
+      limit: 10,
       columns: {
         id: true,
         description: true,
@@ -1354,12 +1355,13 @@ export async function getCurrentMatches(
 
     const matchIds = matches.map((match) => match.id);
 
-    // can this be moved outside?
+    // can this be moved outside? Does it need to be a func?
     const getInningsKeys = (inningsType: ScorecardInningsType) => {
       return {
         teamId: `$innings.${inningsType}.teamId`,
         score: `$innings.${inningsType}.score`,
         wickets: `$innings.${inningsType}.wickets`,
+        overs: `$innings.${inningsType}.overs`,
         oversBowled: `$innings.${inningsType}.oversBowled`,
       };
     };
@@ -1368,6 +1370,8 @@ export async function getCurrentMatches(
       id: MatchDataType["matchId"];
       state: MatchDataType["state"];
       status: MatchDataType["status"];
+      tossResults: MatchDataType["tossResults"];
+      results: MatchDataType["results"];
       innings: (
         | Omit<
             BaseScorecardInnings,
@@ -1388,6 +1392,8 @@ export async function getCurrentMatches(
           id: "$matchId",
           status: 1,
           state: 1,
+          tossResults: 1,
+          results: 1,
           innings: SCORECARD_INNINGS_TYPES.map((inningsType) =>
             getInningsKeys(inningsType)
           ),

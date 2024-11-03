@@ -1,8 +1,15 @@
 import { MATCH_FORMATS_VALUES } from "../utils/constants";
-import { BaseScorecardInnings, MatchState } from "./matchData";
+import {
+  BaseScorecardInnings,
+  MatchResults,
+  MatchResultsWithInfo,
+  MatchState,
+  MatchTossResults,
+  MatchTossResultsWithInfo,
+} from "./matchData";
 import { MatchSquadPlayer } from "./players";
 
-export type MatchCard = {
+export type MatchCardRaw = {
   id: number;
   description: string;
   matchFormat: string;
@@ -14,10 +21,18 @@ export type MatchCard = {
   awayTeam: TeamMatchInfo;
   state: MatchState;
   status: string;
-  innings: Omit<
+  tossResults?: MatchTossResults;
+  results?: MatchResults;
+  innings: Omit<BaseScorecardInnings, "extras" | "isDeclared" | "isFollowOn">[];
+};
+
+export type MatchCard = Omit<MatchCardRaw, "tossResults" | "results" | "innings"> & {
+  tossResults?: MatchTossResultsWithInfo;
+  results?: MatchResultsWithInfo;
+  innings: (Omit<
     BaseScorecardInnings,
-    "overs" | "extras" | "isDeclared" | "isFollowOn"
-  >[];
+    "extras" | "isDeclared" | "isFollowOn" | "teamId"
+  > & { team: TeamMatchInfo })[];
 };
 
 type SeriesMatchInfo = {

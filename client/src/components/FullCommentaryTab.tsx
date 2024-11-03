@@ -8,7 +8,7 @@ import {
   CommentaryInningsTypes,
   CommentaryItem,
 } from "../types/commentary";
-import { formatDateTime, getNumberWithOrdinal } from "../utils/helpers";
+import { formatDateTime, getNumberWithOrdinal } from "../utils/converters";
 import { BALL_EVENTS, DATE_FORMAT, TIME_FORMAT } from "../utils/constants";
 import { type MatchInfo } from "../types/matches";
 import useMatchInfo from "../hooks/useMatchInfo";

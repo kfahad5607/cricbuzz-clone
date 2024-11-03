@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import TabWithLink, { TabLinkType } from "../components/tabs/TabWithLink";
 import useMatchInfo from "../hooks/useMatchInfo";
-import { formatDateTime } from "../utils/helpers";
+import { formatDateTime } from "../utils/converters";
 
 const tabs: TabLinkType[] = [
   {

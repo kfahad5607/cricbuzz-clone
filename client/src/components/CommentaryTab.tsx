@@ -21,7 +21,7 @@ import {
   getStatusTextColor,
   getStrikeRate,
   oversToballNum,
-} from "../utils/helpers";
+} from "../utils/converters";
 import Commentary from "./Commentary";
 import MatchStatus from "./MatchStatus";
 import PlayerLink from "./PlayerLink";

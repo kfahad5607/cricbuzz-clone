@@ -5,7 +5,7 @@ import {
   SCORECARD_INNINGS_TYPES,
   ScorecardInningsTypes,
 } from "../types/matchData";
-import { getNumberWithOrdinal } from "../utils/helpers";
+import { getNumberWithOrdinal } from "../utils/converters";
 import Commentary from "./Commentary";
 import { BALL_EVENTS } from "../utils/constants";
 import { BallEvents, CommentaryItem } from "../types/commentary";

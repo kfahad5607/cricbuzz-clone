@@ -7,26 +7,27 @@ import {
 import apiClient from "../services/api-client";
 import {
   COMMENTARY_INNINGS_TYPES,
-  type CommentaryDataInnings,
   type CommentaryData,
+  type CommentaryDataInnings,
   type CommentaryDataRaw,
   type CommentaryInningsTypes,
   type CommentaryItem,
   type FullCommentaryData,
   type FullCommentaryDataRaw,
 } from "../types/commentary";
-import type { MatchInfo, TeamMatchInfo } from "../types/matches";
-import {
-  addPlayerInfo,
-  addPlayerNamesToFow,
-  getPlayersMap,
-  matchInfoQueryKeys,
-} from "./useMatchInfo";
 import {
   MatchResultsWithInfo,
   MatchTossResultsWithInfo,
   SCORECARD_INNINGS_TYPES,
 } from "../types/matchData";
+import type { MatchInfo } from "../types/matches";
+import {
+  addPlayerInfo,
+  addPlayerNamesToFow,
+  addTeamInfo,
+  getPlayersMap,
+  matchInfoQueryKeys,
+} from "../utils/queries";
 
 // types
 type QueryKeyMatch = ReturnType<typeof commentaryQueryKeys.match>;
@@ -38,24 +39,6 @@ export const commentaryQueryKeys = {
     ["fullCommentary", id, inningsType] as const,
 };
 
-export const addTeamInfo = (
-  teamId: number,
-  teams: TeamMatchInfo[]
-): TeamMatchInfo | null => {
-  for (let i = 0; i < teams.length; i++) {
-    const team = teams[i];
-
-    if (team.id === teamId) {
-      return {
-        id: team.id,
-        name: team.name,
-        shortName: team.shortName,
-      };
-    }
-  }
-
-  return null;
-};
 
 const mergeCommentaryLists = (
   originalList: CommentaryItem[],

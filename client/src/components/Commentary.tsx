@@ -1,5 +1,5 @@
 import type { CommentaryItem } from "../types/commentary";
-import { formatOversToFloat } from "../utils/helpers";
+import { formatOversToFloat } from "../utils/converters";
 
 interface Props {
   commentaryList: CommentaryItem[];
