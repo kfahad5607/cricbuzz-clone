@@ -11,7 +11,7 @@ const HomePage = () => {
   if (!data) return null;
 
   return (
-    <div className=" ">
+    <div>
       <div className="flex gap-3 overflow-auto">
         {data.map((match) => (
           <MatchPreviewCard key={match.id} match={match} />

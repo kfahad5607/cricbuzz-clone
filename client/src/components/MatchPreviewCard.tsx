@@ -1,13 +1,13 @@
 import clsx from "clsx";
 import { Link } from "react-router-dom";
 import { Fragment } from "react/jsx-runtime";
-import slugify from "slugify";
 import teamOne from "../assets/images/team-1.webp";
 import teamTwo from "../assets/images/team-2.webp";
 import type { MatchCard } from "../types/matches";
 import {
   formatDateTime,
   formatOversToInt,
+  getMatchSlug,
   getStatusText,
   getStatusTextColor,
 } from "../utils/converters";
@@ -17,26 +17,8 @@ interface Props {
   match: MatchCard;
 }
 
-type MatchSlugInput = Pick<
-  MatchCard,
-  "homeTeam" | "awayTeam" | "description" | "series"
->;
-
-const getMatchSlug = (data: MatchSlugInput): string => {
-  const { homeTeam, awayTeam, description, series } = data;
-  const slugInput = `${homeTeam.shortName}-vs-${awayTeam.shortName}-${description}-${series.title}`;
-
-  return slugify(slugInput, { lower: true });
-};
-
 const MatchPreviewCard = ({ match }: Props) => {
   const { series, homeTeam, awayTeam, innings } = match;
-
-  // const [firstTeam, secondTeam] =
-  //   innings[0].teamId === homeTeam.id
-  //     ? [homeTeam, awayTeam]
-  //     : [awayTeam, homeTeam];
-  const [firstTeam, secondTeam] = [homeTeam, awayTeam];
 
   return (
     <div className="w-72 flex-shrink-0 rounded overflow-hidden bg-white shadow">
@@ -56,21 +38,21 @@ const MatchPreviewCard = ({ match }: Props) => {
             <Fragment>
               <div className="flex justify-between text-slate-900 text-sm">
                 <div className="flex items-center w-full">
-                  <div title={firstTeam.name} className="w-5 mr-1">
+                  <div title={homeTeam.name} className="w-5 mr-1">
                     <img className="block w-full" src={teamOne} alt="" />
                   </div>
-                  <div title={firstTeam.name} className="capitalize">
-                    {firstTeam.name}
+                  <div title={homeTeam.name} className="capitalize">
+                    {homeTeam.name}
                   </div>
                 </div>
               </div>
               <div className="flex justify-between text-slate-900 text-sm mt-2">
                 <div className="flex items-center w-full">
-                  <div title={secondTeam.name} className="w-5 mr-1">
+                  <div title={awayTeam.name} className="w-5 mr-1">
                     <img className="block w-full" src={teamTwo} alt="" />
                   </div>
-                  <div title={secondTeam.name} className="capitalize">
-                    {secondTeam.name}
+                  <div title={awayTeam.name} className="capitalize">
+                    {awayTeam.name}
                   </div>
                 </div>
               </div>
@@ -85,11 +67,11 @@ const MatchPreviewCard = ({ match }: Props) => {
                 )}
               >
                 <div className="flex items-center w-full">
-                  <div title={firstTeam.name} className="w-5 mr-1">
+                  <div title={homeTeam.name} className="w-5 mr-1">
                     <img className="block w-full" src={teamOne} alt="" />
                   </div>
-                  <div title={firstTeam.name} className="uppercase">
-                    {firstTeam.shortName}
+                  <div title={homeTeam.name} className="uppercase">
+                    {homeTeam.shortName}
                   </div>
                 </div>
                 <div className="w-full font-medium">
@@ -104,11 +86,11 @@ const MatchPreviewCard = ({ match }: Props) => {
                 )}
               >
                 <div className="flex items-center w-full">
-                  <div title={secondTeam.name} className="w-5 mr-1">
+                  <div title={awayTeam.name} className="w-5 mr-1">
                     <img className="block w-full" src={teamTwo} alt="" />
                   </div>
-                  <div title={secondTeam.name} className="uppercase">
-                    {secondTeam.shortName}
+                  <div title={awayTeam.name} className="uppercase">
+                    {awayTeam.shortName}
                   </div>
                 </div>
                 {innings[1] && (

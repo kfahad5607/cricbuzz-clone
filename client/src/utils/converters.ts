@@ -1,3 +1,4 @@
+import slugify from "slugify";
 import { StatusColor } from "../components/MatchStatus";
 import myDayjs from "../services/dayjs";
 import {
@@ -6,7 +7,7 @@ import {
   MatchResultsWithInfo,
   BaseScorecardInnings,
 } from "../types/matchData";
-import { TeamMatchInfo } from "../types/matches";
+import { MatchCard, TeamMatchInfo } from "../types/matches";
 import { BALLS_IN_OVER, DATE_TIME_FORMAT } from "./constants";
 import { MATCH_STATES } from "./constants";
 
@@ -18,6 +19,18 @@ type MatchStatusData = {
   innings: ({
     team: TeamMatchInfo;
   } & Pick<BaseScorecardInnings, "score">)[];
+};
+
+type MatchSlugInput = Pick<
+  MatchCard,
+  "homeTeam" | "awayTeam" | "description" | "series"
+>;
+
+export const getMatchSlug = (data: MatchSlugInput): string => {
+  const { homeTeam, awayTeam, description, series } = data;
+  const slugInput = `${homeTeam.shortName}-vs-${awayTeam.shortName}-${description}-${series.title}`;
+
+  return slugify(slugInput, { lower: true });
 };
 
 export const getStatusText = (data: MatchStatusData) => {
