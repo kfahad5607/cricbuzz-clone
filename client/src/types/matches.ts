@@ -35,6 +35,10 @@ export type MatchCard = Omit<MatchCardRaw, "tossResults" | "results" | "innings"
   > & { team: TeamMatchInfo })[];
 };
 
+export type SeriesMatchCardRaw = Omit<MatchCardRaw, "series">;
+
+export type SeriesMatchCard = Omit<MatchCard, "series">;
+
 type SeriesMatchInfo = {
   id: number;
   title: string;

@@ -7,6 +7,8 @@ import ScorecardTab from "./components/ScorecardTab";
 import SquadsTab from "./components/SquadsTab";
 import FullCommentaryTab from "./components/FullCommentaryTab";
 import HighlightsTab from "./components/HighlightsTab";
+import SeriesPage from "./pages/SeriesPage";
+import SeriesMatches from "./components/SeriesMatches";
 
 const router = createBrowserRouter([
   {
@@ -23,7 +25,7 @@ const router = createBrowserRouter([
         children: [
           {
             index: true,
-            element: <Navigate to={"commentary"} replace={true} />,
+            element: <Navigate to="commentary" replace={true} />,
           },
           {
             path: "commentary",
@@ -44,6 +46,20 @@ const router = createBrowserRouter([
           {
             path: "full-commentary",
             element: <FullCommentaryTab />,
+          },
+        ],
+      },
+      {
+        path: "series/:seriesId/:seriesSlug",
+        element: <SeriesPage />,
+        children: [
+          {
+            index: true,
+            element: <Navigate to="matches" replace={true} />,
+          },
+          {
+            path: "matches",
+            element: <SeriesMatches />,
           },
         ],
       },

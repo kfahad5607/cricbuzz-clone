@@ -237,7 +237,12 @@ const ScorecardInnings = ({ innings }: ScorecardInningsProps) => {
       </div>
       {/* Scorecard table */}
       {/* Batters starts */}
-      <Table data={batters} columns={batterColumns} rowStripes />
+      <Table
+        data={batters}
+        columns={batterColumns}
+        rowAlignment="center"
+        rowStripes
+      />
       {/* Batters ends */}
       {/* extras starts */}
       <div className="flex border-t text-sm px-3 py-1.5">
@@ -285,10 +290,16 @@ const ScorecardInnings = ({ innings }: ScorecardInningsProps) => {
       <Table
         data={[{ batters: fallOfWicketBatters }]}
         columns={fallOfWicketsColumns}
+        rowAlignment="center"
       />
       {/* FOW ends */}
       {/* Bowler starts */}
-      <Table data={bowlers} columns={bowlerColumns} rowStripes />
+      <Table
+        data={bowlers}
+        columns={bowlerColumns}
+        rowAlignment="center"
+        rowStripes
+      />
       {/* Bowler ends */}
     </div>
   );

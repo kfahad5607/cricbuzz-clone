@@ -1,9 +1,11 @@
+import clsx from "clsx";
 import { CellValue, Column } from "../entities/table";
 
 interface Props<TItem> {
   columns: Column<TItem>[];
   data: TItem[];
   rowStripes?: boolean;
+  rowAlignment?: "start" | "center" | "end";
 }
 
 const BASE_CELL_CLASS = "first:ps-3 last:pe-3 px-1.5 py-1.5";
@@ -13,7 +15,12 @@ const defaultColumnRender = (val: CellValue) => <>{val}</>;
 const getRenderer = <TItem,>(column: Column<TItem>): Column<TItem>["render"] =>
   column.render || defaultColumnRender;
 
-const Table = <TItem,>({ columns, data, rowStripes = false }: Props<TItem>) => {
+const Table = <TItem,>({
+  columns,
+  data,
+  rowAlignment = "start",
+  rowStripes = false,
+}: Props<TItem>) => {
   return (
     <div className="text-sm">
       {/* Head */}
@@ -37,9 +44,9 @@ const Table = <TItem,>({ columns, data, rowStripes = false }: Props<TItem>) => {
         {data.map((row, rowIdx) => (
           <div
             key={rowIdx}
-            className={`flex items-center ${
-              rowStripes ? "border-b last:border-0" : ""
-            }`}
+            className={clsx("flex", `items-${rowAlignment}`, {
+              "border-b last:border-0": rowStripes,
+            })}
           >
             {/* Cell */}
             {columns.map((column, columnIdx) => (

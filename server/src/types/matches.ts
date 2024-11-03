@@ -63,3 +63,12 @@ export type MatchCard = Pick<
   homeTeam: Pick<Team, "name" | "shortName">;
   awayTeam: Pick<Team, "name" | "shortName">;
 };
+
+
+export type SeriesMatchCard = Pick<
+  MatchWithId,
+  "id" | "description" | "matchFormat" | "startTime" | "completeTime"
+> & {
+  homeTeam: Pick<Team, "name" | "shortName">;
+  awayTeam: Pick<Team, "name" | "shortName">;
+};

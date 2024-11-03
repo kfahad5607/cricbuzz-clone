@@ -51,6 +51,16 @@ dayjs.extend(utc);
 const matchesTable = tables.matches;
 const playersTable = tables.players;
 
+export const getInningsKeys = (inningsType: ScorecardInningsType) => {
+  return {
+    teamId: `$innings.${inningsType}.teamId`,
+    score: `$innings.${inningsType}.score`,
+    wickets: `$innings.${inningsType}.wickets`,
+    overs: `$innings.${inningsType}.overs`,
+    oversBowled: `$innings.${inningsType}.oversBowled`,
+  };
+};
+
 export async function getAll(
   req: Request,
   res: Response<MatchWithId[]>,
@@ -1354,17 +1364,6 @@ export async function getCurrentMatches(
     });
 
     const matchIds = matches.map((match) => match.id);
-
-    // can this be moved outside? Does it need to be a func?
-    const getInningsKeys = (inningsType: ScorecardInningsType) => {
-      return {
-        teamId: `$innings.${inningsType}.teamId`,
-        score: `$innings.${inningsType}.score`,
-        wickets: `$innings.${inningsType}.wickets`,
-        overs: `$innings.${inningsType}.overs`,
-        oversBowled: `$innings.${inningsType}.oversBowled`,
-      };
-    };
 
     const matchDataResults = await MatchData.aggregate<{
       id: MatchDataType["matchId"];

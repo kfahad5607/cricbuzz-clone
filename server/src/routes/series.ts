@@ -5,6 +5,7 @@ import {
   getAll,
   getOne,
   updateOne,
+  getSeriesMatches,
 } from "../controllers/series";
 import { validateRequest } from "../middlewares";
 import { Series, SeriesOptional, getValidationSchema } from "../types";
@@ -50,6 +51,16 @@ router.delete(
     }),
   }),
   deleteOne
+);
+
+router.get(
+  "/:id/matches",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+    }),
+  }),
+  getSeriesMatches
 );
 
 export default router;

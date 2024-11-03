@@ -241,8 +241,8 @@ const MatchScoreHeader = ({ data, matchInfo }: Props) => {
       )}
       {!isMatchComplete && batters.length > 0 && bowlers.length > 0 && (
         <div className="mt-3">
-          <Table data={batters} columns={batterColumns} />
-          <Table data={bowlers} columns={bowlerColumns} />
+          <Table data={batters} columns={batterColumns} rowAlignment="center" />
+          <Table data={bowlers} columns={bowlerColumns} rowAlignment="center" />
         </div>
       )}
     </div>
@@ -282,7 +282,6 @@ const CommentaryTab = () => {
       <MatchScoreHeader data={data} matchInfo={matchInfo!} />
       {/* scoreboard */}
       <div className="mt-2">
-        {/* <Table data={battersData} columns={battersColumns} /> */}
         <div className="w-full py-3.5 my-4 border-y border-slate-60"></div>
         {/* Commentary */}
         <div className="mt-2">
