@@ -11,13 +11,13 @@ import {
   Series,
   SeriesMatchCard,
   SeriesOptional,
+  SeriesVenue,
   SeriesWithId,
   TeamWithId,
   VenueWithId,
   getValidationType,
 } from "../types";
 import { getInningsKeys } from "./matches";
-import { set } from "mongoose";
 
 export async function getAll(
   req: Request,
@@ -213,22 +213,6 @@ export async function getSeriesMatches(
         awayTeam: true,
         venue: true,
       },
-      // with: {
-      //   homeTeam: {
-      //     columns: {
-      //       id: true,
-      //       name: true,
-      //       shortName: true,
-      //     },
-      //   },
-      //   awayTeam: {
-      //     columns: {
-      //       id: true,
-      //       name: true,
-      //       shortName: true,
-      //     },
-      //   },
-      // },
     });
 
     const matchIds: number[] = [];
@@ -342,3 +326,37 @@ export async function getSeriesMatches(
     next(err);
   }
 }
+
+export async function getSeriesVenues(
+  req: Request<getValidationType<{ id: "DatabaseIntIdParam" }>>,
+  res: Response<SeriesVenue[]>,
+  next: NextFunction
+) {
+  try {
+    const seriesId = parseInt(req.params.id);
+
+    const matches = await db
+      .selectDistinct({
+        venue: tables.matches.venue,
+      })
+      .from(tables.matches)
+      .where(eq(tables.matches.series, seriesId));
+
+    console.log("matches ", matches);
+
+    const venueIds = matches.map((match) => match.venue);
+    const venuesData = await db
+      .select({
+        id: tables.venues.id,
+        name: tables.venues.name,
+        city: tables.venues.city,
+      })
+      .from(tables.venues)
+      .where(inArray(tables.venues.id, venueIds));
+
+    res.status(200).json(venuesData);
+  } catch (err) {
+    next(err);
+  }
+}
+

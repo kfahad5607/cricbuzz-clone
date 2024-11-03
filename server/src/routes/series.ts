@@ -7,6 +7,7 @@ import {
   updateOne,
   getSeriesMatches,
   getSeriesInfo,
+  getSeriesVenues,
 } from "../controllers/series";
 import { validateRequest } from "../middlewares";
 import { Series, SeriesOptional, getValidationSchema } from "../types";
@@ -72,6 +73,16 @@ router.get(
     }),
   }),
   getSeriesMatches
+);
+
+router.get(
+  "/:id/venues",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+    }),
+  }),
+  getSeriesVenues
 );
 
 export default router;

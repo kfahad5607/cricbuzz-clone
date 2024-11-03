@@ -33,3 +33,5 @@ export const VenueWithId = Venue.extend({
 export type Venue = z.infer<typeof Venue>;
 export type VenueOptional = z.infer<typeof VenueOptional>;
 export type VenueWithId = z.infer<typeof VenueWithId>;
+
+export type SeriesVenue = Omit<VenueWithId, "country">;

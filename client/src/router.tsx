@@ -9,6 +9,8 @@ import FullCommentaryTab from "./components/FullCommentaryTab";
 import HighlightsTab from "./components/HighlightsTab";
 import SeriesPage from "./pages/SeriesPage";
 import SeriesMatches from "./components/SeriesMatches";
+import SeriesVenues from "./components/SeriesVenues";
+import SeriesSquads from "./components/SeriesSquads";
 
 const router = createBrowserRouter([
   {
@@ -60,6 +62,14 @@ const router = createBrowserRouter([
           {
             path: "matches",
             element: <SeriesMatches />,
+          },
+          {
+            path: "squads",
+            element: <SeriesSquads />,
+          },
+          {
+            path: "venues",
+            element: <SeriesVenues />,
           },
         ],
       },
