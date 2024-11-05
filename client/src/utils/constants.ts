@@ -132,6 +132,14 @@ export const PLAYER_ROLES = {
   BOWL_ALLROUNDER: "bowl-allrounder",
 };
 
+export const PLAYER_ROLES_LABEL = {
+  [PLAYER_ROLES.BATTER]: "Batter",
+  [PLAYER_ROLES.BOWLER]: "Bowler",
+  [PLAYER_ROLES.WK_BATTER]: "WK-Batter",
+  [PLAYER_ROLES.BAT_ALLROUNDER]: "Batting Allrounder",
+  [PLAYER_ROLES.BOWL_ALLROUNDER]: "Bowling Allrounder",
+};
+
 export const PLAYER_ROLES_VALUES = [
   "batter",
   "bowler",

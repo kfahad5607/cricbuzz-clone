@@ -14,7 +14,7 @@ import { type MatchInfo } from "../types/matches";
 import useMatchInfo from "../hooks/useMatchInfo";
 import { MatchTossResultsWithInfo } from "../types/matchData";
 
-type Filter = {
+export type Filter = {
   id: number;
   title: string;
   filter: (commentaryItem: CommentaryItem, keys: unknown) => boolean;
@@ -24,7 +24,7 @@ type Filter = {
   }[];
 };
 
-type SelectedFilter = {
+export type SelectedFilter = {
   categoryId: number;
   filterItemIdx: number;
   keys: Filter["items"][number]["keys"];
@@ -130,7 +130,11 @@ const getFilteredCommentary = (
   });
 };
 
-const Filter = ({ data, selectedFilter, onFilterClick }: FilterProps) => {
+export const Filter = ({
+  data,
+  selectedFilter,
+  onFilterClick,
+}: FilterProps) => {
   const isSelected = selectedFilter.categoryId === data.id;
   return (
     <div>
