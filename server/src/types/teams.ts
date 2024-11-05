@@ -26,3 +26,5 @@ export const TeamWithId = Team.extend({
 export type Team = z.infer<typeof Team>;
 export type TeamOptional = z.infer<typeof TeamOptional>;
 export type TeamWithId = z.infer<typeof TeamWithId>;
+
+export type SeriesTeam = Omit<TeamWithId, "shortName">;

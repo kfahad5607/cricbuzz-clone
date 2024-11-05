@@ -8,6 +8,8 @@ import {
   getSeriesMatches,
   getSeriesInfo,
   getSeriesVenues,
+  getSeriesTeamSquad,
+  getSeriesTeams,
 } from "../controllers/series";
 import { validateRequest } from "../middlewares";
 import { Series, SeriesOptional, getValidationSchema } from "../types";
@@ -83,6 +85,27 @@ router.get(
     }),
   }),
   getSeriesVenues
+);
+
+router.get(
+  "/:id/teams",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+    }),
+  }),
+  getSeriesTeams
+);
+
+router.get(
+  "/:id/squad/:teamId",
+  validateRequest({
+    params: getValidationSchema({
+      id: "DatabaseIntIdParam",
+      teamId: "DatabaseIntIdParam",
+    }),
+  }),
+  getSeriesTeamSquad
 );
 
 export default router;
