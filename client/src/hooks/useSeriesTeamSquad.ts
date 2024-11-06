@@ -2,19 +2,23 @@ import { QueryFunctionContext, useQuery } from "@tanstack/react-query";
 import apiClient from "../services/api-client";
 import { SeriesTeamSquad, SeriesTeamSquadRaw } from "../types/series";
 import { PLAYER_ROLES } from "../utils/constants";
+import { MatchFormat } from "../types/matches";
 
 // types
 type QueryKeyMatch = ReturnType<typeof seriesInfoQueryKeys.seriesTeamSquad>;
 
 export const seriesInfoQueryKeys = {
-  seriesTeamSquad: (seriesId: number, teamId: number) =>
-    ["series", seriesId, "squad", teamId] as const,
+  seriesTeamSquad: (
+    seriesId: number,
+    teamId: number,
+    matchFormat: MatchFormat
+  ) => ["series", seriesId, "squad", teamId, matchFormat] as const,
 };
 
 const getTeamSquad = async (context: QueryFunctionContext<QueryKeyMatch>) => {
-  const [, seriesId, , teamId] = context.queryKey;
+  const [, seriesId, , teamId, matchFormat] = context.queryKey;
   const response = await apiClient.get<SeriesTeamSquadRaw>(
-    `series/${seriesId}/squad/${teamId}`
+    `series/${seriesId}/squad/${teamId}/${matchFormat}`
   );
 
   const data = response.data;
@@ -55,11 +59,20 @@ const getTeamSquad = async (context: QueryFunctionContext<QueryKeyMatch>) => {
   };
 };
 
-const useSeriesTeamSquad = (seriesId: number, teamId: number) =>
+const useSeriesTeamSquad = (
+  seriesId: number,
+  teamId: number,
+  matchFormat: MatchFormat
+) =>
   useQuery<SeriesTeamSquad, Error, SeriesTeamSquad, QueryKeyMatch>({
-    queryKey: seriesInfoQueryKeys.seriesTeamSquad(seriesId, teamId),
+    queryKey: seriesInfoQueryKeys.seriesTeamSquad(
+      seriesId,
+      teamId,
+      matchFormat
+    ),
     queryFn: (context) => getTeamSquad(context),
     retry: 1,
+    staleTime: 15 * 60 * 1000,
     enabled: teamId > 0,
   });
 

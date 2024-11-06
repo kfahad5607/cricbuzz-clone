@@ -439,6 +439,7 @@ export async function getSeriesTeamSquad(
     getValidationType<{
       id: "DatabaseIntIdParam";
       teamId: "DatabaseIntIdParam";
+      matchFormat: "MatchFormat";
     }>
   >,
   res: Response<TeamSquadResult<MatchSquadPlayerWithInfo>>,
@@ -447,10 +448,12 @@ export async function getSeriesTeamSquad(
   try {
     const seriesId = parseInt(req.params.id);
     const teamId = parseInt(req.params.teamId);
+    const matchFormat = req.params.matchFormat;
 
     const lastMatch = await db.query.matches.findFirst({
       where: and(
         eq(tables.matches.series, seriesId),
+        eq(tables.matches.matchFormat, matchFormat),
         or(
           eq(tables.matches.homeTeam, teamId),
           eq(tables.matches.awayTeam, teamId)

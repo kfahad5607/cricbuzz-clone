@@ -4,6 +4,8 @@ import { MatchSquadPlayer } from "./players";
 import { Series } from "./series";
 import { Team } from "./teams";
 
+export const MatchFormat = z.enum(MATCH_FORMATS_VALUES);
+
 export const Match = z.object({
   description: z
     .string({
@@ -12,7 +14,7 @@ export const Match = z.object({
     })
     .min(5)
     .max(200),
-  matchFormat: z.enum(MATCH_FORMATS_VALUES),
+  matchFormat: MatchFormat,
   matchType: z.enum(MATCH_TYPES_VALUES),
   matchNumber: z.coerce.number().nonnegative(),
   homeTeam: z.coerce.number().positive(),
@@ -43,6 +45,7 @@ export const MatchSquad = z.object({
 export type Match = z.infer<typeof Match>;
 export type MatchPartial = z.infer<typeof MatchPartial>;
 export type MatchWithId = z.infer<typeof MatchWithId>;
+export type MatchFormat = z.infer<typeof MatchFormat>;
 
 // manual types
 export type TeamSquad<PlayerT extends MatchSquadPlayer> = {

@@ -98,11 +98,12 @@ router.get(
 );
 
 router.get(
-  "/:id/squad/:teamId",
+  "/:id/squad/:teamId/:matchFormat",
   validateRequest({
     params: getValidationSchema({
       id: "DatabaseIntIdParam",
       teamId: "DatabaseIntIdParam",
+      matchFormat: "MatchFormat",
     }),
   }),
   getSeriesTeamSquad
