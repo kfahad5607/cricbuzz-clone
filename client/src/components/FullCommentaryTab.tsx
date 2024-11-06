@@ -1,41 +1,32 @@
+import { useState } from "react";
 import { useParams } from "react-router-dom";
 import { useFullCommentary } from "../hooks/useCommentary";
-import Commentary from "./Commentary";
-import { useState } from "react";
+import useMatchInfo from "../hooks/useMatchInfo";
 import {
   BallEvents,
   COMMENTARY_INNINGS_TYPES,
   CommentaryInningsTypes,
   CommentaryItem,
 } from "../types/commentary";
-import { formatDateTime, getNumberWithOrdinal } from "../utils/converters";
-import { BALL_EVENTS, DATE_FORMAT, TIME_FORMAT } from "../utils/constants";
-import { type MatchInfo } from "../types/matches";
-import useMatchInfo from "../hooks/useMatchInfo";
 import { MatchTossResultsWithInfo } from "../types/matchData";
+import { type MatchInfo } from "../types/matches";
+import { BALL_EVENTS, DATE_FORMAT, TIME_FORMAT } from "../utils/constants";
+import { formatDateTime, getNumberWithOrdinal } from "../utils/converters";
+import Commentary from "./Commentary";
+import Filter, {
+  BaseFilter,
+  BaseSelectedFilter,
+  RawSelectedFilter,
+} from "./elements/Filter";
 
-export type Filter = {
-  id: number;
-  title: string;
+type Filter = BaseFilter & {
   filter: (commentaryItem: CommentaryItem, keys: unknown) => boolean;
-  items: {
-    keys: unknown;
-    val: string;
-  }[];
 };
 
-export type SelectedFilter = {
-  categoryId: number;
-  filterItemIdx: number;
+type SelectedFilter = BaseSelectedFilter & {
   keys: Filter["items"][number]["keys"];
   filter: Filter["filter"];
 };
-
-interface FilterProps {
-  data: Filter;
-  selectedFilter: SelectedFilter;
-  onFilterClick: (filter: SelectedFilter) => void;
-}
 
 interface MatchInfoProps {
   matchInfo: MatchInfo;
@@ -130,39 +121,6 @@ const getFilteredCommentary = (
   });
 };
 
-export const Filter = ({
-  data,
-  selectedFilter,
-  onFilterClick,
-}: FilterProps) => {
-  const isSelected = selectedFilter.categoryId === data.id;
-  return (
-    <div>
-      <div className="bg-gray-700 text-white px-2.5 py-1.5">{data.title}</div>
-      {data.items.map((item, itemIdx) => (
-        <div
-          key={itemIdx}
-          onClick={() =>
-            onFilterClick({
-              categoryId: data.id,
-              filterItemIdx: itemIdx,
-              keys: item.keys,
-              filter: data.filter,
-            })
-          }
-          className={`hover:bg-slate-300 border-b px-2.5 py-1.5 cursor-pointer ${
-            isSelected && itemIdx === selectedFilter.filterItemIdx
-              ? "bg-slate-300 font-medium"
-              : ""
-          } `}
-        >
-          {item.val}
-        </div>
-      ))}
-    </div>
-  );
-};
-
 const MatchInfo = ({ matchInfo, tossResults }: MatchInfoProps) => {
   const matchInfoRenderData = {
     title: "Match Info",
@@ -253,11 +211,16 @@ const FullCommentaryTab = () => {
 
   const handleInningsClick = (inningsType: CommentaryInningsTypes) => {
     setCurrentInningsType(inningsType);
-    handleFilterClick(defaultSelectedFilter);
+    setSelectedFilter(defaultSelectedFilter);
   };
 
-  const handleFilterClick = (filter: SelectedFilter) => {
-    setSelectedFilter(filter);
+  const handleFilterClick = (filterData: RawSelectedFilter<Filter>) => {
+    setSelectedFilter({
+      categoryId: filterData.categoryId,
+      filterItemIdx: filterData.filterItemIdx,
+      keys: filterData.filterItem.keys,
+      filter: filterData.filter.filter,
+    });
   };
 
   const filteredCommentaryList = getFilteredCommentary(
@@ -270,14 +233,12 @@ const FullCommentaryTab = () => {
   if (currentInnings.inningsType !== "preview") {
     filterCategories[1].items = currentInnings.batters.map((batter) => {
       return {
-        id: 1,
         keys: batter.id,
         val: batter.name,
       };
     });
     filterCategories[2].items = currentInnings.bowlers.map((bowler) => {
       return {
-        id: 1,
         keys: bowler.id,
         val: bowler.name,
       };

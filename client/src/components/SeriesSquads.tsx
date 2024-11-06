@@ -1,167 +1,34 @@
 import { useState } from "react";
 import { useParams } from "react-router-dom";
 import useSeriesTeams from "../hooks/useSeriesTeams";
-import { Filter, SelectedFilter } from "./FullCommentaryTab";
 import useSeriesTeamSquad from "../hooks/useSeriesTeamSquad";
 import { SeriesTeamsItem } from "../types/series";
-import { PLAYER_ROLES_LABEL } from "../utils/constants";
+import { MATCH_FORMATS, PLAYER_ROLES_LABEL } from "../utils/constants";
+import Filter, { BaseFilter, BaseSelectedFilter } from "./elements/Filter";
 
-const filterCategories: Filter[] = [
-  {
-    id: 1,
-    title: "TEST",
-    filter: (item: any, keys: unknown) => {
-      console.log("item ", item);
-      console.log("keys ", keys);
-
-      return false;
-    },
-    items: [
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Royal Challengers Royals",
-      },
-      {
-        keys: [],
-        val: "Chennai Super Kings",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-    ],
-  },
-  {
-    id: 2,
-    title: "ODI",
-    filter: (item: any, keys: unknown) => {
-      console.log("item ", item);
-      console.log("keys ", keys);
-
-      return false;
-    },
-    items: [
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Royal Challengers Royals",
-      },
-      {
-        keys: [],
-        val: "Chennai Super Kings",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-    ],
-  },
-  {
-    id: 3,
-    title: "T20",
-    filter: (item: any, keys: unknown) => {
-      console.log("item ", item);
-      console.log("keys ", keys);
-
-      return false;
-    },
-    items: [
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Royal Challengers Royals",
-      },
-      {
-        keys: [],
-        val: "Chennai Super Kings",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-      {
-        keys: [],
-        val: "Rajasthan Royals",
-      },
-    ],
-  },
-];
+type Filter = BaseFilter;
+type SelectedFilter = BaseSelectedFilter;
 
 const defaultSelectedFilter = {
   categoryId: 0,
   filterItemIdx: 0,
-  filter: filterCategories[0].filter,
-  keys: filterCategories[0].items[0].keys,
 };
 
-const getTeamId = (
+const getTeamParams = (
   data: SeriesTeamsItem[] | undefined,
   location: { parentIdx: number; itemIdx: number }
 ) => {
-  console.log("getTeamId ", location);
-
   if (
     !data ||
     !data[location.parentIdx] ||
     !data[location.parentIdx].teams[location.itemIdx]
   )
-    return 0;
+    return { id: 0, matchFormat: MATCH_FORMATS.TEST };
 
-  return data[location.parentIdx].teams[location.itemIdx].id;
+  return {
+    id: data[location.parentIdx].teams[location.itemIdx].id,
+    matchFormat: data[location.parentIdx].matchFormat,
+  };
 };
 
 const SeriesSquads = () => {
@@ -172,18 +39,22 @@ const SeriesSquads = () => {
   const [selectedFilter, setSelectedFilter] = useState<SelectedFilter>(
     defaultSelectedFilter
   );
+
+  const teamParams = getTeamParams(data, {
+    parentIdx: selectedFilter.categoryId,
+    itemIdx: selectedFilter.filterItemIdx,
+  });
   const teamSquad = useSeriesTeamSquad(
     seriesId,
-    getTeamId(data, {
-      parentIdx: selectedFilter.categoryId,
-      itemIdx: selectedFilter.filterItemIdx,
-    })
+    teamParams.id,
+    teamParams.matchFormat
   );
 
-  const handleFilterClick = (filter: SelectedFilter) => {
-    console.log("handleFilterClick ", filter);
-
-    setSelectedFilter(filter);
+  const handleFilterClick = (filterData: SelectedFilter) => {
+    setSelectedFilter({
+      categoryId: filterData.categoryId,
+      filterItemIdx: filterData.filterItemIdx,
+    });
   };
 
   if (isLoading) return <h3>Loading...</h3>;
@@ -198,18 +69,10 @@ const SeriesSquads = () => {
   const filters = data.map((item, itemIdx) => {
     return {
       id: itemIdx,
-      title: item.matchFormat,
+      title: item.matchFormat.toUpperCase(),
       items: item.teams.map((team) => ({ keys: [team.id], val: team.name })),
-      filter: (item: any, keys: unknown) => {
-        console.log("item ", item);
-        console.log("keys ", keys);
-
-        return false;
-      },
     };
   });
-
-  console.log("teamSquad.data ", teamSquad.data);
 
   return (
     <div>
