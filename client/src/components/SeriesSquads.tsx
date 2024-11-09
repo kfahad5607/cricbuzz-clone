@@ -1,5 +1,5 @@
-import { useState } from "react";
-import { useParams } from "react-router-dom";
+import { useParams, useSearchParams } from "react-router-dom";
+import useSeriesInfo from "../hooks/useSeriesInfo";
 import useSeriesTeams from "../hooks/useSeriesTeams";
 import useSeriesTeamSquad from "../hooks/useSeriesTeamSquad";
 import { SeriesTeamsItem } from "../types/series";
@@ -8,11 +8,6 @@ import Filter, { BaseFilter, BaseSelectedFilter } from "./elements/Filter";
 
 type Filter = BaseFilter;
 type SelectedFilter = BaseSelectedFilter;
-
-const defaultSelectedFilter = {
-  categoryId: 0,
-  filterItemIdx: 0,
-};
 
 const getTeamParams = (
   data: SeriesTeamsItem[] | undefined,
@@ -33,16 +28,22 @@ const getTeamParams = (
 
 const SeriesSquads = () => {
   const params = useParams();
+  const [searchParams, setSearchParams] = useSearchParams();
+  const categoryId = searchParams.get("catId")
+    ? parseInt(searchParams.get("catId")!)
+    : 0;
+  const filterItemIdx = searchParams.get("filterItemId")
+    ? parseInt(searchParams.get("filterItemId")!)
+    : 0;
+
   const seriesId = parseInt(params.seriesId!);
 
+  const { data: seriesInfo } = useSeriesInfo(seriesId);
   const { data, error, isLoading } = useSeriesTeams(seriesId);
-  const [selectedFilter, setSelectedFilter] = useState<SelectedFilter>(
-    defaultSelectedFilter
-  );
 
   const teamParams = getTeamParams(data, {
-    parentIdx: selectedFilter.categoryId,
-    itemIdx: selectedFilter.filterItemIdx,
+    parentIdx: categoryId,
+    itemIdx: filterItemIdx,
   });
   const teamSquad = useSeriesTeamSquad(
     seriesId,
@@ -51,9 +52,9 @@ const SeriesSquads = () => {
   );
 
   const handleFilterClick = (filterData: SelectedFilter) => {
-    setSelectedFilter({
-      categoryId: filterData.categoryId,
-      filterItemIdx: filterData.filterItemIdx,
+    setSearchParams({
+      catId: filterData.categoryId.toString(),
+      filterItemId: filterData.filterItemIdx.toString(),
     });
   };
 
@@ -76,7 +77,9 @@ const SeriesSquads = () => {
 
   return (
     <div>
-      <h2 className="uppercase mb-3">Squads for INDIAN PREMIER LEAGUE 2024</h2>
+      <h2 className="uppercase mb-5 text-xl font-medium">
+        Squads for {seriesInfo?.title}
+      </h2>
       <div className="flex">
         <div className="mr-8 w-1/5 shrink-0">
           {filters.map((category) =>
@@ -84,7 +87,10 @@ const SeriesSquads = () => {
               <Filter
                 key={category.id}
                 data={category}
-                selectedFilter={selectedFilter}
+                selectedFilter={{
+                  categoryId,
+                  filterItemIdx,
+                }}
                 onFilterClick={handleFilterClick}
               />
             ) : null
