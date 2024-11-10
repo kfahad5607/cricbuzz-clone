@@ -11,8 +11,9 @@ import SeriesPage from "./pages/SeriesPage";
 import SeriesMatches from "./components/SeriesMatches";
 import SeriesVenues from "./components/SeriesVenues";
 import SeriesSquads from "./components/SeriesSquads";
-import SchedulesMatchesPage from "./pages/SchedulesMatchesPage";
-import SchedulesMatchesTab from "./components/SchedulesMatchesTab";
+import ScheduledMatchesPage from "./pages/ScheduledMatchesPage";
+import ScheduledMatchesTab from "./components/ScheduledMatchesTab";
+import AllSeriesPage from "./pages/AllSeriesPage";
 
 const router = createBrowserRouter([
   {
@@ -76,8 +77,18 @@ const router = createBrowserRouter([
         ],
       },
       {
+        path: "series",
+        element: <AllSeriesPage />,
+        children: [
+          {
+            path: "all",
+            element: <ScheduledMatchesTab />,
+          },
+        ],
+      },
+      {
         path: "matches",
-        element: <SchedulesMatchesPage />,
+        element: <ScheduledMatchesPage />,
         children: [
           {
             index: true,
@@ -85,7 +96,7 @@ const router = createBrowserRouter([
           },
           {
             path: ":scheduleType",
-            element: <SchedulesMatchesTab />,
+            element: <ScheduledMatchesTab />,
           },
         ],
       },

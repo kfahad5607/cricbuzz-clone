@@ -1,8 +1,7 @@
 import { Link, useParams } from "react-router-dom";
 import TabWithLink, { TabLinkType } from "../components/tabs/TabWithLink";
 import useMatchInfo from "../hooks/useMatchInfo";
-import { formatDateTime } from "../utils/converters";
-import slugify from "slugify";
+import { formatDateTime, getSeriesURL } from "../utils/converters";
 
 const tabs: TabLinkType[] = [
   {
@@ -37,7 +36,7 @@ const MatchPage = () => {
   if (error) return <h3>{"Something went wrong " + error.message}</h3>;
   if (!data) return <h3>{"Unable to get match page"}</h3>;
 
-  const seriesLink = `/series/${data.series.id}/${slugify(data.series.title)}`;
+  const seriesLink = getSeriesURL(data.series.id, data.series.title);
 
   return (
     <div className="px-3 py-2 border-2 border-red-400 bg-white">

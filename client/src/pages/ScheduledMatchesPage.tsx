@@ -8,7 +8,7 @@ const navLinks: TabLinkType[] = [
   },
   {
     title: "Current & Future Series",
-    link: "squads",
+    link: "/series",
   },
   {
     title: "Matches By Day",
@@ -31,7 +31,7 @@ const tabs: TabLinkType[] = [
   },
 ];
 
-const SchedulesMatchesPage = () => {
+const ScheduledMatchesPage = () => {
   return (
     <div className="px-3 py-2 border-2 border-red-400 bg-white">
       <div>
@@ -68,4 +68,4 @@ const SchedulesMatchesPage = () => {
   );
 };
 
-export default SchedulesMatchesPage;
+export default ScheduledMatchesPage;

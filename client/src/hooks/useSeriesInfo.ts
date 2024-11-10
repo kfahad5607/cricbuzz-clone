@@ -1,17 +1,17 @@
 import { useQuery } from "@tanstack/react-query";
 import apiClient from "../services/api-client";
-import { SeriesInfo } from "../types/series";
+import { SeriesInfoWithMatch } from "../types/series";
 
 export const seriesInfoQueryKeys = {
   seriesInfo: (id: number) => ["seriesInfo", id] as const,
 };
 
-const useSeriesInfo = <TData = SeriesInfo>(seriesId: number) =>
-  useQuery<SeriesInfo, Error, TData>({
+const useSeriesInfo = (seriesId: number) =>
+  useQuery<SeriesInfoWithMatch, Error, SeriesInfoWithMatch>({
     queryKey: seriesInfoQueryKeys.seriesInfo(seriesId),
     queryFn: () =>
       apiClient
-        .get<SeriesInfo>(`series/${seriesId}/info`)
+        .get<SeriesInfoWithMatch>(`series/${seriesId}/info`)
         .then((res) => res.data),
     retry: 1,
   });

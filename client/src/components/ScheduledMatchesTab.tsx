@@ -1,13 +1,13 @@
 import clsx from "clsx";
 import { FiChevronRight } from "react-icons/fi";
 import { Link, useParams, useSearchParams } from "react-router-dom";
-import slugify from "slugify";
 import { ScheduleType, useScheduledMatches } from "../hooks/useMatches";
 import myDayjs from "../services/dayjs";
 import { MatchFullCard, MatchType } from "../types/matches";
 import { MATCH_TYPES, MATCH_TYPES_VALUES } from "../utils/constants";
 import {
   getMatchSlug,
+  getSeriesURL,
   getStatusText,
   getStatusTextColor,
 } from "../utils/converters";
@@ -18,7 +18,7 @@ interface MatchCardProps {
   match: MatchFullCard;
 }
 
-type MatchTypeFilterType = {
+export type MatchTypeFilterType = {
   label: string;
   key: "all" | MatchType;
 };
@@ -46,7 +46,7 @@ const MATCH_CARD_LINKS = {
   ],
 };
 
-const MATCH_TYPE_FILTERS: MatchTypeFilterType[] = [
+export const MATCH_TYPE_FILTERS: MatchTypeFilterType[] = [
   {
     label: "All",
     key: "all",
@@ -65,17 +65,17 @@ const MATCH_TYPE_FILTERS: MatchTypeFilterType[] = [
   },
 ];
 
-const SchedulesMatchesTab = () => {
+const ScheduledMatchesTab = () => {
   const { scheduleType = "live" } = useParams<{
     scheduleType: ScheduleType;
   }>();
 
   const [searchParams, setSearchParams] = useSearchParams();
-  const rawScheduleType = (searchParams.get("scheduleType") || "") as MatchType;
+  const rawMatchType = (searchParams.get("matchType") || "") as MatchType;
   const matchType: MatchTypeFilterType["key"] = MATCH_TYPES_VALUES.includes(
-    rawScheduleType
+    rawMatchType
   )
-    ? rawScheduleType
+    ? rawMatchType
     : "all";
 
   const { data, error, isLoading } = useScheduledMatches(scheduleType);
@@ -102,7 +102,7 @@ const SchedulesMatchesTab = () => {
           renderItem={renderFilterItem}
           onFilterClick={(item) =>
             setSearchParams({
-              scheduleType: item.key,
+              matchType: item.key,
             })
           }
         />
@@ -142,7 +142,7 @@ const MatchCard = ({ match }: MatchCardProps) => {
     <div key={match.id} className="mb-6">
       <div className="px-2.5 py-1.5 bg-gray-300 font-medium">
         <Link
-          to={`/series/${match.series.id}/${slugify(match.series.title)}`}
+          to={getSeriesURL(match.series.id, match.series.title)}
           className="hover:underline"
         >
           {match.series.title}
@@ -232,4 +232,4 @@ const MatchCard = ({ match }: MatchCardProps) => {
   );
 };
 
-export default SchedulesMatchesTab;
+export default ScheduledMatchesTab;

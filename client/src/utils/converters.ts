@@ -10,6 +10,7 @@ import {
 import { MatchCard, TeamMatchInfo } from "../types/matches";
 import { BALLS_IN_OVER, DATE_TIME_FORMAT } from "./constants";
 import { MATCH_STATES } from "./constants";
+import { SeriesInfo } from "../types/series";
 
 type MatchStatusData = {
   state: MatchState;
@@ -21,10 +22,16 @@ type MatchStatusData = {
   } & Pick<BaseScorecardInnings, "score">)[];
 };
 
-type MatchSlugInput = Pick<
-  MatchCard,
-  "homeTeam" | "awayTeam" | "description" | "series"
->;
+type MatchSlugInput = {
+  homeTeam: MatchCard["homeTeam"];
+  awayTeam: MatchCard["awayTeam"];
+  description: MatchCard["description"];
+  series: Pick<SeriesInfo, "title">;
+};
+
+export const getSeriesURL = (id: number, title: string): string => {
+  return `/series/${id}/${slugify(title)}`;
+};
 
 export const getMatchSlug = (data: MatchSlugInput): string => {
   const { homeTeam, awayTeam, description, series } = data;
