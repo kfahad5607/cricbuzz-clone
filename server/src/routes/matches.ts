@@ -1,48 +1,48 @@
 import express from "express";
 import {
+  addInningsCommentary,
+  addInningsScore,
+  addMatchPlayer,
   createOne,
+  deleteInningsScore,
   deleteOne,
   getAll,
-  getOne,
-  getCurrentMatches,
-  updateOne,
-  updateMatchData,
-  addMatchPlayer,
-  removeMatchPlayer,
-  updateMatchPlayer,
-  getMatchInfo,
-  addInningsScore,
-  getInningsScore,
   getAllInningsScore,
-  deleteInningsScore,
-  getMatchPlayers,
-  getMatchScorecard,
-  addInningsCommentary,
-  getFullCommentary,
   getCommentary,
   getCommentaryPagination,
+  getCurrentMatches,
+  getFullCommentary,
   getHighlights,
-  getLiveMatches,
+  getInningsScore,
+  getMatchInfo,
+  getMatchPlayers,
+  getMatchScorecard,
+  getOne,
+  getScheduledMatches,
+  removeMatchPlayer,
+  updateMatchData,
+  updateMatchPlayer,
+  updateOne,
 } from "../controllers/matches";
 import { validateRequest } from "../middlewares";
 import {
+  Match,
   MatchPartial,
   MatchSquadPlayer,
   MatchSquadPlayerPartial,
-  Match,
   getValidationSchema,
 } from "../types";
+import { CommentaryInningsEntry } from "../types/commentary";
 import {
   BaseMatchDataPartial,
   ScorecardInningsEntry,
 } from "../types/matchData";
-import { CommentaryInningsEntry } from "../types/commentary";
 
 const router = express.Router();
 
 // public endpoints
 router.get("/current", getCurrentMatches);
-router.get("/live", getLiveMatches);
+router.get("/:scheduleType", getScheduledMatches);
 
 router.get(
   "/:id/info",

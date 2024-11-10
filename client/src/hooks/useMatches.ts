@@ -15,10 +15,14 @@ import type {
 import { addTeamInfo } from "../utils/queries";
 
 // types
+export type ScheduleType = "live" | "recent" | "upcoming";
 type QueryKeySeriesMatches = ReturnType<typeof queryKeys.seriesMatches>;
+type QueryKeyScheduledMatches = ReturnType<typeof queryKeys.scheduledMatches>;
 
 export const queryKeys = {
   currentMatches: ["currentMatches"] as const,
+  scheduledMatches: (scheduleType: ScheduleType) =>
+    ["matches", scheduleType] as const,
   liveMatches: ["liveMatches"] as const,
   seriesMatches: (id: number) => ["seriesMatches", id] as const,
 };
@@ -89,8 +93,13 @@ const getCurrentMatches = async () => {
   return enrichedData;
 };
 
-const getLiveMatches = async () => {
-  const response = await apiClient.get<MatchFullCardRaw[]>("matches/live");
+const getScheduledMatches = async (
+  context: QueryFunctionContext<QueryKeyScheduledMatches>
+) => {
+  const [, scheduleType] = context.queryKey;
+  const response = await apiClient.get<MatchFullCardRaw[]>(
+    `matches/${scheduleType}`
+  );
 
   const data = response.data;
 
@@ -235,10 +244,15 @@ export const useCurrentMatches = () => {
   });
 };
 
-export const useLiveMatches = () => {
-  return useQuery<MatchFullCard[], Error, MatchFullCard[]>({
-    queryKey: queryKeys.liveMatches,
-    queryFn: getLiveMatches,
+export const useScheduledMatches = (scheduleType: ScheduleType) => {
+  return useQuery<
+    MatchFullCard[],
+    Error,
+    MatchFullCard[],
+    QueryKeyScheduledMatches
+  >({
+    queryKey: queryKeys.scheduledMatches(scheduleType),
+    queryFn: (context) => getScheduledMatches(context),
     staleTime: 15 * 60 * 1000, // 15 minutes
     retry: 1,
   });

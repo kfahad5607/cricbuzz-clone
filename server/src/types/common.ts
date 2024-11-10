@@ -1,7 +1,7 @@
 import * as z from "zod";
 import { ScorecardInningsType } from "./matchData";
 import { CommentaryInningsType } from "./commentary";
-import { MatchFormat } from "./matches";
+import { MatchFormat, ScheduleType } from "./matches";
 
 const DatabaseIntIdParam = z
   .string({
@@ -46,6 +46,7 @@ const VALIDATION_SCHEMAS = {
   CommentaryInningsType,
   TimestampParam,
   MatchFormat,
+  ScheduleType,
 } as const;
 
 type VALIDATION_SCHEMAS = {
@@ -55,6 +56,7 @@ type VALIDATION_SCHEMAS = {
   CommentaryInningsType: CommentaryInningsType;
   TimestampParam: TimestampParam;
   MatchFormat: MatchFormat;
+  ScheduleType: ScheduleType;
 };
 
 type ValidationSchemas = typeof VALIDATION_SCHEMAS;

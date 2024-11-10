@@ -1,11 +1,11 @@
 import clsx from "clsx";
-import { useState } from "react";
 import { FiChevronRight } from "react-icons/fi";
-import { Link } from "react-router-dom";
+import { Link, useParams, useSearchParams } from "react-router-dom";
 import slugify from "slugify";
-import { useLiveMatches } from "../hooks/useMatches";
+import { ScheduleType, useScheduledMatches } from "../hooks/useMatches";
+import myDayjs from "../services/dayjs";
 import { MatchFullCard, MatchType } from "../types/matches";
-import { MATCH_TYPES } from "../utils/constants";
+import { MATCH_TYPES, MATCH_TYPES_VALUES } from "../utils/constants";
 import {
   getMatchSlug,
   getStatusText,
@@ -20,7 +20,7 @@ interface MatchCardProps {
 
 type MatchTypeFilterType = {
   label: string;
-  key: "" | MatchType;
+  key: "all" | MatchType;
 };
 
 const MATCH_CARD_LINKS = {
@@ -49,7 +49,7 @@ const MATCH_CARD_LINKS = {
 const MATCH_TYPE_FILTERS: MatchTypeFilterType[] = [
   {
     label: "All",
-    key: "",
+    key: "all",
   },
   {
     label: "International",
@@ -65,9 +65,20 @@ const MATCH_TYPE_FILTERS: MatchTypeFilterType[] = [
   },
 ];
 
-const LiveScoresTab = () => {
-  const [matchType, setMatchType] = useState<MatchTypeFilterType["key"]>("");
-  const { data, error, isLoading } = useLiveMatches();
+const SchedulesMatchesTab = () => {
+  const { scheduleType = "live" } = useParams<{
+    scheduleType: ScheduleType;
+  }>();
+
+  const [searchParams, setSearchParams] = useSearchParams();
+  const rawScheduleType = (searchParams.get("scheduleType") || "") as MatchType;
+  const matchType: MatchTypeFilterType["key"] = MATCH_TYPES_VALUES.includes(
+    rawScheduleType
+  )
+    ? rawScheduleType
+    : "all";
+
+  const { data, error, isLoading } = useScheduledMatches(scheduleType);
 
   if (isLoading) return <h3>Loading...</h3>;
   if (error) return <h3>{"Something went wrong " + error.message}</h3>;
@@ -78,7 +89,7 @@ const LiveScoresTab = () => {
   };
 
   const filteredMatches =
-    matchType === ""
+    matchType === "all"
       ? data
       : data.filter((item) => item.matchType === matchType);
 
@@ -89,7 +100,11 @@ const LiveScoresTab = () => {
           items={MATCH_TYPE_FILTERS}
           isItemSelected={(item) => item.key === matchType}
           renderItem={renderFilterItem}
-          onFilterClick={(item) => setMatchType(item.key)}
+          onFilterClick={(item) =>
+            setSearchParams({
+              scheduleType: item.key,
+            })
+          }
         />
       </div>
       <div className="w-3/4">
@@ -117,6 +132,12 @@ const MatchCard = ({ match }: MatchCardProps) => {
   const matchSlug = getMatchSlug(match);
   const baseMatchPageUrl = `/matches/${match.id}/${matchSlug}`;
 
+  const currentTime = myDayjs().utc().local();
+  const startTime = myDayjs(match.startTime).utc().local();
+  const diff = startTime.diff(currentTime, "d");
+  const day = diff === 0 ? "Today" : startTime.format("MMM DD");
+  const time = startTime.format("H:M A");
+
   return (
     <div key={match.id} className="mb-6">
       <div className="px-2.5 py-1.5 bg-gray-300 font-medium">
@@ -137,7 +158,7 @@ const MatchCard = ({ match }: MatchCardProps) => {
           <span className="text-sm text-gray-600">, {match.description}</span>
         </div>
         <div className="mb-2.5 text-sm text-gray-600">
-          Today <span className="mx-1">•</span> 3:30 PM at{" "}
+          {day} <span className="mx-1">•</span> {time} at{" "}
           <span className="capitalize">{match.venue.city}</span>,{" "}
           {match.venue.name}
         </div>
@@ -211,4 +232,4 @@ const MatchCard = ({ match }: MatchCardProps) => {
   );
 };
 
-export default LiveScoresTab;
+export default SchedulesMatchesTab;

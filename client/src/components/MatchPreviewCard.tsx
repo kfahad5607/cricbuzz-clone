@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 import { Fragment } from "react/jsx-runtime";
 import teamOne from "../assets/images/team-1.webp";
 import teamTwo from "../assets/images/team-2.webp";
+import myDayjs from "../services/dayjs";
 import type { MatchCard } from "../types/matches";
 import {
-  formatDateTime,
   formatOversToInt,
   getMatchSlug,
   getStatusText,
@@ -19,6 +19,20 @@ interface Props {
 
 const MatchPreviewCard = ({ match }: Props) => {
   const { series, homeTeam, awayTeam, innings } = match;
+
+  let firstTeam = homeTeam;
+  let secondTeam = awayTeam;
+
+  if (innings[0]?.team.id === secondTeam.id) {
+    [firstTeam, secondTeam] = [secondTeam, firstTeam];
+  }
+
+  const currentTime = myDayjs().utc().local();
+  const startTime = myDayjs(match.startTime).utc().local();
+  const diff = startTime.diff(currentTime, "d");
+  const day = diff === 0 ? "Today" : startTime.format("dddd, DD MMM");
+  const time = startTime.format("hh:mm A");
+  const formattedTime = `${day}, ${time}`;
 
   return (
     <div className="w-72 flex-shrink-0 rounded overflow-hidden bg-white shadow">
@@ -38,21 +52,21 @@ const MatchPreviewCard = ({ match }: Props) => {
             <Fragment>
               <div className="flex justify-between text-slate-900 text-sm">
                 <div className="flex items-center w-full">
-                  <div title={homeTeam.name} className="w-5 mr-1">
+                  <div title={firstTeam.name} className="w-5 mr-1">
                     <img className="block w-full" src={teamOne} alt="" />
                   </div>
-                  <div title={homeTeam.name} className="capitalize">
-                    {homeTeam.name}
+                  <div title={firstTeam.name} className="capitalize">
+                    {firstTeam.name}
                   </div>
                 </div>
               </div>
               <div className="flex justify-between text-slate-900 text-sm mt-2">
                 <div className="flex items-center w-full">
-                  <div title={awayTeam.name} className="w-5 mr-1">
+                  <div title={secondTeam.name} className="w-5 mr-1">
                     <img className="block w-full" src={teamTwo} alt="" />
                   </div>
-                  <div title={awayTeam.name} className="capitalize">
-                    {awayTeam.name}
+                  <div title={secondTeam.name} className="capitalize">
+                    {secondTeam.name}
                   </div>
                 </div>
               </div>
@@ -67,11 +81,11 @@ const MatchPreviewCard = ({ match }: Props) => {
                 )}
               >
                 <div className="flex items-center w-full">
-                  <div title={homeTeam.name} className="w-5 mr-1">
+                  <div title={firstTeam.name} className="w-5 mr-1">
                     <img className="block w-full" src={teamOne} alt="" />
                   </div>
-                  <div title={homeTeam.name} className="uppercase">
-                    {homeTeam.shortName}
+                  <div title={firstTeam.name} className="uppercase">
+                    {firstTeam.shortName}
                   </div>
                 </div>
                 <div className="w-full font-medium">
@@ -86,11 +100,11 @@ const MatchPreviewCard = ({ match }: Props) => {
                 )}
               >
                 <div className="flex items-center w-full">
-                  <div title={awayTeam.name} className="w-5 mr-1">
+                  <div title={secondTeam.name} className="w-5 mr-1">
                     <img className="block w-full" src={teamTwo} alt="" />
                   </div>
-                  <div title={awayTeam.name} className="uppercase">
-                    {awayTeam.shortName}
+                  <div title={secondTeam.name} className="uppercase">
+                    {secondTeam.shortName}
                   </div>
                 </div>
                 {innings[1] && (
@@ -108,7 +122,7 @@ const MatchPreviewCard = ({ match }: Props) => {
               size="sm"
               color={getStatusTextColor(match.state)}
             >
-              {getStatusText(match) || formatDateTime(match.startTime)}
+              {getStatusText(match) || formattedTime}
             </MatchStatus>
           }
         </Link>

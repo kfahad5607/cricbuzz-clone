@@ -4,7 +4,7 @@ import TabWithLink, { TabLinkType } from "../components/tabs/TabWithLink";
 const navLinks: TabLinkType[] = [
   {
     title: "Current Matches",
-    link: "/matches/live-scores",
+    link: "/matches",
   },
   {
     title: "Current & Future Series",
@@ -19,7 +19,7 @@ const navLinks: TabLinkType[] = [
 const tabs: TabLinkType[] = [
   {
     title: "Live",
-    link: "",
+    link: "live",
   },
   {
     title: "Recent",
@@ -31,7 +31,7 @@ const tabs: TabLinkType[] = [
   },
 ];
 
-const LiveScoresPage = () => {
+const SchedulesMatchesPage = () => {
   return (
     <div className="px-3 py-2 border-2 border-red-400 bg-white">
       <div>
@@ -68,4 +68,4 @@ const LiveScoresPage = () => {
   );
 };
 
-export default LiveScoresPage;
+export default SchedulesMatchesPage;

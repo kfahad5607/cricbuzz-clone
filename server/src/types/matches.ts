@@ -5,6 +5,8 @@ import { Series, SeriesWithId } from "./series";
 import { Team } from "./teams";
 import { VenueWithId } from "./venues";
 
+
+export const ScheduleType = z.enum(["live", "recent", "upcoming"]);
 export const MatchFormat = z.enum(MATCH_FORMATS_VALUES);
 export const MatchType = z.enum(MATCH_TYPES_VALUES);
 
@@ -49,6 +51,8 @@ export type MatchPartial = z.infer<typeof MatchPartial>;
 export type MatchWithId = z.infer<typeof MatchWithId>;
 export type MatchFormat = z.infer<typeof MatchFormat>;
 export type MatchType = z.infer<typeof MatchType>;
+export type ScheduleType = z.infer<typeof ScheduleType>;
+
 
 // manual types
 export type TeamSquad<PlayerT extends MatchSquadPlayer> = {

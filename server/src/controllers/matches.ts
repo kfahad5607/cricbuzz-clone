@@ -1437,22 +1437,33 @@ export async function getCurrentMatches(
   }
 }
 
-export async function getLiveMatches(
-  req: Request,
+export async function getScheduledMatches(
+  req: Request<
+    getValidationType<{
+      scheduleType: "ScheduleType";
+    }>
+  >,
   res: Response<MatchFullCard[]>,
   next: NextFunction
 ) {
   try {
+    const scheduleType = req.params.scheduleType;
+
     const currentTime = dayjs().utc().startOf("day");
-    const fromTime = currentTime.add(31, "minutes").toDate();
+    let fromTime = currentTime.add(31, "minutes").toDate();
+    let whereClause = gt(matchesTable.startTime, fromTime);
+
+    if (scheduleType === "recent") {
+      let endTime = currentTime.startOf("d").subtract(1, "hour").toDate();
+      whereClause = lt(matchesTable.completeTime, endTime);
+    } else if (scheduleType === "upcoming") {
+      let fromTime = currentTime.add(1, "h").toDate();
+      whereClause = gt(matchesTable.startTime, fromTime);
+    }
 
     const matches = await db.query.matches.findMany({
-      where: and(
-        // can we use between clause?
-        gt(matchesTable.startTime, fromTime)
-      ),
-      offset: 5,
-      limit: 10,
+      where: whereClause,
+      limit: 100,
       columns: {
         id: true,
         description: true,
