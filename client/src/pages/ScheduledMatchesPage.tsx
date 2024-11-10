@@ -12,7 +12,7 @@ const navLinks: TabLinkType[] = [
   },
   {
     title: "Matches By Day",
-    link: "venues",
+    link: "/matches-by-day",
   },
 ];
 

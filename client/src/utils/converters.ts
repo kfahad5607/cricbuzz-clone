@@ -2,15 +2,14 @@ import slugify from "slugify";
 import { StatusColor } from "../components/MatchStatus";
 import myDayjs from "../services/dayjs";
 import {
+  BaseScorecardInnings,
+  MatchResultsWithInfo,
   MatchState,
   MatchTossResultsWithInfo,
-  MatchResultsWithInfo,
-  BaseScorecardInnings,
 } from "../types/matchData";
 import { MatchCard, TeamMatchInfo } from "../types/matches";
-import { BALLS_IN_OVER, DATE_TIME_FORMAT } from "./constants";
-import { MATCH_STATES } from "./constants";
-import { SeriesInfo } from "../types/series";
+import { Series } from "../types/series";
+import { BALLS_IN_OVER, DATE_TIME_FORMAT, MATCH_STATES } from "./constants";
 
 type MatchStatusData = {
   state: MatchState;
@@ -26,7 +25,7 @@ type MatchSlugInput = {
   homeTeam: MatchCard["homeTeam"];
   awayTeam: MatchCard["awayTeam"];
   description: MatchCard["description"];
-  series: Pick<SeriesInfo, "title">;
+  series: Pick<Series, "title">;
 };
 
 export const getSeriesURL = (id: number, title: string): string => {

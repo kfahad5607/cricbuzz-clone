@@ -22,7 +22,6 @@ const getSeriesByMonth = async () => {
   const indexMap: Record<string, number> = {};
   response.data.forEach((series) => {
     const startTime = myDayjs(series.startTime).utc().local();
-
     const month = startTime.format("MMMM YYYY");
 
     let index = indexMap[month];

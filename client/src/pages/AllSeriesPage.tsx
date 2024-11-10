@@ -19,11 +19,11 @@ const navLinks: TabLinkType[] = [
   },
   {
     title: "Current & Future Series",
-    link: "/series/all",
+    link: "/series",
   },
   {
     title: "Matches By Day",
-    link: "venues",
+    link: "/matches-by-day",
   },
 ];
 

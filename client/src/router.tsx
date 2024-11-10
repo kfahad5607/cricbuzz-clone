@@ -14,6 +14,7 @@ import SeriesSquads from "./components/SeriesSquads";
 import ScheduledMatchesPage from "./pages/ScheduledMatchesPage";
 import ScheduledMatchesTab from "./components/ScheduledMatchesTab";
 import AllSeriesPage from "./pages/AllSeriesPage";
+import MatchesByDayPage from "./pages/MatchesByDayPage";
 
 const router = createBrowserRouter([
   {
@@ -79,12 +80,6 @@ const router = createBrowserRouter([
       {
         path: "series",
         element: <AllSeriesPage />,
-        children: [
-          {
-            path: "all",
-            element: <ScheduledMatchesTab />,
-          },
-        ],
       },
       {
         path: "matches",
@@ -99,6 +94,10 @@ const router = createBrowserRouter([
             element: <ScheduledMatchesTab />,
           },
         ],
+      },
+      {
+        path: "matches-by-day",
+        element: <MatchesByDayPage />,
       },
     ],
   },

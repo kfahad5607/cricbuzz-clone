@@ -1,12 +1,15 @@
 import { MatchFormat, MatchType, TeamMatchInfo } from "./matches";
 import { MatchSquadPlayer } from "./players";
 
-export type SeriesInfo = {
+export type Series = {
   id: number;
   title: string;
+  seriesType: MatchType;
+};
+
+export type SeriesInfo = Series & {
   startTime: string;
   endTime: string;
-  seriesType: MatchType;
 };
 
 export type SeriesInfoWithMatch = Omit<SeriesInfo, "seriesType"> & {

@@ -5,25 +5,38 @@ import {
   MatchTossResultsWithInfo,
 } from "../types/matchData";
 import type {
+  Match,
   MatchCard,
   MatchCardRaw,
   MatchFullCard,
   MatchFullCardRaw,
+  MatchType,
   SeriesMatchCard,
   SeriesMatchCardRaw,
 } from "../types/matches";
 import { addTeamInfo } from "../utils/queries";
+import myDayjs from "../services/dayjs";
 
 // types
+export type MatchesByDay = {
+  day: string;
+  matchType: MatchType;
+  series: {
+    id: number;
+    title: string;
+    matches: Match[];
+  }[];
+};
 export type ScheduleType = "live" | "recent" | "upcoming";
 type QueryKeySeriesMatches = ReturnType<typeof queryKeys.seriesMatches>;
 type QueryKeyScheduledMatches = ReturnType<typeof queryKeys.scheduledMatches>;
 
 export const queryKeys = {
   currentMatches: ["currentMatches"] as const,
+  liveMatches: ["liveMatches"] as const,
+  matchesByDay: ["matchesByDay"] as const,
   scheduledMatches: (scheduleType: ScheduleType) =>
     ["matches", scheduleType] as const,
-  liveMatches: ["liveMatches"] as const,
   seriesMatches: (id: number) => ["seriesMatches", id] as const,
 };
 
@@ -235,6 +248,71 @@ const getSeriesMatches = async (
   return enrichedData;
 };
 
+const getMatchesByDay = async () => {
+  const response = await apiClient.get<Match[]>("matches/by-day");
+
+  const data = response.data;
+
+  const matchesByDay: MatchesByDay[] = [];
+  const indexMap: Record<
+    string,
+    {
+      idx: number;
+      series: Record<string, number>;
+    }
+  > = {};
+
+  data.forEach((match) => {
+    const startTime = myDayjs(match.startTime).utc().local();
+    const day = startTime.format("ddd, MMM DD YYYY");
+    const seriesTitle = match.series.title;
+
+    let idxData = indexMap[day];
+
+    let dayIdx;
+    let seriesIdx;
+    if (idxData === undefined) {
+      dayIdx = matchesByDay.length;
+      seriesIdx = 0;
+      indexMap[day] = {
+        idx: dayIdx,
+        series: {
+          [seriesTitle]: seriesIdx,
+        },
+      };
+
+      matchesByDay.push({
+        day,
+        matchType: match.series.seriesType,
+        series: [
+          {
+            id: match.series.id,
+            title: seriesTitle,
+            matches: [],
+          },
+        ],
+      });
+    } else if (idxData.series[seriesTitle] === undefined) {
+      dayIdx = idxData.idx;
+      seriesIdx = matchesByDay[dayIdx].series.length;
+      idxData.series[seriesTitle] = seriesIdx;
+      // indexMap[day].series[seriesTitle] = seriesIdx;
+
+      matchesByDay[dayIdx].series.push({
+        id: match.series.id,
+        title: seriesTitle,
+        matches: [],
+      });
+    } else {
+      dayIdx = idxData.idx;
+      seriesIdx = idxData.series[seriesTitle];
+    }
+    matchesByDay[dayIdx].series[seriesIdx].matches.push(match);
+  });
+
+  return matchesByDay;
+};
+
 export const useCurrentMatches = () => {
   return useQuery<MatchCard[], Error, MatchCard[]>({
     queryKey: queryKeys.currentMatches,
@@ -268,6 +346,15 @@ export const useSeriesMatches = (seriesId: number) => {
     queryKey: queryKeys.seriesMatches(seriesId),
     queryFn: (context) => getSeriesMatches(context),
     staleTime: Infinity,
+    retry: 1,
+  });
+};
+
+export const useMatchesByDay = () => {
+  return useQuery<MatchesByDay[], Error, MatchesByDay[]>({
+    queryKey: queryKeys.matchesByDay,
+    queryFn: getMatchesByDay,
+    staleTime: 15 * 60 * 1000, // 15 minutes
     retry: 1,
   });
 };

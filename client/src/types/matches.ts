@@ -8,6 +8,7 @@ import {
   MatchTossResultsWithInfo,
 } from "./matchData";
 import { MatchSquadPlayer } from "./players";
+import { Series } from "./series";
 import { MatchVenue, Venue } from "./venue";
 
 export type MatchType = (typeof MATCH_TYPES_VALUES)[number];
@@ -68,12 +69,6 @@ export type SeriesMatchCard = Omit<MatchCard, "series"> & {
   venue: MatchVenue;
 };
 
-type SeriesMatchInfo = {
-  id: number;
-  title: string;
-  slug: string;
-};
-
 export type TeamMatchInfo = {
   id: number;
   name: string;
@@ -90,15 +85,19 @@ export type TeamMatchInfoWithPlayers = TeamMatchInfo & {
   players: TeamSquadPlayers;
 };
 
-export type MatchInfoRaw = {
+export type Match = {
   id: number;
   description: string;
-  matchFormat: MatchFormat;
   startTime: string;
-  series: SeriesMatchInfo;
-  venue: MatchVenue;
   homeTeam: TeamMatchInfo;
   awayTeam: TeamMatchInfo;
+  series: Series;
+  venue: MatchVenue;
+};
+
+export type MatchInfoRaw = Omit<Match, "series"> & {
+  matchFormat: MatchFormat;
+  series: Pick<Series, "id" | "title">;
   squads: TeamSquad[];
 };
 
