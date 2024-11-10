@@ -14,6 +14,7 @@ import {
   getFullCommentary,
   getHighlights,
   getInningsScore,
+  getMatchesByDay,
   getMatchInfo,
   getMatchPlayers,
   getMatchScorecard,
@@ -42,6 +43,7 @@ const router = express.Router();
 
 // public endpoints
 router.get("/current", getCurrentMatches);
+router.get("/by-day", getMatchesByDay);
 router.get("/:scheduleType", getScheduledMatches);
 
 router.get(

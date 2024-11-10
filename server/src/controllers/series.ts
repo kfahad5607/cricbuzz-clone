@@ -353,7 +353,7 @@ export async function getSeriesMatches(
       };
     });
 
-    const matchwithDataResults = matches.map((match) => {
+    const matchWithDataResults = matches.map((match) => {
       return {
         ...match,
         ...matchDataMap[match.id],
@@ -363,7 +363,7 @@ export async function getSeriesMatches(
       };
     });
 
-    res.status(200).json(matchwithDataResults);
+    res.status(200).json(matchWithDataResults);
   } catch (err) {
     next(err);
   }

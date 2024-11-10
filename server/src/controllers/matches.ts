@@ -1,6 +1,6 @@
 import dayjs from "dayjs";
 import utc from "dayjs/plugin/utc";
-import { and, eq, gt, inArray, lt } from "drizzle-orm";
+import { asc, eq, gt, inArray, lt } from "drizzle-orm";
 import { NextFunction, Request, Response } from "express";
 import Commentary from "../db/mongo/schema/commentary";
 import MatchData from "../db/mongo/schema/matchData";
@@ -41,7 +41,9 @@ import {
   ScorecardInnings,
   ScorecardInningsEntry,
   ScorecardInningsType,
+  SeriesWithId,
   TeamSquad,
+  TeamWithId,
   UpdateDocType,
 } from "../types";
 import { CommentaryInningsEntry, CommentaryItem } from "../types/commentary";
@@ -1574,6 +1576,91 @@ export async function getScheduledMatches(
   }
 }
 
+export async function getMatchesByDay(
+  req: Request,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const matches = await db.query.matches.findMany({
+      limit: 30,
+      columns: {
+        id: true,
+        description: true,
+        // matchType: true,
+        startTime: true,
+        // completeTime: true,
+        homeTeam: true,
+        awayTeam: true,
+        series: true,
+      },
+      with: {
+        venue: {
+          columns: {
+            id: true,
+            name: true,
+            city: true,
+          },
+        },
+      },
+      orderBy: [asc(tables.matches.startTime)],
+    });
+
+    const teamIds = new Set<number>();
+    const seriesIds = new Set<number>();
+    matches.forEach((match) => {
+      teamIds.add(match.homeTeam);
+      teamIds.add(match.awayTeam);
+      seriesIds.add(match.series);
+    });
+
+    const teamsData = await db
+      .select({
+        id: tables.teams.id,
+        name: tables.teams.name,
+        shortName: tables.teams.shortName,
+      })
+      .from(tables.teams)
+      .where(inArray(tables.teams.id, Array.from(teamIds)));
+
+    const seriesData = await db
+      .select({
+        id: tables.series.id,
+        title: tables.series.title,
+        seriesType: tables.series.seriesType,
+      })
+      .from(tables.series)
+      .where(inArray(tables.series.id, Array.from(seriesIds)));
+
+    let teamsMap: { [key: DatabaseIntId]: TeamWithId } = {};
+    teamsMap = teamsData.reduce((acc, val) => {
+      acc[val.id] = val;
+      return acc;
+    }, teamsMap);
+
+    let seriesMap: {
+      [key: DatabaseIntId]: Omit<SeriesWithId, "description">;
+    } = {};
+    seriesMap = seriesData.reduce((acc, val) => {
+      acc[val.id] = val;
+      return acc;
+    }, seriesMap);
+
+    const matchWithDataResults = matches.map((match) => {
+      return {
+        ...match,
+        series: seriesMap[match.series],
+        homeTeam: teamsMap[match.homeTeam],
+        awayTeam: teamsMap[match.awayTeam],
+      };
+    });
+
+    res.status(200).json(matchWithDataResults);
+  } catch (err) {
+    next(err);
+  }
+}
+
 export async function getMatchInfo(
   req: Request<getValidationType<{ id: "DatabaseIntIdParam" }>>,
   res: Response,
@@ -1627,11 +1714,6 @@ export async function getMatchInfo(
     const matchSquad = await MatchSquads.findOne<MatchSquad<MatchSquadPlayer>>({
       matchId,
     }).lean();
-
-    // if (!matchSquad) {
-    //   res.status(400);
-    //   throw new Error("Match squad does not exist.");
-    // }
 
     let squads: TeamSquad<MatchSquadPlayerWithInfo>[] = [];
     if (matchSquad) {
