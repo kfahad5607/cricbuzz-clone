@@ -27,6 +27,7 @@ export const series = pgTable("series", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
   title: varchar("title", { length: 255 }).notNull().unique(),
   description: varchar("description", { length: 150 }).notNull(),
+  seriesType: matchTypeEnum("series_type").notNull(),
 });
 
 export const matches = pgTable("matches", {

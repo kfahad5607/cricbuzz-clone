@@ -69,6 +69,35 @@ export async function getOne(
   }
 }
 
+export async function getInfoAll(
+  req: Request,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const seriesData = await db
+      .select({
+        id: tables.series.id,
+        title: tables.series.title,
+        seriesType: tables.series.seriesType,
+        startTime: sql<string>`MIN(${tables.matches.startTime})`,
+        endTime: sql<string>`MAX(${tables.matches.startTime})`,
+      })
+      .from(tables.series)
+      .innerJoin(tables.matches, eq(tables.matches.series, tables.series.id))
+      .groupBy(
+        tables.series.id,
+        tables.series.title,
+        tables.matches.matchFormat
+      )
+      .orderBy(sql<string>`MIN(${tables.matches.startTime})`);
+
+    res.status(200).json(seriesData);
+  } catch (err) {
+    next(err);
+  }
+}
+
 export async function getSeriesInfo(
   req: Request<getValidationType<{ id: "DatabaseIntIdParam" }>>,
   res: Response,

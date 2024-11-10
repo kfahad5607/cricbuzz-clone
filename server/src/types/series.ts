@@ -1,4 +1,5 @@
 import * as z from "zod";
+import { MatchType } from "./matches";
 
 export const Series = z.object({
   title: z
@@ -15,6 +16,7 @@ export const Series = z.object({
     })
     .min(5)
     .max(150),
+  seriesType: MatchType,
 });
 
 export const SeriesOptional = Series.partial();

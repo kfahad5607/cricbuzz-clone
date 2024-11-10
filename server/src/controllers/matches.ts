@@ -1561,14 +1561,14 @@ export async function getScheduledMatches(
       };
     });
 
-    const matchwithDataResults = matches.map((match) => {
+    const matchWithDataResults = matches.map((match) => {
       return {
         ...match,
         ...matchDataMap[match.id],
       };
     });
 
-    res.status(200).json(matchwithDataResults);
+    res.status(200).json(matchWithDataResults);
   } catch (err) {
     next(err);
   }

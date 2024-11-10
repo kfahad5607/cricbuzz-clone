@@ -4,7 +4,7 @@ import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import {
   Player,
-  PlayerOptional,
+  PlayerPartial,
   PlayerWithId,
   getValidationType,
 } from "../types";
@@ -71,7 +71,7 @@ export async function updateOne(
   req: Request<
     getValidationType<{ id: "DatabaseIntIdParam" }>,
     PlayerWithId,
-    PlayerOptional
+    PlayerPartial
   >,
   res: Response,
   next: NextFunction

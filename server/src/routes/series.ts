@@ -10,6 +10,7 @@ import {
   getSeriesVenues,
   getSeriesTeamSquad,
   getSeriesTeams,
+  getInfoAll,
 } from "../controllers/series";
 import { validateRequest } from "../middlewares";
 import { Series, SeriesOptional, getValidationSchema } from "../types";
@@ -27,6 +28,8 @@ router.get(
   }),
   getOne
 );
+
+router.get("/info/all", getInfoAll);
 
 router.get(
   "/:id/info",

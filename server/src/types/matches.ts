@@ -70,7 +70,7 @@ export type MatchFullCard = Pick<
   "id" | "description" | "matchFormat" | "startTime" | "completeTime"
 > & {
   matchType: MatchType;
-  series: Omit<SeriesWithId, "description">;
+  series: Omit<SeriesWithId, "description" | "seriesType">;
   venue: Omit<VenueWithId, "country">;
   homeTeam: Pick<Team, "name" | "shortName">;
   awayTeam: Pick<Team, "name" | "shortName">;

@@ -7,7 +7,7 @@ import {
   updateOne,
 } from "../controllers/players";
 import { validateRequest } from "../middlewares";
-import { Player, PlayerOptional, getValidationSchema } from "../types";
+import { Player, PlayerPartial, getValidationSchema } from "../types";
 
 const router = express.Router();
 
@@ -37,7 +37,7 @@ router.patch(
     params: getValidationSchema({
       id: "DatabaseIntIdParam",
     }),
-    body: PlayerOptional,
+    body: PlayerPartial,
   }),
   updateOne
 );
