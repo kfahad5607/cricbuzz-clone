@@ -22,6 +22,7 @@ import {
   getCommentary,
   getCommentaryPagination,
   getHighlights,
+  getLiveMatches,
 } from "../controllers/matches";
 import { validateRequest } from "../middlewares";
 import {
@@ -41,6 +42,7 @@ const router = express.Router();
 
 // public endpoints
 router.get("/current", getCurrentMatches);
+router.get("/live", getLiveMatches);
 
 router.get(
   "/:id/info",

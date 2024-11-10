@@ -1,10 +1,12 @@
 import * as z from "zod";
 import { MATCH_FORMATS_VALUES, MATCH_TYPES_VALUES } from "../helpers/constants";
 import { MatchSquadPlayer } from "./players";
-import { Series } from "./series";
+import { Series, SeriesWithId } from "./series";
 import { Team } from "./teams";
+import { VenueWithId } from "./venues";
 
 export const MatchFormat = z.enum(MATCH_FORMATS_VALUES);
+export const MatchType = z.enum(MATCH_TYPES_VALUES);
 
 export const Match = z.object({
   description: z
@@ -15,7 +17,7 @@ export const Match = z.object({
     .min(5)
     .max(200),
   matchFormat: MatchFormat,
-  matchType: z.enum(MATCH_TYPES_VALUES),
+  matchType: MatchType,
   matchNumber: z.coerce.number().nonnegative(),
   homeTeam: z.coerce.number().positive(),
   awayTeam: z.coerce.number().positive(),
@@ -46,6 +48,7 @@ export type Match = z.infer<typeof Match>;
 export type MatchPartial = z.infer<typeof MatchPartial>;
 export type MatchWithId = z.infer<typeof MatchWithId>;
 export type MatchFormat = z.infer<typeof MatchFormat>;
+export type MatchType = z.infer<typeof MatchType>;
 
 // manual types
 export type TeamSquad<PlayerT extends MatchSquadPlayer> = {
@@ -56,6 +59,17 @@ export type TeamSquad<PlayerT extends MatchSquadPlayer> = {
 export type MatchSquad<PlayerT extends MatchSquadPlayer> = {
   matchId: number;
   teams: TeamSquad<PlayerT>[];
+};
+
+export type MatchFullCard = Pick<
+  MatchWithId,
+  "id" | "description" | "matchFormat" | "startTime" | "completeTime"
+> & {
+  matchType: MatchType;
+  series: Omit<SeriesWithId, "description">;
+  venue: Omit<VenueWithId, "country">;
+  homeTeam: Pick<Team, "name" | "shortName">;
+  awayTeam: Pick<Team, "name" | "shortName">;
 };
 
 export type MatchCard = Pick<

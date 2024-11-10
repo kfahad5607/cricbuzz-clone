@@ -7,6 +7,7 @@ import MatchData from "../db/mongo/schema/matchData";
 import MatchSquads from "../db/mongo/schema/matchSquad";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
+import { WICKETS_PER_INNINGS } from "../helpers/constants";
 import {
   addScorecardBatter,
   addScorecardBowler,
@@ -25,6 +26,7 @@ import {
   Match,
   MatchCard,
   MatchData as MatchDataType,
+  MatchFullCard,
   MatchPartial,
   MatchSquad,
   MatchSquadPlayer,
@@ -43,7 +45,6 @@ import {
   UpdateDocType,
 } from "../types";
 import { CommentaryInningsEntry, CommentaryItem } from "../types/commentary";
-import { WICKETS_PER_INNINGS } from "../helpers/constants";
 
 dayjs.extend(utc);
 
@@ -1321,7 +1322,7 @@ export async function getCurrentMatches(
   next: NextFunction
 ) {
   try {
-    const currentTime = dayjs("2024-03-24").utc().startOf("day");
+    const currentTime = dayjs().utc().startOf("day");
     const fromTime = currentTime.subtract(4, "days").toDate();
     const endTime = currentTime.add(5, "days").toDate();
 
@@ -1331,7 +1332,7 @@ export async function getCurrentMatches(
       //   gt(matchesTable.startTime, fromTime),
       //   lt(matchesTable.startTime, endTime)
       // ),
-      offset: 5,
+      // offset: 5,
       limit: 10,
       columns: {
         id: true,
@@ -1343,7 +1344,135 @@ export async function getCurrentMatches(
       with: {
         series: {
           columns: {
+            id: true,
             title: true,
+          },
+        },
+        homeTeam: {
+          columns: {
+            id: true,
+            name: true,
+            shortName: true,
+          },
+        },
+        awayTeam: {
+          columns: {
+            id: true,
+            name: true,
+            shortName: true,
+          },
+        },
+      },
+      orderBy: [tables.matches.startTime],
+    });
+
+    const matchIds = matches.map((match) => match.id);
+
+    const matchDataResults = await MatchData.aggregate<{
+      id: MatchDataType["matchId"];
+      state: MatchDataType["state"];
+      status: MatchDataType["status"];
+      tossResults: MatchDataType["tossResults"];
+      results: MatchDataType["results"];
+      innings: (
+        | Omit<
+            BaseScorecardInnings,
+            "overs" | "extras" | "isDeclared" | "isFollowOn"
+          >
+        | {}
+      )[];
+    }>([
+      {
+        $match: {
+          matchId: {
+            $in: matchIds,
+          },
+        },
+      },
+      {
+        $project: {
+          id: "$matchId",
+          status: 1,
+          state: 1,
+          tossResults: 1,
+          results: 1,
+          innings: SCORECARD_INNINGS_TYPES.map((inningsType) =>
+            getInningsKeys(inningsType)
+          ),
+        },
+      },
+    ]);
+
+    const matchDataMap: Record<
+      number,
+      {
+        id: number;
+        status: string;
+        innings: Omit<
+          BaseScorecardInnings,
+          "overs" | "extras" | "isDeclared" | "isFollowOn"
+        >[];
+      }
+    > = {};
+    matchDataResults.forEach((matchData) => {
+      matchDataMap[matchData.id] = {
+        ...matchData,
+        innings: matchData.innings.filter(
+          // Why do we need this filter?
+          (inningsItem) => "oversBowled" in inningsItem
+        ),
+      };
+    });
+
+    const matchwithDataResults = matches.map((match) => {
+      return {
+        ...match,
+        ...matchDataMap[match.id],
+      };
+    });
+
+    res.status(200).json(matchwithDataResults);
+  } catch (err) {
+    next(err);
+  }
+}
+
+export async function getLiveMatches(
+  req: Request,
+  res: Response<MatchFullCard[]>,
+  next: NextFunction
+) {
+  try {
+    const currentTime = dayjs().utc().startOf("day");
+    const fromTime = currentTime.add(31, "minutes").toDate();
+
+    const matches = await db.query.matches.findMany({
+      where: and(
+        // can we use between clause?
+        gt(matchesTable.startTime, fromTime)
+      ),
+      offset: 5,
+      limit: 10,
+      columns: {
+        id: true,
+        description: true,
+        matchFormat: true,
+        matchType: true,
+        startTime: true,
+        completeTime: true,
+      },
+      with: {
+        series: {
+          columns: {
+            id: true,
+            title: true,
+          },
+        },
+        venue: {
+          columns: {
+            id: true,
+            name: true,
+            city: true,
           },
         },
         homeTeam: {
