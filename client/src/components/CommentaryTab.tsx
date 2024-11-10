@@ -277,7 +277,7 @@ const CommentaryTab = () => {
     return <h3>The commentary will appear once the match starts.</h3>;
 
   return (
-    <div className="w-3/5">
+    <div className="w-3/5 py-4">
       {/* Summary */}
       <MatchScoreHeader data={data} matchInfo={matchInfo!} />
       {/* scoreboard */}

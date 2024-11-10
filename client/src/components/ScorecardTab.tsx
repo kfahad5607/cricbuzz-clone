@@ -391,7 +391,7 @@ const ScorecardTab = () => {
   const matchStatus = getStatusText(data);
 
   return (
-    <div className="w-3/5">
+    <div className="w-3/5 py-4">
       {matchStatus && (
         <div className="mb-2">
           <MatchStatus color={getStatusTextColor(data.state)}>

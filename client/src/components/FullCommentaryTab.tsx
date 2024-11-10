@@ -5,6 +5,7 @@ import useMatchInfo from "../hooks/useMatchInfo";
 import {
   BallEvents,
   COMMENTARY_INNINGS_TYPES,
+  CommentaryDataInnings,
   CommentaryInningsTypes,
   CommentaryItem,
 } from "../types/commentary";
@@ -18,6 +19,7 @@ import Filter, {
   BaseSelectedFilter,
   RawSelectedFilter,
 } from "./elements/Filter";
+import FilterChips from "./elements/FilterChips";
 
 type Filter = BaseFilter & {
   filter: (commentaryItem: CommentaryItem, keys: unknown) => boolean;
@@ -209,9 +211,21 @@ const FullCommentaryTab = () => {
   if (data.innings.length === 0)
     return <p>There are no full commentary for this match</p>;
 
-  const handleInningsClick = (inningsType: CommentaryInningsTypes) => {
-    setCurrentInningsType(inningsType);
+  const handleInningsClick = (item: CommentaryDataInnings, itemIdx: number) => {
+    setCurrentInningsType(item.inningsType);
     setSelectedFilter(defaultSelectedFilter);
+  };
+
+  const renderFilterItem = (item: CommentaryDataInnings) => {
+    if (item.inningsType === COMMENTARY_INNINGS_TYPES[0])
+      return <span>{item.inningsType}</span>;
+
+    return (
+      <>
+        <span className="uppercase">{item.team.shortName}</span>
+        <span> {getNumberWithOrdinal(item.teamInningsNo)} Inns</span>
+      </>
+    );
   };
 
   const handleFilterClick = (filterData: RawSelectedFilter<Filter>) => {
@@ -246,28 +260,14 @@ const FullCommentaryTab = () => {
   }
 
   return (
-    <div className="w-3/4">
-      <div className="flex items-center mb-6">
-        {data.innings.map((item) => (
-          <div
-            key={item.inningsType}
-            onClick={() => handleInningsClick(item.inningsType)}
-            className={`leading-4 text-sm rounded-full cursor-pointer py-1 px-5 mr-3 capitalize ${
-              currentInningsType === item.inningsType
-                ? "text-white bg-green-800"
-                : "text-gray-800 bg-gray-300"
-            }`}
-          >
-            {item.inningsType === COMMENTARY_INNINGS_TYPES[0] ? (
-              item.inningsType
-            ) : (
-              <>
-                <span className="uppercase">{item.team.shortName}</span>
-                <span> {getNumberWithOrdinal(item.teamInningsNo)} Inns</span>
-              </>
-            )}
-          </div>
-        ))}
+    <div className="w-3/4 py-4">
+      <div className="mb-6">
+        <FilterChips
+          items={data.innings}
+          onFilterClick={handleInningsClick}
+          isItemSelected={(item) => item.inningsType === currentInningsType}
+          renderItem={renderFilterItem}
+        />
       </div>
       <div className="flex">
         <div className="mr-6 w-1/4 shrink-0">

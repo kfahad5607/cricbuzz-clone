@@ -139,7 +139,7 @@ const HighlightsTab = () => {
   );
 
   return (
-    <div className="w-3/5">
+    <div className="w-3/5 py-4">
       <div className="flex items-center mb-4">
         {data.innings.map((item) => (
           <div

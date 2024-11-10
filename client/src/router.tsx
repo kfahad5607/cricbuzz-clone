@@ -11,6 +11,8 @@ import SeriesPage from "./pages/SeriesPage";
 import SeriesMatches from "./components/SeriesMatches";
 import SeriesVenues from "./components/SeriesVenues";
 import SeriesSquads from "./components/SeriesSquads";
+import LiveScoresPage from "./pages/LiveScoresPage";
+import LiveScoresTab from "./components/LiveScoresTab";
 
 const router = createBrowserRouter([
   {
@@ -70,6 +72,24 @@ const router = createBrowserRouter([
           {
             path: "venues",
             element: <SeriesVenues />,
+          },
+        ],
+      },
+      {
+        path: "matches/live-scores",
+        element: <LiveScoresPage />,
+        children: [
+          {
+            index: true,
+            element: <LiveScoresTab />,
+          },
+          {
+            path: "recent",
+            element: <h3>Recent Matches</h3>,
+          },
+          {
+            path: "upcoming",
+            element: <h3>upcoming Matches</h3>,
           },
         ],
       },

@@ -30,9 +30,7 @@ const TabWithLink = ({ tabs }: Props) => {
           </div>
         ))}
       </div>
-      <div className="py-4">
-        <Outlet />
-      </div>
+      <Outlet />
     </div>
   );
 };

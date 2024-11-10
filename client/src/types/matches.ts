@@ -1,4 +1,4 @@
-import { MATCH_FORMATS_VALUES } from "../utils/constants";
+import { MATCH_FORMATS_VALUES, MATCH_TYPES_VALUES } from "../utils/constants";
 import {
   BaseScorecardInnings,
   MatchResults,
@@ -8,16 +8,18 @@ import {
   MatchTossResultsWithInfo,
 } from "./matchData";
 import { MatchSquadPlayer } from "./players";
-import { MatchVenue } from "./venue";
+import { MatchVenue, Venue } from "./venue";
 
+export type MatchType = (typeof MATCH_TYPES_VALUES)[number];
 export type MatchFormat = (typeof MATCH_FORMATS_VALUES)[number];
 
 export type MatchCardRaw = {
   id: number;
   description: string;
-  matchFormat: string;
+  matchFormat: MatchFormat;
   startTime: string;
   series: {
+    id: number;
     title: string;
   };
   homeTeam: TeamMatchInfo;
@@ -27,6 +29,23 @@ export type MatchCardRaw = {
   tossResults?: MatchTossResults;
   results?: MatchResults;
   innings: Omit<BaseScorecardInnings, "extras" | "isDeclared" | "isFollowOn">[];
+};
+
+export type MatchFullCardRaw = MatchCardRaw & {
+  matchType: MatchType;
+  venue: Omit<Venue, "country">;
+};
+
+export type MatchFullCard = Omit<
+  MatchFullCardRaw,
+  "tossResults" | "results" | "innings"
+> & {
+  tossResults?: MatchTossResultsWithInfo;
+  results?: MatchResultsWithInfo;
+  innings: (Omit<
+    BaseScorecardInnings,
+    "extras" | "isDeclared" | "isFollowOn" | "teamId"
+  > & { team: TeamMatchInfo })[];
 };
 
 export type MatchCard = Omit<
