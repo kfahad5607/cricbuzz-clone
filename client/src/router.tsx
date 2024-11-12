@@ -15,6 +15,9 @@ import ScheduledMatchesPage from "./pages/ScheduledMatchesPage";
 import ScheduledMatchesTab from "./components/ScheduledMatchesTab";
 import AllSeriesPage from "./pages/AllSeriesPage";
 import MatchesByDayPage from "./pages/MatchesByDayPage";
+import AdminLayout from "./admin/layouts/Layout";
+import DashboardPage from "./admin/pages/DashboardPage";
+import AllVenues from "./admin/pages/AllVenues";
 
 const router = createBrowserRouter([
   {
@@ -98,6 +101,36 @@ const router = createBrowserRouter([
       {
         path: "matches-by-day",
         element: <MatchesByDayPage />,
+      },
+    ],
+  },
+  {
+    path: "admin",
+    element: <AdminLayout />,
+    children: [
+      {
+        index: true,
+        element: <DashboardPage />,
+      },
+      {
+        path: "series",
+        element: <h3>All series</h3>,
+      },
+      {
+        path: "matches",
+        element: <h3>All matches</h3>,
+      },
+      {
+        path: "teams",
+        element: <h3>All teams</h3>,
+      },
+      {
+        path: "players",
+        element: <h3>All players</h3>,
+      },
+      {
+        path: "venues",
+        element: <AllVenues />,
       },
     ],
   },
