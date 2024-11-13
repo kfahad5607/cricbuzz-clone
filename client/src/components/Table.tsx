@@ -12,7 +12,7 @@ const BASE_CELL_CLASS = "first:ps-3 last:pe-3 px-1.5 py-1.5";
 
 const defaultColumnRender = (val: CellValue) => <>{val}</>;
 
-const getRenderer = <TItem,>(column: Column<TItem>): Column<TItem>["render"] =>
+const getRenderer = <TItem,>(column: Column<TItem>) =>
   column.render || defaultColumnRender;
 
 const Table = <TItem,>({
@@ -54,7 +54,7 @@ const Table = <TItem,>({
                 key={columnIdx}
                 className={`${BASE_CELL_CLASS} ${column.classNames}`}
               >
-                {getRenderer<TItem>(column)!(
+                {getRenderer<TItem>(column)(
                   row[column.dataKey],
                   row,
                   columnIdx
