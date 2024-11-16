@@ -18,6 +18,7 @@ import MatchesByDayPage from "./pages/MatchesByDayPage";
 import AdminLayout from "./admin/layouts/Layout";
 import DashboardPage from "./admin/pages/DashboardPage";
 import AllVenues from "./admin/pages/AllVenues";
+import AllPlayers from "./admin/pages/AllPlayers";
 
 const router = createBrowserRouter([
   {
@@ -126,7 +127,7 @@ const router = createBrowserRouter([
       },
       {
         path: "players",
-        element: <h3>All players</h3>,
+        element: <AllPlayers />,
       },
       {
         path: "venues",

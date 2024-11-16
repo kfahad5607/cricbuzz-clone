@@ -3,6 +3,7 @@ import {
   PLAYER_BOWL_STYLES_VALUES,
   PLAYER_ROLES_VALUES,
 } from "../utils/constants";
+import { TeamMatchInfo } from "./matches";
 
 type PlayerRoleInfo = {
   role: (typeof PLAYER_ROLES_VALUES)[number];
@@ -10,10 +11,22 @@ type PlayerRoleInfo = {
   bowlStyle: (typeof PLAYER_BOWL_STYLES_VALUES)[number];
 };
 
+type PlayerPersonalInfo = {
+  birthDate: Date;
+  birthPlace?: string | undefined;
+  height?: number | undefined;
+};
+
 export type BasicMatchSquadPlayer = {
   id: number;
   name: string;
   shortName: string;
+};
+
+export type Player = BasicMatchSquadPlayer & {
+  team: Pick<TeamMatchInfo, "id" | "name">;
+  roleInfo: PlayerRoleInfo;
+  personalInfo: PlayerPersonalInfo;
 };
 
 export type MatchSquadPlayer = BasicMatchSquadPlayer & {

@@ -1,52 +1,61 @@
-import { Link, useSearchParams } from "react-router-dom";
-import { useVenues } from "../../hooks/useVenues";
-import { Venue } from "../../types/venue";
+import { useSearchParams } from "react-router-dom";
+import { usePlayers } from "../../hooks/usePlayers";
+import { Player } from "../../types/players";
 import Table, { Column } from "../components/Table";
+import myDayjs from "../../services/dayjs";
 
-const columns: Column<Venue>[] = [
+const columns: Column<Player>[] = [
   {
     title: "Name",
-    dataKey: "name",
-    render: (val) => {
+    dataKey: "id",
+    render: (val, record) => {
       return (
         <div className="font-medium text-gray-900 whitespace-nowrap dark:text-white">
-          {val}
+          {record.name}
         </div>
       );
     },
   },
   {
-    title: "City",
-    dataKey: "city",
+    title: "Team",
+    dataKey: "team",
+    render: (val, record) => {
+      return <span>{record.team.name}</span>;
+    },
   },
   {
-    title: "Country",
-    dataKey: "country",
-  },
-  {
-    title: "",
+    title: "Role",
     dataKey: "id",
-    render: (val) => {
+    render: (val, record) => {
+      return <span>{record.roleInfo.role}</span>;
+    },
+  },
+  {
+    title: "Bat Style",
+    dataKey: "id",
+    render: (val, record) => {
+      return <span>{record.roleInfo.batStyle}</span>;
+    },
+  },
+  {
+    title: "Birth Date",
+    dataKey: "id",
+    render: (val, record) => {
       return (
-        <div className="text-right">
-          <Link
-            to="#"
-            className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-          >
-            Edit
-          </Link>
-        </div>
+        <span>
+          {myDayjs(record.personalInfo.birthDate).format("DD MMM, YYYY")}
+        </span>
       );
     },
   },
 ];
 
-const AllVenues = () => {
+const AllPlayers = () => {
   const [searchParams, setSearchParams] = useSearchParams();
   const query = searchParams.get("query") || "";
   const page = Math.max(parseInt(searchParams.get("page") || "1"), 1);
 
-  const { data, error, isLoading, isPlaceholderData } = useVenues(query, page);
+  const { data, error, isLoading, isPlaceholderData } = usePlayers(query, page);
 
   const handlePaginationClick = (page: number) => {
     setSearchParams({
@@ -64,9 +73,9 @@ const AllVenues = () => {
     <div className="border border-slate-900/10 py-10 px-8 rounded-xl">
       <div className="flex justify-between items-start">
         <div>
-          <h1 className="text-base font-medium text-slate-900">Venues</h1>
+          <h1 className="text-base font-medium text-slate-900">Players</h1>
           <div className="text-sm text-gray-700 mt-1">
-            A list of all the venues
+            A list of all the players
           </div>
         </div>
         <div>
@@ -74,7 +83,7 @@ const AllVenues = () => {
             type="button"
             className="block rounded-md px-3 py-2 text-center text-sm font-medium text-white bg-blue-600 shadow-sm"
           >
-            Add venue
+            Add player
           </button>
         </div>
       </div>
@@ -103,4 +112,4 @@ const AllVenues = () => {
   );
 };
 
-export default AllVenues;
+export default AllPlayers;
