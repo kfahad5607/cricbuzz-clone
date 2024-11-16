@@ -157,3 +157,43 @@ export const getEconomyRate = (runs: number, overs: number) => {
     2
   );
 };
+
+export const generatePagination = (
+  currentPage: number,
+  pageSize: number,
+  totalRecords: number
+) => {
+  const totalPages = Math.ceil(totalRecords / pageSize);
+  const maxButtons = 7;
+  const buttons = [];
+
+  if (totalPages) return [];
+
+  const addRange = (start: number, end: number) => {
+    for (let i = start; i <= end; i++) {
+      buttons.push(i);
+    }
+  };
+
+  if (totalPages <= maxButtons) {
+    addRange(1, totalPages);
+  } else {
+    if (currentPage <= 4) {
+      addRange(1, 5);
+      buttons.push("...");
+      buttons.push(totalPages);
+    } else if (currentPage >= totalPages - 3) {
+      buttons.push(1);
+      buttons.push("...");
+      addRange(totalPages - 4, totalPages);
+    } else {
+      buttons.push(1);
+      buttons.push("...");
+      addRange(currentPage - 1, currentPage + 1);
+      buttons.push("...");
+      buttons.push(totalPages);
+    }
+  }
+
+  return buttons;
+};
