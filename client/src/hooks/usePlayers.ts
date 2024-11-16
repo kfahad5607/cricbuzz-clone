@@ -22,7 +22,7 @@ export const usePlayers = (query: string = "", page: number = 1) => {
         .get<PaginatedResponse<Player>>(endpoint)
         .then((res) => res.data),
     placeholderData: keepPreviousData,
-    staleTime: Infinity,
+    staleTime: 5 * 60 * 1000,
     retry: 1,
   });
 };

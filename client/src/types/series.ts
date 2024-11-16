@@ -1,5 +1,6 @@
-import { MatchFormat, MatchType, TeamMatchInfo } from "./matches";
-import { MatchSquadPlayer } from "./players";
+import type { MatchFormat, MatchType } from "./matches";
+import type { Team } from "./teams";
+import type { MatchSquadPlayer } from "./players";
 
 export type Series = {
   id: number;
@@ -21,7 +22,7 @@ export type SeriesInfoWithMatch = Omit<SeriesInfo, "seriesType"> & {
 
 export type SeriesTeamsItem = {
   matchFormat: MatchFormat;
-  teams: Omit<TeamMatchInfo, "shortName">[];
+  teams: Omit<Team, "shortName">[];
 };
 
 export type SeriesTeamSquadRaw = {

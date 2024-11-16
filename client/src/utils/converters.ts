@@ -7,8 +7,9 @@ import {
   MatchState,
   MatchTossResultsWithInfo,
 } from "../types/matchData";
-import { MatchCard, TeamMatchInfo } from "../types/matches";
-import { Series } from "../types/series";
+import type { MatchCard } from "../types/matches";
+import type { Team } from "../types/teams";
+import type { Series } from "../types/series";
 import { BALLS_IN_OVER, DATE_TIME_FORMAT, MATCH_STATES } from "./constants";
 
 type MatchStatusData = {
@@ -17,7 +18,7 @@ type MatchStatusData = {
   tossResults?: MatchTossResultsWithInfo;
   results?: MatchResultsWithInfo;
   innings: ({
-    team: TeamMatchInfo;
+    team: Team;
   } & Pick<BaseScorecardInnings, "score">)[];
 };
 

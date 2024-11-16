@@ -9,6 +9,7 @@ import {
 } from "./matchData";
 import { MatchSquadPlayer } from "./players";
 import { Series } from "./series";
+import { Team } from "./teams";
 import { MatchVenue, Venue } from "./venue";
 
 export type MatchType = (typeof MATCH_TYPES_VALUES)[number];
@@ -23,8 +24,8 @@ export type MatchCardRaw = {
     id: number;
     title: string;
   };
-  homeTeam: TeamMatchInfo;
-  awayTeam: TeamMatchInfo;
+  homeTeam: Team;
+  awayTeam: Team;
   state: MatchState;
   status: string;
   tossResults?: MatchTossResults;
@@ -46,7 +47,7 @@ export type MatchFullCard = Omit<
   innings: (Omit<
     BaseScorecardInnings,
     "extras" | "isDeclared" | "isFollowOn" | "teamId"
-  > & { team: TeamMatchInfo })[];
+  > & { team: Team })[];
 };
 
 export type MatchCard = Omit<
@@ -58,7 +59,7 @@ export type MatchCard = Omit<
   innings: (Omit<
     BaseScorecardInnings,
     "extras" | "isDeclared" | "isFollowOn" | "teamId"
-  > & { team: TeamMatchInfo })[];
+  > & { team: Team })[];
 };
 
 export type SeriesMatchCardRaw = Omit<MatchCardRaw, "series"> & {
@@ -69,19 +70,13 @@ export type SeriesMatchCard = Omit<MatchCard, "series"> & {
   venue: MatchVenue;
 };
 
-export type TeamMatchInfo = {
-  id: number;
-  name: string;
-  shortName: string;
-};
-
 export type TeamSquadPlayers = {
   playingXi: MatchSquadPlayer[];
   substitutes: MatchSquadPlayer[];
   bench: MatchSquadPlayer[];
 };
 
-export type TeamMatchInfoWithPlayers = TeamMatchInfo & {
+export type TeamMatchInfoWithPlayers = Team & {
   players: TeamSquadPlayers;
 };
 
@@ -89,8 +84,8 @@ export type Match = {
   id: number;
   description: string;
   startTime: string;
-  homeTeam: TeamMatchInfo;
-  awayTeam: TeamMatchInfo;
+  homeTeam: Team;
+  awayTeam: Team;
   series: Series;
   venue: MatchVenue;
 };

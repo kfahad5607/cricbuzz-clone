@@ -3,7 +3,7 @@ import {
   PLAYER_BOWL_STYLES_VALUES,
   PLAYER_ROLES_VALUES,
 } from "../utils/constants";
-import { TeamMatchInfo } from "./matches";
+import type { Team } from "./teams";
 
 type PlayerRoleInfo = {
   role: (typeof PLAYER_ROLES_VALUES)[number];
@@ -24,7 +24,7 @@ export type BasicMatchSquadPlayer = {
 };
 
 export type Player = BasicMatchSquadPlayer & {
-  team: Pick<TeamMatchInfo, "id" | "name">;
+  team: Pick<Team, "id" | "name">;
   roleInfo: PlayerRoleInfo;
   personalInfo: PlayerPersonalInfo;
 };

@@ -19,6 +19,7 @@ import AdminLayout from "./admin/layouts/Layout";
 import DashboardPage from "./admin/pages/DashboardPage";
 import AllVenues from "./admin/pages/AllVenues";
 import AllPlayers from "./admin/pages/AllPlayers";
+import AllTeams from "./admin/pages/AllTeams";
 
 const router = createBrowserRouter([
   {
@@ -123,7 +124,7 @@ const router = createBrowserRouter([
       },
       {
         path: "teams",
-        element: <h3>All teams</h3>,
+        element: <AllTeams />,
       },
       {
         path: "players",

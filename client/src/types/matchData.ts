@@ -5,7 +5,7 @@ import {
   MATCH_STATES_VALUES,
   TOSS_DECISIONS_VALUES,
 } from "../utils/constants";
-import { TeamMatchInfo } from "./matches";
+import { Team } from "./teams";
 import { BasicMatchSquadPlayer, MatchSquadPlayer } from "./players";
 
 // const
@@ -93,7 +93,7 @@ export type ScorecardInningsRaw = BaseScorecardInnings & {
 };
 
 export type ScorecardInnings = Omit<BaseScorecardInnings, "teamId"> & {
-  team: TeamMatchInfo;
+  team: Team;
 } & {
   batters: ScorecardBatterWithInfo[];
   didNotBatBatters: DidNotBatBatter[];
@@ -106,7 +106,7 @@ export type MatchTossResults = {
 };
 
 export type MatchTossResultsWithInfo = {
-  winnerTeam: TeamMatchInfo;
+  winnerTeam: Team;
   decision: MatchTossResults["decision"];
 };
 
@@ -126,7 +126,7 @@ export type MatchResults =
 
 export type MatchResultsWithInfo =
   | (Omit<MatchResultsWin, "winningTeamId"> & {
-      winningTeam: TeamMatchInfo;
+      winningTeam: Team;
     })
   | {
       resultType: MatchOtherResultType;

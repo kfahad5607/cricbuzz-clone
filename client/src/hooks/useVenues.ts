@@ -46,7 +46,7 @@ export const useVenues = (query: string = "", page: number = 1) => {
     queryFn: () =>
       apiClient.get<PaginatedResponse<Venue>>(endpoint).then((res) => res.data),
     placeholderData: keepPreviousData,
-    staleTime: Infinity,
+    staleTime: 5 * 60 * 1000,
     retry: 1,
   });
 };

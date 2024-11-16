@@ -1,6 +1,7 @@
 import { FallOfWicket } from "../types/matchData";
-import { TeamMatchInfo, TeamSquadPlayers } from "../types/matches";
+import { TeamSquadPlayers } from "../types/matches";
 import { BasicMatchSquadPlayer, MatchSquadPlayer } from "../types/players";
+import { Team } from "../types/teams";
 
 export const matchInfoQueryKeys = {
   matchInfo: (id: number) => ["matchInfo", id] as const,
@@ -59,10 +60,7 @@ export const addPlayerNamesToFow = (
   return { ...fow, helpers, bowler };
 };
 
-export const addTeamInfo = (
-  teamId: number,
-  teams: TeamMatchInfo[]
-): TeamMatchInfo | null => {
+export const addTeamInfo = (teamId: number, teams: Team[]): Team | null => {
   for (let i = 0; i < teams.length; i++) {
     const team = teams[i];
 

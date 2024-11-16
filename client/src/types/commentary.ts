@@ -13,7 +13,7 @@ import {
   ScorecardBowlerWithInfo,
   ScorecardInningsTypes,
 } from "./matchData";
-import { TeamMatchInfo } from "./matches";
+import { Team } from "./teams";
 import { BasicMatchSquadPlayer } from "./players";
 
 // const
@@ -65,14 +65,14 @@ export type CommentaryData = Omit<
   tossResults?: MatchTossResultsWithInfo;
   results?: MatchResultsWithInfo;
 } & {
-  innings: (Omit<BaseScorecardInnings, "teamId"> & { team: TeamMatchInfo })[];
+  innings: (Omit<BaseScorecardInnings, "teamId"> & { team: Team })[];
 };
 
 export type FullCommentaryDataRaw = {
   teamId: number;
   currentInnings: CommentaryInningsTypes;
   innings: {
-    teamId: TeamMatchInfo["id"];
+    teamId: Team["id"];
     batters: Pick<ScorecardBatter, "id">[];
     bowlers: Pick<ScorecardBatter, "id">[];
   }[];
@@ -87,7 +87,7 @@ export type CommentaryDataInnings =
   | {
       inningsType: ScorecardInningsTypes;
       teamInningsNo: number;
-      team: TeamMatchInfo;
+      team: Team;
       batters: BasicMatchSquadPlayer[];
       bowlers: BasicMatchSquadPlayer[];
     };
@@ -104,7 +104,7 @@ export type HighlightsDataRaw = {
   teamId: number;
   currentInnings: ScorecardInningsTypes;
   innings: {
-    teamId: TeamMatchInfo["id"];
+    teamId: Team["id"];
   }[];
   commentaryList: CommentaryItem[];
 };
@@ -112,7 +112,7 @@ export type HighlightsDataRaw = {
 export type HighlightsDataInnings = {
   inningsType: ScorecardInningsTypes;
   teamInningsNo: number;
-  team: TeamMatchInfo;
+  team: Team;
 };
 
 export type HighlightsData = Omit<HighlightsDataRaw, "innings"> & {
