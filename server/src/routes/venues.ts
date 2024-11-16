@@ -11,7 +11,15 @@ import { Venue, VenueOptional, getValidationSchema } from "../types";
 
 const router = express.Router();
 
-router.get("/", getAll);
+router.get(
+  "/",
+  validateRequest({
+    query: getValidationSchema({
+      page: "DatabaseIntIdParam",
+    }),
+  }),
+  getAll
+);
 
 router.get(
   "/:id",

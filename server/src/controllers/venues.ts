@@ -1,18 +1,52 @@
-import { eq } from "drizzle-orm";
+import { asc, desc, eq, sql } from "drizzle-orm";
 import { NextFunction, Request, Response } from "express";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import { Venue, VenueOptional, VenueWithId, getValidationType } from "../types";
+import { setTimeout } from "node:timers/promises";
+
+type PaginatedResponse<TItem> = {
+  data: TItem[];
+  totalRecords: number;
+  currentPage: number;
+  pageSize: number;
+};
 
 export async function getAll(
-  req: Request,
-  res: Response<VenueWithId[]>,
+  req: Request<
+    {},
+    {},
+    {},
+    getValidationType<{ page: "DatabaseIntIdParam" }>,
+    VenueWithId
+  >,
+  res: Response<PaginatedResponse<VenueWithId>>,
   next: NextFunction
 ) {
   try {
-    const results = await db.select().from(tables.venues);
+    const limit = 20;
+    const pageNo = parseInt(req.query.page || "1");
+    const offset = (pageNo - 1) * limit;
 
-    res.status(200).json(results);
+    const results = await db
+      .select()
+      .from(tables.venues)
+      .orderBy(asc(tables.venues.name))
+      .offset(offset)
+      .limit(limit);
+
+    const totalRecordsResults = await db
+      .select({
+        count: sql<number>`cast(count(${tables.venues.id}) as int)`,
+      })
+      .from(tables.venues);
+
+    res.status(200).json({
+      data: results,
+      currentPage: pageNo,
+      pageSize: limit,
+      totalRecords: totalRecordsResults[0].count,
+    });
   } catch (err) {
     next(err);
   }
@@ -24,7 +58,7 @@ export async function getOne(
   next: NextFunction
 ) {
   try {
-    const id = parseInt(req.params.id);
+    const id = Math.max(parseInt(req.params.id), 1);
     const results = await db
       .select()
       .from(tables.venues)
