@@ -3,6 +3,9 @@ import { ScorecardInningsType } from "./matchData";
 import { CommentaryInningsType } from "./commentary";
 import { MatchFormat, ScheduleType } from "./matches";
 
+const ZString = z.string();
+type ZString = z.infer<typeof ZString>;
+
 const DatabaseIntIdParam = z
   .string({
     required_error: "ID is required.",
@@ -47,6 +50,7 @@ const VALIDATION_SCHEMAS = {
   TimestampParam,
   MatchFormat,
   ScheduleType,
+  ZString,
 } as const;
 
 type VALIDATION_SCHEMAS = {
@@ -57,6 +61,7 @@ type VALIDATION_SCHEMAS = {
   TimestampParam: TimestampParam;
   MatchFormat: MatchFormat;
   ScheduleType: ScheduleType;
+  ZString: ZString;
 };
 
 type ValidationSchemas = typeof VALIDATION_SCHEMAS;
@@ -64,7 +69,8 @@ type ValidationSchemasKeys = keyof ValidationSchemas;
 type ValidationResultInput = Record<string, ValidationSchemasKeys>;
 
 export const getValidationSchema = <T extends ValidationResultInput>(
-  shape: T
+  shape: T,
+  shapeOptionals?: T
 ): z.ZodSchema => {
   let res = z.object({});
 
@@ -74,12 +80,32 @@ export const getValidationSchema = <T extends ValidationResultInput>(
     });
   }
 
+  if (shapeOptionals) {
+    for (const key in shapeOptionals) {
+      console.log(
+        "KEY ",
+        key,
+        shapeOptionals[key],
+        VALIDATION_SCHEMAS[shapeOptionals[key]]
+      );
+
+      res = res.extend({
+        [key]: VALIDATION_SCHEMAS[shapeOptionals[key]].optional(),
+      });
+    }
+  }
+
   return res;
 };
 
 // utility types
-export type getValidationType<T extends ValidationResultInput> = {
+export type getValidationType<
+  T extends ValidationResultInput,
+  TOptionals extends ValidationResultInput = {}
+> = {
   [K in keyof T]: VALIDATION_SCHEMAS[T[K]];
+} & {
+  [K in keyof TOptionals]?: VALIDATION_SCHEMAS[TOptionals[K]];
 };
 
 // manual types

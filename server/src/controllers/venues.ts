@@ -1,36 +1,42 @@
-import { asc, desc, eq, sql } from "drizzle-orm";
+import { asc, desc, eq, ilike, or, sql } from "drizzle-orm";
 import { NextFunction, Request, Response } from "express";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import { Venue, VenueOptional, VenueWithId, getValidationType } from "../types";
 import { setTimeout } from "node:timers/promises";
-
-type PaginatedResponse<TItem> = {
-  data: TItem[];
-  totalRecords: number;
-  currentPage: number;
-  pageSize: number;
-};
+import { PaginatedResponse } from "../helpers/api";
 
 export async function getAll(
   req: Request<
     {},
     {},
     {},
-    getValidationType<{ page: "DatabaseIntIdParam" }>,
-    VenueWithId
+    getValidationType<{}, { query: "ZString"; page: "DatabaseIntIdParam" }>
   >,
   res: Response<PaginatedResponse<VenueWithId>>,
   next: NextFunction
 ) {
   try {
-    const limit = 20;
+    let query = (req.query.query || "").trim();
+    const limit = 5;
     const pageNo = parseInt(req.query.page || "1");
     const offset = (pageNo - 1) * limit;
 
-    const results = await db
-      .select()
-      .from(tables.venues)
+    // await setTimeout(2000);
+
+    const baseQuery = db.select().from(tables.venues);
+    if (query) {
+      query = `%${query}%`;
+      baseQuery.where(
+        or(
+          ilike(tables.venues.name, query),
+          ilike(tables.venues.city, query),
+          ilike(tables.venues.country, query)
+        )
+      );
+    }
+
+    const results = await baseQuery
       .orderBy(asc(tables.venues.name))
       .offset(offset)
       .limit(limit);
@@ -39,7 +45,14 @@ export async function getAll(
       .select({
         count: sql<number>`cast(count(${tables.venues.id}) as int)`,
       })
-      .from(tables.venues);
+      .from(tables.venues)
+      .where(
+        or(
+          ilike(tables.venues.name, query),
+          ilike(tables.venues.city, query),
+          ilike(tables.venues.country, query)
+        )
+      );
 
     res.status(200).json({
       data: results,

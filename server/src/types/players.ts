@@ -4,6 +4,7 @@ import {
   PLAYER_BOWL_STYLES_VALUES,
   PLAYER_ROLES_VALUES,
 } from "../helpers/constants";
+import { TeamWithId } from "./teams";
 
 const RoleInfo = z.object({
   role: z.enum(PLAYER_ROLES_VALUES),
@@ -68,6 +69,31 @@ export const MatchSquadPlayerWithInfo = MatchSquadPlayerPartial.merge(
 export type RoleInfo = z.infer<typeof RoleInfo>;
 export type PersonalInfo = z.infer<typeof PersonalInfo>;
 export type Player = z.infer<typeof Player>;
+export type ApiPlayer = Pick<
+  PlayerWithId,
+  "id" | "name" | "roleInfo" | "personalInfo"
+> & {
+  team: Pick<TeamWithId, "id" | "name">;
+};
+
+const t: ApiPlayer = {
+  id: 1,
+  name: "dd",
+  roleInfo: {
+    batStyle: "left-handed-bat",
+    role: "bat-allrounder",
+    bowlStyle: "left-arm-fast",
+  },
+  personalInfo: {
+    birthDate: new Date(),
+    birthPlace: "ddd",
+    height: 22,
+  },
+  team: {
+    id: 1,
+    name: "d",
+  },
+};
 export type PlayerPartial = z.infer<typeof PlayerPartial>;
 export type PlayerWithId = z.infer<typeof PlayerWithId>;
 export type MatchSquadPlayer = z.infer<typeof MatchSquadPlayer>;

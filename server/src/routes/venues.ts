@@ -14,9 +14,13 @@ const router = express.Router();
 router.get(
   "/",
   validateRequest({
-    query: getValidationSchema({
-      page: "DatabaseIntIdParam",
-    }),
+    query: getValidationSchema(
+      {},
+      {
+        query: "ZString",
+        page: "DatabaseIntIdParam",
+      }
+    ),
   }),
   getAll
 );

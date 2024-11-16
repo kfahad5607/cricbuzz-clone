@@ -123,7 +123,15 @@ export const seriesRelations = relations(series, ({ many }) => ({
   matches: many(matches),
 }));
 
+export const playersRelations = relations(players, ({ one }) => ({
+  team: one(teams, {
+    fields: [players.team],
+    references: [teams.id],
+  }),
+}));
+
 export const teamsRelations = relations(teams, ({ many }) => ({
-  homeTeam: many(matches, { relationName: "homeTeam" }),
-  awayTeam: many(matches, { relationName: "awayTeam" }),
+  players: many(players, { relationName: "team" }),
+  homeMatches: many(matches, { relationName: "homeTeam" }),
+  awayMatches: many(matches, { relationName: "awayTeam" }),
 }));

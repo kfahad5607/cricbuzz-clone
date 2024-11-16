@@ -11,7 +11,19 @@ import { Player, PlayerPartial, getValidationSchema } from "../types";
 
 const router = express.Router();
 
-router.get("/", getAll);
+router.get(
+  "/",
+  validateRequest({
+    query: getValidationSchema(
+      {},
+      {
+        query: "ZString",
+        page: "DatabaseIntIdParam",
+      }
+    ),
+  }),
+  getAll
+);
 
 router.get(
   "/:id",
