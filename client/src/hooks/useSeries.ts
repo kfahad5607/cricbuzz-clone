@@ -1,10 +1,16 @@
-import { useQuery } from "@tanstack/react-query";
+import { keepPreviousData, useQuery } from "@tanstack/react-query";
 import apiClient from "../services/api-client";
-import { SeriesInfo } from "../types/series";
+import { Series, SeriesInfo } from "../types/series";
 import myDayjs from "../services/dayjs";
+import { PaginatedResponse } from "../types/common";
 
 // types
 type QueryKeyMatch = typeof seriesQueryKeys.all;
+
+const queryKeys = {
+  series: (query: string, page: number) => ["series", query, page] as const,
+};
+
 export type SeriesByMonth = {
   month: string;
   seriesType: SeriesInfo["seriesType"];
@@ -41,7 +47,7 @@ const getSeriesByMonth = async () => {
   return seriesByMonth;
 };
 
-const useSeries = () =>
+export const useSeries = () =>
   useQuery<SeriesByMonth[], Error, SeriesByMonth[], QueryKeyMatch>({
     queryKey: seriesQueryKeys.all,
     queryFn: getSeriesByMonth,
@@ -49,4 +55,20 @@ const useSeries = () =>
     staleTime: 15 * 60 * 1000,
   });
 
-export default useSeries;
+export const useSeriesPaginated = (query: string = "", page: number = 1) => {
+  let endpoint = `series?page=${page}`;
+  if (query) {
+    endpoint += `&query=${query}`;
+  }
+
+  return useQuery<PaginatedResponse<Series>, Error, PaginatedResponse<Series>>({
+    queryKey: queryKeys.series(query, page),
+    queryFn: () =>
+      apiClient
+        .get<PaginatedResponse<Series>>(endpoint)
+        .then((res) => res.data),
+    placeholderData: keepPreviousData,
+    staleTime: 5 * 60 * 1000,
+    retry: 1,
+  });
+};

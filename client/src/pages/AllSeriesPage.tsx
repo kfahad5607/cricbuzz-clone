@@ -7,7 +7,7 @@ import {
 import Table from "../components/Table";
 import { TabLinkType } from "../components/tabs/TabWithLink";
 import { Column } from "../entities/table";
-import useSeries, { SeriesByMonth } from "../hooks/useSeries";
+import { useSeries, SeriesByMonth } from "../hooks/useSeries";
 import { MatchType } from "../types/matches";
 import { MATCH_TYPES_VALUES } from "../utils/constants";
 import { formatDateTime, getSeriesURL } from "../utils/converters";

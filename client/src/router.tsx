@@ -20,6 +20,7 @@ import DashboardPage from "./admin/pages/DashboardPage";
 import AllVenues from "./admin/pages/AllVenues";
 import AllPlayers from "./admin/pages/AllPlayers";
 import AllTeams from "./admin/pages/AllTeams";
+import AllSeries from "./admin/pages/AllSeries";
 
 const router = createBrowserRouter([
   {
@@ -116,7 +117,7 @@ const router = createBrowserRouter([
       },
       {
         path: "series",
-        element: <h3>All series</h3>,
+        element: <AllSeries />,
       },
       {
         path: "matches",
