@@ -11,7 +11,7 @@ import { PaginatedResponse } from "../types/common";
 type QueryKeySeriesMatches = ReturnType<typeof queryKeys.seriesVenues>;
 
 export const queryKeys = {
-  venues: (page: number) => ["venues", page] as const,
+  venues: (query: string, page: number) => ["venues", query, page] as const,
   seriesVenues: (id: number) => ["seriesVenues", id] as const,
 };
 
@@ -35,13 +35,16 @@ export const useSeriesVenues = (seriesId: number) => {
   });
 };
 
-export const useVenues = (page: number = 1) => {
+export const useVenues = (query: string = "", page: number = 1) => {
+  let endpoint = `venues?page=${page}`;
+  if (query) {
+    endpoint += `&query=${query}`;
+  }
+
   return useQuery<PaginatedResponse<Venue>, Error, PaginatedResponse<Venue>>({
-    queryKey: queryKeys.venues(page),
+    queryKey: queryKeys.venues(query, page),
     queryFn: () =>
-      apiClient
-        .get<PaginatedResponse<Venue>>(`venues?page=${page}`)
-        .then((res) => res.data),
+      apiClient.get<PaginatedResponse<Venue>>(endpoint).then((res) => res.data),
     placeholderData: keepPreviousData,
     staleTime: Infinity,
     retry: 1,

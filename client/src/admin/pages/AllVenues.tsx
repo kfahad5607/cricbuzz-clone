@@ -43,13 +43,21 @@ const columns: Column<Venue>[] = [
 
 const AllVenues = () => {
   const [searchParams, setSearchParams] = useSearchParams();
+  const query = searchParams.get("query") || "";
   const page = Math.max(parseInt(searchParams.get("page") || "1"), 1);
 
-  const { data, error, isLoading, isPlaceholderData } = useVenues(page);
+  const { data, error, isLoading, isPlaceholderData } = useVenues(query, page);
 
   const handlePaginationClick = (page: number) => {
     setSearchParams({
       page: page.toString(),
+    });
+  };
+
+  const handleSearch = (query: string) => {
+    console.log("handleSearch ", query);
+    setSearchParams({
+      query,
     });
   };
 
@@ -77,9 +85,10 @@ const AllVenues = () => {
         <Table
           data={data?.data}
           columns={columns}
-          isLoading={isLoading}
-          isPlaceholderData={isPlaceholderData}
+          isLoading={isLoading || isPlaceholderData}
           error={error}
+          searchQuery={query}
+          onSearch={handleSearch}
           pagination={
             data
               ? {

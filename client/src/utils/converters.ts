@@ -167,7 +167,7 @@ export const generatePagination = (
   const maxButtons = 7;
   const buttons = [];
 
-  if (totalPages) return [];
+  if (totalPages === 1) return [];
 
   const addRange = (start: number, end: number) => {
     for (let i = start; i <= end; i++) {
