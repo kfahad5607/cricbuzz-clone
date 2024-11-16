@@ -40,7 +40,7 @@ export async function getAll(
 
     const totalRecordsResults = await db
       .select({
-        count: sql<number>`cast(count(${tables.venues.id}) as int)`,
+        count: sql<number>`cast(count(${tables.series.id}) as int)`,
       })
       .from(tables.teams)
       .where(whereClause);

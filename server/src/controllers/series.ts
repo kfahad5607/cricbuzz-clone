@@ -1,4 +1,4 @@
-import { and, desc, eq, inArray, or, sql } from "drizzle-orm";
+import { and, asc, desc, eq, ilike, inArray, or, SQL, sql } from "drizzle-orm";
 import { NextFunction, Request, Response } from "express";
 import MatchData from "../db/mongo/schema/matchData";
 import MatchSquads from "../db/mongo/schema/matchSquad";
@@ -26,6 +26,7 @@ import {
 } from "../types";
 import { getInningsKeys } from "./matches";
 import { MATCH_FORMATS, MATCH_FORMATS_VALUES } from "../helpers/constants";
+import { PaginatedResponse } from "../helpers/api";
 
 type TeamSquadResult<T> = {
   teamId: number;
@@ -33,14 +34,48 @@ type TeamSquadResult<T> = {
 };
 
 export async function getAll(
-  req: Request,
-  res: Response<SeriesWithId[]>,
+  req: Request<
+    {},
+    {},
+    {},
+    getValidationType<{}, { query: "ZString"; page: "DatabaseIntIdParam" }>
+  >,
+  res: Response<PaginatedResponse<SeriesWithId>>,
   next: NextFunction
 ) {
   try {
-    const results = await db.select().from(tables.series);
+    let query = (req.query.query || "").trim();
+    const limit = 20;
+    const pageNo = parseInt(req.query.page || "1");
+    const offset = (pageNo - 1) * limit;
 
-    res.status(200).json(results);
+    const baseQuery = db.select().from(tables.series);
+    let whereClause: SQL<unknown> | undefined = undefined;
+    if (query) {
+      query = `%${query}%`;
+
+      whereClause = ilike(tables.series.title, query);
+      baseQuery.where(whereClause);
+    }
+
+    const results = await baseQuery
+      .orderBy(asc(tables.series.title))
+      .offset(offset)
+      .limit(limit);
+
+    const totalRecordsResults = await db
+      .select({
+        count: sql<number>`cast(count(${tables.venues.id}) as int)`,
+      })
+      .from(tables.series)
+      .where(whereClause);
+
+    res.status(200).json({
+      data: results,
+      currentPage: pageNo,
+      pageSize: limit,
+      totalRecords: totalRecordsResults[0].count,
+    });
   } catch (err) {
     next(err);
   }
