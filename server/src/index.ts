@@ -27,11 +27,11 @@ app.get("/", async (req: Request, res: Response) => {
   }
 });
 
-app.use("/teams", TeamsRouter);
-app.use("/venues", VenuesRouter);
-app.use("/series", SeriesRouter);
-app.use("/matches", MatchesRouter);
-app.use("/players", PlayersRouter);
+app.use("/api/v1/teams", TeamsRouter);
+app.use("/api/v1/venues", VenuesRouter);
+app.use("/api/v1/series", SeriesRouter);
+app.use("/api/v1/matches", MatchesRouter);
+app.use("/api/v1/players", PlayersRouter);
 
 app.use(notFound);
 app.use(errorHandler);

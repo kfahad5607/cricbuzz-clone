@@ -1,18 +1,56 @@
-import { eq } from "drizzle-orm";
+import { asc, eq, ilike, or, SQL, sql } from "drizzle-orm";
 import { NextFunction, Request, Response } from "express";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
 import { Team, TeamOptional, TeamWithId, getValidationType } from "../types";
+import { PaginatedResponse } from "../helpers/api";
 
 export async function getAll(
-  req: Request,
-  res: Response<TeamWithId[]>,
+  req: Request<
+    {},
+    {},
+    {},
+    getValidationType<{}, { query: "ZString"; page: "DatabaseIntIdParam" }>
+  >,
+  res: Response<PaginatedResponse<TeamWithId>>,
   next: NextFunction
 ) {
   try {
-    const results = await db.select().from(tables.teams);
+    let query = (req.query.query || "").trim();
+    const limit = 20;
+    const pageNo = parseInt(req.query.page || "1");
+    const offset = (pageNo - 1) * limit;
 
-    res.status(200).json(results);
+    const baseQuery = db.select().from(tables.teams);
+    let whereClause: SQL<unknown> | undefined = undefined;
+    if (query) {
+      query = `%${query}%`;
+
+      whereClause = or(
+        ilike(tables.teams.name, query),
+        ilike(tables.teams.shortName, query)
+      );
+      baseQuery.where(whereClause);
+    }
+
+    const results = await baseQuery
+      .orderBy(asc(tables.teams.name))
+      .offset(offset)
+      .limit(limit);
+
+    const totalRecordsResults = await db
+      .select({
+        count: sql<number>`cast(count(${tables.venues.id}) as int)`,
+      })
+      .from(tables.teams)
+      .where(whereClause);
+
+    res.status(200).json({
+      data: results,
+      currentPage: pageNo,
+      pageSize: limit,
+      totalRecords: totalRecordsResults[0].count,
+    });
   } catch (err) {
     next(err);
   }
