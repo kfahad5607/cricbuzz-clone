@@ -10,6 +10,8 @@ import { useState } from "react";
 import { AxiosError } from "axios";
 import { ErrorResponse } from "../../types/common";
 import Spinner from "../components/Spinner";
+import { useParams } from "react-router-dom";
+import { useVenue, queryKeys } from "../../hooks/useVenues";
 
 const countries = [
   { value: "Afghanistan", label: "Afghanistan" },
@@ -64,8 +66,14 @@ const timezones = [
 ];
 
 const VenueForm = () => {
+  const params = useParams();
+  const id = params.id ? parseInt(params.id) : 0;
+  const isEdit = !!id;
+
+  const { data, error, isLoading } = useVenue(id);
+
   const queryClient = useQueryClient();
-  const [error, setError] = useState<string>("");
+  const [formError, setFormError] = useState<string>("");
   const {
     register,
     handleSubmit,
@@ -73,6 +81,7 @@ const VenueForm = () => {
     formState: { errors },
   } = useForm<Venue>({
     resolver: zodResolver(Venue),
+    values: data,
   });
   const { mutate, isPending } = useMutation<
     VenueWithId,
@@ -80,19 +89,28 @@ const VenueForm = () => {
     Venue
   >({
     async mutationFn(newVenue) {
-      const response = await apiClient.post<VenueWithId>("venues", newVenue);
+      let response;
+      if (isEdit) {
+        response = await apiClient.patch<VenueWithId>(`venues/${id}`, newVenue);
+      } else {
+        response = await apiClient.post<VenueWithId>("venues", newVenue);
+      }
 
       return response.data;
     },
     onMutate() {
-      setError("");
+      setFormError("");
     },
     onSuccess(data, variables) {
-      console.log("onSuccess ", data, variables);
       reset();
       queryClient.invalidateQueries({
-        queryKey: ["venues"],
+        queryKey: [queryKeys.base],
+        type: "inactive",
       });
+
+      if (isEdit) {
+        queryClient.setQueryData(queryKeys.venue(id), data);
+      }
     },
     onError(error) {
       let errorMsg = error.message;
@@ -100,101 +118,117 @@ const VenueForm = () => {
         errorMsg = error.response.data.message;
       }
 
-      setError(errorMsg);
+      setFormError(errorMsg);
     },
   });
 
   const onSubmit: SubmitHandler<Venue> = (data) => {
-    // console.log("data ", data);
     mutate(data);
   };
 
   return (
     <div className="border border-slate-900/10 py-10 px-8 rounded-xl">
       <div className="mb-5">
-        <h1 className="text-base font-medium text-slate-900">Create Venue</h1>
+        <h1 className="text-base font-medium text-slate-900">
+          {isEdit ? "Edit" : "Create"} Venue
+        </h1>
         <div className="text-sm text-gray-700 mt-1">
-          Add a new venue to the platform
+          {isEdit
+            ? "Edit the venue to perfection"
+            : "Add a new venue to the platform"}
         </div>
       </div>
 
-      <form onSubmit={handleSubmit(onSubmit)}>
-        <div className="grid grid-cols-2 gap-x-5 gap-y-4">
-          <div className="col-span-1">
-            <InputElement
-              label="Venue Name"
-              {...register("name", {
-                required: true,
-              })}
-            />
-            {errors.name && (
-              <ErrorElement className="mt-1.5">
-                {errors.name.message}
-              </ErrorElement>
-            )}
+      <div className="relative">
+        {isLoading && (
+          <div className="absolute inset-0 bg-white/65">
+            <div className="flex justify-center mt-24">
+              <Spinner />
+            </div>
           </div>
-          <div className="col-span-1">
-            <InputElement
-              label="City"
-              {...register("city", {
-                required: true,
-              })}
-            />
-            {errors.city && (
-              <ErrorElement className="mt-1.5">
-                {errors.city.message}
-              </ErrorElement>
-            )}
+        )}
+        <form onSubmit={handleSubmit(onSubmit)}>
+          <div className="grid grid-cols-2 gap-x-5 gap-y-4">
+            <div className="col-span-1">
+              <InputElement
+                label="Venue Name"
+                {...register("name", {
+                  required: true,
+                })}
+              />
+              {errors.name && (
+                <ErrorElement className="mt-1.5">
+                  {errors.name.message}
+                </ErrorElement>
+              )}
+            </div>
+            <div className="col-span-1">
+              <InputElement
+                label="City"
+                {...register("city", {
+                  required: true,
+                })}
+              />
+              {errors.city && (
+                <ErrorElement className="mt-1.5">
+                  {errors.city.message}
+                </ErrorElement>
+              )}
+            </div>
+
+            <div className="col-span-1">
+              <SelectElement
+                label="Country"
+                options={countries}
+                {...register("country", {
+                  required: true,
+                })}
+              />
+              {errors.country && (
+                <ErrorElement className="mt-1.5">
+                  {errors.country.message}
+                </ErrorElement>
+              )}
+            </div>
+            <div className="col-span-1">
+              <SelectElement
+                label="Timezone"
+                options={timezones}
+                {...register("timezone", {
+                  required: true,
+                })}
+              />
+              {errors.timezone && (
+                <ErrorElement className="mt-1.5">
+                  {errors.timezone.message}
+                </ErrorElement>
+              )}
+            </div>
           </div>
 
-          <div className="col-span-1">
-            <SelectElement
-              label="Country"
-              options={countries}
-              {...register("country", {
-                required: true,
-              })}
-            />
-            {errors.country && (
-              <ErrorElement className="mt-1.5">
-                {errors.country.message}
-              </ErrorElement>
-            )}
+          <div className="mt-8">
+            <button
+              disabled={isPending}
+              type="submit"
+              className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 inline-flex items-center disabled:opacity-80 disabled:pointer-events-none"
+            >
+              {isPending ? (
+                <>
+                  <Spinner className="w-4 h-4 mr-2" />
+                  Saving...
+                </>
+              ) : (
+                <>Save</>
+              )}
+            </button>
           </div>
-          <div className="col-span-1">
-            <SelectElement
-              label="Timezone"
-              options={timezones}
-              {...register("timezone", {
-                required: true,
-              })}
-            />
-            {errors.timezone && (
-              <ErrorElement className="mt-1.5">
-                {errors.timezone.message}
-              </ErrorElement>
-            )}
-          </div>
-        </div>
-
-        <div className="mt-8">
-          <button
-            disabled={isPending}
-            type="submit"
-            className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 inline-flex items-center disabled:opacity-80 disabled:pointer-events-none"
-          >
-            {isPending ? (
-              <>
-                <Spinner className="w-4 h-4 mr-2" />
-                Saving...
-              </>
-            ) : (
-              <>Save</>
-            )}
-          </button>
-        </div>
-        {error && <ErrorElement className="mt-3 text-lg">{error}</ErrorElement>}
-      </form>
+          {(formError || error) && (
+            <ErrorElement className="mt-3 text-lg">
+              {formError || error?.message}
+            </ErrorElement>
+          )}
+        </form>
+      </div>
     </div>
   );
 };

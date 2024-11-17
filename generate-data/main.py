@@ -96,8 +96,8 @@ def get_venue(id):
             tds = row.find_all('td')
             if tds[0].string == 'Location':
                 location = tds[1].string.split(',')
-                data['city'] = location[0].strip().lower()
-                data['country'] = location[1].strip().lower()
+                data['city'] = location[0].strip().capitalize()
+                data['country'] = location[1].strip().capitalize()
             elif tds[0].string == 'Time Zone':
                 offset = tds[1].string.replace("UTC", "").strip()
                 timezone = get_timezone_from_offset(offset=offset)

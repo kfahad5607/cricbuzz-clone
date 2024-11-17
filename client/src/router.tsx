@@ -136,6 +136,10 @@ const router = createBrowserRouter([
         path: "venues/create",
         element: <VenueForm />,
       },
+      {
+        path: "venues/edit/:id",
+        element: <VenueForm />,
+      },
     ],
   },
 ]);

@@ -40,7 +40,10 @@ const columns: Column<VenueWithId>[] = [
     render: (val) => {
       return (
         <div className="flex justify-center gap-x-1">
-          <Link to="#" className="font-medium text-blue-500">
+          <Link
+            to={`/admin/venues/edit/${val}`}
+            className="font-medium text-blue-500"
+          >
             <MdEdit className="text-lg" />
           </Link>
           <Link to="#" className="font-medium text-gray-700">
