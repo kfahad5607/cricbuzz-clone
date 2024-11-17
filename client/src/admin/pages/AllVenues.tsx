@@ -3,6 +3,7 @@ import { useVenues } from "../../hooks/useVenues";
 import { VenueWithId } from "../../types/venue";
 import Table, { Column } from "../components/Table";
 import { MdDelete, MdEdit } from "react-icons/md";
+import myDayjs from "../../services/dayjs";
 
 const columns: Column<VenueWithId>[] = [
   {
@@ -23,6 +24,15 @@ const columns: Column<VenueWithId>[] = [
   {
     title: "Country",
     dataKey: "country",
+  },
+  {
+    title: "Timezone",
+    dataKey: "timezone",
+    render(val, record) {
+      const date = myDayjs().tz(record.timezone);
+
+      return `${date.offsetName("long")} (${date.offsetName("short")})`;
+    },
   },
   {
     title: "",

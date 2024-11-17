@@ -37,30 +37,30 @@ const countries = [
 ];
 
 const timezones = [
-  { label: "Afghanistan Standard Time (UTC +04:30)", value: "Asia/Kabul" },
+  { label: "Afghanistan Standard Time (GMT +04:30)", value: "Asia/Kabul" },
   {
-    label: "Australian Eastern Standard Time (UTC +10:00)",
+    label: "Australian Eastern Standard Time (GMT +10:00)",
     value: "Australia/Sydney",
   },
-  { label: "Bangladesh Standard Time (UTC +06:00)", value: "Asia/Dhaka" },
+  { label: "Bangladesh Standard Time (GMT +06:00)", value: "Asia/Dhaka" },
   {
-    label: "Caribbean Standard Time (UTC -04:00)",
+    label: "Caribbean Standard Time (GMT -04:00)",
     value: "America/Port_of_Spain",
   },
-  { label: "English Standard Time (UTC +00:00)", value: "Europe/London" },
-  { label: "Indian Standard Time (UTC +05:30)", value: "Asia/Calcutta" },
-  { label: "Irish Standard Time (UTC +01:00)", value: "Europe/Dublin" },
+  { label: "English Standard Time (GMT +00:00)", value: "Europe/London" },
+  { label: "Indian Standard Time (GMT +05:30)", value: "Asia/Calcutta" },
+  { label: "Irish Standard Time (GMT +01:00)", value: "Europe/Dublin" },
   {
-    label: "New Zealand Standard Time (UTC +12:00)",
+    label: "New Zealand Standard Time (GMT +12:00)",
     value: "Pacific/Auckland",
   },
-  { label: "Pakistan Standard Time (UTC +05:00)", value: "Asia/Karachi" },
+  { label: "Pakistan Standard Time (GMT +05:00)", value: "Asia/Karachi" },
   {
-    label: "South African Standard Time (UTC +02:00)",
+    label: "South African Standard Time (GMT +02:00)",
     value: "Africa/Johannesburg",
   },
-  { label: "Sri Lanka Standard Time (UTC +05:30)", value: "Asia/Colombo" },
-  { label: "Zimbabwe Standard Time (UTC +02:00)", value: "Africa/Harare" },
+  { label: "Sri Lanka Standard Time (GMT +05:30)", value: "Asia/Colombo" },
+  { label: "Zimbabwe Standard Time (GMT +02:00)", value: "Africa/Harare" },
 ];
 
 const VenueForm = () => {
