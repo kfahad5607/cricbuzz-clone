@@ -1,4 +1,7 @@
 import * as z from "zod";
+import { TIMEZONES } from "../helpers/constants";
+
+export const Timezone = z.enum(TIMEZONES);
 
 export const Venue = z.object({
   name: z
@@ -22,6 +25,7 @@ export const Venue = z.object({
     })
     .min(3)
     .max(100),
+  timezone: Timezone.default(TIMEZONES[0]),
 });
 
 export const VenueOptional = Venue.partial();

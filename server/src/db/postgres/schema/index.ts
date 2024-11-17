@@ -14,14 +14,14 @@ import {
   MATCH_FORMATS_VALUES,
   MATCH_STATES_VALUES,
   MATCH_TYPES_VALUES,
+  TIMEZONES,
 } from "../../../helpers/constants";
 import { PersonalInfo, RoleInfo } from "../../../types";
 
 export const matchFormatEnum = pgEnum("matchFormat", MATCH_FORMATS_VALUES);
-
 export const matchTypeEnum = pgEnum("matchType", MATCH_TYPES_VALUES);
-
 export const matchStateEnum = pgEnum("matchState", MATCH_STATES_VALUES);
+export const timezoneEnum = pgEnum("timezone", TIMEZONES);
 
 export const series = pgTable("series", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
@@ -70,6 +70,7 @@ export const venues = pgTable("venues", {
   name: varchar("name", { length: 100 }).notNull(),
   city: varchar("city", { length: 100 }).notNull(),
   country: varchar("country", { length: 100 }).notNull(),
+  timezone: timezoneEnum("timezone").notNull(),
 });
 
 export const squads = pgTable("squads", {

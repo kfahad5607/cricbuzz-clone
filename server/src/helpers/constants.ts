@@ -155,3 +155,19 @@ export const DISMISSAL_TYPES_VALUES = [
   "handled-ball",
   "timed-out",
 ] as const;
+
+
+export const TIMEZONES = [
+  "Europe/London",
+  "Asia/Kabul",
+  "Australia/Sydney",
+  "Asia/Dhaka",
+  "America/Port_of_Spain",
+  "Asia/Calcutta",
+  "Europe/Dublin",
+  "Pacific/Auckland",
+  "Asia/Karachi",
+  "Africa/Johannesburg",
+  "Asia/Colombo",
+  "Africa/Harare",
+] as const;

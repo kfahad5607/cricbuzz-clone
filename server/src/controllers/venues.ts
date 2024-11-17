@@ -1,10 +1,10 @@
-import { asc, desc, eq, ilike, or, sql } from "drizzle-orm";
+import { asc, eq, ilike, or, sql } from "drizzle-orm";
 import { NextFunction, Request, Response } from "express";
+import { setTimeout } from "node:timers/promises";
 import { db } from "../db/postgres";
 import * as tables from "../db/postgres/schema";
-import { Venue, VenueOptional, VenueWithId, getValidationType } from "../types";
-import { setTimeout } from "node:timers/promises";
 import { PaginatedResponse } from "../helpers/api";
+import { Venue, VenueOptional, VenueWithId, getValidationType } from "../types";
 
 export async function getAll(
   req: Request<
@@ -25,9 +25,21 @@ export async function getAll(
     // await setTimeout(2000);
 
     const baseQuery = db.select().from(tables.venues);
+    const baseCountQuery = db
+      .select({
+        count: sql<number>`cast(count(${tables.venues.id}) as int)`,
+      })
+      .from(tables.venues);
     if (query) {
       query = `%${query}%`;
       baseQuery.where(
+        or(
+          ilike(tables.venues.name, query),
+          ilike(tables.venues.city, query),
+          ilike(tables.venues.country, query)
+        )
+      );
+      baseCountQuery.where(
         or(
           ilike(tables.venues.name, query),
           ilike(tables.venues.city, query),
@@ -41,18 +53,7 @@ export async function getAll(
       .offset(offset)
       .limit(limit);
 
-    const totalRecordsResults = await db
-      .select({
-        count: sql<number>`cast(count(${tables.venues.id}) as int)`,
-      })
-      .from(tables.venues)
-      .where(
-        or(
-          ilike(tables.venues.name, query),
-          ilike(tables.venues.city, query),
-          ilike(tables.venues.country, query)
-        )
-      );
+    const totalRecordsResults = await baseCountQuery;
 
     res.status(200).json({
       data: results,
@@ -95,6 +96,15 @@ export async function createOne(
 ) {
   try {
     const newVenue: Venue = req.body;
+
+    //await setTimeout(1100);
+
+    // res.status(500);
+    // throw new Error(`Could not create the venue.`);
+    // return res.status(201).json({
+    //   ...newVenue,
+    //   id: 1000,
+    // });
 
     const results = await db
       .insert(tables.venues)
