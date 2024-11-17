@@ -3,78 +3,98 @@
     "id": "11",
     "name": "MA Chidambaram Stadium",
     "city": "chennai",
-    "country": "india"
+    "country": "india",
+    "timezone": "Asia/Calcutta"
   },
   "851": {
     "id": "851",
     "name": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
     "city": "chandigarh",
-    "country": "india"
+    "country": "india",
+    "timezone": "Asia/Calcutta"
   },
   "31": {
     "id": "31",
     "name": "Eden Gardens",
     "city": "kolkata",
-    "country": "india"
+    "country": "india",
+    "timezone": "Asia/Calcutta"
   },
   "76": {
     "id": "76",
     "name": "Sawai Mansingh Stadium",
     "city": "jaipur",
-    "country": "india"
+    "country": "india",
+    "timezone": "Asia/Calcutta"
   },
   "50": {
     "id": "50",
     "name": "Narendra Modi Stadium",
     "city": "ahmedabad",
-    "country": "india"
+    "country": "india",
+    "timezone": "Asia/Calcutta"
   },
   "27": {
     "id": "27",
     "name": "M.Chinnaswamy Stadium",
     "city": "bengaluru",
-    "country": "india"
+    "country": "india",
+    "timezone": "Asia/Calcutta"
   },
   "80": {
     "id": "80",
     "name": "Rajiv Gandhi International Stadium",
     "city": "hyderabad",
-    "country": "india"
+    "country": "india",
+    "timezone": "Asia/Calcutta"
   },
   "485": {
     "id": "485",
     "name": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
     "city": "lucknow",
-    "country": "india"
+    "country": "india",
+    "timezone": "Asia/Calcutta"
   },
   "154": {
     "id": "154",
     "name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
     "city": "visakhapatnam",
-    "country": "india"
+    "country": "india",
+    "timezone": "Asia/Calcutta"
   },
   "81": {
     "id": "81",
     "name": "Wankhede Stadium",
     "city": "mumbai",
-    "country": "india"
+    "country": "india",
+    "timezone": "Asia/Calcutta"
   },
   "51": {
     "id": "51",
     "name": "Arun Jaitley Stadium",
     "city": "delhi",
-    "country": "india"
+    "country": "india",
+    "timezone": "Asia/Calcutta"
   },
   "155": {
     "id": "155",
     "name": "Himachal Pradesh Cricket Association Stadium",
     "city": "dharamsala",
-    "country": "india"
+    "country": "india",
+    "timezone": "Asia/Calcutta"
   },
   "380": {
     "id": "380",
     "name": "Barsapara Cricket Stadium",
     "city": "guwahati",
-    "country": "india"
+    "country": "india",
+    "timezone": "Asia/Calcutta"
+  },
+  "46": {
+    "id": "46",
+    "name": "Punjab Cricket Association IS Bindra Stadium",
+    "city": "mohali",
+    "country": "india",
+    "timezone": "Asia/Calcutta"
   }
 }

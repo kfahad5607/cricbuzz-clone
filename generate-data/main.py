@@ -1,6 +1,6 @@
 import re
 from bs4 import BeautifulSoup
-from utils import (BALLS_IN_OVER, ball_num_to_overs, extract_number, format_comm_text, format_date, get_json_content, sleep, get_param_from_url, get_html_content, slugify)
+from utils import (BALLS_IN_OVER, ball_num_to_overs, extract_number, format_comm_text, format_date, get_json_content, get_timezone_from_offset, sleep, get_param_from_url, get_html_content, slugify)
 from utils.file import (get_file_data, set_file_data)
 
 BASE_URL = 'https://www.cricbuzz.com'
@@ -36,6 +36,21 @@ KNOWN_BALL_EVENTS = { "WICKET",
   "HIGHSCORING_OVER",
   "OVER_BREAK",}
 
+TIMEZONES = {
+  "Europe/London",
+  "Asia/Kabul",
+  "Australia/Sydney",
+  "Asia/Dhaka",
+  "America/Port_of_Spain",
+  "Asia/Calcutta",
+  "Europe/Dublin",
+  "Pacific/Auckland",
+  "Asia/Karachi",
+  "Africa/Johannesburg",
+  "Asia/Colombo",
+  "Africa/Harare",
+}
+
 def get_series_venues(series_id):
     try:
         venues_file_path = 'venues/index.json'
@@ -70,6 +85,7 @@ def get_venue(id):
             'name': '',
             'city': '',
             'country': '',
+            'timezone': ''
         }
         html_content = get_html_content(url=url)
         soup = BeautifulSoup(html_content, 'html.parser')
@@ -82,6 +98,13 @@ def get_venue(id):
                 location = tds[1].string.split(',')
                 data['city'] = location[0].strip().lower()
                 data['country'] = location[1].strip().lower()
+            elif tds[0].string == 'Time Zone':
+                offset = tds[1].string.replace("UTC", "").strip()
+                timezone = get_timezone_from_offset(offset=offset)
+                if timezone not in TIMEZONES:
+                    print(f"************** PLEASE ADD {timezone} TO TIMEZONES **************")
+                print("Time Zone ", offset, timezone)
+                data['timezone'] = timezone
 
         return data
     except Exception as e:
@@ -783,8 +806,8 @@ def main():
         series_data = get_file_data(f"series/index.json")
         series_ids = list(series_data.keys())
         for series_id in series_ids:
-            # get_series_venues(series_id=series_id)
-            get_series_matches(series_id=series_id)
+            get_series_venues(series_id=series_id)
+            # get_series_matches(series_id=series_id)
             sleep(5)
         
     except Exception as e:

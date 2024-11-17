@@ -2,8 +2,9 @@ import re
 import unicodedata
 import time
 from urllib.parse import urlparse
+import pytz
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 BASE_URL = 'https://www.cricbuzz.com'
 BASE_DATA_PATH = 'data/'
@@ -98,3 +99,30 @@ def slugify(text, delimiter = '-'):
     text = text.strip(delimiter)
     
     return text
+
+def get_timezone_from_offset(offset):
+    """
+    Converts a UTC offset string (e.g., 'UTC +05:30') to a timezone name (e.g., 'Asia/Kolkata').
+
+    Args:
+    utc_offset_str (str): A string representing the UTC offset, e.g., 'UTC +05:30'.
+
+    Returns:
+    str: A timezone name corresponding to the UTC offset, or 'Unknown timezone' if not found.
+    """
+    try:
+        sign = 1 if offset[0] == '+' else -1
+        hours, minutes = map(int, offset[1:].split(':'))
+        total_offset = timedelta(hours=sign * hours, minutes=sign * minutes)
+
+        now_utc = datetime.now(timezone.utc)
+        
+        for tz_name in pytz.all_timezones:
+            tz = pytz.timezone(tz_name)
+            if now_utc.astimezone(tz).utcoffset() == total_offset:
+                return tz_name
+        
+    except Exception as e:
+        print(f"Error: {str(e)}") 
+    
+    return "Asia/Calcutta"
