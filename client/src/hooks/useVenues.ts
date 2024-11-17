@@ -4,7 +4,7 @@ import {
   useQuery,
 } from "@tanstack/react-query";
 import apiClient from "../services/api-client";
-import { MatchVenue, Venue } from "../types/venue";
+import { MatchVenue, VenueWithId } from "../types/venue";
 import { PaginatedResponse } from "../types/common";
 
 // types
@@ -41,10 +41,16 @@ export const useVenues = (query: string = "", page: number = 1) => {
     endpoint += `&query=${query}`;
   }
 
-  return useQuery<PaginatedResponse<Venue>, Error, PaginatedResponse<Venue>>({
+  return useQuery<
+    PaginatedResponse<VenueWithId>,
+    Error,
+    PaginatedResponse<VenueWithId>
+  >({
     queryKey: queryKeys.venues(query, page),
     queryFn: () =>
-      apiClient.get<PaginatedResponse<Venue>>(endpoint).then((res) => res.data),
+      apiClient
+        .get<PaginatedResponse<VenueWithId>>(endpoint)
+        .then((res) => res.data),
     placeholderData: keepPreviousData,
     staleTime: 5 * 60 * 1000,
     retry: 1,

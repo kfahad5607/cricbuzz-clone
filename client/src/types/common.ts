@@ -7,3 +7,7 @@ export type Pagination = {
 export type PaginatedResponse<TItem> = Pagination & {
   data: TItem[];
 };
+
+export type ErrorResponse = {
+  message: string;
+};

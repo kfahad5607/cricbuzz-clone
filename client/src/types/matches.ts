@@ -10,7 +10,7 @@ import {
 import { MatchSquadPlayer } from "./players";
 import { Series } from "./series";
 import { Team } from "./teams";
-import { MatchVenue, Venue } from "./venue";
+import { MatchVenue, VenueWithId } from "./venue";
 
 export type MatchType = (typeof MATCH_TYPES_VALUES)[number];
 export type MatchFormat = (typeof MATCH_FORMATS_VALUES)[number];
@@ -35,7 +35,7 @@ export type MatchCardRaw = {
 
 export type MatchFullCardRaw = MatchCardRaw & {
   matchType: MatchType;
-  venue: Omit<Venue, "country">;
+  venue: Omit<VenueWithId, "country">;
 };
 
 export type MatchFullCard = Omit<

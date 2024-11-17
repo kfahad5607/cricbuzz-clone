@@ -94,7 +94,9 @@ const Table = <TItem,>(props: Props<TItem>) => {
     <div className="relative">
       {isLoading && (
         <div className="absolute inset-0 bg-white/50">
-          <Spinner className="flex justify-center mt-24" />
+          <div className="flex justify-center mt-24">
+            <Spinner />
+          </div>
         </div>
       )}
       <div className="pb-4 bg-white dark:bg-gray-900">

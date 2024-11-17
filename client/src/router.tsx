@@ -21,6 +21,7 @@ import AllVenues from "./admin/pages/AllVenues";
 import AllPlayers from "./admin/pages/AllPlayers";
 import AllTeams from "./admin/pages/AllTeams";
 import AllSeries from "./admin/pages/AllSeries";
+import VenueForm from "./admin/pages/VenueForm";
 
 const router = createBrowserRouter([
   {
@@ -120,10 +121,6 @@ const router = createBrowserRouter([
         element: <AllSeries />,
       },
       {
-        path: "matches",
-        element: <h3>All matches</h3>,
-      },
-      {
         path: "teams",
         element: <AllTeams />,
       },
@@ -134,6 +131,10 @@ const router = createBrowserRouter([
       {
         path: "venues",
         element: <AllVenues />,
+      },
+      {
+        path: "venues/create",
+        element: <VenueForm />,
       },
     ],
   },

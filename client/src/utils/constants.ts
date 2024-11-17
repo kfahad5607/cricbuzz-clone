@@ -199,3 +199,19 @@ export const PLAYER_BOWL_STYLES_VALUES = [
   "right-arm-legbreak",
   "left-arm-legbreak",
 ] as const;
+
+
+export const TIMEZONES = [
+  "Europe/London",
+  "Asia/Kabul",
+  "Australia/Sydney",
+  "Asia/Dhaka",
+  "America/Port_of_Spain",
+  "Asia/Calcutta",
+  "Europe/Dublin",
+  "Pacific/Auckland",
+  "Asia/Karachi",
+  "Africa/Johannesburg",
+  "Asia/Colombo",
+  "Africa/Harare",
+] as const;

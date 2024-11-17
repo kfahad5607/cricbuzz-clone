@@ -1,9 +1,10 @@
 import { Link, useSearchParams } from "react-router-dom";
 import { useVenues } from "../../hooks/useVenues";
-import { Venue } from "../../types/venue";
+import { VenueWithId } from "../../types/venue";
 import Table, { Column } from "../components/Table";
+import { MdDelete, MdEdit } from "react-icons/md";
 
-const columns: Column<Venue>[] = [
+const columns: Column<VenueWithId>[] = [
   {
     title: "Name",
     dataKey: "name",
@@ -28,12 +29,12 @@ const columns: Column<Venue>[] = [
     dataKey: "id",
     render: (val) => {
       return (
-        <div className="text-right">
-          <Link
-            to="#"
-            className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-          >
-            Edit
+        <div className="flex justify-center gap-x-1">
+          <Link to="#" className="font-medium text-blue-500">
+            <MdEdit className="text-lg" />
+          </Link>
+          <Link to="#" className="font-medium text-gray-700">
+            <MdDelete className="text-lg" />
           </Link>
         </div>
       );
@@ -70,12 +71,13 @@ const AllVenues = () => {
           </div>
         </div>
         <div>
-          <button
+          <Link
+            to="/admin/venues/create"
             type="button"
             className="block rounded-md px-3 py-2 text-center text-sm font-medium text-white bg-blue-600 shadow-sm"
           >
             Add venue
-          </button>
+          </Link>
         </div>
       </div>
 

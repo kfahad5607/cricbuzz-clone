@@ -6,10 +6,6 @@ const Links = [
     href: "/admin/series",
   },
   {
-    label: "Matches",
-    href: "/admin/matches",
-  },
-  {
     label: "Teams",
     href: "/admin/teams",
   },
