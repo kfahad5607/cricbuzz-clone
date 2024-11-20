@@ -1,17 +1,17 @@
-import { SubmitHandler, useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
-import { Venue, VenueWithId } from "../../types/venue";
-import InputElement from "../components/InputElement";
-import SelectElement from "../components/SelectElement";
-import ErrorElement from "../components/ErrorElement";
-import apiClient from "../../services/api-client";
 import { useMutation, useQueryClient } from "@tanstack/react-query";
-import { useState } from "react";
 import { AxiosError } from "axios";
-import { ErrorResponse } from "../../types/common";
-import Spinner from "../components/Spinner";
+import { useState } from "react";
+import { Controller, SubmitHandler, useForm } from "react-hook-form";
 import { useParams } from "react-router-dom";
-import { useVenue, queryKeys } from "../../hooks/useVenues";
+import { queryKeys, useVenue } from "../../hooks/useVenues";
+import apiClient from "../../services/api-client";
+import { ErrorResponse } from "../../types/common";
+import { Venue, VenueWithId } from "../../types/venue";
+import ComboBoxElement from "../components/ComboBoxElement";
+import ErrorElement from "../components/ErrorElement";
+import InputElement from "../components/InputElement";
+import Spinner from "../components/Spinner";
 
 const countries = [
   { value: "Afghanistan", label: "Afghanistan" },
@@ -75,9 +75,11 @@ const VenueForm = () => {
   const queryClient = useQueryClient();
   const [formError, setFormError] = useState<string>("");
   const {
+    control,
     register,
     handleSubmit,
     reset,
+    setValue,
     formState: { errors },
   } = useForm<Venue>({
     resolver: zodResolver(Venue),
@@ -141,7 +143,7 @@ const VenueForm = () => {
 
       <div className="relative">
         {isLoading && (
-          <div className="absolute inset-0 bg-white/65">
+          <div className="absolute z-10 inset-0 bg-white/65">
             <div className="flex justify-center mt-24">
               <Spinner />
             </div>
@@ -177,12 +179,26 @@ const VenueForm = () => {
             </div>
 
             <div className="col-span-1">
-              <SelectElement
-                label="Country"
-                options={countries}
-                {...register("country", {
-                  required: true,
-                })}
+              <Controller
+                name="country"
+                control={control}
+                render={({ field }) => {
+                  return (
+                    <ComboBoxElement
+                      label="Country"
+                      options={countries}
+                      selectedValue={field.value}
+                      {...register("country", {
+                        required: true,
+                      })}
+                      {...field}
+                      onOptionSelect={(val) => {
+                        // @ts-ignore
+                        setValue("country", val);
+                      }}
+                    />
+                  );
+                }}
               />
               {errors.country && (
                 <ErrorElement className="mt-1.5">
@@ -191,12 +207,26 @@ const VenueForm = () => {
               )}
             </div>
             <div className="col-span-1">
-              <SelectElement
-                label="Timezone"
-                options={timezones}
-                {...register("timezone", {
-                  required: true,
-                })}
+              <Controller
+                name="timezone"
+                control={control}
+                render={({ field }) => {
+                  return (
+                    <ComboBoxElement
+                      label="Timezone"
+                      options={timezones}
+                      selectedValue={field.value}
+                      {...register("timezone", {
+                        required: true,
+                      })}
+                      {...field}
+                      onOptionSelect={(val) => {
+                        // @ts-ignore
+                        setValue("timezone", val);
+                      }}
+                    />
+                  );
+                }}
               />
               {errors.timezone && (
                 <ErrorElement className="mt-1.5">

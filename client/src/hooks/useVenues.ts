@@ -12,7 +12,7 @@ import axios from "axios";
 type QueryKeySeriesMatches = ReturnType<typeof queryKeys.seriesVenues>;
 
 export const queryKeys = {
-  base: "venues",
+  base: "venues" as const,
   venues: (query: string, page: number) =>
     [queryKeys.base, query, page] as const,
   venue: (id: number) => [queryKeys.base, id] as const,
