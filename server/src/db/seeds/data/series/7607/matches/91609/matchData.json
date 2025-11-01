@@ -502,14 +502,15 @@
   },
   "state": "complete",
   "status": "Chennai Super Kings won by 28 runs",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 65
-  },
   "results": {
     "resultType": "win",
     "winByRuns": true,
     "winByInnings": false,
-    "winningMargin": 28
+    "winningMargin": 28,
+    "winningTeamId": 58
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 65
   }
 }

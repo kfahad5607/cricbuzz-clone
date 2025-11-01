@@ -326,7 +326,9 @@ export async function getSeriesMatches(
       return acc;
     }, teamsMap);
 
-    let venuesMap: { [key: DatabaseIntId]: Omit<VenueWithId, "country"> } = {};
+    let venuesMap: {
+      [key: DatabaseIntId]: Omit<VenueWithId, "country" | "timezone">;
+    } = {};
     venuesMap = venuesData.reduce((acc, val) => {
       acc[val.id] = val;
       return acc;

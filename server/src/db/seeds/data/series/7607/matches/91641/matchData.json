@@ -252,14 +252,15 @@
   },
   "state": "complete",
   "status": "Sunrisers Hyderabad won by 10 wkts",
-  "tossResults": {
-    "decision": "bat",
-    "tossWinnerId": 966
-  },
   "results": {
     "resultType": "win",
     "winByRuns": false,
     "winByInnings": false,
-    "winningMargin": 10
+    "winningMargin": 10,
+    "winningTeamId": 255
+  },
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 966
   }
 }

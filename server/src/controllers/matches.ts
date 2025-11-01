@@ -1486,6 +1486,7 @@ export async function getScheduledMatches(
             id: true,
             name: true,
             city: true,
+            timezone: true,
           },
         },
         homeTeam: {

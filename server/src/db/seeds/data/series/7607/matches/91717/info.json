@@ -15,9 +15,7 @@
     "tossWinnerId": 63
   },
   "results": {
-    "resultType": "abandon",
-    "winByRuns": false,
-    "winByInnings": false
+    "resultType": "abandon"
   },
   "inningsScoreList": [],
   "state": "abandon",

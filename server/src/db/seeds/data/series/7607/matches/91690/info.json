@@ -10,11 +10,8 @@
   "venue": 80,
   "startTime": 1715868000000,
   "completeTime": 1715877819237,
-  "tossResults": {},
   "results": {
-    "resultType": "abandon",
-    "winByRuns": false,
-    "winByInnings": false
+    "resultType": "abandon"
   },
   "inningsScoreList": [],
   "state": "abandon",

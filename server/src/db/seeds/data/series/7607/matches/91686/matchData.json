@@ -416,14 +416,15 @@
   },
   "state": "complete",
   "status": "Punjab Kings won by 5 wkts",
-  "tossResults": {
-    "decision": "bat",
-    "tossWinnerId": 64
-  },
   "results": {
     "resultType": "win",
     "winByRuns": false,
     "winByInnings": false,
-    "winningMargin": 5
+    "winningMargin": 5,
+    "winningTeamId": 65
+  },
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 64
   }
 }

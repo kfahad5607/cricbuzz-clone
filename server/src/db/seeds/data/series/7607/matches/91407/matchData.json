@@ -371,14 +371,15 @@
   },
   "state": "complete",
   "status": "Delhi Capitals won by 6 wkts",
-  "tossResults": {
-    "decision": "bat",
-    "tossWinnerId": 966
-  },
   "results": {
     "resultType": "win",
     "winByRuns": false,
     "winByInnings": false,
-    "winningMargin": 6
+    "winningMargin": 6,
+    "winningTeamId": 61
+  },
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 966
   }
 }

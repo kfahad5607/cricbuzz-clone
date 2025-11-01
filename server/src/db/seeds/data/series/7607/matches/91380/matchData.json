@@ -396,14 +396,15 @@
   },
   "state": "complete",
   "status": "Chennai Super Kings won by 7 wkts",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 58
-  },
   "results": {
     "resultType": "win",
     "winByRuns": false,
     "winByInnings": false,
-    "winningMargin": 7
+    "winningMargin": 7,
+    "winningTeamId": 58
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 58
   }
 }

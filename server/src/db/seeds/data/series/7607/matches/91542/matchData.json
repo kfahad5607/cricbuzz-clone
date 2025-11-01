@@ -328,14 +328,15 @@
   },
   "state": "complete",
   "status": "Rajasthan Royals won by 7 wkts",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 64
-  },
   "results": {
     "resultType": "win",
     "winByRuns": false,
     "winByInnings": false,
-    "winningMargin": 7
+    "winningMargin": 7,
+    "winningTeamId": 64
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 64
   }
 }

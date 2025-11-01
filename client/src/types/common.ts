@@ -11,3 +11,8 @@ export type PaginatedResponse<TItem> = Pagination & {
 export type ErrorResponse = {
   message: string;
 };
+
+export type ApiOption = {
+  label: string;
+  value: number;
+};

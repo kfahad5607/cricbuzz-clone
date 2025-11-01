@@ -351,14 +351,15 @@
   },
   "state": "complete",
   "status": "Gujarat Titans won by 3 wkts",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 971
-  },
   "results": {
     "resultType": "win",
     "winByRuns": false,
     "winByInnings": false,
-    "winningMargin": 3
+    "winningMargin": 3,
+    "winningTeamId": 971
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 971
   }
 }

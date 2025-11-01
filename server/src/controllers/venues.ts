@@ -72,6 +72,8 @@ export async function getOne(
   next: NextFunction
 ) {
   try {
+    await setTimeout(1000);
+
     const id = Math.max(parseInt(req.params.id), 1);
     const results = await db
       .select()
@@ -96,15 +98,6 @@ export async function createOne(
 ) {
   try {
     const newVenue: Venue = req.body;
-
-    //await setTimeout(1100);
-
-    // res.status(500);
-    // throw new Error(`Could not create the venue.`);
-    // return res.status(201).json({
-    //   ...newVenue,
-    //   id: 1000,
-    // });
 
     const results = await db
       .insert(tables.venues)

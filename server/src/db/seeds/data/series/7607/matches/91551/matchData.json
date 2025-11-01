@@ -260,14 +260,15 @@
   },
   "state": "complete",
   "status": "Royal Challengers Bengaluru won by 9 wkts",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 59
-  },
   "results": {
     "resultType": "win",
     "winByRuns": false,
     "winByInnings": false,
-    "winningMargin": 9
+    "winningMargin": 9,
+    "winningTeamId": 59
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 59
   }
 }

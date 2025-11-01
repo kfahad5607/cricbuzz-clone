@@ -3,6 +3,7 @@ import cors from "cors";
 import mongoose from "mongoose";
 import config from "./config";
 import { notFound, errorHandler } from "./middlewares";
+import CommonRouter from "./routes/common";
 import VenuesRouter from "./routes/venues";
 import TeamsRouter from "./routes/teams";
 import SeriesRouter from "./routes/series";
@@ -27,6 +28,7 @@ app.get("/", async (req: Request, res: Response) => {
   }
 });
 
+app.use("/api/v1/common", CommonRouter);
 app.use("/api/v1/teams", TeamsRouter);
 app.use("/api/v1/venues", VenuesRouter);
 app.use("/api/v1/series", SeriesRouter);

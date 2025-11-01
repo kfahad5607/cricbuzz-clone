@@ -137,8 +137,10 @@ const seedMatch = async (seriesId: number, matchId: number) => {
     // }
 
     // temp
-    infoData.startTime = new Date(new Date().getTime() + 5 * 60 * 1000);
-    infoData.completeTime = new Date(new Date().getTime() + 180 * 60 * 1000);
+    infoData.startTime = new Date(new Date().getTime() + 48 * 60 * 60 * 1000);
+    infoData.completeTime = new Date(
+      new Date().getTime() + 54 * 60 * 60 * 1000
+    );
 
     const newMatch: Match = {
       description: infoData.description,

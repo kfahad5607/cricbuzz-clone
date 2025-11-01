@@ -366,14 +366,15 @@
   },
   "state": "complete",
   "status": "Sunrisers Hyderabad won by 6 wkts",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 255
-  },
   "results": {
     "resultType": "win",
     "winByRuns": false,
     "winByInnings": false,
-    "winningMargin": 6
+    "winningMargin": 6,
+    "winningTeamId": 255
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 255
   }
 }

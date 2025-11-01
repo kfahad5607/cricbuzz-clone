@@ -1,12 +1,16 @@
 import { keepPreviousData, useQuery } from "@tanstack/react-query";
 import apiClient from "../services/api-client";
 import { PaginatedResponse } from "../types/common";
-import { Player } from "../types/players";
+import { NewPlayerWithId, Player } from "../types/players";
+import axios from "axios";
 
 // types
 
 export const queryKeys = {
-  players: (query: string, page: number) => ["players", query, page] as const,
+  base: "players" as const,
+  players: (query: string, page: number) =>
+    [queryKeys.base, query, page] as const,
+  player: (id: number) => [queryKeys.base, id] as const,
 };
 
 export const usePlayers = (query: string = "", page: number = 1) => {
@@ -24,5 +28,31 @@ export const usePlayers = (query: string = "", page: number = 1) => {
     placeholderData: keepPreviousData,
     staleTime: 5 * 60 * 1000,
     retry: 1,
+  });
+};
+
+export const usePlayer = (id: number) => {
+  let endpoint = `players/${id}`;
+
+  return useQuery<NewPlayerWithId, Error, NewPlayerWithId>({
+    queryKey: queryKeys.player(id),
+    queryFn: async () => {
+      try {
+        const response = await apiClient.get<NewPlayerWithId>(endpoint);
+
+        return response.data;
+      } catch (err) {
+        if (axios.isAxiosError(err)) {
+          throw {
+            message: err.response?.data?.message || err.message,
+          };
+        }
+
+        throw err;
+      }
+    },
+    staleTime: 60 * 1000,
+    retry: 1,
+    enabled: !!id,
   });
 };

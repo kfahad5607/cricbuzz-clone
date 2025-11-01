@@ -413,14 +413,15 @@
   },
   "state": "complete",
   "status": "Delhi Capitals won by 4 runs",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 971
-  },
   "results": {
     "resultType": "win",
     "winByRuns": true,
     "winByInnings": false,
-    "winningMargin": 4
+    "winningMargin": 4,
+    "winningTeamId": 61
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 971
   }
 }

@@ -45,9 +45,9 @@ type Bookmark = {
 };
 
 const seriesId = 5945;
-const matchId = 66337;
+const matchId = 66169;
 const baseMatchPath = `${BASE_DATA_PATH}series/${seriesId}/matches/${matchId}/`;
-const BASE_URL = "http://localhost:8000/";
+const BASE_URL = "http://localhost:8000/api/v1/";
 
 const inningsIdMap: { [k: number]: CommentaryInningsType } = {
   0: "preview",
@@ -58,6 +58,7 @@ const inningsIdMap: { [k: number]: CommentaryInningsType } = {
 };
 
 const sleep = (ms: number) => {
+  console.log(`Sleeping for ${ms} ms`);
   return new Promise((resolve) => setTimeout(resolve, ms));
 };
 
@@ -605,12 +606,8 @@ const playMatch = async () => {
           tossAdded = true;
         }
 
-        console.log("Sleeping ");
         await sleep(timeout);
         console.log("Slept ");
-      }
-
-      if (i === 0) {
       }
 
       console.log(`Ended innings ${i}`);

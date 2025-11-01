@@ -4,7 +4,46 @@
     "data": {
       "teamId": 13,
       "commText": "<p><b>Gaikwad and Ravindra are at the crease. Gaikwad is on strike. Siraj will open the attack</b></p>",
-      "events": []
+      "events": [],
+      "scorecard": {
+        "teamId": 13,
+        "overs": 20,
+        "oversBowled": 0,
+        "score": 0,
+        "wickets": 0,
+        "extras": {
+          "nos": 0,
+          "wides": 0,
+          "legByes": 0,
+          "byes": 0,
+          "penalties": 0
+        },
+        "batsmanStriker": {
+          "id": 135,
+          "batRuns": 0,
+          "ballsPlayed": 0,
+          "dotBalls": 0,
+          "batFours": 0,
+          "batSixes": 0
+        },
+        "batsmanNonStriker": {
+          "id": 124,
+          "batRuns": 0,
+          "ballsPlayed": 0,
+          "dotBalls": 0,
+          "batFours": 0,
+          "batSixes": 0
+        },
+        "bowlerStriker": {
+          "id": 113,
+          "bowlOvers": 0,
+          "bowlMaidens": 0,
+          "bowlRuns": 0,
+          "bowlWickets": 0,
+          "bowlWides": 0,
+          "bowlNoBalls": 0
+        }
+      }
     }
   },
   {

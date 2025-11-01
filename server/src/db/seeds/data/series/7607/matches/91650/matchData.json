@@ -377,14 +377,15 @@
   },
   "state": "complete",
   "status": "Gujarat Titans won by 35 runs",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 58
-  },
   "results": {
     "resultType": "win",
     "winByRuns": true,
     "winByInnings": false,
-    "winningMargin": 35
+    "winningMargin": 35,
+    "winningTeamId": 971
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 58
   }
 }

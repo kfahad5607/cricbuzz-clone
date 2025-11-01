@@ -1,3 +1,4 @@
+import * as z from "zod";
 import {
   PLAYER_BAT_STYLES_VALUES,
   PLAYER_BOWL_STYLES_VALUES,
@@ -5,28 +6,50 @@ import {
 } from "../utils/constants";
 import type { Team } from "./teams";
 
-type PlayerRoleInfo = {
-  role: (typeof PLAYER_ROLES_VALUES)[number];
-  batStyle: (typeof PLAYER_BAT_STYLES_VALUES)[number];
-  bowlStyle: (typeof PLAYER_BOWL_STYLES_VALUES)[number];
-};
+const RoleInfo = z.object({
+  role: z.enum(PLAYER_ROLES_VALUES),
+  batStyle: z.enum(PLAYER_BAT_STYLES_VALUES),
+  bowlStyle: z.enum(PLAYER_BOWL_STYLES_VALUES).optional(),
+});
 
-type PlayerPersonalInfo = {
-  birthDate: Date;
-  birthPlace?: string | undefined;
-  height?: number | undefined;
-};
+const PersonalInfo = z.object({
+  birthDate: z.coerce.date(),
+  birthPlace: z.string().optional(),
+  height: z.coerce.number().optional(),
+});
 
-export type BasicMatchSquadPlayer = {
+export const NewPlayer = z.object({
+  name: z
+    .string({
+      required_error: "Name is required.",
+      invalid_type_error: "Expected string.",
+    })
+    .min(3)
+    .max(100),
+  shortName: z
+    .string({
+      required_error: "Short Name is required.",
+      invalid_type_error: "Expected string.",
+    })
+    .min(2)
+    .max(50),
+  team: z.coerce.number().positive(),
+  roleInfo: RoleInfo,
+  personalInfo: PersonalInfo,
+});
+
+export type NewPlayer = z.infer<typeof NewPlayer>;
+export type NewPlayerWithId = NewPlayer & { id: number };
+type PlayerRoleInfo = NewPlayer["roleInfo"];
+type PlayerPersonalInfo = NewPlayer["personalInfo"];
+
+export type BasicMatchSquadPlayer = Pick<NewPlayer, "name" | "shortName"> & {
   id: number;
-  name: string;
-  shortName: string;
 };
 
-export type Player = BasicMatchSquadPlayer & {
+export type Player = Omit<NewPlayer, "team"> & {
+  id: number;
   team: Pick<Team, "id" | "name">;
-  roleInfo: PlayerRoleInfo;
-  personalInfo: PlayerPersonalInfo;
 };
 
 export type MatchSquadPlayer = BasicMatchSquadPlayer & {

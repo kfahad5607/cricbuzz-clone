@@ -419,14 +419,15 @@
   },
   "state": "complete",
   "status": "Lucknow Super Giants won by 21 runs",
-  "tossResults": {
-    "decision": "bat",
-    "tossWinnerId": 966
-  },
   "results": {
     "resultType": "win",
     "winByRuns": true,
     "winByInnings": false,
-    "winningMargin": 21
+    "winningMargin": 21,
+    "winningTeamId": 966
+  },
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 966
   }
 }

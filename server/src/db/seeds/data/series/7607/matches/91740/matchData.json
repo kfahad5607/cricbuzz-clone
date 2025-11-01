@@ -389,14 +389,15 @@
   },
   "state": "complete",
   "status": "Kolkata Knight Riders won by 8 wkts",
-  "tossResults": {
-    "decision": "bat",
-    "tossWinnerId": 255
-  },
   "results": {
     "resultType": "win",
     "winByRuns": false,
     "winByInnings": false,
-    "winningMargin": 8
+    "winningMargin": 8,
+    "winningTeamId": 63
+  },
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 255
   }
 }

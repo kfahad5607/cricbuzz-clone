@@ -1,8 +1,9 @@
-import { useSearchParams } from "react-router-dom";
+import { Link, useSearchParams } from "react-router-dom";
 import { usePlayers } from "../../hooks/usePlayers";
 import { Player } from "../../types/players";
 import Table, { Column } from "../components/Table";
 import myDayjs from "../../services/dayjs";
+import { MdEdit, MdDelete } from "react-icons/md";
 
 const columns: Column<Player>[] = [
   {
@@ -48,6 +49,25 @@ const columns: Column<Player>[] = [
       );
     },
   },
+  {
+    title: "",
+    dataKey: "id",
+    render: (val) => {
+      return (
+        <div className="flex justify-center gap-x-1">
+          <Link
+            to={`/admin/players/edit/${val}`}
+            className="font-medium text-blue-500"
+          >
+            <MdEdit className="text-lg" />
+          </Link>
+          <Link to="#" className="font-medium text-gray-700">
+            <MdDelete className="text-lg" />
+          </Link>
+        </div>
+      );
+    },
+  },
 ];
 
 const AllPlayers = () => {
@@ -79,12 +99,13 @@ const AllPlayers = () => {
           </div>
         </div>
         <div>
-          <button
+          <Link
+            to="/admin/players/create"
             type="button"
             className="block rounded-md px-3 py-2 text-center text-sm font-medium text-white bg-blue-600 shadow-sm"
           >
             Add player
-          </button>
+          </Link>
         </div>
       </div>
 

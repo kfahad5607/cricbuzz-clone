@@ -3,13 +3,11 @@
   "innings": {},
   "state": "abandon",
   "status": "",
+  "results": {
+    "resultType": "abandon"
+  },
   "tossResults": {
     "decision": "bowl",
     "tossWinnerId": 63
-  },
-  "results": {
-    "resultType": "abandon",
-    "winByRuns": false,
-    "winByInnings": false
   }
 }

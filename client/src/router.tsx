@@ -22,6 +22,7 @@ import AllPlayers from "./admin/pages/AllPlayers";
 import AllTeams from "./admin/pages/AllTeams";
 import AllSeries from "./admin/pages/AllSeries";
 import VenueForm from "./admin/pages/VenueForm";
+import PlayerForm from "./admin/pages/PlayerForm";
 
 const router = createBrowserRouter([
   {
@@ -124,10 +125,20 @@ const router = createBrowserRouter([
         path: "teams",
         element: <AllTeams />,
       },
+      // players
       {
         path: "players",
         element: <AllPlayers />,
       },
+      {
+        path: "players/create",
+        element: <PlayerForm />,
+      },
+      {
+        path: "players/edit/:id",
+        element: <PlayerForm />,
+      },
+      // venues
       {
         path: "venues",
         element: <AllVenues />,

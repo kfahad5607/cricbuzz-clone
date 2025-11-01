@@ -414,14 +414,15 @@
   },
   "state": "complete",
   "status": "Royal Challengers Bengaluru won by 27 runs",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 58
-  },
   "results": {
     "resultType": "win",
     "winByRuns": true,
     "winByInnings": false,
-    "winningMargin": 27
+    "winningMargin": 27,
+    "winningTeamId": 59
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 58
   }
 }

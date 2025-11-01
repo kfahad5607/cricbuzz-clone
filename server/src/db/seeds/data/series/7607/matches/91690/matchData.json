@@ -3,10 +3,7 @@
   "innings": {},
   "state": "abandon",
   "status": "",
-  "tossResults": {},
   "results": {
-    "resultType": "abandon",
-    "winByRuns": false,
-    "winByInnings": false
+    "resultType": "abandon"
   }
 }

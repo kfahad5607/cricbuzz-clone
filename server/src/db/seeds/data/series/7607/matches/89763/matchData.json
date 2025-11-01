@@ -409,14 +409,15 @@
   },
   "state": "complete",
   "status": "Mumbai Indians won by 29 runs",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 61
-  },
   "results": {
     "resultType": "win",
     "winByRuns": true,
     "winByInnings": false,
-    "winningMargin": 29
+    "winningMargin": 29,
+    "winningTeamId": 62
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 61
   }
 }

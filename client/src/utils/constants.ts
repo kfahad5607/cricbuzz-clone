@@ -124,20 +124,20 @@ export const BALL_EVENTS_VALUES = [
   // "OTHER",
 ] as const;
 
-export const PLAYER_ROLES = {
+export const PLAYER_ROLES: Record<string, PlayerRoles> = {
   BATTER: "batter",
   BOWLER: "bowler",
   WK_BATTER: "wk-batter",
   BAT_ALLROUNDER: "bat-allrounder",
   BOWL_ALLROUNDER: "bowl-allrounder",
-};
+} as const;
 
-export const PLAYER_ROLES_LABEL = {
-  [PLAYER_ROLES.BATTER]: "Batter",
-  [PLAYER_ROLES.BOWLER]: "Bowler",
-  [PLAYER_ROLES.WK_BATTER]: "WK-Batter",
-  [PLAYER_ROLES.BAT_ALLROUNDER]: "Batting Allrounder",
-  [PLAYER_ROLES.BOWL_ALLROUNDER]: "Bowling Allrounder",
+export const PLAYER_ROLES_LABEL: Record<PlayerRoles, string> = {
+  batter: "Batter",
+  bowler: "Bowler",
+  "wk-batter": "WK-Batter",
+  "bat-allrounder": "Batting Allrounder",
+  "bowl-allrounder": "Bowling Allrounder",
 };
 
 export const PLAYER_ROLES_VALUES = [
@@ -156,7 +156,7 @@ export const PLAYER_ROLES_MAP = {
   "bowl-allrounder": "Bowling Allrounder",
 };
 
-export const PLAYER_BAT_STYLES = {
+export const PLAYER_BAT_STYLES: Record<string, PlayerBatStyles> = {
   RIGHT: "right-handed-bat",
   LEFT: "left-handed-bat",
 };
@@ -166,7 +166,7 @@ export const PLAYER_BAT_STYLES_VALUES = [
   "left-handed-bat",
 ] as const;
 
-export const PLAYER_BOWL_STYLES = {
+export const PLAYER_BOWL_STYLES: Record<string, PlayerBowlStyles> = {
   RIGHT_ARM_MEDIUM: "right-arm-medium",
   LEFT_ARM_MEDIUM: "left-arm-medium",
   RIGHT_ARM_FAST_MEDIUM: "right-arm-fast-medium",
@@ -200,7 +200,6 @@ export const PLAYER_BOWL_STYLES_VALUES = [
   "left-arm-legbreak",
 ] as const;
 
-
 export const TIMEZONES = [
   "Europe/London",
   "Asia/Kabul",
@@ -215,3 +214,8 @@ export const TIMEZONES = [
   "Asia/Colombo",
   "Africa/Harare",
 ] as const;
+
+// types
+export type PlayerRoles = (typeof PLAYER_ROLES_VALUES)[number];
+export type PlayerBatStyles = (typeof PLAYER_BAT_STYLES_VALUES)[number];
+export type PlayerBowlStyles = (typeof PLAYER_BOWL_STYLES_VALUES)[number];

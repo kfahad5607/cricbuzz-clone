@@ -372,14 +372,15 @@
   },
   "state": "complete",
   "status": "Sunrisers Hyderabad won by 25 runs",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 59
-  },
   "results": {
     "resultType": "win",
     "winByRuns": true,
     "winByInnings": false,
-    "winningMargin": 25
+    "winningMargin": 25,
+    "winningTeamId": 255
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 59
   }
 }

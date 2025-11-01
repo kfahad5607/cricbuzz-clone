@@ -330,14 +330,15 @@
   },
   "state": "complete",
   "status": "Lucknow Super Giants won by 8 wkts",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 966
-  },
   "results": {
     "resultType": "win",
     "winByRuns": false,
     "winByInnings": false,
-    "winningMargin": 8
+    "winningMargin": 8,
+    "winningTeamId": 966
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 966
   }
 }

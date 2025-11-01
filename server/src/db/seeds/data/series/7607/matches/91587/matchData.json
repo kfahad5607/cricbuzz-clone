@@ -353,14 +353,15 @@
   },
   "state": "complete",
   "status": "Sunrisers Hyderabad won by 1 run",
-  "tossResults": {
-    "decision": "bat",
-    "tossWinnerId": 255
-  },
   "results": {
     "resultType": "win",
     "winByRuns": true,
     "winByInnings": false,
-    "winningMargin": 1
+    "winningMargin": 1,
+    "winningTeamId": 255
+  },
+  "tossResults": {
+    "decision": "bat",
+    "tossWinnerId": 255
   }
 }

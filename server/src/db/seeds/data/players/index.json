@@ -3751,5 +3751,1033 @@
       "birthDate": "2000-05-25",
       "birthPlace": "Muktsar, Punjab"
     }
+  },
+  "7909": {
+    "id": "7909",
+    "name": "Mohammed Shami",
+    "shortName": "Mohammed Shami",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1990-09-03",
+      "birthPlace": "Amroha, Uttar Pradesh"
+    }
+  },
+  "6557": {
+    "id": "6557",
+    "name": "Ben Stokes",
+    "shortName": "Ben Stokes",
+    "team": "england",
+    "roleInfo": {
+      "role": "bat-allrounder",
+      "batStyle": "left-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1991-06-04",
+      "birthPlace": "Canterbury, New Zealand"
+    }
+  },
+  "6311": {
+    "id": "6311",
+    "name": "Ambati Rayudu",
+    "shortName": "Ambati Rayudu",
+    "team": "india",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-offbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1985-09-23",
+      "birthPlace": "Guntur, Andhra Pradesh"
+    }
+  },
+  "11804": {
+    "id": "11804",
+    "name": "Subhranshu Senapati",
+    "shortName": "Subhranshu Senapati",
+    "team": "india",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1996-12-30",
+      "birthPlace": "Keonijhar, Orissa"
+    }
+  },
+  "1472": {
+    "id": "1472",
+    "name": "Pradeep Sangwan",
+    "shortName": "Pradeep Sangwan",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "left-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1990-11-05",
+      "birthPlace": "Rasiwas, Delhi"
+    }
+  },
+  "11215": {
+    "id": "11215",
+    "name": "Odean Smith",
+    "shortName": "Odean Smith",
+    "team": "west indies",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1996-11-01",
+      "birthPlace": "St. Elizabeth, Jamaica"
+    }
+  },
+  "13476": {
+    "id": "13476",
+    "name": "Urvil Patel",
+    "shortName": "Urvil Patel",
+    "team": "india",
+    "roleInfo": {
+      "role": "wk-batter",
+      "batStyle": "right-handed-bat"
+    },
+    "personalInfo": {
+      "birthDate": "1998-10-17",
+      "birthPlace": "Mehsana, Baroda"
+    }
+  },
+  "8651": {
+    "id": "8651",
+    "name": "Dwaine Pretorius",
+    "shortName": "Dwaine Pretorius",
+    "team": "south africa",
+    "roleInfo": {
+      "role": "bowl-allrounder",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1989-03-29",
+      "birthPlace": "Randfontein"
+    }
+  },
+  "19253": {
+    "id": "19253",
+    "name": "Bhagath Varma",
+    "shortName": "Bhagath Varma",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowl-allrounder",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-offbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1998-09-21",
+      "birthPlace": "Hyderabad, Andhra Pradesh"
+    }
+  },
+  "7869": {
+    "id": "7869",
+    "name": "Bhanuka Rajapaksa",
+    "shortName": "Bhanuka Rajapaksa",
+    "team": "sri lanka",
+    "roleInfo": {
+      "role": "wk-batter",
+      "batStyle": "left-handed-bat",
+      "bowlStyle": "right-arm-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1991-10-24",
+      "birthPlace": "--"
+    }
+  },
+  "6319": {
+    "id": "6319",
+    "name": "Mandeep Singh",
+    "shortName": "Mandeep Singh",
+    "team": "india",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1991-12-18",
+      "birthPlace": "Jalandhar, Punjab"
+    }
+  },
+  "1057": {
+    "id": "1057",
+    "name": "Tim Southee",
+    "shortName": "Tim Southee",
+    "team": "new zealand",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1988-12-11",
+      "birthPlace": "Whangarei, Northland"
+    }
+  },
+  "9456": {
+    "id": "9456",
+    "name": "Matthew Short",
+    "shortName": "Matthew Short",
+    "team": "australia",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-offbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1995-11-08",
+      "birthPlace": "--"
+    }
+  },
+  "36524": {
+    "id": "36524",
+    "name": "Mohit Rathee",
+    "shortName": "Mohit Rathee",
+    "team": "india",
+    "roleInfo": {
+      "role": "bat-allrounder",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-legbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1999-01-13",
+      "birthPlace": "Rohak, Haryana"
+    }
+  },
+  "11675": {
+    "id": "11675",
+    "name": "N Jagadeesan",
+    "shortName": "N Jagadeesan",
+    "team": "india",
+    "roleInfo": {
+      "role": "wk-batter",
+      "batStyle": "right-handed-bat"
+    },
+    "personalInfo": {
+      "birthDate": "1995-12-24",
+      "birthPlace": "Coimbatore, Tamil Nadu"
+    }
+  },
+  "8589": {
+    "id": "8589",
+    "name": "David Wiese",
+    "shortName": "David Wiese",
+    "team": "namibia",
+    "roleInfo": {
+      "role": "bat-allrounder",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1985-05-18",
+      "birthPlace": "Roodepoort"
+    }
+  },
+  "22601": {
+    "id": "22601",
+    "name": "Raj Bawa",
+    "shortName": "Raj Bawa",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "left-handed-bat",
+      "bowlStyle": "right-arm-medium"
+    },
+    "personalInfo": {
+      "birthDate": "2002-11-12",
+      "birthPlace": "Nahan, Himachal Pradesh"
+    }
+  },
+  "8962": {
+    "id": "8962",
+    "name": "Baltej Singh",
+    "shortName": "Baltej Singh",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1990-11-04",
+      "birthPlace": "Ludhiana, Punjab"
+    }
+  },
+  "12643": {
+    "id": "12643",
+    "name": "Kulwant Khejroliya",
+    "shortName": "Kulwant Khejroliya",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "left-handed-bat",
+      "bowlStyle": "left-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1992-03-13",
+      "birthPlace": "Churu Ajitgarh Jhunjhunu District, Rajasthan"
+    }
+  },
+  "8383": {
+    "id": "8383",
+    "name": "Mark Wood",
+    "shortName": "Mark Wood",
+    "team": "england",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast"
+    },
+    "personalInfo": {
+      "birthDate": "1990-01-11",
+      "birthPlace": "Ashington, Northumberland"
+    }
+  },
+  "9429": {
+    "id": "9429",
+    "name": "Sarfaraz Khan",
+    "shortName": "Sarfaraz Khan",
+    "team": "india",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-legbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1997-10-22",
+      "birthPlace": "Mumbai"
+    }
+  },
+  "13162": {
+    "id": "13162",
+    "name": "Daniel Sams",
+    "shortName": "Daniel Sams",
+    "team": "australia",
+    "roleInfo": {
+      "role": "bowl-allrounder",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "left-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1992-10-27",
+      "birthPlace": "Milperra, New South Wales"
+    }
+  },
+  "19473": {
+    "id": "19473",
+    "name": "Aman Hakim Khan",
+    "shortName": "Aman Hakim Khan",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowl-allrounder",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1996-11-23",
+      "birthPlace": "--"
+    }
+  },
+  "18738": {
+    "id": "18738",
+    "name": "Karan Sharma",
+    "shortName": "Karan Sharma",
+    "team": "india",
+    "roleInfo": {
+      "role": "bat-allrounder",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-offbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1998-10-31",
+      "birthPlace": "Delhi"
+    }
+  },
+  "8358": {
+    "id": "8358",
+    "name": "Manan Vohra",
+    "shortName": "Manan Vohra",
+    "team": "india",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1993-07-18",
+      "birthPlace": "Chandigarh, Punjab"
+    }
+  },
+  "12092": {
+    "id": "12092",
+    "name": "Kamlesh Nagarkoti",
+    "shortName": "Kamlesh Nagarkoti",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast"
+    },
+    "personalInfo": {
+      "birthDate": "1999-12-28",
+      "birthPlace": "Barmer, Rajasthan"
+    }
+  },
+  "15516": {
+    "id": "15516",
+    "name": "Ripal Patel",
+    "shortName": "Ripal Patel",
+    "team": "india",
+    "roleInfo": {
+      "role": "bat-allrounder",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1995-09-28",
+      "birthPlace": "Nadiad"
+    }
+  },
+  "12201": {
+    "id": "12201",
+    "name": "Harry Brook",
+    "shortName": "Harry Brook",
+    "team": "england",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1999-02-22",
+      "birthPlace": "Keighley, Yorkshire"
+    }
+  },
+  "1742": {
+    "id": "1742",
+    "name": "Adil Rashid",
+    "shortName": "Adil Rashid",
+    "team": "england",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-legbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1988-02-17",
+      "birthPlace": "Bradford, Yorkshire"
+    }
+  },
+  "8313": {
+    "id": "8313",
+    "name": "Jason Holder",
+    "shortName": "Jason Holder",
+    "team": "west indies",
+    "roleInfo": {
+      "role": "bowl-allrounder",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1991-11-05",
+      "birthPlace": "Barbados"
+    }
+  },
+  "13483": {
+    "id": "13483",
+    "name": "KM Asif",
+    "shortName": "KM Asif",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1993-07-24",
+      "birthPlace": "Edavanna, Malappuram"
+    }
+  },
+  "19302": {
+    "id": "19302",
+    "name": "Vivrant Sharma",
+    "shortName": "Vivrant Sharma",
+    "team": "india",
+    "roleInfo": {
+      "role": "bat-allrounder",
+      "batStyle": "left-handed-bat",
+      "bowlStyle": "right-arm-legbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1999-10-30",
+      "birthPlace": "Jammu, India"
+    }
+  },
+  "8796": {
+    "id": "8796",
+    "name": "Murugan Ashwin",
+    "shortName": "Murugan Ashwin",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-legbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1990-09-08",
+      "birthPlace": "Chennai, Tamil Nadu"
+    }
+  },
+  "8435": {
+    "id": "8435",
+    "name": "Akeal Hosein",
+    "shortName": "Akeal Hosein",
+    "team": "west indies",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "left-handed-bat",
+      "bowlStyle": "left-arm-orthodox"
+    },
+    "personalInfo": {
+      "birthDate": "1993-04-25",
+      "birthPlace": "Port-of-Spain"
+    }
+  },
+  "10839": {
+    "id": "10839",
+    "name": "Samarth Vyas",
+    "shortName": "Samarth Vyas",
+    "team": "india",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-legbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1995-11-28",
+      "birthPlace": "Rajkot, Saurashtra"
+    }
+  },
+  "11221": {
+    "id": "11221",
+    "name": "Obed McCoy",
+    "shortName": "Obed McCoy",
+    "team": "west indies",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "left-handed-bat",
+      "bowlStyle": "left-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1997-01-04",
+      "birthPlace": "--"
+    }
+  },
+  "22466": {
+    "id": "22466",
+    "name": "Abdul Basith",
+    "shortName": "Abdul Basith",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowl-allrounder",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-offbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1998-10-09",
+      "birthPlace": "Ernakulam, Kerala"
+    }
+  },
+  "13537": {
+    "id": "13537",
+    "name": "Kuldip Yadav",
+    "shortName": "Kuldip Yadav",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "left-handed-bat",
+      "bowlStyle": "left-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1996-10-15",
+      "birthPlace": "Delhi"
+    }
+  },
+  "10353": {
+    "id": "10353",
+    "name": "KC Cariappa",
+    "shortName": "KC Cariappa",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-legbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1994-04-13",
+      "birthPlace": "Bangalore, Karnataka"
+    }
+  },
+  "10266": {
+    "id": "10266",
+    "name": "Akash Vasisht",
+    "shortName": "Akash Vasisht",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "left-handed-bat",
+      "bowlStyle": "left-arm-orthodox"
+    },
+    "personalInfo": {
+      "birthDate": "1994-12-17",
+      "birthPlace": "Kangra, Himachal Pradesh"
+    }
+  },
+  "8642": {
+    "id": "8642",
+    "name": "Adam Zampa",
+    "shortName": "Adam Zampa",
+    "team": "australia",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-legbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1992-03-31",
+      "birthPlace": "Shellharbour, New South Wales"
+    }
+  },
+  "8019": {
+    "id": "8019",
+    "name": "Joe Root",
+    "shortName": "Joe Root",
+    "team": "england",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-offbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1990-12-30",
+      "birthPlace": "Sheffield, Yorkshire"
+    }
+  },
+  "9551": {
+    "id": "9551",
+    "name": "Michael Bracewell",
+    "shortName": "Michael Bracewell",
+    "team": "new zealand",
+    "roleInfo": {
+      "role": "bat-allrounder",
+      "batStyle": "left-handed-bat",
+      "bowlStyle": "right-arm-offbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1991-02-14",
+      "birthPlace": "Masterton, Wairarapa"
+    }
+  },
+  "14595": {
+    "id": "14595",
+    "name": "Hrithik Shokeen",
+    "shortName": "Hrithik Shokeen",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowl-allrounder",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-offbreak"
+    },
+    "personalInfo": {
+      "birthDate": "2000-08-14",
+      "birthPlace": "Delhi"
+    }
+  },
+  "11540": {
+    "id": "11540",
+    "name": "Jofra Archer",
+    "shortName": "Jofra Archer",
+    "team": "england",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast"
+    },
+    "personalInfo": {
+      "birthDate": "1995-04-01",
+      "birthPlace": "Bridgetown, Barbados"
+    }
+  },
+  "11641": {
+    "id": "11641",
+    "name": "Sonu Yadav",
+    "shortName": "Sonu Yadav",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1999-11-11",
+      "birthPlace": "--"
+    }
+  },
+  "7773": {
+    "id": "7773",
+    "name": "Jason Behrendorff",
+    "shortName": "Jason Behrendorff",
+    "team": "australia",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "left-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1990-04-20",
+      "birthPlace": "Camden, New South Wales"
+    }
+  },
+  "1828": {
+    "id": "1828",
+    "name": "Siddarth Kaul",
+    "shortName": "Siddarth Kaul",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1990-05-19",
+      "birthPlace": "Pathankot, Punjab"
+    }
+  },
+  "36475": {
+    "id": "36475",
+    "name": "Avinash Singh",
+    "shortName": "Avinash Singh",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1998-05-07",
+      "birthPlace": "--"
+    }
+  },
+  "11172": {
+    "id": "11172",
+    "name": "Finn Allen",
+    "shortName": "Finn Allen",
+    "team": "new zealand",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "right-handed-bat"
+    },
+    "personalInfo": {
+      "birthDate": "1999-04-22",
+      "birthPlace": "Auckland"
+    }
+  },
+  "18523": {
+    "id": "18523",
+    "name": "Duan Jansen",
+    "shortName": "Duan Jansen",
+    "team": "south africa",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "left-arm-fast"
+    },
+    "personalInfo": {
+      "birthDate": "2000-05-01",
+      "birthPlace": "--"
+    }
+  },
+  "36496": {
+    "id": "36496",
+    "name": "Raghav Goyal",
+    "shortName": "Raghav Goyal",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "left-handed-bat",
+      "bowlStyle": "left-arm-wrist-spin"
+    },
+    "personalInfo": {
+      "birthDate": "2001-01-26",
+      "birthPlace": "--"
+    }
+  },
+  "9603": {
+    "id": "9603",
+    "name": "Lungi Ngidi",
+    "shortName": "Lungi Ngidi",
+    "team": "south africa",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast"
+    },
+    "personalInfo": {
+      "birthDate": "1996-03-29",
+      "birthPlace": "Durban, Natal"
+    }
+  },
+  "10172": {
+    "id": "10172",
+    "name": "Sisanda Magala",
+    "shortName": "Sisanda Magala",
+    "team": "south africa",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1991-01-07",
+      "birthPlace": "Port Elizabeth, Cape Province"
+    }
+  },
+  "12226": {
+    "id": "12226",
+    "name": "Riley Meredith",
+    "shortName": "Riley Meredith",
+    "team": "australia",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1996-06-21",
+      "birthPlace": "Hobart, Tasmania"
+    }
+  },
+  "6534": {
+    "id": "6534",
+    "name": "Jason Roy",
+    "shortName": "Jason Roy",
+    "team": "england",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "right-handed-bat"
+    },
+    "personalInfo": {
+      "birthDate": "1990-07-21",
+      "birthPlace": "Durban, South Africa"
+    }
+  },
+  "1692": {
+    "id": "1692",
+    "name": "Wayne Parnell",
+    "shortName": "Wayne Parnell",
+    "team": "south africa",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "left-handed-bat",
+      "bowlStyle": "left-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1989-07-30",
+      "birthPlace": "Port Elizabeth, Cape Province"
+    }
+  },
+  "8422": {
+    "id": "8422",
+    "name": "Dasun Shanaka",
+    "shortName": "Dasun Shanaka",
+    "team": "sri lanka",
+    "roleInfo": {
+      "role": "bat-allrounder",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1991-09-09",
+      "birthPlace": "Negombo"
+    }
+  },
+  "8540": {
+    "id": "8540",
+    "name": "Litton Das",
+    "shortName": "Litton Das",
+    "team": "bangladesh",
+    "roleInfo": {
+      "role": "wk-batter",
+      "batStyle": "right-handed-bat"
+    },
+    "personalInfo": {
+      "birthDate": "1994-10-13",
+      "birthPlace": "Dinajpur"
+    }
+  },
+  "10926": {
+    "id": "10926",
+    "name": "Wanindu Hasaranga",
+    "shortName": "Wanindu Hasaranga",
+    "team": "sri lanka",
+    "roleInfo": {
+      "role": "bowl-allrounder",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-legbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1997-07-29",
+      "birthPlace": "Galle"
+    }
+  },
+  "38132": {
+    "id": "38132",
+    "name": "Aarya Desai",
+    "shortName": "Aarya Desai",
+    "team": "india",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "left-handed-bat",
+      "bowlStyle": "right-arm-offbreak"
+    },
+    "personalInfo": {
+      "birthDate": "2003-04-03",
+      "birthPlace": "Surat, Gujarat"
+    }
+  },
+  "12089": {
+    "id": "12089",
+    "name": "Priyam Garg",
+    "shortName": "Priyam Garg",
+    "team": "india",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-medium"
+    },
+    "personalInfo": {
+      "birthDate": "2000-11-30",
+      "birthPlace": "Meerut, Uttar Pradesh"
+    }
+  },
+  "14383": {
+    "id": "14383",
+    "name": "Arpit Guleria",
+    "shortName": "Arpit Guleria",
+    "team": "india",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1997-04-26",
+      "birthPlace": "Kangra, Himachal Pradesh"
+    }
+  },
+  "6258": {
+    "id": "6258",
+    "name": "Josh Hazlewood",
+    "shortName": "Josh Hazlewood",
+    "team": "australia",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "left-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1991-01-08",
+      "birthPlace": "Tamworth, New South Wales"
+    }
+  },
+  "1851": {
+    "id": "1851",
+    "name": "Kedar Jadhav",
+    "shortName": "Kedar Jadhav",
+    "team": "india",
+    "roleInfo": {
+      "role": "bat-allrounder",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-offbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1985-03-26",
+      "birthPlace": "Pune, Maharashtra"
+    }
+  },
+  "6532": {
+    "id": "6532",
+    "name": "Chris Jordan",
+    "shortName": "Chris Jordan",
+    "team": "england",
+    "roleInfo": {
+      "role": "bowler",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-fast-medium"
+    },
+    "personalInfo": {
+      "birthDate": "1988-10-04",
+      "birthPlace": "Barbados"
+    }
+  },
+  "8257": {
+    "id": "8257",
+    "name": "Karun Nair",
+    "shortName": "Karun Nair",
+    "team": "india",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "right-handed-bat",
+      "bowlStyle": "right-arm-offbreak"
+    },
+    "personalInfo": {
+      "birthDate": "1991-12-06",
+      "birthPlace": "Jodhpur"
+    }
+  },
+  "8101": {
+    "id": "8101",
+    "name": "Johnson Charles",
+    "shortName": "Johnson Charles",
+    "team": "west indies",
+    "roleInfo": {
+      "role": "wk-batter",
+      "batStyle": "right-handed-bat"
+    },
+    "personalInfo": {
+      "birthDate": "1989-01-14",
+      "birthPlace": "St Lucia"
+    }
+  },
+  "14922": {
+    "id": "14922",
+    "name": "Suryansh Shedge",
+    "shortName": "Suryansh Shedge",
+    "team": "india",
+    "roleInfo": {
+      "role": "batter",
+      "batStyle": "right-handed-bat"
+    },
+    "personalInfo": {
+      "birthDate": "2003-01-29",
+      "birthPlace": "--"
+    }
   }
 }

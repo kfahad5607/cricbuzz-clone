@@ -353,14 +353,15 @@
   },
   "state": "complete",
   "status": "Rajasthan Royals won by 12 runs",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 61
-  },
   "results": {
     "resultType": "win",
     "winByRuns": true,
     "winByInnings": false,
-    "winningMargin": 12
+    "winningMargin": 12,
+    "winningTeamId": 64
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 61
   }
 }

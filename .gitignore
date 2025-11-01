@@ -30,6 +30,7 @@ playground/
 # server
 server/src/db/**/migrations/
 server/src/db/seeds/**/payload-bookmark.json
+server/src/db/seeds/data/
 
 # generate-data
 venv/

@@ -507,14 +507,15 @@
   },
   "state": "complete",
   "status": "Kolkata Knight Riders won by 24 runs",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 62
-  },
   "results": {
     "resultType": "win",
     "winByRuns": true,
     "winByInnings": false,
-    "winningMargin": 24
+    "winningMargin": 24,
+    "winningTeamId": 63
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 62
   }
 }

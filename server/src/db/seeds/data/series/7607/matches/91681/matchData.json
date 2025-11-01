@@ -448,14 +448,15 @@
   },
   "state": "complete",
   "status": "Delhi Capitals won by 19 runs",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 966
-  },
   "results": {
     "resultType": "win",
     "winByRuns": true,
     "winByInnings": false,
-    "winningMargin": 19
+    "winningMargin": 19,
+    "winningTeamId": 61
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 966
   }
 }

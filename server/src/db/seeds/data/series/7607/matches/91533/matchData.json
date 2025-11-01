@@ -413,14 +413,15 @@
   },
   "state": "complete",
   "status": "Delhi Capitals won by 10 runs",
-  "tossResults": {
-    "decision": "bowl",
-    "tossWinnerId": 62
-  },
   "results": {
     "resultType": "win",
     "winByRuns": true,
     "winByInnings": false,
-    "winningMargin": 10
+    "winningMargin": 10,
+    "winningTeamId": 61
+  },
+  "tossResults": {
+    "decision": "bowl",
+    "tossWinnerId": 62
   }
 }

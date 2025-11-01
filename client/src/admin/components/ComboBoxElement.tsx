@@ -55,15 +55,18 @@ const ComboBoxElement = forwardRef(
     const inputRef = useRef<HTMLInputElement | null>(null);
 
     useEffect(() => {
+      console.log("HERE 1 ", uniqueId);
+
       document.addEventListener("mousedown", handleClickOutside);
 
       return () => {
+        console.log("HERE 2 ", uniqueId);
         document.removeEventListener("mousedown", handleClickOutside);
       };
     }, []);
 
     const handleClickOutside = (e: MouseEvent) => {
-      e.stopImmediatePropagation();
+      e.stopPropagation();
       if (compRef.current && !compRef.current.contains(e.target as Node)) {
         closeOptions();
       }
@@ -116,8 +119,7 @@ const ComboBoxElement = forwardRef(
             id={uniqueId}
             type="button"
             className="w-full p-2 pl-3 pr-10 text-left bg-gray-50 border border-gray-300 rounded-md text-slate-900 focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
-            autoComplete="off"
-            ref={ref}
+            // ref={ref}
             {...props}
             value={selectedOption?.label}
             onClick={() => {

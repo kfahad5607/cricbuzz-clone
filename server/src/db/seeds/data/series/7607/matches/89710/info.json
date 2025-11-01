@@ -18,7 +18,8 @@
     "resultType": "win",
     "winByRuns": true,
     "winByInnings": false,
-    "winningMargin": 21
+    "winningMargin": 21,
+    "winningTeamId": 966
   },
   "inningsScoreList": [
     {

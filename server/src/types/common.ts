@@ -4,7 +4,9 @@ import { CommentaryInningsType } from "./commentary";
 import { MatchFormat, ScheduleType } from "./matches";
 
 const ZString = z.string();
+const ApiResourceType = z.enum(["teams"]);
 type ZString = z.infer<typeof ZString>;
+type ApiResourceType = z.infer<typeof ApiResourceType>;
 
 const DatabaseIntIdParam = z
   .string({
@@ -51,6 +53,7 @@ const VALIDATION_SCHEMAS = {
   MatchFormat,
   ScheduleType,
   ZString,
+  ApiResourceType,
 } as const;
 
 type VALIDATION_SCHEMAS = {
@@ -62,6 +65,7 @@ type VALIDATION_SCHEMAS = {
   MatchFormat: MatchFormat;
   ScheduleType: ScheduleType;
   ZString: ZString;
+  ApiResourceType: ApiResourceType;
 };
 
 type ValidationSchemas = typeof VALIDATION_SCHEMAS;
